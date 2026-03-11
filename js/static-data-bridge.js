@@ -477,6 +477,26 @@
     return { ...payload, output: filteredRows.length ? filteredRows : allRows };
   }
 
+  function fixBrokenLabels() {
+    const titles = document.querySelectorAll(".section-title");
+    titles.forEach((title) => {
+      const text = title.textContent || "";
+      if (text.includes("寃쎌젣") || text.includes("罹섎┛")) {
+        title.textContent = "🗓 경제 캘린더";
+      }
+    });
+
+    document.querySelectorAll(".text-xs.text-muted-foreground").forEach((node) => {
+      const text = node.textContent || "";
+      if (text.includes("異쒖쿂: TradingView")) {
+        node.textContent = "출처: TradingView";
+      }
+      if (text.includes("罹섎┛") && text.includes("濡쒕뵫")) {
+        node.textContent = "캘린더 로딩 대기 중...";
+      }
+    });
+  }
+
   window.fetch = async (input, init) => {
     const url = toUrl(input);
 
@@ -546,13 +566,16 @@
     }
 
     queueMarketSync();
+    fixBrokenLabels();
 
     const observer = new MutationObserver(() => {
       queueMarketSync();
+      fixBrokenLabels();
     });
 
     observer.observe(root, { childList: true, subtree: true });
     window.setTimeout(queueMarketSync, 1200);
+    window.setTimeout(fixBrokenLabels, 1200);
   }
 
   if (document.readyState === "loading") {
