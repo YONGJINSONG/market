@@ -115,6 +115,120 @@
     return yahooChartsPromise;
   }
 
+  function sliceObjectArrays(source, indices) {
+    if (!source || typeof source !== "object") {
+      return source;
+    }
+
+    const next = Array.isArray(source) ? [] : {};
+    Object.entries(source).forEach(([key, value]) => {
+      if (Array.isArray(value)) {
+        next[key] = indices.map((index) => value[index] ?? null);
+      } else {
+        next[key] = value;
+      }
+    });
+    return next;
+  }
+
+  function getRangeDays(range) {
+    switch (range) {
+      case "5d":
+        return 5;
+      case "1mo":
+        return 31;
+      case "3mo":
+        return 93;
+      case "6mo":
+        return 186;
+      case "1y":
+        return 366;
+      case "2y":
+        return 732;
+      default:
+        return null;
+    }
+  }
+
+  function getWeekKey(unixSeconds) {
+    const date = new Date(unixSeconds * 1000);
+    const year = date.getUTCFullYear();
+    const start = Date.UTC(year, 0, 1);
+    const dayOfYear = Math.floor((date.getTime() - start) / (1000 * 60 * 60 * 24));
+    const week = Math.floor(dayOfYear / 7);
+    return `${year}-${week}`;
+  }
+
+  function buildYahooChartPayload(basePayload, url) {
+    const chart = basePayload?.chart;
+    const result = chart?.result?.[0];
+    if (!result || !Array.isArray(result.timestamp)) {
+      return basePayload;
+    }
+
+    const timestamps = result.timestamp;
+    if (!timestamps.length) {
+      return basePayload;
+    }
+
+    const range = url.searchParams.get("range") || result.meta?.range || "1y";
+    const interval = url.searchParams.get("interval") || result.meta?.dataGranularity || "1d";
+    const rangeDays = getRangeDays(range);
+    const latestTimestamp = timestamps[timestamps.length - 1];
+
+    let indices = timestamps.map((_, index) => index);
+    if (rangeDays != null) {
+      const cutoff = latestTimestamp - rangeDays * 24 * 60 * 60;
+      indices = indices.filter((index) => timestamps[index] >= cutoff);
+    }
+
+    if (interval === "1wk" && indices.length > 1) {
+      const grouped = new Map();
+      indices.forEach((index) => {
+        grouped.set(getWeekKey(timestamps[index]), index);
+      });
+      indices = Array.from(grouped.values());
+    }
+
+    if (!indices.length) {
+      return basePayload;
+    }
+
+    const selectedTimestamps = indices.map((index) => timestamps[index]);
+    const quote = ((result.indicators || {}).quote || [])[0] || {};
+    const closeValues = Array.isArray(quote.close) ? indices.map((index) => quote.close[index] ?? null) : [];
+    const lastClose = [...closeValues].reverse().find((value) => typeof value === "number") ?? result.meta?.regularMarketPrice ?? null;
+    const previousClose =
+      closeValues.length > 1
+        ? [...closeValues.slice(0, -1)].reverse().find((value) => typeof value === "number") ?? result.meta?.previousClose ?? null
+        : result.meta?.previousClose ?? null;
+
+    const nextResult = {
+      ...result,
+      meta: {
+        ...result.meta,
+        range,
+        dataGranularity: interval,
+        regularMarketPrice: lastClose,
+        previousClose,
+        chartPreviousClose: previousClose,
+      },
+      timestamp: selectedTimestamps,
+      indicators: {
+        ...result.indicators,
+        quote: ((result.indicators || {}).quote || []).map((entry) => sliceObjectArrays(entry, indices)),
+        adjclose: ((result.indicators || {}).adjclose || []).map((entry) => sliceObjectArrays(entry, indices)),
+      },
+    };
+
+    return {
+      chart: {
+        ...chart,
+        result: [nextResult],
+      },
+    };
+  }
+
   async function loadRrgPayload() {
     if (!rrgPromise) {
       rrgPromise = loadJson("/data/rrg.json");
@@ -362,7 +476,7 @@
       const charts = await loadYahooCharts();
       const payload = charts[symbol];
       if (payload) {
-        return jsonResponse(payload);
+        return jsonResponse(buildYahooChartPayload(payload, url));
       }
       return jsonResponse(
         { chart: { result: null, error: { code: "Not Found", description: `No static chart for ${symbol}` } } },
