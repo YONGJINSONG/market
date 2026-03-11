@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-11T12:18:11Z",
+  "generated_at": "2026-03-11T13:15:52Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,28 +7,36 @@
   },
   "items": [
     {
-      "title": "Futures Waver With Oil Reserves Plan Due; Oracle Soars - Investor's Business Daily",
+      "title": "Dow Jones Futures Fall, Oracle Jumps On Earnings; Oil Swings With Reserves Release Plan Due - Investor's Business Daily",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQT3h5dVlOSEllekhoTWEteFI2UVlWYVE2TzdhMGRUUmYxN0UxYW9TOW9PTm92alFtMWt1VThmWTA5b0FBYkZhVUlBamhVTVpnUTFVcHA4WDF5X3hSUkdCdlNobDV4ZWZCd3g3c0pOaUt2NU1EeWYxMW9wYWdfNUdkS2EtVzFEcUZCczJMdXZ2ZmpfamJnX19TZUpEM255YTNGTlFwVEpDOWlpZWdpSF92bDNWaDJOT0dSV2o0?oc=5",
       "source": "Investor's Business Daily",
       "published_at": "Wed, 11 Mar 2026 12:01:35 GMT",
-      "summary": "Futures Waver With Oil Reserves Plan Due; Oracle Soars Investor's Business Daily",
+      "summary": "Dow Jones Futures Fall, Oracle Jumps On Earnings; Oil Swings With Reserves Release Plan Due Investor's Business Daily",
       "guid": "CBMiuwFBVV95cUxQT3h5dVlOSEllekhoTWEteFI2UVlWYVE2TzdhMGRUUmYxN0UxYW9TOW9PTm92alFtMWt1VThmWTA5b0FBYkZhVUlBamhVTVpnUTFVcHA4WDF5X3hSUkdCdlNobDV4ZWZCd3g3c0pOaUt2NU1EeWYxMW9wYWdfNUdkS2EtVzFEcUZCczJMdXZ2ZmpfamJnX19TZUpEM255YTNGTlFwVEpDOWlpZWdpSF92bDNWaDJOT0dSV2o0"
     },
     {
-      "title": "Stocks Advance With Oil Below $90, Dollar Weakens: Markets Wrap - Bloomberg",
+      "title": "8 Key Items Shaping the Stock Market Wednesday: Diesel Prices, CPI, Oracle - TheStreet Pro",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWEl4MXdpOHVwVE5IQXM1dnFiNnRUeFFOMzAxakdGLTB1VGQ2SDJHaG1KTGxKNHZfTDRYU1pyYXNJVG8yWEJXTjZOa0RnaVB0ejZzYm1JME16aVRFMWNyVGxnOVhlblE4ZUx2UHVDNmkwbkprNnVib3hDUnJfWklkTnFTb2hvV2ZYOGJCVmJQUURBc3gySF9wYV9EODNMX0l5a0FBTVU1R3M0U1E?oc=5",
+      "source": "TheStreet Pro",
+      "published_at": "Wed, 11 Mar 2026 12:11:25 GMT",
+      "summary": "8 Key Items Shaping the Stock Market Wednesday: Diesel Prices, CPI, Oracle TheStreet Pro",
+      "guid": "CBMiqwFBVV95cUxNWEl4MXdpOHVwVE5IQXM1dnFiNnRUeFFOMzAxakdGLTB1VGQ2SDJHaG1KTGxKNHZfTDRYU1pyYXNJVG8yWEJXTjZOa0RnaVB0ejZzYm1JME16aVRFMWNyVGxnOVhlblE4ZUx2UHVDNmkwbkprNnVib3hDUnJfWklkTnFTb2hvV2ZYOGJCVmJQUURBc3gySF9wYV9EODNMX0l5a0FBTVU1R3M0U1E"
+    },
+    {
+      "title": "US Stock Futures Fluctuate as Brent Hits $90 Again: Markets Wrap - Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU1RKSWV6R3hnTzJCZHE3c3lfc3F5MWhYSnJxLVE3SkFybDVSdkhfTWtRSUMxeFB5Zk9LVjlEMUIzaXlnSEVnU0x3bXVlNzU1emVITlRUOVphQkxhbTJkTEE2a0lZRlJxTG5IbE1OTVFqbEFLOTNmejNNa1g1ekpzaUtYVjRCcFF4V0x3aWZ5TFpxZVdzV0dpSktrWnJhUmtqM2d0eG44OW84YnU5dWp4Qw?oc=5",
       "source": "Bloomberg",
-      "published_at": "Wed, 11 Mar 2026 10:50:43 GMT",
-      "summary": "Stocks Advance With Oil Below $90, Dollar Weakens: Markets Wrap Bloomberg",
+      "published_at": "Wed, 11 Mar 2026 11:47:25 GMT",
+      "summary": "US Stock Futures Fluctuate as Brent Hits $90 Again: Markets Wrap Bloomberg",
       "guid": "CBMisAFBVV95cUxOU1RKSWV6R3hnTzJCZHE3c3lfc3F5MWhYSnJxLVE3SkFybDVSdkhfTWtRSUMxeFB5Zk9LVjlEMUIzaXlnSEVnU0x3bXVlNzU1emVITlRUOVphQkxhbTJkTEE2a0lZRlJxTG5IbE1OTVFqbEFLOTNmejNNa1g1ekpzaUtYVjRCcFF4V0x3aWZ5TFpxZVdzV0dpSktrWnJhUmtqM2d0eG44OW84YnU5dWp4Qw"
     },
     {
       "title": "The stock market is still priced for ‘absolute chaos,’ but the worst-case scenario will be avoided, Nomura strategist predicts - MarketWatch",
-      "url": "https://news.google.com/rss/articles/CBMi_gNBVV95cUxObnp2MzVmMjVIaXJsWnJWM09FZjFRalpjWS1DcllYNXFaakNaWTFXeUNXR0NJOWJFbWlZdnpFY3F5Tm5xdnlUNWdsLS1NMnhneGczZXJ4X2ZZdVBHQVhBY2ZJUTQ4YTMwdk5YaExjX3VLLWJIdS0wLUFaeWxBODRTNV8xMjhadEZOd2pOaDk4d2plZ2t6ZmJCVURZcmlkLWVnY3laTUNfMlZ4MHdZcDRWRG1hSkR6SkVtNXo4NHd2eTB5TGlsXzVkSnNUTU43SXl6Z2lXOWJQZjF2ZFBaalh2bGl3c1lWVC1uT21yOXBMV24tQkktTEdzb0tLRFRzLTF0S01iNGNKNksyb0lhYThHMlVKT2RuUkJoTG1FREtqNFJTemR0d2pFX1ROM0RnWnF4RlpOUk05ZUlUWFlQUGl4amJQblctVFQxZ0JMWHZyYmQxNjFwN0ZqX2Y4WVdTODBCa3VtalVrenluXzBGdGZheDZaNnZSUFh5UFJab25uVy1Bck5NaXk4R3ZHT0ZzQjhPZDJOTlRsTEpzTUlfbmRtMEhmSW00bjZOMjFSQ0V4NjV1VTJvazR5T2NBMnkzWHlVcHcydmU5WlJieEdpeW80QWoxRnJoN0ZfUW1vSFpfR09OTUFSODI3b1V0dm92QUd2Si15Tkt0NnNfNjVaVkE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi_gNBVV95cUxNTmpqa1R0V190Q2JIYVpuNU5TaF9pRU9QTzFUQTZKX1ZKRkF4dWNWNHJCUkFLSXR5VHVZdElFb255QnF1cXBCQW5CR1hyM1djRjAxZjJ2Y2w5YWd5QmVHSmhlODZSLVl1WHN3YVh4NFlTLUwzZWhSdlJyNnB5TEp6SmNFODdrakc4WXRrWk9CanBQbnkyaWJBU0ZRejJNanAyckxERHp6NWtJaWpZcXZNQjBSbXo1SDBOQVBKcXlqUHVicEtmMHJVSWlUT3p4bFdIQXpfRFBQbEpnNDdpNzRONzhXOU9CaGZTWklrTU9hTWh4Nzg2ZmJGT09yRGhvbjZsYkZYaEpRWGJIVmJoTm0wWHdjVlE4UFIxU1dTdC00dkhwclpJV0xuM2E5MkhEXzJZX0x2MjhqOFVaNnFLQi1MUWp1cnlJSER4UnJOb2VEMkU5MGJlYVZlZjVsZURiTndBUGFtLThFSl9xdW5jLU9CeDNjN21LNENxdFZTWkI5SFgwTWVjSE8ta3lDRWh5WW1jeV9lcUtfX3h1Zk93dWtZS3FUSElMMHZNbXl2aHFPRW5XUUFjeFAzeUMxMEhwSHJuQXdVUWVXc0N4TTh3VlM1VWZ0VkM0XzZTbUVSOF9fVDIxbTFGdUoteExjRlAydzZpYi0zUGU1SDRNVGZ5UWc?oc=5",
       "source": "MarketWatch",
       "published_at": "Mon, 09 Mar 2026 15:48:00 GMT",
       "summary": "The stock market is still priced for ‘absolute chaos,’ but the worst-case scenario will be avoided, Nomura strategist predicts MarketWatch",
-      "guid": "CBMi_gNBVV95cUxObnp2MzVmMjVIaXJsWnJWM09FZjFRalpjWS1DcllYNXFaakNaWTFXeUNXR0NJOWJFbWlZdnpFY3F5Tm5xdnlUNWdsLS1NMnhneGczZXJ4X2ZZdVBHQVhBY2ZJUTQ4YTMwdk5YaExjX3VLLWJIdS0wLUFaeWxBODRTNV8xMjhadEZOd2pOaDk4d2plZ2t6ZmJCVURZcmlkLWVnY3laTUNfMlZ4MHdZcDRWRG1hSkR6SkVtNXo4NHd2eTB5TGlsXzVkSnNUTU43SXl6Z2lXOWJQZjF2ZFBaalh2bGl3c1lWVC1uT21yOXBMV24tQkktTEdzb0tLRFRzLTF0S01iNGNKNksyb0lhYThHMlVKT2RuUkJoTG1FREtqNFJTemR0d2pFX1ROM0RnWnF4RlpOUk05ZUlUWFlQUGl4amJQblctVFQxZ0JMWHZyYmQxNjFwN0ZqX2Y4WVdTODBCa3VtalVrenluXzBGdGZheDZaNnZSUFh5UFJab25uVy1Bck5NaXk4R3ZHT0ZzQjhPZDJOTlRsTEpzTUlfbmRtMEhmSW00bjZOMjFSQ0V4NjV1VTJvazR5T2NBMnkzWHlVcHcydmU5WlJieEdpeW80QWoxRnJoN0ZfUW1vSFpfR09OTUFSODI3b1V0dm92QUd2Si15Tkt0NnNfNjVaVkE"
+      "guid": "CBMi_gNBVV95cUxNTmpqa1R0V190Q2JIYVpuNU5TaF9pRU9QTzFUQTZKX1ZKRkF4dWNWNHJCUkFLSXR5VHVZdElFb255QnF1cXBCQW5CR1hyM1djRjAxZjJ2Y2w5YWd5QmVHSmhlODZSLVl1WHN3YVh4NFlTLUwzZWhSdlJyNnB5TEp6SmNFODdrakc4WXRrWk9CanBQbnkyaWJBU0ZRejJNanAyckxERHp6NWtJaWpZcXZNQjBSbXo1SDBOQVBKcXlqUHVicEtmMHJVSWlUT3p4bFdIQXpfRFBQbEpnNDdpNzRONzhXOU9CaGZTWklrTU9hTWh4Nzg2ZmJGT09yRGhvbjZsYkZYaEpRWGJIVmJoTm0wWHdjVlE4UFIxU1dTdC00dkhwclpJV0xuM2E5MkhEXzJZX0x2MjhqOFVaNnFLQi1MUWp1cnlJSER4UnJOb2VEMkU5MGJlYVZlZjVsZURiTndBUGFtLThFSl9xdW5jLU9CeDNjN21LNENxdFZTWkI5SFgwTWVjSE8ta3lDRWh5WW1jeV9lcUtfX3h1Zk93dWtZS3FUSElMMHZNbXl2aHFPRW5XUUFjeFAzeUMxMEhwSHJuQXdVUWVXc0N4TTh3VlM1VWZ0VkM0XzZTbUVSOF9fVDIxbTFGdUoteExjRlAydzZpYi0zUGU1SDRNVGZ5UWc"
     },
     {
       "title": "How Do Changing Interest Rates Affect the Stock Market? - U.S. Bank",
@@ -64,27 +72,19 @@
     },
     {
       "title": "The Stock Market Is Cratering. These Charts Explain Why. - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxQaE8zUTFOWlh5THpSQ0FiN2lWQUpmNEhVQlVadEljOTRBdlBNdC1iUWRSdGZfV3B2YWZMaWJHNEZvdDVoUjJKMHE3QXpvUFVTTWJFUTFIUHN5dlJhbElzOG5sUnNYbFJpWFBrcTIzaUlpYVlvVXRLblhRVzFSektrSjlNNXE4SWl2U3JjVTFnQkNPTnFXMDF5X3BEUkRqWWV4Y3E2bjVGRno0RmRFeVRvaDNaR0lDY3RZSTNuc1B1c1FDTjNHWHVpYmdocHJOUTdkM20zSjh0Q2Yzb01Obk1ta2RVcEhFeGpZTmF5am1VVmU4N2JQQW1TSy13am1sU2hZeU9EYmZrSTl4dkltNDA2TzJnV0FwR2Y3b2RBZWxXeWxTdkZZNzdGckVsMm9wSV8zVVd5eG9haTlOVm8yVmk4QWRIZllpb2NwTFU2MFdVRmVQeGRkdXdGMURldGdZdmM1RUlWbkxpejVSYnl3WHd4dzkybDgzUk50OTdDNWdLQ2JKR2NHWGRoNm9jaW9jQ25UdUZ3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxQYl9ZODFGSFd6ZjYwcEw1M3lfc1hnSzhRTzhKLTVjbk5aYlJLdGx5YW9xdUd5LWQ0eGZ4QW9hVWtDSFZuNzZabGNDYlFCMk9fZ1haUDZ5SHFNcGhkbEQ1bEM4RzhJdWx0OV8xdkN0ejRJd1lneklpalM2X2tBazRESXJFQTRsRmtsWERYN3l0Yk9PMHZpQWpjSDhjWkIyWE45cklFYVE4cHNvN09SOVRBdzd4QXlYOU03YVdrdmdYZW5kXzdITXhnQkVrSzJMVy1PRUJza1VIRjE5Q09wclI1SmdhZldaX3ZQejBLSWhqdkZjMFo0ZGNjUmJCT2QyRzdSMnEtRXd0LWdVcUg4UlRFOWxrVVgtVlZzemV1VGlRdGhvcDlHRzBTNjN5alZrakpkcVlsa0NJQ2RMYlc0MTUtQ0ZPYmhKWXVOWTllNFAwTVBRZnFwaWVYQ2ExMlpscGhuLW41WlNwUGNTWTJoQWU4M3gzbGVIcjBaZW1sWFdaZHJiWk45TXVxcDNySERvTXRuaGlB?oc=5",
       "source": "Barron's",
       "published_at": "Fri, 14 Nov 2025 08:00:00 GMT",
       "summary": "The Stock Market Is Cratering. These Charts Explain Why. Barron's",
-      "guid": "CBMikwNBVV95cUxQaE8zUTFOWlh5THpSQ0FiN2lWQUpmNEhVQlVadEljOTRBdlBNdC1iUWRSdGZfV3B2YWZMaWJHNEZvdDVoUjJKMHE3QXpvUFVTTWJFUTFIUHN5dlJhbElzOG5sUnNYbFJpWFBrcTIzaUlpYVlvVXRLblhRVzFSektrSjlNNXE4SWl2U3JjVTFnQkNPTnFXMDF5X3BEUkRqWWV4Y3E2bjVGRno0RmRFeVRvaDNaR0lDY3RZSTNuc1B1c1FDTjNHWHVpYmdocHJOUTdkM20zSjh0Q2Yzb01Obk1ta2RVcEhFeGpZTmF5am1VVmU4N2JQQW1TSy13am1sU2hZeU9EYmZrSTl4dkltNDA2TzJnV0FwR2Y3b2RBZWxXeWxTdkZZNzdGckVsMm9wSV8zVVd5eG9haTlOVm8yVmk4QWRIZllpb2NwTFU2MFdVRmVQeGRkdXdGMURldGdZdmM1RUlWbkxpejVSYnl3WHd4dzkybDgzUk50OTdDNWdLQ2JKR2NHWGRoNm9jaW9jQ25UdUZ3"
+      "guid": "CBMikwNBVV95cUxQYl9ZODFGSFd6ZjYwcEw1M3lfc1hnSzhRTzhKLTVjbk5aYlJLdGx5YW9xdUd5LWQ0eGZ4QW9hVWtDSFZuNzZabGNDYlFCMk9fZ1haUDZ5SHFNcGhkbEQ1bEM4RzhJdWx0OV8xdkN0ejRJd1lneklpalM2X2tBazRESXJFQTRsRmtsWERYN3l0Yk9PMHZpQWpjSDhjWkIyWE45cklFYVE4cHNvN09SOVRBdzd4QXlYOU03YVdrdmdYZW5kXzdITXhnQkVrSzJMVy1PRUJza1VIRjE5Q09wclI1SmdhZldaX3ZQejBLSWhqdkZjMFo0ZGNjUmJCT2QyRzdSMnEtRXd0LWdVcUg4UlRFOWxrVVgtVlZzemV1VGlRdGhvcDlHRzBTNjN5alZrakpkcVlsa0NJQ2RMYlc0MTUtQ0ZPYmhKWXVOWTllNFAwTVBRZnFwaWVYQ2ExMlpscGhuLW41WlNwUGNTWTJoQWU4M3gzbGVIcjBaZW1sWFdaZHJiWk45TXVxcDNySERvTXRuaGlB"
     },
     {
-      "title": "Stock Market Under the Trump Administration - U.S. Bank",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcUowVHR1VXAzd0Zfamw1MkVSejFsRGo1bkdGdHhjNVBZVFdwU3VpcE5neGJOeWl6RmdQVkFsYlcxNEVTRGg3WHNYSGR1d1BpTjV4T2NqdWdER3ZtQ0RVbU40WTcyRXRaTEM5bFZteVlYNE5EYkM1M1BaR0lYTGlUeFlTeDhVMzRaWFFqZEZhcGc3RFJoZy1qZy1mTGViQQ?oc=5",
-      "source": "U.S. Bank",
-      "published_at": "Tue, 24 Feb 2026 08:00:00 GMT",
-      "summary": "Stock Market Under the Trump Administration U.S. Bank",
-      "guid": "CBMingFBVV95cUxPcUowVHR1VXAzd0Zfamw1MkVSejFsRGo1bkdGdHhjNVBZVFdwU3VpcE5neGJOeWl6RmdQVkFsYlcxNEVTRGg3WHNYSGR1d1BpTjV4T2NqdWdER3ZtQ0RVbU40WTcyRXRaTEM5bFZteVlYNE5EYkM1M1BaR0lYTGlUeFlTeDhVMzRaWFFqZEZhcGc3RFJoZy1qZy1mTGViQQ"
-    },
-    {
-      "title": "Stock Market Crash in 2026? Bad News About President Trump's Tariffs and a Warning From the Federal Reserve Explain Why It's Possible. - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONHY2YXpMeVhfamZ1UWRPcmc2cFRCUFh4NWlvRlhlZTExX2RtMGFDdWJyanU2Ty01TzU0TExSRXpTWlV5ZnZkUURROE42ODlVRG0yYi1ZNkRvdGZWS3phaV9NWnpTRDE2T3ZxaHdIUkhRMFpvTktVcUQ2clB2REJlWmNjV3czNzZCMHZydVotaWhYMl96eUplWQ?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Wed, 18 Feb 2026 08:00:00 GMT",
-      "summary": "Stock Market Crash in 2026? Bad News About President Trump's Tariffs and a Warning From the Federal Reserve Explain Why It's Possible. The Motley Fool",
-      "guid": "CBMimAFBVV95cUxONHY2YXpMeVhfamZ1UWRPcmc2cFRCUFh4NWlvRlhlZTExX2RtMGFDdWJyanU2Ty01TzU0TExSRXpTWlV5ZnZkUURROE42ODlVRG0yYi1ZNkRvdGZWS3phaV9NWnpTRDE2T3ZxaHdIUkhRMFpvTktVcUQ2clB2REJlWmNjV3czNzZCMHZydVotaWhYMl96eUplWQ"
+      "title": "Stock Market Investors May Get Bad News From the Federal Reserve This Week - Nasdaq",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNzktRzdDNmRRVWdsVWUtaTJqWTlHZVYycUxGWXRkRjBvc3BwSFo0blBsSWdvYUtzYmRtSmZvRE9QSWFzS2twaWdJTWtXNFRhNG9RZGZ6ajJFN1hkd0tpNlpQcE03bTRDZ1JBR0ctdWNhUlpqcFREU200SUFQSy13SWFIa2hsbG1wR29wM0dybGxHQ2V4dTlR?oc=5",
+      "source": "Nasdaq",
+      "published_at": "Tue, 09 Dec 2025 08:00:00 GMT",
+      "summary": "Stock Market Investors May Get Bad News From the Federal Reserve This Week Nasdaq",
+      "guid": "CBMilwFBVV95cUxQNzktRzdDNmRRVWdsVWUtaTJqWTlHZVYycUxGWXRkRjBvc3BwSFo0blBsSWdvYUtzYmRtSmZvRE9QSWFzS2twaWdJTWtXNFRhNG9RZGZ6ajJFN1hkd0tpNlpQcE03bTRDZ1JBR0ctdWNhUlpqcFREU200SUFQSy13SWFIa2hsbG1wR29wM0dybGxHQ2V4dTlR"
     }
   ]
 }
