@@ -6,12 +6,22 @@
   ]);
   const YAHOO_CHART_PREFIX = "/api/yahoo-finance/v8/finance/chart/";
   const RRG_PROXY_PATHS = new Set(["/api/rrg", "/api/rrg.php"]);
+  const FRED_PROXY_PATH = "/api/fred-graph/graph/fredgraph.csv";
+  const BREADTH_HISTORY_PATH =
+    "/api/tradermonty-breadth/market-breadth-analysis/market_breadth_data.csv";
+  const BREADTH_SUMMARY_PATH =
+    "/api/tradermonty-breadth/market-breadth-analysis/market_breadth_summary.csv";
+  const CNN_FEAR_GREED_TARGET = "https://production.dataviz.cnn.io/index/fearandgreed/graphdata";
 
   const originalFetch = window.fetch.bind(window);
   let marketPromise = null;
   let newsPromise = null;
   let yahooChartsPromise = null;
   let rrgPromise = null;
+  let cnnFearGreedPromise = null;
+  let breadthHistoryPromise = null;
+  let breadthSummaryPromise = null;
+  const fredPromiseBySeries = new Map();
   let marketSyncPending = false;
 
   function toUrl(input) {
@@ -26,6 +36,15 @@
       status,
       headers: {
         "Content-Type": "application/json; charset=utf-8",
+      },
+    });
+  }
+
+  function textResponse(content, status = 200, contentType = "text/plain; charset=utf-8") {
+    return new Response(content, {
+      status,
+      headers: {
+        "Content-Type": contentType,
       },
     });
   }
@@ -50,6 +69,19 @@
     }
 
     return response.json();
+  }
+
+  async function loadText(path, accept = "text/plain, text/csv, */*") {
+    const response = await originalFetch(path, {
+      cache: "no-store",
+      headers: { Accept: accept },
+    });
+
+    if (!response.ok) {
+      throw new Error(`${path} request failed (${response.status})`);
+    }
+
+    return response.text();
   }
 
   async function loadMarketItems() {
@@ -87,6 +119,44 @@
     }
 
     return rrgPromise;
+  }
+
+  async function loadCnnFearGreed() {
+    if (!cnnFearGreedPromise) {
+      cnnFearGreedPromise = loadJson("/data/cnn-fear-greed.json");
+    }
+
+    return cnnFearGreedPromise;
+  }
+
+  async function loadFredCsv(seriesId) {
+    if (!fredPromiseBySeries.has(seriesId)) {
+      fredPromiseBySeries.set(seriesId, loadText(`/data/fred/${seriesId}.csv`, "text/csv, text/plain, */*"));
+    }
+
+    return fredPromiseBySeries.get(seriesId);
+  }
+
+  async function loadBreadthHistoryCsv() {
+    if (!breadthHistoryPromise) {
+      breadthHistoryPromise = loadText(
+        "/data/breadth/market_breadth_data.csv",
+        "text/csv, text/plain, */*"
+      );
+    }
+
+    return breadthHistoryPromise;
+  }
+
+  async function loadBreadthSummaryCsv() {
+    if (!breadthSummaryPromise) {
+      breadthSummaryPromise = loadText(
+        "/data/breadth/market_breadth_summary.csv",
+        "text/csv, text/plain, */*"
+      );
+    }
+
+    return breadthSummaryPromise;
   }
 
   function buildSyntheticNewsRss(items) {
@@ -216,17 +286,33 @@
     });
   }
 
+  function isCnnFearGreedRequest(url) {
+    if (
+      url.hostname === "production.dataviz.cnn.io" &&
+      url.pathname === "/index/fearandgreed/graphdata"
+    ) {
+      return true;
+    }
+
+    if (url.hostname !== "corsproxy.io") {
+      return false;
+    }
+
+    const target = decodeURIComponent(url.search.startsWith("?") ? url.search.slice(1) : "");
+    return target.startsWith(CNN_FEAR_GREED_TARGET);
+  }
+
   window.fetch = async (input, init) => {
     const url = toUrl(input);
 
     if (NEWS_PROXY_PATHS.has(url.pathname)) {
       const items = await loadNewsItems();
-      return new Response(buildSyntheticNewsRss(items), {
-        status: 200,
-        headers: {
-          "Content-Type": "application/rss+xml; charset=utf-8",
-        },
-      });
+      return textResponse(buildSyntheticNewsRss(items), 200, "application/rss+xml; charset=utf-8");
+    }
+
+    if (isCnnFearGreedRequest(url)) {
+      const payload = await loadCnnFearGreed();
+      return jsonResponse(payload);
     }
 
     if (url.pathname.startsWith(YAHOO_CHART_PREFIX)) {
@@ -236,12 +322,38 @@
       if (payload) {
         return jsonResponse(payload);
       }
-      return jsonResponse({ chart: { result: null, error: { code: "Not Found", description: `No static chart for ${symbol}` } } }, 404);
+      return jsonResponse(
+        { chart: { result: null, error: { code: "Not Found", description: `No static chart for ${symbol}` } } },
+        404
+      );
     }
 
     if (RRG_PROXY_PATHS.has(url.pathname)) {
       const payload = await loadRrgPayload();
       return jsonResponse(payload);
+    }
+
+    if (url.pathname === FRED_PROXY_PATH) {
+      const seriesId = (url.searchParams.get("id") || "").trim();
+      if (!seriesId) {
+        return textResponse("DATE,VALUE\n", 404, "text/csv; charset=utf-8");
+      }
+      try {
+        const csv = await loadFredCsv(seriesId);
+        return textResponse(csv, 200, "text/csv; charset=utf-8");
+      } catch (error) {
+        return textResponse(`DATE,VALUE\n`, 404, "text/csv; charset=utf-8");
+      }
+    }
+
+    if (url.pathname === BREADTH_HISTORY_PATH) {
+      const csv = await loadBreadthHistoryCsv();
+      return textResponse(csv, 200, "text/csv; charset=utf-8");
+    }
+
+    if (url.pathname === BREADTH_SUMMARY_PATH) {
+      const csv = await loadBreadthSummaryCsv();
+      return textResponse(csv, 200, "text/csv; charset=utf-8");
     }
 
     return originalFetch(input, init);
