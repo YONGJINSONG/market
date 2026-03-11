@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-11T20:04:14Z",
+  "generated_at": "2026-03-11T21:39:32Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,11 +7,11 @@
   },
   "items": [
     {
-      "title": "US Stock Futures Fluctuate as Brent Hits $90 Again: Markets Wrap - Bloomberg.com",
+      "title": "US Stock Futures Fluctuate as Brent Hits $90 Again: Markets Wrap - Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU1RKSWV6R3hnTzJCZHE3c3lfc3F5MWhYSnJxLVE3SkFybDVSdkhfTWtRSUMxeFB5Zk9LVjlEMUIzaXlnSEVnU0x3bXVlNzU1emVITlRUOVphQkxhbTJkTEE2a0lZRlJxTG5IbE1OTVFqbEFLOTNmejNNa1g1ekpzaUtYVjRCcFF4V0x3aWZ5TFpxZVdzV0dpSktrWnJhUmtqM2d0eG44OW84YnU5dWp4Qw?oc=5",
-      "source": "Bloomberg.com",
-      "published_at": "Wed, 11 Mar 2026 20:00:47 GMT",
-      "summary": "US Stock Futures Fluctuate as Brent Hits $90 Again: Markets Wrap Bloomberg.com",
+      "source": "Bloomberg",
+      "published_at": "Wed, 11 Mar 2026 20:54:43 GMT",
+      "summary": "US Stock Futures Fluctuate as Brent Hits $90 Again: Markets Wrap Bloomberg",
       "guid": "CBMisAFBVV95cUxOU1RKSWV6R3hnTzJCZHE3c3lfc3F5MWhYSnJxLVE3SkFybDVSdkhfTWtRSUMxeFB5Zk9LVjlEMUIzaXlnSEVnU0x3bXVlNzU1emVITlRUOVphQkxhbTJkTEE2a0lZRlJxTG5IbE1OTVFqbEFLOTNmejNNa1g1ekpzaUtYVjRCcFF4V0x3aWZ5TFpxZVdzV0dpSktrWnJhUmtqM2d0eG44OW84YnU5dWp4Qw"
     },
     {
@@ -23,12 +23,28 @@
       "guid": "CBMiuwFBVV95cUxQT3h5dVlOSEllekhoTWEteFI2UVlWYVE2TzdhMGRUUmYxN0UxYW9TOW9PTm92alFtMWt1VThmWTA5b0FBYkZhVUlBamhVTVpnUTFVcHA4WDF5X3hSUkdCdlNobDV4ZWZCd3g3c0pOaUt2NU1EeWYxMW9wYWdfNUdkS2EtVzFEcUZCczJMdXZ2ZmpfamJnX19TZUpEM255YTNGTlFwVEpDOWlpZWdpSF92bDNWaDJOT0dSV2o0"
     },
     {
+      "title": "US stock market remains calm, even as oil prices rise - Yahoo! Finance Canada",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeEljMXo4anl1aTJVaGVtTkx3aTg2SVZUQU1aVXgydTZDd2VfX3FBbmZMdUpLTm9zdXRmaVhsV2tCYlhkUVVIRFVHMlN0enU5R0hTazRTOUt5NkEzYWZoZEJuMWMwT0VlSlVEYkdnLXNTa2dzREg4SWV0WFVfczBWeW8zM00xc1dNQkI4?oc=5",
+      "source": "Yahoo! Finance Canada",
+      "published_at": "Wed, 11 Mar 2026 20:18:12 GMT",
+      "summary": "US stock market remains calm, even as oil prices rise Yahoo! Finance Canada",
+      "guid": "CBMiiwFBVV95cUxOeEljMXo4anl1aTJVaGVtTkx3aTg2SVZUQU1aVXgydTZDd2VfX3FBbmZMdUpLTm9zdXRmaVhsV2tCYlhkUVVIRFVHMlN0enU5R0hTazRTOUt5NkEzYWZoZEJuMWMwT0VlSlVEYkdnLXNTa2dzREg4SWV0WFVfczBWeW8zM00xc1dNQkI4"
+    },
+    {
       "title": "8 Key Items Shaping the Stock Market Wednesday: Diesel Prices, CPI, Oracle - TheStreet Pro",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWEl4MXdpOHVwVE5IQXM1dnFiNnRUeFFOMzAxakdGLTB1VGQ2SDJHaG1KTGxKNHZfTDRYU1pyYXNJVG8yWEJXTjZOa0RnaVB0ejZzYm1JME16aVRFMWNyVGxnOVhlblE4ZUx2UHVDNmkwbkprNnVib3hDUnJfWklkTnFTb2hvV2ZYOGJCVmJQUURBc3gySF9wYV9EODNMX0l5a0FBTVU1R3M0U1E?oc=5",
       "source": "TheStreet Pro",
       "published_at": "Wed, 11 Mar 2026 12:11:25 GMT",
       "summary": "8 Key Items Shaping the Stock Market Wednesday: Diesel Prices, CPI, Oracle TheStreet Pro",
       "guid": "CBMiqwFBVV95cUxNWEl4MXdpOHVwVE5IQXM1dnFiNnRUeFFOMzAxakdGLTB1VGQ2SDJHaG1KTGxKNHZfTDRYU1pyYXNJVG8yWEJXTjZOa0RnaVB0ejZzYm1JME16aVRFMWNyVGxnOVhlblE4ZUx2UHVDNmkwbkprNnVib3hDUnJfWklkTnFTb2hvV2ZYOGJCVmJQUURBc3gySF9wYV9EODNMX0l5a0FBTVU1R3M0U1E"
+    },
+    {
+      "title": "Canadian stock market slides amid mixed U.S. performance and higher oil prices - Business in Vancouver",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRGxJQ2lkSVpXYVNBZkdjeFpQWFlGa1RtS3I5RkNKd2FtS0lDZ1dfRFRSZzY0NmZzdm1wZ0RURWFLeE9DOE9DeW5wMWNCb3BhUG5nODBEcjRSVjVfbWtCT1RKWXZSOUV6UmRoNzBpeVR4RHpoczFMX3ZJbGJRVFdzNGE0OW1rWDJVZUJKdmZqY3dISk9wM1dHeC1qTmJjNHF0Q1Q1MlRhVGZDSDJsRWV3?oc=5",
+      "source": "Business in Vancouver",
+      "published_at": "Wed, 11 Mar 2026 21:07:59 GMT",
+      "summary": "Canadian stock market slides amid mixed U.S. performance and higher oil prices Business in Vancouver",
+      "guid": "CBMirwFBVV95cUxQRGxJQ2lkSVpXYVNBZkdjeFpQWFlGa1RtS3I5RkNKd2FtS0lDZ1dfRFRSZzY0NmZzdm1wZ0RURWFLeE9DOE9DeW5wMWNCb3BhUG5nODBEcjRSVjVfbWtCT1RKWXZSOUV6UmRoNzBpeVR4RHpoczFMX3ZJbGJRVFdzNGE0OW1rWDJVZUJKdmZqY3dISk9wM1dHeC1qTmJjNHF0Q1Q1MlRhVGZDSDJsRWV3"
     },
     {
       "title": "How Do Changing Interest Rates Affect the Stock Market? - U.S. Bank",
@@ -47,12 +63,12 @@
       "guid": "CBMimAFBVV95cUxNMUYwZWo3Q25WMmZXZy1mU00yQWxPYTlHYnZIaUptaGMzdk5iQUhVWDAzOEU2UWRrbHVnR0UyaWl3WmNxY2owTVJUT0g1ck5TZFFBWUVFeGNFSzRNQ2FPM0NYLUlSZ3ZFTXdidGttd3hKS2V0dk5qUUtROUhOQ0UyejBuTDYzeURObkJqNEVMYzBKVVEwaDdGYg"
     },
     {
-      "title": "Stock Market Investors May Get Bad News From the Federal Reserve This Week - Nasdaq",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNzktRzdDNmRRVWdsVWUtaTJqWTlHZVYycUxGWXRkRjBvc3BwSFo0blBsSWdvYUtzYmRtSmZvRE9QSWFzS2twaWdJTWtXNFRhNG9RZGZ6ajJFN1hkd0tpNlpQcE03bTRDZ1JBR0ctdWNhUlpqcFREU200SUFQSy13SWFIa2hsbG1wR29wM0dybGxHQ2V4dTlR?oc=5",
-      "source": "Nasdaq",
-      "published_at": "Tue, 09 Dec 2025 08:00:00 GMT",
-      "summary": "Stock Market Investors May Get Bad News From the Federal Reserve This Week Nasdaq",
-      "guid": "CBMilwFBVV95cUxQNzktRzdDNmRRVWdsVWUtaTJqWTlHZVYycUxGWXRkRjBvc3BwSFo0blBsSWdvYUtzYmRtSmZvRE9QSWFzS2twaWdJTWtXNFRhNG9RZGZ6ajJFN1hkd0tpNlpQcE03bTRDZ1JBR0ctdWNhUlpqcFREU200SUFQSy13SWFIa2hsbG1wR29wM0dybGxHQ2V4dTlR"
+      "title": "Stock Market Under the Trump Administration - U.S. Bank",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcUowVHR1VXAzd0Zfamw1MkVSejFsRGo1bkdGdHhjNVBZVFdwU3VpcE5neGJOeWl6RmdQVkFsYlcxNEVTRGg3WHNYSGR1d1BpTjV4T2NqdWdER3ZtQ0RVbU40WTcyRXRaTEM5bFZteVlYNE5EYkM1M1BaR0lYTGlUeFlTeDhVMzRaWFFqZEZhcGc3RFJoZy1qZy1mTGViQQ?oc=5",
+      "source": "U.S. Bank",
+      "published_at": "Tue, 24 Feb 2026 08:00:00 GMT",
+      "summary": "Stock Market Under the Trump Administration U.S. Bank",
+      "guid": "CBMingFBVV95cUxPcUowVHR1VXAzd0Zfamw1MkVSejFsRGo1bkdGdHhjNVBZVFdwU3VpcE5neGJOeWl6RmdQVkFsYlcxNEVTRGg3WHNYSGR1d1BpTjV4T2NqdWdER3ZtQ0RVbU40WTcyRXRaTEM5bFZteVlYNE5EYkM1M1BaR0lYTGlUeFlTeDhVMzRaWFFqZEZhcGc3RFJoZy1qZy1mTGViQQ"
     },
     {
       "title": "A Federal Reserve Double Whammy Is 2 Months Away -- and It May Mark the Tipping Point for the Stock Market - The Motley Fool",
@@ -69,22 +85,6 @@
       "published_at": "Wed, 18 Feb 2026 08:00:00 GMT",
       "summary": "Is a Market Correction Coming? U.S. Bank",
       "guid": "CBMipAFBVV95cUxNUVliSlNNN1JvaWszYmh4VVhGc3FBczJyOTYtbkVYdmJuc3JoUjROWGdEcjdfdnBybXlteWc1bFRCeEZDTHRxN0xHUnU4Wkg1THdnV3BWUHRKYVhVbGF4QnlwTzZjYU81SkQ2U3VXSElCNXpHQzF4bjFQTXotc3FvSnc4TGxKNlROU3c2SE1PTHM4cmNjanN6X04ydV9kZU5UQ3p1LQ"
-    },
-    {
-      "title": "The Stock Market Is Cratering. These Charts Explain Why. - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxNMmNGNFNzaU84LW94WG93NV96d3owU1hpQ1Z2TWJyMVpZdVlBN3l0aDhITDNoNTVoakVYUkhEYXpEQUxlUzloei1JX3dvT2E5dGhhNFRZS284TTg0RkJYdzN3anIyb3ZUZWhNOGRXME9DMDhHMG9xVjMwNGROanc4bWhUb0Y3ZFBXYWdyWlViRXd1MGxwVVhhTVdUbllTYzFUQVdoNWREeC1kNXlsUUNqbExBV2c0RWJHUGVuR3d2YmhkSWR1ejlSTlBuamtaVkJxWkxCRmNGcml4UEE1TjE2XzFkVnZYUWxURzNKbk43NGlWQkcxa1c1Z1pvS3o3LXJkQzYzdVQ4dDV6RnRpYjIweTFfMlBlazhaTmlCNHQ1aHZMQ25EVXd2YjhuczFUS1JlUjhpZFZTM2NRcXNZMlNMcGVBWkNDWERiZE9KWlR5bW83NVlBVmFYVEl5Yk9DT0FjMjZXem1jV3pON3VobEhkZmtiU2s3VzdQS2lBWElKY0ZCY1pjajdKaU5va1BDTEkxQlVv?oc=5",
-      "source": "Barron's",
-      "published_at": "Fri, 14 Nov 2025 08:00:00 GMT",
-      "summary": "The Stock Market Is Cratering. These Charts Explain Why. Barron's",
-      "guid": "CBMikwNBVV95cUxNMmNGNFNzaU84LW94WG93NV96d3owU1hpQ1Z2TWJyMVpZdVlBN3l0aDhITDNoNTVoakVYUkhEYXpEQUxlUzloei1JX3dvT2E5dGhhNFRZS284TTg0RkJYdzN3anIyb3ZUZWhNOGRXME9DMDhHMG9xVjMwNGROanc4bWhUb0Y3ZFBXYWdyWlViRXd1MGxwVVhhTVdUbllTYzFUQVdoNWREeC1kNXlsUUNqbExBV2c0RWJHUGVuR3d2YmhkSWR1ejlSTlBuamtaVkJxWkxCRmNGcml4UEE1TjE2XzFkVnZYUWxURzNKbk43NGlWQkcxa1c1Z1pvS3o3LXJkQzYzdVQ4dDV6RnRpYjIweTFfMlBlazhaTmlCNHQ1aHZMQ25EVXd2YjhuczFUS1JlUjhpZFZTM2NRcXNZMlNMcGVBWkNDWERiZE9KWlR5bW83NVlBVmFYVEl5Yk9DT0FjMjZXem1jV3pON3VobEhkZmtiU2s3VzdQS2lBWElKY0ZCY1pjajdKaU5va1BDTEkxQlVv"
-    },
-    {
-      "title": "Will the Stock Market Crash in 2026? The Federal Reserve Sends a Silent Warning to Investors. - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTUdXZ2dsYzlSb3paNUZIRDJ2VUR5LWp1NWFPRUpGUHc0V0txVXVVMkYzMTl6aUlUMHdHLUdHRlg2ZXdEdWJuZm90dS1wMlFlLThNQjRSTVhub0pLWXRnN0FUODBGTURieXlMNkZVUXJiRzFFU1hzS25HX1lrWmFCcktpTQ?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Wed, 24 Dec 2025 08:00:00 GMT",
-      "summary": "Will the Stock Market Crash in 2026? The Federal Reserve Sends a Silent Warning to Investors. Yahoo Finance",
-      "guid": "CBMigwFBVV95cUxQTUdXZ2dsYzlSb3paNUZIRDJ2VUR5LWp1NWFPRUpGUHc0V0txVXVVMkYzMTl6aUlUMHdHLUdHRlg2ZXdEdWJuZm90dS1wMlFlLThNQjRSTVhub0pLWXRnN0FUODBGTURieXlMNkZVUXJiRzFFU1hzS25HX1lrWmFCcktpTQ"
     }
   ]
 }

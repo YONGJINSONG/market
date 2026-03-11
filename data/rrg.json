@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-11T20:04:23Z",
+  "generated_at": "2026-03-11T21:39:47Z",
   "benchmark": "SPY",
   "sectors": [
     {
@@ -23,8 +23,8 @@
           "rsMomentum": 100.05
         },
         {
-          "rsRatio": 101.48,
-          "rsMomentum": 100.55
+          "rsRatio": 101.47,
+          "rsMomentum": 100.54
         }
       ]
     },
@@ -49,8 +49,8 @@
           "rsMomentum": 99.59
         },
         {
-          "rsRatio": 98.91,
-          "rsMomentum": 100.02
+          "rsRatio": 98.9,
+          "rsMomentum": 100.0
         }
       ]
     },
@@ -75,8 +75,8 @@
           "rsMomentum": 99.66
         },
         {
-          "rsRatio": 98.12,
-          "rsMomentum": 99.5
+          "rsRatio": 98.09,
+          "rsMomentum": 99.48
         }
       ]
     },
@@ -101,8 +101,8 @@
           "rsMomentum": 98.65
         },
         {
-          "rsRatio": 102.04,
-          "rsMomentum": 102.02
+          "rsRatio": 102.0,
+          "rsMomentum": 101.98
         }
       ]
     },
@@ -153,8 +153,8 @@
           "rsMomentum": 100.18
         },
         {
-          "rsRatio": 97.97,
-          "rsMomentum": 99.08
+          "rsRatio": 97.95,
+          "rsMomentum": 99.06
         }
       ]
     },
@@ -179,8 +179,8 @@
           "rsMomentum": 99.87
         },
         {
-          "rsRatio": 98.34,
-          "rsMomentum": 99.94
+          "rsRatio": 98.32,
+          "rsMomentum": 99.92
         }
       ]
     },
@@ -205,8 +205,8 @@
           "rsMomentum": 100.47
         },
         {
-          "rsRatio": 97.71,
-          "rsMomentum": 100.43
+          "rsRatio": 97.7,
+          "rsMomentum": 100.42
         }
       ]
     },
@@ -231,8 +231,8 @@
           "rsMomentum": 99.53
         },
         {
-          "rsRatio": 99.02,
-          "rsMomentum": 99.33
+          "rsRatio": 98.98,
+          "rsMomentum": 99.3
         }
       ]
     },
@@ -289,5 +289,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-03-11T20:04:23Z"
+  "lastUpdated": "2026-03-11T21:39:47Z"
 }
