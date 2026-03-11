@@ -1,5 +1,5 @@
 (() => {
-  window.__STATIC_DATA_BRIDGE_VERSION__ = "20260311-4";
+  window.__STATIC_DATA_BRIDGE_VERSION__ = "20260311-5";
   const NEWS_PROXY_PATHS = new Set([
     "/api/bbc-business-rss",
     "/api/ft-home-rss",
@@ -478,21 +478,42 @@
   }
 
   function fixBrokenLabels() {
-    const titles = document.querySelectorAll(".section-title");
-    titles.forEach((title) => {
-      const text = title.textContent || "";
-      if (text.includes("寃쎌젣") || text.includes("罹섎┛")) {
-        title.textContent = "🗓 경제 캘린더";
-      }
-    });
+    const replacements = new Map([
+      ["異쒖쿂: TradingView", "출처: TradingView"],
+      ["寃쎌젣 罹섎┛??", "경제 캘린더"],
+      ["?뱟 寃쎌젣 罹섎┛??", "🗓 경제 캘린더"],
+      ["罹섎┛??濡쒕뵫 ?湲?以?", "캘린더 로딩 대기 중..."],
+      ["異붽쾶?? TradingView", "출처: TradingView"],
+    ]);
 
-    document.querySelectorAll(".text-xs.text-muted-foreground").forEach((node) => {
-      const text = node.textContent || "";
-      if (text.includes("異쒖쿂: TradingView")) {
-        node.textContent = "출처: TradingView";
+    const walker = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT);
+    const textNodes = [];
+    while (walker.nextNode()) {
+      textNodes.push(walker.currentNode);
+    }
+
+    textNodes.forEach((node) => {
+      const original = node.nodeValue || "";
+      let next = original;
+
+      replacements.forEach((replacement, target) => {
+        if (next.includes(target)) {
+          next = next.replaceAll(target, replacement);
+        }
+      });
+
+      if (next.includes("寃쎌젣") || next.includes("罹섎┛")) {
+        if (next.includes("TradingView")) {
+          next = "출처: TradingView";
+        } else if (next.includes("濡쒕뵫")) {
+          next = "캘린더 로딩 대기 중...";
+        } else {
+          next = "🗓 경제 캘린더";
+        }
       }
-      if (text.includes("罹섎┛") && text.includes("濡쒕뵫")) {
-        node.textContent = "캘린더 로딩 대기 중...";
+
+      if (next !== original) {
+        node.nodeValue = next;
       }
     });
   }
