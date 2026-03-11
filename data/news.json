@@ -1,0 +1,90 @@
+{
+  "generated_at": "2026-03-11T11:44:37Z",
+  "source": {
+    "provider": "Google News RSS",
+    "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
+    "query": "stock market OR economy OR inflation OR federal reserve"
+  },
+  "items": [
+    {
+      "title": "Stocks Advance With Oil Below $90, Dollar Weakens: Markets Wrap - Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU1RKSWV6R3hnTzJCZHE3c3lfc3F5MWhYSnJxLVE3SkFybDVSdkhfTWtRSUMxeFB5Zk9LVjlEMUIzaXlnSEVnU0x3bXVlNzU1emVITlRUOVphQkxhbTJkTEE2a0lZRlJxTG5IbE1OTVFqbEFLOTNmejNNa1g1ekpzaUtYVjRCcFF4V0x3aWZ5TFpxZVdzV0dpSktrWnJhUmtqM2d0eG44OW84YnU5dWp4Qw?oc=5",
+      "source": "Bloomberg",
+      "published_at": "Wed, 11 Mar 2026 10:50:43 GMT",
+      "summary": "Stocks Advance With Oil Below $90, Dollar Weakens: Markets Wrap Bloomberg",
+      "guid": "CBMisAFBVV95cUxOU1RKSWV6R3hnTzJCZHE3c3lfc3F5MWhYSnJxLVE3SkFybDVSdkhfTWtRSUMxeFB5Zk9LVjlEMUIzaXlnSEVnU0x3bXVlNzU1emVITlRUOVphQkxhbTJkTEE2a0lZRlJxTG5IbE1OTVFqbEFLOTNmejNNa1g1ekpzaUtYVjRCcFF4V0x3aWZ5TFpxZVdzV0dpSktrWnJhUmtqM2d0eG44OW84YnU5dWp4Qw"
+    },
+    {
+      "title": "The stock market is still priced for ‘absolute chaos,’ but the worst-case scenario will be avoided, Nomura strategist predicts - MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMi_gNBVV95cUxNSEIzWmRGSGppa2tLQUJMdm54UmtSSkVadHIxYmZRZWlmdGtraWdNdHo3MTJNZGs4a2ZYX2tSdDN3UE1UOUVsTWtBZ1hQRmROd0FmS0x5NzF6SWQ4UkN0bDlfcVp0TVloU1lKU2VIMW0xdzIxVFdzMXU4dDNSRlE3MWNkLWFMMzdwU2hvWFQ3RjVid2hhOXNXZ0JwOVQtX0hLMEhZTWQwUW9aWkt6Z2F3VXp6Ums4dmJ6bHRZY3pnTmVTRnRuRGRyWWpzRXpVM3J5MmRSZ0pyeXRuUEYxdWVfT3VlZGdUTlNwUVIxVGVUYWJjLUJYSW1vMVFvSkFLWjJ4bUpSY1hmYlNLX1Y1Z2dNaWJOV3V4bDlQNmlKS2dQdWUwUktRS0lkZDc4aWFQRkpSUGpiVGhDdTRGWDBvYnFPUERzaWFfd1BzU0hITWVhbE1zVjJJZkVlTUFwdkoxZFBxZnBxYUxiUk1VaGtqN1RnR0RidEhCSXM4MFd3dU9wdVlraFUxNDltSTM5cnY5V3A2S1BKNl9ZZnhXNVhOLTdNT0JpN2JxTUJmXzNEakZ2am9fOFkxOWFNYjlLRmlNeUZBci02eEFQSVd6Vkd6bDhvU2Q5Ul84ZllmN0hxMUhjTE53NXh4YXhQRURhMW15eGhqQVRIc0N0TjlBdHg2YWc?oc=5",
+      "source": "MarketWatch",
+      "published_at": "Mon, 09 Mar 2026 15:48:00 GMT",
+      "summary": "The stock market is still priced for ‘absolute chaos,’ but the worst-case scenario will be avoided, Nomura strategist predicts MarketWatch",
+      "guid": "CBMi_gNBVV95cUxNSEIzWmRGSGppa2tLQUJMdm54UmtSSkVadHIxYmZRZWlmdGtraWdNdHo3MTJNZGs4a2ZYX2tSdDN3UE1UOUVsTWtBZ1hQRmROd0FmS0x5NzF6SWQ4UkN0bDlfcVp0TVloU1lKU2VIMW0xdzIxVFdzMXU4dDNSRlE3MWNkLWFMMzdwU2hvWFQ3RjVid2hhOXNXZ0JwOVQtX0hLMEhZTWQwUW9aWkt6Z2F3VXp6Ums4dmJ6bHRZY3pnTmVTRnRuRGRyWWpzRXpVM3J5MmRSZ0pyeXRuUEYxdWVfT3VlZGdUTlNwUVIxVGVUYWJjLUJYSW1vMVFvSkFLWjJ4bUpSY1hmYlNLX1Y1Z2dNaWJOV3V4bDlQNmlKS2dQdWUwUktRS0lkZDc4aWFQRkpSUGpiVGhDdTRGWDBvYnFPUERzaWFfd1BzU0hITWVhbE1zVjJJZkVlTUFwdkoxZFBxZnBxYUxiUk1VaGtqN1RnR0RidEhCSXM4MFd3dU9wdVlraFUxNDltSTM5cnY5V3A2S1BKNl9ZZnhXNVhOLTdNT0JpN2JxTUJmXzNEakZ2am9fOFkxOWFNYjlLRmlNeUZBci02eEFQSVd6Vkd6bDhvU2Q5Ul84ZllmN0hxMUhjTE53NXh4YXhQRURhMW15eGhqQVRIc0N0TjlBdHg2YWc"
+    },
+    {
+      "title": "How Do Changing Interest Rates Affect the Stock Market? - U.S. Bank",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVVJpa2pCR3B0TmxRZGlpSmRZaFctZ21ybGtrVUVBMFozZ0xiSGFRY0ZZdGNWaV80dnhHUTR2TTVoSnZEU190aGtMamY2MDAxT0hYYzRXcUl5OUEyOGRGYWlBbm54T3ppaEZWRWtyV01EOEJGcVRaM2xROWlCX2FxSFYxX1NXeUQwZmJLS3pqcGhCWjR5RVJrNlhmbUtRcy1EUGJLaFI4UTNkUHg4emNPUE95cTc0bnlDcklaaG5EcWhBeVU?oc=5",
+      "source": "U.S. Bank",
+      "published_at": "Fri, 30 Jan 2026 08:00:00 GMT",
+      "summary": "How Do Changing Interest Rates Affect the Stock Market? U.S. Bank",
+      "guid": "CBMiwwFBVV95cUxQVVJpa2pCR3B0TmxRZGlpSmRZaFctZ21ybGtrVUVBMFozZ0xiSGFRY0ZZdGNWaV80dnhHUTR2TTVoSnZEU190aGtMamY2MDAxT0hYYzRXcUl5OUEyOGRGYWlBbm54T3ppaEZWRWtyV01EOEJGcVRaM2xROWlCX2FxSFYxX1NXeUQwZmJLS3pqcGhCWjR5RVJrNlhmbUtRcy1EUGJLaFI4UTNkUHg4emNPUE95cTc0bnlDcklaaG5EcWhBeVU"
+    },
+    {
+      "title": "Market Reactions to Tariff Announcements - Federal Reserve Bank of San Francisco",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM1dfLWVxeDJGbVNDYU9vWU8xOW5Fbk9rWk5KREtjbWFDcWFfdzAyVE5WMDhINUpWbWVDVWZmRHBSSlN3blk5alBHd3B1RE5JSmVMRTd3SXhNQmZWdDllUDFCU1lwTk9zcmpBSmhmazM5OEhIWEVHMlhHTDY4M1luNXJ5TExQbi1RMjBLbmpZd3BqLU1zanlvM0hvVWhVcWtiSWZBOV9ENTJmTWUtQzIxdmprYlpGNnJzQk11T1ZfWQ?oc=5",
+      "source": "Federal Reserve Bank of San Francisco",
+      "published_at": "Mon, 06 Oct 2025 07:00:00 GMT",
+      "summary": "Market Reactions to Tariff Announcements Federal Reserve Bank of San Francisco",
+      "guid": "CBMivwFBVV95cUxOM1dfLWVxeDJGbVNDYU9vWU8xOW5Fbk9rWk5KREtjbWFDcWFfdzAyVE5WMDhINUpWbWVDVWZmRHBSSlN3blk5alBHd3B1RE5JSmVMRTd3SXhNQmZWdDllUDFCU1lwTk9zcmpBSmhmazM5OEhIWEVHMlhHTDY4M1luNXJ5TExQbi1RMjBLbmpZd3BqLU1zanlvM0hvVWhVcWtiSWZBOV9ENTJmTWUtQzIxdmprYlpGNnJzQk11T1ZfWQ"
+    },
+    {
+      "title": "A Federal Reserve Double Whammy Is 2 Months Away -- and It May Mark the Tipping Point for the Stock Market - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcU5NWklLNGhvMXlfTGlVcHl2ZkxUUUs0cDZYRXNuVnl1a3BWbEgyUDAyNVVQU3pmU0UwdWVhODh0UzlFWmVjUl82dXhxQmVpVE1BRmdSQ2JPRllLdHpOTnNaUEYwUjJBWFRpVjl0dXpHMldMS1F3bEctOXp3Wk1TRFg3SG1zUklIeHU3V3FWVGZhMUQ2LUE?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Sat, 07 Mar 2026 11:36:00 GMT",
+      "summary": "A Federal Reserve Double Whammy Is 2 Months Away -- and It May Mark the Tipping Point for the Stock Market The Motley Fool",
+      "guid": "CBMilgFBVV95cUxOcU5NWklLNGhvMXlfTGlVcHl2ZkxUUUs0cDZYRXNuVnl1a3BWbEgyUDAyNVVQU3pmU0UwdWVhODh0UzlFWmVjUl82dXhxQmVpVE1BRmdSQ2JPRllLdHpOTnNaUEYwUjJBWFRpVjl0dXpHMldMS1F3bEctOXp3Wk1TRFg3SG1zUklIeHU3V3FWVGZhMUQ2LUE"
+    },
+    {
+      "title": "The Stock Market Is Cratering. These Charts Explain Why. - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxQV05EZmZXaDFVU0dlaGFhVjVjaHkzQzBpMHY0UDFvRDd2NEM0YVVUNWhKNDNORVpIUGtMN2FoUmw1ZjJvNWpHUHlNSXFjWXlXNW9QTm1nRER3Q3lZS2tZbExaRVdBeGpuMGVDWGttWm94TVB6VkxUUTkxQVZKX1JNVldhdGxXM2psVFdSeFEtZ1c0ZV80aHdzREt3dEswM08xQU11ZkNjcV81TEZhTDVHbFRpUlhUYVQ1WlM3YUotVnloc25EY05vTnQ3LVpUYWlMc0EwV2JmUGo3SDFWM093ZHR5VFhQbVF6OWJyZEtmNF9OMmhyWXdBREJYcHg5TmpNVGZkWUEtVjU0bDRqZUVXWW5fVGVoODU4S0R0YjNwTkc0UzM0X2g1bWJtcWJ2U05lLUhmZUlQaFpwMlZOb3liQ1JoVm1ITXd0WmJHXzBlZVRQV3JCcDFaaTFmZGplTG1KTjBNOHdZY090ZTdBc2xjc2dGejdJOVdDSlZxM0xPYTBmWDVHeWN3QkR4NnpFWWxLeGNB?oc=5",
+      "source": "Barron's",
+      "published_at": "Fri, 14 Nov 2025 08:00:00 GMT",
+      "summary": "The Stock Market Is Cratering. These Charts Explain Why. Barron's",
+      "guid": "CBMikwNBVV95cUxQV05EZmZXaDFVU0dlaGFhVjVjaHkzQzBpMHY0UDFvRDd2NEM0YVVUNWhKNDNORVpIUGtMN2FoUmw1ZjJvNWpHUHlNSXFjWXlXNW9QTm1nRER3Q3lZS2tZbExaRVdBeGpuMGVDWGttWm94TVB6VkxUUTkxQVZKX1JNVldhdGxXM2psVFdSeFEtZ1c0ZV80aHdzREt3dEswM08xQU11ZkNjcV81TEZhTDVHbFRpUlhUYVQ1WlM3YUotVnloc25EY05vTnQ3LVpUYWlMc0EwV2JmUGo3SDFWM093ZHR5VFhQbVF6OWJyZEtmNF9OMmhyWXdBREJYcHg5TmpNVGZkWUEtVjU0bDRqZUVXWW5fVGVoODU4S0R0YjNwTkc0UzM0X2g1bWJtcWJ2U05lLUhmZUlQaFpwMlZOb3liQ1JoVm1ITXd0WmJHXzBlZVRQV3JCcDFaaTFmZGplTG1KTjBNOHdZY090ZTdBc2xjc2dGejdJOVdDSlZxM0xPYTBmWDVHeWN3QkR4NnpFWWxLeGNB"
+    },
+    {
+      "title": "Stock Market Investors May Get Bad News From the Federal Reserve This Week - Nasdaq",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNzktRzdDNmRRVWdsVWUtaTJqWTlHZVYycUxGWXRkRjBvc3BwSFo0blBsSWdvYUtzYmRtSmZvRE9QSWFzS2twaWdJTWtXNFRhNG9RZGZ6ajJFN1hkd0tpNlpQcE03bTRDZ1JBR0ctdWNhUlpqcFREU200SUFQSy13SWFIa2hsbG1wR29wM0dybGxHQ2V4dTlR?oc=5",
+      "source": "Nasdaq",
+      "published_at": "Tue, 09 Dec 2025 08:00:00 GMT",
+      "summary": "Stock Market Investors May Get Bad News From the Federal Reserve This Week Nasdaq",
+      "guid": "CBMilwFBVV95cUxQNzktRzdDNmRRVWdsVWUtaTJqWTlHZVYycUxGWXRkRjBvc3BwSFo0blBsSWdvYUtzYmRtSmZvRE9QSWFzS2twaWdJTWtXNFRhNG9RZGZ6ajJFN1hkd0tpNlpQcE03bTRDZ1JBR0ctdWNhUlpqcFREU200SUFQSy13SWFIa2hsbG1wR29wM0dybGxHQ2V4dTlR"
+    },
+    {
+      "title": "Stock Market Under the Trump Administration - U.S. Bank",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcUowVHR1VXAzd0Zfamw1MkVSejFsRGo1bkdGdHhjNVBZVFdwU3VpcE5neGJOeWl6RmdQVkFsYlcxNEVTRGg3WHNYSGR1d1BpTjV4T2NqdWdER3ZtQ0RVbU40WTcyRXRaTEM5bFZteVlYNE5EYkM1M1BaR0lYTGlUeFlTeDhVMzRaWFFqZEZhcGc3RFJoZy1qZy1mTGViQQ?oc=5",
+      "source": "U.S. Bank",
+      "published_at": "Tue, 24 Feb 2026 08:00:00 GMT",
+      "summary": "Stock Market Under the Trump Administration U.S. Bank",
+      "guid": "CBMingFBVV95cUxPcUowVHR1VXAzd0Zfamw1MkVSejFsRGo1bkdGdHhjNVBZVFdwU3VpcE5neGJOeWl6RmdQVkFsYlcxNEVTRGg3WHNYSGR1d1BpTjV4T2NqdWdER3ZtQ0RVbU40WTcyRXRaTEM5bFZteVlYNE5EYkM1M1BaR0lYTGlUeFlTeDhVMzRaWFFqZEZhcGc3RFJoZy1qZy1mTGViQQ"
+    },
+    {
+      "title": "Stock Market Crash in 2026? Bad News About President Trump's Tariffs and a Warning From the Federal Reserve Explain Why It's Possible. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONHY2YXpMeVhfamZ1UWRPcmc2cFRCUFh4NWlvRlhlZTExX2RtMGFDdWJyanU2Ty01TzU0TExSRXpTWlV5ZnZkUURROE42ODlVRG0yYi1ZNkRvdGZWS3phaV9NWnpTRDE2T3ZxaHdIUkhRMFpvTktVcUQ2clB2REJlWmNjV3czNzZCMHZydVotaWhYMl96eUplWQ?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Wed, 18 Feb 2026 08:00:00 GMT",
+      "summary": "Stock Market Crash in 2026? Bad News About President Trump's Tariffs and a Warning From the Federal Reserve Explain Why It's Possible. The Motley Fool",
+      "guid": "CBMimAFBVV95cUxONHY2YXpMeVhfamZ1UWRPcmc2cFRCUFh4NWlvRlhlZTExX2RtMGFDdWJyanU2Ty01TzU0TExSRXpTWlV5ZnZkUURROE42ODlVRG0yYi1ZNkRvdGZWS3phaV9NWnpTRDE2T3ZxaHdIUkhRMFpvTktVcUQ2clB2REJlWmNjV3czNzZCMHZydVotaWhYMl96eUplWQ"
+    },
+    {
+      "title": "Will the Stock Market Crash in 2026? The Federal Reserve Sends a Silent Warning to Investors. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTUdXZ2dsYzlSb3paNUZIRDJ2VUR5LWp1NWFPRUpGUHc0V0txVXVVMkYzMTl6aUlUMHdHLUdHRlg2ZXdEdWJuZm90dS1wMlFlLThNQjRSTVhub0pLWXRnN0FUODBGTURieXlMNkZVUXJiRzFFU1hzS25HX1lrWmFCcktpTQ?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Wed, 24 Dec 2025 08:00:00 GMT",
+      "summary": "Will the Stock Market Crash in 2026? The Federal Reserve Sends a Silent Warning to Investors. Yahoo Finance",
+      "guid": "CBMigwFBVV95cUxQTUdXZ2dsYzlSb3paNUZIRDJ2VUR5LWp1NWFPRUpGUHc0V0txVXVVMkYzMTl6aUlUMHdHLUdHRlg2ZXdEdWJuZm90dS1wMlFlLThNQjRSTVhub0pLWXRnN0FUODBGTURieXlMNkZVUXJiRzFFU1hzS25HX1lrWmFCcktpTQ"
+    }
+  ]
+}
