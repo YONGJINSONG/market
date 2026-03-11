@@ -13,6 +13,16 @@
   const BREADTH_SUMMARY_PATH =
     "/api/tradermonty-breadth/market-breadth-analysis/market_breadth_summary.csv";
   const CNN_FEAR_GREED_TARGET = "https://production.dataviz.cnn.io/index/fearandgreed/graphdata";
+  const currentScript = document.currentScript;
+  const siteBasePath = (() => {
+    const scriptUrl = new URL(currentScript?.src || window.location.href, window.location.href);
+    const parts = scriptUrl.pathname.split("/");
+    const jsIndex = parts.lastIndexOf("js");
+    if (jsIndex > 0) {
+      return `${parts.slice(0, jsIndex).join("/")}/`;
+    }
+    return "/";
+  })();
 
   const originalFetch = window.fetch.bind(window);
   let marketPromise = null;
@@ -31,6 +41,11 @@
       return new URL(input.url, window.location.href);
     }
     return new URL(String(input), window.location.href);
+  }
+
+  function sitePath(path) {
+    const normalized = path.startsWith("/") ? path.slice(1) : path;
+    return `${siteBasePath}${normalized}`;
   }
 
   function jsonResponse(payload, status = 200) {
@@ -88,7 +103,7 @@
 
   async function loadMarketItems() {
     if (!marketPromise) {
-      marketPromise = loadJson("/data/market.json").then((payload) => {
+      marketPromise = loadJson(sitePath("data/market.json")).then((payload) => {
         const items = Array.isArray(payload.items) ? payload.items : [];
         return new Map(items.map((item) => [item.symbol, item]));
       });
@@ -99,7 +114,7 @@
 
   async function loadNewsItems() {
     if (!newsPromise) {
-      newsPromise = loadJson("/data/news.json").then((payload) =>
+      newsPromise = loadJson(sitePath("data/news.json")).then((payload) =>
         Array.isArray(payload.items) ? payload.items : []
       );
     }
@@ -109,7 +124,7 @@
 
   async function loadYahooCharts() {
     if (!yahooChartsPromise) {
-      yahooChartsPromise = loadJson("/data/yahoo-charts.json").then((payload) => payload.charts || {});
+      yahooChartsPromise = loadJson(sitePath("data/yahoo-charts.json")).then((payload) => payload.charts || {});
     }
 
     return yahooChartsPromise;
@@ -231,7 +246,7 @@
 
   async function loadRrgPayload() {
     if (!rrgPromise) {
-      rrgPromise = loadJson("/data/rrg.json");
+      rrgPromise = loadJson(sitePath("data/rrg.json"));
     }
 
     return rrgPromise;
@@ -239,7 +254,7 @@
 
   async function loadVkospiPayload() {
     if (!vkospiPromise) {
-      vkospiPromise = loadJson("/data/vkospi.json");
+      vkospiPromise = loadJson(sitePath("data/vkospi.json"));
     }
 
     return vkospiPromise;
@@ -247,7 +262,7 @@
 
   async function loadCnnFearGreed() {
     if (!cnnFearGreedPromise) {
-      cnnFearGreedPromise = loadJson("/data/cnn-fear-greed.json");
+      cnnFearGreedPromise = loadJson(sitePath("data/cnn-fear-greed.json"));
     }
 
     return cnnFearGreedPromise;
@@ -255,7 +270,10 @@
 
   async function loadFredCsv(seriesId) {
     if (!fredPromiseBySeries.has(seriesId)) {
-      fredPromiseBySeries.set(seriesId, loadText(`/data/fred/${seriesId}.csv`, "text/csv, text/plain, */*"));
+      fredPromiseBySeries.set(
+        seriesId,
+        loadText(sitePath(`data/fred/${seriesId}.csv`), "text/csv, text/plain, */*")
+      );
     }
 
     return fredPromiseBySeries.get(seriesId);
@@ -264,7 +282,7 @@
   async function loadBreadthHistoryCsv() {
     if (!breadthHistoryPromise) {
       breadthHistoryPromise = loadText(
-        "/data/breadth/market_breadth_data.csv",
+        sitePath("data/breadth/market_breadth_data.csv"),
         "text/csv, text/plain, */*"
       );
     }
@@ -275,7 +293,7 @@
   async function loadBreadthSummaryCsv() {
     if (!breadthSummaryPromise) {
       breadthSummaryPromise = loadText(
-        "/data/breadth/market_breadth_summary.csv",
+        sitePath("data/breadth/market_breadth_summary.csv"),
         "text/csv, text/plain, */*"
       );
     }
