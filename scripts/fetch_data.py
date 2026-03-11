@@ -67,6 +67,49 @@ MARKET_SYMBOLS = [
     },
 ]
 
+YAHOO_SNAPSHOT_SYMBOLS = [
+    "^VIX",
+    "DX-Y.NYB",
+    "ZC=F",
+    "ZS=F",
+    "ZW=F",
+    "HE=F",
+    "SPY",
+    "RSP",
+    "IWM",
+    "HYG",
+    "LQD",
+    "TLT",
+    "XLY",
+    "XLP",
+    "XLK",
+    "XLV",
+    "XLF",
+    "XLE",
+    "XLI",
+    "XLB",
+    "XLU",
+    "XLRE",
+    "XLC",
+]
+
+RRG_BENCHMARK = "SPY"
+RRG_RS_PERIOD = 10
+RRG_TRAIL_LENGTH = 5
+RRG_SECTORS = [
+    ("Technology", "XLK"),
+    ("Health Care", "XLV"),
+    ("Financials", "XLF"),
+    ("Energy", "XLE"),
+    ("Consumer Discretionary", "XLY"),
+    ("Consumer Staples", "XLP"),
+    ("Industrials", "XLI"),
+    ("Materials", "XLB"),
+    ("Utilities", "XLU"),
+    ("Real Estate", "XLRE"),
+    ("Communication Services", "XLC"),
+]
+
 
 def utc_now_iso() -> str:
     return datetime.now(timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z")
@@ -118,11 +161,11 @@ def strip_html(text: str | None) -> str:
     return re.sub(r"\s+", " ", text).strip()
 
 
-def fetch_yahoo_chart(symbol: str, timeout: int) -> dict[str, Any]:
+def fetch_yahoo_chart(symbol: str, timeout: int, *, interval: str = "1d", data_range: str = "5d") -> dict[str, Any]:
     params = urlencode(
         {
-            "interval": "1d",
-            "range": "5d",
+            "interval": interval,
+            "range": data_range,
             "includePrePost": "false",
             "events": "div,splits",
         }
@@ -146,6 +189,142 @@ def last_valid_close(result: dict[str, Any]) -> float | None:
         if value is not None:
             return value
     return None
+
+
+def build_yahoo_chart_response(result: dict[str, Any]) -> dict[str, Any]:
+    return {
+        "chart": {
+            "result": [result],
+            "error": None,
+        }
+    }
+
+
+def extract_closes(result: dict[str, Any]) -> list[float]:
+    closes = (((result.get("indicators") or {}).get("quote") or [{}])[0]).get("close") or []
+    values: list[float] = []
+    for close in closes:
+        if close is None:
+            continue
+        try:
+            values.append(float(close))
+        except (TypeError, ValueError):
+            continue
+    return values
+
+
+def calculate_rrg_trail(sector_prices: list[float], benchmark_prices: list[float]) -> list[dict[str, float]]:
+    length = min(len(sector_prices), len(benchmark_prices))
+    if length < (RRG_RS_PERIOD + RRG_TRAIL_LENGTH + 5):
+        return []
+
+    rs_values: list[float] = []
+    for index in range(length):
+        benchmark_close = benchmark_prices[index]
+        if benchmark_close == 0:
+            continue
+        rs_values.append(sector_prices[index] / benchmark_close)
+
+    rs_average: list[float] = []
+    for index in range(RRG_RS_PERIOD - 1, len(rs_values)):
+        window = rs_values[index - RRG_RS_PERIOD + 1 : index + 1]
+        rs_average.append(sum(window) / RRG_RS_PERIOD)
+
+    rs_ratio: list[float] = []
+    for index, average in enumerate(rs_average):
+        if average == 0:
+            continue
+        raw_index = index + RRG_RS_PERIOD - 1
+        rs_ratio.append((rs_values[raw_index] / average) * 100)
+
+    trail: list[dict[str, float]] = []
+    start_index = len(rs_ratio) - RRG_TRAIL_LENGTH
+    for index in range(RRG_TRAIL_LENGTH):
+        ratio_index = start_index + index
+        if ratio_index < 1 or ratio_index >= len(rs_ratio):
+            continue
+        previous = rs_ratio[ratio_index - 1]
+        if previous == 0:
+            continue
+        current = rs_ratio[ratio_index]
+        trail.append(
+            {
+                "rsRatio": round(current, 2),
+                "rsMomentum": round((current / previous) * 100, 2),
+            }
+        )
+    return trail
+
+
+def build_yahoo_snapshots_payload(timeout: int) -> tuple[dict[str, Any], dict[str, dict[str, Any]]]:
+    symbols = sorted({item["symbol"] for item in MARKET_SYMBOLS} | set(YAHOO_SNAPSHOT_SYMBOLS))
+    charts: dict[str, dict[str, Any]] = {}
+    warnings: list[str] = []
+
+    for symbol in symbols:
+        try:
+            result = fetch_yahoo_chart(symbol, timeout=timeout, interval="1d", data_range="1y")
+            charts[symbol] = build_yahoo_chart_response(result)
+        except RuntimeError as error:
+            warnings.append(f"{symbol}: {error}")
+
+    if not charts:
+        raise RuntimeError("No Yahoo chart snapshots were fetched.")
+
+    payload: dict[str, Any] = {
+        "generated_at": utc_now_iso(),
+        "source": {
+            "provider": "Yahoo Finance",
+            "endpoint": YAHOO_CHART_ENDPOINT,
+            "interval": "1d",
+            "range": "1y",
+        },
+        "charts": charts,
+    }
+    if warnings:
+        payload["warnings"] = warnings
+    return payload, charts
+
+
+def build_rrg_payload(charts: dict[str, dict[str, Any]]) -> dict[str, Any]:
+    benchmark_payload = charts.get(RRG_BENCHMARK, {})
+    benchmark_result = ((benchmark_payload.get("chart") or {}).get("result") or [None])[0]
+    if not isinstance(benchmark_result, dict):
+        raise RuntimeError("Benchmark data for RRG is missing.")
+
+    benchmark_prices = extract_closes(benchmark_result)
+    if not benchmark_prices:
+        raise RuntimeError("Benchmark closes for RRG are missing.")
+
+    sectors: list[dict[str, Any]] = []
+    warnings: list[str] = []
+
+    for name, symbol in RRG_SECTORS:
+        sector_payload = charts.get(symbol, {})
+        sector_result = ((sector_payload.get("chart") or {}).get("result") or [None])[0]
+        if not isinstance(sector_result, dict):
+            warnings.append(f"{symbol}: chart is missing")
+            continue
+
+        trail = calculate_rrg_trail(extract_closes(sector_result), benchmark_prices)
+        if not trail:
+            warnings.append(f"{symbol}: insufficient trail data")
+            continue
+
+        sectors.append({"name": name, "symbol": symbol, "trail": trail})
+
+    if not sectors:
+        raise RuntimeError("No RRG sector data could be calculated from Yahoo snapshots.")
+
+    payload: dict[str, Any] = {
+        "generated_at": utc_now_iso(),
+        "benchmark": RRG_BENCHMARK,
+        "sectors": sectors,
+        "lastUpdated": utc_now_iso(),
+    }
+    if warnings:
+        payload["warnings"] = warnings
+    return payload
 
 
 def build_market_payload(timeout: int) -> dict[str, Any]:
@@ -318,6 +497,8 @@ def main() -> int:
     output_dir = Path(args.output_dir).resolve()
     market_path = output_dir / "market.json"
     news_path = output_dir / "news.json"
+    yahoo_charts_path = output_dir / "yahoo-charts.json"
+    rrg_path = output_dir / "rrg.json"
 
     successes: list[str] = []
     failures: list[str] = []
@@ -342,12 +523,32 @@ def main() -> int:
     elif news_error:
         failures.append(news_error)
 
+    try:
+        yahoo_snapshots_payload, yahoo_charts = build_yahoo_snapshots_payload(timeout=args.timeout)
+        write_json(yahoo_charts_path, yahoo_snapshots_payload)
+        successes.append(str(yahoo_charts_path))
+
+        rrg_payload = build_rrg_payload(yahoo_charts)
+        write_json(rrg_path, rrg_payload)
+        successes.append(str(rrg_path))
+    except (HTTPError, URLError, ET.ParseError, json.JSONDecodeError, RuntimeError) as error:
+        missing_outputs = [path for path in (yahoo_charts_path, rrg_path) if not path.exists()]
+        if missing_outputs:
+            failures.append(
+                "snapshot update failed and missing files remain unavailable: "
+                + ", ".join(str(path) for path in missing_outputs)
+                + f" ({error})"
+            )
+        else:
+            failures.append(f"snapshot update failed, existing files kept: {error}")
+
     for path in successes:
         print(f"updated: {path}")
     for message in failures:
         print(f"warning: {message}", file=sys.stderr)
 
-    return 0 if not failures or all(path.exists() for path in (market_path, news_path)) else 1
+    required_paths = (market_path, news_path, yahoo_charts_path, rrg_path)
+    return 0 if not failures or all(path.exists() for path in required_paths) else 1
 
 
 if __name__ == "__main__":

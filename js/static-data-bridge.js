@@ -4,17 +4,14 @@
     "/api/ft-home-rss",
     "/api/reuters-markets",
   ]);
-
-  const DISPLAY_NAME_OVERRIDES = {
-    DJI: "다우존스",
-    BTC: "비트코인",
-    GOLD: "금",
-    DXY: "달러 인덱스",
-  };
+  const YAHOO_CHART_PREFIX = "/api/yahoo-finance/v8/finance/chart/";
+  const RRG_PROXY_PATHS = new Set(["/api/rrg", "/api/rrg.php"]);
 
   const originalFetch = window.fetch.bind(window);
   let marketPromise = null;
   let newsPromise = null;
+  let yahooChartsPromise = null;
+  let rrgPromise = null;
   let marketSyncPending = false;
 
   function toUrl(input) {
@@ -22,6 +19,15 @@
       return new URL(input.url, window.location.href);
     }
     return new URL(String(input), window.location.href);
+  }
+
+  function jsonResponse(payload, status = 200) {
+    return new Response(JSON.stringify(payload), {
+      status,
+      headers: {
+        "Content-Type": "application/json; charset=utf-8",
+      },
+    });
   }
 
   function escapeXml(value) {
@@ -33,17 +39,22 @@
       .replaceAll("'", "&apos;");
   }
 
+  async function loadJson(path) {
+    const response = await originalFetch(path, {
+      cache: "no-store",
+      headers: { Accept: "application/json" },
+    });
+
+    if (!response.ok) {
+      throw new Error(`${path} request failed (${response.status})`);
+    }
+
+    return response.json();
+  }
+
   async function loadMarketItems() {
     if (!marketPromise) {
-      marketPromise = originalFetch("/data/market.json", {
-        cache: "no-store",
-        headers: { Accept: "application/json" },
-      }).then(async (response) => {
-        if (!response.ok) {
-          throw new Error(`market.json request failed (${response.status})`);
-        }
-
-        const payload = await response.json();
+      marketPromise = loadJson("/data/market.json").then((payload) => {
         const items = Array.isArray(payload.items) ? payload.items : [];
         return new Map(items.map((item) => [item.symbol, item]));
       });
@@ -54,20 +65,28 @@
 
   async function loadNewsItems() {
     if (!newsPromise) {
-      newsPromise = originalFetch("/data/news.json", {
-        cache: "no-store",
-        headers: { Accept: "application/json" },
-      }).then(async (response) => {
-        if (!response.ok) {
-          throw new Error(`news.json request failed (${response.status})`);
-        }
-
-        const payload = await response.json();
-        return Array.isArray(payload.items) ? payload.items : [];
-      });
+      newsPromise = loadJson("/data/news.json").then((payload) =>
+        Array.isArray(payload.items) ? payload.items : []
+      );
     }
 
     return newsPromise;
+  }
+
+  async function loadYahooCharts() {
+    if (!yahooChartsPromise) {
+      yahooChartsPromise = loadJson("/data/yahoo-charts.json").then((payload) => payload.charts || {});
+    }
+
+    return yahooChartsPromise;
+  }
+
+  async function loadRrgPayload() {
+    if (!rrgPromise) {
+      rrgPromise = loadJson("/data/rrg.json");
+    }
+
+    return rrgPromise;
   }
 
   function buildSyntheticNewsRss(items) {
@@ -96,34 +115,32 @@
   }
 
   function formatPrice(item) {
-    const value = item.price;
-    if (typeof value !== "number" || Number.isNaN(value)) {
+    if (typeof item.price !== "number" || Number.isNaN(item.price)) {
       return "--";
     }
 
     if (item.symbol === "BTC") {
-      return `$${formatNumber(value, { maximumFractionDigits: 0 })}`;
+      return `$${formatNumber(item.price, { maximumFractionDigits: 0 })}`;
     }
 
     if (item.symbol === "GOLD") {
-      return `$${formatNumber(value, { minimumFractionDigits: 2, maximumFractionDigits: 2 })}`;
+      return `$${formatNumber(item.price, { minimumFractionDigits: 2, maximumFractionDigits: 2 })}`;
     }
 
     if (item.symbol === "DXY") {
-      return formatNumber(value, { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+      return formatNumber(item.price, { minimumFractionDigits: 2, maximumFractionDigits: 2 });
     }
 
-    return formatNumber(value, { maximumFractionDigits: 2 });
+    return formatNumber(item.price, { maximumFractionDigits: 2 });
   }
 
   function formatChange(item) {
-    const value = item.change;
-    if (typeof value !== "number" || Number.isNaN(value)) {
+    if (typeof item.change !== "number" || Number.isNaN(item.change)) {
       return "--";
     }
 
-    const prefix = value >= 0 ? "+" : "-";
-    const absolute = Math.abs(value);
+    const prefix = item.change >= 0 ? "+" : "-";
+    const absolute = Math.abs(item.change);
     const digits =
       item.symbol === "GOLD" || item.symbol === "DXY"
         ? { minimumFractionDigits: 2, maximumFractionDigits: 2 }
@@ -133,13 +150,12 @@
   }
 
   function formatChangePercent(item) {
-    const value = item.change_percent;
-    if (typeof value !== "number" || Number.isNaN(value)) {
+    if (typeof item.change_percent !== "number" || Number.isNaN(item.change_percent)) {
       return "--";
     }
 
-    const prefix = value >= 0 ? "+" : "-";
-    return `${prefix}${Math.abs(value).toFixed(2)}%`;
+    const prefix = item.change_percent >= 0 ? "+" : "-";
+    return `${prefix}${Math.abs(item.change_percent).toFixed(2)}%`;
   }
 
   function applyMarketData(items) {
@@ -165,16 +181,14 @@
 
       card.classList.toggle("glow-green", isUp);
       card.classList.toggle("glow-red", !isUp);
-
       badgeElement.classList.toggle("bg-up/15", isUp);
       badgeElement.classList.toggle("text-up", isUp);
       badgeElement.classList.toggle("bg-down/15", !isUp);
       badgeElement.classList.toggle("text-down", !isUp);
-
       changeElement.classList.toggle("text-up", isUp);
       changeElement.classList.toggle("text-down", !isUp);
 
-      nameElement.textContent = DISPLAY_NAME_OVERRIDES[item.symbol] || item.name || symbolElement.textContent.trim();
+      nameElement.textContent = item.name || symbolElement.textContent.trim();
       priceElement.textContent = formatPrice(item);
       changeElement.textContent = formatChange(item);
       badgeElement.textContent = `${isUp ? "▲" : "▼"} ${formatChangePercent(item)}`;
@@ -204,6 +218,7 @@
 
   window.fetch = async (input, init) => {
     const url = toUrl(input);
+
     if (NEWS_PROXY_PATHS.has(url.pathname)) {
       const items = await loadNewsItems();
       return new Response(buildSyntheticNewsRss(items), {
@@ -212,6 +227,21 @@
           "Content-Type": "application/rss+xml; charset=utf-8",
         },
       });
+    }
+
+    if (url.pathname.startsWith(YAHOO_CHART_PREFIX)) {
+      const symbol = decodeURIComponent(url.pathname.slice(YAHOO_CHART_PREFIX.length));
+      const charts = await loadYahooCharts();
+      const payload = charts[symbol];
+      if (payload) {
+        return jsonResponse(payload);
+      }
+      return jsonResponse({ chart: { result: null, error: { code: "Not Found", description: `No static chart for ${symbol}` } } }, 404);
+    }
+
+    if (RRG_PROXY_PATHS.has(url.pathname)) {
+      const payload = await loadRrgPayload();
+      return jsonResponse(payload);
     }
 
     return originalFetch(input, init);
