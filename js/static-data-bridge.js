@@ -1,4 +1,5 @@
 (() => {
+  window.__STATIC_DATA_BRIDGE_VERSION__ = "20260311-4";
   const NEWS_PROXY_PATHS = new Set([
     "/api/bbc-business-rss",
     "/api/ft-home-rss",
