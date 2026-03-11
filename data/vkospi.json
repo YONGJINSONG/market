@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-11T13:15:56Z",
+  "generated_at": "2026-03-11T14:28:50Z",
   "sourceUrl": "https://eindex.krx.co.kr/contents/GLB/05/0502/0502030101/GLB0502030101T2.jsp?upmidCd=0202&idxCd=1300&idxId=O2901P",
   "source": {
     "provider": "Yahoo Finance fallback",
@@ -2519,13 +2519,13 @@
     },
     {
       "trd_dd": "2026/03/11",
-      "clsprc_idx": "25.51",
+      "clsprc_idx": "24.52",
       "opnprc_idx": "24.90",
       "hgprc_idx": "26.23",
-      "lwprc_idx": "24.55",
-      "cmpprevdd_idx": "0.58",
-      "fluc_rt": "2.33",
-      "fluc_tp_cd": "2"
+      "lwprc_idx": "23.75",
+      "cmpprevdd_idx": "-0.41",
+      "fluc_rt": "-1.64",
+      "fluc_tp_cd": "5"
     }
   ]
 }
