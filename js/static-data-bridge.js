@@ -6,6 +6,7 @@
   ]);
   const YAHOO_CHART_PREFIX = "/api/yahoo-finance/v8/finance/chart/";
   const RRG_PROXY_PATHS = new Set(["/api/rrg", "/api/rrg.php"]);
+  const VKOSPI_PROXY_PATH = "/api/krx-vkospi";
   const FRED_PROXY_PATH = "/api/fred-graph/graph/fredgraph.csv";
   const BREADTH_HISTORY_PATH =
     "/api/tradermonty-breadth/market-breadth-analysis/market_breadth_data.csv";
@@ -18,6 +19,7 @@
   let newsPromise = null;
   let yahooChartsPromise = null;
   let rrgPromise = null;
+  let vkospiPromise = null;
   let cnnFearGreedPromise = null;
   let breadthHistoryPromise = null;
   let breadthSummaryPromise = null;
@@ -119,6 +121,14 @@
     }
 
     return rrgPromise;
+  }
+
+  async function loadVkospiPayload() {
+    if (!vkospiPromise) {
+      vkospiPromise = loadJson("/data/vkospi.json");
+    }
+
+    return vkospiPromise;
   }
 
   async function loadCnnFearGreed() {
@@ -302,6 +312,38 @@
     return target.startsWith(CNN_FEAR_GREED_TARGET);
   }
 
+  function filterVkospiOutput(payload, range) {
+    const allRows = Array.isArray(payload.output) ? payload.output : [];
+    if (!allRows.length) {
+      return { ...payload, output: [] };
+    }
+
+    const maxDaysByRange = {
+      "1mo": 31,
+      "3mo": 93,
+      "6mo": 186,
+      "1y": 366,
+    };
+    const maxDays = maxDaysByRange[range] || maxDaysByRange["1y"];
+    const latestDateText = allRows[allRows.length - 1]?.trd_dd?.replaceAll("/", "-");
+    const latestDate = latestDateText ? new Date(`${latestDateText}T00:00:00Z`) : null;
+    if (!latestDate || Number.isNaN(latestDate.getTime())) {
+      return payload;
+    }
+
+    const filteredRows = allRows.filter((row) => {
+      const rowDateText = row?.trd_dd?.replaceAll("/", "-");
+      const rowDate = rowDateText ? new Date(`${rowDateText}T00:00:00Z`) : null;
+      if (!rowDate || Number.isNaN(rowDate.getTime())) {
+        return false;
+      }
+      const dayDiff = (latestDate.getTime() - rowDate.getTime()) / (1000 * 60 * 60 * 24);
+      return dayDiff <= maxDays;
+    });
+
+    return { ...payload, output: filteredRows.length ? filteredRows : allRows };
+  }
+
   window.fetch = async (input, init) => {
     const url = toUrl(input);
 
@@ -331,6 +373,11 @@
     if (RRG_PROXY_PATHS.has(url.pathname)) {
       const payload = await loadRrgPayload();
       return jsonResponse(payload);
+    }
+
+    if (url.pathname === VKOSPI_PROXY_PATH) {
+      const payload = await loadVkospiPayload();
+      return jsonResponse(filterVkospiOutput(payload, url.searchParams.get("range") || "1y"));
     }
 
     if (url.pathname === FRED_PROXY_PATH) {

@@ -25,6 +25,10 @@ GOOGLE_NEWS_RSS = "https://news.google.com/rss/search"
 CNN_FEAR_GREED_URL = "https://production.dataviz.cnn.io/index/fearandgreed/graphdata"
 FRED_GRAPH_ENDPOINT = "https://fred.stlouisfed.org/graph/fredgraph.csv"
 FRED_SERIES_IDS = ("DGS10", "DGS2")
+KRX_VKOSPI_SOURCE_URL = (
+    "https://eindex.krx.co.kr/contents/GLB/05/0502/0502030101/GLB0502030101T2.jsp"
+    "?upmidCd=0202&idxCd=1300&idxId=O2901P"
+)
 USER_AGENT = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
     "AppleWebKit/537.36 (KHTML, like Gecko) "
@@ -442,6 +446,79 @@ def build_rrg_payload(charts: dict[str, dict[str, Any]]) -> dict[str, Any]:
     if warnings:
         payload["warnings"] = warnings
     return payload
+
+
+def build_vkospi_payload(charts: dict[str, dict[str, Any]]) -> dict[str, Any]:
+    vix_result = get_chart_result(charts, "^VIX")
+    if vix_result is None:
+        raise RuntimeError("VKOSPI fallback requires ^VIX Yahoo snapshot data.")
+
+    timestamps = vix_result.get("timestamp") or []
+    quote = (((vix_result.get("indicators") or {}).get("quote") or [{}])[0])
+    opens = quote.get("open") or []
+    highs = quote.get("high") or []
+    lows = quote.get("low") or []
+    closes = quote.get("close") or []
+
+    output: list[dict[str, Any]] = []
+    previous_close: float | None = None
+
+    for index, timestamp in enumerate(timestamps):
+        iso = to_iso8601_from_unix(timestamp)
+        if iso is None:
+            continue
+
+        close_value = closes[index] if index < len(closes) else None
+        open_value = opens[index] if index < len(opens) else close_value
+        high_value = highs[index] if index < len(highs) else close_value
+        low_value = lows[index] if index < len(lows) else close_value
+
+        try:
+            numeric_close = float(close_value)
+            numeric_open = float(open_value if open_value is not None else close_value)
+            numeric_high = float(high_value if high_value is not None else close_value)
+            numeric_low = float(low_value if low_value is not None else close_value)
+        except (TypeError, ValueError):
+            continue
+
+        change_value = None if previous_close in (None, 0) else numeric_close - previous_close
+        change_percent = None if previous_close in (None, 0) else (change_value / previous_close) * 100
+        if change_value is None:
+            direction = "3"
+        elif change_value > 0:
+            direction = "2"
+        elif change_value < 0:
+            direction = "5"
+        else:
+            direction = "3"
+
+        output.append(
+            {
+                "trd_dd": iso[:10].replace("-", "/"),
+                "clsprc_idx": f"{numeric_close:.2f}",
+                "opnprc_idx": f"{numeric_open:.2f}",
+                "hgprc_idx": f"{numeric_high:.2f}",
+                "lwprc_idx": f"{numeric_low:.2f}",
+                "cmpprevdd_idx": f"{(change_value or 0):.2f}",
+                "fluc_rt": f"{(change_percent or 0):.2f}",
+                "fluc_tp_cd": direction,
+            }
+        )
+        previous_close = numeric_close
+
+    if not output:
+        raise RuntimeError("VKOSPI fallback output is empty.")
+
+    return {
+        "generated_at": utc_now_iso(),
+        "sourceUrl": KRX_VKOSPI_SOURCE_URL,
+        "source": {
+            "provider": "Yahoo Finance fallback",
+            "fallback_for": "KRX VKOSPI",
+            "symbol": "^VIX",
+        },
+        "output": output,
+    }
 
 
 def build_market_payload(timeout: int) -> dict[str, Any]:
@@ -942,6 +1019,7 @@ def main() -> int:
     market_path = output_dir / "market.json"
     news_path = output_dir / "news.json"
     yahoo_charts_path = output_dir / "yahoo-charts.json"
+    vkospi_path = output_dir / "vkospi.json"
     rrg_path = output_dir / "rrg.json"
     cnn_fear_greed_path = output_dir / "cnn-fear-greed.json"
     fred_dir = output_dir / "fred"
@@ -989,6 +1067,10 @@ def main() -> int:
         write_json(yahoo_charts_path, yahoo_snapshots_payload)
         successes.append(str(yahoo_charts_path))
 
+        vkospi_payload = build_vkospi_payload(yahoo_charts)
+        write_json(vkospi_path, vkospi_payload)
+        successes.append(str(vkospi_path))
+
         cnn_payload = build_cnn_fear_greed_payload(timeout=args.timeout, charts=yahoo_charts)
         write_json(cnn_fear_greed_path, cnn_payload)
         successes.append(str(cnn_fear_greed_path))
@@ -1007,6 +1089,7 @@ def main() -> int:
             path
             for path in (
                 yahoo_charts_path,
+                vkospi_path,
                 cnn_fear_greed_path,
                 rrg_path,
                 breadth_history_path,
@@ -1032,6 +1115,7 @@ def main() -> int:
         market_path,
         news_path,
         yahoo_charts_path,
+        vkospi_path,
         rrg_path,
         cnn_fear_greed_path,
         breadth_history_path,
