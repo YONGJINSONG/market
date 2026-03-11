@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-11T19:31:53Z",
+  "generated_at": "2026-03-11T20:04:23Z",
   "sourceUrl": "https://eindex.krx.co.kr/contents/GLB/05/0502/0502030101/GLB0502030101T2.jsp?upmidCd=0202&idxCd=1300&idxId=O2901P",
   "source": {
     "provider": "Yahoo Finance fallback",
@@ -8,24 +8,14 @@
   },
   "output": [
     {
-      "trd_dd": "2025/03/11",
-      "clsprc_idx": "26.92",
-      "opnprc_idx": "27.94",
-      "hgprc_idx": "29.57",
-      "lwprc_idx": "26.18",
-      "cmpprevdd_idx": "0.00",
-      "fluc_rt": "0.00",
-      "fluc_tp_cd": "3"
-    },
-    {
       "trd_dd": "2025/03/12",
       "clsprc_idx": "24.23",
       "opnprc_idx": "26.88",
       "hgprc_idx": "26.91",
       "lwprc_idx": "23.89",
-      "cmpprevdd_idx": "-2.69",
-      "fluc_rt": "-9.99",
-      "fluc_tp_cd": "5"
+      "cmpprevdd_idx": "0.00",
+      "fluc_rt": "0.00",
+      "fluc_tp_cd": "3"
     },
     {
       "trd_dd": "2025/03/13",
@@ -2519,13 +2509,13 @@
     },
     {
       "trd_dd": "2026/03/11",
-      "clsprc_idx": "25.13",
+      "clsprc_idx": "24.60",
       "opnprc_idx": "24.90",
       "hgprc_idx": "26.23",
       "lwprc_idx": "23.75",
-      "cmpprevdd_idx": "0.20",
-      "fluc_rt": "0.80",
-      "fluc_tp_cd": "2"
+      "cmpprevdd_idx": "-0.33",
+      "fluc_rt": "-1.32",
+      "fluc_tp_cd": "5"
     }
   ]
 }
