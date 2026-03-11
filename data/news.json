@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-11T15:27:14Z",
+  "generated_at": "2026-03-11T16:29:39Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,20 +7,20 @@
   },
   "items": [
     {
-      "title": "US Stock Futures Fluctuate as Brent Hits $90 Again: Markets Wrap - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU1RKSWV6R3hnTzJCZHE3c3lfc3F5MWhYSnJxLVE3SkFybDVSdkhfTWtRSUMxeFB5Zk9LVjlEMUIzaXlnSEVnU0x3bXVlNzU1emVITlRUOVphQkxhbTJkTEE2a0lZRlJxTG5IbE1OTVFqbEFLOTNmejNNa1g1ekpzaUtYVjRCcFF4V0x3aWZ5TFpxZVdzV0dpSktrWnJhUmtqM2d0eG44OW84YnU5dWp4Qw?oc=5",
-      "source": "Bloomberg.com",
-      "published_at": "Wed, 11 Mar 2026 14:00:52 GMT",
-      "summary": "US Stock Futures Fluctuate as Brent Hits $90 Again: Markets Wrap Bloomberg.com",
-      "guid": "CBMisAFBVV95cUxOU1RKSWV6R3hnTzJCZHE3c3lfc3F5MWhYSnJxLVE3SkFybDVSdkhfTWtRSUMxeFB5Zk9LVjlEMUIzaXlnSEVnU0x3bXVlNzU1emVITlRUOVphQkxhbTJkTEE2a0lZRlJxTG5IbE1OTVFqbEFLOTNmejNNa1g1ekpzaUtYVjRCcFF4V0x3aWZ5TFpxZVdzV0dpSktrWnJhUmtqM2d0eG44OW84YnU5dWp4Qw"
-    },
-    {
       "title": "Dow Jones Futures Fall, Oracle Jumps On Earnings; Oil Swings With Reserves Release Plan Due - Investor's Business Daily",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQT3h5dVlOSEllekhoTWEteFI2UVlWYVE2TzdhMGRUUmYxN0UxYW9TOW9PTm92alFtMWt1VThmWTA5b0FBYkZhVUlBamhVTVpnUTFVcHA4WDF5X3hSUkdCdlNobDV4ZWZCd3g3c0pOaUt2NU1EeWYxMW9wYWdfNUdkS2EtVzFEcUZCczJMdXZ2ZmpfamJnX19TZUpEM255YTNGTlFwVEpDOWlpZWdpSF92bDNWaDJOT0dSV2o0?oc=5",
       "source": "Investor's Business Daily",
       "published_at": "Wed, 11 Mar 2026 13:05:00 GMT",
       "summary": "Dow Jones Futures Fall, Oracle Jumps On Earnings; Oil Swings With Reserves Release Plan Due Investor's Business Daily",
       "guid": "CBMiuwFBVV95cUxQT3h5dVlOSEllekhoTWEteFI2UVlWYVE2TzdhMGRUUmYxN0UxYW9TOW9PTm92alFtMWt1VThmWTA5b0FBYkZhVUlBamhVTVpnUTFVcHA4WDF5X3hSUkdCdlNobDV4ZWZCd3g3c0pOaUt2NU1EeWYxMW9wYWdfNUdkS2EtVzFEcUZCczJMdXZ2ZmpfamJnX19TZUpEM255YTNGTlFwVEpDOWlpZWdpSF92bDNWaDJOT0dSV2o0"
+    },
+    {
+      "title": "US Stock Futures Fluctuate as Brent Hits $90 Again: Markets Wrap - Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU1RKSWV6R3hnTzJCZHE3c3lfc3F5MWhYSnJxLVE3SkFybDVSdkhfTWtRSUMxeFB5Zk9LVjlEMUIzaXlnSEVnU0x3bXVlNzU1emVITlRUOVphQkxhbTJkTEE2a0lZRlJxTG5IbE1OTVFqbEFLOTNmejNNa1g1ekpzaUtYVjRCcFF4V0x3aWZ5TFpxZVdzV0dpSktrWnJhUmtqM2d0eG44OW84YnU5dWp4Qw?oc=5",
+      "source": "Bloomberg",
+      "published_at": "Wed, 11 Mar 2026 15:12:28 GMT",
+      "summary": "US Stock Futures Fluctuate as Brent Hits $90 Again: Markets Wrap Bloomberg",
+      "guid": "CBMisAFBVV95cUxOU1RKSWV6R3hnTzJCZHE3c3lfc3F5MWhYSnJxLVE3SkFybDVSdkhfTWtRSUMxeFB5Zk9LVjlEMUIzaXlnSEVnU0x3bXVlNzU1emVITlRUOVphQkxhbTJkTEE2a0lZRlJxTG5IbE1OTVFqbEFLOTNmejNNa1g1ekpzaUtYVjRCcFF4V0x3aWZ5TFpxZVdzV0dpSktrWnJhUmtqM2d0eG44OW84YnU5dWp4Qw"
     },
     {
       "title": "How Do Changing Interest Rates Affect the Stock Market? - U.S. Bank",
@@ -71,20 +71,20 @@
       "guid": "CBMimAFBVV95cUxONHY2YXpMeVhfamZ1UWRPcmc2cFRCUFh4NWlvRlhlZTExX2RtMGFDdWJyanU2Ty01TzU0TExSRXpTWlV5ZnZkUURROE42ODlVRG0yYi1ZNkRvdGZWS3phaV9NWnpTRDE2T3ZxaHdIUkhRMFpvTktVcUQ2clB2REJlWmNjV3czNzZCMHZydVotaWhYMl96eUplWQ"
     },
     {
+      "title": "The Stock Market Is Cratering. These Charts Explain Why. - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxNZ0p5T0hDT3JzdGQtdVUtRURZbDdMUFlWQjJQZ3I5T1A4dUZBbnJkMGpmcktKREZyTEh5TTZ0bm8zNUtudWRsRDVNQjZVS2JzN25YT3k0WS1iUXpUa2F6Zi01bHVoU3pZNFJnUGtEOGNIS1NNNl9HajRJTGc4NmNQS09mYjc5OENzZW82ZmpURC1teGVCcG5xLUN1YUMyb2VPVncwMTJOZzdHNlZKQU9ZVzNsTjhHMHRiOEpmblBJNUx2aUdZYnRKMlRyY0RldTZuWnpCUkFXVmNPVGJWODNCZFRkcVF5Wm1Cb3dkeFFmRzZTdGlaSVhIRlpxaC16SlBLN2lWcjV4b0FoZEZSUUtHN24wUWtHMTFXQ1BLYVpEOTdZZWx3TGpxSHh0Y0ZoLTBkSzBXelZVVWVLNjBnTk9NbFBfWjhLWUR3X2I5M0lVZVF6WVQyTHd6N2htVi1ZUXB1R2gwMEZfQ04xNlhpRU56S3hVQzk4TEtGXy1Xd3lGdGo5UDZYUU1RUENhdXplbzB5N1E0?oc=5",
+      "source": "Barron's",
+      "published_at": "Fri, 14 Nov 2025 08:00:00 GMT",
+      "summary": "The Stock Market Is Cratering. These Charts Explain Why. Barron's",
+      "guid": "CBMikwNBVV95cUxNZ0p5T0hDT3JzdGQtdVUtRURZbDdMUFlWQjJQZ3I5T1A4dUZBbnJkMGpmcktKREZyTEh5TTZ0bm8zNUtudWRsRDVNQjZVS2JzN25YT3k0WS1iUXpUa2F6Zi01bHVoU3pZNFJnUGtEOGNIS1NNNl9HajRJTGc4NmNQS09mYjc5OENzZW82ZmpURC1teGVCcG5xLUN1YUMyb2VPVncwMTJOZzdHNlZKQU9ZVzNsTjhHMHRiOEpmblBJNUx2aUdZYnRKMlRyY0RldTZuWnpCUkFXVmNPVGJWODNCZFRkcVF5Wm1Cb3dkeFFmRzZTdGlaSVhIRlpxaC16SlBLN2lWcjV4b0FoZEZSUUtHN24wUWtHMTFXQ1BLYVpEOTdZZWx3TGpxSHh0Y0ZoLTBkSzBXelZVVWVLNjBnTk9NbFBfWjhLWUR3X2I5M0lVZVF6WVQyTHd6N2htVi1ZUXB1R2gwMEZfQ04xNlhpRU56S3hVQzk4TEtGXy1Xd3lGdGo5UDZYUU1RUENhdXplbzB5N1E0"
+    },
+    {
       "title": "Will the Stock Market Crash in 2026? The Federal Reserve Sends a Silent Warning to Investors. - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTUdXZ2dsYzlSb3paNUZIRDJ2VUR5LWp1NWFPRUpGUHc0V0txVXVVMkYzMTl6aUlUMHdHLUdHRlg2ZXdEdWJuZm90dS1wMlFlLThNQjRSTVhub0pLWXRnN0FUODBGTURieXlMNkZVUXJiRzFFU1hzS25HX1lrWmFCcktpTQ?oc=5",
       "source": "Yahoo Finance",
       "published_at": "Wed, 24 Dec 2025 08:00:00 GMT",
       "summary": "Will the Stock Market Crash in 2026? The Federal Reserve Sends a Silent Warning to Investors. Yahoo Finance",
       "guid": "CBMigwFBVV95cUxQTUdXZ2dsYzlSb3paNUZIRDJ2VUR5LWp1NWFPRUpGUHc0V0txVXVVMkYzMTl6aUlUMHdHLUdHRlg2ZXdEdWJuZm90dS1wMlFlLThNQjRSTVhub0pLWXRnN0FUODBGTURieXlMNkZVUXJiRzFFU1hzS25HX1lrWmFCcktpTQ"
-    },
-    {
-      "title": "The Stock Market Is Cratering. These Charts Explain Why. - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxOR0dkZ2Frak0xbU9QaTI0WHNCMk5UOTVJN01sUXRpaEsxeFhMbHZXUG92a3pDOUZuUm53M01QYnhqQjU5b3JNeVZvcTN1aVh2TF9EbmdlRmlXcDJRZzJtLWdSbGFlZHJhSDhnOFdmWFpTR0ZaSWdIbWFqY3dmZ3JuNXp2Vmo3M3RQSC0xYkZCd2E1NFhyNzBHZTAxWWRPLWdfbzBPNzRzd08wQ2pvVmE1SU83a1dFVE9kbkZzdUFHdTZQcF9EaTkyZ3ZxeGoyaUdYLTV0T0I4anFGT3VHYlVVNVFVaV9tWGxQekE4bFpmWGpZMWRDT2pVTHRDV2I3WlFLV2JyOUp6c1BKb1FuSFl5Y2lTZ0lxVnBDMFlJbHVneGUxYUVuZXJENC1GZ3lNcjBnQ1EtOWI1cGdGNUtSSHBsc2d2MW5fWEhQZE9zOHJLUjJNT2xrekFBUHZsZjlIa0I0RWJlMzhwZ1RTLXdfOGgzTlphY1JFa1V3dEU3dzRGaXl4SEFsckRCQUxxbmZCdVA1ZWdv?oc=5",
-      "source": "Barron's",
-      "published_at": "Fri, 14 Nov 2025 08:00:00 GMT",
-      "summary": "The Stock Market Is Cratering. These Charts Explain Why. Barron's",
-      "guid": "CBMikwNBVV95cUxOR0dkZ2Frak0xbU9QaTI0WHNCMk5UOTVJN01sUXRpaEsxeFhMbHZXUG92a3pDOUZuUm53M01QYnhqQjU5b3JNeVZvcTN1aVh2TF9EbmdlRmlXcDJRZzJtLWdSbGFlZHJhSDhnOFdmWFpTR0ZaSWdIbWFqY3dmZ3JuNXp2Vmo3M3RQSC0xYkZCd2E1NFhyNzBHZTAxWWRPLWdfbzBPNzRzd08wQ2pvVmE1SU83a1dFVE9kbkZzdUFHdTZQcF9EaTkyZ3ZxeGoyaUdYLTV0T0I4anFGT3VHYlVVNVFVaV9tWGxQekE4bFpmWGpZMWRDT2pVTHRDV2I3WlFLV2JyOUp6c1BKb1FuSFl5Y2lTZ0lxVnBDMFlJbHVneGUxYUVuZXJENC1GZ3lNcjBnQ1EtOWI1cGdGNUtSSHBsc2d2MW5fWEhQZE9zOHJLUjJNT2xrekFBUHZsZjlIa0I0RWJlMzhwZ1RTLXdfOGgzTlphY1JFa1V3dEU3dzRGaXl4SEFsckRCQUxxbmZCdVA1ZWdv"
     }
   ]
 }
