@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-12T22:14:33Z",
+  "generated_at": "2026-03-12T22:45:28Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -23,20 +23,12 @@
       "guid": "CBMiWkFVX3lxTE5KWW1mc3dVZVVKTm9qd2dlY0h1bTQ3cEY5dWlnUkc1UGFWcjM1OHpBZ3N2a0xsMHFaa0hWZDFreFljOWpjOGFjbmprZ3VoamxLTml5VkJRQ3ptdw"
     },
     {
-      "title": "S&P 500 Slumps in Worst Day Since War Began - The New York Times",
+      "title": "S&P 500 Slumps in Worst Day Since War Began - The New York Times - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVnItWDVzMGI5Nk5GVDR2QU1pNzg4SjhjTkYzQXBhUjdDWEljMWcwOHZwMnJCMmtUMnFJSDRobnh4WUs1T1hmR3JlOUhMX244Um51Y1VUYkF1NlhlX0FEZEZ5X3lRblNYMTUya2xtdEdoQlFBTUJwZ3UwM0hRRTdqMw?oc=5",
       "source": "The New York Times",
       "published_at": "Thu, 12 Mar 2026 03:25:41 GMT",
-      "summary": "S&P 500 Slumps in Worst Day Since War Began The New York Times",
+      "summary": "S&P 500 Slumps in Worst Day Since War Began - The New York Times The New York Times",
       "guid": "CBMigAFBVV95cUxNVnItWDVzMGI5Nk5GVDR2QU1pNzg4SjhjTkYzQXBhUjdDWEljMWcwOHZwMnJCMmtUMnFJSDRobnh4WUs1T1hmR3JlOUhMX244Um51Y1VUYkF1NlhlX0FEZEZ5X3lRblNYMTUya2xtdEdoQlFBTUJwZ3UwM0hRRTdqMw"
-    },
-    {
-      "title": "Dow Jones Futures Fall, Oracle Jumps On Earnings; Oil Swings With Reserves Release Plan Due - Investor's Business Daily",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQT3h5dVlOSEllekhoTWEteFI2UVlWYVE2TzdhMGRUUmYxN0UxYW9TOW9PTm92alFtMWt1VThmWTA5b0FBYkZhVUlBamhVTVpnUTFVcHA4WDF5X3hSUkdCdlNobDV4ZWZCd3g3c0pOaUt2NU1EeWYxMW9wYWdfNUdkS2EtVzFEcUZCczJMdXZ2ZmpfamJnX19TZUpEM255YTNGTlFwVEpDOWlpZWdpSF92bDNWaDJOT0dSV2o0?oc=5",
-      "source": "Investor's Business Daily",
-      "published_at": "Wed, 11 Mar 2026 13:05:00 GMT",
-      "summary": "Dow Jones Futures Fall, Oracle Jumps On Earnings; Oil Swings With Reserves Release Plan Due Investor's Business Daily",
-      "guid": "CBMiuwFBVV95cUxQT3h5dVlOSEllekhoTWEteFI2UVlWYVE2TzdhMGRUUmYxN0UxYW9TOW9PTm92alFtMWt1VThmWTA5b0FBYkZhVUlBamhVTVpnUTFVcHA4WDF5X3hSUkdCdlNobDV4ZWZCd3g3c0pOaUt2NU1EeWYxMW9wYWdfNUdkS2EtVzFEcUZCczJMdXZ2ZmpfamJnX19TZUpEM255YTNGTlFwVEpDOWlpZWdpSF92bDNWaDJOT0dSV2o0"
     },
     {
       "title": "How Do Changing Interest Rates Affect the Stock Market? - U.S. Bank",
@@ -80,11 +72,19 @@
     },
     {
       "title": "The Stock Market Is Cratering. These Charts Explain Why. - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxOWEJRT0duRV93ejI4WHRWRjlmcTdtTE1tNnhSeEd0ekFkNENsNl9zMUJweWpEODVIdVVZYVZoMW9KbkxSVGdQOFh0d1RZVHkweHdVdW15Z3VTQ19KREpuVzJWbzJSdXRhaEpaLWltYTVYZWxXbmgwU21aVmRwU2ZTNmc3VjNRQkRjeUczZkdQTld5MHFXaGQyS1NaUngxQzN0aWJnTG56LTZZN01TdzIzU0ZJejU2aVliMHNnT0t5VkJ0VEFmaGF3Mm81ZWppV0ZRRzBHeWpUd3V5U194ekxCald5NlhCby03UDlxVnhaZVR4QkJhcVVhM1NWX25KN2FieUZlUk9RdFlHOG1SMnFtNTM0UmgzRUNySGpIZURlRXNlLXM1T3hFT1JIVVhtenFnRXFCMWE0c2UzdVFiMXNFSDVUNE1OVFJhcWJiTnZrTmhIUXY3TC03Y0pwcHN4bkx3N29mM3lhNFg1bnktSGFzYUVlMlNTcHpzcG1venlEMGNhNHdwdUFOd3FLaHJUaWZsNzVJ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxNOWNQd2FKX0VDTWwzbkhVM0JTR0ozckFFdVR4cDdHX0ZDc0NSRlFCMHNwdHowTDRsRU5oMHA5ZHdJODRhTVFJM01KaFBjdkF6eVRWNTJKVHlCUFpCVTJ6cm9xV1NRd2dYbWdoMU9GMHJvQ05jMVI5d3N1WGk3bTdaVXBXQm1ja3Zfeno2aVlLdmtQMU9MdVQxRVNYaHdOa2ZJd0FEXzJtSGVNRmZhdnp0akxDLUMxcXpUTmsyTVdzUU1DYm02TEpPcHV3ZE5seHdGbzhKR1N4TURSRzJVQnZyYjhvcXpBWlVibGZDQUthbHpqQ2N6V3FfMjBrSDMzSnA0V0l4ckhFLXFfTWNJTVNUSHYtd1JIMXRyQUxENDZoSmtuNnoxc0ljRzU1NEExQlM5c0xCNm9RVjBSSGROTHNoMUVZVlQtUm5mVEZhamRqMmVDRDZvc2dfZXRETG1fU0NQQkpsZ1V3dG9FRjEtcE9lcFNPSWE4OUk0RXg1ZEJ6N0hTZHRuN0hKd0hxcTAwUHI5azdF?oc=5",
       "source": "Barron's",
       "published_at": "Fri, 14 Nov 2025 08:00:00 GMT",
       "summary": "The Stock Market Is Cratering. These Charts Explain Why. Barron's",
-      "guid": "CBMikwNBVV95cUxOWEJRT0duRV93ejI4WHRWRjlmcTdtTE1tNnhSeEd0ekFkNENsNl9zMUJweWpEODVIdVVZYVZoMW9KbkxSVGdQOFh0d1RZVHkweHdVdW15Z3VTQ19KREpuVzJWbzJSdXRhaEpaLWltYTVYZWxXbmgwU21aVmRwU2ZTNmc3VjNRQkRjeUczZkdQTld5MHFXaGQyS1NaUngxQzN0aWJnTG56LTZZN01TdzIzU0ZJejU2aVliMHNnT0t5VkJ0VEFmaGF3Mm81ZWppV0ZRRzBHeWpUd3V5U194ekxCald5NlhCby03UDlxVnhaZVR4QkJhcVVhM1NWX25KN2FieUZlUk9RdFlHOG1SMnFtNTM0UmgzRUNySGpIZURlRXNlLXM1T3hFT1JIVVhtenFnRXFCMWE0c2UzdVFiMXNFSDVUNE1OVFJhcWJiTnZrTmhIUXY3TC03Y0pwcHN4bkx3N29mM3lhNFg1bnktSGFzYUVlMlNTcHpzcG1venlEMGNhNHdwdUFOd3FLaHJUaWZsNzVJ"
+      "guid": "CBMikwNBVV95cUxNOWNQd2FKX0VDTWwzbkhVM0JTR0ozckFFdVR4cDdHX0ZDc0NSRlFCMHNwdHowTDRsRU5oMHA5ZHdJODRhTVFJM01KaFBjdkF6eVRWNTJKVHlCUFpCVTJ6cm9xV1NRd2dYbWdoMU9GMHJvQ05jMVI5d3N1WGk3bTdaVXBXQm1ja3Zfeno2aVlLdmtQMU9MdVQxRVNYaHdOa2ZJd0FEXzJtSGVNRmZhdnp0akxDLUMxcXpUTmsyTVdzUU1DYm02TEpPcHV3ZE5seHdGbzhKR1N4TURSRzJVQnZyYjhvcXpBWlVibGZDQUthbHpqQ2N6V3FfMjBrSDMzSnA0V0l4ckhFLXFfTWNJTVNUSHYtd1JIMXRyQUxENDZoSmtuNnoxc0ljRzU1NEExQlM5c0xCNm9RVjBSSGROTHNoMUVZVlQtUm5mVEZhamRqMmVDRDZvc2dfZXRETG1fU0NQQkpsZ1V3dG9FRjEtcE9lcFNPSWE4OUk0RXg1ZEJ6N0hTZHRuN0hKd0hxcTAwUHI5azdF"
+    },
+    {
+      "title": "The Stock Market Flashes a Warning Seen Twice in 40 Years, and the Federal Reserve Has Bad News About President Trump's Tariffs - Nasdaq",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUU5LanZFeG1YcDNnUEtqdUwzajg3eXk2ZnVNelg3eUw5SGwtV1U1NW1iMmFOZGVmcXRVZFFWTmJFc0ZhWnlWSkRhR2MwcWFPS2Zxd284REZOdTNxVXN2NUNGN29LemhkN3Uxbl9pdS0tT3pGUVc5Wm5fbTJqSFY3MjV5eldkVDRaZXo3OWM3YzlJRU1HNHBDQ1V1NUN6dDJjRkUyUl80TW1lZGpHbnc1aW5kRm05ODlZdmh3?oc=5",
+      "source": "Nasdaq",
+      "published_at": "Thu, 11 Dec 2025 08:00:00 GMT",
+      "summary": "The Stock Market Flashes a Warning Seen Twice in 40 Years, and the Federal Reserve Has Bad News About President Trump's Tariffs Nasdaq",
+      "guid": "CBMiuwFBVV95cUxNUU5LanZFeG1YcDNnUEtqdUwzajg3eXk2ZnVNelg3eUw5SGwtV1U1NW1iMmFOZGVmcXRVZFFWTmJFc0ZhWnlWSkRhR2MwcWFPS2Zxd284REZOdTNxVXN2NUNGN29LemhkN3Uxbl9pdS0tT3pGUVc5Wm5fbTJqSFY3MjV5eldkVDRaZXo3OWM3YzlJRU1HNHBDQ1V1NUN6dDJjRkUyUl80TW1lZGpHbnc1aW5kRm05ODlZdmh3"
     }
   ]
 }
