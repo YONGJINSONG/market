@@ -1,5 +1,6 @@
 (() => {
-  window.__STATIC_DATA_BRIDGE_VERSION__ = "20260311-5";
+  window.__STATIC_DATA_BRIDGE_VERSION__ = "20260312-1";
+
   const NEWS_PROXY_PATHS = new Set([
     "/api/bbc-business-rss",
     "/api/ft-home-rss",
@@ -13,8 +14,10 @@
     "/api/tradermonty-breadth/market-breadth-analysis/market_breadth_data.csv";
   const BREADTH_SUMMARY_PATH =
     "/api/tradermonty-breadth/market-breadth-analysis/market_breadth_summary.csv";
-  const CNN_FEAR_GREED_TARGET = "https://production.dataviz.cnn.io/index/fearandgreed/graphdata";
+  const CNN_FEAR_GREED_PROXY_PATH = "/api/cnn-fear-greed";
+
   const currentScript = document.currentScript;
+  const originalFetch = window.fetch.bind(window);
   const siteBasePath = (() => {
     const scriptUrl = new URL(currentScript?.src || window.location.href, window.location.href);
     const parts = scriptUrl.pathname.split("/");
@@ -25,13 +28,11 @@
     return "/";
   })();
 
-  const originalFetch = window.fetch.bind(window);
   let marketPromise = null;
   let newsPromise = null;
   let yahooChartsPromise = null;
   let rrgPromise = null;
   let vkospiPromise = null;
-  let cnnFearGreedPromise = null;
   let breadthHistoryPromise = null;
   let breadthSummaryPromise = null;
   const fredPromiseBySeries = new Map();
@@ -131,120 +132,6 @@
     return yahooChartsPromise;
   }
 
-  function sliceObjectArrays(source, indices) {
-    if (!source || typeof source !== "object") {
-      return source;
-    }
-
-    const next = Array.isArray(source) ? [] : {};
-    Object.entries(source).forEach(([key, value]) => {
-      if (Array.isArray(value)) {
-        next[key] = indices.map((index) => value[index] ?? null);
-      } else {
-        next[key] = value;
-      }
-    });
-    return next;
-  }
-
-  function getRangeDays(range) {
-    switch (range) {
-      case "5d":
-        return 5;
-      case "1mo":
-        return 31;
-      case "3mo":
-        return 93;
-      case "6mo":
-        return 186;
-      case "1y":
-        return 366;
-      case "2y":
-        return 732;
-      default:
-        return null;
-    }
-  }
-
-  function getWeekKey(unixSeconds) {
-    const date = new Date(unixSeconds * 1000);
-    const year = date.getUTCFullYear();
-    const start = Date.UTC(year, 0, 1);
-    const dayOfYear = Math.floor((date.getTime() - start) / (1000 * 60 * 60 * 24));
-    const week = Math.floor(dayOfYear / 7);
-    return `${year}-${week}`;
-  }
-
-  function buildYahooChartPayload(basePayload, url) {
-    const chart = basePayload?.chart;
-    const result = chart?.result?.[0];
-    if (!result || !Array.isArray(result.timestamp)) {
-      return basePayload;
-    }
-
-    const timestamps = result.timestamp;
-    if (!timestamps.length) {
-      return basePayload;
-    }
-
-    const range = url.searchParams.get("range") || result.meta?.range || "1y";
-    const interval = url.searchParams.get("interval") || result.meta?.dataGranularity || "1d";
-    const rangeDays = getRangeDays(range);
-    const latestTimestamp = timestamps[timestamps.length - 1];
-
-    let indices = timestamps.map((_, index) => index);
-    if (rangeDays != null) {
-      const cutoff = latestTimestamp - rangeDays * 24 * 60 * 60;
-      indices = indices.filter((index) => timestamps[index] >= cutoff);
-    }
-
-    if (interval === "1wk" && indices.length > 1) {
-      const grouped = new Map();
-      indices.forEach((index) => {
-        grouped.set(getWeekKey(timestamps[index]), index);
-      });
-      indices = Array.from(grouped.values());
-    }
-
-    if (!indices.length) {
-      return basePayload;
-    }
-
-    const selectedTimestamps = indices.map((index) => timestamps[index]);
-    const quote = ((result.indicators || {}).quote || [])[0] || {};
-    const closeValues = Array.isArray(quote.close) ? indices.map((index) => quote.close[index] ?? null) : [];
-    const lastClose = [...closeValues].reverse().find((value) => typeof value === "number") ?? result.meta?.regularMarketPrice ?? null;
-    const previousClose =
-      closeValues.length > 1
-        ? [...closeValues.slice(0, -1)].reverse().find((value) => typeof value === "number") ?? result.meta?.previousClose ?? null
-        : result.meta?.previousClose ?? null;
-
-    const nextResult = {
-      ...result,
-      meta: {
-        ...result.meta,
-        range,
-        dataGranularity: interval,
-        regularMarketPrice: lastClose,
-        previousClose,
-        chartPreviousClose: previousClose,
-      },
-      timestamp: selectedTimestamps,
-      indicators: {
-        ...result.indicators,
-        quote: ((result.indicators || {}).quote || []).map((entry) => sliceObjectArrays(entry, indices)),
-        adjclose: ((result.indicators || {}).adjclose || []).map((entry) => sliceObjectArrays(entry, indices)),
-      },
-    };
-
-    return {
-      chart: {
-        ...chart,
-        result: [nextResult],
-      },
-    };
-  }
-
   async function loadRrgPayload() {
     if (!rrgPromise) {
       rrgPromise = loadJson(sitePath("data/rrg.json"));
@@ -259,14 +146,6 @@
     }
 
     return vkospiPromise;
-  }
-
-  async function loadCnnFearGreed() {
-    if (!cnnFearGreedPromise) {
-      cnnFearGreedPromise = loadJson(sitePath("data/cnn-fear-greed.json"));
-    }
-
-    return cnnFearGreedPromise;
   }
 
   async function loadFredCsv(seriesId) {
@@ -314,6 +193,146 @@
       .join("");
 
     return `<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Static Market News</title>${body}</channel></rss>`;
+  }
+
+  function getRangeDays(range) {
+    switch (range) {
+      case "5d":
+        return 5;
+      case "1mo":
+        return 31;
+      case "3mo":
+        return 93;
+      case "6mo":
+        return 186;
+      case "1y":
+        return 366;
+      case "2y":
+        return 732;
+      default:
+        return null;
+    }
+  }
+
+  function getWeekKey(unixSeconds) {
+    const date = new Date(unixSeconds * 1000);
+    const year = date.getUTCFullYear();
+    const start = Date.UTC(year, 0, 1);
+    const dayOfYear = Math.floor((date.getTime() - start) / 86400000);
+    const week = Math.floor(dayOfYear / 7);
+    return `${year}-${week}`;
+  }
+
+  function sliceObjectArrays(source, indices) {
+    if (!source || typeof source !== "object") {
+      return source;
+    }
+
+    const next = Array.isArray(source) ? [] : {};
+    Object.entries(source).forEach(([key, value]) => {
+      if (Array.isArray(value)) {
+        next[key] = indices.map((index) => value[index] ?? null);
+      } else {
+        next[key] = value;
+      }
+    });
+    return next;
+  }
+
+  function toValidClosePoints(result) {
+    const timestamps = Array.isArray(result?.timestamp) ? result.timestamp : [];
+    const closeValues = (((result?.indicators || {}).quote || [])[0] || {}).close || [];
+    const points = [];
+
+    timestamps.forEach((timestamp, index) => {
+      const close = closeValues[index];
+      if (typeof close !== "number" || Number.isNaN(close)) {
+        return;
+      }
+      points.push({ timestamp, close });
+    });
+
+    return points;
+  }
+
+  function resolveDailySnapshot(result) {
+    const points = toValidClosePoints(result);
+    const latestPoint = points.at(-1) || null;
+    const previousPoint = points.at(-2) || null;
+    const regularMarketPrice = result?.meta?.regularMarketPrice;
+    const latestPrice =
+      typeof regularMarketPrice === "number" && !Number.isNaN(regularMarketPrice)
+        ? regularMarketPrice
+        : latestPoint?.close ?? null;
+    const metaPreviousClose = result?.meta?.previousClose;
+    const previousClose =
+      typeof metaPreviousClose === "number" && !Number.isNaN(metaPreviousClose)
+        ? metaPreviousClose
+        : previousPoint?.close ?? null;
+
+    return {
+      latestPrice,
+      previousClose,
+      lastUpdated: latestPoint ? new Date(latestPoint.timestamp * 1000).toISOString() : null,
+    };
+  }
+
+  function buildYahooChartPayload(basePayload, url) {
+    const chart = basePayload?.chart;
+    const result = chart?.result?.[0];
+    if (!result || !Array.isArray(result.timestamp) || !result.timestamp.length) {
+      return basePayload;
+    }
+
+    const timestamps = result.timestamp;
+    const range = url.searchParams.get("range") || result.meta?.range || "1y";
+    const interval = url.searchParams.get("interval") || result.meta?.dataGranularity || "1d";
+    const rangeDays = getRangeDays(range);
+    const latestTimestamp = timestamps[timestamps.length - 1];
+    const dailySnapshot = resolveDailySnapshot(result);
+
+    let indices = timestamps.map((_, index) => index);
+    if (rangeDays != null) {
+      const cutoff = latestTimestamp - rangeDays * 86400;
+      indices = indices.filter((index) => timestamps[index] >= cutoff);
+    }
+
+    if (interval === "1wk" && indices.length > 1) {
+      const grouped = new Map();
+      indices.forEach((index) => {
+        grouped.set(getWeekKey(timestamps[index]), index);
+      });
+      indices = Array.from(grouped.values());
+    }
+
+    if (!indices.length) {
+      indices = [timestamps.length - 1];
+    }
+
+    const nextResult = {
+      ...result,
+      meta: {
+        ...result.meta,
+        range,
+        dataGranularity: interval,
+        regularMarketPrice: dailySnapshot.latestPrice,
+        previousClose: dailySnapshot.previousClose,
+        chartPreviousClose: dailySnapshot.previousClose,
+      },
+      timestamp: indices.map((index) => timestamps[index]),
+      indicators: {
+        ...result.indicators,
+        quote: ((result.indicators || {}).quote || []).map((entry) => sliceObjectArrays(entry, indices)),
+        adjclose: ((result.indicators || {}).adjclose || []).map((entry) => sliceObjectArrays(entry, indices)),
+      },
+    };
+
+    return {
+      chart: {
+        ...chart,
+        result: [nextResult],
+      },
+    };
   }
 
   function formatNumber(value, options = {}) {
@@ -391,7 +410,6 @@
       }
 
       const isUp = item.up !== false;
-
       card.classList.toggle("glow-green", isUp);
       card.classList.toggle("glow-red", !isUp);
       badgeElement.classList.toggle("bg-up/15", isUp);
@@ -404,7 +422,7 @@
       nameElement.textContent = item.name || symbolElement.textContent.trim();
       priceElement.textContent = formatPrice(item);
       changeElement.textContent = formatChange(item);
-      badgeElement.textContent = `${isUp ? "▲" : "▼"} ${formatChangePercent(item)}`;
+      badgeElement.textContent = `${isUp ? "UP" : "DOWN"} ${formatChangePercent(item)}`;
     });
   }
 
@@ -427,22 +445,6 @@
       marketSyncPending = false;
       void syncMarketCards();
     });
-  }
-
-  function isCnnFearGreedRequest(url) {
-    if (
-      url.hostname === "production.dataviz.cnn.io" &&
-      url.pathname === "/index/fearandgreed/graphdata"
-    ) {
-      return true;
-    }
-
-    if (url.hostname !== "corsproxy.io") {
-      return false;
-    }
-
-    const target = decodeURIComponent(url.search.startsWith("?") ? url.search.slice(1) : "");
-    return target.startsWith(CNN_FEAR_GREED_TARGET);
   }
 
   function filterVkospiOutput(payload, range) {
@@ -470,52 +472,12 @@
       if (!rowDate || Number.isNaN(rowDate.getTime())) {
         return false;
       }
-      const dayDiff = (latestDate.getTime() - rowDate.getTime()) / (1000 * 60 * 60 * 24);
+
+      const dayDiff = (latestDate.getTime() - rowDate.getTime()) / 86400000;
       return dayDiff <= maxDays;
     });
 
     return { ...payload, output: filteredRows.length ? filteredRows : allRows };
-  }
-
-  function fixBrokenLabels() {
-    const replacements = new Map([
-      ["異쒖쿂: TradingView", "출처: TradingView"],
-      ["寃쎌젣 罹섎┛??", "경제 캘린더"],
-      ["?뱟 寃쎌젣 罹섎┛??", "🗓 경제 캘린더"],
-      ["罹섎┛??濡쒕뵫 ?湲?以?", "캘린더 로딩 대기 중..."],
-      ["異붽쾶?? TradingView", "출처: TradingView"],
-    ]);
-
-    const walker = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT);
-    const textNodes = [];
-    while (walker.nextNode()) {
-      textNodes.push(walker.currentNode);
-    }
-
-    textNodes.forEach((node) => {
-      const original = node.nodeValue || "";
-      let next = original;
-
-      replacements.forEach((replacement, target) => {
-        if (next.includes(target)) {
-          next = next.replaceAll(target, replacement);
-        }
-      });
-
-      if (next.includes("寃쎌젣") || next.includes("罹섎┛")) {
-        if (next.includes("TradingView")) {
-          next = "출처: TradingView";
-        } else if (next.includes("濡쒕뵫")) {
-          next = "캘린더 로딩 대기 중...";
-        } else {
-          next = "🗓 경제 캘린더";
-        }
-      }
-
-      if (next !== original) {
-        node.nodeValue = next;
-      }
-    });
   }
 
   window.fetch = async (input, init) => {
@@ -526,18 +488,19 @@
       return textResponse(buildSyntheticNewsRss(items), 200, "application/rss+xml; charset=utf-8");
     }
 
-    if (isCnnFearGreedRequest(url)) {
-      const payload = await loadCnnFearGreed();
-      return jsonResponse(payload);
+    if (url.pathname === CNN_FEAR_GREED_PROXY_PATH) {
+      return jsonResponse({ error: "Static bridge disabled CNN proxy to allow live browser fallback." }, 503);
     }
 
     if (url.pathname.startsWith(YAHOO_CHART_PREFIX)) {
       const symbol = decodeURIComponent(url.pathname.slice(YAHOO_CHART_PREFIX.length));
       const charts = await loadYahooCharts();
       const payload = charts[symbol];
+
       if (payload) {
         return jsonResponse(buildYahooChartPayload(payload, url));
       }
+
       return jsonResponse(
         { chart: { result: null, error: { code: "Not Found", description: `No static chart for ${symbol}` } } },
         404
@@ -559,11 +522,12 @@
       if (!seriesId) {
         return textResponse("DATE,VALUE\n", 404, "text/csv; charset=utf-8");
       }
+
       try {
         const csv = await loadFredCsv(seriesId);
         return textResponse(csv, 200, "text/csv; charset=utf-8");
       } catch (error) {
-        return textResponse(`DATE,VALUE\n`, 404, "text/csv; charset=utf-8");
+        return textResponse("DATE,VALUE\n", 404, "text/csv; charset=utf-8");
       }
     }
 
@@ -587,16 +551,13 @@
     }
 
     queueMarketSync();
-    fixBrokenLabels();
 
     const observer = new MutationObserver(() => {
       queueMarketSync();
-      fixBrokenLabels();
     });
 
     observer.observe(root, { childList: true, subtree: true });
     window.setTimeout(queueMarketSync, 1200);
-    window.setTimeout(fixBrokenLabels, 1200);
   }
 
   if (document.readyState === "loading") {

@@ -2,10 +2,14 @@
 from __future__ import annotations
 
 import argparse
+import calendar
+import csv
+import io
 import json
 import os
 import re
 import sys
+from http.cookiejar import CookieJar
 from datetime import datetime, timedelta, timezone
 from html import unescape
 from pathlib import Path
@@ -13,7 +17,7 @@ from tempfile import NamedTemporaryFile
 from typing import Any
 from urllib.error import HTTPError, URLError
 from urllib.parse import quote, urlencode
-from urllib.request import Request, urlopen
+from urllib.request import HTTPCookieProcessor, Request, build_opener, urlopen
 import xml.etree.ElementTree as ET
 
 
@@ -29,11 +33,28 @@ KRX_VKOSPI_SOURCE_URL = (
     "https://eindex.krx.co.kr/contents/GLB/05/0502/0502030101/GLB0502030101T2.jsp"
     "?upmidCd=0202&idxCd=1300&idxId=O2901P"
 )
+KRX_OTP_URL = "https://eindex.krx.co.kr/contents/COM/GenerateOTP.jspx"
+KRX_DATA_URL = "https://eindex.krx.co.kr/contents/IDXE/99/IDXE99000001.jspx"
+KRX_BLD_PATH = "GLB/05/0502/0502030101/glb0502030101T2_02"
+TRADERMONTY_BREADTH_HISTORY_URL = (
+    "https://tradermonty.github.io/market-breadth-analysis/market_breadth_data.csv"
+)
+TRADERMONTY_BREADTH_SUMMARY_URL = (
+    "https://tradermonty.github.io/market-breadth-analysis/market_breadth_summary.csv"
+)
+SEOUL_TZ = timezone(timedelta(hours=9))
 USER_AGENT = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
     "AppleWebKit/537.36 (KHTML, like Gecko) "
     "Chrome/122.0.0.0 Safari/537.36"
 )
+KRX_BASE_HEADERS = {
+    "Accept": "application/json, text/javascript, */*; q=0.01",
+    "Origin": "https://eindex.krx.co.kr",
+    "Referer": KRX_VKOSPI_SOURCE_URL,
+    "User-Agent": USER_AGENT,
+    "X-Requested-With": "XMLHttpRequest",
+}
 
 MARKET_SYMBOLS = [
     {
@@ -139,9 +160,25 @@ def utc_now_iso() -> str:
     return datetime.now(timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z")
 
 
-def read_json(url: str, timeout: int) -> Any:
-    request = Request(url, headers={"User-Agent": USER_AGENT, "Accept": "application/json"})
-    with urlopen(request, timeout=timeout) as response:
+def open_request(request: Request, timeout: int, *, opener: Any | None = None) -> Any:
+    if opener is not None:
+        return opener.open(request, timeout=timeout)
+    return urlopen(request, timeout=timeout)
+
+
+def read_json(
+    url: str,
+    timeout: int,
+    *,
+    headers: dict[str, str] | None = None,
+    data: bytes | None = None,
+    opener: Any | None = None,
+) -> Any:
+    request_headers = {"User-Agent": USER_AGENT, "Accept": "application/json"}
+    if headers:
+        request_headers.update(headers)
+    request = Request(url, headers=request_headers, data=data)
+    with open_request(request, timeout=timeout, opener=opener) as response:
         return json.load(response)
 
 
@@ -150,15 +187,22 @@ def read_text(
     timeout: int,
     *,
     accept: str = "application/rss+xml, application/xml, text/xml;q=0.9, */*;q=0.8",
+    headers: dict[str, str] | None = None,
+    data: bytes | None = None,
+    opener: Any | None = None,
 ) -> str:
+    request_headers = {
+        "User-Agent": USER_AGENT,
+        "Accept": accept,
+    }
+    if headers:
+        request_headers.update(headers)
     request = Request(
         url,
-        headers={
-            "User-Agent": USER_AGENT,
-            "Accept": accept,
-        },
+        headers=request_headers,
+        data=data,
     )
-    with urlopen(request, timeout=timeout) as response:
+    with open_request(request, timeout=timeout, opener=opener) as response:
         return response.read().decode("utf-8")
 
 
@@ -334,6 +378,89 @@ def scaled_score(value: float, lower: float, upper: float) -> float:
     return clamp(normalized, 0.0, 1.0) * 100
 
 
+def subtract_months(date: datetime, months: int) -> datetime:
+    year = date.year
+    month = date.month - months
+    while month <= 0:
+        year -= 1
+        month += 12
+    day = min(date.day, calendar.monthrange(year, month)[1])
+    return date.replace(year=year, month=month, day=day)
+
+
+def format_seoul_date(date: datetime) -> str:
+    return date.astimezone(SEOUL_TZ).strftime("%Y%m%d")
+
+
+def resolve_krx_range_start(data_range: str, end_date: datetime) -> datetime:
+    if data_range == "1mo":
+        return subtract_months(end_date, 1)
+    if data_range == "3mo":
+        return subtract_months(end_date, 3)
+    if data_range == "6mo":
+        return subtract_months(end_date, 6)
+    return subtract_months(end_date, 12)
+
+
+def normalize_csv_text(csv_text: str) -> str:
+    lines = [line.rstrip() for line in csv_text.replace("\r\n", "\n").split("\n")]
+    non_empty_lines = [line for line in lines if line.strip()]
+    return "\n".join(non_empty_lines) + "\n"
+
+
+def validate_csv_text(csv_text: str, required_headers: list[str], label: str) -> str:
+    normalized = normalize_csv_text(csv_text)
+    reader = csv.DictReader(io.StringIO(normalized))
+    fieldnames = reader.fieldnames or []
+    missing_headers = [header for header in required_headers if header not in fieldnames]
+    if missing_headers:
+        raise RuntimeError(f"{label} CSV is missing columns: {', '.join(missing_headers)}")
+
+    if not any(True for _ in reader):
+        raise RuntimeError(f"{label} CSV did not contain any rows.")
+
+    return normalized
+
+
+def resolve_daily_snapshot(result: dict[str, Any]) -> dict[str, Any]:
+    timestamps = result.get("timestamp") or []
+    closes = (((result.get("indicators") or {}).get("quote") or [{}])[0]).get("close") or []
+    valid_points: list[tuple[int, float]] = []
+
+    for timestamp, close in zip(timestamps, closes):
+        if close is None:
+            continue
+        try:
+            valid_points.append((int(timestamp), float(close)))
+        except (TypeError, ValueError):
+            continue
+
+    latest_timestamp = valid_points[-1][0] if valid_points else None
+    latest_close = valid_points[-1][1] if valid_points else None
+    previous_close = valid_points[-2][1] if len(valid_points) > 1 else None
+
+    meta = result.get("meta") or {}
+    regular_market_price = meta.get("regularMarketPrice")
+    if regular_market_price is not None:
+        try:
+            latest_close = float(regular_market_price)
+        except (TypeError, ValueError):
+            pass
+
+    meta_previous_close = meta.get("previousClose")
+    if meta_previous_close is not None:
+        try:
+            previous_close = float(meta_previous_close)
+        except (TypeError, ValueError):
+            pass
+
+    return {
+        "latest_price": latest_close,
+        "previous_close": previous_close,
+        "last_updated": to_iso8601_from_unix(latest_timestamp),
+    }
+
+
 def calculate_rrg_trail(sector_prices: list[float], benchmark_prices: list[float]) -> list[dict[str, float]]:
     length = min(len(sector_prices), len(benchmark_prices))
     if length < (RRG_RS_PERIOD + RRG_TRAIL_LENGTH + 5):
@@ -448,75 +575,71 @@ def build_rrg_payload(charts: dict[str, dict[str, Any]]) -> dict[str, Any]:
     return payload
 
 
-def build_vkospi_payload(charts: dict[str, dict[str, Any]]) -> dict[str, Any]:
-    vix_result = get_chart_result(charts, "^VIX")
-    if vix_result is None:
-        raise RuntimeError("VKOSPI fallback requires ^VIX Yahoo snapshot data.")
+def build_vkospi_payload(timeout: int, *, data_range: str = "1y") -> dict[str, Any]:
+    end_date = datetime.now(SEOUL_TZ)
+    fromdate = format_seoul_date(resolve_krx_range_start(data_range, end_date))
+    todate = format_seoul_date(end_date)
+    opener = build_opener(HTTPCookieProcessor(CookieJar()))
 
-    timestamps = vix_result.get("timestamp") or []
-    quote = (((vix_result.get("indicators") or {}).get("quote") or [{}])[0])
-    opens = quote.get("open") or []
-    highs = quote.get("high") or []
-    lows = quote.get("low") or []
-    closes = quote.get("close") or []
+    page_request = Request(
+        KRX_VKOSPI_SOURCE_URL,
+        headers={
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+            "User-Agent": USER_AGENT,
+        },
+    )
+    with open_request(page_request, timeout=timeout, opener=opener) as response:
+        status = getattr(response, "status", response.getcode())
+        if status != 200:
+            raise RuntimeError(f"KRX page request failed ({status})")
+        response.read()
 
-    output: list[dict[str, Any]] = []
-    previous_close: float | None = None
+    otp = read_text(
+        KRX_OTP_URL,
+        timeout,
+        accept="text/plain, */*",
+        headers={
+            **KRX_BASE_HEADERS,
+            "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",
+        },
+        data=urlencode({"name": "form", "bld": KRX_BLD_PATH}).encode("utf-8"),
+        opener=opener,
+    ).strip()
 
-    for index, timestamp in enumerate(timestamps):
-        iso = to_iso8601_from_unix(timestamp)
-        if iso is None:
-            continue
+    if not otp:
+        raise RuntimeError("KRX OTP response was empty.")
 
-        close_value = closes[index] if index < len(closes) else None
-        open_value = opens[index] if index < len(opens) else close_value
-        high_value = highs[index] if index < len(highs) else close_value
-        low_value = lows[index] if index < len(lows) else close_value
-
-        try:
-            numeric_close = float(close_value)
-            numeric_open = float(open_value if open_value is not None else close_value)
-            numeric_high = float(high_value if high_value is not None else close_value)
-            numeric_low = float(low_value if low_value is not None else close_value)
-        except (TypeError, ValueError):
-            continue
-
-        change_value = None if previous_close in (None, 0) else numeric_close - previous_close
-        change_percent = None if previous_close in (None, 0) else (change_value / previous_close) * 100
-        if change_value is None:
-            direction = "3"
-        elif change_value > 0:
-            direction = "2"
-        elif change_value < 0:
-            direction = "5"
-        else:
-            direction = "3"
-
-        output.append(
+    payload = read_json(
+        KRX_DATA_URL,
+        timeout,
+        headers={
+            **KRX_BASE_HEADERS,
+            "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",
+        },
+        data=urlencode(
             {
-                "trd_dd": iso[:10].replace("-", "/"),
-                "clsprc_idx": f"{numeric_close:.2f}",
-                "opnprc_idx": f"{numeric_open:.2f}",
-                "hgprc_idx": f"{numeric_high:.2f}",
-                "lwprc_idx": f"{numeric_low:.2f}",
-                "cmpprevdd_idx": f"{(change_value or 0):.2f}",
-                "fluc_rt": f"{(change_percent or 0):.2f}",
-                "fluc_tp_cd": direction,
+                "idx_cd": "1300",
+                "ind_tp_cd": "1",
+                "idx_ind_cd": "300",
+                "add_data_yn": "",
+                "bz_dd": "",
+                "fromdate": fromdate,
+                "todate": todate,
+                "code": otp,
             }
-        )
-        previous_close = numeric_close
+        ).encode("utf-8"),
+        opener=opener,
+    )
 
-    if not output:
-        raise RuntimeError("VKOSPI fallback output is empty.")
+    output = payload.get("output")
+    if not isinstance(output, list) or not output:
+        raise RuntimeError("Invalid KRX VKOSPI payload.")
 
     return {
         "generated_at": utc_now_iso(),
         "sourceUrl": KRX_VKOSPI_SOURCE_URL,
-        "source": {
-            "provider": "Yahoo Finance fallback",
-            "fallback_for": "KRX VKOSPI",
-            "symbol": "^VIX",
-        },
+        "fromdate": fromdate,
+        "todate": todate,
         "output": output,
     }
 
@@ -533,8 +656,9 @@ def build_market_payload(timeout: int) -> dict[str, Any]:
             continue
 
         meta = raw.get("meta", {})
-        price = meta.get("regularMarketPrice")
-        previous_close = meta.get("previousClose") or meta.get("chartPreviousClose")
+        snapshot = resolve_daily_snapshot(raw)
+        price = snapshot["latest_price"]
+        previous_close = snapshot["previous_close"]
         if price is None:
             price = last_valid_close(raw)
 
@@ -557,7 +681,7 @@ def build_market_payload(timeout: int) -> dict[str, Any]:
                 "currency": meta.get("currency"),
                 "market_state": meta.get("marketState"),
                 "exchange": meta.get("exchangeName") or meta.get("fullExchangeName") or meta.get("exchange"),
-                "as_of": to_iso8601_from_unix(meta.get("regularMarketTime")),
+                "as_of": snapshot["last_updated"] or to_iso8601_from_unix(meta.get("regularMarketTime")),
                 "source": "Yahoo Finance",
                 "source_url": config["source_url"],
             }
@@ -772,193 +896,40 @@ def build_fred_csv_payload(series_id: str, timeout: int) -> str:
     return csv_rows_to_text(["DATE", "VALUE"], rows)
 
 
-def build_breadth_payloads(charts: dict[str, dict[str, Any]]) -> tuple[str, str]:
-    series_by_symbol: dict[str, list[dict[str, Any]]] = {}
-    for symbol in BREADTH_UNIVERSE:
-        chart_payload = charts.get(symbol, {})
-        result = ((chart_payload.get("chart") or {}).get("result") or [None])[0]
-        if not isinstance(result, dict):
-            continue
-        points = extract_series_points(result)
-        if len(points) >= 200:
-            series_by_symbol[symbol] = points
-
-    if len(series_by_symbol) < 5:
-        raise RuntimeError("Breadth universe does not have enough Yahoo history.")
-
-    breadth_by_date: dict[str, dict[str, int]] = {}
-    for points in series_by_symbol.values():
-        closes = [point["close"] for point in points]
-        ma50 = rolling_average(closes, 50)
-        ma200 = rolling_average(closes, 200)
-
-        for index, point in enumerate(points):
-            bucket = breadth_by_date.setdefault(
-                point["date"],
-                {"above_50": 0, "count_50": 0, "above_200": 0, "count_200": 0},
-            )
-            close_value = point["close"]
-
-            if ma50[index] is not None:
-                bucket["count_50"] += 1
-                if close_value > ma50[index]:
-                    bucket["above_50"] += 1
-
-            if ma200[index] is not None:
-                bucket["count_200"] += 1
-                if close_value > ma200[index]:
-                    bucket["above_200"] += 1
-
-    dates = sorted(breadth_by_date)
-    breadth_200_values: list[float | None] = []
-    breadth_50_values: list[float | None] = []
-    for date_text in dates:
-        bucket = breadth_by_date[date_text]
-        breadth_200_values.append(
-            (bucket["above_200"] / bucket["count_200"]) if bucket["count_200"] else None
-        )
-        breadth_50_values.append(
-            (bucket["above_50"] / bucket["count_50"]) if bucket["count_50"] else None
-        )
-
-    breadth_8_values = rolling_average_optional(breadth_200_values, 8)
-    breadth_50_8_values = rolling_average_optional(breadth_50_values, 8)
-
-    history_rows: list[dict[str, Any]] = []
-    for index, date_text in enumerate(dates):
-        breadth_200 = breadth_200_values[index]
-        breadth_8 = breadth_8_values[index]
-        breadth_50 = breadth_50_values[index]
-        breadth_50_8 = breadth_50_8_values[index]
-        if None in (breadth_200, breadth_8, breadth_50, breadth_50_8):
-            continue
-        history_rows.append(
-            {
-                "Date": date_text,
-                "Breadth_Index_200MA": breadth_200,
-                "Breadth_Index_8MA": breadth_8,
-                "Breadth_50_Index_50MA": breadth_50,
-                "Breadth_50_Index_8MA": breadth_50_8,
-            }
-        )
-
-    if len(history_rows) < 10:
-        raise RuntimeError("Calculated breadth history is too short.")
-
-    for index, row in enumerate(history_rows):
-        previous_row = history_rows[index - 1] if index > 0 else None
-        next_row = history_rows[index + 1] if index + 1 < len(history_rows) else None
-
-        row["Bearish_Signal"] = (
-            row["Breadth_Index_200MA"] <= 0.40 and row["Breadth_Index_8MA"] <= 0.45
-        )
-        row["Bearish_Signal_50"] = (
-            row["Breadth_50_Index_50MA"] <= 0.40 and row["Breadth_50_Index_8MA"] <= 0.45
-        )
-        row["Breadth_200MA_Trend"] = (
-            1
-            if previous_row and row["Breadth_Index_200MA"] > previous_row["Breadth_Index_200MA"]
-            else 0
-        )
-        row["Breadth_50_MA_Trend"] = (
-            1
-            if previous_row and row["Breadth_50_Index_50MA"] > previous_row["Breadth_50_Index_50MA"]
-            else 0
-        )
-        row["Is_Peak"] = bool(
-            previous_row
-            and next_row
-            and row["Breadth_Index_200MA"] >= previous_row["Breadth_Index_200MA"]
-            and row["Breadth_Index_200MA"] > next_row["Breadth_Index_200MA"]
-        )
-        row["Is_Trough"] = bool(
-            previous_row
-            and next_row
-            and row["Breadth_Index_200MA"] <= previous_row["Breadth_Index_200MA"]
-            and row["Breadth_Index_200MA"] < next_row["Breadth_Index_200MA"]
-        )
-        row["Is_Trough_8MA_Below_04"] = row["Is_Trough"] and row["Breadth_Index_8MA"] < 0.40
-        row["Is_Peak_50"] = bool(
-            previous_row
-            and next_row
-            and row["Breadth_50_Index_50MA"] >= previous_row["Breadth_50_Index_50MA"]
-            and row["Breadth_50_Index_50MA"] > next_row["Breadth_50_Index_50MA"]
-        )
-        row["Is_Trough_50"] = bool(
-            previous_row
-            and next_row
-            and row["Breadth_50_Index_50MA"] <= previous_row["Breadth_50_Index_50MA"]
-            and row["Breadth_50_Index_50MA"] < next_row["Breadth_50_Index_50MA"]
-        )
-
-    peaks_200 = [row["Breadth_Index_200MA"] for row in history_rows if row["Is_Peak"]]
-    troughs_200 = [row["Breadth_Index_200MA"] for row in history_rows if row["Is_Trough_8MA_Below_04"]]
-    latest_row = history_rows[-1]
-    score = round(
-        (
-            latest_row["Breadth_Index_200MA"]
-            + latest_row["Breadth_Index_8MA"]
-            + latest_row["Breadth_50_Index_50MA"]
-            + latest_row["Breadth_50_Index_8MA"]
-        )
-        / 4
-        * 100
-    )
-
-    history_csv_rows = [
-        [
-            row["Date"],
-            format_csv_number(row["Breadth_Index_200MA"]),
-            format_csv_number(row["Breadth_Index_8MA"]),
-            format_csv_number(row["Breadth_50_Index_50MA"]),
-            format_csv_number(row["Breadth_50_Index_8MA"]),
-            bool_to_csv(row["Bearish_Signal"]),
-            bool_to_csv(row["Bearish_Signal_50"]),
-            str(row["Breadth_200MA_Trend"]),
-            str(row["Breadth_50_MA_Trend"]),
-            bool_to_csv(row["Is_Peak"]),
-            bool_to_csv(row["Is_Trough"]),
-            bool_to_csv(row["Is_Trough_8MA_Below_04"]),
-            bool_to_csv(row["Is_Peak_50"]),
-            bool_to_csv(row["Is_Trough_50"]),
-        ]
-        for row in history_rows
-    ]
-    history_csv = csv_rows_to_text(
+def build_breadth_payloads(timeout: int) -> tuple[str, str]:
+    history_csv = validate_csv_text(
+        read_text(
+            TRADERMONTY_BREADTH_HISTORY_URL,
+            timeout,
+            accept="text/csv, text/plain, */*",
+        ),
         [
             "Date",
             "Breadth_Index_200MA",
             "Breadth_Index_8MA",
-            "Breadth_50_Index_50MA",
-            "Breadth_50_Index_8MA",
-            "Bearish_Signal",
-            "Bearish_Signal_50",
             "Breadth_200MA_Trend",
-            "Breadth_50_MA_Trend",
+            "Bearish_Signal",
             "Is_Peak",
             "Is_Trough",
             "Is_Trough_8MA_Below_04",
+            "Breadth_50_Index_50MA",
+            "Breadth_50_Index_8MA",
+            "Breadth_50_MA_Trend",
+            "Bearish_Signal_50",
             "Is_Peak_50",
             "Is_Trough_50",
         ],
-        history_csv_rows,
+        "Breadth history",
     )
-
-    summary_rows = [
-        ["Score", str(score)],
-        [
-            "Average Peaks (200MA)",
-            format_csv_number(sum(peaks_200) / len(peaks_200) if peaks_200 else None),
-        ],
-        [
-            "Average Troughs (8MA < 0.4)",
-            format_csv_number(sum(troughs_200) / len(troughs_200) if troughs_200 else None),
-        ],
-        ["Analysis Period Start", history_rows[0]["Date"]],
-        ["Analysis Period End", history_rows[-1]["Date"]],
-    ]
-    summary_csv = csv_rows_to_text(["Metric", "Value"], summary_rows)
-
+    summary_csv = validate_csv_text(
+        read_text(
+            TRADERMONTY_BREADTH_SUMMARY_URL,
+            timeout,
+            accept="text/csv, text/plain, */*",
+        ),
+        ["Metric", "Value"],
+        "Breadth summary",
+    )
     return history_csv, summary_csv
 
 
@@ -1067,7 +1038,7 @@ def main() -> int:
         write_json(yahoo_charts_path, yahoo_snapshots_payload)
         successes.append(str(yahoo_charts_path))
 
-        vkospi_payload = build_vkospi_payload(yahoo_charts)
+        vkospi_payload = build_vkospi_payload(timeout=args.timeout)
         write_json(vkospi_path, vkospi_payload)
         successes.append(str(vkospi_path))
 
@@ -1079,7 +1050,7 @@ def main() -> int:
         write_json(rrg_path, rrg_payload)
         successes.append(str(rrg_path))
 
-        breadth_history_csv, breadth_summary_csv = build_breadth_payloads(yahoo_charts)
+        breadth_history_csv, breadth_summary_csv = build_breadth_payloads(timeout=args.timeout)
         write_text(breadth_history_path, breadth_history_csv)
         write_text(breadth_summary_path, breadth_summary_csv)
         successes.append(str(breadth_history_path))
