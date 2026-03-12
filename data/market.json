@@ -1,0 +1,99 @@
+{
+  "generated_at": "2026-03-12T03:12:38Z",
+  "source": {
+    "provider": "Yahoo Finance",
+    "endpoint": "https://query1.finance.yahoo.com/v8/finance/chart/{symbol}"
+  },
+  "items": [
+    {
+      "symbol": "SPX",
+      "quote_symbol": "^GSPC",
+      "name": "S&P 500",
+      "price": 6775.8,
+      "change": -93.69999999999982,
+      "change_percent": -1.364000291142002,
+      "up": false,
+      "currency": "USD",
+      "market_state": null,
+      "exchange": "SNP",
+      "as_of": "2026-03-11T20:30:47Z",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/quote/%5EGSPC/"
+    },
+    {
+      "symbol": "NDX",
+      "quote_symbol": "^NDX",
+      "name": "NASDAQ 100",
+      "price": 24965.006,
+      "change": -128.67399999999907,
+      "change_percent": -0.5127745312763973,
+      "up": false,
+      "currency": "USD",
+      "market_state": null,
+      "exchange": "NIM",
+      "as_of": "2026-03-11T21:15:59Z",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/quote/%5ENDX/"
+    },
+    {
+      "symbol": "DJI",
+      "quote_symbol": "^DJI",
+      "name": "Dow Jones Industrial Average",
+      "price": 47417.27,
+      "change": -1322.1400000000067,
+      "change_percent": -2.7126713269610905,
+      "up": false,
+      "currency": "USD",
+      "market_state": null,
+      "exchange": "DJI",
+      "as_of": "2026-03-11T20:42:15Z",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/quote/%5EDJI/"
+    },
+    {
+      "symbol": "BTC",
+      "quote_symbol": "BTC-USD",
+      "name": "Bitcoin",
+      "price": 69380.4,
+      "change": 3410.6199999999953,
+      "change_percent": 5.169973281705647,
+      "up": true,
+      "currency": "USD",
+      "market_state": null,
+      "exchange": "CCC",
+      "as_of": "2026-03-12T03:10:00Z",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/quote/BTC-USD/"
+    },
+    {
+      "symbol": "GOLD",
+      "quote_symbol": "GC=F",
+      "name": "Gold Futures",
+      "price": 5158.8,
+      "change": 12.699999999999818,
+      "change_percent": 0.24678883037639798,
+      "up": true,
+      "currency": "USD",
+      "market_state": null,
+      "exchange": "CMX",
+      "as_of": "2026-03-12T03:02:30Z",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/quote/GC=F/"
+    },
+    {
+      "symbol": "DXY",
+      "quote_symbol": "DX-Y.NYB",
+      "name": "US Dollar Index",
+      "price": 99.459,
+      "change": 0.4690000000000083,
+      "change_percent": 0.47378523083140556,
+      "up": true,
+      "currency": "USD",
+      "market_state": null,
+      "exchange": "NYB",
+      "as_of": "2026-03-12T03:02:37Z",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com/quote/DX-Y.NYB/"
+    }
+  ]
+}

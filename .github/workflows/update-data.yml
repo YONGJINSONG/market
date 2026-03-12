@@ -1,0 +1,44 @@
+name: Update Data
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/15 * * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-data
+  cancel-in-progress: true
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Refresh JSON data
+        run: python scripts/fetch_data.py
+
+      - name: Commit updated JSON
+        run: |
+          if git diff --quiet -- data/market.json data/news.json data/yahoo-charts.json data/vkospi.json data/rrg.json data/cnn-fear-greed.json data/fred/DGS10.csv data/fred/DGS2.csv data/breadth/market_breadth_data.csv data/breadth/market_breadth_summary.csv; then
+            echo "No data changes detected."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/market.json data/news.json data/yahoo-charts.json data/vkospi.json data/rrg.json data/cnn-fear-greed.json data/fred/DGS10.csv data/fred/DGS2.csv data/breadth/market_breadth_data.csv data/breadth/market_breadth_summary.csv
+          git commit -m "chore: refresh market data"
+          git push
