@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-12T23:17:48Z",
+  "generated_at": "2026-03-12T23:46:56Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -15,20 +15,20 @@
       "guid": "CBMicEFVX3lxTE9iM3lwNTF0NFpMN3VhSWxQQTlXVlVYT0pibGxaY1QyUFo1THI1WlRtS290SEVxN2h1YlEzTDFzM0hET0dmSUpSdzBOTktzX2lVWjI5QURIaEYxNzNEbHFydThaTUFNVjB4WldJWHdyN1Y"
     },
     {
-      "title": "S&P 500 Slumps in Worst Day Since War Began - The New York Times - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVnItWDVzMGI5Nk5GVDR2QU1pNzg4SjhjTkYzQXBhUjdDWEljMWcwOHZwMnJCMmtUMnFJSDRobnh4WUs1T1hmR3JlOUhMX244Um51Y1VUYkF1NlhlX0FEZEZ5X3lRblNYMTUya2xtdEdoQlFBTUJwZ3UwM0hRRTdqMw?oc=5",
-      "source": "The New York Times",
-      "published_at": "Thu, 12 Mar 2026 03:25:41 GMT",
-      "summary": "S&P 500 Slumps in Worst Day Since War Began - The New York Times The New York Times",
-      "guid": "CBMigAFBVV95cUxNVnItWDVzMGI5Nk5GVDR2QU1pNzg4SjhjTkYzQXBhUjdDWEljMWcwOHZwMnJCMmtUMnFJSDRobnh4WUs1T1hmR3JlOUhMX244Um51Y1VUYkF1NlhlX0FEZEZ5X3lRblNYMTUya2xtdEdoQlFBTUJwZ3UwM0hRRTdqMw"
-    },
-    {
       "title": "Oil price jumps despite deal to release record amount of reserves - BBC",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KWW1mc3dVZVVKTm9qd2dlY0h1bTQ3cEY5dWlnUkc1UGFWcjM1OHpBZ3N2a0xsMHFaa0hWZDFreFljOWpjOGFjbmprZ3VoamxLTml5VkJRQ3ptdw?oc=5",
       "source": "BBC",
       "published_at": "Thu, 12 Mar 2026 20:49:04 GMT",
       "summary": "Oil price jumps despite deal to release record amount of reserves BBC",
       "guid": "CBMiWkFVX3lxTE5KWW1mc3dVZVVKTm9qd2dlY0h1bTQ3cEY5dWlnUkc1UGFWcjM1OHpBZ3N2a0xsMHFaa0hWZDFreFljOWpjOGFjbmprZ3VoamxLTml5VkJRQ3ptdw"
+    },
+    {
+      "title": "S&P 500 Slumps in Worst Day Since War Began - The New York Times - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVnItWDVzMGI5Nk5GVDR2QU1pNzg4SjhjTkYzQXBhUjdDWEljMWcwOHZwMnJCMmtUMnFJSDRobnh4WUs1T1hmR3JlOUhMX244Um51Y1VUYkF1NlhlX0FEZEZ5X3lRblNYMTUya2xtdEdoQlFBTUJwZ3UwM0hRRTdqMw?oc=5",
+      "source": "The New York Times",
+      "published_at": "Thu, 12 Mar 2026 03:25:41 GMT",
+      "summary": "S&P 500 Slumps in Worst Day Since War Began - The New York Times The New York Times",
+      "guid": "CBMigAFBVV95cUxNVnItWDVzMGI5Nk5GVDR2QU1pNzg4SjhjTkYzQXBhUjdDWEljMWcwOHZwMnJCMmtUMnFJSDRobnh4WUs1T1hmR3JlOUhMX244Um51Y1VUYkF1NlhlX0FEZEZ5X3lRblNYMTUya2xtdEdoQlFBTUJwZ3UwM0hRRTdqMw"
     },
     {
       "title": "How Do Changing Interest Rates Affect the Stock Market? - U.S. Bank",
@@ -80,11 +80,11 @@
     },
     {
       "title": "The Stock Market Is Cratering. These Charts Explain Why. - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxNNC03ZkF5czNPX3V4YzR2aXM5VTg3dzlOQk1HS2w1RWNMRElRVGxFSzNfeEZoMXN2SDlEN3V2YlVMYzMySjlsMHIwTWtMek1Fa3d4OVV5dEhoWGtncU9OcU95dkN2cHVtR09CQU5CZEExV0N0cmRBa1hOTzM0UjRFMUtqN3FBQzdHVnpZY19yM1ZOcXd2R1UzUjA1UVl0Q2JxdWVJZFQzNHVqNjlMYTk4cW5KZ3BNUVZZckVNN0ZkeFFuZGJEWUpXWHVETm5vaWNJVk1XNWdJVkdPRG1lc3phNGc4QzN6bmlfM0lKOXBYNFgxTHJGTWJOYjhsZHp6WHZvQ2RTQ0FLamd2ZE5pcjFIMTJxQmdUZ05COG9hdnF4OHIxT2JURXRKQ2VXM2pWaG5seFhRQ2dRaWE0V3dlVU91bUVTYy1ZV0RDajE0TVJtaGdvV082SGZ6d05RYllaU285U08yemJ4QnAyV3luLXhfQjhoOHhNVjU1a0ZXdFN6bktrc2VJcEhuLW5LRTlvd2lnVTBn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxPQlZPUUNGa1A4VlNXVThHQmdxVXgxV180QTRnb3ppSjhCQnY4NnNqZDVDUVBNS2tubVJ0bkcxd0tFaFVyNnlsZ1k3M3d6QU8tZEhrQ0swdm9ZdWpWaHlWdWNTb09jXzZ5eWRQQ3pIWXg1TmpwQ3hLcUFlSU1IYVZiNXB0bXFMWGRFRDhDOUh4MzFmLWt0Zk40YWF3bWJCX2t4dDVtWGpZLURTVW1xbW1YNmV5dmdkV1gtdmY1WnFHbVcweWNEQU9KaWFadVdXME13VC13d3JNWElHNWlPeHFXUzNvU0FrdjhOOWlDTWdoNGlsdFYtN2czMjJTQ1I2dFNUUkk2OHRSVHlsRlBZS1lRdFRqRXZMcXZ4SG9CZEswVXExX3lNVzJsQnQtVHZqRnFsUktITmNoQklfSDVsb1ZKbHZ1YmdXakpKT1A4UlFwYzhyS200VlMweHFXaXZPeGY5NmJzbVZPSko1QVBuN3VodkhOQjZaSGNZWGMxTm5IWmtjb3JvSTV0Wk5lVFhDRk5sRk1F?oc=5",
       "source": "Barron's",
       "published_at": "Fri, 14 Nov 2025 08:00:00 GMT",
       "summary": "The Stock Market Is Cratering. These Charts Explain Why. Barron's",
-      "guid": "CBMikwNBVV95cUxNNC03ZkF5czNPX3V4YzR2aXM5VTg3dzlOQk1HS2w1RWNMRElRVGxFSzNfeEZoMXN2SDlEN3V2YlVMYzMySjlsMHIwTWtMek1Fa3d4OVV5dEhoWGtncU9OcU95dkN2cHVtR09CQU5CZEExV0N0cmRBa1hOTzM0UjRFMUtqN3FBQzdHVnpZY19yM1ZOcXd2R1UzUjA1UVl0Q2JxdWVJZFQzNHVqNjlMYTk4cW5KZ3BNUVZZckVNN0ZkeFFuZGJEWUpXWHVETm5vaWNJVk1XNWdJVkdPRG1lc3phNGc4QzN6bmlfM0lKOXBYNFgxTHJGTWJOYjhsZHp6WHZvQ2RTQ0FLamd2ZE5pcjFIMTJxQmdUZ05COG9hdnF4OHIxT2JURXRKQ2VXM2pWaG5seFhRQ2dRaWE0V3dlVU91bUVTYy1ZV0RDajE0TVJtaGdvV082SGZ6d05RYllaU285U08yemJ4QnAyV3luLXhfQjhoOHhNVjU1a0ZXdFN6bktrc2VJcEhuLW5LRTlvd2lnVTBn"
+      "guid": "CBMikwNBVV95cUxPQlZPUUNGa1A4VlNXVThHQmdxVXgxV180QTRnb3ppSjhCQnY4NnNqZDVDUVBNS2tubVJ0bkcxd0tFaFVyNnlsZ1k3M3d6QU8tZEhrQ0swdm9ZdWpWaHlWdWNTb09jXzZ5eWRQQ3pIWXg1TmpwQ3hLcUFlSU1IYVZiNXB0bXFMWGRFRDhDOUh4MzFmLWt0Zk40YWF3bWJCX2t4dDVtWGpZLURTVW1xbW1YNmV5dmdkV1gtdmY1WnFHbVcweWNEQU9KaWFadVdXME13VC13d3JNWElHNWlPeHFXUzNvU0FrdjhOOWlDTWdoNGlsdFYtN2czMjJTQ1I2dFNUUkk2OHRSVHlsRlBZS1lRdFRqRXZMcXZ4SG9CZEswVXExX3lNVzJsQnQtVHZqRnFsUktITmNoQklfSDVsb1ZKbHZ1YmdXakpKT1A4UlFwYzhyS200VlMweHFXaXZPeGY5NmJzbVZPSko1QVBuN3VodkhOQjZaSGNZWGMxTm5IWmtjb3JvSTV0Wk5lVFhDRk5sRk1F"
     }
   ]
 }
