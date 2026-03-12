@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-12T21:04:00Z",
+  "generated_at": "2026-03-12T21:46:50Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,10 +7,18 @@
   },
   "items": [
     {
+      "title": "Federal Reserve to loosen capital requirements for big US banks - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9iM3lwNTF0NFpMN3VhSWxQQTlXVlVYT0pibGxaY1QyUFo1THI1WlRtS290SEVxN2h1YlEzTDFzM0hET0dmSUpSdzBOTktzX2lVWjI5QURIaEYxNzNEbHFydThaTUFNVjB4WldJWHdyN1Y?oc=5",
+      "source": "Financial Times",
+      "published_at": "Thu, 12 Mar 2026 20:40:20 GMT",
+      "summary": "Federal Reserve to loosen capital requirements for big US banks Financial Times",
+      "guid": "CBMicEFVX3lxTE9iM3lwNTF0NFpMN3VhSWxQQTlXVlVYT0pibGxaY1QyUFo1THI1WlRtS290SEVxN2h1YlEzTDFzM0hET0dmSUpSdzBOTktzX2lVWjI5QURIaEYxNzNEbHFydThaTUFNVjB4WldJWHdyN1Y"
+    },
+    {
       "title": "S&P 500 Slumps in Worst Day Since War Began - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVnItWDVzMGI5Nk5GVDR2QU1pNzg4SjhjTkYzQXBhUjdDWEljMWcwOHZwMnJCMmtUMnFJSDRobnh4WUs1T1hmR3JlOUhMX244Um51Y1VUYkF1NlhlX0FEZEZ5X3lRblNYMTUya2xtdEdoQlFBTUJwZ3UwM0hRRTdqMw?oc=5",
       "source": "The New York Times",
-      "published_at": "Thu, 12 Mar 2026 20:19:38 GMT",
+      "published_at": "Thu, 12 Mar 2026 03:25:41 GMT",
       "summary": "S&P 500 Slumps in Worst Day Since War Began The New York Times",
       "guid": "CBMigAFBVV95cUxNVnItWDVzMGI5Nk5GVDR2QU1pNzg4SjhjTkYzQXBhUjdDWEljMWcwOHZwMnJCMmtUMnFJSDRobnh4WUs1T1hmR3JlOUhMX244Um51Y1VUYkF1NlhlX0FEZEZ5X3lRblNYMTUya2xtdEdoQlFBTUJwZ3UwM0hRRTdqMw"
     },
@@ -31,20 +39,20 @@
       "guid": "CBMiuwFBVV95cUxQT3h5dVlOSEllekhoTWEteFI2UVlWYVE2TzdhMGRUUmYxN0UxYW9TOW9PTm92alFtMWt1VThmWTA5b0FBYkZhVUlBamhVTVpnUTFVcHA4WDF5X3hSUkdCdlNobDV4ZWZCd3g3c0pOaUt2NU1EeWYxMW9wYWdfNUdkS2EtVzFEcUZCczJMdXZ2ZmpfamJnX19TZUpEM255YTNGTlFwVEpDOWlpZWdpSF92bDNWaDJOT0dSV2o0"
     },
     {
-      "title": "Oil reserves, tariff investigations, airline fuel prices and more in Morning Squawk - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdDZKeGVVLUI1WmgxTWdRbm4zYTM4N1pSNzVnME14OTJZTlk3aXN2V1RPNEJQSjdQaGNNeGFnb1cyWHhQZzFleE8yNjlRazZ6NW1WbzRkcTVvaHpKM3pEb3ozU0gyVlZnMjVwNGptZFdScWUxS3Z5OVRIRW85WVNQSXhoVdIBiAFBVV95cUxOQ1RtMFQwNGVaUmlHdzJuUE5yWXExMXFfNFRQUHZseWlEb1RCb1BuV1ZGSFFDZm1ZTzVwUjFrYU5IZGdzNzd5MGQzN0kwdTdpZXhybERpeDN4Wlg1bWRlX2xNa0xmN0F6MGk4c011OUN2Yk9HdUtad0ZGUVpmaE02bkR5d2p6Qm5z?oc=5",
-      "source": "CNBC",
-      "published_at": "Thu, 12 Mar 2026 12:15:30 GMT",
-      "summary": "Oil reserves, tariff investigations, airline fuel prices and more in Morning Squawk CNBC",
-      "guid": "CBMigwFBVV95cUxOdDZKeGVVLUI1WmgxTWdRbm4zYTM4N1pSNzVnME14OTJZTlk3aXN2V1RPNEJQSjdQaGNNeGFnb1cyWHhQZzFleE8yNjlRazZ6NW1WbzRkcTVvaHpKM3pEb3ozU0gyVlZnMjVwNGptZFdScWUxS3Z5OVRIRW85WVNQSXhoVdIBiAFBVV95cUxOQ1RtMFQwNGVaUmlHdzJuUE5yWXExMXFfNFRQUHZseWlEb1RCb1BuV1ZGSFFDZm1ZTzVwUjFrYU5IZGdzNzd5MGQzN0kwdTdpZXhybERpeDN4Wlg1bWRlX2xNa0xmN0F6MGk4c011OUN2Yk9HdUtad0ZGUVpmaE02bkR5d2p6Qm5z"
-    },
-    {
       "title": "How Do Changing Interest Rates Affect the Stock Market? - U.S. Bank",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVVJpa2pCR3B0TmxRZGlpSmRZaFctZ21ybGtrVUVBMFozZ0xiSGFRY0ZZdGNWaV80dnhHUTR2TTVoSnZEU190aGtMamY2MDAxT0hYYzRXcUl5OUEyOGRGYWlBbm54T3ppaEZWRWtyV01EOEJGcVRaM2xROWlCX2FxSFYxX1NXeUQwZmJLS3pqcGhCWjR5RVJrNlhmbUtRcy1EUGJLaFI4UTNkUHg4emNPUE95cTc0bnlDcklaaG5EcWhBeVU?oc=5",
       "source": "U.S. Bank",
       "published_at": "Fri, 30 Jan 2026 08:00:00 GMT",
       "summary": "How Do Changing Interest Rates Affect the Stock Market? U.S. Bank",
       "guid": "CBMiwwFBVV95cUxQVVJpa2pCR3B0TmxRZGlpSmRZaFctZ21ybGtrVUVBMFozZ0xiSGFRY0ZZdGNWaV80dnhHUTR2TTVoSnZEU190aGtMamY2MDAxT0hYYzRXcUl5OUEyOGRGYWlBbm54T3ppaEZWRWtyV01EOEJGcVRaM2xROWlCX2FxSFYxX1NXeUQwZmJLS3pqcGhCWjR5RVJrNlhmbUtRcy1EUGJLaFI4UTNkUHg4emNPUE95cTc0bnlDcklaaG5EcWhBeVU"
+    },
+    {
+      "title": "Oil reserves, tariff investigations, airline fuel prices and more in Morning Squawk - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdDZKeGVVLUI1WmgxTWdRbm4zYTM4N1pSNzVnME14OTJZTlk3aXN2V1RPNEJQSjdQaGNNeGFnb1cyWHhQZzFleE8yNjlRazZ6NW1WbzRkcTVvaHpKM3pEb3ozU0gyVlZnMjVwNGptZFdScWUxS3Z5OVRIRW85WVNQSXhoVdIBiAFBVV95cUxOQ1RtMFQwNGVaUmlHdzJuUE5yWXExMXFfNFRQUHZseWlEb1RCb1BuV1ZGSFFDZm1ZTzVwUjFrYU5IZGdzNzd5MGQzN0kwdTdpZXhybERpeDN4Wlg1bWRlX2xNa0xmN0F6MGk4c011OUN2Yk9HdUtad0ZGUVpmaE02bkR5d2p6Qm5z?oc=5",
+      "source": "CNBC",
+      "published_at": "Thu, 12 Mar 2026 12:15:30 GMT",
+      "summary": "Oil reserves, tariff investigations, airline fuel prices and more in Morning Squawk CNBC",
+      "guid": "CBMigwFBVV95cUxOdDZKeGVVLUI1WmgxTWdRbm4zYTM4N1pSNzVnME14OTJZTlk3aXN2V1RPNEJQSjdQaGNNeGFnb1cyWHhQZzFleE8yNjlRazZ6NW1WbzRkcTVvaHpKM3pEb3ozU0gyVlZnMjVwNGptZFdScWUxS3Z5OVRIRW85WVNQSXhoVdIBiAFBVV95cUxOQ1RtMFQwNGVaUmlHdzJuUE5yWXExMXFfNFRQUHZseWlEb1RCb1BuV1ZGSFFDZm1ZTzVwUjFrYU5IZGdzNzd5MGQzN0kwdTdpZXhybERpeDN4Wlg1bWRlX2xNa0xmN0F6MGk4c011OUN2Yk9HdUtad0ZGUVpmaE02bkR5d2p6Qm5z"
     },
     {
       "title": "US Stock Futures Fluctuate as Brent Hits $90 Again: Markets Wrap - Bloomberg",
@@ -72,19 +80,11 @@
     },
     {
       "title": "The Stock Market Is Cratering. These Charts Explain Why. - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxNQkFkQmlweUF1c1JpclFUWjlVUEg5bjF4WnBaTEF0aTROUlFPeTJ1Z2tKMVdlbDlqMHdKRFhxaEY2SUZTblQxcThkYkdSTTZpV0pRVGFKMDRQVDdESGN1UkhPU3V3ZHl1U3B2UVdPekZLNG9yVDV5cTliUVRjc29nS0kzYURDQTVyZlJPUDNPSW0zVHhrMVExSWF4TFJEQXdTUHhmOXBEa1lwZ3cxQzRwOGluVXVLMi1RbGNrMUtKTllYUUdkSEhRZnRKUW5GSVk4a2RWdGNSd09lVjV2bjY0bF8wcEVlNldGZFVGQXVhWGQ1ZUx3SlRza3VoSUZhbnViWFpiNHZVc0FPTjlnS3JVQ3lwbWlWZE9IclBRMnRFbHVkdVJ5QkwxMkdYSVVuTFdES0ZXZmVJQUc1ZGpwa1JkdWdPdVFZRVRNTW13NHBsQXBnSGhwS3JHX0I4ZmtJQjBrODZUMTd6aUpCVkROa3lwajZyUFlnTXBqRTdTdXhoVjZDME5XNm5xekg4T1BGRGp4TjVF?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxOZTVUQU9KYVNsQy1KRlU3MG04RVdMOHNDdklkUS03XzQwT2d2N0RLRkJoQU43bzBkN1F6dVh3RW9qVTFPbFd1RWJabHd6eDAtWVRsWGRDRnBRUUZQenZNYmIya2lIY2VOalNYdmUtVTYyaWxLQmlJbE9oZktHYThRSGtmWEVyVWNsdHF1eFRJbklLakNLR1ZscTNXa05CWWJIZG45akJta1JSQlBpVExXZ1FMMkw4UFJlbFI4Rk9teHFiUkZaVFhrV2pHSEd5TUR2N2YzVjNvRXBXWVRwNHBBSkp1djFibUlpYlkteG5JUXZZOFFGUHZFbmFZMzBPY3NrOVd6V1hQUGd5UmhzNlppaGQxcHRuRVlrQjBpOE95T241YWxpbGxBWkhmS0M4cHBwN3pfa1I4WEFyZHNlTXBwRmdlNS1xU1ZXUTgzRTA3blEtYTBXaUJhTURKb1l6ZXlDcTItMU9ROTA1U05MVDZDbF9NZ3ZneHBYbEVqaGNfWHFqdmxzdnRDZ0RRaEt3N1JDVEV3?oc=5",
       "source": "Barron's",
       "published_at": "Fri, 14 Nov 2025 08:00:00 GMT",
       "summary": "The Stock Market Is Cratering. These Charts Explain Why. Barron's",
-      "guid": "CBMikwNBVV95cUxNQkFkQmlweUF1c1JpclFUWjlVUEg5bjF4WnBaTEF0aTROUlFPeTJ1Z2tKMVdlbDlqMHdKRFhxaEY2SUZTblQxcThkYkdSTTZpV0pRVGFKMDRQVDdESGN1UkhPU3V3ZHl1U3B2UVdPekZLNG9yVDV5cTliUVRjc29nS0kzYURDQTVyZlJPUDNPSW0zVHhrMVExSWF4TFJEQXdTUHhmOXBEa1lwZ3cxQzRwOGluVXVLMi1RbGNrMUtKTllYUUdkSEhRZnRKUW5GSVk4a2RWdGNSd09lVjV2bjY0bF8wcEVlNldGZFVGQXVhWGQ1ZUx3SlRza3VoSUZhbnViWFpiNHZVc0FPTjlnS3JVQ3lwbWlWZE9IclBRMnRFbHVkdVJ5QkwxMkdYSVVuTFdES0ZXZmVJQUc1ZGpwa1JkdWdPdVFZRVRNTW13NHBsQXBnSGhwS3JHX0I4ZmtJQjBrODZUMTd6aUpCVkROa3lwajZyUFlnTXBqRTdTdXhoVjZDME5XNm5xekg4T1BGRGp4TjVF"
-    },
-    {
-      "title": "Is a Market Correction Coming? - U.S. Bank",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUVliSlNNN1JvaWszYmh4VVhGc3FBczJyOTYtbkVYdmJuc3JoUjROWGdEcjdfdnBybXlteWc1bFRCeEZDTHRxN0xHUnU4Wkg1THdnV3BWUHRKYVhVbGF4QnlwTzZjYU81SkQ2U3VXSElCNXpHQzF4bjFQTXotc3FvSnc4TGxKNlROU3c2SE1PTHM4cmNjanN6X04ydV9kZU5UQ3p1LQ?oc=5",
-      "source": "U.S. Bank",
-      "published_at": "Wed, 18 Feb 2026 08:00:00 GMT",
-      "summary": "Is a Market Correction Coming? U.S. Bank",
-      "guid": "CBMipAFBVV95cUxNUVliSlNNN1JvaWszYmh4VVhGc3FBczJyOTYtbkVYdmJuc3JoUjROWGdEcjdfdnBybXlteWc1bFRCeEZDTHRxN0xHUnU4Wkg1THdnV3BWUHRKYVhVbGF4QnlwTzZjYU81SkQ2U3VXSElCNXpHQzF4bjFQTXotc3FvSnc4TGxKNlROU3c2SE1PTHM4cmNjanN6X04ydV9kZU5UQ3p1LQ"
+      "guid": "CBMikwNBVV95cUxOZTVUQU9KYVNsQy1KRlU3MG04RVdMOHNDdklkUS03XzQwT2d2N0RLRkJoQU43bzBkN1F6dVh3RW9qVTFPbFd1RWJabHd6eDAtWVRsWGRDRnBRUUZQenZNYmIya2lIY2VOalNYdmUtVTYyaWxLQmlJbE9oZktHYThRSGtmWEVyVWNsdHF1eFRJbklLakNLR1ZscTNXa05CWWJIZG45akJta1JSQlBpVExXZ1FMMkw4UFJlbFI4Rk9teHFiUkZaVFhrV2pHSEd5TUR2N2YzVjNvRXBXWVRwNHBBSkp1djFibUlpYlkteG5JUXZZOFFGUHZFbmFZMzBPY3NrOVd6V1hQUGd5UmhzNlppaGQxcHRuRVlrQjBpOE95T241YWxpbGxBWkhmS0M4cHBwN3pfa1I4WEFyZHNlTXBwRmdlNS1xU1ZXUTgzRTA3blEtYTBXaUJhTURKb1l6ZXlDcTItMU9ROTA1U05MVDZDbF9NZ3ZneHBYbEVqaGNfWHFqdmxzdnRDZ0RRaEt3N1JDVEV3"
     }
   ]
 }
