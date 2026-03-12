@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-12T19:28:25Z",
+  "generated_at": "2026-03-12T21:04:00Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,28 +7,20 @@
   },
   "items": [
     {
+      "title": "S&P 500 Slumps in Worst Day Since War Began - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVnItWDVzMGI5Nk5GVDR2QU1pNzg4SjhjTkYzQXBhUjdDWEljMWcwOHZwMnJCMmtUMnFJSDRobnh4WUs1T1hmR3JlOUhMX244Um51Y1VUYkF1NlhlX0FEZEZ5X3lRblNYMTUya2xtdEdoQlFBTUJwZ3UwM0hRRTdqMw?oc=5",
+      "source": "The New York Times",
+      "published_at": "Thu, 12 Mar 2026 20:19:38 GMT",
+      "summary": "S&P 500 Slumps in Worst Day Since War Began The New York Times",
+      "guid": "CBMigAFBVV95cUxNVnItWDVzMGI5Nk5GVDR2QU1pNzg4SjhjTkYzQXBhUjdDWEljMWcwOHZwMnJCMmtUMnFJSDRobnh4WUs1T1hmR3JlOUhMX244Um51Y1VUYkF1NlhlX0FEZEZ5X3lRblNYMTUya2xtdEdoQlFBTUJwZ3UwM0hRRTdqMw"
+    },
+    {
       "title": "Oil price jumps despite deal to release record amount of reserves - BBC",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KWW1mc3dVZVVKTm9qd2dlY0h1bTQ3cEY5dWlnUkc1UGFWcjM1OHpBZ3N2a0xsMHFaa0hWZDFreFljOWpjOGFjbmprZ3VoamxLTml5VkJRQ3ptdw?oc=5",
       "source": "BBC",
       "published_at": "Thu, 12 Mar 2026 17:39:51 GMT",
       "summary": "Oil price jumps despite deal to release record amount of reserves BBC",
       "guid": "CBMiWkFVX3lxTE5KWW1mc3dVZVVKTm9qd2dlY0h1bTQ3cEY5dWlnUkc1UGFWcjM1OHpBZ3N2a0xsMHFaa0hWZDFreFljOWpjOGFjbmprZ3VoamxLTml5VkJRQ3ptdw"
-    },
-    {
-      "title": "Oil reserves, tariff investigations, airline fuel prices and more in Morning Squawk - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdDZKeGVVLUI1WmgxTWdRbm4zYTM4N1pSNzVnME14OTJZTlk3aXN2V1RPNEJQSjdQaGNNeGFnb1cyWHhQZzFleE8yNjlRazZ6NW1WbzRkcTVvaHpKM3pEb3ozU0gyVlZnMjVwNGptZFdScWUxS3Z5OVRIRW85WVNQSXhoVdIBiAFBVV95cUxOQ1RtMFQwNGVaUmlHdzJuUE5yWXExMXFfNFRQUHZseWlEb1RCb1BuV1ZGSFFDZm1ZTzVwUjFrYU5IZGdzNzd5MGQzN0kwdTdpZXhybERpeDN4Wlg1bWRlX2xNa0xmN0F6MGk4c011OUN2Yk9HdUtad0ZGUVpmaE02bkR5d2p6Qm5z?oc=5",
-      "source": "CNBC",
-      "published_at": "Thu, 12 Mar 2026 12:15:30 GMT",
-      "summary": "Oil reserves, tariff investigations, airline fuel prices and more in Morning Squawk CNBC",
-      "guid": "CBMigwFBVV95cUxOdDZKeGVVLUI1WmgxTWdRbm4zYTM4N1pSNzVnME14OTJZTlk3aXN2V1RPNEJQSjdQaGNNeGFnb1cyWHhQZzFleE8yNjlRazZ6NW1WbzRkcTVvaHpKM3pEb3ozU0gyVlZnMjVwNGptZFdScWUxS3Z5OVRIRW85WVNQSXhoVdIBiAFBVV95cUxOQ1RtMFQwNGVaUmlHdzJuUE5yWXExMXFfNFRQUHZseWlEb1RCb1BuV1ZGSFFDZm1ZTzVwUjFrYU5IZGdzNzd5MGQzN0kwdTdpZXhybERpeDN4Wlg1bWRlX2xNa0xmN0F6MGk4c011OUN2Yk9HdUtad0ZGUVpmaE02bkR5d2p6Qm5z"
-    },
-    {
-      "title": "US Stock Futures Fluctuate as Brent Hits $90 Again: Markets Wrap - Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU1RKSWV6R3hnTzJCZHE3c3lfc3F5MWhYSnJxLVE3SkFybDVSdkhfTWtRSUMxeFB5Zk9LVjlEMUIzaXlnSEVnU0x3bXVlNzU1emVITlRUOVphQkxhbTJkTEE2a0lZRlJxTG5IbE1OTVFqbEFLOTNmejNNa1g1ekpzaUtYVjRCcFF4V0x3aWZ5TFpxZVdzV0dpSktrWnJhUmtqM2d0eG44OW84YnU5dWp4Qw?oc=5",
-      "source": "Bloomberg",
-      "published_at": "Wed, 11 Mar 2026 20:54:43 GMT",
-      "summary": "US Stock Futures Fluctuate as Brent Hits $90 Again: Markets Wrap Bloomberg",
-      "guid": "CBMisAFBVV95cUxOU1RKSWV6R3hnTzJCZHE3c3lfc3F5MWhYSnJxLVE3SkFybDVSdkhfTWtRSUMxeFB5Zk9LVjlEMUIzaXlnSEVnU0x3bXVlNzU1emVITlRUOVphQkxhbTJkTEE2a0lZRlJxTG5IbE1OTVFqbEFLOTNmejNNa1g1ekpzaUtYVjRCcFF4V0x3aWZ5TFpxZVdzV0dpSktrWnJhUmtqM2d0eG44OW84YnU5dWp4Qw"
     },
     {
       "title": "Dow Jones Futures Fall, Oracle Jumps On Earnings; Oil Swings With Reserves Release Plan Due - Investor's Business Daily",
@@ -39,12 +31,28 @@
       "guid": "CBMiuwFBVV95cUxQT3h5dVlOSEllekhoTWEteFI2UVlWYVE2TzdhMGRUUmYxN0UxYW9TOW9PTm92alFtMWt1VThmWTA5b0FBYkZhVUlBamhVTVpnUTFVcHA4WDF5X3hSUkdCdlNobDV4ZWZCd3g3c0pOaUt2NU1EeWYxMW9wYWdfNUdkS2EtVzFEcUZCczJMdXZ2ZmpfamJnX19TZUpEM255YTNGTlFwVEpDOWlpZWdpSF92bDNWaDJOT0dSV2o0"
     },
     {
+      "title": "Oil reserves, tariff investigations, airline fuel prices and more in Morning Squawk - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdDZKeGVVLUI1WmgxTWdRbm4zYTM4N1pSNzVnME14OTJZTlk3aXN2V1RPNEJQSjdQaGNNeGFnb1cyWHhQZzFleE8yNjlRazZ6NW1WbzRkcTVvaHpKM3pEb3ozU0gyVlZnMjVwNGptZFdScWUxS3Z5OVRIRW85WVNQSXhoVdIBiAFBVV95cUxOQ1RtMFQwNGVaUmlHdzJuUE5yWXExMXFfNFRQUHZseWlEb1RCb1BuV1ZGSFFDZm1ZTzVwUjFrYU5IZGdzNzd5MGQzN0kwdTdpZXhybERpeDN4Wlg1bWRlX2xNa0xmN0F6MGk4c011OUN2Yk9HdUtad0ZGUVpmaE02bkR5d2p6Qm5z?oc=5",
+      "source": "CNBC",
+      "published_at": "Thu, 12 Mar 2026 12:15:30 GMT",
+      "summary": "Oil reserves, tariff investigations, airline fuel prices and more in Morning Squawk CNBC",
+      "guid": "CBMigwFBVV95cUxOdDZKeGVVLUI1WmgxTWdRbm4zYTM4N1pSNzVnME14OTJZTlk3aXN2V1RPNEJQSjdQaGNNeGFnb1cyWHhQZzFleE8yNjlRazZ6NW1WbzRkcTVvaHpKM3pEb3ozU0gyVlZnMjVwNGptZFdScWUxS3Z5OVRIRW85WVNQSXhoVdIBiAFBVV95cUxOQ1RtMFQwNGVaUmlHdzJuUE5yWXExMXFfNFRQUHZseWlEb1RCb1BuV1ZGSFFDZm1ZTzVwUjFrYU5IZGdzNzd5MGQzN0kwdTdpZXhybERpeDN4Wlg1bWRlX2xNa0xmN0F6MGk4c011OUN2Yk9HdUtad0ZGUVpmaE02bkR5d2p6Qm5z"
+    },
+    {
       "title": "How Do Changing Interest Rates Affect the Stock Market? - U.S. Bank",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVVJpa2pCR3B0TmxRZGlpSmRZaFctZ21ybGtrVUVBMFozZ0xiSGFRY0ZZdGNWaV80dnhHUTR2TTVoSnZEU190aGtMamY2MDAxT0hYYzRXcUl5OUEyOGRGYWlBbm54T3ppaEZWRWtyV01EOEJGcVRaM2xROWlCX2FxSFYxX1NXeUQwZmJLS3pqcGhCWjR5RVJrNlhmbUtRcy1EUGJLaFI4UTNkUHg4emNPUE95cTc0bnlDcklaaG5EcWhBeVU?oc=5",
       "source": "U.S. Bank",
       "published_at": "Fri, 30 Jan 2026 08:00:00 GMT",
       "summary": "How Do Changing Interest Rates Affect the Stock Market? U.S. Bank",
       "guid": "CBMiwwFBVV95cUxQVVJpa2pCR3B0TmxRZGlpSmRZaFctZ21ybGtrVUVBMFozZ0xiSGFRY0ZZdGNWaV80dnhHUTR2TTVoSnZEU190aGtMamY2MDAxT0hYYzRXcUl5OUEyOGRGYWlBbm54T3ppaEZWRWtyV01EOEJGcVRaM2xROWlCX2FxSFYxX1NXeUQwZmJLS3pqcGhCWjR5RVJrNlhmbUtRcy1EUGJLaFI4UTNkUHg4emNPUE95cTc0bnlDcklaaG5EcWhBeVU"
+    },
+    {
+      "title": "US Stock Futures Fluctuate as Brent Hits $90 Again: Markets Wrap - Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU1RKSWV6R3hnTzJCZHE3c3lfc3F5MWhYSnJxLVE3SkFybDVSdkhfTWtRSUMxeFB5Zk9LVjlEMUIzaXlnSEVnU0x3bXVlNzU1emVITlRUOVphQkxhbTJkTEE2a0lZRlJxTG5IbE1OTVFqbEFLOTNmejNNa1g1ekpzaUtYVjRCcFF4V0x3aWZ5TFpxZVdzV0dpSktrWnJhUmtqM2d0eG44OW84YnU5dWp4Qw?oc=5",
+      "source": "Bloomberg",
+      "published_at": "Wed, 11 Mar 2026 20:54:43 GMT",
+      "summary": "US Stock Futures Fluctuate as Brent Hits $90 Again: Markets Wrap Bloomberg",
+      "guid": "CBMisAFBVV95cUxOU1RKSWV6R3hnTzJCZHE3c3lfc3F5MWhYSnJxLVE3SkFybDVSdkhfTWtRSUMxeFB5Zk9LVjlEMUIzaXlnSEVnU0x3bXVlNzU1emVITlRUOVphQkxhbTJkTEE2a0lZRlJxTG5IbE1OTVFqbEFLOTNmejNNa1g1ekpzaUtYVjRCcFF4V0x3aWZ5TFpxZVdzV0dpSktrWnJhUmtqM2d0eG44OW84YnU5dWp4Qw"
     },
     {
       "title": "Market Reactions to Tariff Announcements - Federal Reserve Bank of San Francisco",
@@ -64,27 +72,19 @@
     },
     {
       "title": "The Stock Market Is Cratering. These Charts Explain Why. - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxObGZDdG4xdzV5UHRLOUdWX3JBZmtRbVJUWGo4RkZJYmw2N3ZKMU1WSUlGU1k0Um9QUHBOQ21faGN1YUJKTExhcDRmWTBHVm1pU2dyTVZRbDViOVI2ZG52Z2JlcGxmM3NEV2FIaDAyT2E4dVNCX0ZzSUxOQWpWcGlpUGZqX3F5Y2FwanFVTjlOYTI4NEctaW1SZXBnOHRadE5aeldpRm9ScmdFS0VXblBaVW1UaW9IQWxkc0Z3VXhrbW0xS2dXUFVaR3BMRmlnZVdiUlJqOXU5ZmtxMG5ZZ0p2Z2JCREN6Mnp3ZW52aGpQcWhBbE9LbkZKT0FpM08tLW9ncS1mdjh4N2NkYUZQYlJsQXk1a1QxSks3VmI5d0d1Vk1hTzFEUm1Ea0hHSjNKSkx6c05oWndtZlN6MkM0bXR2SUExVDNoUjN2aGZmc1lQX2RWdzJnQUZfcmQ4TVRfQ3hHc051RlhncTBUZkJ2eVR2N0Z0aFhpM0M4T0hFWVVTckNUb0tTRWg1OFJRaks0UXIwWjdB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxNQkFkQmlweUF1c1JpclFUWjlVUEg5bjF4WnBaTEF0aTROUlFPeTJ1Z2tKMVdlbDlqMHdKRFhxaEY2SUZTblQxcThkYkdSTTZpV0pRVGFKMDRQVDdESGN1UkhPU3V3ZHl1U3B2UVdPekZLNG9yVDV5cTliUVRjc29nS0kzYURDQTVyZlJPUDNPSW0zVHhrMVExSWF4TFJEQXdTUHhmOXBEa1lwZ3cxQzRwOGluVXVLMi1RbGNrMUtKTllYUUdkSEhRZnRKUW5GSVk4a2RWdGNSd09lVjV2bjY0bF8wcEVlNldGZFVGQXVhWGQ1ZUx3SlRza3VoSUZhbnViWFpiNHZVc0FPTjlnS3JVQ3lwbWlWZE9IclBRMnRFbHVkdVJ5QkwxMkdYSVVuTFdES0ZXZmVJQUc1ZGpwa1JkdWdPdVFZRVRNTW13NHBsQXBnSGhwS3JHX0I4ZmtJQjBrODZUMTd6aUpCVkROa3lwajZyUFlnTXBqRTdTdXhoVjZDME5XNm5xekg4T1BGRGp4TjVF?oc=5",
       "source": "Barron's",
       "published_at": "Fri, 14 Nov 2025 08:00:00 GMT",
       "summary": "The Stock Market Is Cratering. These Charts Explain Why. Barron's",
-      "guid": "CBMikwNBVV95cUxObGZDdG4xdzV5UHRLOUdWX3JBZmtRbVJUWGo4RkZJYmw2N3ZKMU1WSUlGU1k0Um9QUHBOQ21faGN1YUJKTExhcDRmWTBHVm1pU2dyTVZRbDViOVI2ZG52Z2JlcGxmM3NEV2FIaDAyT2E4dVNCX0ZzSUxOQWpWcGlpUGZqX3F5Y2FwanFVTjlOYTI4NEctaW1SZXBnOHRadE5aeldpRm9ScmdFS0VXblBaVW1UaW9IQWxkc0Z3VXhrbW0xS2dXUFVaR3BMRmlnZVdiUlJqOXU5ZmtxMG5ZZ0p2Z2JCREN6Mnp3ZW52aGpQcWhBbE9LbkZKT0FpM08tLW9ncS1mdjh4N2NkYUZQYlJsQXk1a1QxSks3VmI5d0d1Vk1hTzFEUm1Ea0hHSjNKSkx6c05oWndtZlN6MkM0bXR2SUExVDNoUjN2aGZmc1lQX2RWdzJnQUZfcmQ4TVRfQ3hHc051RlhncTBUZkJ2eVR2N0Z0aFhpM0M4T0hFWVVTckNUb0tTRWg1OFJRaks0UXIwWjdB"
+      "guid": "CBMikwNBVV95cUxNQkFkQmlweUF1c1JpclFUWjlVUEg5bjF4WnBaTEF0aTROUlFPeTJ1Z2tKMVdlbDlqMHdKRFhxaEY2SUZTblQxcThkYkdSTTZpV0pRVGFKMDRQVDdESGN1UkhPU3V3ZHl1U3B2UVdPekZLNG9yVDV5cTliUVRjc29nS0kzYURDQTVyZlJPUDNPSW0zVHhrMVExSWF4TFJEQXdTUHhmOXBEa1lwZ3cxQzRwOGluVXVLMi1RbGNrMUtKTllYUUdkSEhRZnRKUW5GSVk4a2RWdGNSd09lVjV2bjY0bF8wcEVlNldGZFVGQXVhWGQ1ZUx3SlRza3VoSUZhbnViWFpiNHZVc0FPTjlnS3JVQ3lwbWlWZE9IclBRMnRFbHVkdVJ5QkwxMkdYSVVuTFdES0ZXZmVJQUc1ZGpwa1JkdWdPdVFZRVRNTW13NHBsQXBnSGhwS3JHX0I4ZmtJQjBrODZUMTd6aUpCVkROa3lwajZyUFlnTXBqRTdTdXhoVjZDME5XNm5xekg4T1BGRGp4TjVF"
     },
     {
-      "title": "The Stock Market Flashes a Warning Seen Twice in 40 Years, and the Federal Reserve Has Bad News About President Trump's Tariffs - Nasdaq",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUU5LanZFeG1YcDNnUEtqdUwzajg3eXk2ZnVNelg3eUw5SGwtV1U1NW1iMmFOZGVmcXRVZFFWTmJFc0ZhWnlWSkRhR2MwcWFPS2Zxd284REZOdTNxVXN2NUNGN29LemhkN3Uxbl9pdS0tT3pGUVc5Wm5fbTJqSFY3MjV5eldkVDRaZXo3OWM3YzlJRU1HNHBDQ1V1NUN6dDJjRkUyUl80TW1lZGpHbnc1aW5kRm05ODlZdmh3?oc=5",
-      "source": "Nasdaq",
-      "published_at": "Thu, 11 Dec 2025 08:00:00 GMT",
-      "summary": "The Stock Market Flashes a Warning Seen Twice in 40 Years, and the Federal Reserve Has Bad News About President Trump's Tariffs Nasdaq",
-      "guid": "CBMiuwFBVV95cUxNUU5LanZFeG1YcDNnUEtqdUwzajg3eXk2ZnVNelg3eUw5SGwtV1U1NW1iMmFOZGVmcXRVZFFWTmJFc0ZhWnlWSkRhR2MwcWFPS2Zxd284REZOdTNxVXN2NUNGN29LemhkN3Uxbl9pdS0tT3pGUVc5Wm5fbTJqSFY3MjV5eldkVDRaZXo3OWM3YzlJRU1HNHBDQ1V1NUN6dDJjRkUyUl80TW1lZGpHbnc1aW5kRm05ODlZdmh3"
-    },
-    {
-      "title": "Jim Cramer says these 3 stock market themes could work if the oil shock eases - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWlBlbVZmLUwydktEcHJCNG1ndkVmcEdlWnRGZ3ZjQzVaRWswcThEazRJNWQ0QUduRkRVa2Vxb2h6ckd5SUZ2LU5BYkpxMHhwTDdpYXphT2lZV1N3WmFzbDhhTkN6Y0hodm5iM3R0TkFGOE9NRU5yZnlKYlNhSk91emtmUDhFNEQ1Tk1fWnZOUnVDb0FLaFZob1FTUDlSTFpPMlhFdVliVnFTLVU4WU1yZXhTbm_SAboBQVVfeXFMTkUwNGF3cmdsNnBkUVYtdGJldmRxVjhMa1ZoOFFDNFZDbC1FU2pMQVpOR1I5WWZsYmRYanAtMHBadTBISnc1RzVTbkw5ejBSeDh2R1J1OVV2c29CZTBORDZjZU1MQ1Y0OEk5Y0kxZHRzMUs3LVNpOTVvWGtna3BHT1FEcDktU0tZTjhrOGV1UXEyY3ZGMlB1SEQzalB5ZGRKUXlSRWx1SUp6TllrVkF5Z29NX3RNcjJjQ2pn?oc=5",
-      "source": "CNBC",
-      "published_at": "Wed, 11 Mar 2026 23:01:49 GMT",
-      "summary": "Jim Cramer says these 3 stock market themes could work if the oil shock eases CNBC",
-      "guid": "CBMitAFBVV95cUxQWlBlbVZmLUwydktEcHJCNG1ndkVmcEdlWnRGZ3ZjQzVaRWswcThEazRJNWQ0QUduRkRVa2Vxb2h6ckd5SUZ2LU5BYkpxMHhwTDdpYXphT2lZV1N3WmFzbDhhTkN6Y0hodm5iM3R0TkFGOE9NRU5yZnlKYlNhSk91emtmUDhFNEQ1Tk1fWnZOUnVDb0FLaFZob1FTUDlSTFpPMlhFdVliVnFTLVU4WU1yZXhTbm_SAboBQVVfeXFMTkUwNGF3cmdsNnBkUVYtdGJldmRxVjhMa1ZoOFFDNFZDbC1FU2pMQVpOR1I5WWZsYmRYanAtMHBadTBISnc1RzVTbkw5ejBSeDh2R1J1OVV2c29CZTBORDZjZU1MQ1Y0OEk5Y0kxZHRzMUs3LVNpOTVvWGtna3BHT1FEcDktU0tZTjhrOGV1UXEyY3ZGMlB1SEQzalB5ZGRKUXlSRWx1SUp6TllrVkF5Z29NX3RNcjJjQ2pn"
+      "title": "Is a Market Correction Coming? - U.S. Bank",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUVliSlNNN1JvaWszYmh4VVhGc3FBczJyOTYtbkVYdmJuc3JoUjROWGdEcjdfdnBybXlteWc1bFRCeEZDTHRxN0xHUnU4Wkg1THdnV3BWUHRKYVhVbGF4QnlwTzZjYU81SkQ2U3VXSElCNXpHQzF4bjFQTXotc3FvSnc4TGxKNlROU3c2SE1PTHM4cmNjanN6X04ydV9kZU5UQ3p1LQ?oc=5",
+      "source": "U.S. Bank",
+      "published_at": "Wed, 18 Feb 2026 08:00:00 GMT",
+      "summary": "Is a Market Correction Coming? U.S. Bank",
+      "guid": "CBMipAFBVV95cUxNUVliSlNNN1JvaWszYmh4VVhGc3FBczJyOTYtbkVYdmJuc3JoUjROWGdEcjdfdnBybXlteWc1bFRCeEZDTHRxN0xHUnU4Wkg1THdnV3BWUHRKYVhVbGF4QnlwTzZjYU81SkQ2U3VXSElCNXpHQzF4bjFQTXotc3FvSnc4TGxKNlROU3c2SE1PTHM4cmNjanN6X04ydV9kZU5UQ3p1LQ"
     }
   ]
 }
