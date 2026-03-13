@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-13T13:22:48Z",
+  "generated_at": "2026-03-13T14:09:25Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -13,6 +13,14 @@
       "published_at": "Fri, 13 Mar 2026 07:48:19 GMT",
       "summary": "Oil, Inflation, and the Economy: Will the Stock Market Break? tastylive",
       "guid": "CBMinwFBVV95cUxPNm1PUF9idE9aWk14M084NlAtUVktT0thRTkwWjRpY09UaHdUNks1U2tzNzZ2QnJrMTl4dFJWdEdqVXNJb18wV0Y5NmZKZzNlT1FIVWN6VHIyLUM2eTVGTDFlVDRnMnBSdEdOZHM5ZnBnakZFT3V4UHhkNmRhbU9fOVYydnN2TWRvcWxWV1ZHRlE2c1NaS0lZeDBlSWhsZU0"
+    },
+    {
+      "title": "S&P 500 Slumps in Worst Day Since War Began - The New York Times - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVnItWDVzMGI5Nk5GVDR2QU1pNzg4SjhjTkYzQXBhUjdDWEljMWcwOHZwMnJCMmtUMnFJSDRobnh4WUs1T1hmR3JlOUhMX244Um51Y1VUYkF1NlhlX0FEZEZ5X3lRblNYMTUya2xtdEdoQlFBTUJwZ3UwM0hRRTdqMw?oc=5",
+      "source": "The New York Times",
+      "published_at": "Fri, 13 Mar 2026 02:39:00 GMT",
+      "summary": "S&P 500 Slumps in Worst Day Since War Began - The New York Times The New York Times",
+      "guid": "CBMigAFBVV95cUxNVnItWDVzMGI5Nk5GVDR2QU1pNzg4SjhjTkYzQXBhUjdDWEljMWcwOHZwMnJCMmtUMnFJSDRobnh4WUs1T1hmR3JlOUhMX244Um51Y1VUYkF1NlhlX0FEZEZ5X3lRblNYMTUya2xtdEdoQlFBTUJwZ3UwM0hRRTdqMw"
     },
     {
       "title": "The Stock Market Sounds an Alarm as Oil Prices Surge to Their Highest Level in Years. History Says the S&P 500 Will Do This Next. - The Motley Fool",
@@ -29,22 +37,6 @@
       "published_at": "Thu, 12 Mar 2026 20:40:20 GMT",
       "summary": "Federal Reserve to loosen capital requirements for big US banks Financial Times",
       "guid": "CBMicEFVX3lxTE9iM3lwNTF0NFpMN3VhSWxQQTlXVlVYT0pibGxaY1QyUFo1THI1WlRtS290SEVxN2h1YlEzTDFzM0hET0dmSUpSdzBOTktzX2lVWjI5QURIaEYxNzNEbHFydThaTUFNVjB4WldJWHdyN1Y"
-    },
-    {
-      "title": "Banking Regulators Plan to Ease Some Capital Requirements - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZnBUVEJ3T3VNc1dnM2I3VDVCNTZSVTktZFItRVJ2VFFjSXJpMDAyclpTY0dwcXNFdHR5bDFMNGI5YVVRdFlSSVY4aExaUU9aaWNVS3Vscl9SakNBcGh3Qi1jYkJMYS1TLTVwZmxnYlo2OG5SRkJ3NDV6WlNHLVE0c3RxZXU1TXdrdGJlTV9fdmVYQQ?oc=5",
-      "source": "The New York Times",
-      "published_at": "Thu, 12 Mar 2026 18:48:44 GMT",
-      "summary": "Banking Regulators Plan to Ease Some Capital Requirements The New York Times",
-      "guid": "CBMikgFBVV95cUxQZnBUVEJ3T3VNc1dnM2I3VDVCNTZSVTktZFItRVJ2VFFjSXJpMDAyclpTY0dwcXNFdHR5bDFMNGI5YVVRdFlSSVY4aExaUU9aaWNVS3Vscl9SakNBcGh3Qi1jYkJMYS1TLTVwZmxnYlo2OG5SRkJ3NDV6WlNHLVE0c3RxZXU1TXdrdGJlTV9fdmVYQQ"
-    },
-    {
-      "title": "Why are US stock market futures rising now, and S&P 500 and Dow Jones in green while Nasdaq in red? Wall s - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxOdXJXS21ldlQ2T2gwY3BDMko0dmRsQXpzVElyN2I0S1dUcVRfLS1maUMtWml1MTZXYXczbWU4ZVQ0ZF9neWdOUjBJVWtaU3Z5TE9mYmMxQUtQR1drQmEzN2VBRm52ZndJYWp2TG1wNnVXRndrY1o2MW1mMUZWWHBvTHByV1NuU1hxWUMtOGlRVDlLc2pKRjNuV0NtMXBVMjhKWmVNQ2x0ZGVNcE0xMVk5dTdtSGRKZFhsSXIwSXdVOFhRSlJ1NVJNMG5iVHgySHJVdGNyekxCVHBNbTkxaThTcjU3amtNazhoOFlCc1dCaWpmNnlVb080aGZLYmNsQWtaTVJ1QWFqMDhIUXJLXzJjRElyT0xvcEx3X0owSU9TQVc3VkpnWUlyNmZybFBvMlRkVUktLUJOT2N2M2FuVWcxUjdCQmNUVHA3OTBjcExVZkJLTzZ3S3BHRGdPTWdJVE1HYVdublEzc180M1dpOWdnY0s2bFNobmxEVjFONmNQR0hiSGZfWlJfN9IBjgNBVV95cUxPNG1tcHdwMVQ4WjF5ZlhoUS1kZThEY0NRTnRUS3JfQ0oyQjlyVzk4YXNLVDBIUDJhdUhPLTBGRkRZQzA1ZnpHeEJ5dVdidjVwY2FDajhzNW1qeG01WXpqVWYtQ2lWM2JKVGJ0RTdfWFhlUjBMNHcxQS1NekFoQXp2cDlzNHVfOHJwOTJDcTl2WUN4Ym5LU2FzY2xQRGtnYkhDMXlSS0dtbkZhYllpQVZZU3RQcUgzZF9QLTlxcUxEQnFyVm5jcXQtdUZCY0E1cDlUTzFBSTFWaXRjcTlBWHEtLTZvU1RXVi1YVVdra2dESDVsZnhWVlo2VFFMUURtay16WmFNbVhSc3VvSGVEcWEtWlZPQVdUZGpZcUltTlNtY0JSMDJKUTRDaElPNmFwM2o4MUlyblhpa2xJSWJubnJEWW5Dam4xbjZHVGpQdVB1d1BmbDB3OFJSZVNPd0kya1NWeF9sYnRBVDhkRU53akw3aEd1Ul9Ta1k4aVVrNDZpZ2pwS1dIUnotc3h4emxDZw?oc=5",
-      "source": "The Economic Times",
-      "published_at": "Fri, 13 Mar 2026 04:47:31 GMT",
-      "summary": "Why are US stock market futures rising now, and S&P 500 and Dow Jones in green while Nasdaq in red? Wall s The Economic Times",
-      "guid": "CBMiiANBVV95cUxOdXJXS21ldlQ2T2gwY3BDMko0dmRsQXpzVElyN2I0S1dUcVRfLS1maUMtWml1MTZXYXczbWU4ZVQ0ZF9neWdOUjBJVWtaU3Z5TE9mYmMxQUtQR1drQmEzN2VBRm52ZndJYWp2TG1wNnVXRndrY1o2MW1mMUZWWHBvTHByV1NuU1hxWUMtOGlRVDlLc2pKRjNuV0NtMXBVMjhKWmVNQ2x0ZGVNcE0xMVk5dTdtSGRKZFhsSXIwSXdVOFhRSlJ1NVJNMG5iVHgySHJVdGNyekxCVHBNbTkxaThTcjU3amtNazhoOFlCc1dCaWpmNnlVb080aGZLYmNsQWtaTVJ1QWFqMDhIUXJLXzJjRElyT0xvcEx3X0owSU9TQVc3VkpnWUlyNmZybFBvMlRkVUktLUJOT2N2M2FuVWcxUjdCQmNUVHA3OTBjcExVZkJLTzZ3S3BHRGdPTWdJVE1HYVdublEzc180M1dpOWdnY0s2bFNobmxEVjFONmNQR0hiSGZfWlJfN9IBjgNBVV95cUxPNG1tcHdwMVQ4WjF5ZlhoUS1kZThEY0NRTnRUS3JfQ0oyQjlyVzk4YXNLVDBIUDJhdUhPLTBGRkRZQzA1ZnpHeEJ5dVdidjVwY2FDajhzNW1qeG01WXpqVWYtQ2lWM2JKVGJ0RTdfWFhlUjBMNHcxQS1NekFoQXp2cDlzNHVfOHJwOTJDcTl2WUN4Ym5LU2FzY2xQRGtnYkhDMXlSS0dtbkZhYllpQVZZU3RQcUgzZF9QLTlxcUxEQnFyVm5jcXQtdUZCY0E1cDlUTzFBSTFWaXRjcTlBWHEtLTZvU1RXVi1YVVdra2dESDVsZnhWVlo2VFFMUURtay16WmFNbVhSc3VvSGVEcWEtWlZPQVdUZGpZcUltTlNtY0JSMDJKUTRDaElPNmFwM2o4MUlyblhpa2xJSWJubnJEWW5Dam4xbjZHVGpQdVB1d1BmbDB3OFJSZVNPd0kya1NWeF9sYnRBVDhkRU53akw3aEd1Ul9Ta1k4aVVrNDZpZ2pwS1dIUnotc3h4emxDZw"
     },
     {
       "title": "Tracker: The Federal Reserve’s Balance Sheet Assets - The American Action Forum",
@@ -85,6 +77,14 @@
       "published_at": "Fri, 30 Jan 2026 08:00:00 GMT",
       "summary": "How Do Changing Interest Rates Affect the Stock Market? U.S. Bank",
       "guid": "CBMiwwFBVV95cUxQVVJpa2pCR3B0TmxRZGlpSmRZaFctZ21ybGtrVUVBMFozZ0xiSGFRY0ZZdGNWaV80dnhHUTR2TTVoSnZEU190aGtMamY2MDAxT0hYYzRXcUl5OUEyOGRGYWlBbm54T3ppaEZWRWtyV01EOEJGcVRaM2xROWlCX2FxSFYxX1NXeUQwZmJLS3pqcGhCWjR5RVJrNlhmbUtRcy1EUGJLaFI4UTNkUHg4emNPUE95cTc0bnlDcklaaG5EcWhBeVU"
+    },
+    {
+      "title": "Market Reactions to Tariff Announcements - Federal Reserve Bank of San Francisco",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM1dfLWVxeDJGbVNDYU9vWU8xOW5Fbk9rWk5KREtjbWFDcWFfdzAyVE5WMDhINUpWbWVDVWZmRHBSSlN3blk5alBHd3B1RE5JSmVMRTd3SXhNQmZWdDllUDFCU1lwTk9zcmpBSmhmazM5OEhIWEVHMlhHTDY4M1luNXJ5TExQbi1RMjBLbmpZd3BqLU1zanlvM0hvVWhVcWtiSWZBOV9ENTJmTWUtQzIxdmprYlpGNnJzQk11T1ZfWQ?oc=5",
+      "source": "Federal Reserve Bank of San Francisco",
+      "published_at": "Mon, 06 Oct 2025 07:00:00 GMT",
+      "summary": "Market Reactions to Tariff Announcements Federal Reserve Bank of San Francisco",
+      "guid": "CBMivwFBVV95cUxOM1dfLWVxeDJGbVNDYU9vWU8xOW5Fbk9rWk5KREtjbWFDcWFfdzAyVE5WMDhINUpWbWVDVWZmRHBSSlN3blk5alBHd3B1RE5JSmVMRTd3SXhNQmZWdDllUDFCU1lwTk9zcmpBSmhmazM5OEhIWEVHMlhHTDY4M1luNXJ5TExQbi1RMjBLbmpZd3BqLU1zanlvM0hvVWhVcWtiSWZBOV9ENTJmTWUtQzIxdmprYlpGNnJzQk11T1ZfWQ"
     }
   ]
 }
