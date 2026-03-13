@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-03-12T23:46:56Z",
+  "generated_at": "2026-03-13T01:05:10Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "S&P 500 Slumps in Worst Day Since War Began - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVnItWDVzMGI5Nk5GVDR2QU1pNzg4SjhjTkYzQXBhUjdDWEljMWcwOHZwMnJCMmtUMnFJSDRobnh4WUs1T1hmR3JlOUhMX244Um51Y1VUYkF1NlhlX0FEZEZ5X3lRblNYMTUya2xtdEdoQlFBTUJwZ3UwM0hRRTdqMw?oc=5",
+      "source": "The New York Times",
+      "published_at": "Thu, 12 Mar 2026 22:55:00 GMT",
+      "summary": "S&P 500 Slumps in Worst Day Since War Began The New York Times",
+      "guid": "CBMigAFBVV95cUxNVnItWDVzMGI5Nk5GVDR2QU1pNzg4SjhjTkYzQXBhUjdDWEljMWcwOHZwMnJCMmtUMnFJSDRobnh4WUs1T1hmR3JlOUhMX244Um51Y1VUYkF1NlhlX0FEZEZ5X3lRblNYMTUya2xtdEdoQlFBTUJwZ3UwM0hRRTdqMw"
+    },
     {
       "title": "Federal Reserve to loosen capital requirements for big US banks - Financial Times",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9iM3lwNTF0NFpMN3VhSWxQQTlXVlVYT0pibGxaY1QyUFo1THI1WlRtS290SEVxN2h1YlEzTDFzM0hET0dmSUpSdzBOTktzX2lVWjI5QURIaEYxNzNEbHFydThaTUFNVjB4WldJWHdyN1Y?oc=5",
@@ -23,12 +31,12 @@
       "guid": "CBMiWkFVX3lxTE5KWW1mc3dVZVVKTm9qd2dlY0h1bTQ3cEY5dWlnUkc1UGFWcjM1OHpBZ3N2a0xsMHFaa0hWZDFreFljOWpjOGFjbmprZ3VoamxLTml5VkJRQ3ptdw"
     },
     {
-      "title": "S&P 500 Slumps in Worst Day Since War Began - The New York Times - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVnItWDVzMGI5Nk5GVDR2QU1pNzg4SjhjTkYzQXBhUjdDWEljMWcwOHZwMnJCMmtUMnFJSDRobnh4WUs1T1hmR3JlOUhMX244Um51Y1VUYkF1NlhlX0FEZEZ5X3lRblNYMTUya2xtdEdoQlFBTUJwZ3UwM0hRRTdqMw?oc=5",
-      "source": "The New York Times",
-      "published_at": "Thu, 12 Mar 2026 03:25:41 GMT",
-      "summary": "S&P 500 Slumps in Worst Day Since War Began - The New York Times The New York Times",
-      "guid": "CBMigAFBVV95cUxNVnItWDVzMGI5Nk5GVDR2QU1pNzg4SjhjTkYzQXBhUjdDWEljMWcwOHZwMnJCMmtUMnFJSDRobnh4WUs1T1hmR3JlOUhMX244Um51Y1VUYkF1NlhlX0FEZEZ5X3lRblNYMTUya2xtdEdoQlFBTUJwZ3UwM0hRRTdqMw"
+      "title": "Dow Jones Futures Fall, Oracle Jumps On Earnings; Oil Swings With Reserves Release Plan Due - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQT3h5dVlOSEllekhoTWEteFI2UVlWYVE2TzdhMGRUUmYxN0UxYW9TOW9PTm92alFtMWt1VThmWTA5b0FBYkZhVUlBamhVTVpnUTFVcHA4WDF5X3hSUkdCdlNobDV4ZWZCd3g3c0pOaUt2NU1EeWYxMW9wYWdfNUdkS2EtVzFEcUZCczJMdXZ2ZmpfamJnX19TZUpEM255YTNGTlFwVEpDOWlpZWdpSF92bDNWaDJOT0dSV2o0?oc=5",
+      "source": "Investor's Business Daily",
+      "published_at": "Wed, 11 Mar 2026 13:05:00 GMT",
+      "summary": "Dow Jones Futures Fall, Oracle Jumps On Earnings; Oil Swings With Reserves Release Plan Due Investor's Business Daily",
+      "guid": "CBMiuwFBVV95cUxQT3h5dVlOSEllekhoTWEteFI2UVlWYVE2TzdhMGRUUmYxN0UxYW9TOW9PTm92alFtMWt1VThmWTA5b0FBYkZhVUlBamhVTVpnUTFVcHA4WDF5X3hSUkdCdlNobDV4ZWZCd3g3c0pOaUt2NU1EeWYxMW9wYWdfNUdkS2EtVzFEcUZCczJMdXZ2ZmpfamJnX19TZUpEM255YTNGTlFwVEpDOWlpZWdpSF92bDNWaDJOT0dSV2o0"
     },
     {
       "title": "How Do Changing Interest Rates Affect the Stock Market? - U.S. Bank",
@@ -45,14 +53,6 @@
       "published_at": "Thu, 12 Mar 2026 12:15:30 GMT",
       "summary": "Oil reserves, tariff investigations, airline fuel prices and more in Morning Squawk CNBC",
       "guid": "CBMigwFBVV95cUxOdDZKeGVVLUI1WmgxTWdRbm4zYTM4N1pSNzVnME14OTJZTlk3aXN2V1RPNEJQSjdQaGNNeGFnb1cyWHhQZzFleE8yNjlRazZ6NW1WbzRkcTVvaHpKM3pEb3ozU0gyVlZnMjVwNGptZFdScWUxS3Z5OVRIRW85WVNQSXhoVdIBiAFBVV95cUxOQ1RtMFQwNGVaUmlHdzJuUE5yWXExMXFfNFRQUHZseWlEb1RCb1BuV1ZGSFFDZm1ZTzVwUjFrYU5IZGdzNzd5MGQzN0kwdTdpZXhybERpeDN4Wlg1bWRlX2xNa0xmN0F6MGk4c011OUN2Yk9HdUtad0ZGUVpmaE02bkR5d2p6Qm5z"
-    },
-    {
-      "title": "US Stock Futures Fluctuate as Brent Hits $90 Again: Markets Wrap - Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU1RKSWV6R3hnTzJCZHE3c3lfc3F5MWhYSnJxLVE3SkFybDVSdkhfTWtRSUMxeFB5Zk9LVjlEMUIzaXlnSEVnU0x3bXVlNzU1emVITlRUOVphQkxhbTJkTEE2a0lZRlJxTG5IbE1OTVFqbEFLOTNmejNNa1g1ekpzaUtYVjRCcFF4V0x3aWZ5TFpxZVdzV0dpSktrWnJhUmtqM2d0eG44OW84YnU5dWp4Qw?oc=5",
-      "source": "Bloomberg",
-      "published_at": "Wed, 11 Mar 2026 20:54:43 GMT",
-      "summary": "US Stock Futures Fluctuate as Brent Hits $90 Again: Markets Wrap Bloomberg",
-      "guid": "CBMisAFBVV95cUxOU1RKSWV6R3hnTzJCZHE3c3lfc3F5MWhYSnJxLVE3SkFybDVSdkhfTWtRSUMxeFB5Zk9LVjlEMUIzaXlnSEVnU0x3bXVlNzU1emVITlRUOVphQkxhbTJkTEE2a0lZRlJxTG5IbE1OTVFqbEFLOTNmejNNa1g1ekpzaUtYVjRCcFF4V0x3aWZ5TFpxZVdzV0dpSktrWnJhUmtqM2d0eG44OW84YnU5dWp4Qw"
     },
     {
       "title": "Market Reactions to Tariff Announcements - Federal Reserve Bank of San Francisco",
@@ -79,12 +79,12 @@
       "guid": "CBMi5AFBVV95cUxPUkRmTWZmOTJzRUN1WWdpdTlmZi1qZXdZVDRfblEycWM2emd2NmpQUWpfRE44aERuV3FsUWp2MmY3cjVBLUJfUzAwMU5zam16NWRuT1RqQkd6QUc1TVp4UlRFWkEwVmFodEFpZkZSUVVYa1RfRnA3Y2tPNDJlQW9qLUdIN3MzdTNyYUM5N1ZESDg1Tko4Q1dUUkp0ajVETzJ6aUZqU3FTTkE2MkdCRV9oM1RPWnVVRjhJeU1SUEk2dXdPZ3ctRXd6bW5jM043OHJQMlhqemhIV1lnRGVsc1NlQnRLTXo"
     },
     {
-      "title": "The Stock Market Is Cratering. These Charts Explain Why. - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxPQlZPUUNGa1A4VlNXVThHQmdxVXgxV180QTRnb3ppSjhCQnY4NnNqZDVDUVBNS2tubVJ0bkcxd0tFaFVyNnlsZ1k3M3d6QU8tZEhrQ0swdm9ZdWpWaHlWdWNTb09jXzZ5eWRQQ3pIWXg1TmpwQ3hLcUFlSU1IYVZiNXB0bXFMWGRFRDhDOUh4MzFmLWt0Zk40YWF3bWJCX2t4dDVtWGpZLURTVW1xbW1YNmV5dmdkV1gtdmY1WnFHbVcweWNEQU9KaWFadVdXME13VC13d3JNWElHNWlPeHFXUzNvU0FrdjhOOWlDTWdoNGlsdFYtN2czMjJTQ1I2dFNUUkk2OHRSVHlsRlBZS1lRdFRqRXZMcXZ4SG9CZEswVXExX3lNVzJsQnQtVHZqRnFsUktITmNoQklfSDVsb1ZKbHZ1YmdXakpKT1A4UlFwYzhyS200VlMweHFXaXZPeGY5NmJzbVZPSko1QVBuN3VodkhOQjZaSGNZWGMxTm5IWmtjb3JvSTV0Wk5lVFhDRk5sRk1F?oc=5",
-      "source": "Barron's",
-      "published_at": "Fri, 14 Nov 2025 08:00:00 GMT",
-      "summary": "The Stock Market Is Cratering. These Charts Explain Why. Barron's",
-      "guid": "CBMikwNBVV95cUxPQlZPUUNGa1A4VlNXVThHQmdxVXgxV180QTRnb3ppSjhCQnY4NnNqZDVDUVBNS2tubVJ0bkcxd0tFaFVyNnlsZ1k3M3d6QU8tZEhrQ0swdm9ZdWpWaHlWdWNTb09jXzZ5eWRQQ3pIWXg1TmpwQ3hLcUFlSU1IYVZiNXB0bXFMWGRFRDhDOUh4MzFmLWt0Zk40YWF3bWJCX2t4dDVtWGpZLURTVW1xbW1YNmV5dmdkV1gtdmY1WnFHbVcweWNEQU9KaWFadVdXME13VC13d3JNWElHNWlPeHFXUzNvU0FrdjhOOWlDTWdoNGlsdFYtN2czMjJTQ1I2dFNUUkk2OHRSVHlsRlBZS1lRdFRqRXZMcXZ4SG9CZEswVXExX3lNVzJsQnQtVHZqRnFsUktITmNoQklfSDVsb1ZKbHZ1YmdXakpKT1A4UlFwYzhyS200VlMweHFXaXZPeGY5NmJzbVZPSko1QVBuN3VodkhOQjZaSGNZWGMxTm5IWmtjb3JvSTV0Wk5lVFhDRk5sRk1F"
+      "title": "Will the Stock Market Crash in 2026? The Federal Reserve Sends a Silent Warning to Investors. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTUdXZ2dsYzlSb3paNUZIRDJ2VUR5LWp1NWFPRUpGUHc0V0txVXVVMkYzMTl6aUlUMHdHLUdHRlg2ZXdEdWJuZm90dS1wMlFlLThNQjRSTVhub0pLWXRnN0FUODBGTURieXlMNkZVUXJiRzFFU1hzS25HX1lrWmFCcktpTQ?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Wed, 24 Dec 2025 08:00:00 GMT",
+      "summary": "Will the Stock Market Crash in 2026? The Federal Reserve Sends a Silent Warning to Investors. Yahoo Finance",
+      "guid": "CBMigwFBVV95cUxQTUdXZ2dsYzlSb3paNUZIRDJ2VUR5LWp1NWFPRUpGUHc0V0txVXVVMkYzMTl6aUlUMHdHLUdHRlg2ZXdEdWJuZm90dS1wMlFlLThNQjRSTVhub0pLWXRnN0FUODBGTURieXlMNkZVUXJiRzFFU1hzS25HX1lrWmFCcktpTQ"
     }
   ]
 }
