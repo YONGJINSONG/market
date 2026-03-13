@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-03-13T07:53:45Z",
+  "generated_at": "2026-03-13T08:27:37Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "S&P 500 Slumps in Worst Day Since War Began - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVnItWDVzMGI5Nk5GVDR2QU1pNzg4SjhjTkYzQXBhUjdDWEljMWcwOHZwMnJCMmtUMnFJSDRobnh4WUs1T1hmR3JlOUhMX244Um51Y1VUYkF1NlhlX0FEZEZ5X3lRblNYMTUya2xtdEdoQlFBTUJwZ3UwM0hRRTdqMw?oc=5",
+      "source": "The New York Times",
+      "published_at": "Fri, 13 Mar 2026 02:39:00 GMT",
+      "summary": "S&P 500 Slumps in Worst Day Since War Began The New York Times",
+      "guid": "CBMigAFBVV95cUxNVnItWDVzMGI5Nk5GVDR2QU1pNzg4SjhjTkYzQXBhUjdDWEljMWcwOHZwMnJCMmtUMnFJSDRobnh4WUs1T1hmR3JlOUhMX244Um51Y1VUYkF1NlhlX0FEZEZ5X3lRblNYMTUya2xtdEdoQlFBTUJwZ3UwM0hRRTdqMw"
+    },
     {
       "title": "The Stock Market Sounds an Alarm as Oil Prices Surge to Their Highest Level in Years. History Says the S&P 500 Will Do This Next. - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRmxkYTNpUThnS2dUTVVsTk9QdUN5WVYxdmRoYW9iTUJSWWJEc0VRSld3UkRLSEJweW96Uy0wWllNT3JUOXliV3RnVFNteEJuMDJCRE9iSUlyZUlfa0RzcVNGdkQ2SUN5XzRNOGNDMjJIQWdnS3YwTlBYLWZCMHZLZEpaOFBXT2Joa1pOYjFB?oc=5",
@@ -21,14 +29,6 @@
       "published_at": "Thu, 12 Mar 2026 20:40:20 GMT",
       "summary": "Federal Reserve to loosen capital requirements for big US banks Financial Times",
       "guid": "CBMicEFVX3lxTE9iM3lwNTF0NFpMN3VhSWxQQTlXVlVYT0pibGxaY1QyUFo1THI1WlRtS290SEVxN2h1YlEzTDFzM0hET0dmSUpSdzBOTktzX2lVWjI5QURIaEYxNzNEbHFydThaTUFNVjB4WldJWHdyN1Y"
-    },
-    {
-      "title": "Banking Regulators Plan to Ease Some Capital Requirements - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZnBUVEJ3T3VNc1dnM2I3VDVCNTZSVTktZFItRVJ2VFFjSXJpMDAyclpTY0dwcXNFdHR5bDFMNGI5YVVRdFlSSVY4aExaUU9aaWNVS3Vscl9SakNBcGh3Qi1jYkJMYS1TLTVwZmxnYlo2OG5SRkJ3NDV6WlNHLVE0c3RxZXU1TXdrdGJlTV9fdmVYQQ?oc=5",
-      "source": "The New York Times",
-      "published_at": "Thu, 12 Mar 2026 18:48:44 GMT",
-      "summary": "Banking Regulators Plan to Ease Some Capital Requirements The New York Times",
-      "guid": "CBMikgFBVV95cUxQZnBUVEJ3T3VNc1dnM2I3VDVCNTZSVTktZFItRVJ2VFFjSXJpMDAyclpTY0dwcXNFdHR5bDFMNGI5YVVRdFlSSVY4aExaUU9aaWNVS3Vscl9SakNBcGh3Qi1jYkJMYS1TLTVwZmxnYlo2OG5SRkJ3NDV6WlNHLVE0c3RxZXU1TXdrdGJlTV9fdmVYQQ"
     },
     {
       "title": "Why are US stock market futures rising now, and S&P 500 and Dow Jones in green while Nasdaq in red? Wall s - The Economic Times",
