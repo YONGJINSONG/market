@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-13T14:09:25Z",
+  "generated_at": "2026-03-13T14:59:26Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -39,14 +39,6 @@
       "guid": "CBMicEFVX3lxTE9iM3lwNTF0NFpMN3VhSWxQQTlXVlVYT0pibGxaY1QyUFo1THI1WlRtS290SEVxN2h1YlEzTDFzM0hET0dmSUpSdzBOTktzX2lVWjI5QURIaEYxNzNEbHFydThaTUFNVjB4WldJWHdyN1Y"
     },
     {
-      "title": "Tracker: The Federal Reserve’s Balance Sheet Assets - The American Action Forum",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0?oc=5",
-      "source": "The American Action Forum",
-      "published_at": "Mon, 09 Mar 2026 07:00:00 GMT",
-      "summary": "Tracker: The Federal Reserve’s Balance Sheet Assets The American Action Forum",
-      "guid": "CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0"
-    },
-    {
       "title": "Stock market today: Japan's Nikkei falls as Wall Street, European futures rise following sharp sell-off - Economy Middle East",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOd1dsTVpxMVh4dkxlY2tiM0RPUUJJZ01YM3B5YnlyY3hsRFR6QUgwYmhmXzVNZ0RhN01uUjhET2VUeVNiNmZhZVlqYU8wUG5CUjNsZkFod3BqandicC01UU5NR0w4LVhyeWdoandHaHhiV0dKRDhrdUJIcWFBc0hhRzRFMlp1dzlVQ3M2dllVQVFDMjBYMmUzSHlwcEd4eUJZVTQxUThLNXhvUUdTeEdjNU5aQWhKdlFrTks4ZFlVZHhnbUJjNmtaMjFhcUw?oc=5",
       "source": "Economy Middle East",
@@ -63,12 +55,12 @@
       "guid": "CBMixAFBVV95cUxNeHg4REJmU045MjJRNHhEN2ZSdzEtSllGSVRmZXI4VFdKa1BoYzFySEdpdkgwOGVpdVNRSkN4Rk9KenM0OG1DLTVSZWpXNDdpY1dKYWV0QzdFVTRmTWo4d2pEZ25yeHZKdTlPUEFQUFFlVTh3bVkyNmtOZkhWQ3o1VHp0Qmtqek5yR2hwV2JQTFBhci1XLWtjVFVRb25FZmxQY2gtVU43MThUcnlmbnZlbFBfR3d2b0habllidFdpbHdHbFct"
     },
     {
-      "title": "Oil price jumps despite deal to release record amount of reserves - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KWW1mc3dVZVVKTm9qd2dlY0h1bTQ3cEY5dWlnUkc1UGFWcjM1OHpBZ3N2a0xsMHFaa0hWZDFreFljOWpjOGFjbmprZ3VoamxLTml5VkJRQ3ptdw?oc=5",
-      "source": "BBC",
-      "published_at": "Thu, 12 Mar 2026 20:49:04 GMT",
-      "summary": "Oil price jumps despite deal to release record amount of reserves BBC",
-      "guid": "CBMiWkFVX3lxTE5KWW1mc3dVZVVKTm9qd2dlY0h1bTQ3cEY5dWlnUkc1UGFWcjM1OHpBZ3N2a0xsMHFaa0hWZDFreFljOWpjOGFjbmprZ3VoamxLTml5VkJRQ3ptdw"
+      "title": "U.S. stocks stabilize after some heavy turbulence brought on by the war with Iran - BNN Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVTZTemdSYS1IOFFLN1FneTRRcEE0T0tON0tsUk9ISmNCZVJFaXVyRzRUSUlYQmVodXFNQ1MzU2o0TGQzSTdPNC1mN2JyUGhmN3V4cy1CazhGQU1JUFBfN2F2Y0dNTnJjQ2hnLVU4cU1kcWpQaV9SanZlTHlRZ1QzY19yRl9WRWtuMmlVSDVhcExhZnBWUnJ3UGYyMl9CNDEyakcxS3pVay1RN1h1WDZ5bEE3R21qdzJFWWROX2EwU1VDRmd5Z2c?oc=5",
+      "source": "BNN Bloomberg",
+      "published_at": "Fri, 13 Mar 2026 13:55:21 GMT",
+      "summary": "U.S. stocks stabilize after some heavy turbulence brought on by the war with Iran BNN Bloomberg",
+      "guid": "CBMixgFBVV95cUxOVTZTemdSYS1IOFFLN1FneTRRcEE0T0tON0tsUk9ISmNCZVJFaXVyRzRUSUlYQmVodXFNQ1MzU2o0TGQzSTdPNC1mN2JyUGhmN3V4cy1CazhGQU1JUFBfN2F2Y0dNTnJjQ2hnLVU4cU1kcWpQaV9SanZlTHlRZ1QzY19yRl9WRWtuMmlVSDVhcExhZnBWUnJ3UGYyMl9CNDEyakcxS3pVay1RN1h1WDZ5bEE3R21qdzJFWWROX2EwU1VDRmd5Z2c"
     },
     {
       "title": "How Do Changing Interest Rates Affect the Stock Market? - U.S. Bank",
@@ -77,6 +69,14 @@
       "published_at": "Fri, 30 Jan 2026 08:00:00 GMT",
       "summary": "How Do Changing Interest Rates Affect the Stock Market? U.S. Bank",
       "guid": "CBMiwwFBVV95cUxQVVJpa2pCR3B0TmxRZGlpSmRZaFctZ21ybGtrVUVBMFozZ0xiSGFRY0ZZdGNWaV80dnhHUTR2TTVoSnZEU190aGtMamY2MDAxT0hYYzRXcUl5OUEyOGRGYWlBbm54T3ppaEZWRWtyV01EOEJGcVRaM2xROWlCX2FxSFYxX1NXeUQwZmJLS3pqcGhCWjR5RVJrNlhmbUtRcy1EUGJLaFI4UTNkUHg4emNPUE95cTc0bnlDcklaaG5EcWhBeVU"
+    },
+    {
+      "title": "Oil price jumps despite deal to release record amount of reserves - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KWW1mc3dVZVVKTm9qd2dlY0h1bTQ3cEY5dWlnUkc1UGFWcjM1OHpBZ3N2a0xsMHFaa0hWZDFreFljOWpjOGFjbmprZ3VoamxLTml5VkJRQ3ptdw?oc=5",
+      "source": "BBC",
+      "published_at": "Thu, 12 Mar 2026 20:49:04 GMT",
+      "summary": "Oil price jumps despite deal to release record amount of reserves BBC",
+      "guid": "CBMiWkFVX3lxTE5KWW1mc3dVZVVKTm9qd2dlY0h1bTQ3cEY5dWlnUkc1UGFWcjM1OHpBZ3N2a0xsMHFaa0hWZDFreFljOWpjOGFjbmprZ3VoamxLTml5VkJRQ3ptdw"
     },
     {
       "title": "Market Reactions to Tariff Announcements - Federal Reserve Bank of San Francisco",
