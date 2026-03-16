@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-03-16T11:33:01Z",
+  "generated_at": "2026-03-16T12:34:07Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "Oil continues to rise, the Federal Reserve, Nvidia's big week and more in Morning Squawk - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQM3poNldUYkhuSGxpWVM2dE84OGxRRGxQeWhrTlJuWjRXVVpBdEQyMndMb1E1a0FaUVh2SEo3bkVYTTFyeG5jM1B5RksxVlFWT3R3ZnBPQWQzcnFIREUtWG5fOXk3OGF2QTNoVXpBeEFLUEZSMFhKS08wendKNUc5LV92Z9IBiAFBVV95cUxNR0xDeWZpQmRCbnBTTjF5Nk0xWXA2T0JZZV94SkY1Y1ZfTk5QODFBeks4Nl93SmM0dVpFSzlDaUVxZDJBNTJBOXpZZ2NBM2xhSGQ1bXVrV3p0VWtua1JUdEotUHpucU1tNVc0ZUtzUHpSOVNjM2pqSmFpSXJkQ1hTOHNLMUl4Z3RV?oc=5",
+      "source": "CNBC",
+      "published_at": "Mon, 16 Mar 2026 11:59:54 GMT",
+      "summary": "Oil continues to rise, the Federal Reserve, Nvidia's big week and more in Morning Squawk CNBC",
+      "guid": "CBMigwFBVV95cUxQM3poNldUYkhuSGxpWVM2dE84OGxRRGxQeWhrTlJuWjRXVVpBdEQyMndMb1E1a0FaUVh2SEo3bkVYTTFyeG5jM1B5RksxVlFWT3R3ZnBPQWQzcnFIREUtWG5fOXk3OGF2QTNoVXpBeEFLUEZSMFhKS08wendKNUc5LV92Z9IBiAFBVV95cUxNR0xDeWZpQmRCbnBTTjF5Nk0xWXA2T0JZZV94SkY1Y1ZfTk5QODFBeks4Nl93SmM0dVpFSzlDaUVxZDJBNTJBOXpZZ2NBM2xhSGQ1bXVrV3p0VWtua1JUdEotUHpucU1tNVc0ZUtzUHpSOVNjM2pqSmFpSXJkQ1hTOHNLMUl4Z3RV"
+    },
     {
       "title": "Stock Market Down - Seeking Alpha",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84MHNqbXhhQTZwOFk0cDIzdHNDdE5OZUJEZ2tXSUd3MEEydTBPdGxzWnpnbnNXNkNWWEV5MWJ5Ukk0am1VR3JaSnVicmJWQnRPWmpMdkRZeTVqMHdaT1NodXB4OTRqOXc2MWc?oc=5",
@@ -31,12 +39,12 @@
       "guid": "CBMi3wFBVV95cUxPa3Y2SE5WRTduLVVMWXJGaDVJejcxSFlpbkc5VFRrMWl5Q3lzbzFfSVhLcU1MMURqOW42akZjcXY4V0c3NUUxSDNGX3JwQzh4U215RTdqTm5jSTRNNzFJamNvMzdUQ3hfM1ZxN2p5U2ZiempLbVFZYW5nZmxNZlJUZHU1R1hNNWlKaFhESU54a25FZ3ppQzRWX1FYd293VS0yQjhRc3Q0N1hoNXRUckk0RFdiTWFNQ1JMWXI4MUlNNnBWQm9JdnFWc09tVXBkZmVOcTlXMFpqWU4tTVl6Zms4"
     },
     {
-      "title": "We're Exactly 2 Months Away From a Major Shake-Up at the Federal Reserve -- and There's a Lot on the Line for Wall Street - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1sc0VFd3VMNVIxNjFYWHJCYXczRy1RTWRSdVNtT2pkdUNlVkZ5Yi1Wa29QYy1UaGFfWVBwQV9RcFlwTTBkRVpZSmVzMjV6dkVzeVdRR0VEbDBEUGZaNzNoaTVGaFBoN1dQTVpGRUZBbVpNenI1VUdVemRB?oc=5",
-      "source": "AOL.com",
-      "published_at": "Sun, 15 Mar 2026 14:40:39 GMT",
-      "summary": "We're Exactly 2 Months Away From a Major Shake-Up at the Federal Reserve -- and There's a Lot on the Line for Wall Street AOL.com",
-      "guid": "CBMiekFVX3lxTE1sc0VFd3VMNVIxNjFYWHJCYXczRy1RTWRSdVNtT2pkdUNlVkZ5Yi1Wa29QYy1UaGFfWVBwQV9RcFlwTTBkRVpZSmVzMjV6dkVzeVdRR0VEbDBEUGZaNzNoaTVGaFBoN1dQTVpGRUZBbVpNenI1VUdVemRB"
+      "title": "How Do Changing Interest Rates Affect the Stock Market? - U.S. Bank",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVVJpa2pCR3B0TmxRZGlpSmRZaFctZ21ybGtrVUVBMFozZ0xiSGFRY0ZZdGNWaV80dnhHUTR2TTVoSnZEU190aGtMamY2MDAxT0hYYzRXcUl5OUEyOGRGYWlBbm54T3ppaEZWRWtyV01EOEJGcVRaM2xROWlCX2FxSFYxX1NXeUQwZmJLS3pqcGhCWjR5RVJrNlhmbUtRcy1EUGJLaFI4UTNkUHg4emNPUE95cTc0bnlDcklaaG5EcWhBeVU?oc=5",
+      "source": "U.S. Bank",
+      "published_at": "Fri, 30 Jan 2026 08:00:00 GMT",
+      "summary": "How Do Changing Interest Rates Affect the Stock Market? U.S. Bank",
+      "guid": "CBMiwwFBVV95cUxQVVJpa2pCR3B0TmxRZGlpSmRZaFctZ21ybGtrVUVBMFozZ0xiSGFRY0ZZdGNWaV80dnhHUTR2TTVoSnZEU190aGtMamY2MDAxT0hYYzRXcUl5OUEyOGRGYWlBbm54T3ppaEZWRWtyV01EOEJGcVRaM2xROWlCX2FxSFYxX1NXeUQwZmJLS3pqcGhCWjR5RVJrNlhmbUtRcy1EUGJLaFI4UTNkUHg4emNPUE95cTc0bnlDcklaaG5EcWhBeVU"
     },
     {
       "title": "Stock Market Week: Nvidia's AI Woodstock, Fed Meeting, Quad Witching - Investor's Business Daily",
@@ -47,12 +55,20 @@
       "guid": "CBMitgFBVV95cUxOcGVLZDc3c2FvSW5JZjI4eFE1T1BRaXhrcXNobkZlWlR1cjJRRXZGaDJEQVJZUVhRNEVkVHFQVmdfcHQwdWlHdmY0WG9PNmFwaVdqSTI3Yk9NRV9IaWxjcjV3SlVac2NRRER2OFBOcnk3VGp6My05QmFld3FTa1BURU1VS1lKZDNQTEtiWkxwVXNpZmZ4WE1VWmF0V0dZYjRIVEx5dElxcFpKQWgtTFFvdVlTWmJQZw"
     },
     {
-      "title": "We're Exactly 2 Months Away From a Major Shake-Up at the Federal Reserve -- and There's a Lot on the Line for Wall Street - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYVdoQTNBYmc3ejRtZ0l5alJOWUFibG9FZ0p3OFdMd2o5WVhNTjA5Z1FETHFLZlZMTWhBSW5paEE5cjBnU3ZSUHRzXzl3SVlqQ2ZsbzYydldVVVpOZkFBSjd2NElrM1AtX1B6enQ0em5jSlo1V2V6MHIxQmlNeGVSNnh0SDhFSGpkMzlNaFRlb1NXbUl6RmRj?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Sun, 15 Mar 2026 15:06:00 GMT",
-      "summary": "We're Exactly 2 Months Away From a Major Shake-Up at the Federal Reserve -- and There's a Lot on the Line for Wall Street The Motley Fool",
-      "guid": "CBMilwFBVV95cUxQYVdoQTNBYmc3ejRtZ0l5alJOWUFibG9FZ0p3OFdMd2o5WVhNTjA5Z1FETHFLZlZMTWhBSW5paEE5cjBnU3ZSUHRzXzl3SVlqQ2ZsbzYydldVVVpOZkFBSjd2NElrM1AtX1B6enQ0em5jSlo1V2V6MHIxQmlNeGVSNnh0SDhFSGpkMzlNaFRlb1NXbUl6RmRj"
+      "title": "We're Exactly 2 Months Away From a Major Shake-Up at the Federal Reserve -- and There's a Lot on the Line for Wall Street - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1sc0VFd3VMNVIxNjFYWHJCYXczRy1RTWRSdVNtT2pkdUNlVkZ5Yi1Wa29QYy1UaGFfWVBwQV9RcFlwTTBkRVpZSmVzMjV6dkVzeVdRR0VEbDBEUGZaNzNoaTVGaFBoN1dQTVpGRUZBbVpNenI1VUdVemRB?oc=5",
+      "source": "AOL.com",
+      "published_at": "Sun, 15 Mar 2026 14:40:39 GMT",
+      "summary": "We're Exactly 2 Months Away From a Major Shake-Up at the Federal Reserve -- and There's a Lot on the Line for Wall Street AOL.com",
+      "guid": "CBMiekFVX3lxTE1sc0VFd3VMNVIxNjFYWHJCYXczRy1RTWRSdVNtT2pkdUNlVkZ5Yi1Wa29QYy1UaGFfWVBwQV9RcFlwTTBkRVpZSmVzMjV6dkVzeVdRR0VEbDBEUGZaNzNoaTVGaFBoN1dQTVpGRUZBbVpNenI1VUdVemRB"
+    },
+    {
+      "title": "The Week on Wall Street: Oil Surges and Soft Payrolls Cloud Federal Reserve Outlook - TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd0FGUzlnOXR1RmVNenFJa3JYNkNBek5ZWjBHb0VDdWNmbzh0VUl0UkQ4UVY1aFB1TE9rYlB6eTJFb3pBT1d1MUlyeDZjbkVuaVJtOXdoLWhIamhYYTlrdXc5SV8xUk1pZ3EzU2dad3Y2czByS1JGTHhremk0ZTlYWUhFaUN6TVFfRDExUlVKZy0xcXpxSzNFVGxQZ0FFczdvaFdKNFZ4eEg?oc=5",
+      "source": "TradingKey",
+      "published_at": "Mon, 16 Mar 2026 04:02:55 GMT",
+      "summary": "The Week on Wall Street: Oil Surges and Soft Payrolls Cloud Federal Reserve Outlook TradingKey",
+      "guid": "CBMiqAFBVV95cUxOd0FGUzlnOXR1RmVNenFJa3JYNkNBek5ZWjBHb0VDdWNmbzh0VUl0UkQ4UVY1aFB1TE9rYlB6eTJFb3pBT1d1MUlyeDZjbkVuaVJtOXdoLWhIamhYYTlrdXc5SV8xUk1pZ3EzU2dad3Y2czByS1JGTHhremk0ZTlYWUhFaUN6TVFfRDExUlVKZy0xcXpxSzNFVGxQZ0FFczdvaFdKNFZ4eEg"
     },
     {
       "title": "Market Reactions to Tariff Announcements - Federal Reserve Bank of San Francisco",
@@ -63,28 +79,12 @@
       "guid": "CBMivwFBVV95cUxOM1dfLWVxeDJGbVNDYU9vWU8xOW5Fbk9rWk5KREtjbWFDcWFfdzAyVE5WMDhINUpWbWVDVWZmRHBSSlN3blk5alBHd3B1RE5JSmVMRTd3SXhNQmZWdDllUDFCU1lwTk9zcmpBSmhmazM5OEhIWEVHMlhHTDY4M1luNXJ5TExQbi1RMjBLbmpZd3BqLU1zanlvM0hvVWhVcWtiSWZBOV9ENTJmTWUtQzIxdmprYlpGNnJzQk11T1ZfWQ"
     },
     {
-      "title": "What Causes “Jumps” in Stock Prices? - Federal Reserve Bank of St. Louis",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNlU3bVlaY05yZmRvNlVELU8yV25yT2ozUmJtT1lJbG1HelVoMGt4d1lVNHZkR3BrZkt4VzRRSXZjT3FHUXlLbHNZWkh3R1dYaWNjV3ZzNE9ROWJpQmZ3cFpwdEdLbXR6T00wamtwbmdLcF9RUDA3eEU5aUp1QWZwV0pMUDJrZ0hj?oc=5",
-      "source": "Federal Reserve Bank of St. Louis",
-      "published_at": "Mon, 29 Sep 2025 07:00:00 GMT",
-      "summary": "What Causes “Jumps” in Stock Prices? Federal Reserve Bank of St. Louis",
-      "guid": "CBMiiAFBVV95cUxPNlU3bVlaY05yZmRvNlVELU8yV25yT2ozUmJtT1lJbG1HelVoMGt4d1lVNHZkR3BrZkt4VzRRSXZjT3FHUXlLbHNZWkh3R1dYaWNjV3ZzNE9ROWJpQmZ3cFpwdEdLbXR6T00wamtwbmdLcF9RUDA3eEU5aUp1QWZwV0pMUDJrZ0hj"
-    },
-    {
-      "title": "A question unimaginable just weeks ago: Could the Federal Reserve's next move be a rate hike? - 富途牛牛",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPc2dpNmViSDJMSXJMQmREZl8xd0wzUVlFMGlkR0NacWtESGwxTkRxbHFRSlVmcm5uc05kRmhZUUZfMF84WVdfUVVFQkFra2hMZGhCVmNkaUlrYTFLVUJmZWdkQWhDaTk5dFc0bEJUN2M4TWlVdVJlcnRpaGFyWC1paWU2VkZLWFg0TlE2Z3ZIVjMtQkh3MHpxTW9LMlBCWFkzOXZVMUthVXk?oc=5",
-      "source": "富途牛牛",
-      "published_at": "Mon, 16 Mar 2026 01:38:14 GMT",
-      "summary": "A question unimaginable just weeks ago: Could the Federal Reserve's next move be a rate hike? 富途牛牛",
-      "guid": "CBMiqAFBVV95cUxPc2dpNmViSDJMSXJMQmREZl8xd0wzUVlFMGlkR0NacWtESGwxTkRxbHFRSlVmcm5uc05kRmhZUUZfMF84WVdfUVVFQkFra2hMZGhCVmNkaUlrYTFLVUJmZWdkQWhDaTk5dFc0bEJUN2M4TWlVdVJlcnRpaGFyWC1paWU2VkZLWFg0TlE2Z3ZIVjMtQkh3MHpxTW9LMlBCWFkzOXZVMUthVXk"
-    },
-    {
-      "title": "Buffett Leaves $373 Billion Warning for Stock Market - National Today",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUTZhZlhfVF9fU28wd0tWdlJRX2Vha2ZUMm4wM3NBRTZzUGFOS2VTVTBONEpOenBZMGs4UHBCaG1TUUxIN2xzZ1NaYW5jSldXbmE4cjQzUGpSd0tRNXU0Z2htekFOYVVKRlBTMTE4cGxuMXk4OVdpejRWTEpBNFZqaDhsNkxMVlpEUUVwbG5XREFyNDk5QlRzdXV3MmNWYkxvaFMyMmVIX2ZKUQ?oc=5",
-      "source": "National Today",
-      "published_at": "Sun, 15 Mar 2026 19:48:38 GMT",
-      "summary": "Buffett Leaves $373 Billion Warning for Stock Market National Today",
-      "guid": "CBMiqgFBVV95cUxQUTZhZlhfVF9fU28wd0tWdlJRX2Vha2ZUMm4wM3NBRTZzUGFOS2VTVTBONEpOenBZMGs4UHBCaG1TUUxIN2xzZ1NaYW5jSldXbmE4cjQzUGpSd0tRNXU0Z2htekFOYVVKRlBTMTE4cGxuMXk4OVdpejRWTEpBNFZqaDhsNkxMVlpEUUVwbG5XREFyNDk5QlRzdXV3MmNWYkxvaFMyMmVIX2ZKUQ"
+      "title": "The Trump-Led Iran War Can Lead to a Triple Whammy for the Federal Reserve -- and the Stock Market May End Up Paying the Price - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMUtweTR4Rm04UGRIWlRiejNpaFZBdHJ2d01MLVkyZElfdksyaHQyRjZBLVk2SVQ1QVJVNjB5ckcyS09mT0xzZ1lxY1Nad1NVaE1tX0xzOFFxX2RmY1RzUUZVMHZXS3Z4dlpnU2tSaHNpMDJEY3dhZV9henBncDVMUUZucTg1VlRGMW43RnJ4Snlwa3hRdmc?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Sat, 14 Mar 2026 11:36:00 GMT",
+      "summary": "The Trump-Led Iran War Can Lead to a Triple Whammy for the Federal Reserve -- and the Stock Market May End Up Paying the Price The Motley Fool",
+      "guid": "CBMilgFBVV95cUxNMUtweTR4Rm04UGRIWlRiejNpaFZBdHJ2d01MLVkyZElfdksyaHQyRjZBLVk2SVQ1QVJVNjB5ckcyS09mT0xzZ1lxY1Nad1NVaE1tX0xzOFFxX2RmY1RzUUZVMHZXS3Z4dlpnU2tSaHNpMDJEY3dhZV9henBncDVMUUZucTg1VlRGMW43RnJ4Snlwa3hRdmc"
     }
   ]
 }
