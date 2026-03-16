@@ -1,5 +1,8 @@
 (() => {
-  const BLOCKED_SCRIPT_PATTERNS = ["embed-widget-events.js"];
+  const BLOCKED_SCRIPT_PATTERNS = [
+    "embed-widget-events.js",
+    "embed-widget-advanced-chart.js",
+  ];
   const originalAppendChild = Element.prototype.appendChild;
 
   function matchesBlockedScript(node) {
@@ -15,18 +18,26 @@
     originalAppendChild.call(parent, child);
   }
 
-  function renderTradingViewEventsFallback(container) {
-    if (!(container instanceof HTMLElement) || container.dataset.widgetGuardApplied === "true") {
-      return;
+  function parseWidgetConfig(node) {
+    const raw = (node.textContent || node.innerHTML || "").trim();
+    if (!raw) {
+      return {};
     }
 
-    container.dataset.widgetGuardApplied = "true";
+    try {
+      return JSON.parse(raw);
+    } catch {
+      return {};
+    }
+  }
+
+  function createFallbackPanel(container, minHeight) {
     container.innerHTML = "";
     container.classList.add("tradingview-widget-container");
 
     const panel = document.createElement("div");
     panel.style.height = "100%";
-    panel.style.minHeight = "400px";
+    panel.style.minHeight = minHeight;
     panel.style.display = "flex";
     panel.style.flexDirection = "column";
     panel.style.justifyContent = "center";
@@ -38,24 +49,23 @@
     panel.style.background = "rgba(255, 255, 255, 0.02)";
     panel.style.color = "hsl(210 20% 92%)";
 
-    const title = document.createElement("strong");
-    title.textContent = "경제 캘린더 위젯을 브라우저 정책 경고 때문에 비활성화했습니다.";
-    title.style.fontSize = "14px";
-    title.style.lineHeight = "1.5";
+    appendNode(container, panel);
+    return panel;
+  }
 
-    const body = document.createElement("p");
-    body.textContent =
-      "이 영역의 TradingView events 위젯이 unload 및 추적 스크립트 경고를 반복해서 발생시켜, 페이지에서는 로딩을 막고 원본 캘린더 링크만 제공합니다.";
-    body.style.margin = "0";
-    body.style.fontSize = "13px";
-    body.style.lineHeight = "1.6";
-    body.style.color = "hsl(215 20% 72%)";
+  function createTextNode(tagName, text, styles) {
+    const node = document.createElement(tagName);
+    node.textContent = text;
+    Object.assign(node.style, styles);
+    return node;
+  }
 
+  function createLink(href, text) {
     const link = document.createElement("a");
-    link.href = "https://www.tradingview.com/economic-calendar/";
+    link.href = href;
     link.target = "_blank";
     link.rel = "noreferrer";
-    link.textContent = "TradingView 경제 캘린더 열기";
+    link.textContent = text;
     link.style.display = "inline-flex";
     link.style.alignItems = "center";
     link.style.justifyContent = "center";
@@ -66,16 +76,99 @@
     link.style.textDecoration = "none";
     link.style.fontSize = "13px";
     link.style.fontWeight = "600";
+    return link;
+  }
+
+  function buildTradingViewSymbolUrl(symbol) {
+    if (!symbol) {
+      return "https://www.tradingview.com/markets/";
+    }
+
+    return `https://www.tradingview.com/chart/?symbol=${encodeURIComponent(symbol)}`;
+  }
+
+  function renderTradingViewEventsFallback(container) {
+    if (!(container instanceof HTMLElement) || container.dataset.widgetGuardApplied === "true") {
+      return;
+    }
+
+    container.dataset.widgetGuardApplied = "true";
+    const panel = createFallbackPanel(container, "400px");
+    const title = createTextNode(
+      "strong",
+      "TradingView economic calendar was disabled to avoid browser policy warnings.",
+      {
+        fontSize: "14px",
+        lineHeight: "1.5",
+      }
+    );
+    const body = createTextNode(
+      "p",
+      "This widget repeatedly triggered unload and tracker warnings in the console, so the page now shows a direct source link instead.",
+      {
+        margin: "0",
+        fontSize: "13px",
+        lineHeight: "1.6",
+        color: "hsl(215 20% 72%)",
+      }
+    );
+    const link = createLink(
+      "https://www.tradingview.com/economic-calendar/",
+      "Open TradingView economic calendar"
+    );
 
     appendNode(panel, title);
     appendNode(panel, body);
     appendNode(panel, link);
-    appendNode(container, panel);
+  }
+
+  function renderTradingViewAdvancedChartFallback(container, node) {
+    if (!(container instanceof HTMLElement) || container.dataset.widgetGuardApplied === "true") {
+      return;
+    }
+
+    container.dataset.widgetGuardApplied = "true";
+    const config = parseWidgetConfig(node);
+    const symbol = typeof config.symbol === "string" ? config.symbol : "";
+    const panel = createFallbackPanel(container, "175px");
+    const title = createTextNode(
+      "strong",
+      symbol
+        ? `TradingView chart for ${symbol} was disabled to avoid browser policy warnings.`
+        : "TradingView chart was disabled to avoid browser policy warnings.",
+      {
+        fontSize: "14px",
+        lineHeight: "1.5",
+      }
+    );
+    const body = createTextNode(
+      "p",
+      "The embedded advanced chart widget is the source of the remaining unload warnings in the console, so this page now blocks it and offers a direct chart link.",
+      {
+        margin: "0",
+        fontSize: "13px",
+        lineHeight: "1.6",
+        color: "hsl(215 20% 72%)",
+      }
+    );
+    const link = createLink(
+      buildTradingViewSymbolUrl(symbol),
+      symbol ? `Open ${symbol} on TradingView` : "Open TradingView chart"
+    );
+
+    appendNode(panel, title);
+    appendNode(panel, body);
+    appendNode(panel, link);
   }
 
   Element.prototype.appendChild = function appendChildPatched(node) {
     if (matchesBlockedScript(node)) {
-      renderTradingViewEventsFallback(this);
+      const src = node.src || node.getAttribute("src") || "";
+      if (src.includes("embed-widget-events.js")) {
+        renderTradingViewEventsFallback(this);
+      } else if (src.includes("embed-widget-advanced-chart.js")) {
+        renderTradingViewAdvancedChartFallback(this, node);
+      }
       return node;
     }
 
