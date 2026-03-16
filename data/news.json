@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-16T17:41:05Z",
+  "generated_at": "2026-03-16T18:36:37Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -55,6 +55,14 @@
       "guid": "CBMiakFVX3lxTE84MHNqbXhhQTZwOFk0cDIzdHNDdE5OZUJEZ2tXSUd3MEEydTBPdGxzWnpnbnNXNkNWWEV5MWJ5Ukk0am1VR3JaSnVicmJWQnRPWmpMdkRZeTVqMHdaT1NodXB4OTRqOXc2MWc"
     },
     {
+      "title": "How Do Changing Interest Rates Affect the Stock Market? - U.S. Bank",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVVJpa2pCR3B0TmxRZGlpSmRZaFctZ21ybGtrVUVBMFozZ0xiSGFRY0ZZdGNWaV80dnhHUTR2TTVoSnZEU190aGtMamY2MDAxT0hYYzRXcUl5OUEyOGRGYWlBbm54T3ppaEZWRWtyV01EOEJGcVRaM2xROWlCX2FxSFYxX1NXeUQwZmJLS3pqcGhCWjR5RVJrNlhmbUtRcy1EUGJLaFI4UTNkUHg4emNPUE95cTc0bnlDcklaaG5EcWhBeVU?oc=5",
+      "source": "U.S. Bank",
+      "published_at": "Fri, 30 Jan 2026 08:00:00 GMT",
+      "summary": "How Do Changing Interest Rates Affect the Stock Market? U.S. Bank",
+      "guid": "CBMiwwFBVV95cUxQVVJpa2pCR3B0TmxRZGlpSmRZaFctZ21ybGtrVUVBMFozZ0xiSGFRY0ZZdGNWaV80dnhHUTR2TTVoSnZEU190aGtMamY2MDAxT0hYYzRXcUl5OUEyOGRGYWlBbm54T3ppaEZWRWtyV01EOEJGcVRaM2xROWlCX2FxSFYxX1NXeUQwZmJLS3pqcGhCWjR5RVJrNlhmbUtRcy1EUGJLaFI4UTNkUHg4emNPUE95cTc0bnlDcklaaG5EcWhBeVU"
+    },
+    {
       "title": "Market Reactions to Tariff Announcements - Federal Reserve Bank of San Francisco",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM1dfLWVxeDJGbVNDYU9vWU8xOW5Fbk9rWk5KREtjbWFDcWFfdzAyVE5WMDhINUpWbWVDVWZmRHBSSlN3blk5alBHd3B1RE5JSmVMRTd3SXhNQmZWdDllUDFCU1lwTk9zcmpBSmhmazM5OEhIWEVHMlhHTDY4M1luNXJ5TExQbi1RMjBLbmpZd3BqLU1zanlvM0hvVWhVcWtiSWZBOV9ENTJmTWUtQzIxdmprYlpGNnJzQk11T1ZfWQ?oc=5",
       "source": "Federal Reserve Bank of San Francisco",
@@ -72,19 +80,11 @@
     },
     {
       "title": "The Stock Market Is Cratering. These Charts Explain Why. - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxQdURRZTRCdGY4d3hNcGh1WnRVdUxZTUE0ZlRRcW54dXAyenkyU3Jjc3BIRW1XUDVqWm5QOE5KX21qbWpyYXlrSk9hdzcxUGxobG8yN09hT1J3WG4walNQZHBkNG1aY1ZObVM5WU9jUUFKRy10Q0xSNHRSZFp4VjZSYkRyWkFBRW1aT2NMZllTUFBiR1h1Qm5TWXdRczZfMXpGZ2ZKLTV1Y0NkMWszcnpuWi1PQ3ZDTzFjdTg4ZkUxX3VSY19JZzF4LVN0VHcyODYyX0Z5aUtUY3ZqU2ZZSXF2aUtCZlJWT2IxNF9QaDd5d0dDOGxCcTc4NmJIR013R1hab1lRVzBiWGwxZ211R1dIcjlyWXdycktGZFktRjVTd3JfTW9vakVCSm1CN0U3MlNoa05ZM2kxaEpNZUpYb1M4QUx1RWxiS0IwUGpscFdGbFBoS0FPc3NpWnNQbnluRHdDR0xxblJtMkJyM01uWWt1YVNCd1ZpdmhHZ2cxMGJySTc2NFRsNHN1WWhBSkQzNlR5NjFR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxQbm55N0NvQ1dTS19UcE1jd3dpY2FrVHpjYlpqbFZKNW5SWFhWYloyTUtDcmtxUW1oYjBlMHRXbk9Ob0RZak9yNUNXTExBemFUTzB1dEtxMUhoMENaX0RDUmlFNVpVOUtCYi1WejhUbGdyd056aGNBY0hGZjJQZExxTl9TMWFyYlgxOUdfOXFscFZZbXFEa0ZEVjFsZFg2aFNLeEZZcFZYWEF2SUVQekQtYV90RFFUUW5PQWh4ZkM3LWFoYkl5LVhIeWhCMWE5T0tlRzg3a2NJMXVZTkFhYllPTVJMaXpRWWx2SHZ4aWlRWUgtc0VqcWU5SjIwMnlROUp1RXN5RDB5djhkRlpSbG9ja01tekcwYWVMRU1HQWVXNktibUVjRnJwRTk3dTNPMVFDTHQzT19pa0xlMG5xMkx0Q2NQTEVVVmtvOHBzMnJ1MWVxMVNLbDVuY0J6cjNWc1p4UVFEd3hPM1hUenRTZ2NCeTNBakFDdWV2dFBfUGp4RHJvWVBjVUNlaEluWW04RkpncUJV?oc=5",
       "source": "Barron's",
       "published_at": "Fri, 14 Nov 2025 08:00:00 GMT",
       "summary": "The Stock Market Is Cratering. These Charts Explain Why. Barron's",
-      "guid": "CBMikwNBVV95cUxQdURRZTRCdGY4d3hNcGh1WnRVdUxZTUE0ZlRRcW54dXAyenkyU3Jjc3BIRW1XUDVqWm5QOE5KX21qbWpyYXlrSk9hdzcxUGxobG8yN09hT1J3WG4walNQZHBkNG1aY1ZObVM5WU9jUUFKRy10Q0xSNHRSZFp4VjZSYkRyWkFBRW1aT2NMZllTUFBiR1h1Qm5TWXdRczZfMXpGZ2ZKLTV1Y0NkMWszcnpuWi1PQ3ZDTzFjdTg4ZkUxX3VSY19JZzF4LVN0VHcyODYyX0Z5aUtUY3ZqU2ZZSXF2aUtCZlJWT2IxNF9QaDd5d0dDOGxCcTc4NmJIR013R1hab1lRVzBiWGwxZ211R1dIcjlyWXdycktGZFktRjVTd3JfTW9vakVCSm1CN0U3MlNoa05ZM2kxaEpNZUpYb1M4QUx1RWxiS0IwUGpscFdGbFBoS0FPc3NpWnNQbnluRHdDR0xxblJtMkJyM01uWWt1YVNCd1ZpdmhHZ2cxMGJySTc2NFRsNHN1WWhBSkQzNlR5NjFR"
-    },
-    {
-      "title": "Will the Stock Market Crash in 2026? The Federal Reserve Sends a Silent Warning to Investors. - Nasdaq",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcWNMS0VTenNXN0lBcXhTN0VEOWtpa19YWlh3QVZ5eEFHSm83TXotYnNIeWVWWDI5SEtZMU5CYmZuOXM5ZnRqQ3pxZzJZTTR0REZLZk8tTWRqeUozZXZxbmh4RGx5U01pTU9pcDRHdEJrdW1RaW1uVlNBVVEtdmsxSG5YeE9leGN0cW00djNKcHQ4YXpqdUlwSUh6RzJvWjAyUVdQTEhiem9QLUU?oc=5",
-      "source": "Nasdaq",
-      "published_at": "Wed, 24 Dec 2025 08:00:00 GMT",
-      "summary": "Will the Stock Market Crash in 2026? The Federal Reserve Sends a Silent Warning to Investors. Nasdaq",
-      "guid": "CBMiqwFBVV95cUxQcWNMS0VTenNXN0lBcXhTN0VEOWtpa19YWlh3QVZ5eEFHSm83TXotYnNIeWVWWDI5SEtZMU5CYmZuOXM5ZnRqQ3pxZzJZTTR0REZLZk8tTWRqeUozZXZxbmh4RGx5U01pTU9pcDRHdEJrdW1RaW1uVlNBVVEtdmsxSG5YeE9leGN0cW00djNKcHQ4YXpqdUlwSUh6RzJvWjAyUVdQTEhiem9QLUU"
+      "guid": "CBMikwNBVV95cUxQbm55N0NvQ1dTS19UcE1jd3dpY2FrVHpjYlpqbFZKNW5SWFhWYloyTUtDcmtxUW1oYjBlMHRXbk9Ob0RZak9yNUNXTExBemFUTzB1dEtxMUhoMENaX0RDUmlFNVpVOUtCYi1WejhUbGdyd056aGNBY0hGZjJQZExxTl9TMWFyYlgxOUdfOXFscFZZbXFEa0ZEVjFsZFg2aFNLeEZZcFZYWEF2SUVQekQtYV90RFFUUW5PQWh4ZkM3LWFoYkl5LVhIeWhCMWE5T0tlRzg3a2NJMXVZTkFhYllPTVJMaXpRWWx2SHZ4aWlRWUgtc0VqcWU5SjIwMnlROUp1RXN5RDB5djhkRlpSbG9ja01tekcwYWVMRU1HQWVXNktibUVjRnJwRTk3dTNPMVFDTHQzT19pa0xlMG5xMkx0Q2NQTEVVVmtvOHBzMnJ1MWVxMVNLbDVuY0J6cjNWc1p4UVFEd3hPM1hUenRTZ2NCeTNBakFDdWV2dFBfUGp4RHJvWVBjVUNlaEluWW04RkpncUJV"
     }
   ]
 }
