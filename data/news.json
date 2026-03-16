@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-13T15:43:01Z",
+  "generated_at": "2026-03-16T04:15:22Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,28 +7,68 @@
   },
   "items": [
     {
-      "title": "Oil, Inflation, and the Economy: Will the Stock Market Break? - tastylive",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNm1PUF9idE9aWk14M084NlAtUVktT0thRTkwWjRpY09UaHdUNks1U2tzNzZ2QnJrMTl4dFJWdEdqVXNJb18wV0Y5NmZKZzNlT1FIVWN6VHIyLUM2eTVGTDFlVDRnMnBSdEdOZHM5ZnBnakZFT3V4UHhkNmRhbU9fOVYydnN2TWRvcWxWV1ZHRlE2c1NaS0lZeDBlSWhsZU0?oc=5",
-      "source": "tastylive",
-      "published_at": "Fri, 13 Mar 2026 07:48:19 GMT",
-      "summary": "Oil, Inflation, and the Economy: Will the Stock Market Break? tastylive",
-      "guid": "CBMinwFBVV95cUxPNm1PUF9idE9aWk14M084NlAtUVktT0thRTkwWjRpY09UaHdUNks1U2tzNzZ2QnJrMTl4dFJWdEdqVXNJb18wV0Y5NmZKZzNlT1FIVWN6VHIyLUM2eTVGTDFlVDRnMnBSdEdOZHM5ZnBnakZFT3V4UHhkNmRhbU9fOVYydnN2TWRvcWxWV1ZHRlE2c1NaS0lZeDBlSWhsZU0"
+      "title": "The New York Stock Exchange | NYSE - NYSE",
+      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE93UWVlU3g1TVNpdTNEcjI2Yk9kSHU2Tnh5Y0stVFBGRWVkLW9wbU1EbHhQaHdIOE56d2V5NXVhSQ?oc=5",
+      "source": "NYSE",
+      "published_at": "Thu, 12 Mar 2026 22:00:00 GMT",
+      "summary": "The New York Stock Exchange | NYSE NYSE",
+      "guid": "CBMiP0FVX3lxTE93UWVlU3g1TVNpdTNEcjI2Yk9kSHU2Tnh5Y0stVFBGRWVkLW9wbU1EbHhQaHdIOE56d2V5NXVhSQ"
     },
     {
-      "title": "Why US stock market surging today: Dow Jones, S&P 500, Nasdaq rise as Russell 2000 leads - PCE inflation d - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQNTQwWlE2SEhiUzg1VHJmTjhSMzNVdEJVRHQ1SU9xd0tQdW04X0JIakdEc2RoSDBhMXFvanplMjYyYXpLS25fX1JqQWlUaENNRHB5alMteEkxU0Z5OXhiRUtNWE4zek5pQ2RoWktOZmJOM3A4N3BSX3FUdlFMMHQ5c09iTVF3MjJ6c29oRi1FckVSVXFpb29kTDM4b00wREZoQ3RZQ2J2Z25nOVhQcUJIS1p2R1VWVk1IdXhIa1pha3RaQThDUXBtRm9Iem5JZGw4TGVMMEdtX0NHeUJpRHEzZW04XzlNVll1aHl1ejBvdXkxWTlzazZncHJicXpzTTZLbERnUmxiWm1yNlRGbnlfeDE5TnZra2J4RmRwTjY0WlI0NkRlRzNrZWZGSVFBQdIBswJBVV95cUxQNVM1bXdDQjZmT2k1VmV5aUFhVzVWZEZyZDFGX1lZOTEyNWJwbUI2QWgwSnFYSVgxRkxud0VkZkNjeFB4T2ZVWXpmV3ZWaHZqeWp4MVEwOEs4RzZFLVhDVGxkTWcyZWJLeG50U0dZZkMwUzl3bHNsYTB0WGl4MURmZ2ZFR0xTUWRfWGZCVWM5NHRCc1NISEowUU5DNmRQLWdEQkk4andxWVpvMmFqdi1UWWUtUFpGS1ZsSTh2bjNqOHBNMzJITEI2RjFLMjVHUFQ4cTBIdjlzNVZCRnQ2RjdUaFRqV0x2NlFLOHBfd2pySlh5bzdtX0w2dEdBMG9YdW5FTUNDVmxoeHExMDFXc3RJd0VjT2FHUEsyRmQ3VGVrVnd3Tll2UDh0dUpJMFNGNU92VFZ3?oc=5",
-      "source": "The Economic Times",
-      "published_at": "Fri, 13 Mar 2026 14:57:59 GMT",
-      "summary": "Why US stock market surging today: Dow Jones, S&P 500, Nasdaq rise as Russell 2000 leads - PCE inflation d The Economic Times",
-      "guid": "CBMirgJBVV95cUxQNTQwWlE2SEhiUzg1VHJmTjhSMzNVdEJVRHQ1SU9xd0tQdW04X0JIakdEc2RoSDBhMXFvanplMjYyYXpLS25fX1JqQWlUaENNRHB5alMteEkxU0Z5OXhiRUtNWE4zek5pQ2RoWktOZmJOM3A4N3BSX3FUdlFMMHQ5c09iTVF3MjJ6c29oRi1FckVSVXFpb29kTDM4b00wREZoQ3RZQ2J2Z25nOVhQcUJIS1p2R1VWVk1IdXhIa1pha3RaQThDUXBtRm9Iem5JZGw4TGVMMEdtX0NHeUJpRHEzZW04XzlNVll1aHl1ejBvdXkxWTlzazZncHJicXpzTTZLbERnUmxiWm1yNlRGbnlfeDE5TnZra2J4RmRwTjY0WlI0NkRlRzNrZWZGSVFBQdIBswJBVV95cUxQNVM1bXdDQjZmT2k1VmV5aUFhVzVWZEZyZDFGX1lZOTEyNWJwbUI2QWgwSnFYSVgxRkxud0VkZkNjeFB4T2ZVWXpmV3ZWaHZqeWp4MVEwOEs4RzZFLVhDVGxkTWcyZWJLeG50U0dZZkMwUzl3bHNsYTB0WGl4MURmZ2ZFR0xTUWRfWGZCVWM5NHRCc1NISEowUU5DNmRQLWdEQkk4andxWVpvMmFqdi1UWWUtUFpGS1ZsSTh2bjNqOHBNMzJITEI2RjFLMjVHUFQ4cTBIdjlzNVZCRnQ2RjdUaFRqV0x2NlFLOHBfd2pySlh5bzdtX0w2dEdBMG9YdW5FTUNDVmxoeHExMDFXc3RJd0VjT2FHUEsyRmQ3VGVrVnd3Tll2UDh0dUpJMFNGNU92VFZ3"
+      "title": "What to Expect in Markets This Week: Fed Interest Rate Decision, Powell Press Conference, Earnings from Micron and FedEx - Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPa3Y2SE5WRTduLVVMWXJGaDVJejcxSFlpbkc5VFRrMWl5Q3lzbzFfSVhLcU1MMURqOW42akZjcXY4V0c3NUUxSDNGX3JwQzh4U215RTdqTm5jSTRNNzFJamNvMzdUQ3hfM1ZxN2p5U2ZiempLbVFZYW5nZmxNZlJUZHU1R1hNNWlKaFhESU54a25FZ3ppQzRWX1FYd293VS0yQjhRc3Q0N1hoNXRUckk0RFdiTWFNQ1JMWXI4MUlNNnBWQm9JdnFWc09tVXBkZmVOcTlXMFpqWU4tTVl6Zms4?oc=5",
+      "source": "Investopedia",
+      "published_at": "Sun, 15 Mar 2026 10:00:00 GMT",
+      "summary": "What to Expect in Markets This Week: Fed Interest Rate Decision, Powell Press Conference, Earnings from Micron and FedEx Investopedia",
+      "guid": "CBMi3wFBVV95cUxPa3Y2SE5WRTduLVVMWXJGaDVJejcxSFlpbkc5VFRrMWl5Q3lzbzFfSVhLcU1MMURqOW42akZjcXY4V0c3NUUxSDNGX3JwQzh4U215RTdqTm5jSTRNNzFJamNvMzdUQ3hfM1ZxN2p5U2ZiempLbVFZYW5nZmxNZlJUZHU1R1hNNWlKaFhESU54a25FZ3ppQzRWX1FYd293VS0yQjhRc3Q0N1hoNXRUckk0RFdiTWFNQ1JMWXI4MUlNNnBWQm9JdnFWc09tVXBkZmVOcTlXMFpqWU4tTVl6Zms4"
     },
     {
-      "title": "S&P 500 Slumps in Worst Day Since War Began - The New York Times - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVnItWDVzMGI5Nk5GVDR2QU1pNzg4SjhjTkYzQXBhUjdDWEljMWcwOHZwMnJCMmtUMnFJSDRobnh4WUs1T1hmR3JlOUhMX244Um51Y1VUYkF1NlhlX0FEZEZ5X3lRblNYMTUya2xtdEdoQlFBTUJwZ3UwM0hRRTdqMw?oc=5",
-      "source": "The New York Times",
-      "published_at": "Fri, 13 Mar 2026 02:39:00 GMT",
-      "summary": "S&P 500 Slumps in Worst Day Since War Began - The New York Times The New York Times",
-      "guid": "CBMigAFBVV95cUxNVnItWDVzMGI5Nk5GVDR2QU1pNzg4SjhjTkYzQXBhUjdDWEljMWcwOHZwMnJCMmtUMnFJSDRobnh4WUs1T1hmR3JlOUhMX244Um51Y1VUYkF1NlhlX0FEZEZ5X3lRblNYMTUya2xtdEdoQlFBTUJwZ3UwM0hRRTdqMw"
+      "title": "We're Exactly 2 Months Away From a Major Shake-Up at the Federal Reserve -- and There's a Lot on the Line for Wall Street - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1sc0VFd3VMNVIxNjFYWHJCYXczRy1RTWRSdVNtT2pkdUNlVkZ5Yi1Wa29QYy1UaGFfWVBwQV9RcFlwTTBkRVpZSmVzMjV6dkVzeVdRR0VEbDBEUGZaNzNoaTVGaFBoN1dQTVpGRUZBbVpNenI1VUdVemRB?oc=5",
+      "source": "AOL.com",
+      "published_at": "Sun, 15 Mar 2026 14:40:39 GMT",
+      "summary": "We're Exactly 2 Months Away From a Major Shake-Up at the Federal Reserve -- and There's a Lot on the Line for Wall Street AOL.com",
+      "guid": "CBMiekFVX3lxTE1sc0VFd3VMNVIxNjFYWHJCYXczRy1RTWRSdVNtT2pkdUNlVkZ5Yi1Wa29QYy1UaGFfWVBwQV9RcFlwTTBkRVpZSmVzMjV6dkVzeVdRR0VEbDBEUGZaNzNoaTVGaFBoN1dQTVpGRUZBbVpNenI1VUdVemRB"
+    },
+    {
+      "title": "We're Exactly 2 Months Away From a Major Shake-Up at the Federal Reserve -- and There's a Lot on the Line for Wall Street - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOQlloNFN5bVlQVEhTT3dSaXk4S2l6Wk14VWNTS2FZd3FMRFRRbGtkQ2RacVg2MHdiUDI4bnJheGdQejdINUpMb0dwWG5mOTdIN3RJTDh4VEw1dUdOQ0JtM2JBOHNsX2p3UURtOXNheVRpbFUxejFZZ3ZOSHRUTXQwTXRfWGw2aGltZ0xCYnpUU084d21lb05jU2Y3R0ZMOFhsSG1rWkNjUElnN2luRDZDV0RQUWFiZUhwOWNzQXg3SnJ2UE50TU1nVndHNjJXWFVtSUNHWWZJODIyeG1BVWRTZVlFSTF1SXdZcmRSeXdzbWRIRUVxQTB4WFJMaWN5WEVFNnZ3WGptMTktSnIzTzE0U2pzOTB1Zm00eXcxaW42U0x1QXRyUmZF?oc=5",
+      "source": "The Globe and Mail",
+      "published_at": "Sun, 15 Mar 2026 14:34:58 GMT",
+      "summary": "We're Exactly 2 Months Away From a Major Shake-Up at the Federal Reserve -- and There's a Lot on the Line for Wall Street The Globe and Mail",
+      "guid": "CBMipwJBVV95cUxOQlloNFN5bVlQVEhTT3dSaXk4S2l6Wk14VWNTS2FZd3FMRFRRbGtkQ2RacVg2MHdiUDI4bnJheGdQejdINUpMb0dwWG5mOTdIN3RJTDh4VEw1dUdOQ0JtM2JBOHNsX2p3UURtOXNheVRpbFUxejFZZ3ZOSHRUTXQwTXRfWGw2aGltZ0xCYnpUU084d21lb05jU2Y3R0ZMOFhsSG1rWkNjUElnN2luRDZDV0RQUWFiZUhwOWNzQXg3SnJ2UE50TU1nVndHNjJXWFVtSUNHWWZJODIyeG1BVWRTZVlFSTF1SXdZcmRSeXdzbWRIRUVxQTB4WFJMaWN5WEVFNnZ3WGptMTktSnIzTzE0U2pzOTB1Zm00eXcxaW42U0x1QXRyUmZF"
+    },
+    {
+      "title": "The Stock Market Got Hit by Oil Fears. What to Watch for Next. - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxNbGVkQjZlVHloOWlTVFBRcUtKTEUxMFJnNUJrQzgxaU9Kdl9MV0Q5bTJYNUdzdXFtcGptRzZCQ3RkcXRBWlJCLTZQcTlDbjk0SVB0MjlrY1VWOTlHcGVuVURHa1BDQ0RieFFycDJmZnBWcldvZkZOSmJqcVlZTjNDa196MDJyU2tBNHFaQjlNdmVsZ2hqNzJQWmZ5ZGFNeGZmNUIwWW9QTW9tMkVoLVdJX0dNRWFGM1lXNUc2ZUVyeTBTZ1Bzd3lZdm9BUmtVYmtfNDJvY0h3eDg5SUVFM3MyOUNnOEJlei1SbElVdGY4N2R2NExrMmdwMkNrelhKUmhnVm9PdnV1UG5nMGJROHB3andoVnhKajlkdzhCODlaY1JEb2lLSTdubVJycGdfbzdILXhnYjlCU3ZVUUFVZ2JTZ3FnbVhhbUhmcWRKUmtSb25SYURFT3lwZTRLbFN0eHVuLXpDSWVxazZNTzN0cWNxWFVWV1VLRlZ6OGM3b1h3TUJ4ekxK?oc=5",
+      "source": "Barron's",
+      "published_at": "Fri, 13 Mar 2026 19:00:00 GMT",
+      "summary": "The Stock Market Got Hit by Oil Fears. What to Watch for Next. Barron's",
+      "guid": "CBMihANBVV95cUxNbGVkQjZlVHloOWlTVFBRcUtKTEUxMFJnNUJrQzgxaU9Kdl9MV0Q5bTJYNUdzdXFtcGptRzZCQ3RkcXRBWlJCLTZQcTlDbjk0SVB0MjlrY1VWOTlHcGVuVURHa1BDQ0RieFFycDJmZnBWcldvZkZOSmJqcVlZTjNDa196MDJyU2tBNHFaQjlNdmVsZ2hqNzJQWmZ5ZGFNeGZmNUIwWW9QTW9tMkVoLVdJX0dNRWFGM1lXNUc2ZUVyeTBTZ1Bzd3lZdm9BUmtVYmtfNDJvY0h3eDg5SUVFM3MyOUNnOEJlei1SbElVdGY4N2R2NExrMmdwMkNrelhKUmhnVm9PdnV1UG5nMGJROHB3andoVnhKajlkdzhCODlaY1JEb2lLSTdubVJycGdfbzdILXhnYjlCU3ZVUUFVZ2JTZ3FnbVhhbUhmcWRKUmtSb25SYURFT3lwZTRLbFN0eHVuLXpDSWVxazZNTzN0cWNxWFVWV1VLRlZ6OGM3b1h3TUJ4ekxK"
+    },
+    {
+      "title": "Stock Market Down - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84MHNqbXhhQTZwOFk0cDIzdHNDdE5OZUJEZ2tXSUd3MEEydTBPdGxzWnpnbnNXNkNWWEV5MWJ5Ukk0am1VR3JaSnVicmJWQnRPWmpMdkRZeTVqMHdaT1NodXB4OTRqOXc2MWc?oc=5",
+      "source": "Seeking Alpha",
+      "published_at": "Sat, 14 Mar 2026 16:04:28 GMT",
+      "summary": "Stock Market Down Seeking Alpha",
+      "guid": "CBMiakFVX3lxTE84MHNqbXhhQTZwOFk0cDIzdHNDdE5OZUJEZ2tXSUd3MEEydTBPdGxzWnpnbnNXNkNWWEV5MWJ5Ukk0am1VR3JaSnVicmJWQnRPWmpMdkRZeTVqMHdaT1NodXB4OTRqOXc2MWc"
+    },
+    {
+      "title": "The Trump-Led Iran War Can Lead to a Triple Whammy for the Federal Reserve -- and the Stock Market May End Up Paying the Price - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA2OUg1SEVZbDlYUFZfNmFyUHlrWDM2TjFNbmN3OUpsT0R5dHBQZDRydjBkRlkxNU8wRVFMWG9EQzBMZzRaeTRFdUs3V3dvYVlfVFZBSGI5Y0tTQkstblVLU3NQY1oyZTlIaGVUTm1scEpVVkI2NnZmdQ?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Sat, 14 Mar 2026 10:56:00 GMT",
+      "summary": "The Trump-Led Iran War Can Lead to a Triple Whammy for the Federal Reserve -- and the Stock Market May End Up Paying the Price Yahoo Finance",
+      "guid": "CBMieEFVX3lxTFA2OUg1SEVZbDlYUFZfNmFyUHlrWDM2TjFNbmN3OUpsT0R5dHBQZDRydjBkRlkxNU8wRVFMWG9EQzBMZzRaeTRFdUs3V3dvYVlfVFZBSGI5Y0tTQkstblVLU3NQY1oyZTlIaGVUTm1scEpVVkI2NnZmdQ"
+    },
+    {
+      "title": "Stock Market Week: Nvidia's AI Woodstock, Fed Meeting, Quad Witching - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcGVLZDc3c2FvSW5JZjI4eFE1T1BRaXhrcXNobkZlWlR1cjJRRXZGaDJEQVJZUVhRNEVkVHFQVmdfcHQwdWlHdmY0WG9PNmFwaVdqSTI3Yk9NRV9IaWxjcjV3SlVac2NRRER2OFBOcnk3VGp6My05QmFld3FTa1BURU1VS1lKZDNQTEtiWkxwVXNpZmZ4WE1VWmF0V0dZYjRIVEx5dElxcFpKQWgtTFFvdVlTWmJQZw?oc=5",
+      "source": "Investor's Business Daily",
+      "published_at": "Sat, 14 Mar 2026 13:37:00 GMT",
+      "summary": "Stock Market Week: Nvidia's AI Woodstock, Fed Meeting, Quad Witching Investor's Business Daily",
+      "guid": "CBMitgFBVV95cUxOcGVLZDc3c2FvSW5JZjI4eFE1T1BRaXhrcXNobkZlWlR1cjJRRXZGaDJEQVJZUVhRNEVkVHFQVmdfcHQwdWlHdmY0WG9PNmFwaVdqSTI3Yk9NRV9IaWxjcjV3SlVac2NRRER2OFBOcnk3VGp6My05QmFld3FTa1BURU1VS1lKZDNQTEtiWkxwVXNpZmZ4WE1VWmF0V0dZYjRIVEx5dElxcFpKQWgtTFFvdVlTWmJQZw"
     },
     {
       "title": "Federal Reserve to loosen capital requirements for big US banks - Financial Times",
@@ -39,52 +79,12 @@
       "guid": "CBMicEFVX3lxTE9iM3lwNTF0NFpMN3VhSWxQQTlXVlVYT0pibGxaY1QyUFo1THI1WlRtS290SEVxN2h1YlEzTDFzM0hET0dmSUpSdzBOTktzX2lVWjI5QURIaEYxNzNEbHFydThaTUFNVjB4WldJWHdyN1Y"
     },
     {
-      "title": "The Stock Market Sounds an Alarm as Oil Prices Surge to Their Highest Level in Years. History Says the S&P 500 Will Do This Next. - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRmxkYTNpUThnS2dUTVVsTk9QdUN5WVYxdmRoYW9iTUJSWWJEc0VRSld3UkRLSEJweW96Uy0wWllNT3JUOXliV3RnVFNteEJuMDJCRE9iSUlyZUlfa0RzcVNGdkQ2SUN5XzRNOGNDMjJIQWdnS3YwTlBYLWZCMHZLZEpaOFBXT2Joa1pOYjFB?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Thu, 12 Mar 2026 17:34:00 GMT",
-      "summary": "The Stock Market Sounds an Alarm as Oil Prices Surge to Their Highest Level in Years. History Says the S&P 500 Will Do This Next. The Motley Fool",
-      "guid": "CBMijgFBVV95cUxNRmxkYTNpUThnS2dUTVVsTk9QdUN5WVYxdmRoYW9iTUJSWWJEc0VRSld3UkRLSEJweW96Uy0wWllNT3JUOXliV3RnVFNteEJuMDJCRE9iSUlyZUlfa0RzcVNGdkQ2SUN5XzRNOGNDMjJIQWdnS3YwTlBYLWZCMHZLZEpaOFBXT2Joa1pOYjFB"
-    },
-    {
-      "title": "Stock market today: Japan's Nikkei falls as Wall Street, European futures rise following sharp sell-off - Economy Middle East",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOd1dsTVpxMVh4dkxlY2tiM0RPUUJJZ01YM3B5YnlyY3hsRFR6QUgwYmhmXzVNZ0RhN01uUjhET2VUeVNiNmZhZVlqYU8wUG5CUjNsZkFod3BqandicC01UU5NR0w4LVhyeWdoandHaHhiV0dKRDhrdUJIcWFBc0hhRzRFMlp1dzlVQ3M2dllVQVFDMjBYMmUzSHlwcEd4eUJZVTQxUThLNXhvUUdTeEdjNU5aQWhKdlFrTks4ZFlVZHhnbUJjNmtaMjFhcUw?oc=5",
-      "source": "Economy Middle East",
-      "published_at": "Fri, 13 Mar 2026 07:00:20 GMT",
-      "summary": "Stock market today: Japan's Nikkei falls as Wall Street, European futures rise following sharp sell-off Economy Middle East",
-      "guid": "CBMizAFBVV95cUxOd1dsTVpxMVh4dkxlY2tiM0RPUUJJZ01YM3B5YnlyY3hsRFR6QUgwYmhmXzVNZ0RhN01uUjhET2VUeVNiNmZhZVlqYU8wUG5CUjNsZkFod3BqandicC01UU5NR0w4LVhyeWdoandHaHhiV0dKRDhrdUJIcWFBc0hhRzRFMlp1dzlVQ3M2dllVQVFDMjBYMmUzSHlwcEd4eUJZVTQxUThLNXhvUUdTeEdjNU5aQWhKdlFrTks4ZFlVZHhnbUJjNmtaMjFhcUw"
-    },
-    {
-      "title": "Fed's top cop previews changes to bank capital requirements to jump-start lending - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeHg4REJmU045MjJRNHhEN2ZSdzEtSllGSVRmZXI4VFdKa1BoYzFySEdpdkgwOGVpdVNRSkN4Rk9KenM0OG1DLTVSZWpXNDdpY1dKYWV0QzdFVTRmTWo4d2pEZ25yeHZKdTlPUEFQUFFlVTh3bVkyNmtOZkhWQ3o1VHp0Qmtqek5yR2hwV2JQTFBhci1XLWtjVFVRb25FZmxQY2gtVU43MThUcnlmbnZlbFBfR3d2b0habllidFdpbHdHbFct?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Thu, 12 Mar 2026 17:32:03 GMT",
-      "summary": "Fed's top cop previews changes to bank capital requirements to jump-start lending Yahoo Finance",
-      "guid": "CBMixAFBVV95cUxNeHg4REJmU045MjJRNHhEN2ZSdzEtSllGSVRmZXI4VFdKa1BoYzFySEdpdkgwOGVpdVNRSkN4Rk9KenM0OG1DLTVSZWpXNDdpY1dKYWV0QzdFVTRmTWo4d2pEZ25yeHZKdTlPUEFQUFFlVTh3bVkyNmtOZkhWQ3o1VHp0Qmtqek5yR2hwV2JQTFBhci1XLWtjVFVRb25FZmxQY2gtVU43MThUcnlmbnZlbFBfR3d2b0habllidFdpbHdHbFct"
-    },
-    {
-      "title": "U.S. stocks stabilize after some heavy turbulence brought on by the war with Iran - BNN Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVTZTemdSYS1IOFFLN1FneTRRcEE0T0tON0tsUk9ISmNCZVJFaXVyRzRUSUlYQmVodXFNQ1MzU2o0TGQzSTdPNC1mN2JyUGhmN3V4cy1CazhGQU1JUFBfN2F2Y0dNTnJjQ2hnLVU4cU1kcWpQaV9SanZlTHlRZ1QzY19yRl9WRWtuMmlVSDVhcExhZnBWUnJ3UGYyMl9CNDEyakcxS3pVay1RN1h1WDZ5bEE3R21qdzJFWWROX2EwU1VDRmd5Z2c?oc=5",
-      "source": "BNN Bloomberg",
-      "published_at": "Fri, 13 Mar 2026 13:55:21 GMT",
-      "summary": "U.S. stocks stabilize after some heavy turbulence brought on by the war with Iran BNN Bloomberg",
-      "guid": "CBMixgFBVV95cUxOVTZTemdSYS1IOFFLN1FneTRRcEE0T0tON0tsUk9ISmNCZVJFaXVyRzRUSUlYQmVodXFNQ1MzU2o0TGQzSTdPNC1mN2JyUGhmN3V4cy1CazhGQU1JUFBfN2F2Y0dNTnJjQ2hnLVU4cU1kcWpQaV9SanZlTHlRZ1QzY19yRl9WRWtuMmlVSDVhcExhZnBWUnJ3UGYyMl9CNDEyakcxS3pVay1RN1h1WDZ5bEE3R21qdzJFWWROX2EwU1VDRmd5Z2c"
-    },
-    {
-      "title": "How Do Changing Interest Rates Affect the Stock Market? - U.S. Bank",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVVJpa2pCR3B0TmxRZGlpSmRZaFctZ21ybGtrVUVBMFozZ0xiSGFRY0ZZdGNWaV80dnhHUTR2TTVoSnZEU190aGtMamY2MDAxT0hYYzRXcUl5OUEyOGRGYWlBbm54T3ppaEZWRWtyV01EOEJGcVRaM2xROWlCX2FxSFYxX1NXeUQwZmJLS3pqcGhCWjR5RVJrNlhmbUtRcy1EUGJLaFI4UTNkUHg4emNPUE95cTc0bnlDcklaaG5EcWhBeVU?oc=5",
-      "source": "U.S. Bank",
-      "published_at": "Fri, 30 Jan 2026 08:00:00 GMT",
-      "summary": "How Do Changing Interest Rates Affect the Stock Market? U.S. Bank",
-      "guid": "CBMiwwFBVV95cUxQVVJpa2pCR3B0TmxRZGlpSmRZaFctZ21ybGtrVUVBMFozZ0xiSGFRY0ZZdGNWaV80dnhHUTR2TTVoSnZEU190aGtMamY2MDAxT0hYYzRXcUl5OUEyOGRGYWlBbm54T3ppaEZWRWtyV01EOEJGcVRaM2xROWlCX2FxSFYxX1NXeUQwZmJLS3pqcGhCWjR5RVJrNlhmbUtRcy1EUGJLaFI4UTNkUHg4emNPUE95cTc0bnlDcklaaG5EcWhBeVU"
-    },
-    {
-      "title": "Market Reactions to Tariff Announcements - Federal Reserve Bank of San Francisco",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM1dfLWVxeDJGbVNDYU9vWU8xOW5Fbk9rWk5KREtjbWFDcWFfdzAyVE5WMDhINUpWbWVDVWZmRHBSSlN3blk5alBHd3B1RE5JSmVMRTd3SXhNQmZWdDllUDFCU1lwTk9zcmpBSmhmazM5OEhIWEVHMlhHTDY4M1luNXJ5TExQbi1RMjBLbmpZd3BqLU1zanlvM0hvVWhVcWtiSWZBOV9ENTJmTWUtQzIxdmprYlpGNnJzQk11T1ZfWQ?oc=5",
-      "source": "Federal Reserve Bank of San Francisco",
-      "published_at": "Mon, 06 Oct 2025 07:00:00 GMT",
-      "summary": "Market Reactions to Tariff Announcements Federal Reserve Bank of San Francisco",
-      "guid": "CBMivwFBVV95cUxOM1dfLWVxeDJGbVNDYU9vWU8xOW5Fbk9rWk5KREtjbWFDcWFfdzAyVE5WMDhINUpWbWVDVWZmRHBSSlN3blk5alBHd3B1RE5JSmVMRTd3SXhNQmZWdDllUDFCU1lwTk9zcmpBSmhmazM5OEhIWEVHMlhHTDY4M1luNXJ5TExQbi1RMjBLbmpZd3BqLU1zanlvM0hvVWhVcWtiSWZBOV9ENTJmTWUtQzIxdmprYlpGNnJzQk11T1ZfWQ"
+      "title": "Buffett Leaves $373 Billion Warning for Stock Market - National Today",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUTZhZlhfVF9fU28wd0tWdlJRX2Vha2ZUMm4wM3NBRTZzUGFOS2VTVTBONEpOenBZMGs4UHBCaG1TUUxIN2xzZ1NaYW5jSldXbmE4cjQzUGpSd0tRNXU0Z2htekFOYVVKRlBTMTE4cGxuMXk4OVdpejRWTEpBNFZqaDhsNkxMVlpEUUVwbG5XREFyNDk5QlRzdXV3MmNWYkxvaFMyMmVIX2ZKUQ?oc=5",
+      "source": "National Today",
+      "published_at": "Sun, 15 Mar 2026 19:48:38 GMT",
+      "summary": "Buffett Leaves $373 Billion Warning for Stock Market National Today",
+      "guid": "CBMiqgFBVV95cUxQUTZhZlhfVF9fU28wd0tWdlJRX2Vha2ZUMm4wM3NBRTZzUGFOS2VTVTBONEpOenBZMGs4UHBCaG1TUUxIN2xzZ1NaYW5jSldXbmE4cjQzUGpSd0tRNXU0Z2htekFOYVVKRlBTMTE4cGxuMXk4OVdpejRWTEpBNFZqaDhsNkxMVlpEUUVwbG5XREFyNDk5QlRzdXV3MmNWYkxvaFMyMmVIX2ZKUQ"
     }
   ]
 }
