@@ -1,5 +1,5 @@
 (() => {
-  window.__STATIC_DATA_BRIDGE_VERSION__ = "20260312-1";
+  window.__STATIC_DATA_BRIDGE_VERSION__ = "20260316-1";
 
   const NEWS_PROXY_PATHS = new Set([
     "/api/bbc-business-rss",
@@ -33,6 +33,7 @@
   let yahooChartsPromise = null;
   let rrgPromise = null;
   let vkospiPromise = null;
+  let cnnFearGreedPromise = null;
   let breadthHistoryPromise = null;
   let breadthSummaryPromise = null;
   const fredPromiseBySeries = new Map();
@@ -146,6 +147,14 @@
     }
 
     return vkospiPromise;
+  }
+
+  async function loadCnnFearGreedPayload() {
+    if (!cnnFearGreedPromise) {
+      cnnFearGreedPromise = loadJson(sitePath("data/cnn-fear-greed.json"));
+    }
+
+    return cnnFearGreedPromise;
   }
 
   async function loadFredCsv(seriesId) {
@@ -489,7 +498,15 @@
     }
 
     if (url.pathname === CNN_FEAR_GREED_PROXY_PATH) {
-      return jsonResponse({ error: "Static bridge disabled CNN proxy to allow live browser fallback." }, 503);
+      try {
+        const payload = await loadCnnFearGreedPayload();
+        return jsonResponse(payload);
+      } catch (error) {
+        return jsonResponse(
+          { error: error instanceof Error ? error.message : "Static CNN Fear & Greed data is unavailable." },
+          503
+        );
+      }
     }
 
     if (url.pathname.startsWith(YAHOO_CHART_PREFIX)) {
