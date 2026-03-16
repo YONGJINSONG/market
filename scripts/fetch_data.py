@@ -8,7 +8,9 @@ import io
 import json
 import os
 import re
+import socket
 import sys
+import time
 from http.cookiejar import CookieJar
 from datetime import datetime, timedelta, timezone
 from html import unescape
@@ -21,8 +23,10 @@ from urllib.request import HTTPCookieProcessor, Request, build_opener, urlopen
 import xml.etree.ElementTree as ET
 
 
-DEFAULT_TIMEOUT = 20
+DEFAULT_TIMEOUT = 60
 DEFAULT_NEWS_LIMIT = 10
+DEFAULT_FRED_RETRY_ATTEMPTS = 3
+DEFAULT_FRED_RETRY_DELAY = 2
 YAHOO_CHART_ENDPOINT = "https://query1.finance.yahoo.com/v8/finance/chart/{symbol}"
 DEFAULT_NEWS_QUERY = "stock market OR economy OR inflation OR federal reserve"
 GOOGLE_NEWS_RSS = "https://news.google.com/rss/search"
@@ -365,6 +369,15 @@ def fred_series_url(series_id: str) -> str:
         "cosd": (datetime.now(timezone.utc) - timedelta(days=400)).date().isoformat(),
     }
     return f"{FRED_GRAPH_ENDPOINT}?{urlencode(params)}"
+
+
+def is_retryable_fetch_error(error: BaseException) -> bool:
+    if isinstance(error, HTTPError):
+        return error.code == 429 or 500 <= error.code < 600
+    if isinstance(error, URLError):
+        reason = getattr(error, "reason", None)
+        return isinstance(reason, (TimeoutError, socket.timeout)) or "timed out" in str(reason).lower()
+    return isinstance(error, (TimeoutError, socket.timeout))
 
 
 def clamp(value: float, lower: float, upper: float) -> float:
@@ -869,31 +882,58 @@ def build_cnn_fear_greed_payload(timeout: int, charts: dict[str, dict[str, Any]]
         return build_cnn_fear_greed_fallback(charts)
 
 
-def build_fred_csv_payload(series_id: str, timeout: int) -> str:
-    csv_text = read_text(
-        fred_series_url(series_id),
-        timeout,
-        accept="text/csv, text/plain, */*",
-    )
-    rows: list[list[str]] = []
+def build_fred_csv_payload(
+    series_id: str,
+    timeout: int,
+    *,
+    retry_attempts: int = DEFAULT_FRED_RETRY_ATTEMPTS,
+    retry_delay: int = DEFAULT_FRED_RETRY_DELAY,
+) -> str:
+    last_error: BaseException | None = None
 
-    for line in csv_text.strip().splitlines()[1:]:
-        parts = [part.strip() for part in line.split(",", 1)]
-        if len(parts) != 2:
-            continue
-        date_text, value_text = parts
-        if not date_text or value_text in ("", "."):
-            continue
+    for attempt in range(1, retry_attempts + 1):
+        print(
+            f"info: fetching FRED series_id={series_id} attempt={attempt}/{retry_attempts}",
+            file=sys.stderr,
+        )
         try:
-            float(value_text)
-        except ValueError:
-            continue
-        rows.append([date_text, value_text])
+            csv_text = read_text(
+                fred_series_url(series_id),
+                timeout,
+                accept="text/csv, text/plain, */*",
+            )
+            rows: list[list[str]] = []
 
-    if not rows:
-        raise RuntimeError(f"FRED response for {series_id} did not contain numeric rows.")
+            for line in csv_text.strip().splitlines()[1:]:
+                parts = [part.strip() for part in line.split(",", 1)]
+                if len(parts) != 2:
+                    continue
+                date_text, value_text = parts
+                if not date_text or value_text in ("", "."):
+                    continue
+                try:
+                    float(value_text)
+                except ValueError:
+                    continue
+                rows.append([date_text, value_text])
 
-    return csv_rows_to_text(["DATE", "VALUE"], rows)
+            if not rows:
+                raise RuntimeError(f"FRED response for {series_id} did not contain numeric rows.")
+
+            return csv_rows_to_text(["DATE", "VALUE"], rows)
+        except (HTTPError, URLError, RuntimeError, TimeoutError, socket.timeout) as error:
+            last_error = error
+            if attempt >= retry_attempts or not is_retryable_fetch_error(error):
+                break
+            print(
+                f"warning: FRED series_id={series_id} attempt={attempt}/{retry_attempts} failed: {error}",
+                file=sys.stderr,
+            )
+            time.sleep(retry_delay * attempt)
+
+    raise RuntimeError(
+        f"FRED fetch failed for {series_id} after {retry_attempts} attempt(s): {last_error}"
+    ) from last_error
 
 
 def build_breadth_payloads(timeout: int) -> tuple[str, str]:
@@ -971,6 +1011,12 @@ def parse_args() -> argparse.Namespace:
         help="HTTP timeout in seconds.",
     )
     parser.add_argument(
+        "--fred-retry-attempts",
+        type=int,
+        default=int(os.getenv("FETCH_DATA_FRED_RETRY_ATTEMPTS", DEFAULT_FRED_RETRY_ATTEMPTS)),
+        help="Maximum retry attempts for FRED CSV downloads.",
+    )
+    parser.add_argument(
         "--news-limit",
         type=int,
         default=int(os.getenv("FETCH_DATA_NEWS_LIMIT", DEFAULT_NEWS_LIMIT)),
@@ -1025,7 +1071,11 @@ def main() -> int:
     for series_id, fred_path in fred_paths.items():
         fred_ok, fred_error = persist_text_payload(
             f"fred-{series_id.lower()}",
-            lambda series_id=series_id: build_fred_csv_payload(series_id=series_id, timeout=args.timeout),
+            lambda series_id=series_id: build_fred_csv_payload(
+                series_id=series_id,
+                timeout=args.timeout,
+                retry_attempts=args.fred_retry_attempts,
+            ),
             fred_path,
         )
         if fred_ok:
@@ -1091,9 +1141,9 @@ def main() -> int:
         cnn_fear_greed_path,
         breadth_history_path,
         breadth_summary_path,
-        *fred_paths.values(),
     )
-    return 0 if not failures or all(path.exists() for path in required_paths) else 1
+    fred_available = any(path.exists() for path in fred_paths.values())
+    return 0 if not failures or (all(path.exists() for path in required_paths) and fred_available) else 1
 
 
 if __name__ == "__main__":
