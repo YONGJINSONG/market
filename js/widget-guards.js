@@ -1,8 +1,5 @@
 (() => {
-  const BLOCKED_SCRIPT_PATTERNS = [
-    "embed-widget-events.js",
-    "embed-widget-advanced-chart.js",
-  ];
+  const BLOCKED_SCRIPT_PATTERNS = ["embed-widget-advanced-chart.js"];
   const originalAppendChild = Element.prototype.appendChild;
 
   function matchesBlockedScript(node) {
@@ -87,41 +84,6 @@
     return `https://www.tradingview.com/chart/?symbol=${encodeURIComponent(symbol)}`;
   }
 
-  function renderTradingViewEventsFallback(container) {
-    if (!(container instanceof HTMLElement) || container.dataset.widgetGuardApplied === "true") {
-      return;
-    }
-
-    container.dataset.widgetGuardApplied = "true";
-    const panel = createFallbackPanel(container, "400px");
-    const title = createTextNode(
-      "strong",
-      "TradingView economic calendar was disabled to avoid browser policy warnings.",
-      {
-        fontSize: "14px",
-        lineHeight: "1.5",
-      }
-    );
-    const body = createTextNode(
-      "p",
-      "This widget repeatedly triggered unload and tracker warnings in the console, so the page now shows a direct source link instead.",
-      {
-        margin: "0",
-        fontSize: "13px",
-        lineHeight: "1.6",
-        color: "hsl(215 20% 72%)",
-      }
-    );
-    const link = createLink(
-      "https://www.tradingview.com/economic-calendar/",
-      "Open TradingView economic calendar"
-    );
-
-    appendNode(panel, title);
-    appendNode(panel, body);
-    appendNode(panel, link);
-  }
-
   function renderTradingViewAdvancedChartFallback(container, node) {
     if (!(container instanceof HTMLElement) || container.dataset.widgetGuardApplied === "true") {
       return;
@@ -163,12 +125,7 @@
 
   Element.prototype.appendChild = function appendChildPatched(node) {
     if (matchesBlockedScript(node)) {
-      const src = node.src || node.getAttribute("src") || "";
-      if (src.includes("embed-widget-events.js")) {
-        renderTradingViewEventsFallback(this);
-      } else if (src.includes("embed-widget-advanced-chart.js")) {
-        renderTradingViewAdvancedChartFallback(this, node);
-      }
+      renderTradingViewAdvancedChartFallback(this, node);
       return node;
     }
 
