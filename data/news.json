@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17T09:06:50Z",
+  "generated_at": "2026-03-17T10:06:45Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -31,14 +31,6 @@
       "guid": "CBMiiAFBVV95cUxQWXo5VjJLb19OdlNxQjloUGxXcjF2cFg5RHh2YzB4X3pjNEgtejR3MUl0Tk1fUGZaUmZ1SjZaeURWVENZX0lRWk56OWJDUjduX1BzejkyTGZJUThCNGNjVjZGcjNIT01POW1xR2diQUZJYUhMdTZQQVpjai1lTng0NjNHNXpyU1F5"
     },
     {
-      "title": "Wall Street’s bullish stock market narrative is starting to unravel - MSN",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOT19xSGRranhDMm81RUJxdnN0cG1kUHlMc3FRTVFfY2RzR3VramM3SVJ6Y3l6SmoyOGJ4NkZRUXRxRUxQdlhfZjhHT2xCRFZlY2dxUDhDdHN5U1ZPTGZBYklXbHhNTV9WcS1JYUVQNUtnZ0VMSXd2ZUI2b3hiZG0xLUxXMkpscC1JZm9BemFEaDlhVTFQSWQ4U0t0NHRoRDlCdkJvemRNdUZOTThxR3RhaW9rcEZBczVpZ0JHZDdQOFNjRjhS?oc=5",
-      "source": "MSN",
-      "published_at": "Mon, 16 Mar 2026 20:55:00 GMT",
-      "summary": "Wall Street’s bullish stock market narrative is starting to unravel MSN",
-      "guid": "CBMixAFBVV95cUxOT19xSGRranhDMm81RUJxdnN0cG1kUHlMc3FRTVFfY2RzR3VramM3SVJ6Y3l6SmoyOGJ4NkZRUXRxRUxQdlhfZjhHT2xCRFZlY2dxUDhDdHN5U1ZPTGZBYklXbHhNTV9WcS1JYUVQNUtnZ0VMSXd2ZUI2b3hiZG0xLUxXMkpscC1JZm9BemFEaDlhVTFQSWQ4U0t0NHRoRDlCdkJvemRNdUZOTThxR3RhaW9rcEZBczVpZ0JHZDdQOFNjRjhS"
-    },
-    {
       "title": "5 Things to Know Before the Stock Market Opens - Investopedia",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT0Z5azRTZ0ZESzJDbmVqU2xDSFVpTEE1dHh4QWJQZ1dQcWNFZFVUOVVzOEY2OTNrd0VvMklfVXJtN0lKeTR6YXo2SDBxaWdpZWlQdE1FaTNvcU5FSUtWTnFwOU11VHkwR192UGt3bVlRNklad0hQTmwxLTJFT29ydGhDRU04N3dmeU9CMGFnOHFDV095aUlmRS1scU8taVU?oc=5",
       "source": "Investopedia",
@@ -53,14 +45,6 @@
       "published_at": "Mon, 16 Mar 2026 21:30:32 GMT",
       "summary": "Economic expert Greg Faranello previews this week’s Federal Reserve meeting qz.com",
       "guid": "CBMiY0FVX3lxTE1SdGxybndmbEozMUlDNEl5dmRFZkxaRHlKeXV2d3hFa0JLNkxQOVNXRGItU3VWaUZ6X3RudW9KY3dZTERQM1loMjNmMmlUU3VYS3VISENMMGlabTE5VmhILXU3cw"
-    },
-    {
-      "title": "Stock Market Down - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84MHNqbXhhQTZwOFk0cDIzdHNDdE5OZUJEZ2tXSUd3MEEydTBPdGxzWnpnbnNXNkNWWEV5MWJ5Ukk0am1VR3JaSnVicmJWQnRPWmpMdkRZeTVqMHdaT1NodXB4OTRqOXc2MWc?oc=5",
-      "source": "Seeking Alpha",
-      "published_at": "Sat, 14 Mar 2026 16:04:28 GMT",
-      "summary": "Stock Market Down Seeking Alpha",
-      "guid": "CBMiakFVX3lxTE84MHNqbXhhQTZwOFk0cDIzdHNDdE5OZUJEZ2tXSUd3MEEydTBPdGxzWnpnbnNXNkNWWEV5MWJ5Ukk0am1VR3JaSnVicmJWQnRPWmpMdkRZeTVqMHdaT1NodXB4OTRqOXc2MWc"
     },
     {
       "title": "The Trump-Led Iran War Can Lead to a Triple Whammy for the Federal Reserve -- and the Stock Market May End Up Paying the Price - Yahoo Finance",
@@ -85,6 +69,22 @@
       "published_at": "Tue, 17 Mar 2026 05:52:00 GMT",
       "summary": "Markets in red: Sensex falls 600 pts from day's high, Nifty below 23,400: 3 key reasons behind market decline TradingView",
       "guid": "CBMi_gFBVV95cUxNdFVLVG1ZRzdQLWdvelNPQTd3cXpBZ2xwdmkzWDZlckRmYmFYOUJJbmpiVnZaVVUxRUtUakdBYUdkWVhUUXNOVGkzMnFnTTRiS1dSUUpGLVEwclQtU3Q3Nl85MG1Fa0R4UjdTUlM1WmNKanF3VmpsUHJETFYwNmRsNzlQamtGbDMwdkRXcVJpUWhIREtLdlhxYkwxWWZNRjI5UXRIb0FEckJ0c0pRUWU3aFRJcnNUWWZtazFYMTBJZy1IajlmT2tWcW11NmdpS1h6VHJ2ZGNKWGVqd3FMdmdMaHVVQVdmLWdXeXhNSXpVeVBrazVBRjZIUWtPbXNrZw"
+    },
+    {
+      "title": "Market Reactions to Tariff Announcements - Federal Reserve Bank of San Francisco",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM1dfLWVxeDJGbVNDYU9vWU8xOW5Fbk9rWk5KREtjbWFDcWFfdzAyVE5WMDhINUpWbWVDVWZmRHBSSlN3blk5alBHd3B1RE5JSmVMRTd3SXhNQmZWdDllUDFCU1lwTk9zcmpBSmhmazM5OEhIWEVHMlhHTDY4M1luNXJ5TExQbi1RMjBLbmpZd3BqLU1zanlvM0hvVWhVcWtiSWZBOV9ENTJmTWUtQzIxdmprYlpGNnJzQk11T1ZfWQ?oc=5",
+      "source": "Federal Reserve Bank of San Francisco",
+      "published_at": "Mon, 06 Oct 2025 07:00:00 GMT",
+      "summary": "Market Reactions to Tariff Announcements Federal Reserve Bank of San Francisco",
+      "guid": "CBMivwFBVV95cUxOM1dfLWVxeDJGbVNDYU9vWU8xOW5Fbk9rWk5KREtjbWFDcWFfdzAyVE5WMDhINUpWbWVDVWZmRHBSSlN3blk5alBHd3B1RE5JSmVMRTd3SXhNQmZWdDllUDFCU1lwTk9zcmpBSmhmazM5OEhIWEVHMlhHTDY4M1luNXJ5TExQbi1RMjBLbmpZd3BqLU1zanlvM0hvVWhVcWtiSWZBOV9ENTJmTWUtQzIxdmprYlpGNnJzQk11T1ZfWQ"
+    },
+    {
+      "title": "US Stock Market Today: Nasdaq Jumps as Meta, Nvidia Rally; Oil and Fed Keep Wall Street on Edge - TechStock²",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNmpoQzB1ZmliX3BkTjBkWGd0WUdXcllJdkFCN2QwSTR6WWJHRTFQd3hSQXZ1SUpLaC1mY2dyRzNodUNWS3BWd1N6bngwRFpPbHlvam53TkxvVW5nQmthREp0NktYaEtncUVPZTJBUXRtdkpXZmVhWUlEeEpTeE1uWXp1YjZlVDZHeE1scm10R08tWVZhRlB2aS1lYnJydXB5Z1JzX2d0ZUZYUWZ2WnVUYWFCRzdxQQ?oc=5",
+      "source": "TechStock²",
+      "published_at": "Mon, 16 Mar 2026 19:25:19 GMT",
+      "summary": "US Stock Market Today: Nasdaq Jumps as Meta, Nvidia Rally; Oil and Fed Keep Wall Street on Edge TechStock²",
+      "guid": "CBMitgFBVV95cUxQNmpoQzB1ZmliX3BkTjBkWGd0WUdXcllJdkFCN2QwSTR6WWJHRTFQd3hSQXZ1SUpLaC1mY2dyRzNodUNWS3BWd1N6bngwRFpPbHlvam53TkxvVW5nQmthREp0NktYaEtncUVPZTJBUXRtdkpXZmVhWUlEeEpTeE1uWXp1YjZlVDZHeE1scm10R08tWVZhRlB2aS1lYnJydXB5Z1JzX2d0ZUZYUWZ2WnVUYWFCRzdxQQ"
     }
   ]
 }
