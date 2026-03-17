@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17T17:39:42Z",
+  "generated_at": "2026-03-17T18:34:44Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -23,20 +23,12 @@
       "guid": "CBMihwFBVV95cUxQaXkyeVlWbEhaRk9wczFpNk80UG9Td2lqeTNxa3hxd19GOE1kRUQzQ0xNaFIxNWRXUm8wSngtYUtMeFhuV1J3b0lPMm5zcUlKYi16YW1ic00zZU1aUUFTUV9ULXlva1lEU0hlM1UzSFBWVFhJMFFCNEVWRGtYcDlqcklMdzlTQ28"
     },
     {
-      "title": "Why are US stock market indexes up today, and Dow Jones, S&P 500 and Nasdaq are in green now? Wall Street - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxPU2JpLUdxTHo3dTlpeGlXRjVHRzhOVTBRNHZTczJYaklWMGY4a3pCZ0tmZ25xWHFsQkNRY1EzdnFxZ2lJelBjdThVMllLejhZOFR5WC1OVi1lNXU2THVxMjhSRk9ITlBpUXhveWNnX3dSc3Jyd1NoRVZVaEV0MVh2TWNUM1FNbmtRMm5rUVE1MXdQWHpGZ1JPUTdpZ1NybDVTVUdOOXFHa2o0RDZCUFZabmN5c1p6azRKamw5Y2YteXY4dXlNeVc1YjNmaTJUQ19QZWNuWmltRzQzMFp0VWstRWxMNUZXTFdQSXg5X2NINHdFLUxxWTJkRmZQTkE0VlVOV3hVS2R4ckszSWdCTzdXM05ZNjRwRUFEeHNZanFMX19hb2g1aVAtcVo0Tm1JLWdoMU5IVVNLU2l6azZUYUpwZVVybjhuWmpzTWE5cVZBT2UwYnJPeWEtVmx6T2gxTFdzQm1YZklHUDFCc2E2NS10Z3E2NEtCelBvSzRESUdTUjJCd3dCTk91dm96ajZBeThQN3JJ0gGYA0FVX3lxTFBrS0dzdVZpZ3JNYTVtZXBCZ0dpRGtoUHNzdlRTYXhxVG9WT09lUUJlVkNjdVBoWTRnQjIwY1dPMWczMEgxbU4xcDRYQmZFb2tYeWRsTTJNUVJoZUlUdEdLMlNmWVRZR0xJeC1uTWpLTktacDJRVmpTbHBIaGpLV1lSRkxRU3F4RFZsRUtpc05aV08tUmNxdjczcDI2TkNIQ3JPQ2JRblJaSzY4TGItcHd6eHpKQU1BZHlZLVRMbGdMZmdBMG56WU5Ha2J4MlZ2Nzc1WjVaSGw5Vk1YSDAzakxDaFZuSFFnMURsdWo2NDdNNnZ2T1RSb0tjblZYbUdaNnRYdy11c29OcEM3Mkw2VEJPekpLcHV1T0c5dE1xcks1QzRNN1dYX0M1MmpFV3J6c3NMNTZ3ZWZFdDdGSERWaWlnS0ZjVHI0RmhJdEgzejN6ZS1xOUY4cGtxNmJ0cnBVZHFWaERDd0ZxeklpdUNwS1VVTldmVkVzWGZkc3BqeGJnMHpkQ1IwVWYxMzU4M1BUcEt2X2xoTGlwcQ?oc=5",
-      "source": "The Economic Times",
-      "published_at": "Tue, 17 Mar 2026 15:04:40 GMT",
-      "summary": "Why are US stock market indexes up today, and Dow Jones, S&P 500 and Nasdaq are in green now? Wall Street The Economic Times",
-      "guid": "CBMikwNBVV95cUxPU2JpLUdxTHo3dTlpeGlXRjVHRzhOVTBRNHZTczJYaklWMGY4a3pCZ0tmZ25xWHFsQkNRY1EzdnFxZ2lJelBjdThVMllLejhZOFR5WC1OVi1lNXU2THVxMjhSRk9ITlBpUXhveWNnX3dSc3Jyd1NoRVZVaEV0MVh2TWNUM1FNbmtRMm5rUVE1MXdQWHpGZ1JPUTdpZ1NybDVTVUdOOXFHa2o0RDZCUFZabmN5c1p6azRKamw5Y2YteXY4dXlNeVc1YjNmaTJUQ19QZWNuWmltRzQzMFp0VWstRWxMNUZXTFdQSXg5X2NINHdFLUxxWTJkRmZQTkE0VlVOV3hVS2R4ckszSWdCTzdXM05ZNjRwRUFEeHNZanFMX19hb2g1aVAtcVo0Tm1JLWdoMU5IVVNLU2l6azZUYUpwZVVybjhuWmpzTWE5cVZBT2UwYnJPeWEtVmx6T2gxTFdzQm1YZklHUDFCc2E2NS10Z3E2NEtCelBvSzRESUdTUjJCd3dCTk91dm96ajZBeThQN3JJ0gGYA0FVX3lxTFBrS0dzdVZpZ3JNYTVtZXBCZ0dpRGtoUHNzdlRTYXhxVG9WT09lUUJlVkNjdVBoWTRnQjIwY1dPMWczMEgxbU4xcDRYQmZFb2tYeWRsTTJNUVJoZUlUdEdLMlNmWVRZR0xJeC1uTWpLTktacDJRVmpTbHBIaGpLV1lSRkxRU3F4RFZsRUtpc05aV08tUmNxdjczcDI2TkNIQ3JPQ2JRblJaSzY4TGItcHd6eHpKQU1BZHlZLVRMbGdMZmdBMG56WU5Ha2J4MlZ2Nzc1WjVaSGw5Vk1YSDAzakxDaFZuSFFnMURsdWo2NDdNNnZ2T1RSb0tjblZYbUdaNnRYdy11c29OcEM3Mkw2VEJPekpLcHV1T0c5dE1xcks1QzRNN1dYX0M1MmpFV3J6c3NMNTZ3ZWZFdDdGSERWaWlnS0ZjVHI0RmhJdEgzejN6ZS1xOUY4cGtxNmJ0cnBVZHFWaERDd0ZxeklpdUNwS1VVTldmVkVzWGZkc3BqeGJnMHpkQ1IwVWYxMzU4M1BUcEt2X2xoTGlwcQ"
-    },
-    {
-      "title": "Oil continues to rise, the Federal Reserve, Nvidia's big week and more in Morning Squawk - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQM3poNldUYkhuSGxpWVM2dE84OGxRRGxQeWhrTlJuWjRXVVpBdEQyMndMb1E1a0FaUVh2SEo3bkVYTTFyeG5jM1B5RksxVlFWT3R3ZnBPQWQzcnFIREUtWG5fOXk3OGF2QTNoVXpBeEFLUEZSMFhKS08wendKNUc5LV92Z9IBiAFBVV95cUxNR0xDeWZpQmRCbnBTTjF5Nk0xWXA2T0JZZV94SkY1Y1ZfTk5QODFBeks4Nl93SmM0dVpFSzlDaUVxZDJBNTJBOXpZZ2NBM2xhSGQ1bXVrV3p0VWtua1JUdEotUHpucU1tNVc0ZUtzUHpSOVNjM2pqSmFpSXJkQ1hTOHNLMUl4Z3RV?oc=5",
-      "source": "CNBC",
-      "published_at": "Mon, 16 Mar 2026 11:59:54 GMT",
-      "summary": "Oil continues to rise, the Federal Reserve, Nvidia's big week and more in Morning Squawk CNBC",
-      "guid": "CBMigwFBVV95cUxQM3poNldUYkhuSGxpWVM2dE84OGxRRGxQeWhrTlJuWjRXVVpBdEQyMndMb1E1a0FaUVh2SEo3bkVYTTFyeG5jM1B5RksxVlFWT3R3ZnBPQWQzcnFIREUtWG5fOXk3OGF2QTNoVXpBeEFLUEZSMFhKS08wendKNUc5LV92Z9IBiAFBVV95cUxNR0xDeWZpQmRCbnBTTjF5Nk0xWXA2T0JZZV94SkY1Y1ZfTk5QODFBeks4Nl93SmM0dVpFSzlDaUVxZDJBNTJBOXpZZ2NBM2xhSGQ1bXVrV3p0VWtua1JUdEotUHpucU1tNVc0ZUtzUHpSOVNjM2pqSmFpSXJkQ1hTOHNLMUl4Z3RV"
+      "title": "How Do Changing Interest Rates Affect the Stock Market? - U.S. Bank",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVVJpa2pCR3B0TmxRZGlpSmRZaFctZ21ybGtrVUVBMFozZ0xiSGFRY0ZZdGNWaV80dnhHUTR2TTVoSnZEU190aGtMamY2MDAxT0hYYzRXcUl5OUEyOGRGYWlBbm54T3ppaEZWRWtyV01EOEJGcVRaM2xROWlCX2FxSFYxX1NXeUQwZmJLS3pqcGhCWjR5RVJrNlhmbUtRcy1EUGJLaFI4UTNkUHg4emNPUE95cTc0bnlDcklaaG5EcWhBeVU?oc=5",
+      "source": "U.S. Bank",
+      "published_at": "Fri, 30 Jan 2026 08:00:00 GMT",
+      "summary": "How Do Changing Interest Rates Affect the Stock Market? U.S. Bank",
+      "guid": "CBMiwwFBVV95cUxQVVJpa2pCR3B0TmxRZGlpSmRZaFctZ21ybGtrVUVBMFozZ0xiSGFRY0ZZdGNWaV80dnhHUTR2TTVoSnZEU190aGtMamY2MDAxT0hYYzRXcUl5OUEyOGRGYWlBbm54T3ppaEZWRWtyV01EOEJGcVRaM2xROWlCX2FxSFYxX1NXeUQwZmJLS3pqcGhCWjR5RVJrNlhmbUtRcy1EUGJLaFI4UTNkUHg4emNPUE95cTc0bnlDcklaaG5EcWhBeVU"
     },
     {
       "title": "Economic expert Greg Faranello previews this week’s Federal Reserve meeting - qz.com",
@@ -55,6 +47,14 @@
       "guid": "CBMi7gFBVV95cUxNR3pjYk9yQ1Y4X0tzb2dwUmFsbmtmMXBsV251LTBrblhYdUd4ZC1MeV9ja0NvZHRYWDM4alZzUFlvUzFicTNMMGxTNE9vd0ZneHF6M1lJbzdoUjJ3cXhCRjVwZ28wMFRIVGJoOHRSb0gzTnd5ZWJaNENBR0pZdGhIc0wzenpDY2IzVzMzamM1UHpuSXFZTWJCOGFlcHg2MHM2dUFmaldkNHNVLUNoSFk2cURwUC1Cb1lldzF0cVNfM052ODl2ZmFEMC1aMWRFNmFiZldlZ2pxUDRCck5pa0U4eWFCOGJKRnozaF9FYm530gHzAUFVX3lxTE1ZRzRLRVA1YzhFamFuM2c5SHVhR2FoejB3R2JsV01TUElyTTZ1NVdXT19RX1FvSWVBenVON1NXNFJrWmNvU1R6enF6cldJS1M0blNYdi1YUEd6TWJZN1JzaXoxSXRMb2VZekJTNU1lU1lqQUpjTmFxSmNibm9GVzk3WDZ4ZkhZc01Od1MxNXFiTmRIdHJiVUtTWllLSTNMQUNtRXBmZWNhdkpVeWVNRlZheXFWamR3WXU0RTRTMERJX1pPbmFValpNcnlsdVBXRWJYRVBTSHZ5SlNpdkEtbm44T2I0NHJFM2wwTUEtYjFMbXU5TQ"
     },
     {
+      "title": "Market Reactions to Tariff Announcements - Federal Reserve Bank of San Francisco",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM1dfLWVxeDJGbVNDYU9vWU8xOW5Fbk9rWk5KREtjbWFDcWFfdzAyVE5WMDhINUpWbWVDVWZmRHBSSlN3blk5alBHd3B1RE5JSmVMRTd3SXhNQmZWdDllUDFCU1lwTk9zcmpBSmhmazM5OEhIWEVHMlhHTDY4M1luNXJ5TExQbi1RMjBLbmpZd3BqLU1zanlvM0hvVWhVcWtiSWZBOV9ENTJmTWUtQzIxdmprYlpGNnJzQk11T1ZfWQ?oc=5",
+      "source": "Federal Reserve Bank of San Francisco",
+      "published_at": "Mon, 06 Oct 2025 07:00:00 GMT",
+      "summary": "Market Reactions to Tariff Announcements Federal Reserve Bank of San Francisco",
+      "guid": "CBMivwFBVV95cUxOM1dfLWVxeDJGbVNDYU9vWU8xOW5Fbk9rWk5KREtjbWFDcWFfdzAyVE5WMDhINUpWbWVDVWZmRHBSSlN3blk5alBHd3B1RE5JSmVMRTd3SXhNQmZWdDllUDFCU1lwTk9zcmpBSmhmazM5OEhIWEVHMlhHTDY4M1luNXJ5TExQbi1RMjBLbmpZd3BqLU1zanlvM0hvVWhVcWtiSWZBOV9ENTJmTWUtQzIxdmprYlpGNnJzQk11T1ZfWQ"
+    },
+    {
       "title": "5 Things to Know Before the Stock Market Opens - Investopedia",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNUpuVlFLcmtPVURCNmFkdDlNRUlqQjdYd3RORlRDUjJjNVRkVUZqWlJCaUE2b2FEcGRWVHRVUTZfVlNOS1UtaHl4TmdEQlVBMnN1Nl9GSTlDU3BuN29xLURNekZwYzhOTUdnZGtNNEJEcDQyU0dPX2RiVnpYbzhiZTZ2ekstUFhlTnpkX1pEMFNIQlo2d0NqalhydHpXejA?oc=5",
       "source": "Investopedia",
@@ -63,12 +63,12 @@
       "guid": "CBMinwFBVV95cUxNNUpuVlFLcmtPVURCNmFkdDlNRUlqQjdYd3RORlRDUjJjNVRkVUZqWlJCaUE2b2FEcGRWVHRVUTZfVlNOS1UtaHl4TmdEQlVBMnN1Nl9GSTlDU3BuN29xLURNekZwYzhOTUdnZGtNNEJEcDQyU0dPX2RiVnpYbzhiZTZ2ekstUFhlTnpkX1pEMFNIQlo2d0NqalhydHpXejA"
     },
     {
-      "title": "Market Reactions to Tariff Announcements - Federal Reserve Bank of San Francisco",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM1dfLWVxeDJGbVNDYU9vWU8xOW5Fbk9rWk5KREtjbWFDcWFfdzAyVE5WMDhINUpWbWVDVWZmRHBSSlN3blk5alBHd3B1RE5JSmVMRTd3SXhNQmZWdDllUDFCU1lwTk9zcmpBSmhmazM5OEhIWEVHMlhHTDY4M1luNXJ5TExQbi1RMjBLbmpZd3BqLU1zanlvM0hvVWhVcWtiSWZBOV9ENTJmTWUtQzIxdmprYlpGNnJzQk11T1ZfWQ?oc=5",
-      "source": "Federal Reserve Bank of San Francisco",
-      "published_at": "Mon, 06 Oct 2025 07:00:00 GMT",
-      "summary": "Market Reactions to Tariff Announcements Federal Reserve Bank of San Francisco",
-      "guid": "CBMivwFBVV95cUxOM1dfLWVxeDJGbVNDYU9vWU8xOW5Fbk9rWk5KREtjbWFDcWFfdzAyVE5WMDhINUpWbWVDVWZmRHBSSlN3blk5alBHd3B1RE5JSmVMRTd3SXhNQmZWdDllUDFCU1lwTk9zcmpBSmhmazM5OEhIWEVHMlhHTDY4M1luNXJ5TExQbi1RMjBLbmpZd3BqLU1zanlvM0hvVWhVcWtiSWZBOV9ENTJmTWUtQzIxdmprYlpGNnJzQk11T1ZfWQ"
+      "title": "Will the Stock Market Crash in 2026? The Federal Reserve Sends a Silent Warning to Investors. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTUdXZ2dsYzlSb3paNUZIRDJ2VUR5LWp1NWFPRUpGUHc0V0txVXVVMkYzMTl6aUlUMHdHLUdHRlg2ZXdEdWJuZm90dS1wMlFlLThNQjRSTVhub0pLWXRnN0FUODBGTURieXlMNkZVUXJiRzFFU1hzS25HX1lrWmFCcktpTQ?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Wed, 24 Dec 2025 08:00:00 GMT",
+      "summary": "Will the Stock Market Crash in 2026? The Federal Reserve Sends a Silent Warning to Investors. Yahoo Finance",
+      "guid": "CBMigwFBVV95cUxQTUdXZ2dsYzlSb3paNUZIRDJ2VUR5LWp1NWFPRUpGUHc0V0txVXVVMkYzMTl6aUlUMHdHLUdHRlg2ZXdEdWJuZm90dS1wMlFlLThNQjRSTVhub0pLWXRnN0FUODBGTURieXlMNkZVUXJiRzFFU1hzS25HX1lrWmFCcktpTQ"
     },
     {
       "title": "The Stock Market Sounds an Alarm for the First Time in 25 Years. Here Is What History Says the S&P 500 Will Do in 2026. - The Motley Fool",
@@ -79,12 +79,12 @@
       "guid": "CBMimAFBVV95cUxNZ3AzaWZfTnZvR0ZqaHZfYlFpUDJTUkFIbHZ1THN1azg1WG5mNnlvOW1sM1cyakVLN1FTWDJ4Q1FqUS1sMnFIck55QkJNZXY5Wm03TG1vaGkxQlM5S1d1QUFFNFlwbXpuUGVrUDZDQlZadnZFRDJiRkwzeGtWWjFIT3licFB2TWNEZkZ3dTloZ0xKcGtwb1pJVg"
     },
     {
-      "title": "Will the Stock Market Crash in 2026? The Federal Reserve Sends a Silent Warning to Investors. - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTUdXZ2dsYzlSb3paNUZIRDJ2VUR5LWp1NWFPRUpGUHc0V0txVXVVMkYzMTl6aUlUMHdHLUdHRlg2ZXdEdWJuZm90dS1wMlFlLThNQjRSTVhub0pLWXRnN0FUODBGTURieXlMNkZVUXJiRzFFU1hzS25HX1lrWmFCcktpTQ?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Wed, 24 Dec 2025 08:00:00 GMT",
-      "summary": "Will the Stock Market Crash in 2026? The Federal Reserve Sends a Silent Warning to Investors. Yahoo Finance",
-      "guid": "CBMigwFBVV95cUxQTUdXZ2dsYzlSb3paNUZIRDJ2VUR5LWp1NWFPRUpGUHc0V0txVXVVMkYzMTl6aUlUMHdHLUdHRlg2ZXdEdWJuZm90dS1wMlFlLThNQjRSTVhub0pLWXRnN0FUODBGTURieXlMNkZVUXJiRzFFU1hzS25HX1lrWmFCcktpTQ"
+      "title": "Oil continues to rise, the Federal Reserve, Nvidia's big week and more in Morning Squawk - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQM3poNldUYkhuSGxpWVM2dE84OGxRRGxQeWhrTlJuWjRXVVpBdEQyMndMb1E1a0FaUVh2SEo3bkVYTTFyeG5jM1B5RksxVlFWT3R3ZnBPQWQzcnFIREUtWG5fOXk3OGF2QTNoVXpBeEFLUEZSMFhKS08wendKNUc5LV92Z9IBiAFBVV95cUxNR0xDeWZpQmRCbnBTTjF5Nk0xWXA2T0JZZV94SkY1Y1ZfTk5QODFBeks4Nl93SmM0dVpFSzlDaUVxZDJBNTJBOXpZZ2NBM2xhSGQ1bXVrV3p0VWtua1JUdEotUHpucU1tNVc0ZUtzUHpSOVNjM2pqSmFpSXJkQ1hTOHNLMUl4Z3RV?oc=5",
+      "source": "CNBC",
+      "published_at": "Mon, 16 Mar 2026 11:59:54 GMT",
+      "summary": "Oil continues to rise, the Federal Reserve, Nvidia's big week and more in Morning Squawk CNBC",
+      "guid": "CBMigwFBVV95cUxQM3poNldUYkhuSGxpWVM2dE84OGxRRGxQeWhrTlJuWjRXVVpBdEQyMndMb1E1a0FaUVh2SEo3bkVYTTFyeG5jM1B5RksxVlFWT3R3ZnBPQWQzcnFIREUtWG5fOXk3OGF2QTNoVXpBeEFLUEZSMFhKS08wendKNUc5LV92Z9IBiAFBVV95cUxNR0xDeWZpQmRCbnBTTjF5Nk0xWXA2T0JZZV94SkY1Y1ZfTk5QODFBeks4Nl93SmM0dVpFSzlDaUVxZDJBNTJBOXpZZ2NBM2xhSGQ1bXVrV3p0VWtua1JUdEotUHpucU1tNVc0ZUtzUHpSOVNjM2pqSmFpSXJkQ1hTOHNLMUl4Z3RV"
     }
   ]
 }
