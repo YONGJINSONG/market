@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-03-17T21:27:01Z",
+  "generated_at": "2026-03-17T22:00:49Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "Stock Market Today, March 17: Markets Edge Upwards as Fed Meeting Opens - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaHZnZThJZUtFSnZ6OUZvcW8yVHVySVFRVkk4dUNoUk1WQ1hWeXNhSkQ5LWRpSElBV0NBTGhjOV9XSXNtbC0tY0E3ZDhqT0R5d2ljT1NYaFJ2dERmVThQWWdDa0VaenV1VlpOcG0wNVE5V1VzNmNwN1lyUE9jZjVsc3J5S2RkX3BaSmtkX1NuNDEyZi1HaU9LRWphMV9mWVV0elp1by0wa18wR0JyYzRHbThTR05xelN6bmdNMnZ6MEFmUUZ6UEpBUHRR?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Tue, 17 Mar 2026 21:22:50 GMT",
+      "summary": "Stock Market Today, March 17: Markets Edge Upwards as Fed Meeting Opens The Motley Fool",
+      "guid": "CBMiygFBVV95cUxOaHZnZThJZUtFSnZ6OUZvcW8yVHVySVFRVkk4dUNoUk1WQ1hWeXNhSkQ5LWRpSElBV0NBTGhjOV9XSXNtbC0tY0E3ZDhqT0R5d2ljT1NYaFJ2dERmVThQWWdDa0VaenV1VlpOcG0wNVE5V1VzNmNwN1lyUE9jZjVsc3J5S2RkX3BaSmtkX1NuNDEyZi1HaU9LRWphMV9mWVV0elp1by0wa18wR0JyYzRHbThTR05xelN6bmdNMnZ6MEFmUUZ6UEpBUHRR"
+    },
     {
       "title": "Weekly market commentary - blackrock.com",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
@@ -15,20 +23,20 @@
       "guid": "CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw"
     },
     {
-      "title": "The Federal Reserve Has Become a Stock Market Liability, and President Trump's New Nominee for Chair Won't Help - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOUN5MHFlVmh2ZFI3eXp1ODZCS0E1WGZNdkt4Q1lWZHBXY1N4bXl4bjk3VGRoUU83Rk9tRzNsOGJ6SWx4Ukk0eTRhOUZ2aHZnVDFOQkg3d3JuNEp6SjV0RUFYUzVBN003V0U2SmFEczdJd3FZWnRaVnY2ZG1pVjI1Zl9jcXhGSV9fUW8xTHZEbmFCNnJONjBR?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Mon, 16 Mar 2026 16:33:00 GMT",
-      "summary": "The Federal Reserve Has Become a Stock Market Liability, and President Trump's New Nominee for Chair Won't Help The Motley Fool",
-      "guid": "CBMilwFBVV95cUxOOUN5MHFlVmh2ZFI3eXp1ODZCS0E1WGZNdkt4Q1lWZHBXY1N4bXl4bjk3VGRoUU83Rk9tRzNsOGJ6SWx4Ukk0eTRhOUZ2aHZnVDFOQkg3d3JuNEp6SjV0RUFYUzVBN003V0U2SmFEczdJd3FZWnRaVnY2ZG1pVjI1Zl9jcXhGSV9fUW8xTHZEbmFCNnJONjBR"
+      "title": "The Federal Reserve Has Become a Stock Market Liability, and President Trump's New Nominee for Chair Won't Help - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaXkyeVlWbEhaRk9wczFpNk80UG9Td2lqeTNxa3hxd19GOE1kRUQzQ0xNaFIxNWRXUm8wSngtYUtMeFhuV1J3b0lPMm5zcUlKYi16YW1ic00zZU1aUUFTUV9ULXlva1lEU0hlM1UzSFBWVFhJMFFCNEVWRGtYcDlqcklMdzlTQ28?oc=5",
+      "source": "AOL.com",
+      "published_at": "Mon, 16 Mar 2026 22:20:10 GMT",
+      "summary": "The Federal Reserve Has Become a Stock Market Liability, and President Trump's New Nominee for Chair Won't Help AOL.com",
+      "guid": "CBMihwFBVV95cUxQaXkyeVlWbEhaRk9wczFpNk80UG9Td2lqeTNxa3hxd19GOE1kRUQzQ0xNaFIxNWRXUm8wSngtYUtMeFhuV1J3b0lPMm5zcUlKYi16YW1ic00zZU1aUUFTUV9ULXlva1lEU0hlM1UzSFBWVFhJMFFCNEVWRGtYcDlqcklMdzlTQ28"
     },
     {
-      "title": "Federal Reserve Calibrates Interest Rate Policy Amid Softer Hiring and Lingering Inflation - U.S. Bank",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa2V2OFo4WjFPclRZRGtjZXJvb3dsaDVUM3FjRnVCTkxfX184eHRyQjJ2NFlDc09TUlZrUDZGUzQzTjgyV1drNG9PSnc2Y0RELWZ5LVktLTlFcGFFa2s0Qm04RzRoYjNRSE9aSGw3aDljNFEyUEZJS1RNa203WlBLdmxxS2lWNmNXT0pRZGdDcGdqdEZ1YmMxN2lhci1RdVRMTEJtWE5wM3RJSFhGMXJjMjdqZw?oc=5",
-      "source": "U.S. Bank",
-      "published_at": "Fri, 30 Jan 2026 08:00:00 GMT",
-      "summary": "Federal Reserve Calibrates Interest Rate Policy Amid Softer Hiring and Lingering Inflation U.S. Bank",
-      "guid": "CBMiswFBVV95cUxOa2V2OFo4WjFPclRZRGtjZXJvb3dsaDVUM3FjRnVCTkxfX184eHRyQjJ2NFlDc09TUlZrUDZGUzQzTjgyV1drNG9PSnc2Y0RELWZ5LVktLTlFcGFFa2s0Qm04RzRoYjNRSE9aSGw3aDljNFEyUEZJS1RNa203WlBLdmxxS2lWNmNXT0pRZGdDcGdqdEZ1YmMxN2lhci1RdVRMTEJtWE5wM3RJSFhGMXJjMjdqZw"
+      "title": "US stocks: Wall Street closes higher as traders turn to Federal Reserve - The Business Times",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOLXNaM0hwZmplTVhtN1ZneUp5bnE2Q0pZcXF1Ty1xWFZ4dDBsVXVqZS1RTU91aFJWLUJnTkNSM0pKV1o0QW1RR09GdzlzOHl3R1FIQnVTSjdKWk9jcEUyX2lqMnY5c1lzVmRXMEg3OExlNjNlZnVLMVAtVXAxZDJMTmx0cmxJQkkyaXRhS21jN04wb1l6SUFSd3pTbUNPNGJrQXBRYUIyOG9BY1NfRjVFLXpfVFZfdG40VTI0b2NIUzMwM3k4bzdHaEV0b2tsbFh5VHZnNFFjbWp5UQ?oc=5",
+      "source": "The Business Times",
+      "published_at": "Tue, 17 Mar 2026 21:54:00 GMT",
+      "summary": "US stocks: Wall Street closes higher as traders turn to Federal Reserve The Business Times",
+      "guid": "CBMi2gFBVV95cUxOLXNaM0hwZmplTVhtN1ZneUp5bnE2Q0pZcXF1Ty1xWFZ4dDBsVXVqZS1RTU91aFJWLUJnTkNSM0pKV1o0QW1RR09GdzlzOHl3R1FIQnVTSjdKWk9jcEUyX2lqMnY5c1lzVmRXMEg3OExlNjNlZnVLMVAtVXAxZDJMTmx0cmxJQkkyaXRhS21jN04wb1l6SUFSd3pTbUNPNGJrQXBRYUIyOG9BY1NfRjVFLXpfVFZfdG40VTI0b2NIUzMwM3k4bzdHaEV0b2tsbFh5VHZnNFFjbWp5UQ"
     },
     {
       "title": "US stock market today: Dow, S&P 500 futures slip as Brent crude oil prices rebound to $105 - Mint",
@@ -37,14 +45,6 @@
       "published_at": "Tue, 17 Mar 2026 12:37:38 GMT",
       "summary": "US stock market today: Dow, S&P 500 futures slip as Brent crude oil prices rebound to $105 Mint",
       "guid": "CBMi7gFBVV95cUxNR3pjYk9yQ1Y4X0tzb2dwUmFsbmtmMXBsV251LTBrblhYdUd4ZC1MeV9ja0NvZHRYWDM4alZzUFlvUzFicTNMMGxTNE9vd0ZneHF6M1lJbzdoUjJ3cXhCRjVwZ28wMFRIVGJoOHRSb0gzTnd5ZWJaNENBR0pZdGhIc0wzenpDY2IzVzMzamM1UHpuSXFZTWJCOGFlcHg2MHM2dUFmaldkNHNVLUNoSFk2cURwUC1Cb1lldzF0cVNfM052ODl2ZmFEMC1aMWRFNmFiZldlZ2pxUDRCck5pa0U4eWFCOGJKRnozaF9FYm530gHzAUFVX3lxTE1ZRzRLRVA1YzhFamFuM2c5SHVhR2FoejB3R2JsV01TUElyTTZ1NVdXT19RX1FvSWVBenVON1NXNFJrWmNvU1R6enF6cldJS1M0blNYdi1YUEd6TWJZN1JzaXoxSXRMb2VZekJTNU1lU1lqQUpjTmFxSmNibm9GVzk3WDZ4ZkhZc01Od1MxNXFiTmRIdHJiVUtTWllLSTNMQUNtRXBmZWNhdkpVeWVNRlZheXFWamR3WXU0RTRTMERJX1pPbmFValpNcnlsdVBXRWJYRVBTSHZ5SlNpdkEtbm44T2I0NHJFM2wwTUEtYjFMbXU5TQ"
-    },
-    {
-      "title": "Market Reactions to Tariff Announcements - Federal Reserve Bank of San Francisco",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM1dfLWVxeDJGbVNDYU9vWU8xOW5Fbk9rWk5KREtjbWFDcWFfdzAyVE5WMDhINUpWbWVDVWZmRHBSSlN3blk5alBHd3B1RE5JSmVMRTd3SXhNQmZWdDllUDFCU1lwTk9zcmpBSmhmazM5OEhIWEVHMlhHTDY4M1luNXJ5TExQbi1RMjBLbmpZd3BqLU1zanlvM0hvVWhVcWtiSWZBOV9ENTJmTWUtQzIxdmprYlpGNnJzQk11T1ZfWQ?oc=5",
-      "source": "Federal Reserve Bank of San Francisco",
-      "published_at": "Mon, 06 Oct 2025 07:00:00 GMT",
-      "summary": "Market Reactions to Tariff Announcements Federal Reserve Bank of San Francisco",
-      "guid": "CBMivwFBVV95cUxOM1dfLWVxeDJGbVNDYU9vWU8xOW5Fbk9rWk5KREtjbWFDcWFfdzAyVE5WMDhINUpWbWVDVWZmRHBSSlN3blk5alBHd3B1RE5JSmVMRTd3SXhNQmZWdDllUDFCU1lwTk9zcmpBSmhmazM5OEhIWEVHMlhHTDY4M1luNXJ5TExQbi1RMjBLbmpZd3BqLU1zanlvM0hvVWhVcWtiSWZBOV9ENTJmTWUtQzIxdmprYlpGNnJzQk11T1ZfWQ"
     },
     {
       "title": "Economic expert Greg Faranello previews this week’s Federal Reserve meeting - qz.com",
@@ -71,20 +71,20 @@
       "guid": "CBMigwFBVV95cUxQM3poNldUYkhuSGxpWVM2dE84OGxRRGxQeWhrTlJuWjRXVVpBdEQyMndMb1E1a0FaUVh2SEo3bkVYTTFyeG5jM1B5RksxVlFWT3R3ZnBPQWQzcnFIREUtWG5fOXk3OGF2QTNoVXpBeEFLUEZSMFhKS08wendKNUc5LV92Z9IBiAFBVV95cUxNR0xDeWZpQmRCbnBTTjF5Nk0xWXA2T0JZZV94SkY1Y1ZfTk5QODFBeks4Nl93SmM0dVpFSzlDaUVxZDJBNTJBOXpZZ2NBM2xhSGQ1bXVrV3p0VWtua1JUdEotUHpucU1tNVc0ZUtzUHpSOVNjM2pqSmFpSXJkQ1hTOHNLMUl4Z3RV"
     },
     {
-      "title": "Stock Market Today, March 16: Nasdaq Gains 1% Stocks on Easing Oil Prices and AI Optimism - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMy1jQm9iWWR4eVFSRXp3M3p3dFJqd1I1aWJ3NHZ4VXUwVDRYZ3E5dG1EMjlveHZBYjhZeWxSNUc0YjdBdnhDLTUtRC1jaGxjZTBBY1NHM2pwZV9TTmNDNDNKUi1ZYzJhWlhndTF4UlgyVzZLS195NnFhTHMzb2x5T0k4M0VrOXpYWlU0SVpLUG5WSm5qWjdjbkxwaXdIWFA1WGxLU21FNTRrR0I5dy1ZVktnbVBNRnY3SGJ4SUE3N05oX0lSUHFFWVdyOWx6X2ZWcC14NGlxbmtXWFUxMF9lSg?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Mon, 16 Mar 2026 21:51:58 GMT",
-      "summary": "Stock Market Today, March 16: Nasdaq Gains 1% Stocks on Easing Oil Prices and AI Optimism The Motley Fool",
-      "guid": "CBMi4AFBVV95cUxQMy1jQm9iWWR4eVFSRXp3M3p3dFJqd1I1aWJ3NHZ4VXUwVDRYZ3E5dG1EMjlveHZBYjhZeWxSNUc0YjdBdnhDLTUtRC1jaGxjZTBBY1NHM2pwZV9TTmNDNDNKUi1ZYzJhWlhndTF4UlgyVzZLS195NnFhTHMzb2x5T0k4M0VrOXpYWlU0SVpLUG5WSm5qWjdjbkxwaXdIWFA1WGxLU21FNTRrR0I5dy1ZVktnbVBNRnY3SGJ4SUE3N05oX0lSUHFFWVdyOWx6X2ZWcC14NGlxbmtXWFUxMF9lSg"
-    },
-    {
       "title": "The Stock Market Has a Serious Federal Reserve Problem -- and It's Not What You Think It Is - AOL.com",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5QaE82eG1SVUI5OXhSWVNERUFXVFpBRUdNY0UwOUJ0dTNIak9MRVAzZUEwMFV2SFAtSzREeGROd216WmNtY2FPSXI5N2YtdEdyaU01Rk9YNENPVnYtQThIWENncEJueV9rR0pVYzJQSmJQNlhQWFpHUXF2cw?oc=5",
       "source": "AOL.com",
       "published_at": "Sun, 15 Mar 2026 20:15:20 GMT",
       "summary": "The Stock Market Has a Serious Federal Reserve Problem -- and It's Not What You Think It Is AOL.com",
       "guid": "CBMie0FVX3lxTE5QaE82eG1SVUI5OXhSWVNERUFXVFpBRUdNY0UwOUJ0dTNIak9MRVAzZUEwMFV2SFAtSzREeGROd216WmNtY2FPSXI5N2YtdEdyaU01Rk9YNENPVnYtQThIWENncEJueV9rR0pVYzJQSmJQNlhQWFpHUXF2cw"
+    },
+    {
+      "title": "Stock Market Today, March 16: Nasdaq Gains 1% Stocks on Easing Oil Prices and AI Optimism - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMy1jQm9iWWR4eVFSRXp3M3p3dFJqd1I1aWJ3NHZ4VXUwVDRYZ3E5dG1EMjlveHZBYjhZeWxSNUc0YjdBdnhDLTUtRC1jaGxjZTBBY1NHM2pwZV9TTmNDNDNKUi1ZYzJhWlhndTF4UlgyVzZLS195NnFhTHMzb2x5T0k4M0VrOXpYWlU0SVpLUG5WSm5qWjdjbkxwaXdIWFA1WGxLU21FNTRrR0I5dy1ZVktnbVBNRnY3SGJ4SUE3N05oX0lSUHFFWVdyOWx6X2ZWcC14NGlxbmtXWFUxMF9lSg?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Mon, 16 Mar 2026 21:51:58 GMT",
+      "summary": "Stock Market Today, March 16: Nasdaq Gains 1% Stocks on Easing Oil Prices and AI Optimism The Motley Fool",
+      "guid": "CBMi4AFBVV95cUxQMy1jQm9iWWR4eVFSRXp3M3p3dFJqd1I1aWJ3NHZ4VXUwVDRYZ3E5dG1EMjlveHZBYjhZeWxSNUc0YjdBdnhDLTUtRC1jaGxjZTBBY1NHM2pwZV9TTmNDNDNKUi1ZYzJhWlhndTF4UlgyVzZLS195NnFhTHMzb2x5T0k4M0VrOXpYWlU0SVpLUG5WSm5qWjdjbkxwaXdIWFA1WGxLU21FNTRrR0I5dy1ZVktnbVBNRnY3SGJ4SUE3N05oX0lSUHFFWVdyOWx6X2ZWcC14NGlxbmtXWFUxMF9lSg"
     }
   ]
 }
