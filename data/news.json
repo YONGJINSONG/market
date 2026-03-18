@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T05:21:53Z",
+  "generated_at": "2026-03-18T06:37:10Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,28 +7,12 @@
   },
   "items": [
     {
-      "title": "Asian stocks rally as oil retreats, Fed in spotlight - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSEpORkJXQVg4TGs3UjRILWVSSWdwNUc4RVJvWG14U3M5anN0Wk03a3poU0tSLS0xQ3kyNG5iZ2xXd1ZvbldraVRVV054V1ktaE9mSkJuYnBmenFaTDlvcW5zSFhMLXVfRkRwcXNHOFVBTFFLSWFQcWZtc2Z4cFlNTGlpcw?oc=5",
-      "source": "Reuters",
-      "published_at": "Wed, 18 Mar 2026 02:24:00 GMT",
-      "summary": "Asian stocks rally as oil retreats, Fed in spotlight Reuters",
-      "guid": "CBMigwFBVV95cUxNSEpORkJXQVg4TGs3UjRILWVSSWdwNUc4RVJvWG14U3M5anN0Wk03a3poU0tSLS0xQ3kyNG5iZ2xXd1ZvbldraVRVV054V1ktaE9mSkJuYnBmenFaTDlvcW5zSFhMLXVfRkRwcXNHOFVBTFFLSWFQcWZtc2Z4cFlNTGlpcw"
-    },
-    {
       "title": "The Federal Reserve Has Become a Stock Market Liability, and President Trump's New Nominee for Chair Won't Help - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOUN5MHFlVmh2ZFI3eXp1ODZCS0E1WGZNdkt4Q1lWZHBXY1N4bXl4bjk3VGRoUU83Rk9tRzNsOGJ6SWx4Ukk0eTRhOUZ2aHZnVDFOQkg3d3JuNEp6SjV0RUFYUzVBN003V0U2SmFEczdJd3FZWnRaVnY2ZG1pVjI1Zl9jcXhGSV9fUW8xTHZEbmFCNnJONjBR?oc=5",
       "source": "The Motley Fool",
       "published_at": "Mon, 16 Mar 2026 16:33:00 GMT",
       "summary": "The Federal Reserve Has Become a Stock Market Liability, and President Trump's New Nominee for Chair Won't Help The Motley Fool",
       "guid": "CBMilwFBVV95cUxOOUN5MHFlVmh2ZFI3eXp1ODZCS0E1WGZNdkt4Q1lWZHBXY1N4bXl4bjk3VGRoUU83Rk9tRzNsOGJ6SWx4Ukk0eTRhOUZ2aHZnVDFOQkg3d3JuNEp6SjV0RUFYUzVBN003V0U2SmFEczdJd3FZWnRaVnY2ZG1pVjI1Zl9jcXhGSV9fUW8xTHZEbmFCNnJONjBR"
-    },
-    {
-      "title": "Weekly market commentary - blackrock.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
-      "source": "blackrock.com",
-      "published_at": "Mon, 16 Mar 2026 07:00:00 GMT",
-      "summary": "Weekly market commentary blackrock.com",
-      "guid": "CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw"
     },
     {
       "title": "Scatterplot of Inflation and the Share of Relative Price Increases - Federal Reserve Bank of Richmond",
@@ -63,6 +47,14 @@
       "guid": "CBMirgFBVV95cUxQdk9zVk05M2Vwd1BQSDZCNElkakV3VmVOUGNZU2JYNi1EbGdBVTE1QlBxNjJSOFdramdCX09hQnBTWlBFbm1xS2dDbGRVdFFUd083RUtoVDBMUUdjV19mUThTZ1FwQ2ViQmRUVU16UElzVC02Z0RwSXN2SmkzUm1jYS1lS0FlbUVOeGRUdUxvdFR3WVdobTE2YVRRMnFnZHI5R0RvVzJCVWthSzZzdkE"
     },
     {
+      "title": "Market Reactions to Tariff Announcements - Federal Reserve Bank of San Francisco",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM1dfLWVxeDJGbVNDYU9vWU8xOW5Fbk9rWk5KREtjbWFDcWFfdzAyVE5WMDhINUpWbWVDVWZmRHBSSlN3blk5alBHd3B1RE5JSmVMRTd3SXhNQmZWdDllUDFCU1lwTk9zcmpBSmhmazM5OEhIWEVHMlhHTDY4M1luNXJ5TExQbi1RMjBLbmpZd3BqLU1zanlvM0hvVWhVcWtiSWZBOV9ENTJmTWUtQzIxdmprYlpGNnJzQk11T1ZfWQ?oc=5",
+      "source": "Federal Reserve Bank of San Francisco",
+      "published_at": "Mon, 06 Oct 2025 07:00:00 GMT",
+      "summary": "Market Reactions to Tariff Announcements Federal Reserve Bank of San Francisco",
+      "guid": "CBMivwFBVV95cUxOM1dfLWVxeDJGbVNDYU9vWU8xOW5Fbk9rWk5KREtjbWFDcWFfdzAyVE5WMDhINUpWbWVDVWZmRHBSSlN3blk5alBHd3B1RE5JSmVMRTd3SXhNQmZWdDllUDFCU1lwTk9zcmpBSmhmazM5OEhIWEVHMlhHTDY4M1luNXJ5TExQbi1RMjBLbmpZd3BqLU1zanlvM0hvVWhVcWtiSWZBOV9ENTJmTWUtQzIxdmprYlpGNnJzQk11T1ZfWQ"
+    },
+    {
       "title": "5 Things to Know Before the Stock Market Opens - Investopedia",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNUpuVlFLcmtPVURCNmFkdDlNRUlqQjdYd3RORlRDUjJjNVRkVUZqWlJCaUE2b2FEcGRWVHRVUTZfVlNOS1UtaHl4TmdEQlVBMnN1Nl9GSTlDU3BuN29xLURNekZwYzhOTUdnZGtNNEJEcDQyU0dPX2RiVnpYbzhiZTZ2ekstUFhlTnpkX1pEMFNIQlo2d0NqalhydHpXejA?oc=5",
       "source": "Investopedia",
@@ -85,6 +77,14 @@
       "published_at": "Mon, 16 Mar 2026 11:59:54 GMT",
       "summary": "Oil continues to rise, the Federal Reserve, Nvidia's big week and more in Morning Squawk CNBC",
       "guid": "CBMigwFBVV95cUxQM3poNldUYkhuSGxpWVM2dE84OGxRRGxQeWhrTlJuWjRXVVpBdEQyMndMb1E1a0FaUVh2SEo3bkVYTTFyeG5jM1B5RksxVlFWT3R3ZnBPQWQzcnFIREUtWG5fOXk3OGF2QTNoVXpBeEFLUEZSMFhKS08wendKNUc5LV92Z9IBiAFBVV95cUxNR0xDeWZpQmRCbnBTTjF5Nk0xWXA2T0JZZV94SkY1Y1ZfTk5QODFBeks4Nl93SmM0dVpFSzlDaUVxZDJBNTJBOXpZZ2NBM2xhSGQ1bXVrV3p0VWtua1JUdEotUHpucU1tNVc0ZUtzUHpSOVNjM2pqSmFpSXJkQ1hTOHNLMUl4Z3RV"
+    },
+    {
+      "title": "Federal Reserve Research: Kalshi Prediction Markets Are Just as Good, if Not Better, Than Traditional Forecasting Methods - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOHc5T2NFWkZTcHFvRmZzU1pwRkNJelBTYjNOWXJpMUFVY183ZzlkNFZvUmF2amtNUTJ3UjRVcmhwdWowcUhGdGljOHhuMi1nNUs3eHVoX3ppVnhuV2RyMUNmZ2ZEaWpZQlZlNENEanBsNHJ4YktTMXBWYWFDQkRhVE53VjdXNm5LVHhrOHVTbkE3dFdpYThmRA?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Mon, 16 Mar 2026 22:30:00 GMT",
+      "summary": "Federal Reserve Research: Kalshi Prediction Markets Are Just as Good, if Not Better, Than Traditional Forecasting Methods The Motley Fool",
+      "guid": "CBMimAFBVV95cUxPOHc5T2NFWkZTcHFvRmZzU1pwRkNJelBTYjNOWXJpMUFVY183ZzlkNFZvUmF2amtNUTJ3UjRVcmhwdWowcUhGdGljOHhuMi1nNUs3eHVoX3ppVnhuV2RyMUNmZ2ZEaWpZQlZlNENEanBsNHJ4YktTMXBWYWFDQkRhVE53VjdXNm5LVHhrOHVTbkE3dFdpYThmRA"
     }
   ]
 }
