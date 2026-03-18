@@ -1,19 +1,11 @@
 {
-  "generated_at": "2026-03-18T16:41:00Z",
+  "generated_at": "2026-03-18T17:43:21Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
-    {
-      "title": "5 Things to Know Before the Stock Market Opens - Investopedia",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYnJvNFI5UUt1NWQ4S1d6a3M3LVR5SXJ3ZUhmS1VZcElxWkZYMTFfQjlhZnBRUlFTQ0JtNm5PUDF5NDdQTUVYYzlYa013NHFOc21nWXhUUmVCVnN3Wm8zT1JRWnE4RVdmQVdEUXpBdEk1WVF4dS1hTHNYTUZKQUN6bUdzR0JkV3hwN0lQS1RNaENMbTA3SEt2aHN4eHotT0k?oc=5",
-      "source": "Investopedia",
-      "published_at": "Wed, 18 Mar 2026 12:14:54 GMT",
-      "summary": "5 Things to Know Before the Stock Market Opens Investopedia",
-      "guid": "CBMinwFBVV95cUxNYnJvNFI5UUt1NWQ4S1d6a3M3LVR5SXJ3ZUhmS1VZcElxWkZYMTFfQjlhZnBRUlFTQ0JtNm5PUDF5NDdQTUVYYzlYa013NHFOc21nWXhUUmVCVnN3Wm8zT1JRWnE4RVdmQVdEUXpBdEk1WVF4dS1hTHNYTUZKQUN6bUdzR0JkV3hwN0lQS1RNaENMbTA3SEt2aHN4eHotT0k"
-    },
     {
       "title": "US stocks drift lower in the countdown to the Federal Reserve's decision as oil prices rise - Idaho Press",
       "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQa2lma09GekJwcUd1SXpZaVg1TENpWi1Tdm03Y0l6ZTk4TGhHMTF3dU9YZ0xXLUc4ai1lZkt6QXpCWTRqd2pzX09sUTlkUGJfaVBaODVDM1VfTlRSREFFZEd0T3NFQ3JCdzBtVVVoX28xVnVyWU5EbnptS1ItNWpYVmV4S01lbnlfUnU2S0hGblpYOGtVcjA2c0gzakZPQ2wzSXoybEFUU2M4ZktobjNvU2pVdFdmei1jdFhVejFVbGNiRmpqdUp3RXhRVWt6ci14dDBIZnhmNHlOTVVpLVVzRktUSUVtUFZFMnU1Ym5QZGc1Rk1zTkNNY0lUdzJ1XzJnT3Rn0gGIAkFVX3lxTE01ZFFQb1Azb2JHTHVSNmNJampSYWVaOGZUQmZqRDRKOFFBaUVZT2Z5ZkV4c2RTMW0tZDFGM2FQQ0xnckFhR1RlUGoxUHcxMTUtNVYyWGxFTDVSR3QwdGVFTkdoX0FNY0Q5YTE1Y3UtTGxBT0hOa2dMLTVrNVI2bW5SbEpkUlVwejRrdjBvUEZSNzdJaWY4a3dEdmIyZ1p6cGM2S01CdDNOTDBiTVExU1JCc2R3ZXdDTWwwRDJ4UDRralJFMDlNZTVGYnd5ZjJlV19VTlBFSmF3OGt3WlRybVE2NHJIY0cxSGhMdTJ6dXFlT3l6QUNJbEc2RWdDbTMtSmJIVERUTlh3dw?oc=5",
@@ -39,14 +31,6 @@
       "guid": "CBMimAFBVV95cUxOT1hQRmNENEtrQ3NhRU91aDlvZHZWcFZ3OG9Fc3VONWwyYWJSMS1yc3pMeHBKcnI5WlFxTlIxSXkyUTNFbHBKb2lYSm5FSE5DSDg0bDBGY2RqYnFnYmZaODZ5UEVUYTA2d3JSWjdhVHNZS0xFZEJRWXpPcGdHT1E4QnlsOTRxR0J5S3hxbXBlTWl4WGZRUFNCMg"
     },
     {
-      "title": "Stock Futures Rise as Investors Await Federal Reserve Decision on Interest Rates - Fine Day 102.3",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeUZIcU9BTFZ4OWM3U2U5UzBocXRQWlV0UmxEQklmRVE3YXVWN3JDdlllaklodDl6ZnpORUZ6UXJtRUJYLUQ4Zkt5dzlJbFNuQ253TXM0U1hUV2IzcDJiTnBJckZrM29kUmZCUWJwNmp2UEgxS3JqOWNRMHh3RWlXaVhfSjZOSFNjZ0VVZUxGMFVwSW1fX1ZIcGxRYWMtN0pzMUJXRGdWR3BJOER1ZWJuNHJKZW9yR3BfTlROOTVWbnRhSmdjek5rMzR5OXZTa2NydDhKSw?oc=5",
-      "source": "Fine Day 102.3",
-      "published_at": "Wed, 18 Mar 2026 10:34:47 GMT",
-      "summary": "Stock Futures Rise as Investors Await Federal Reserve Decision on Interest Rates Fine Day 102.3",
-      "guid": "CBMi1AFBVV95cUxQeUZIcU9BTFZ4OWM3U2U5UzBocXRQWlV0UmxEQklmRVE3YXVWN3JDdlllaklodDl6ZnpORUZ6UXJtRUJYLUQ4Zkt5dzlJbFNuQ253TXM0U1hUV2IzcDJiTnBJckZrM29kUmZCUWJwNmp2UEgxS3JqOWNRMHh3RWlXaVhfSjZOSFNjZ0VVZUxGMFVwSW1fX1ZIcGxRYWMtN0pzMUJXRGdWR3BJOER1ZWJuNHJKZW9yR3BfTlROOTVWbnRhSmdjek5rMzR5OXZTa2NydDhKSw"
-    },
-    {
       "title": "Weekly market commentary - blackrock.com",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
       "source": "blackrock.com",
@@ -55,12 +39,28 @@
       "guid": "CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw"
     },
     {
+      "title": "Stock Futures Rise as Investors Await Federal Reserve Decision on Interest Rates - Fine Day 102.3",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeUZIcU9BTFZ4OWM3U2U5UzBocXRQWlV0UmxEQklmRVE3YXVWN3JDdlllaklodDl6ZnpORUZ6UXJtRUJYLUQ4Zkt5dzlJbFNuQ253TXM0U1hUV2IzcDJiTnBJckZrM29kUmZCUWJwNmp2UEgxS3JqOWNRMHh3RWlXaVhfSjZOSFNjZ0VVZUxGMFVwSW1fX1ZIcGxRYWMtN0pzMUJXRGdWR3BJOER1ZWJuNHJKZW9yR3BfTlROOTVWbnRhSmdjek5rMzR5OXZTa2NydDhKSw?oc=5",
+      "source": "Fine Day 102.3",
+      "published_at": "Wed, 18 Mar 2026 10:34:47 GMT",
+      "summary": "Stock Futures Rise as Investors Await Federal Reserve Decision on Interest Rates Fine Day 102.3",
+      "guid": "CBMi1AFBVV95cUxQeUZIcU9BTFZ4OWM3U2U5UzBocXRQWlV0UmxEQklmRVE3YXVWN3JDdlllaklodDl6ZnpORUZ6UXJtRUJYLUQ4Zkt5dzlJbFNuQ253TXM0U1hUV2IzcDJiTnBJckZrM29kUmZCUWJwNmp2UEgxS3JqOWNRMHh3RWlXaVhfSjZOSFNjZ0VVZUxGMFVwSW1fX1ZIcGxRYWMtN0pzMUJXRGdWR3BJOER1ZWJuNHJKZW9yR3BfTlROOTVWbnRhSmdjek5rMzR5OXZTa2NydDhKSw"
+    },
+    {
       "title": "US Stock Market Today: S&P 500, Nasdaq Slip Ahead Of Federal Reserve's Rate Cut Decision - NDTV Profit",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVzVELTRSWENTZXIzWURYM3B1Mko4b25WTVptZHZxNy01WXBhRlAwOVBoTGxZaEh6WHMzRnVQNDdacHVuT0JfbEgyei1SQVgwMnppWU9jWDhuVk1ic1VCd3QzczBpLThVZzFTTk9ZTzZGeTE3bUxHS2Mxd1FKa3FPdWpaT2MxWUNjYTI1eGZUU1hVczZMdjVyTWJVLXNIRDlCOXZ4YmhwZ3lVZVd5VjUzWktTRFl6clhXdHpfdHIyRjBVQ0NROXfSAc4BQVVfeXFMUHJhT1BGVXpfN2xYc0ZoWjJIclNWUElFYVdXbjZDMmY5dzFXYzlCcy1taS11V0x4Q3RyNmptWnMwZlNpLTlmWEV1RWNmMVdHZnpRMzdiT0xlQWJrZEY3cGNRZ2l3bDBNTkQxQVdlVzB1RkxVLWxSbWNrdjlzaExXc1BXRF9xQzluYTRYWEhxSEtERnVsbkhkX0x5ZERsb0VOYXppcUtxdWVEY29LS0txLWJUOVRIN0pMeXVOYzkzX18yVUVFaFhBYjU1MUx5ZXc?oc=5",
       "source": "NDTV Profit",
       "published_at": "Wed, 18 Mar 2026 13:51:06 GMT",
       "summary": "US Stock Market Today: S&P 500, Nasdaq Slip Ahead Of Federal Reserve's Rate Cut Decision NDTV Profit",
       "guid": "CBMixgFBVV95cUxPVzVELTRSWENTZXIzWURYM3B1Mko4b25WTVptZHZxNy01WXBhRlAwOVBoTGxZaEh6WHMzRnVQNDdacHVuT0JfbEgyei1SQVgwMnppWU9jWDhuVk1ic1VCd3QzczBpLThVZzFTTk9ZTzZGeTE3bUxHS2Mxd1FKa3FPdWpaT2MxWUNjYTI1eGZUU1hVczZMdjVyTWJVLXNIRDlCOXZ4YmhwZ3lVZVd5VjUzWktTRFl6clhXdHpfdHIyRjBVQ0NROXfSAc4BQVVfeXFMUHJhT1BGVXpfN2xYc0ZoWjJIclNWUElFYVdXbjZDMmY5dzFXYzlCcy1taS11V0x4Q3RyNmptWnMwZlNpLTlmWEV1RWNmMVdHZnpRMzdiT0xlQWJrZEY3cGNRZ2l3bDBNTkQxQVdlVzB1RkxVLWxSbWNrdjlzaExXc1BXRF9xQzluYTRYWEhxSEtERnVsbkhkX0x5ZERsb0VOYXppcUtxdWVEY29LS0txLWJUOVRIN0pMeXVOYzkzX18yVUVFaFhBYjU1MUx5ZXc"
+    },
+    {
+      "title": "5 Things to Know Before the Stock Market Opens - Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYnJvNFI5UUt1NWQ4S1d6a3M3LVR5SXJ3ZUhmS1VZcElxWkZYMTFfQjlhZnBRUlFTQ0JtNm5PUDF5NDdQTUVYYzlYa013NHFOc21nWXhUUmVCVnN3Wm8zT1JRWnE4RVdmQVdEUXpBdEk1WVF4dS1hTHNYTUZKQUN6bUdzR0JkV3hwN0lQS1RNaENMbTA3SEt2aHN4eHotT0k?oc=5",
+      "source": "Investopedia",
+      "published_at": "Wed, 18 Mar 2026 12:14:54 GMT",
+      "summary": "5 Things to Know Before the Stock Market Opens Investopedia",
+      "guid": "CBMinwFBVV95cUxNYnJvNFI5UUt1NWQ4S1d6a3M3LVR5SXJ3ZUhmS1VZcElxWkZYMTFfQjlhZnBRUlFTQ0JtNm5PUDF5NDdQTUVYYzlYa013NHFOc21nWXhUUmVCVnN3Wm8zT1JRWnE4RVdmQVdEUXpBdEk1WVF4dS1hTHNYTUZKQUN6bUdzR0JkV3hwN0lQS1RNaENMbTA3SEt2aHN4eHotT0k"
     },
     {
       "title": "Stock futures rise as traders look ahead to Federal Reserve interest rate decision - CNBC",
