@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-18T10:10:38Z",
+  "generated_at": "2026-03-18T11:07:48Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,12 +7,12 @@
   },
   "items": [
     {
-      "title": "The Federal Reserve Has Become a Stock Market Liability, and President Trump's New Nominee for Chair Won't Help - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOUN5MHFlVmh2ZFI3eXp1ODZCS0E1WGZNdkt4Q1lWZHBXY1N4bXl4bjk3VGRoUU83Rk9tRzNsOGJ6SWx4Ukk0eTRhOUZ2aHZnVDFOQkg3d3JuNEp6SjV0RUFYUzVBN003V0U2SmFEczdJd3FZWnRaVnY2ZG1pVjI1Zl9jcXhGSV9fUW8xTHZEbmFCNnJONjBR?oc=5",
+      "title": "The Federal Reserve Meets March 18 and Wall Street Has Completely Given Up on Rate Cuts - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT1hQRmNENEtrQ3NhRU91aDlvZHZWcFZ3OG9Fc3VONWwyYWJSMS1yc3pMeHBKcnI5WlFxTlIxSXkyUTNFbHBKb2lYSm5FSE5DSDg0bDBGY2RqYnFnYmZaODZ5UEVUYTA2d3JSWjdhVHNZS0xFZEJRWXpPcGdHT1E4QnlsOTRxR0J5S3hxbXBlTWl4WGZRUFNCMg?oc=5",
       "source": "The Motley Fool",
-      "published_at": "Mon, 16 Mar 2026 16:33:00 GMT",
-      "summary": "The Federal Reserve Has Become a Stock Market Liability, and President Trump's New Nominee for Chair Won't Help The Motley Fool",
-      "guid": "CBMilwFBVV95cUxOOUN5MHFlVmh2ZFI3eXp1ODZCS0E1WGZNdkt4Q1lWZHBXY1N4bXl4bjk3VGRoUU83Rk9tRzNsOGJ6SWx4Ukk0eTRhOUZ2aHZnVDFOQkg3d3JuNEp6SjV0RUFYUzVBN003V0U2SmFEczdJd3FZWnRaVnY2ZG1pVjI1Zl9jcXhGSV9fUW8xTHZEbmFCNnJONjBR"
+      "published_at": "Wed, 18 Mar 2026 10:20:41 GMT",
+      "summary": "The Federal Reserve Meets March 18 and Wall Street Has Completely Given Up on Rate Cuts The Motley Fool",
+      "guid": "CBMimAFBVV95cUxOT1hQRmNENEtrQ3NhRU91aDlvZHZWcFZ3OG9Fc3VONWwyYWJSMS1yc3pMeHBKcnI5WlFxTlIxSXkyUTNFbHBKb2lYSm5FSE5DSDg0bDBGY2RqYnFnYmZaODZ5UEVUYTA2d3JSWjdhVHNZS0xFZEJRWXpPcGdHT1E4QnlsOTRxR0J5S3hxbXBlTWl4WGZRUFNCMg"
     },
     {
       "title": "Asian stocks rally as oil retreats, Fed in spotlight - Reuters",
@@ -21,6 +21,14 @@
       "published_at": "Wed, 18 Mar 2026 02:24:00 GMT",
       "summary": "Asian stocks rally as oil retreats, Fed in spotlight Reuters",
       "guid": "CBMigwFBVV95cUxNSEpORkJXQVg4TGs3UjRILWVSSWdwNUc4RVJvWG14U3M5anN0Wk03a3poU0tSLS0xQ3kyNG5iZ2xXd1ZvbldraVRVV054V1ktaE9mSkJuYnBmenFaTDlvcW5zSFhMLXVfRkRwcXNHOFVBTFFLSWFQcWZtc2Z4cFlNTGlpcw"
+    },
+    {
+      "title": "Scatterplot of Inflation and the Share of Relative Price Increases - Federal Reserve Bank of Richmond",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWGswa3NHUE5OV2tzVVZESy1kUVVEdWstQllDb3VHNmZEaHE3aG5XLUFDR0p5NTM1T0tZQjRTUG43dVlwYXJXRENjNS1kUnBoTzZUaTJtQ1A3WnVZbGVxOVhuWEd5SzNJLXNNRTdZbmVhSGZ4SEhIdlNnTWtXaFl6RmdXelFtMVBVaEZFRGFSa3ZzN3JsQWRKY05tdWFzZw?oc=5",
+      "source": "Federal Reserve Bank of Richmond",
+      "published_at": "Fri, 13 Mar 2026 07:00:00 GMT",
+      "summary": "Scatterplot of Inflation and the Share of Relative Price Increases Federal Reserve Bank of Richmond",
+      "guid": "CBMingFBVV95cUxQWGswa3NHUE5OV2tzVVZESy1kUVVEdWstQllDb3VHNmZEaHE3aG5XLUFDR0p5NTM1T0tZQjRTUG43dVlwYXJXRENjNS1kUnBoTzZUaTJtQ1A3WnVZbGVxOVhuWEd5SzNJLXNNRTdZbmVhSGZ4SEhIdlNnTWtXaFl6RmdXelFtMVBVaEZFRGFSa3ZzN3JsQWRKY05tdWFzZw"
     },
     {
       "title": "Markets Rise as Oil Prices Drop, Federal Reserve Decision Awaited - Fine Day 102.3",
@@ -55,12 +63,12 @@
       "guid": "CBMigwFBVV95cUxPdGtNSGI2ZFBCenBmakgxemJrVnpGcC1UTmRyTTRZVk43eTQ4eWJDcXR3el9TUkxQWmRUTk04czBTbU5rY3pPVUFNZ2NBdWVTVDBBdjlwMVh1MFBjR1pGbGRDVHlOQlpSRkRhQW0yZlhZMnctaG1aMV96cUY0OGVRTEgzVQ"
     },
     {
-      "title": "US stocks: Wall Street closes higher as traders turn to Federal Reserve - The Business Times",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOLXNaM0hwZmplTVhtN1ZneUp5bnE2Q0pZcXF1Ty1xWFZ4dDBsVXVqZS1RTU91aFJWLUJnTkNSM0pKV1o0QW1RR09GdzlzOHl3R1FIQnVTSjdKWk9jcEUyX2lqMnY5c1lzVmRXMEg3OExlNjNlZnVLMVAtVXAxZDJMTmx0cmxJQkkyaXRhS21jN04wb1l6SUFSd3pTbUNPNGJrQXBRYUIyOG9BY1NfRjVFLXpfVFZfdG40VTI0b2NIUzMwM3k4bzdHaEV0b2tsbFh5VHZnNFFjbWp5UQ?oc=5",
-      "source": "The Business Times",
-      "published_at": "Tue, 17 Mar 2026 21:54:00 GMT",
-      "summary": "US stocks: Wall Street closes higher as traders turn to Federal Reserve The Business Times",
-      "guid": "CBMi2gFBVV95cUxOLXNaM0hwZmplTVhtN1ZneUp5bnE2Q0pZcXF1Ty1xWFZ4dDBsVXVqZS1RTU91aFJWLUJnTkNSM0pKV1o0QW1RR09GdzlzOHl3R1FIQnVTSjdKWk9jcEUyX2lqMnY5c1lzVmRXMEg3OExlNjNlZnVLMVAtVXAxZDJMTmx0cmxJQkkyaXRhS21jN04wb1l6SUFSd3pTbUNPNGJrQXBRYUIyOG9BY1NfRjVFLXpfVFZfdG40VTI0b2NIUzMwM3k4bzdHaEV0b2tsbFh5VHZnNFFjbWp5UQ"
+      "title": "The Federal Reserve Has Become a Stock Market Liability, and President Trump's New Nominee for Chair Won't Help - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOUN5MHFlVmh2ZFI3eXp1ODZCS0E1WGZNdkt4Q1lWZHBXY1N4bXl4bjk3VGRoUU83Rk9tRzNsOGJ6SWx4Ukk0eTRhOUZ2aHZnVDFOQkg3d3JuNEp6SjV0RUFYUzVBN003V0U2SmFEczdJd3FZWnRaVnY2ZG1pVjI1Zl9jcXhGSV9fUW8xTHZEbmFCNnJONjBR?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Mon, 16 Mar 2026 16:33:00 GMT",
+      "summary": "The Federal Reserve Has Become a Stock Market Liability, and President Trump's New Nominee for Chair Won't Help The Motley Fool",
+      "guid": "CBMilwFBVV95cUxOOUN5MHFlVmh2ZFI3eXp1ODZCS0E1WGZNdkt4Q1lWZHBXY1N4bXl4bjk3VGRoUU83Rk9tRzNsOGJ6SWx4Ukk0eTRhOUZ2aHZnVDFOQkg3d3JuNEp6SjV0RUFYUzVBN003V0U2SmFEczdJd3FZWnRaVnY2ZG1pVjI1Zl9jcXhGSV9fUW8xTHZEbmFCNnJONjBR"
     },
     {
       "title": "Economic expert Greg Faranello previews this week’s Federal Reserve meeting - qz.com",
@@ -71,20 +79,12 @@
       "guid": "CBMiY0FVX3lxTE1SdGxybndmbEozMUlDNEl5dmRFZkxaRHlKeXV2d3hFa0JLNkxQOVNXRGItU3VWaUZ6X3RudW9KY3dZTERQM1loMjNmMmlUU3VYS3VISENMMGlabTE5VmhILXU3cw"
     },
     {
-      "title": "The Federal Reserve Faces a 'Nightmare-Level Challenge': Surging Energy Prices Meet Weakening Employment, with Gold Offering Insight - 富途牛牛",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdk9zVk05M2Vwd1BQSDZCNElkakV3VmVOUGNZU2JYNi1EbGdBVTE1QlBxNjJSOFdramdCX09hQnBTWlBFbm1xS2dDbGRVdFFUd083RUtoVDBMUUdjV19mUThTZ1FwQ2ViQmRUVU16UElzVC02Z0RwSXN2SmkzUm1jYS1lS0FlbUVOeGRUdUxvdFR3WVdobTE2YVRRMnFnZHI5R0RvVzJCVWthSzZzdkE?oc=5",
-      "source": "富途牛牛",
-      "published_at": "Wed, 18 Mar 2026 01:29:22 GMT",
-      "summary": "The Federal Reserve Faces a 'Nightmare-Level Challenge': Surging Energy Prices Meet Weakening Employment, with Gold Offering Insight 富途牛牛",
-      "guid": "CBMirgFBVV95cUxQdk9zVk05M2Vwd1BQSDZCNElkakV3VmVOUGNZU2JYNi1EbGdBVTE1QlBxNjJSOFdramdCX09hQnBTWlBFbm1xS2dDbGRVdFFUd083RUtoVDBMUUdjV19mUThTZ1FwQ2ViQmRUVU16UElzVC02Z0RwSXN2SmkzUm1jYS1lS0FlbUVOeGRUdUxvdFR3WVdobTE2YVRRMnFnZHI5R0RvVzJCVWthSzZzdkE"
-    },
-    {
-      "title": "5 Things to Know Before the Stock Market Opens - Investopedia",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNUpuVlFLcmtPVURCNmFkdDlNRUlqQjdYd3RORlRDUjJjNVRkVUZqWlJCaUE2b2FEcGRWVHRVUTZfVlNOS1UtaHl4TmdEQlVBMnN1Nl9GSTlDU3BuN29xLURNekZwYzhOTUdnZGtNNEJEcDQyU0dPX2RiVnpYbzhiZTZ2ekstUFhlTnpkX1pEMFNIQlo2d0NqalhydHpXejA?oc=5",
-      "source": "Investopedia",
-      "published_at": "Tue, 17 Mar 2026 12:25:23 GMT",
-      "summary": "5 Things to Know Before the Stock Market Opens Investopedia",
-      "guid": "CBMinwFBVV95cUxNNUpuVlFLcmtPVURCNmFkdDlNRUlqQjdYd3RORlRDUjJjNVRkVUZqWlJCaUE2b2FEcGRWVHRVUTZfVlNOS1UtaHl4TmdEQlVBMnN1Nl9GSTlDU3BuN29xLURNekZwYzhOTUdnZGtNNEJEcDQyU0dPX2RiVnpYbzhiZTZ2ekstUFhlTnpkX1pEMFNIQlo2d0NqalhydHpXejA"
+      "title": "Oil continues to rise, the Federal Reserve, Nvidia's big week and more in Morning Squawk - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQM3poNldUYkhuSGxpWVM2dE84OGxRRGxQeWhrTlJuWjRXVVpBdEQyMndMb1E1a0FaUVh2SEo3bkVYTTFyeG5jM1B5RksxVlFWT3R3ZnBPQWQzcnFIREUtWG5fOXk3OGF2QTNoVXpBeEFLUEZSMFhKS08wendKNUc5LV92Z9IBiAFBVV95cUxNR0xDeWZpQmRCbnBTTjF5Nk0xWXA2T0JZZV94SkY1Y1ZfTk5QODFBeks4Nl93SmM0dVpFSzlDaUVxZDJBNTJBOXpZZ2NBM2xhSGQ1bXVrV3p0VWtua1JUdEotUHpucU1tNVc0ZUtzUHpSOVNjM2pqSmFpSXJkQ1hTOHNLMUl4Z3RV?oc=5",
+      "source": "CNBC",
+      "published_at": "Mon, 16 Mar 2026 11:59:54 GMT",
+      "summary": "Oil continues to rise, the Federal Reserve, Nvidia's big week and more in Morning Squawk CNBC",
+      "guid": "CBMigwFBVV95cUxQM3poNldUYkhuSGxpWVM2dE84OGxRRGxQeWhrTlJuWjRXVVpBdEQyMndMb1E1a0FaUVh2SEo3bkVYTTFyeG5jM1B5RksxVlFWT3R3ZnBPQWQzcnFIREUtWG5fOXk3OGF2QTNoVXpBeEFLUEZSMFhKS08wendKNUc5LV92Z9IBiAFBVV95cUxNR0xDeWZpQmRCbnBTTjF5Nk0xWXA2T0JZZV94SkY1Y1ZfTk5QODFBeks4Nl93SmM0dVpFSzlDaUVxZDJBNTJBOXpZZ2NBM2xhSGQ1bXVrV3p0VWtua1JUdEotUHpucU1tNVc0ZUtzUHpSOVNjM2pqSmFpSXJkQ1hTOHNLMUl4Z3RV"
     }
   ]
 }
