@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-19T08:33:02Z",
+  "generated_at": "2026-03-19T09:26:27Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -31,14 +31,6 @@
       "guid": "CBMilgFBVV95cUxOSUNVQVMyTWdSdlMxLVlLWVJmclA3WjU1S1l2WHhDVnBnQ0hPSWVuSUVJN05lNEVzLU5uTm1nT0F4TG5PSDRjUWtzQWVZLUJMMjdmSmtsTjVmYXE1WWtpRGM1WllZOWhZRUphSFZZMVRVdktYUEdNZW5HWEc1UWVWSmQzOF8zdEZLQVh2cVh6ZTRfT3BMdnc"
     },
     {
-      "title": "Dow Jones Futures: Oil Backs Off $100; Micron Skids Despite Blowout Earnings - Investor's Business Daily",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYjdBWUtXdVJmQVlUVE1NREZTWmxwQTVucG5md0owWjlVTFhYdWFyaVk5VzRteERsdVJxMll2TFBIMXJ4bkVMVVRIQnFIRnY1ZzdzZk40SlBrdWFwNzdfbEhkc3JOd0RQbDh5NkVjMTJuOUtabmM0bW5ZVWFydE01aUtrNlpqY0tGZzZiRFplbFVHSW1aUjhaRzRoRnFiaDJDZWlyaTJqcDg1Q1dBRjlkem8yOVFoa05DazNxa0diRFR0cDBiREhPbWNicw?oc=5",
-      "source": "Investor's Business Daily",
-      "published_at": "Thu, 19 Mar 2026 04:04:00 GMT",
-      "summary": "Dow Jones Futures: Oil Backs Off $100; Micron Skids Despite Blowout Earnings Investor's Business Daily",
-      "guid": "CBMiywFBVV95cUxQYjdBWUtXdVJmQVlUVE1NREZTWmxwQTVucG5md0owWjlVTFhYdWFyaVk5VzRteERsdVJxMll2TFBIMXJ4bkVMVVRIQnFIRnY1ZzdzZk40SlBrdWFwNzdfbEhkc3JOd0RQbDh5NkVjMTJuOUtabmM0bW5ZVWFydE01aUtrNlpqY0tGZzZiRFplbFVHSW1aUjhaRzRoRnFiaDJDZWlyaTJqcDg1Q1dBRjlkem8yOVFoa05DazNxa0diRFR0cDBiREhPbWNicw"
-    },
-    {
       "title": "Dow Slides 768 Points on Inflation Fears: Stock Market Today - Kiplinger",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTGRFUDYwMHkxUk9kNGRZVWJOV3ZzNEQ1YVZ1STZVVVNudGtOQkpxTUh6cktER3FUQXNxRUxLdlpVUTlxYjVpWUhXZDFRYk9VNHBrbFc4QmFKM09yQ0RZMm1sU05sTmxDenFYeFQzZ2tSM1E4SnZKWGY0UGNRaUJPRVRMMkhhaXM4eUkybndzYjJMeEJralNxY1FZMF9ZNS1FT3EtOQ?oc=5",
       "source": "Kiplinger",
@@ -47,12 +39,20 @@
       "guid": "CBMipAFBVV95cUxQTGRFUDYwMHkxUk9kNGRZVWJOV3ZzNEQ1YVZ1STZVVVNudGtOQkpxTUh6cktER3FUQXNxRUxLdlpVUTlxYjVpWUhXZDFRYk9VNHBrbFc4QmFKM09yQ0RZMm1sU05sTmxDenFYeFQzZ2tSM1E4SnZKWGY0UGNRaUJPRVRMMkhhaXM4eUkybndzYjJMeEJralNxY1FZMF9ZNS1FT3EtOQ"
     },
     {
+      "title": "Dow Jones Futures: Oil Backs Off $100; Micron Skids Despite Blowout Earnings - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYjdBWUtXdVJmQVlUVE1NREZTWmxwQTVucG5md0owWjlVTFhYdWFyaVk5VzRteERsdVJxMll2TFBIMXJ4bkVMVVRIQnFIRnY1ZzdzZk40SlBrdWFwNzdfbEhkc3JOd0RQbDh5NkVjMTJuOUtabmM0bW5ZVWFydE01aUtrNlpqY0tGZzZiRFplbFVHSW1aUjhaRzRoRnFiaDJDZWlyaTJqcDg1Q1dBRjlkem8yOVFoa05DazNxa0diRFR0cDBiREhPbWNicw?oc=5",
+      "source": "Investor's Business Daily",
+      "published_at": "Thu, 19 Mar 2026 04:04:00 GMT",
+      "summary": "Dow Jones Futures: Oil Backs Off $100; Micron Skids Despite Blowout Earnings Investor's Business Daily",
+      "guid": "CBMiywFBVV95cUxQYjdBWUtXdVJmQVlUVE1NREZTWmxwQTVucG5md0owWjlVTFhYdWFyaVk5VzRteERsdVJxMll2TFBIMXJ4bkVMVVRIQnFIRnY1ZzdzZk40SlBrdWFwNzdfbEhkc3JOd0RQbDh5NkVjMTJuOUtabmM0bW5ZVWFydE01aUtrNlpqY0tGZzZiRFplbFVHSW1aUjhaRzRoRnFiaDJDZWlyaTJqcDg1Q1dBRjlkem8yOVFoa05DazNxa0diRFR0cDBiREhPbWNicw"
+    },
+    {
       "title": "Dow falls nearly 800 points after Powell makes one thing clear: There’s no rush to rescue the market - MarketWatch",
-      "url": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxOVDZLYjFlR1BMRF92RndyRHh0SnR4c0RieFhlNUlJOHZvckVHc2p4VHR4N0ZURlJnNlZxZzBRWGlnT3hmSzJTOHUzRWdIVXI0U1duWmxzMTdzWjYtV29KZ2UtdVExeG5aRjNwRF9yV19ENlMwUjIxbHZ5ZFoyOExhNExnSlJ4SVA0V2d3WHFxNUhkc1RWNl9mSjkzNGZ3aWNPcS1nQTRMamJrNVpJaDZwT1lPRkMzanV6ZlR1eEFjTjBhSGN6MVdLc1dEb1h3N0RJWTUzVWx1eVNMdWVtWlhQVUxPalJJQ1lNVnJnX0x1dXV0ZmdwOVEwWHFzQmxwZFVLc0NncEQ5MWFqeVdqTlZfTGVTUDhwS2FDRzRkZTl0aFAxSFJ0MUhhZ050Z2ktMGdTQV9lV2MyRFl3S1ZZZmFrMFNMWkJEVk84bWJWY2RHS25qOFVsNU9TWnNVeFYxdVRLQlZvM0gyalZxZUNQSjBUWEh5MlhMNnNDcWdKVlJjalFUckM4dk54R3owRDlCdk9TREZOcEVza1dUQ25YZGVaWmVSaVU1T2J4OHFDSzVlWTdTMW15QUJZWlg3bklsV196bWNHWnp0bVlhRDZOZFRzUm9yZUtBN183Y2tvcFdR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxQUmszQzBXZHVzb0Ywb2JKMEhkWlhyVUx5VXNWTmloUjEyUV9NSUdyWnd1a3FJdWRwbEZSME1Mdk9GU3g1ZENsSGhHUUFuQ1R1andEWlNaOWh0ZE1IX2RaNlVkd0FqUlFUMklaVG56cjg4SlJ6TS1iRjRkbkpkRGJBVzdESTVhMkdaV3Bwb0VHYUM2WDdLVkdKOWFvMlUtQXlHcFB5aUQ4UXhOZTB0cXIzY3RLbmJOS0V4XzBUcldCblh1TXJJX3NQQmF3Yk8xOXJuN2FHek5uQlYyeUxYTHp6QU9fa05ZWG52MGhyaG4xRC10Q1JjOGtQMHh4T19wSnJDWTJfa0p0U3JyWjR5d2xJWVY3WDducUVtX1B0eElnSko3b1RrZF9sbVRyYU8yV3RXMXd2b1U3NUd2YlduV1lrTmZBVzNPSVd5N2tsLWE5bmZfSFhzQWxvSkEtM0h0di1KWThMZE41c284b0dKMWw2M3E5aDUyQjZoT0NRTUhjbVRpZkRxd0ZMZWJRMGFGOHdnQ0ozbXB5djliWG53Rk1INF9UT3V2cW5ud2R3c0Q1cFdHaEw0RXNRaDVkbWJhbjdhb1VBdFROR253UThmejlub293dzlnWjdacEhINE1R?oc=5",
       "source": "MarketWatch",
       "published_at": "Wed, 18 Mar 2026 21:46:00 GMT",
       "summary": "Dow falls nearly 800 points after Powell makes one thing clear: There’s no rush to rescue the market MarketWatch",
-      "guid": "CBMi3gNBVV95cUxOVDZLYjFlR1BMRF92RndyRHh0SnR4c0RieFhlNUlJOHZvckVHc2p4VHR4N0ZURlJnNlZxZzBRWGlnT3hmSzJTOHUzRWdIVXI0U1duWmxzMTdzWjYtV29KZ2UtdVExeG5aRjNwRF9yV19ENlMwUjIxbHZ5ZFoyOExhNExnSlJ4SVA0V2d3WHFxNUhkc1RWNl9mSjkzNGZ3aWNPcS1nQTRMamJrNVpJaDZwT1lPRkMzanV6ZlR1eEFjTjBhSGN6MVdLc1dEb1h3N0RJWTUzVWx1eVNMdWVtWlhQVUxPalJJQ1lNVnJnX0x1dXV0ZmdwOVEwWHFzQmxwZFVLc0NncEQ5MWFqeVdqTlZfTGVTUDhwS2FDRzRkZTl0aFAxSFJ0MUhhZ050Z2ktMGdTQV9lV2MyRFl3S1ZZZmFrMFNMWkJEVk84bWJWY2RHS25qOFVsNU9TWnNVeFYxdVRLQlZvM0gyalZxZUNQSjBUWEh5MlhMNnNDcWdKVlJjalFUckM4dk54R3owRDlCdk9TREZOcEVza1dUQ25YZGVaWmVSaVU1T2J4OHFDSzVlWTdTMW15QUJZWlg3bklsV196bWNHWnp0bVlhRDZOZFRzUm9yZUtBN183Y2tvcFdR"
+      "guid": "CBMi3gNBVV95cUxQUmszQzBXZHVzb0Ywb2JKMEhkWlhyVUx5VXNWTmloUjEyUV9NSUdyWnd1a3FJdWRwbEZSME1Mdk9GU3g1ZENsSGhHUUFuQ1R1andEWlNaOWh0ZE1IX2RaNlVkd0FqUlFUMklaVG56cjg4SlJ6TS1iRjRkbkpkRGJBVzdESTVhMkdaV3Bwb0VHYUM2WDdLVkdKOWFvMlUtQXlHcFB5aUQ4UXhOZTB0cXIzY3RLbmJOS0V4XzBUcldCblh1TXJJX3NQQmF3Yk8xOXJuN2FHek5uQlYyeUxYTHp6QU9fa05ZWG52MGhyaG4xRC10Q1JjOGtQMHh4T19wSnJDWTJfa0p0U3JyWjR5d2xJWVY3WDducUVtX1B0eElnSko3b1RrZF9sbVRyYU8yV3RXMXd2b1U3NUd2YlduV1lrTmZBVzNPSVd5N2tsLWE5bmZfSFhzQWxvSkEtM0h0di1KWThMZE41c284b0dKMWw2M3E5aDUyQjZoT0NRTUhjbVRpZkRxd0ZMZWJRMGFGOHdnQ0ozbXB5djliWG53Rk1INF9UT3V2cW5ud2R3c0Q1cFdHaEw0RXNRaDVkbWJhbjdhb1VBdFROR253UThmejlub293dzlnWjdacEhINE1R"
     },
     {
       "title": "US stocks hold their losses after the Federal Reserve opts again not to cut interest rates - KVOA",
@@ -61,14 +61,6 @@
       "published_at": "Wed, 18 Mar 2026 18:23:00 GMT",
       "summary": "US stocks hold their losses after the Federal Reserve opts again not to cut interest rates KVOA",
       "guid": "CBMi_gFBVV95cUxQQ0V3ZEFYZ2VXUzhvVDljdlJxWVM2Zmpwbl9pVDVoUGp6S05zcG9PT0hRUFFPS05zX3RfdXRHNW1qaExEbUhyTEtXZjJ3ME1uSUNXeThET0tnWjZEMWptS3JITUxhSzQ0ZU9jTjMtSlBVQlAtOEtRTVVtVm5rdkVfLU9GR195QVBJOHF6eWN0akowb19QLWllV0VPdE83cHc0ZDNMOVpvNXZsa0NaTUJYZnN2YnMtSmxDWHZ2bjY3X01oOFQ1bS03V1p4Y1FTOW1wdVd2cEZ1azVzZXRMZTVWVkMtOVhGUlNGbDBld2hUUU1KNkNwOVpUZ0J6UHY0UQ"
-    },
-    {
-      "title": "Interest rates hold steady as Powell shares 'no intentions' of leaving until DOJ probe end - KATU",
-      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQT01kbl8ySk9DQmlzNDNqYlFrdGF1bS11NGJJbUZxSXVrTFhLSzA0T3Bnb1RNN0dnV1htN3BiQXJaaWlLeExwOTJZVlhMYlo0aFN2c1dRalI5RG44UWhHVERqbUdvSFllbzFLQUhDTng1cTRIY2txN2dfcU5VbGdZcGVZaFdJTkxIZFE1NmdwV1lpWlgwS3ZGRGR3ejd2Z09CQ20xSU5UWHlMUUw3Mk40TXFCbDJXNUN3UzJ3UHdCU041c1N1ZkZzMzNRVmRPU1R0RnZHd1R6bjk3RC14NE5IYzBDdWVvMzRnU1MtczhHWWtXYmd2TUN0WFBrajBhTXgxQ1hNd2R2RzhDTGhZZ0pqSjZZWldPYkp5SE5oWE9TYkl1ZWtLTmk5UW54UTE?oc=5",
-      "source": "KATU",
-      "published_at": "Thu, 19 Mar 2026 00:56:10 GMT",
-      "summary": "Interest rates hold steady as Powell shares 'no intentions' of leaving until DOJ probe end KATU",
-      "guid": "CBMirAJBVV95cUxQT01kbl8ySk9DQmlzNDNqYlFrdGF1bS11NGJJbUZxSXVrTFhLSzA0T3Bnb1RNN0dnV1htN3BiQXJaaWlLeExwOTJZVlhMYlo0aFN2c1dRalI5RG44UWhHVERqbUdvSFllbzFLQUhDTng1cTRIY2txN2dfcU5VbGdZcGVZaFdJTkxIZFE1NmdwV1lpWlgwS3ZGRGR3ejd2Z09CQ20xSU5UWHlMUUw3Mk40TXFCbDJXNUN3UzJ3UHdCU041c1N1ZkZzMzNRVmRPU1R0RnZHd1R6bjk3RC14NE5IYzBDdWVvMzRnU1MtczhHWWtXYmd2TUN0WFBrajBhTXgxQ1hNd2R2RzhDTGhZZ0pqSjZZWldPYkp5SE5oWE9TYkl1ZWtLTmk5UW54UTE"
     },
     {
       "title": "The Federal Reserve Has Become a Stock Market Liability, and President Trump's New Nominee for Chair Won't Help - Yahoo Finance",
@@ -85,6 +77,14 @@
       "published_at": "Wed, 18 Mar 2026 21:00:00 GMT",
       "summary": "Tackling a weakened job market could be more difficult for the Fed marketplace.org",
       "guid": "CBMisAFBVV95cUxNNkg5YmdRaHlzY05qUUVGRFZSZ1hfMUJZU1JwYkRTTjMxU1pJbUdHZFh5V3BrdHV1WXdFNDFfRDA2VjlJSEExVDM1UHpOQzlJWmhVRGFFZ0pUbmVaOUJGWVVRdm54bnUtWnNhWXZCb0lLaG5rV1NVbVFaS2Via2tNWkR4bWZQUndOV05hdkk4RHF1OGxMR0poMDB5STdnOGpNT1F0cWJOTGw3NDN4cnZTWg"
+    },
+    {
+      "title": "5 Things to Know Before the Stock Market Opens - Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYnJvNFI5UUt1NWQ4S1d6a3M3LVR5SXJ3ZUhmS1VZcElxWkZYMTFfQjlhZnBRUlFTQ0JtNm5PUDF5NDdQTUVYYzlYa013NHFOc21nWXhUUmVCVnN3Wm8zT1JRWnE4RVdmQVdEUXpBdEk1WVF4dS1hTHNYTUZKQUN6bUdzR0JkV3hwN0lQS1RNaENMbTA3SEt2aHN4eHotT0k?oc=5",
+      "source": "Investopedia",
+      "published_at": "Wed, 18 Mar 2026 12:14:54 GMT",
+      "summary": "5 Things to Know Before the Stock Market Opens Investopedia",
+      "guid": "CBMinwFBVV95cUxNYnJvNFI5UUt1NWQ4S1d6a3M3LVR5SXJ3ZUhmS1VZcElxWkZYMTFfQjlhZnBRUlFTQ0JtNm5PUDF5NDdQTUVYYzlYa013NHFOc21nWXhUUmVCVnN3Wm8zT1JRWnE4RVdmQVdEUXpBdEk1WVF4dS1hTHNYTUZKQUN6bUdzR0JkV3hwN0lQS1RNaENMbTA3SEt2aHN4eHotT0k"
     }
   ]
 }
