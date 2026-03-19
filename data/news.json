@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-19T21:24:44Z",
+  "generated_at": "2026-03-19T21:52:00Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -8,11 +8,11 @@
   "items": [
     {
       "title": "The Stock Market Is Buckling Under the Weight of Oil and the Fed. What Comes Next. - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxPV0RqdUkxMnIwMkRXWHk3QUg5bUZjR0xFM05RWW9xcWpmWFhBaUpQWTVQZ2N6WHhhMDYyNGRDRkdLZnl0NlZnd0ZnNVU3cjJfbFJpTUxqbHBJNVJIcGxNbEY2WkZ4Y0FZM3J5NGxvUVV2VHJoUzdkMVBScFctUGlGSGtNV0ZRWW5wUzBvWVFqOHp6SWEyd3NydDZiOFVMODR0YU1SbVpuZlNPZ1lpUWpRUDQxX1RWVVVhVV9HakhvNElkNHBMZVJrb1hjUVVwTHdxRlYySmcxbFh3OUpoR1VJQUdDdkFnOXhpQWtITnc1dHdjTXNCTThkaDV4TElJVEVVRk91eElfOTFPYUdSZ0pyVEFBM0N3THptQTBSOUN6QnEwdWltOTZHSXJFMFFCdjVtZW5yWXFFclJ1UW5Yc1pZQXVaVGZNaHdiaEkxOGxmZkRnNnRmTGV5Wm9lVlg3dUp1RmVRZGhnUUpCT1Zqbl9pMUtxMDFKZEhaNExHZllscWEtN3ktZnE2RjNqMEdBZUZiNjRSeQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxNQnkyQTlxelVJMzNNYzlMRXlsR2ZYX3J1eVhjRU16dk5BbExyYnR0aGV6YVVPNnd0XzNxRHRxemo1bG1rdDFUb1huRmQwZk1wSFpsRTdjdm1PMEp3OFJYWDJma1F1Z2hTQ0tLQUJsQU5WVk9ldXBzekNVNjl5ZGw0WFFsRGxhTEJZa3ZSSkZMeEF0blpRTlRsQ2MzZmthVXcweUVIdG5rR0xHS0JTRHlIc3M2YjJTQ2FtaWhYdTJ6b2UwUnQyeDF6bHpqMTRxRE96cnI0SzB3S25kQ3ZkY29Da1pqaFFfZ1FVWXJ5eG42blQ1Q3JlWmdkY1lvVUQ0SW9JUTNoMER4R2NpUWNNbmtubVYwVlZEeHlHZjYwXzhtbFpxVkMzZTk4Y0xWTWlyYVVBNENReksyQTZHY0d3MlhySDZsRXpfZXU4dTVnUWZHOFpHOF9iTkxDbldYZjEyZlB1TGdFTkJYTm16WnRGSC0weFRRX2IwZnloOUk5dExaOUdDdTJHVzVHSjRpTnBlQkhMWGwwaw?oc=5",
       "source": "Barron's",
       "published_at": "Thu, 19 Mar 2026 13:34:00 GMT",
       "summary": "The Stock Market Is Buckling Under the Weight of Oil and the Fed. What Comes Next. Barron's",
-      "guid": "CBMilANBVV95cUxPV0RqdUkxMnIwMkRXWHk3QUg5bUZjR0xFM05RWW9xcWpmWFhBaUpQWTVQZ2N6WHhhMDYyNGRDRkdLZnl0NlZnd0ZnNVU3cjJfbFJpTUxqbHBJNVJIcGxNbEY2WkZ4Y0FZM3J5NGxvUVV2VHJoUzdkMVBScFctUGlGSGtNV0ZRWW5wUzBvWVFqOHp6SWEyd3NydDZiOFVMODR0YU1SbVpuZlNPZ1lpUWpRUDQxX1RWVVVhVV9HakhvNElkNHBMZVJrb1hjUVVwTHdxRlYySmcxbFh3OUpoR1VJQUdDdkFnOXhpQWtITnc1dHdjTXNCTThkaDV4TElJVEVVRk91eElfOTFPYUdSZ0pyVEFBM0N3THptQTBSOUN6QnEwdWltOTZHSXJFMFFCdjVtZW5yWXFFclJ1UW5Yc1pZQXVaVGZNaHdiaEkxOGxmZkRnNnRmTGV5Wm9lVlg3dUp1RmVRZGhnUUpCT1Zqbl9pMUtxMDFKZEhaNExHZllscWEtN3ktZnE2RjNqMEdBZUZiNjRSeQ"
+      "guid": "CBMilANBVV95cUxNQnkyQTlxelVJMzNNYzlMRXlsR2ZYX3J1eVhjRU16dk5BbExyYnR0aGV6YVVPNnd0XzNxRHRxemo1bG1rdDFUb1huRmQwZk1wSFpsRTdjdm1PMEp3OFJYWDJma1F1Z2hTQ0tLQUJsQU5WVk9ldXBzekNVNjl5ZGw0WFFsRGxhTEJZa3ZSSkZMeEF0blpRTlRsQ2MzZmthVXcweUVIdG5rR0xHS0JTRHlIc3M2YjJTQ2FtaWhYdTJ6b2UwUnQyeDF6bHpqMTRxRE96cnI0SzB3S25kQ3ZkY29Da1pqaFFfZ1FVWXJ5eG42blQ1Q3JlWmdkY1lvVUQ0SW9JUTNoMER4R2NpUWNNbmtubVYwVlZEeHlHZjYwXzhtbFpxVkMzZTk4Y0xWTWlyYVVBNENReksyQTZHY0d3MlhySDZsRXpfZXU4dTVnUWZHOFpHOF9iTkxDbldYZjEyZlB1TGdFTkJYTm16WnRGSC0weFRRX2IwZnloOUk5dExaOUdDdTJHVzVHSjRpTnBlQkhMWGwwaw"
     },
     {
       "title": "Wall Street ends down as traders see no rate cuts before 2027 - Reuters",
@@ -39,28 +39,20 @@
       "guid": "CBMitgFBVV95cUxNUURhWVViX3hBWl9DOEpRdzRGYm14WVRaWmlhX2JDdFlLS2NPTHFKR1hXSnp4NHY4UXZFWVVFVFVvRkx3NmxBTUpGSHUxOXJ6aU0yZmNZdDd2Q1JLVnU4MWxzZUVPN3VmWGticzBfb21BNC1mX092cWdvZ19aNkVSZUlvVWxqdGszbTZpWnlLWDlEdkRWMXItaFBZZmhkbVdJVFNDNS01MWN3TTBqMnhNOFhRMXdOUQ"
     },
     {
-      "title": "Dow Jones Futures Fall As Global Oil Prices Jump; Micron Falls Despite Blowout Earnings - Investor's Business Daily",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGpOVnFiZmhhZV9KZWR2aEZyZ0YwLXZXUGVPNDU0SG5wNy1PQTkyYlVXaWhEVHhNYTZjQzZnS3Mwb2tKU2tubEJOaWRtYm1KakhwamN4cEtfZmoxNXREZ3FSY3h4WHNSUzVDM3VaNXVXSDYybUx0dUVrbnJoYWtMaFZKWmE0aXVEbjd0UlZPYk1TNmwzc25oNC05cnlSMUlILURxazRmYnUxMTdIMngwTElhYTA5S1piSThV?oc=5",
-      "source": "Investor's Business Daily",
-      "published_at": "Thu, 19 Mar 2026 13:06:00 GMT",
-      "summary": "Dow Jones Futures Fall As Global Oil Prices Jump; Micron Falls Despite Blowout Earnings Investor's Business Daily",
-      "guid": "CBMiuwFBVV95cUxPZGpOVnFiZmhhZV9KZWR2aEZyZ0YwLXZXUGVPNDU0SG5wNy1PQTkyYlVXaWhEVHhNYTZjQzZnS3Mwb2tKU2tubEJOaWRtYm1KakhwamN4cEtfZmoxNXREZ3FSY3h4WHNSUzVDM3VaNXVXSDYybUx0dUVrbnJoYWtMaFZKWmE0aXVEbjd0UlZPYk1TNmwzc25oNC05cnlSMUlILURxazRmYnUxMTdIMngwTElhYTA5S1piSThV"
-    },
-    {
-      "title": "US moves to soften capital rules: ‘Big banks can declare mission accomplished’ - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVndMRTNaZzgwcVJaUXBoOGpDSzZQQlZweEZ4RXdYSXNhQ2RKVElUcFVoMHBXWEhuTGpmaGxWcjdRRkxmUnptOExLdTF5c0FfS2Qtem1tY3NjRk9HRE1obTNSakNKai13UE5OZDM1aXRmVWhlZWJfcG5feDZ1eUNMbWQ4bDJUNmhOYm1GME8zQllhTVhy?oc=5",
-      "source": "The Guardian",
-      "published_at": "Thu, 19 Mar 2026 18:22:00 GMT",
-      "summary": "US moves to soften capital rules: ‘Big banks can declare mission accomplished’ The Guardian",
-      "guid": "CBMilAFBVV95cUxPVndMRTNaZzgwcVJaUXBoOGpDSzZQQlZweEZ4RXdYSXNhQ2RKVElUcFVoMHBXWEhuTGpmaGxWcjdRRkxmUnptOExLdTF5c0FfS2Qtem1tY3NjRk9HRE1obTNSakNKai13UE5OZDM1aXRmVWhlZWJfcG5feDZ1eUNMbWQ4bDJUNmhOYm1GME8zQllhTVhy"
+      "title": "Weekly market commentary - blackrock.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
+      "source": "blackrock.com",
+      "published_at": "Mon, 16 Mar 2026 07:00:00 GMT",
+      "summary": "Weekly market commentary blackrock.com",
+      "guid": "CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw"
     },
     {
       "title": "Stock Market Has Weathered a Host of Shocks. Is Surging Oil Too Much for It to Bear? - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxOYkZzQm5DUTBkTlRtc1diS19aSHpOcU96b0RDVS1xX1RrYWdYQ2xUSERid2hFT2NzT1FqY0JvVjhJemRKMkJZVnBLeEVfd0lZX0hHRWZHUDB5anZycFpVdktpQnZtTUlIWW1BQndYMTdTS0JJeWZYZU5mdXBadnVuU0kzQjNlRjd2dWJpcEY4TllQY1dSVUJ1Y1NFSzVwTzdZTWhHbkx5Q2VmYlo0YmFiNmJtTjBpdzJOTzdpMGltQUhNd1luM1hyQk5Ba21sRzJzaWVubzFOdF9UZGNYTUdXdEprUG5oa2NMcmJobGFNcXZldGJXRHYzUVlqc2VBVXpTZXl5UUFTcERDMEdWSjg2VVdaVWEzQjRKMkp3VldIMnd6d0JCczBYQ04tdVBvREhKeEE5YlVUOFh4blFfNzZVTmF1UUlvOWtVUE5RQmw1eFFIbV9BeG5TNFRXZmNUelBTeXNwZmpldHN3cUJYbVN4T0tzeDdjeElidjAyTU5LOVBuVVFkTzlxZGhFQmYtUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxOTWRKRlBTZFo2V2FYTC1JSlVuMkJYb0JPM2hDTmdtcERySmlxY09wVVpZekFQUjZ6RVMtMDBPYld2Y25LdlZFVUJ3VXZXQXdfOHl4eHpsQlpMZHZXMjRsR0FXM0xFaVlaU1JqbXVPWTV2R1ZxZGI0WkZmS1k0T1V4NV9DLTVTNUJ6Y2tqU25nT0RMSmdOTWJVSHFnMU5aZEtnZHBVd25hVnJSblMyQ0JBMXlMc21mNHJfYXQ4ZzRJZ2FiaUZmUGpnc3B2YjM4RmNkRGlqanlMSXJ4TldXOEs2U2ZLMHJ6dGVPcnN1TFJXN2FCVXliUjRLRWZqVlJldHZiV1BjaE02TWo3bmFBVE1Mb3J2WVA3RjFnRktSQjk1RDNzMXFYcW5YWHBQekhoYXA3VDU2MEdNSEN1M3RZd29NeVphdHMtd1NWMkp1dUxvNE5qdXplUmQzV3BSdlNOdU1mLUJaT3Q0T0Z3UlVtQXZzbEtGXzQ5Tmw3V3h5N0dfa0NaOXZPNkxCc1JOYUZVdw?oc=5",
       "source": "Barron's",
       "published_at": "Thu, 19 Mar 2026 11:12:00 GMT",
       "summary": "Stock Market Has Weathered a Host of Shocks. Is Surging Oil Too Much for It to Bear? Barron's",
-      "guid": "CBMijgNBVV95cUxOYkZzQm5DUTBkTlRtc1diS19aSHpOcU96b0RDVS1xX1RrYWdYQ2xUSERid2hFT2NzT1FqY0JvVjhJemRKMkJZVnBLeEVfd0lZX0hHRWZHUDB5anZycFpVdktpQnZtTUlIWW1BQndYMTdTS0JJeWZYZU5mdXBadnVuU0kzQjNlRjd2dWJpcEY4TllQY1dSVUJ1Y1NFSzVwTzdZTWhHbkx5Q2VmYlo0YmFiNmJtTjBpdzJOTzdpMGltQUhNd1luM1hyQk5Ba21sRzJzaWVubzFOdF9UZGNYTUdXdEprUG5oa2NMcmJobGFNcXZldGJXRHYzUVlqc2VBVXpTZXl5UUFTcERDMEdWSjg2VVdaVWEzQjRKMkp3VldIMnd6d0JCczBYQ04tdVBvREhKeEE5YlVUOFh4blFfNzZVTmF1UUlvOWtVUE5RQmw1eFFIbV9BeG5TNFRXZmNUelBTeXNwZmpldHN3cUJYbVN4T0tzeDdjeElidjAyTU5LOVBuVVFkTzlxZGhFQmYtUQ"
+      "guid": "CBMijgNBVV95cUxOTWRKRlBTZFo2V2FYTC1JSlVuMkJYb0JPM2hDTmdtcERySmlxY09wVVpZekFQUjZ6RVMtMDBPYld2Y25LdlZFVUJ3VXZXQXdfOHl4eHpsQlpMZHZXMjRsR0FXM0xFaVlaU1JqbXVPWTV2R1ZxZGI0WkZmS1k0T1V4NV9DLTVTNUJ6Y2tqU25nT0RMSmdOTWJVSHFnMU5aZEtnZHBVd25hVnJSblMyQ0JBMXlMc21mNHJfYXQ4ZzRJZ2FiaUZmUGpnc3B2YjM4RmNkRGlqanlMSXJ4TldXOEs2U2ZLMHJ6dGVPcnN1TFJXN2FCVXliUjRLRWZqVlJldHZiV1BjaE02TWo3bmFBVE1Mb3J2WVA3RjFnRktSQjk1RDNzMXFYcW5YWHBQekhoYXA3VDU2MEdNSEN1M3RZd29NeVphdHMtd1NWMkp1dUxvNE5qdXplUmQzV3BSdlNOdU1mLUJaT3Q0T0Z3UlVtQXZzbEtGXzQ5Tmw3V3h5N0dfa0NaOXZPNkxCc1JOYUZVdw"
     },
     {
       "title": "The Fed decision, Micron earnings, Amazon's USPS contract and more in Morning Squawk - CNBC",
@@ -79,12 +71,20 @@
       "guid": "CBMi0AFBVV95cUxOUGYxdEd0dF80WWl3TkVNYTRNaDlEVjJIUm9RVHRxSEZiMFpIQXRrSGMwbThXUmpsT0tWdVhKcEc4YmlEaXJsZ2lwYkZZTEVLSXVQWFlEMUdZMmg4VVlBQmdubFBZMFBUYVhxbnNXaTNlZVdZVHk2NWhEMU5MNzhOMExkb1V5MVRwOTctRDI4REVGUWx4SUFGeDJSM2xzUnJqaWdzbU0xRDJLbzNEY2tYWXp6MmdpWkg5S2pySEtkX2hvRkN6VUZMWGdFV0pxYm04"
     },
     {
-      "title": "Federal Reserve unveils its proposal for lower bank capital requirements - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVGxOeU9KZ1VUZEhfV1JfNjB6QkRTamhXNzRZaldiaHZxcnJfcDUyd1oycU0zOUdRaG1pejdILS1qMXk0NkxYTXloM0U1bmxZMGhHMThwbmg5bndpSGt4TWxLaFJpbFlZbTVVaUFEZ0VFeFJnbDVsd010XzZ3cGI0d0Jic2ktVHlqalRjQzZ4TmVsU2hMV09SUlRYRDVaX2JGb1N6LXUyWl80eVR6NERpNGF4OWxySWplMUE?oc=5",
+      "title": "The Price of Gold is Sinking. What's Driving the Sell-Off? - Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObWZBR3l6RUZJNDh6OFBJQXNHd2s3c09SekVubV9jcE5SeE8ydmJnM0RFSjBlSlpfSC1OSTZlQ1lFODNpanZDc0FuQWxpZDRNQ3g2LWxNM3h2TjJHMnhTZTdiX1NhOGp2dDB6ZmJLRGlpNzVNSlpmOTdrekNEQngtYk14aDVRSy1ING9NYy05Nnktbms1NXYzQ0RITGdqQi1Y?oc=5",
+      "source": "Investopedia",
+      "published_at": "Thu, 19 Mar 2026 19:07:36 GMT",
+      "summary": "The Price of Gold is Sinking. What's Driving the Sell-Off? Investopedia",
+      "guid": "CBMioAFBVV95cUxObWZBR3l6RUZJNDh6OFBJQXNHd2s3c09SekVubV9jcE5SeE8ydmJnM0RFSjBlSlpfSC1OSTZlQ1lFODNpanZDc0FuQWxpZDRNQ3g2LWxNM3h2TjJHMnhTZTdiX1NhOGp2dDB6ZmJLRGlpNzVNSlpmOTdrekNEQngtYk14aDVRSy1ING9NYy05Nnktbms1NXYzQ0RITGdqQi1Y"
+    },
+    {
+      "title": "Federal Reserve proposes lowering capital requirements for banks - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMHpRNmUzeTJBWWFpZzdtbkdGekg3MllEWXpHaFdpVml2ZkxnXzV4YXQyRnJQZExoMEx1SC1Fa2RtYy00ZTNVSzJaWXY5UGxZVkVIVkJzU2M3cDdhT19JQUl1SWlpaWVKTFVIXzlmQ0xOakg3MURtUUYxUXBQbW1aY3dXSGJHeUZtbmppSXpTM2xFRC10b2Q1SGd1QmltMDV2UXF0X2FBSzM4UlBzTVdR?oc=5",
       "source": "Yahoo Finance",
-      "published_at": "Thu, 19 Mar 2026 15:41:53 GMT",
-      "summary": "Federal Reserve unveils its proposal for lower bank capital requirements Yahoo Finance",
-      "guid": "CBMiugFBVV95cUxOVGxOeU9KZ1VUZEhfV1JfNjB6QkRTamhXNzRZaldiaHZxcnJfcDUyd1oycU0zOUdRaG1pejdILS1qMXk0NkxYTXloM0U1bmxZMGhHMThwbmg5bndpSGt4TWxLaFJpbFlZbTVVaUFEZ0VFeFJnbDVsd010XzZ3cGI0d0Jic2ktVHlqalRjQzZ4TmVsU2hMV09SUlRYRDVaX2JGb1N6LXUyWl80eVR6NERpNGF4OWxySWplMUE"
+      "published_at": "Thu, 19 Mar 2026 14:28:27 GMT",
+      "summary": "Federal Reserve proposes lowering capital requirements for banks Yahoo Finance",
+      "guid": "CBMirwFBVV95cUxOMHpRNmUzeTJBWWFpZzdtbkdGekg3MllEWXpHaFdpVml2ZkxnXzV4YXQyRnJQZExoMEx1SC1Fa2RtYy00ZTNVSzJaWXY5UGxZVkVIVkJzU2M3cDdhT19JQUl1SWlpaWVKTFVIXzlmQ0xOakg3MURtUUYxUXBQbW1aY3dXSGJHeUZtbmppSXpTM2xFRC10b2Q1SGd1QmltMDV2UXF0X2FBSzM4UlBzTVdR"
     }
   ]
 }
