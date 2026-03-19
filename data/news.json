@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-19T07:56:08Z",
+  "generated_at": "2026-03-19T08:33:02Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -48,19 +48,11 @@
     },
     {
       "title": "Dow falls nearly 800 points after Powell makes one thing clear: There’s no rush to rescue the market - MarketWatch",
-      "url": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxQQkV3eGd4STVHNjNTU1JsQzBFVFoxSWdzdzB5dGpHbHdEamR2bWMxOFhzdEJIb2I4d3ZqbFJXcHRwanBLRjE3enRnVWFidEQycmFLNXVOS0swVzBXbVpkdUZnZVdlenZFM3VGV3UtUU5seVU1QVlwQU5pLWdPdl90TWcydzRadEZfbVBVZFRjVWNrcHUxTG9JZU9HbW9taWs1clNGSWRPMEh4ajQ5bEhpZGVoaGRYcTR1NGx5OXExVTB1M2lHX2RGREdwTTE0eVNscTFwUERzNVRsOTN4emRhVmU0SDFxbUJyZWxaNEhKa2k2ejJLSVE3ZzFDZmFsQU82WUxQS0FPZkJWV1M5bkpzY1ZTZUl2WkI2ajcxaGFscGxOVHhRLW1xck9XV085MW1XT2VRdjNrYjRKTU5vSEpRcGwtOHp0VVlTSFc2VjYxbnh0UUVCdmY5cHBId1QtOUR4Y1Itd2ZmZE9kU3RJb0htS1NoUnN3NUN0bFJHMVQzTzJzR002dFFzZlIyT1ppTlEwQ0tVeExMYnlUdDhuTXJXS0pfcVh5dkhCWURqeWdSdmI2Sm1HbzdGZ2FTelFWUmd1cmxONnhxTHJvZ193X05yd0lJZTFYcUJDY2o3Nm93?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxOVDZLYjFlR1BMRF92RndyRHh0SnR4c0RieFhlNUlJOHZvckVHc2p4VHR4N0ZURlJnNlZxZzBRWGlnT3hmSzJTOHUzRWdIVXI0U1duWmxzMTdzWjYtV29KZ2UtdVExeG5aRjNwRF9yV19ENlMwUjIxbHZ5ZFoyOExhNExnSlJ4SVA0V2d3WHFxNUhkc1RWNl9mSjkzNGZ3aWNPcS1nQTRMamJrNVpJaDZwT1lPRkMzanV6ZlR1eEFjTjBhSGN6MVdLc1dEb1h3N0RJWTUzVWx1eVNMdWVtWlhQVUxPalJJQ1lNVnJnX0x1dXV0ZmdwOVEwWHFzQmxwZFVLc0NncEQ5MWFqeVdqTlZfTGVTUDhwS2FDRzRkZTl0aFAxSFJ0MUhhZ050Z2ktMGdTQV9lV2MyRFl3S1ZZZmFrMFNMWkJEVk84bWJWY2RHS25qOFVsNU9TWnNVeFYxdVRLQlZvM0gyalZxZUNQSjBUWEh5MlhMNnNDcWdKVlJjalFUckM4dk54R3owRDlCdk9TREZOcEVza1dUQ25YZGVaWmVSaVU1T2J4OHFDSzVlWTdTMW15QUJZWlg3bklsV196bWNHWnp0bVlhRDZOZFRzUm9yZUtBN183Y2tvcFdR?oc=5",
       "source": "MarketWatch",
       "published_at": "Wed, 18 Mar 2026 21:46:00 GMT",
       "summary": "Dow falls nearly 800 points after Powell makes one thing clear: There’s no rush to rescue the market MarketWatch",
-      "guid": "CBMi3gNBVV95cUxQQkV3eGd4STVHNjNTU1JsQzBFVFoxSWdzdzB5dGpHbHdEamR2bWMxOFhzdEJIb2I4d3ZqbFJXcHRwanBLRjE3enRnVWFidEQycmFLNXVOS0swVzBXbVpkdUZnZVdlenZFM3VGV3UtUU5seVU1QVlwQU5pLWdPdl90TWcydzRadEZfbVBVZFRjVWNrcHUxTG9JZU9HbW9taWs1clNGSWRPMEh4ajQ5bEhpZGVoaGRYcTR1NGx5OXExVTB1M2lHX2RGREdwTTE0eVNscTFwUERzNVRsOTN4emRhVmU0SDFxbUJyZWxaNEhKa2k2ejJLSVE3ZzFDZmFsQU82WUxQS0FPZkJWV1M5bkpzY1ZTZUl2WkI2ajcxaGFscGxOVHhRLW1xck9XV085MW1XT2VRdjNrYjRKTU5vSEpRcGwtOHp0VVlTSFc2VjYxbnh0UUVCdmY5cHBId1QtOUR4Y1Itd2ZmZE9kU3RJb0htS1NoUnN3NUN0bFJHMVQzTzJzR002dFFzZlIyT1ppTlEwQ0tVeExMYnlUdDhuTXJXS0pfcVh5dkhCWURqeWdSdmI2Sm1HbzdGZ2FTelFWUmd1cmxONnhxTHJvZ193X05yd0lJZTFYcUJDY2o3Nm93"
-    },
-    {
-      "title": "Interest rates hold steady as Powell shares 'no intentions' of leaving until DOJ probe end - KATU",
-      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQT01kbl8ySk9DQmlzNDNqYlFrdGF1bS11NGJJbUZxSXVrTFhLSzA0T3Bnb1RNN0dnV1htN3BiQXJaaWlLeExwOTJZVlhMYlo0aFN2c1dRalI5RG44UWhHVERqbUdvSFllbzFLQUhDTng1cTRIY2txN2dfcU5VbGdZcGVZaFdJTkxIZFE1NmdwV1lpWlgwS3ZGRGR3ejd2Z09CQ20xSU5UWHlMUUw3Mk40TXFCbDJXNUN3UzJ3UHdCU041c1N1ZkZzMzNRVmRPU1R0RnZHd1R6bjk3RC14NE5IYzBDdWVvMzRnU1MtczhHWWtXYmd2TUN0WFBrajBhTXgxQ1hNd2R2RzhDTGhZZ0pqSjZZWldPYkp5SE5oWE9TYkl1ZWtLTmk5UW54UTE?oc=5",
-      "source": "KATU",
-      "published_at": "Thu, 19 Mar 2026 00:56:10 GMT",
-      "summary": "Interest rates hold steady as Powell shares 'no intentions' of leaving until DOJ probe end KATU",
-      "guid": "CBMirAJBVV95cUxQT01kbl8ySk9DQmlzNDNqYlFrdGF1bS11NGJJbUZxSXVrTFhLSzA0T3Bnb1RNN0dnV1htN3BiQXJaaWlLeExwOTJZVlhMYlo0aFN2c1dRalI5RG44UWhHVERqbUdvSFllbzFLQUhDTng1cTRIY2txN2dfcU5VbGdZcGVZaFdJTkxIZFE1NmdwV1lpWlgwS3ZGRGR3ejd2Z09CQ20xSU5UWHlMUUw3Mk40TXFCbDJXNUN3UzJ3UHdCU041c1N1ZkZzMzNRVmRPU1R0RnZHd1R6bjk3RC14NE5IYzBDdWVvMzRnU1MtczhHWWtXYmd2TUN0WFBrajBhTXgxQ1hNd2R2RzhDTGhZZ0pqSjZZWldPYkp5SE5oWE9TYkl1ZWtLTmk5UW54UTE"
+      "guid": "CBMi3gNBVV95cUxOVDZLYjFlR1BMRF92RndyRHh0SnR4c0RieFhlNUlJOHZvckVHc2p4VHR4N0ZURlJnNlZxZzBRWGlnT3hmSzJTOHUzRWdIVXI0U1duWmxzMTdzWjYtV29KZ2UtdVExeG5aRjNwRF9yV19ENlMwUjIxbHZ5ZFoyOExhNExnSlJ4SVA0V2d3WHFxNUhkc1RWNl9mSjkzNGZ3aWNPcS1nQTRMamJrNVpJaDZwT1lPRkMzanV6ZlR1eEFjTjBhSGN6MVdLc1dEb1h3N0RJWTUzVWx1eVNMdWVtWlhQVUxPalJJQ1lNVnJnX0x1dXV0ZmdwOVEwWHFzQmxwZFVLc0NncEQ5MWFqeVdqTlZfTGVTUDhwS2FDRzRkZTl0aFAxSFJ0MUhhZ050Z2ktMGdTQV9lV2MyRFl3S1ZZZmFrMFNMWkJEVk84bWJWY2RHS25qOFVsNU9TWnNVeFYxdVRLQlZvM0gyalZxZUNQSjBUWEh5MlhMNnNDcWdKVlJjalFUckM4dk54R3owRDlCdk9TREZOcEVza1dUQ25YZGVaWmVSaVU1T2J4OHFDSzVlWTdTMW15QUJZWlg3bklsV196bWNHWnp0bVlhRDZOZFRzUm9yZUtBN183Y2tvcFdR"
     },
     {
       "title": "US stocks hold their losses after the Federal Reserve opts again not to cut interest rates - KVOA",
@@ -71,12 +63,20 @@
       "guid": "CBMi_gFBVV95cUxQQ0V3ZEFYZ2VXUzhvVDljdlJxWVM2Zmpwbl9pVDVoUGp6S05zcG9PT0hRUFFPS05zX3RfdXRHNW1qaExEbUhyTEtXZjJ3ME1uSUNXeThET0tnWjZEMWptS3JITUxhSzQ0ZU9jTjMtSlBVQlAtOEtRTVVtVm5rdkVfLU9GR195QVBJOHF6eWN0akowb19QLWllV0VPdE83cHc0ZDNMOVpvNXZsa0NaTUJYZnN2YnMtSmxDWHZ2bjY3X01oOFQ1bS03V1p4Y1FTOW1wdVd2cEZ1azVzZXRMZTVWVkMtOVhGUlNGbDBld2hUUU1KNkNwOVpUZ0J6UHY0UQ"
     },
     {
-      "title": "5 Things to Know Before the Stock Market Opens - Investopedia",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYnJvNFI5UUt1NWQ4S1d6a3M3LVR5SXJ3ZUhmS1VZcElxWkZYMTFfQjlhZnBRUlFTQ0JtNm5PUDF5NDdQTUVYYzlYa013NHFOc21nWXhUUmVCVnN3Wm8zT1JRWnE4RVdmQVdEUXpBdEk1WVF4dS1hTHNYTUZKQUN6bUdzR0JkV3hwN0lQS1RNaENMbTA3SEt2aHN4eHotT0k?oc=5",
-      "source": "Investopedia",
-      "published_at": "Wed, 18 Mar 2026 12:14:54 GMT",
-      "summary": "5 Things to Know Before the Stock Market Opens Investopedia",
-      "guid": "CBMinwFBVV95cUxNYnJvNFI5UUt1NWQ4S1d6a3M3LVR5SXJ3ZUhmS1VZcElxWkZYMTFfQjlhZnBRUlFTQ0JtNm5PUDF5NDdQTUVYYzlYa013NHFOc21nWXhUUmVCVnN3Wm8zT1JRWnE4RVdmQVdEUXpBdEk1WVF4dS1hTHNYTUZKQUN6bUdzR0JkV3hwN0lQS1RNaENMbTA3SEt2aHN4eHotT0k"
+      "title": "Interest rates hold steady as Powell shares 'no intentions' of leaving until DOJ probe end - KATU",
+      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQT01kbl8ySk9DQmlzNDNqYlFrdGF1bS11NGJJbUZxSXVrTFhLSzA0T3Bnb1RNN0dnV1htN3BiQXJaaWlLeExwOTJZVlhMYlo0aFN2c1dRalI5RG44UWhHVERqbUdvSFllbzFLQUhDTng1cTRIY2txN2dfcU5VbGdZcGVZaFdJTkxIZFE1NmdwV1lpWlgwS3ZGRGR3ejd2Z09CQ20xSU5UWHlMUUw3Mk40TXFCbDJXNUN3UzJ3UHdCU041c1N1ZkZzMzNRVmRPU1R0RnZHd1R6bjk3RC14NE5IYzBDdWVvMzRnU1MtczhHWWtXYmd2TUN0WFBrajBhTXgxQ1hNd2R2RzhDTGhZZ0pqSjZZWldPYkp5SE5oWE9TYkl1ZWtLTmk5UW54UTE?oc=5",
+      "source": "KATU",
+      "published_at": "Thu, 19 Mar 2026 00:56:10 GMT",
+      "summary": "Interest rates hold steady as Powell shares 'no intentions' of leaving until DOJ probe end KATU",
+      "guid": "CBMirAJBVV95cUxQT01kbl8ySk9DQmlzNDNqYlFrdGF1bS11NGJJbUZxSXVrTFhLSzA0T3Bnb1RNN0dnV1htN3BiQXJaaWlLeExwOTJZVlhMYlo0aFN2c1dRalI5RG44UWhHVERqbUdvSFllbzFLQUhDTng1cTRIY2txN2dfcU5VbGdZcGVZaFdJTkxIZFE1NmdwV1lpWlgwS3ZGRGR3ejd2Z09CQ20xSU5UWHlMUUw3Mk40TXFCbDJXNUN3UzJ3UHdCU041c1N1ZkZzMzNRVmRPU1R0RnZHd1R6bjk3RC14NE5IYzBDdWVvMzRnU1MtczhHWWtXYmd2TUN0WFBrajBhTXgxQ1hNd2R2RzhDTGhZZ0pqSjZZWldPYkp5SE5oWE9TYkl1ZWtLTmk5UW54UTE"
+    },
+    {
+      "title": "The Federal Reserve Has Become a Stock Market Liability, and President Trump's New Nominee for Chair Won't Help - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbTJ1OE14anhpNjBkbW1jSGNKdUNEZUdYcnZEV3NUZVMwWEx2dmh1QXZPaGt4WUNhOWVXNkZWcmtUR1pXc0t0d0FGTENYcG5XY3EwWm9fQndha2VBZTF6U052cGM5Mzc5aXNoSlpYTTNxZmIyOHlmUVl6NHZ5UF9oRm1VdGw5UkNPUTVV?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Mon, 16 Mar 2026 15:53:00 GMT",
+      "summary": "The Federal Reserve Has Become a Stock Market Liability, and President Trump's New Nominee for Chair Won't Help Yahoo Finance",
+      "guid": "CBMiiwFBVV95cUxPbTJ1OE14anhpNjBkbW1jSGNKdUNEZUdYcnZEV3NUZVMwWEx2dmh1QXZPaGt4WUNhOWVXNkZWcmtUR1pXc0t0d0FGTENYcG5XY3EwWm9fQndha2VBZTF6U052cGM5Mzc5aXNoSlpYTTNxZmIyOHlmUVl6NHZ5UF9oRm1VdGw5UkNPUTVV"
     },
     {
       "title": "Tackling a weakened job market could be more difficult for the Fed - marketplace.org",
