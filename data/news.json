@@ -1,19 +1,11 @@
 {
-  "generated_at": "2026-03-19T13:41:14Z",
+  "generated_at": "2026-03-19T14:32:27Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
-    {
-      "title": "Stock Market Has Weathered a Host of Shocks. Is Surging Oil Too Much for It to Bear? - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQYmh2SWFyTFRMOWJ1YVpTZm9LYjM4THZRV0tRVlhuM1ZGT1FYWFN5ZENHQ29ZUHd1UkNvM1N0SlE3NHNrbUx5cGxrTjJvdWZ2aTh1UUlua1o1Q1Zac1k5MXFNTmtpbmFRSUQxOGlodmJncEtNNjJRbGN1c2xCTjk1OGw3R3JsSGlnRWtVeGUyVzNxTVVDZFI2QVZrWGlzZ09JdWVEQU0yalJsY2puRlJLUk9RMENVRnhVTHNHVUhpT29kOGFUbzM4R0JTNXFjZkxKVlFjLWFPX1dmY1lXbmlzeE5XSE1mZmp2MEdRQVh0V1hpLUt6cEdpR0luTzNJRFNCbW9KLU1Fa0J6U1dxVmdpdUdIN0tMOEVpY2s4Wms1UUppSU51OXMzam11Rng3dThMVm91UDNaMi1EWDAzbm8xY185SGJVcWs3TzBWTVBtTVlKMzFsNWVTN0h2OGFqSDRHSUtCbEg2OW94dXJ4Yk5GdXFVeU90OXZaU0p0MmF1alJfbFBJQ21yMnlibmxCUQ?oc=5",
-      "source": "Barron's",
-      "published_at": "Thu, 19 Mar 2026 11:12:00 GMT",
-      "summary": "Stock Market Has Weathered a Host of Shocks. Is Surging Oil Too Much for It to Bear? Barron's",
-      "guid": "CBMijgNBVV95cUxQYmh2SWFyTFRMOWJ1YVpTZm9LYjM4THZRV0tRVlhuM1ZGT1FYWFN5ZENHQ29ZUHd1UkNvM1N0SlE3NHNrbUx5cGxrTjJvdWZ2aTh1UUlua1o1Q1Zac1k5MXFNTmtpbmFRSUQxOGlodmJncEtNNjJRbGN1c2xCTjk1OGw3R3JsSGlnRWtVeGUyVzNxTVVDZFI2QVZrWGlzZ09JdWVEQU0yalJsY2puRlJLUk9RMENVRnhVTHNHVUhpT29kOGFUbzM4R0JTNXFjZkxKVlFjLWFPX1dmY1lXbmlzeE5XSE1mZmp2MEdRQVh0V1hpLUt6cEdpR0luTzNJRFNCbW9KLU1Fa0J6U1dxVmdpdUdIN0tMOEVpY2s4Wms1UUppSU51OXMzam11Rng3dThMVm91UDNaMi1EWDAzbm8xY185SGJVcWs3TzBWTVBtTVlKMzFsNWVTN0h2OGFqSDRHSUtCbEg2OW94dXJ4Yk5GdXFVeU90OXZaU0p0MmF1alJfbFBJQ21yMnlibmxCUQ"
-    },
     {
       "title": "U.S. stocks sink on worries about inflation as gold falls below $5,000 per ounce - PBS",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVkpFejFBYTJZMmQ5WmRIRWpQQnppb0RSeVNIcnZoR3RONDR0elNJMkJ1SVMxcjJiMHFTUGFzeUxGRW5wS2FibDRRSXpGNkVkWTZRZDk3NFpRTW4zNDZMcnVfSDJaUGZOMUY3U1hvNjhyU0Z3cjAzM0RLcmRLaFZ3bnR5Y2NYR2VRZnA3dWliWlpIUXFqOFVEVjB1c2lRcTF4dlZyT1hNaFhNem5Xcnl6WUpCMWLSAboBQVVfeXFMTnQ2c0tkZElTb1RUR1lQRl9NRlBwT2dkZWp2V0ZHaHJQelRhN0dxT0ZleWhvbkotWUlvalQ0WV93aHBEQ3RxcUowbU9IMnYwV0d6d0I0MzQtQ2JvRnFTbDVWdmJFVEJ4X25aU0JPYVlJcy1FMk04SVBTc3BmRExiVHBDYkloeDFGd2NHVHFlUTFJQWVESE40bEtyanI4WG1POUViOE5iS1RQZlNEaW1wSm1CWk0tdXpzbVVB?oc=5",
@@ -23,12 +15,12 @@
       "guid": "CBMitAFBVV95cUxNVkpFejFBYTJZMmQ5WmRIRWpQQnppb0RSeVNIcnZoR3RONDR0elNJMkJ1SVMxcjJiMHFTUGFzeUxGRW5wS2FibDRRSXpGNkVkWTZRZDk3NFpRTW4zNDZMcnVfSDJaUGZOMUY3U1hvNjhyU0Z3cjAzM0RLcmRLaFZ3bnR5Y2NYR2VRZnA3dWliWlpIUXFqOFVEVjB1c2lRcTF4dlZyT1hNaFhNem5Xcnl6WUpCMWLSAboBQVVfeXFMTnQ2c0tkZElTb1RUR1lQRl9NRlBwT2dkZWp2V0ZHaHJQelRhN0dxT0ZleWhvbkotWUlvalQ0WV93aHBEQ3RxcUowbU9IMnYwV0d6d0I0MzQtQ2JvRnFTbDVWdmJFVEJ4X25aU0JPYVlJcy1FMk04SVBTc3BmRExiVHBDYkloeDFGd2NHVHFlUTFJQWVESE40bEtyanI4WG1POUViOE5iS1RQZlNEaW1wSm1CWk0tdXpzbVVB"
     },
     {
-      "title": "Dow Jones Futures Fall As Global Oil Prices Jump; Micron Falls Despite Blowout Earnings - Investor's Business Daily",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGpOVnFiZmhhZV9KZWR2aEZyZ0YwLXZXUGVPNDU0SG5wNy1PQTkyYlVXaWhEVHhNYTZjQzZnS3Mwb2tKU2tubEJOaWRtYm1KakhwamN4cEtfZmoxNXREZ3FSY3h4WHNSUzVDM3VaNXVXSDYybUx0dUVrbnJoYWtMaFZKWmE0aXVEbjd0UlZPYk1TNmwzc25oNC05cnlSMUlILURxazRmYnUxMTdIMngwTElhYTA5S1piSThV?oc=5",
-      "source": "Investor's Business Daily",
-      "published_at": "Thu, 19 Mar 2026 12:50:08 GMT",
-      "summary": "Dow Jones Futures Fall As Global Oil Prices Jump; Micron Falls Despite Blowout Earnings Investor's Business Daily",
-      "guid": "CBMiuwFBVV95cUxPZGpOVnFiZmhhZV9KZWR2aEZyZ0YwLXZXUGVPNDU0SG5wNy1PQTkyYlVXaWhEVHhNYTZjQzZnS3Mwb2tKU2tubEJOaWRtYm1KakhwamN4cEtfZmoxNXREZ3FSY3h4WHNSUzVDM3VaNXVXSDYybUx0dUVrbnJoYWtMaFZKWmE0aXVEbjd0UlZPYk1TNmwzc25oNC05cnlSMUlILURxazRmYnUxMTdIMngwTElhYTA5S1piSThV"
+      "title": "The Stock Market Is Buckling Under the Weight of Oil and the Fed. What Comes Next. - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxPR2xhT0w4d0FtSzQ2RUJHOXpsVzdmRVdLZy1TNk53Z3FWQTRmQjhFNXpTci1pYnVlenZfNmlUTjh2bmI4SXFBRl85ZWtlc2RER0FfWjJQTG0ySDUxVFNFcXlaUUxpeUU2VjZHN2cydV9VamlaaDBQWFZaSm4wRUFyVkFBbEJPdkRteE9SdFpZVTNmSmR1LTNQZUFDUEt5Yy1WemNFQjFQekN1dTZkYkhIQ0ZjNjlxUEFZRFhfXzlaYWZGTjZwWER5RkxGSWpmb0FHZUtWaHU3dWZlSU5OTWU1elNLaEhuX21hWmV0SmZ6TllZb3JzRUpKNFdtVmIzSVo5UHhXdXg4d3Rhd1F6eTFaZEVDSU5uVXUxWlJ5ekJabXNkLVFfY0xmbzVxbGtGNkhZRDZzbE1FTE1sVW83X0tuT2ZGalpQRE5rRzcwMDJBaFVRQkEyclFHWTNYMTRURHVBUDd5OUoxRWxUNHVFZWxVQXZpbENfRmotR2k0SEU5emdKdVNKQTRyWXFVYTl2dlo3TEsxSQ?oc=5",
+      "source": "Barron's",
+      "published_at": "Thu, 19 Mar 2026 13:33:00 GMT",
+      "summary": "The Stock Market Is Buckling Under the Weight of Oil and the Fed. What Comes Next. Barron's",
+      "guid": "CBMilANBVV95cUxPR2xhT0w4d0FtSzQ2RUJHOXpsVzdmRVdLZy1TNk53Z3FWQTRmQjhFNXpTci1pYnVlenZfNmlUTjh2bmI4SXFBRl85ZWtlc2RER0FfWjJQTG0ySDUxVFNFcXlaUUxpeUU2VjZHN2cydV9VamlaaDBQWFZaSm4wRUFyVkFBbEJPdkRteE9SdFpZVTNmSmR1LTNQZUFDUEt5Yy1WemNFQjFQekN1dTZkYkhIQ0ZjNjlxUEFZRFhfXzlaYWZGTjZwWER5RkxGSWpmb0FHZUtWaHU3dWZlSU5OTWU1elNLaEhuX21hWmV0SmZ6TllZb3JzRUpKNFdtVmIzSVo5UHhXdXg4d3Rhd1F6eTFaZEVDSU5uVXUxWlJ5ekJabXNkLVFfY0xmbzVxbGtGNkhZRDZzbE1FTE1sVW83X0tuT2ZGalpQRE5rRzcwMDJBaFVRQkEyclFHWTNYMTRURHVBUDd5OUoxRWxUNHVFZWxVQXZpbENfRmotR2k0SEU5emdKdVNKQTRyWXFVYTl2dlo3TEsxSQ"
     },
     {
       "title": "Federal Reserve holds interest rates steady, citing economic uncertainty - ROI-NJ",
@@ -39,6 +31,14 @@
       "guid": "CBMitgFBVV95cUxNUURhWVViX3hBWl9DOEpRdzRGYm14WVRaWmlhX2JDdFlLS2NPTHFKR1hXSnp4NHY4UXZFWVVFVFVvRkx3NmxBTUpGSHUxOXJ6aU0yZmNZdDd2Q1JLVnU4MWxzZUVPN3VmWGticzBfb21BNC1mX092cWdvZ19aNkVSZUlvVWxqdGszbTZpWnlLWDlEdkRWMXItaFBZZmhkbVdJVFNDNS01MWN3TTBqMnhNOFhRMXdOUQ"
     },
     {
+      "title": "Dow Jones Futures Fall As Global Oil Prices Jump; Micron Falls Despite Blowout Earnings - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGpOVnFiZmhhZV9KZWR2aEZyZ0YwLXZXUGVPNDU0SG5wNy1PQTkyYlVXaWhEVHhNYTZjQzZnS3Mwb2tKU2tubEJOaWRtYm1KakhwamN4cEtfZmoxNXREZ3FSY3h4WHNSUzVDM3VaNXVXSDYybUx0dUVrbnJoYWtMaFZKWmE0aXVEbjd0UlZPYk1TNmwzc25oNC05cnlSMUlILURxazRmYnUxMTdIMngwTElhYTA5S1piSThV?oc=5",
+      "source": "Investor's Business Daily",
+      "published_at": "Thu, 19 Mar 2026 13:06:00 GMT",
+      "summary": "Dow Jones Futures Fall As Global Oil Prices Jump; Micron Falls Despite Blowout Earnings Investor's Business Daily",
+      "guid": "CBMiuwFBVV95cUxPZGpOVnFiZmhhZV9KZWR2aEZyZ0YwLXZXUGVPNDU0SG5wNy1PQTkyYlVXaWhEVHhNYTZjQzZnS3Mwb2tKU2tubEJOaWRtYm1KakhwamN4cEtfZmoxNXREZ3FSY3h4WHNSUzVDM3VaNXVXSDYybUx0dUVrbnJoYWtMaFZKWmE0aXVEbjd0UlZPYk1TNmwzc25oNC05cnlSMUlILURxazRmYnUxMTdIMngwTElhYTA5S1piSThV"
+    },
+    {
       "title": "Federal Reserve holds firm with decision not to cut interest rate - NewsNation",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTWF1NHBzVndvOFhhS0kyUFNrQ3RGT0ltc0FuOVNiSVlwTGFyblp0R2Vjb2FFcnIxNFJ3LWRMc21CRGZ1d0VnUmdHdzZiRTZPdno2T3RLUkJ0TFUzRVZudFRXZV9waVAtMHZEZGNVdkhYZUIxU2hqSEpWS1lrXzBYT3djTXdDN0Z0emZFdm5wcEdZU1ZBbE1uSdIBngFBVV95cUxPbXFDdTNkTU52YVVZYXhQMzdJSU83V2pyRWZYM2RtX3NhNlZ2YlRfUnBWYmphQTdaQmI3NXZHb245TkluQzVMNHlwZERNOTB0S0s0bUxYZURsdHNpaEEwN1IzOUxieTJZUzNjLVU3N042S2pIT2FhSmRKS1RpOFEzaExnUjd5UXpNSWQ5ZTBKd21veFNiUVVLUE5LUkMyZw?oc=5",
       "source": "NewsNation",
@@ -47,19 +47,11 @@
       "guid": "CBMimAFBVV95cUxPTWF1NHBzVndvOFhhS0kyUFNrQ3RGT0ltc0FuOVNiSVlwTGFyblp0R2Vjb2FFcnIxNFJ3LWRMc21CRGZ1d0VnUmdHdzZiRTZPdno2T3RLUkJ0TFUzRVZudFRXZV9waVAtMHZEZGNVdkhYZUIxU2hqSEpWS1lrXzBYT3djTXdDN0Z0emZFdm5wcEdZU1ZBbE1uSdIBngFBVV95cUxPbXFDdTNkTU52YVVZYXhQMzdJSU83V2pyRWZYM2RtX3NhNlZ2YlRfUnBWYmphQTdaQmI3NXZHb245TkluQzVMNHlwZERNOTB0S0s0bUxYZURsdHNpaEEwN1IzOUxieTJZUzNjLVU3N042S2pIT2FhSmRKS1RpOFEzaExnUjd5UXpNSWQ5ZTBKd21veFNiUVVLUE5LUkMyZw"
     },
     {
-      "title": "Stocks Rise as Oil Drops in Runup to Fed Meeting: Markets Wrap - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSUNVQVMyTWdSdlMxLVlLWVJmclA3WjU1S1l2WHhDVnBnQ0hPSWVuSUVJN05lNEVzLU5uTm1nT0F4TG5PSDRjUWtzQWVZLUJMMjdmSmtsTjVmYXE1WWtpRGM1WllZOWhZRUphSFZZMVRVdktYUEdNZW5HWEc1UWVWSmQzOF8zdEZLQVh2cVh6ZTRfT3BMdnc?oc=5",
-      "source": "Bloomberg.com",
-      "published_at": "Wed, 18 Mar 2026 20:59:12 GMT",
-      "summary": "Stocks Rise as Oil Drops in Runup to Fed Meeting: Markets Wrap Bloomberg.com",
-      "guid": "CBMilgFBVV95cUxOSUNVQVMyTWdSdlMxLVlLWVJmclA3WjU1S1l2WHhDVnBnQ0hPSWVuSUVJN05lNEVzLU5uTm1nT0F4TG5PSDRjUWtzQWVZLUJMMjdmSmtsTjVmYXE1WWtpRGM1WllZOWhZRUphSFZZMVRVdktYUEdNZW5HWEc1UWVWSmQzOF8zdEZLQVh2cVh6ZTRfT3BMdnc"
-    },
-    {
-      "title": "Wall St set to open lower as soaring oil prices, Fed caution rattle investors - Reuters",
+      "title": "Wall St opens lower as oil prices gain; Russell 2000 slides - Reuters",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZnd4dnBJTWNzYWlyeDI4YzNyeEt3azRBaEVMcXFUWW9pdERVa1ZwdFlpdW53ZWZ1eXJ4NkVzaFVxakl3b1hWVGt0NTFuZTZETXgwNVBSdWhQS2pqQk5nMUk5LXNQVDJRMmktZ2dCM0dLY3p5M19lZW1EcDVqRGlKbE1VdlFoWFlyZ1A1X25RcE5xbmo1bUlsWU1fc0Z1QVdfMW1zQ21hWktyVWd5WHJNS0pn?oc=5",
       "source": "Reuters",
       "published_at": "Thu, 19 Mar 2026 09:57:37 GMT",
-      "summary": "Wall St set to open lower as soaring oil prices, Fed caution rattle investors Reuters",
+      "summary": "Wall St opens lower as oil prices gain; Russell 2000 slides Reuters",
       "guid": "CBMisgFBVV95cUxNZnd4dnBJTWNzYWlyeDI4YzNyeEt3azRBaEVMcXFUWW9pdERVa1ZwdFlpdW53ZWZ1eXJ4NkVzaFVxakl3b1hWVGt0NTFuZTZETXgwNVBSdWhQS2pqQk5nMUk5LXNQVDJRMmktZ2dCM0dLY3p5M19lZW1EcDVqRGlKbE1VdlFoWFlyZ1A1X25RcE5xbmo1bUlsWU1fc0Z1QVdfMW1zQ21hWktyVWd5WHJNS0pn"
     },
     {
@@ -71,20 +63,28 @@
       "guid": "CBMigwFBVV95cUxOWW9iSWt6RFVBWElrdl90YTd0azd0WEJfWHlPVVZONzF0OFRqRXBJRlNxbVl3Sm9QbksyNnZsVDhPNUQ0d2xWWU9meDNmSHZBUUlKSVgxVlIxSk9FTGk3ZnY3Ny1EVkUzenFVZ1hGX2Vud0dUcDJ2Z29QX0h6QTRjYXpIY9IBiAFBVV95cUxNTVppa2xBenR0QzFxUk96WmZBWVdyQnd0U1gyREl5a1NSQVAyTHhHTDE2ZTVwT2QzWjVkZHNQSFZMT2taMi0wenVuSlFzOGpTMjR6SWRqZHM0N1VUc0kwTE1WemNoZV9BSG53NWZiVW1HSVJ6UEgzUEk3NXc0M1BpbVBhckg4a3Ey"
     },
     {
-      "title": "The Stock Market Is Buckling Under the Weight of Oil and the Fed. What Comes Next. - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxPQ3ZZcTU1MTE2dzNUMmJ2MS0tdmN3NHJxc2dfajR5aG12eW02aHdoajdxZ1BhX1ZnZnJ5VmFtclJXdnlnUlY1dWtBcHVGQmtoc0tIVXUtZlRoRW9oQXRnbjd5cWlIZDhTdl9VRXp3WDJEdk1LVDBndVowX0JMWG1rckVjZklRWFk4NktyQU5vaVRmU21rREZ6V3BGaFNSWjdNNmp2RVNZZmZfX2FnbkpmU1ZMR0gxUEhPTURMcFpQNzhkOFY4SC1QMktVWmhMSjJkQ3ZUVVFWcEtic3lGa29FU0xTQWNtU3BSa3Y0blN6cTJKb3c0bk5nVEUwNkF3SVhQcFdqOGZEcXc5Tjg1QWJxU0M5YlAzQ3NYNDB3dUQwM1BwNFhrRFY3WGFjNmFPQzNwSGNpQ3BJakpnNERaODN2VWtpU28zT2JUU1EyOWJkcHFsZ3BhbUVIcTdobHVBcTNGbGV1cEU5aXQyS0h6N1dCTXhLVGZuUHQwZmFUcUZnMDJLS3BkWTQ1ME9WLWdOU2cxOFI1Mg?oc=5",
-      "source": "Barron's",
-      "published_at": "Thu, 19 Mar 2026 13:33:00 GMT",
-      "summary": "The Stock Market Is Buckling Under the Weight of Oil and the Fed. What Comes Next. Barron's",
-      "guid": "CBMilANBVV95cUxPQ3ZZcTU1MTE2dzNUMmJ2MS0tdmN3NHJxc2dfajR5aG12eW02aHdoajdxZ1BhX1ZnZnJ5VmFtclJXdnlnUlY1dWtBcHVGQmtoc0tIVXUtZlRoRW9oQXRnbjd5cWlIZDhTdl9VRXp3WDJEdk1LVDBndVowX0JMWG1rckVjZklRWFk4NktyQU5vaVRmU21rREZ6V3BGaFNSWjdNNmp2RVNZZmZfX2FnbkpmU1ZMR0gxUEhPTURMcFpQNzhkOFY4SC1QMktVWmhMSjJkQ3ZUVVFWcEtic3lGa29FU0xTQWNtU3BSa3Y0blN6cTJKb3c0bk5nVEUwNkF3SVhQcFdqOGZEcXc5Tjg1QWJxU0M5YlAzQ3NYNDB3dUQwM1BwNFhrRFY3WGFjNmFPQzNwSGNpQ3BJakpnNERaODN2VWtpU28zT2JUU1EyOWJkcHFsZ3BhbUVIcTdobHVBcTNGbGV1cEU5aXQyS0h6N1dCTXhLVGZuUHQwZmFUcUZnMDJLS3BkWTQ1ME9WLWdOU2cxOFI1Mg"
-    },
-    {
       "title": "Dow falls nearly 800 points after Powell makes one thing clear: There’s no rush to rescue the market - MarketWatch",
-      "url": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxPbXF6d1JGV3Rzc0FUdHRPbTlIOV9HVHNqX24zLWREMmtiM0ZSRzhKdXFINWVvTGs0VnFLT0pnaWE2bkp5ejJxV3QzMWFqXzZkTWZmMkNwTkU0eHY1NGRsa0JPbGxDYnRvT0wzMWpOR1NYTEN0TlJVdkNFNW5aWTIwQ2lIR050bG9ycHE5UU1NQ3pnWVJraktfOHNBUE9XdkVYTUFDSGZSQVN1cDZVLUl1eEZsb0J0VHdmSXJjSnZhYkJwY1h3VUhLVGVWZUdzVFU3MXhSb0pvY1kyc2R2SVFfMWZjZVlYeVhJX2MxZlBvZUsyYnJ5M0ZlbWJfNVRuNjNKM1dhVks0VEEzZmc1NXh2YmI1aUU4OXllNE55aVF5SE5BcjJDN0VBV1REcFM3eF9TdHBPZ3gzRmxDdXlpNFhaekRKQUZ0VGpFYm41Zk5IQjQxMHlRX1hVZlBRYm55dEo0R3pUSHg5TEhlR1c0RWswb21TRlRFeDNTclJJYlp2QmZHc01oRy1NWUFpbGotbFg3bm5POFgxOUZwaEdObFJHYUE2TjlyZTVBa2pXUHVVRWxuZFZVNjJ2RUR3RlI5NGRJTGpJQnVPMF9nbW5DY0tpRlJIWXE0VUZBeno5M05B?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi3gNBVV95cUxQdVlFZHNCVVI0QjhDZ0t0bkY4dmRIWHVJZUZqR0pGVE10VFg2ZGhHLVZYbU1WYmdSV3R1VE5STkNDLW1yUDZxcU5Zdi1GelpDdUh0d2ZzZ2tOcll1UGdTM2dVMmQ0UnRGM2xFNzM1OTdZUEVYLUVyTzVXM0FUNy1yZVNCQnJaQk80MkV4MWxvVC1tejU1UjZWWkI5U0NGQWp4dEVzODlhakNIMTJCRjJtWGVZdTBqd21JVzF3d3NUOVViT094YW8tem5JRngtRVJaNzR0clFJWS12Sjc3YUZSQ2lBQkVENEJMOWlrRnJNTWItdkkycEpnSThoTXZQdmktOURHS2EwV2t1eFpTYzNiU1hWVTFPSEpFZW1ReHNTSmd2NEU1LUxyWUNqNUpSZ1BTeHhvLXg5a1BnZG9KRWhERlJvZHNjaGJLd041d3k5YktfSW9RVHlQMFVrYUNOY21kR2VyTmd5MXNmdFRVSTVKb1R3WW9zQkRTLXREcEJrOUpiNGszRGZZR1JwcklMVGhSTVE3ZGxxZ0paZ0dGdEVJdDRBRkRlNVVVMk5nUy1CQW5OQnBkVl9RYzlORzlaVVdrQmVpOUdXRDNWUDA0NVlnSFJrLTZpVkx3NUs0bmRn?oc=5",
       "source": "MarketWatch",
       "published_at": "Wed, 18 Mar 2026 21:46:00 GMT",
       "summary": "Dow falls nearly 800 points after Powell makes one thing clear: There’s no rush to rescue the market MarketWatch",
-      "guid": "CBMi3gNBVV95cUxPbXF6d1JGV3Rzc0FUdHRPbTlIOV9HVHNqX24zLWREMmtiM0ZSRzhKdXFINWVvTGs0VnFLT0pnaWE2bkp5ejJxV3QzMWFqXzZkTWZmMkNwTkU0eHY1NGRsa0JPbGxDYnRvT0wzMWpOR1NYTEN0TlJVdkNFNW5aWTIwQ2lIR050bG9ycHE5UU1NQ3pnWVJraktfOHNBUE9XdkVYTUFDSGZSQVN1cDZVLUl1eEZsb0J0VHdmSXJjSnZhYkJwY1h3VUhLVGVWZUdzVFU3MXhSb0pvY1kyc2R2SVFfMWZjZVlYeVhJX2MxZlBvZUsyYnJ5M0ZlbWJfNVRuNjNKM1dhVks0VEEzZmc1NXh2YmI1aUU4OXllNE55aVF5SE5BcjJDN0VBV1REcFM3eF9TdHBPZ3gzRmxDdXlpNFhaekRKQUZ0VGpFYm41Zk5IQjQxMHlRX1hVZlBRYm55dEo0R3pUSHg5TEhlR1c0RWswb21TRlRFeDNTclJJYlp2QmZHc01oRy1NWUFpbGotbFg3bm5POFgxOUZwaEdObFJHYUE2TjlyZTVBa2pXUHVVRWxuZFZVNjJ2RUR3RlI5NGRJTGpJQnVPMF9nbW5DY0tpRlJIWXE0VUZBeno5M05B"
+      "guid": "CBMi3gNBVV95cUxQdVlFZHNCVVI0QjhDZ0t0bkY4dmRIWHVJZUZqR0pGVE10VFg2ZGhHLVZYbU1WYmdSV3R1VE5STkNDLW1yUDZxcU5Zdi1GelpDdUh0d2ZzZ2tOcll1UGdTM2dVMmQ0UnRGM2xFNzM1OTdZUEVYLUVyTzVXM0FUNy1yZVNCQnJaQk80MkV4MWxvVC1tejU1UjZWWkI5U0NGQWp4dEVzODlhakNIMTJCRjJtWGVZdTBqd21JVzF3d3NUOVViT094YW8tem5JRngtRVJaNzR0clFJWS12Sjc3YUZSQ2lBQkVENEJMOWlrRnJNTWItdkkycEpnSThoTXZQdmktOURHS2EwV2t1eFpTYzNiU1hWVTFPSEpFZW1ReHNTSmd2NEU1LUxyWUNqNUpSZ1BTeHhvLXg5a1BnZG9KRWhERlJvZHNjaGJLd041d3k5YktfSW9RVHlQMFVrYUNOY21kR2VyTmd5MXNmdFRVSTVKb1R3WW9zQkRTLXREcEJrOUpiNGszRGZZR1JwcklMVGhSTVE3ZGxxZ0paZ0dGdEVJdDRBRkRlNVVVMk5nUy1CQW5OQnBkVl9RYzlORzlaVVdrQmVpOUdXRDNWUDA0NVlnSFJrLTZpVkx3NUs0bmRn"
+    },
+    {
+      "title": "The Federal Reserve Has Become a Stock Market Liability, and President Trump's New Nominee for Chair Won't Help - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbTJ1OE14anhpNjBkbW1jSGNKdUNEZUdYcnZEV3NUZVMwWEx2dmh1QXZPaGt4WUNhOWVXNkZWcmtUR1pXc0t0d0FGTENYcG5XY3EwWm9fQndha2VBZTF6U052cGM5Mzc5aXNoSlpYTTNxZmIyOHlmUVl6NHZ5UF9oRm1VdGw5UkNPUTVV?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Mon, 16 Mar 2026 15:53:00 GMT",
+      "summary": "The Federal Reserve Has Become a Stock Market Liability, and President Trump's New Nominee for Chair Won't Help Yahoo Finance",
+      "guid": "CBMiiwFBVV95cUxPbTJ1OE14anhpNjBkbW1jSGNKdUNEZUdYcnZEV3NUZVMwWEx2dmh1QXZPaGt4WUNhOWVXNkZWcmtUR1pXc0t0d0FGTENYcG5XY3EwWm9fQndha2VBZTF6U052cGM5Mzc5aXNoSlpYTTNxZmIyOHlmUVl6NHZ5UF9oRm1VdGw5UkNPUTVV"
+    },
+    {
+      "title": "Dow Slides 768 Points on Inflation Fears: Stock Market Today - Kiplinger",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTGRFUDYwMHkxUk9kNGRZVWJOV3ZzNEQ1YVZ1STZVVVNudGtOQkpxTUh6cktER3FUQXNxRUxLdlpVUTlxYjVpWUhXZDFRYk9VNHBrbFc4QmFKM09yQ0RZMm1sU05sTmxDenFYeFQzZ2tSM1E4SnZKWGY0UGNRaUJPRVRMMkhhaXM4eUkybndzYjJMeEJralNxY1FZMF9ZNS1FT3EtOQ?oc=5",
+      "source": "Kiplinger",
+      "published_at": "Wed, 18 Mar 2026 20:12:48 GMT",
+      "summary": "Dow Slides 768 Points on Inflation Fears: Stock Market Today Kiplinger",
+      "guid": "CBMipAFBVV95cUxQTGRFUDYwMHkxUk9kNGRZVWJOV3ZzNEQ1YVZ1STZVVVNudGtOQkpxTUh6cktER3FUQXNxRUxLdlpVUTlxYjVpWUhXZDFRYk9VNHBrbFc4QmFKM09yQ0RZMm1sU05sTmxDenFYeFQzZ2tSM1E4SnZKWGY0UGNRaUJPRVRMMkhhaXM4eUkybndzYjJMeEJralNxY1FZMF9ZNS1FT3EtOQ"
     }
   ]
 }
