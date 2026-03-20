@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-20T09:57:01Z",
+  "generated_at": "2026-03-20T10:32:14Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -8,11 +8,11 @@
   "items": [
     {
       "title": "The Stock Market Is Buckling Under the Weight of Oil and the Fed. What Comes Next. - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxPRWxHWEViWjdlT3RVRVY5Sko3WGtIbTZ2MzRVbFFPQzZxNWVZZFFWdVFWU21JMkp2QVN6aXhrdFYwRVFhNlp6LV9qVHQ3TlB2YmlyVFdJWFAtU3J2ODJfV1hRZUN1RDhKc1NWVE83WkJjRThMcXNlQWVNem9wQUFLd1I4bHVVVnJXUmNKeEpYcWZVOWtFSHJ5Qk01MzRIN3B4MDRUZFp4YVlRX2tkR0FSRUdMSlYtM1dJM0w1TV9mM0thclZ3VXVhbGwtelFQRllPNlVPdFVMbm0zNUFXanRjRXduVkNHX0libnhsRFZwSnJjYnRnYmx3WjJTSUVLTmNMT1l1NmQ3MEhKamxtUDgxbXdtQ1czTDVFWFprLVNvVVRFZ0ZXRnFQOXFRM3RoRHZZb3NNa01HaUVLRC1DNVJrdnNOMWZWd19ndVJYbmVNeFpZU1liLVNiVGlCM0JiZDlNRGo3ZkhMLUtkQjRCUXJwczRsZEE2Q2JQMkVaVkJza2VoRG5tLVMyakxBMkJiMkpGUTZHXw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxPOVBtNEstdExfYVByaXRqUXctUmlVb3A2cjY5SEtnWUZKQlpHYmE0M2JmT1dNbDkzU1JITWZfQ3U4Q1B1NE1KRmQ1X1BMdUVkNGFOeFEwejNXajZrVEF2U2NWbWVsLTltbkNpQllRVmJtRUgyT2wtRG01bUMwelQwaEd2SHZ6cE8wc3dQQUdwVnViUVJGV0tqMDVkV1NISGFBclFUM0FJOUNCREVjVnFHNnF3VzFmQ2pQUmlLQkI5cWZCVks1ZlBfNlp6REdtVmlnX1JNZUNMTi14Zl9rTzVpeTRTUWgxRm5vdzVCY2tNbGFLS0l5cE5pazR1UWFkUWtNa3hsUzd6Q2N3WEZsZzdJeW9NQ0VheG1KejRLVmhfNmNBM2UtbjNONHRhOG1DclZWSjNYTXUxSXQ3Y1hUSThuSFhoR0gtakVXckxXV2E0V19nT1FmeExMOXltVTRETzVTODlQV2hWd1g3c3FMOVZXXzZpU3FGemVzWFdTNlJfcEJMTW9SZktEUjRXbS1sNE1XR2EwQQ?oc=5",
       "source": "Barron's",
       "published_at": "Thu, 19 Mar 2026 13:34:00 GMT",
       "summary": "The Stock Market Is Buckling Under the Weight of Oil and the Fed. What Comes Next. Barron's",
-      "guid": "CBMilANBVV95cUxPRWxHWEViWjdlT3RVRVY5Sko3WGtIbTZ2MzRVbFFPQzZxNWVZZFFWdVFWU21JMkp2QVN6aXhrdFYwRVFhNlp6LV9qVHQ3TlB2YmlyVFdJWFAtU3J2ODJfV1hRZUN1RDhKc1NWVE83WkJjRThMcXNlQWVNem9wQUFLd1I4bHVVVnJXUmNKeEpYcWZVOWtFSHJ5Qk01MzRIN3B4MDRUZFp4YVlRX2tkR0FSRUdMSlYtM1dJM0w1TV9mM0thclZ3VXVhbGwtelFQRllPNlVPdFVMbm0zNUFXanRjRXduVkNHX0libnhsRFZwSnJjYnRnYmx3WjJTSUVLTmNMT1l1NmQ3MEhKamxtUDgxbXdtQ1czTDVFWFprLVNvVVRFZ0ZXRnFQOXFRM3RoRHZZb3NNa01HaUVLRC1DNVJrdnNOMWZWd19ndVJYbmVNeFpZU1liLVNiVGlCM0JiZDlNRGo3ZkhMLUtkQjRCUXJwczRsZEE2Q2JQMkVaVkJza2VoRG5tLVMyakxBMkJiMkpGUTZHXw"
+      "guid": "CBMilANBVV95cUxPOVBtNEstdExfYVByaXRqUXctUmlVb3A2cjY5SEtnWUZKQlpHYmE0M2JmT1dNbDkzU1JITWZfQ3U4Q1B1NE1KRmQ1X1BMdUVkNGFOeFEwejNXajZrVEF2U2NWbWVsLTltbkNpQllRVmJtRUgyT2wtRG01bUMwelQwaEd2SHZ6cE8wc3dQQUdwVnViUVJGV0tqMDVkV1NISGFBclFUM0FJOUNCREVjVnFHNnF3VzFmQ2pQUmlLQkI5cWZCVks1ZlBfNlp6REdtVmlnX1JNZUNMTi14Zl9rTzVpeTRTUWgxRm5vdzVCY2tNbGFLS0l5cE5pazR1UWFkUWtNa3hsUzd6Q2N3WEZsZzdJeW9NQ0VheG1KejRLVmhfNmNBM2UtbjNONHRhOG1DclZWSjNYTXUxSXQ3Y1hUSThuSFhoR0gtakVXckxXV2E0V19nT1FmeExMOXltVTRETzVTODlQV2hWd1g3c3FMOVZXXzZpU3FGemVzWFdTNlJfcEJMTW9SZktEUjRXbS1sNE1XR2EwQQ"
     },
     {
       "title": "In This Crisis, the Best Investors Can Expect From the Fed Is Nothing - The New York Times",
@@ -21,6 +21,14 @@
       "published_at": "Thu, 19 Mar 2026 15:06:28 GMT",
       "summary": "In This Crisis, the Best Investors Can Expect From the Fed Is Nothing The New York Times",
       "guid": "CBMikwFBVV95cUxNX19PbmJFZkdSZjhBdkRic2lLWG94QVNRS2hUaW0yMG5mTGdvQkkyR2tzT3VvRVdMU1hvdUNONVc5ZV85aGJTYlJONFVBN0pLb2J5SEVSajZpMjBtNzYyWjh3Um1mR2wtejNBQW45NFAyZ3lEaDBwMVJacjcwaC1vendpclBMaWtjZGxMMGpCTW9oVmc"
+    },
+    {
+      "title": "Brent crude briefly tops $119 per barrel, before receding, and shakes stock markets worldwide - Los Angeles Times",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdDEyd1V6M0g3NU9VSk92Vzh2VE40ZnJiWE40LU54NG1mNi1SU3VoUTRJcms1RTcxV3F5N2NfYTVUSGR6ZU9xa21JT3dySXNxdWdZcDFfU0FvWURPUGg4bW55amRRRzNWNU0zd0kzSUh0alpoVy1kWWZ4bDRKaVZ5MVd0S1JNYWxPM1UzMFpyV2xrWkVDYWhhMG5wOGE3T2xWWkJRdE9xczlZbDBtWUNGRi1LSGdNOHFDRU83b1VyYkxLV1V3cWlBZ0x3M25LSEgyZ0E?oc=5",
+      "source": "Los Angeles Times",
+      "published_at": "Thu, 19 Mar 2026 20:36:41 GMT",
+      "summary": "Brent crude briefly tops $119 per barrel, before receding, and shakes stock markets worldwide Los Angeles Times",
+      "guid": "CBMi0gFBVV95cUxNdDEyd1V6M0g3NU9VSk92Vzh2VE40ZnJiWE40LU54NG1mNi1SU3VoUTRJcms1RTcxV3F5N2NfYTVUSGR6ZU9xa21JT3dySXNxdWdZcDFfU0FvWURPUGg4bW55amRRRzNWNU0zd0kzSUh0alpoVy1kWWZ4bDRKaVZ5MVd0S1JNYWxPM1UzMFpyV2xrWkVDYWhhMG5wOGE3T2xWWkJRdE9xczlZbDBtWUNGRi1LSGdNOHFDRU83b1VyYkxLV1V3cWlBZ0x3M25LSEgyZ0E"
     },
     {
       "title": "Weekly market commentary - blackrock.com",
@@ -55,14 +63,6 @@
       "guid": "CBMisgFBVV95cUxNZnd4dnBJTWNzYWlyeDI4YzNyeEt3azRBaEVMcXFUWW9pdERVa1ZwdFlpdW53ZWZ1eXJ4NkVzaFVxakl3b1hWVGt0NTFuZTZETXgwNVBSdWhQS2pqQk5nMUk5LXNQVDJRMmktZ2dCM0dLY3p5M19lZW1EcDVqRGlKbE1VdlFoWFlyZ1A1X25RcE5xbmo1bUlsWU1fc0Z1QVdfMW1zQ21hWktyVWd5WHJNS0pn"
     },
     {
-      "title": "Dow Slides 768 Points on Inflation Fears: Stock Market Today - Kiplinger",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTGRFUDYwMHkxUk9kNGRZVWJOV3ZzNEQ1YVZ1STZVVVNudGtOQkpxTUh6cktER3FUQXNxRUxLdlpVUTlxYjVpWUhXZDFRYk9VNHBrbFc4QmFKM09yQ0RZMm1sU05sTmxDenFYeFQzZ2tSM1E4SnZKWGY0UGNRaUJPRVRMMkhhaXM4eUkybndzYjJMeEJralNxY1FZMF9ZNS1FT3EtOQ?oc=5",
-      "source": "Kiplinger",
-      "published_at": "Wed, 18 Mar 2026 20:12:48 GMT",
-      "summary": "Dow Slides 768 Points on Inflation Fears: Stock Market Today Kiplinger",
-      "guid": "CBMipAFBVV95cUxQTGRFUDYwMHkxUk9kNGRZVWJOV3ZzNEQ1YVZ1STZVVVNudGtOQkpxTUh6cktER3FUQXNxRUxLdlpVUTlxYjVpWUhXZDFRYk9VNHBrbFc4QmFKM09yQ0RZMm1sU05sTmxDenFYeFQzZ2tSM1E4SnZKWGY0UGNRaUJPRVRMMkhhaXM4eUkybndzYjJMeEJralNxY1FZMF9ZNS1FT3EtOQ"
-    },
-    {
       "title": "US moves to soften capital rules: ‘Big banks can declare mission accomplished’ - The Guardian",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVndMRTNaZzgwcVJaUXBoOGpDSzZQQlZweEZ4RXdYSXNhQ2RKVElUcFVoMHBXWEhuTGpmaGxWcjdRRkxmUnptOExLdTF5c0FfS2Qtem1tY3NjRk9HRE1obTNSakNKai13UE5OZDM1aXRmVWhlZWJfcG5feDZ1eUNMbWQ4bDJUNmhOYm1GME8zQllhTVhy?oc=5",
       "source": "The Guardian",
@@ -72,11 +72,11 @@
     },
     {
       "title": "Stock Market Has Weathered a Host of Shocks. Is Surging Oil Too Much for It to Bear? - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxPd1VhOHVIZW5mSy1UbmVMdVBLV09tMFFsaWxfNWpzbDYyeG9GeHQ5cnExY2hoREJ0QThaX1FqQTFodkZFa2RhLWpLY3J4S2tvRmN2VEVOWWlWSVdiREhiRGp0VmEwbWlyeElBVUNQT256YTAwdEh4UDRxYTMxa3BPdkxHWDczV091cmUxLUVOcTk5MGpFTkV3RmxCUDltbWU4V01DbW1RLXdFdEh5MkFlUDA1SGwyY3pBSE85bzV0eFh2SDVRRXJ4RjMxbkhMQ3NXVkZTOWlTZWJ4WllZRklIZTZJQlV3LUpFdFpaTFZTTUFIS0txTW1MbHVDS3lKZk9wMkpXNVNfd1lSakF5a3FvYlZYTW10dnMxbDBqYVF3dDdrVTBudmhaWkhxQWE1VHJQU0xGWXJhQTZtMjYwSmJ5clpVMTNSNjBBMno0WHYwVHdXNHVuT0FjZUVHdlFTaWlJdnlScFZOSmVDaFd1ZXhmSU9RUmZ6Z2hseHFzRWxmM1dSQ3VTTG9ybk9COThBUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxOeGpLeVdKaXVyYUdyQkpFSmh3Y3NkTmstWVVTUTRMQ1VPZnVFWnlmaG9nc0pNYnZvWTZ0dUZhbWVOb3JWVUtIQnNrQV94dlBURnNXNFd3YUpONUExaHRxRkdnUlhKVnhfcENsY2RKdDdxWS03NE44V1VlY2wwUngtNjdHeVpDamNjRHUtQUJaZDAzbVp3VmF3VnlGRk12eHZnckhjNHRfX1phSzJHVzJXYzFLYXdySW1mc3ZwOGhNblp3b2pmbWZETU5FMEQ2OGxGYk05Z204X2pXTTdDQVB0OTY4bkRzSzdoSTFaZ2lHZWlIVlhOX05HUmdiaW9qUEdPbmkyWTdNZVVBTHBXd3NFQlFud2dyRUpoTkNRMWwzTWYyRkRtMWdLOTBwRmdBYmg3MEFrZnR0eTJEYUFTY3k3dHAxeHNrTHRMRTBOaDlmdW16N05JSGU5NXB2SVpUanpITWRpSlBhZmZTNUJXcjhzY0RrcEFzelYyOTVhM1EwRTM0Vjd1ajBaVmpLbmtlUQ?oc=5",
       "source": "Barron's",
       "published_at": "Thu, 19 Mar 2026 11:12:00 GMT",
       "summary": "Stock Market Has Weathered a Host of Shocks. Is Surging Oil Too Much for It to Bear? Barron's",
-      "guid": "CBMijgNBVV95cUxPd1VhOHVIZW5mSy1UbmVMdVBLV09tMFFsaWxfNWpzbDYyeG9GeHQ5cnExY2hoREJ0QThaX1FqQTFodkZFa2RhLWpLY3J4S2tvRmN2VEVOWWlWSVdiREhiRGp0VmEwbWlyeElBVUNQT256YTAwdEh4UDRxYTMxa3BPdkxHWDczV091cmUxLUVOcTk5MGpFTkV3RmxCUDltbWU4V01DbW1RLXdFdEh5MkFlUDA1SGwyY3pBSE85bzV0eFh2SDVRRXJ4RjMxbkhMQ3NXVkZTOWlTZWJ4WllZRklIZTZJQlV3LUpFdFpaTFZTTUFIS0txTW1MbHVDS3lKZk9wMkpXNVNfd1lSakF5a3FvYlZYTW10dnMxbDBqYVF3dDdrVTBudmhaWkhxQWE1VHJQU0xGWXJhQTZtMjYwSmJ5clpVMTNSNjBBMno0WHYwVHdXNHVuT0FjZUVHdlFTaWlJdnlScFZOSmVDaFd1ZXhmSU9RUmZ6Z2hseHFzRWxmM1dSQ3VTTG9ybk9COThBUQ"
+      "guid": "CBMijgNBVV95cUxOeGpLeVdKaXVyYUdyQkpFSmh3Y3NkTmstWVVTUTRMQ1VPZnVFWnlmaG9nc0pNYnZvWTZ0dUZhbWVOb3JWVUtIQnNrQV94dlBURnNXNFd3YUpONUExaHRxRkdnUlhKVnhfcENsY2RKdDdxWS03NE44V1VlY2wwUngtNjdHeVpDamNjRHUtQUJaZDAzbVp3VmF3VnlGRk12eHZnckhjNHRfX1phSzJHVzJXYzFLYXdySW1mc3ZwOGhNblp3b2pmbWZETU5FMEQ2OGxGYk05Z204X2pXTTdDQVB0OTY4bkRzSzdoSTFaZ2lHZWlIVlhOX05HUmdiaW9qUEdPbmkyWTdNZVVBTHBXd3NFQlFud2dyRUpoTkNRMWwzTWYyRkRtMWdLOTBwRmdBYmg3MEFrZnR0eTJEYUFTY3k3dHAxeHNrTHRMRTBOaDlmdW16N05JSGU5NXB2SVpUanpITWRpSlBhZmZTNUJXcjhzY0RrcEFzelYyOTVhM1EwRTM0Vjd1ajBaVmpLbmtlUQ"
     },
     {
       "title": "The Fed decision, Micron earnings, Amazon's USPS contract and more in Morning Squawk - CNBC",
