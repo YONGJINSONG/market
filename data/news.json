@@ -1,19 +1,11 @@
 {
-  "generated_at": "2026-03-20T22:16:40Z",
+  "generated_at": "2026-03-20T22:52:22Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
-    {
-      "title": "March 19, 2026 -- Notice of Open Board Meeting - Federal Reserve Board (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9GVmtqUWJ0ZVZJeXVnVkFJWTF3N0JNekJqYl9UenpZMEJyeHZVUUUyTkU0dno3aVQ0UXlkSmVSSGl5TGhaTFcyQ0tIRDc0UTVuZzJ4LTVjWWJrZjlSbHRQSjF0a0NuNzRNaTJQUkZya3NxeHdtSGlKU05reG5Tdw?oc=5",
-      "source": "Federal Reserve Board (.gov)",
-      "published_at": "Fri, 20 Mar 2026 03:23:51 GMT",
-      "summary": "March 19, 2026 -- Notice of Open Board Meeting Federal Reserve Board (.gov)",
-      "guid": "CBMifkFVX3lxTE9GVmtqUWJ0ZVZJeXVnVkFJWTF3N0JNekJqYl9UenpZMEJyeHZVUUUyTkU0dno3aVQ0UXlkSmVSSGl5TGhaTFcyQ0tIRDc0UTVuZzJ4LTVjWWJrZjlSbHRQSjF0a0NuNzRNaTJQUkZya3NxeHdtSGlKU05reG5Tdw"
-    },
     {
       "title": "Federal Reserve holds interest rates steady, signals one rate cut amid inflation uncertainty - U.S. Bank",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw?oc=5",
@@ -23,20 +15,20 @@
       "guid": "CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw"
     },
     {
-      "title": "US stocks fall as hopes wither for a cut to interest rates by the Federal Reserve this year - WTOP",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTE1IWDlVNWtEOWI5aEhQVGloVUVhUXFZNmN1MURQeGkycldEYUVPYm9ZcG9YMGpCZXRFRG03eHQ1OTVoVVpPdnMxakt5YWNlRkdiblk2WUhFX041bWdyZ3R4Y1VRVFYta05fTldNcnVfbHZVcHNTUWFiQUFKRmJCcW11X2t6SF9ZSHdYajlJaV8yNGZNVjA3c2Z3TTZOVHZDNmtYWnBTM1lMc3EzbWZ2YUFWc2xKb2ljUV9SSg?oc=5",
-      "source": "WTOP",
-      "published_at": "Fri, 20 Mar 2026 17:15:00 GMT",
-      "summary": "US stocks fall as hopes wither for a cut to interest rates by the Federal Reserve this year WTOP",
-      "guid": "CBMivAFBVV95cUxNTE1IWDlVNWtEOWI5aEhQVGloVUVhUXFZNmN1MURQeGkycldEYUVPYm9ZcG9YMGpCZXRFRG03eHQ1OTVoVVpPdnMxakt5YWNlRkdiblk2WUhFX041bWdyZ3R4Y1VRVFYta05fTldNcnVfbHZVcHNTUWFiQUFKRmJCcW11X2t6SF9ZSHdYajlJaV8yNGZNVjA3c2Z3TTZOVHZDNmtYWnBTM1lMc3EzbWZ2YUFWc2xKb2ljUV9SSg"
-    },
-    {
       "title": "High oil prices knock down stocks and erase Wall Street's hopes for a cut to interest rates - Yahoo! Finance Canada",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWGgwLUZDY0RXZ3dtNzBWSFlEak1FQ0M0b0VoYUZOQS1oLVVzQ04yN29yanlnT2NFcHN3OFY0VFhNVi1XOHlrVVdSTl9qdkZNUGF0am9aWUxTOHo1Mk52RzFra0t3dDY4cE5sUGQzM2NEZXFLUDJrV3ExUHpWLThCdUhZTQ?oc=5",
       "source": "Yahoo! Finance Canada",
       "published_at": "Fri, 20 Mar 2026 21:47:44 GMT",
       "summary": "High oil prices knock down stocks and erase Wall Street's hopes for a cut to interest rates Yahoo! Finance Canada",
       "guid": "CBMigwFBVV95cUxOWGgwLUZDY0RXZ3dtNzBWSFlEak1FQ0M0b0VoYUZOQS1oLVVzQ04yN29yanlnT2NFcHN3OFY0VFhNVi1XOHlrVVdSTl9qdkZNUGF0am9aWUxTOHo1Mk52RzFra0t3dDY4cE5sUGQzM2NEZXFLUDJrV3ExUHpWLThCdUhZTQ"
+    },
+    {
+      "title": "US stocks fall as hopes wither for a cut to interest rates by the Federal Reserve this year - WTOP",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTE1IWDlVNWtEOWI5aEhQVGloVUVhUXFZNmN1MURQeGkycldEYUVPYm9ZcG9YMGpCZXRFRG03eHQ1OTVoVVpPdnMxakt5YWNlRkdiblk2WUhFX041bWdyZ3R4Y1VRVFYta05fTldNcnVfbHZVcHNTUWFiQUFKRmJCcW11X2t6SF9ZSHdYajlJaV8yNGZNVjA3c2Z3TTZOVHZDNmtYWnBTM1lMc3EzbWZ2YUFWc2xKb2ljUV9SSg?oc=5",
+      "source": "WTOP",
+      "published_at": "Fri, 20 Mar 2026 17:15:00 GMT",
+      "summary": "US stocks fall as hopes wither for a cut to interest rates by the Federal Reserve this year WTOP",
+      "guid": "CBMivAFBVV95cUxNTE1IWDlVNWtEOWI5aEhQVGloVUVhUXFZNmN1MURQeGkycldEYUVPYm9ZcG9YMGpCZXRFRG03eHQ1OTVoVVpPdnMxakt5YWNlRkdiblk2WUhFX041bWdyZ3R4Y1VRVFYta05fTldNcnVfbHZVcHNTUWFiQUFKRmJCcW11X2t6SF9ZSHdYajlJaV8yNGZNVjA3c2Z3TTZOVHZDNmtYWnBTM1lMc3EzbWZ2YUFWc2xKb2ljUV9SSg"
     },
     {
       "title": "Stocks sink on fears the war with Iran will keep interest rates high - Newsday",
@@ -48,11 +40,11 @@
     },
     {
       "title": "The Stock Market Is Buckling Under the Weight of Oil and the Fed. What Comes Next. - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxQUlIyMTJuZXR4WDU4X21XOWtkSjlmX3lEYUNkVmdULU1ocU9PdWI3Y0JDczF4NDhHNk9sclFzam9RR0pWZjVlZFlQQ0hYdEc0Uk1QZG05bGVaM1FkbUwtTkdZZUQxTnNtbWtLWnlVRXhlYThVWndOTG1jVDJiTnlIZ1YwTlVxYUxPWHpmMVYtSzFpQXdIWENWbklWeFN6amNBMjlncG9SVExXMU1MRzdkZE9McU4xWjdSODZtOGtXRS1ub1o3Tk1rOUdlMWg4YVVlWVdpQzY1VlNuM05yN0VZalFicUJjMHE4TWxuQkVHNzFrUlZfWWpPXy1rem5ucHIxT0w5dW8tNWxTRTFUVGowRVRhZlBzWlQzMEdNYVRHSkxabGxrS0pFMXhzd0l3c2EwZ3NmM0V5a2lsUE9KT21IR3c4emVuQl9rUlRIUm5QZGIyTGJMem9EdnAzNGNZTEJyclFCNE1pQmRkYUt5cXhMU1hUc01JYXBlMHY3TlpvRGR1NEhTUnhyMkFvXzNnczNsRkVfXw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxQd0xnSHpQYy1fUU1IWFB0b2VVM2M0eWUzOGQ0Q0V2VWszanNXazU4TktUd0VYSFFNMVVkaTVWd283bFZuWlFwYzFRTmc3WFhNWUI4WVVrczNRTEhoaVFvTnJ1Z2psNmoyOUlRWElCR25XTU43VWhvTnZkV19aZUt2azBEX2RCdXF6OVdGZDZzZFdvbXBzMDZkUFFscXdSMDJJNEo4TTFQLVhxckp3cFFCa3ktZV9RQmlhOEdyNWJycEl3TWJIcG4ySG9ScFpPUFQ4VjhUdVpHYmRfNEF0cERYSmZMY19tQ3NCb1NEbDJJZS1BWDAzalMybWJOaXhDVElzYjVUOXFqQm5kYnRYYU1qcUJrbGNMUDdGaWx5RUZ2RVRsRzJnUzRQMElDcEVnSVN4bG83bG5xZ2UwTEpETGUxYjBlWTBkVnNiT3IzeG9ZaHhodjlNZ2xqZkFWT1l4U3dfWkVuTTJlYTd1b3dOZUppOEhkcVhLYW5iVkROVzhzS1FwZVNfQms3cHo2NlR4cnF3NkY2NQ?oc=5",
       "source": "Barron's",
       "published_at": "Thu, 19 Mar 2026 13:34:00 GMT",
       "summary": "The Stock Market Is Buckling Under the Weight of Oil and the Fed. What Comes Next. Barron's",
-      "guid": "CBMilANBVV95cUxQUlIyMTJuZXR4WDU4X21XOWtkSjlmX3lEYUNkVmdULU1ocU9PdWI3Y0JDczF4NDhHNk9sclFzam9RR0pWZjVlZFlQQ0hYdEc0Uk1QZG05bGVaM1FkbUwtTkdZZUQxTnNtbWtLWnlVRXhlYThVWndOTG1jVDJiTnlIZ1YwTlVxYUxPWHpmMVYtSzFpQXdIWENWbklWeFN6amNBMjlncG9SVExXMU1MRzdkZE9McU4xWjdSODZtOGtXRS1ub1o3Tk1rOUdlMWg4YVVlWVdpQzY1VlNuM05yN0VZalFicUJjMHE4TWxuQkVHNzFrUlZfWWpPXy1rem5ucHIxT0w5dW8tNWxTRTFUVGowRVRhZlBzWlQzMEdNYVRHSkxabGxrS0pFMXhzd0l3c2EwZ3NmM0V5a2lsUE9KT21IR3c4emVuQl9rUlRIUm5QZGIyTGJMem9EdnAzNGNZTEJyclFCNE1pQmRkYUt5cXhMU1hUc01JYXBlMHY3TlpvRGR1NEhTUnhyMkFvXzNnczNsRkVfXw"
+      "guid": "CBMilANBVV95cUxQd0xnSHpQYy1fUU1IWFB0b2VVM2M0eWUzOGQ0Q0V2VWszanNXazU4TktUd0VYSFFNMVVkaTVWd283bFZuWlFwYzFRTmc3WFhNWUI4WVVrczNRTEhoaVFvTnJ1Z2psNmoyOUlRWElCR25XTU43VWhvTnZkV19aZUt2azBEX2RCdXF6OVdGZDZzZFdvbXBzMDZkUFFscXdSMDJJNEo4TTFQLVhxckp3cFFCa3ktZV9RQmlhOEdyNWJycEl3TWJIcG4ySG9ScFpPUFQ4VjhUdVpHYmRfNEF0cERYSmZMY19tQ3NCb1NEbDJJZS1BWDAzalMybWJOaXhDVElzYjVUOXFqQm5kYnRYYU1qcUJrbGNMUDdGaWx5RUZ2RVRsRzJnUzRQMElDcEVnSVN4bG83bG5xZ2UwTEpETGUxYjBlWTBkVnNiT3IzeG9ZaHhodjlNZ2xqZkFWT1l4U3dfWkVuTTJlYTd1b3dOZUppOEhkcVhLYW5iVkROVzhzS1FwZVNfQms3cHo2NlR4cnF3NkY2NQ"
     },
     {
       "title": "BofA isn't ruling out a rate hike this year, but says it would take 3 things for that to happen - Business Insider",
@@ -61,6 +53,14 @@
       "published_at": "Fri, 20 Mar 2026 20:00:00 GMT",
       "summary": "BofA isn't ruling out a rate hike this year, but says it would take 3 things for that to happen Business Insider",
       "guid": "CBMipwFBVV95cUxPLTVWS2oxUnZuUGNYU1pRQ0QxdEpjOEFYY2dOcWd0M1hPTjd0SnI4Smh0Wm1GcVhMTE5fQ0pWYlR3Tlc5SjBCaUZCTXhGaENVQV9zUjA0MlktU1ZyaF9iMDVEVWpra0h0dWx1cGM0cHdSNE5ubEVvdGc2VUdGZFdicTRHU2VBdzk1X0UtaTMwQUlwbHp1c1VQdlAxVW1pNkE1bmpZUzFFNA"
+    },
+    {
+      "title": "Weekly market commentary - blackrock.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
+      "source": "blackrock.com",
+      "published_at": "Mon, 16 Mar 2026 07:00:00 GMT",
+      "summary": "Weekly market commentary blackrock.com",
+      "guid": "CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw"
     },
     {
       "title": "US stocks sink on fears the war with Iran will keep interest rates high - Henry Herald",
