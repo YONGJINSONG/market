@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-20T09:05:40Z",
+  "generated_at": "2026-03-20T09:57:01Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -8,11 +8,11 @@
   "items": [
     {
       "title": "The Stock Market Is Buckling Under the Weight of Oil and the Fed. What Comes Next. - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxNZ1Q3OFlVX2hocDZEZGpmT2RlWE4wa3F4bmlxamtFZ3A3dS1CRjJLY3lNX0ZkWV9kOHlIVEt4b3pWa2JxbUc2a0NVWWxTZFJfRGhSQmo0bFVwNGppRnB0MzFVZEwtb2ZZYW0yajgwTUJLRlNJY0ZqbkYxTHlndk1nRDRtUTBqZWpYTU8xbElFcTBSSEQySzJQLWhUa1A3ZHpqQlNHUEc3VEpqNHZIQkdUXzFnLUF5Z0ZxSER2TzZiVlRaemZ0emQ3NUt1bkpQdHI4UzMtUWRfYXhHV1JLTlVoQ3RyRlpkd3R1elFxTUVWSGVZR1lJeGdZUGdnbjNvUllHdDZBbXp4S2NaaW9mejlYcGh0VzNScTNESzlCUm5hSjB1dGtvQ3VKM1pDYUd1T3BfYnphZHU0Ym9tcW81ZUtpaTZtMWljM1dLaGF6NzJmUFVCekUwajFnSlRVQURpdXQ1VmtSUlYzQkdMWFhZOTg5N0hJOTItdmtqLXVPeGVtSjFmdjFyaW04cHZRSXZJTWJ2dzNtUg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxPRWxHWEViWjdlT3RVRVY5Sko3WGtIbTZ2MzRVbFFPQzZxNWVZZFFWdVFWU21JMkp2QVN6aXhrdFYwRVFhNlp6LV9qVHQ3TlB2YmlyVFdJWFAtU3J2ODJfV1hRZUN1RDhKc1NWVE83WkJjRThMcXNlQWVNem9wQUFLd1I4bHVVVnJXUmNKeEpYcWZVOWtFSHJ5Qk01MzRIN3B4MDRUZFp4YVlRX2tkR0FSRUdMSlYtM1dJM0w1TV9mM0thclZ3VXVhbGwtelFQRllPNlVPdFVMbm0zNUFXanRjRXduVkNHX0libnhsRFZwSnJjYnRnYmx3WjJTSUVLTmNMT1l1NmQ3MEhKamxtUDgxbXdtQ1czTDVFWFprLVNvVVRFZ0ZXRnFQOXFRM3RoRHZZb3NNa01HaUVLRC1DNVJrdnNOMWZWd19ndVJYbmVNeFpZU1liLVNiVGlCM0JiZDlNRGo3ZkhMLUtkQjRCUXJwczRsZEE2Q2JQMkVaVkJza2VoRG5tLVMyakxBMkJiMkpGUTZHXw?oc=5",
       "source": "Barron's",
       "published_at": "Thu, 19 Mar 2026 13:34:00 GMT",
       "summary": "The Stock Market Is Buckling Under the Weight of Oil and the Fed. What Comes Next. Barron's",
-      "guid": "CBMilANBVV95cUxNZ1Q3OFlVX2hocDZEZGpmT2RlWE4wa3F4bmlxamtFZ3A3dS1CRjJLY3lNX0ZkWV9kOHlIVEt4b3pWa2JxbUc2a0NVWWxTZFJfRGhSQmo0bFVwNGppRnB0MzFVZEwtb2ZZYW0yajgwTUJLRlNJY0ZqbkYxTHlndk1nRDRtUTBqZWpYTU8xbElFcTBSSEQySzJQLWhUa1A3ZHpqQlNHUEc3VEpqNHZIQkdUXzFnLUF5Z0ZxSER2TzZiVlRaemZ0emQ3NUt1bkpQdHI4UzMtUWRfYXhHV1JLTlVoQ3RyRlpkd3R1elFxTUVWSGVZR1lJeGdZUGdnbjNvUllHdDZBbXp4S2NaaW9mejlYcGh0VzNScTNESzlCUm5hSjB1dGtvQ3VKM1pDYUd1T3BfYnphZHU0Ym9tcW81ZUtpaTZtMWljM1dLaGF6NzJmUFVCekUwajFnSlRVQURpdXQ1VmtSUlYzQkdMWFhZOTg5N0hJOTItdmtqLXVPeGVtSjFmdjFyaW04cHZRSXZJTWJ2dzNtUg"
+      "guid": "CBMilANBVV95cUxPRWxHWEViWjdlT3RVRVY5Sko3WGtIbTZ2MzRVbFFPQzZxNWVZZFFWdVFWU21JMkp2QVN6aXhrdFYwRVFhNlp6LV9qVHQ3TlB2YmlyVFdJWFAtU3J2ODJfV1hRZUN1RDhKc1NWVE83WkJjRThMcXNlQWVNem9wQUFLd1I4bHVVVnJXUmNKeEpYcWZVOWtFSHJ5Qk01MzRIN3B4MDRUZFp4YVlRX2tkR0FSRUdMSlYtM1dJM0w1TV9mM0thclZ3VXVhbGwtelFQRllPNlVPdFVMbm0zNUFXanRjRXduVkNHX0libnhsRFZwSnJjYnRnYmx3WjJTSUVLTmNMT1l1NmQ3MEhKamxtUDgxbXdtQ1czTDVFWFprLVNvVVRFZ0ZXRnFQOXFRM3RoRHZZb3NNa01HaUVLRC1DNVJrdnNOMWZWd19ndVJYbmVNeFpZU1liLVNiVGlCM0JiZDlNRGo3ZkhMLUtkQjRCUXJwczRsZEE2Q2JQMkVaVkJza2VoRG5tLVMyakxBMkJiMkpGUTZHXw"
     },
     {
       "title": "In This Crisis, the Best Investors Can Expect From the Fed Is Nothing - The New York Times",
@@ -23,12 +23,12 @@
       "guid": "CBMikwFBVV95cUxNX19PbmJFZkdSZjhBdkRic2lLWG94QVNRS2hUaW0yMG5mTGdvQkkyR2tzT3VvRVdMU1hvdUNONVc5ZV85aGJTYlJONFVBN0pLb2J5SEVSajZpMjBtNzYyWjh3Um1mR2wtejNBQW45NFAyZ3lEaDBwMVJacjcwaC1vendpclBMaWtjZGxMMGpCTW9oVmc"
     },
     {
-      "title": "Wall Street ends down as traders see no rate cuts before 2027 - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZnd4dnBJTWNzYWlyeDI4YzNyeEt3azRBaEVMcXFUWW9pdERVa1ZwdFlpdW53ZWZ1eXJ4NkVzaFVxakl3b1hWVGt0NTFuZTZETXgwNVBSdWhQS2pqQk5nMUk5LXNQVDJRMmktZ2dCM0dLY3p5M19lZW1EcDVqRGlKbE1VdlFoWFlyZ1A1X25RcE5xbmo1bUlsWU1fc0Z1QVdfMW1zQ21hWktyVWd5WHJNS0pn?oc=5",
-      "source": "Reuters",
-      "published_at": "Thu, 19 Mar 2026 09:57:37 GMT",
-      "summary": "Wall Street ends down as traders see no rate cuts before 2027 Reuters",
-      "guid": "CBMisgFBVV95cUxNZnd4dnBJTWNzYWlyeDI4YzNyeEt3azRBaEVMcXFUWW9pdERVa1ZwdFlpdW53ZWZ1eXJ4NkVzaFVxakl3b1hWVGt0NTFuZTZETXgwNVBSdWhQS2pqQk5nMUk5LXNQVDJRMmktZ2dCM0dLY3p5M19lZW1EcDVqRGlKbE1VdlFoWFlyZ1A1X25RcE5xbmo1bUlsWU1fc0Z1QVdfMW1zQ21hWktyVWd5WHJNS0pn"
+      "title": "Weekly market commentary - blackrock.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
+      "source": "blackrock.com",
+      "published_at": "Mon, 16 Mar 2026 07:00:00 GMT",
+      "summary": "Weekly market commentary blackrock.com",
+      "guid": "CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw"
     },
     {
       "title": "The Federal Reserve Has Become a Stock Market Liability, and President Trump's New Nominee for Chair Won't Help - The Motley Fool",
@@ -39,20 +39,20 @@
       "guid": "CBMilwFBVV95cUxOOUN5MHFlVmh2ZFI3eXp1ODZCS0E1WGZNdkt4Q1lWZHBXY1N4bXl4bjk3VGRoUU83Rk9tRzNsOGJ6SWx4Ukk0eTRhOUZ2aHZnVDFOQkg3d3JuNEp6SjV0RUFYUzVBN003V0U2SmFEczdJd3FZWnRaVnY2ZG1pVjI1Zl9jcXhGSV9fUW8xTHZEbmFCNnJONjBR"
     },
     {
-      "title": "Weekly market commentary - blackrock.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
-      "source": "blackrock.com",
-      "published_at": "Mon, 16 Mar 2026 07:00:00 GMT",
-      "summary": "Weekly market commentary blackrock.com",
-      "guid": "CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw"
-    },
-    {
       "title": "Federal Reserve holds firm with decision not to cut interest rate - NewsNation",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTWF1NHBzVndvOFhhS0kyUFNrQ3RGT0ltc0FuOVNiSVlwTGFyblp0R2Vjb2FFcnIxNFJ3LWRMc21CRGZ1d0VnUmdHdzZiRTZPdno2T3RLUkJ0TFUzRVZudFRXZV9waVAtMHZEZGNVdkhYZUIxU2hqSEpWS1lrXzBYT3djTXdDN0Z0emZFdm5wcEdZU1ZBbE1uSdIBngFBVV95cUxPbXFDdTNkTU52YVVZYXhQMzdJSU83V2pyRWZYM2RtX3NhNlZ2YlRfUnBWYmphQTdaQmI3NXZHb245TkluQzVMNHlwZERNOTB0S0s0bUxYZURsdHNpaEEwN1IzOUxieTJZUzNjLVU3N042S2pIT2FhSmRKS1RpOFEzaExnUjd5UXpNSWQ5ZTBKd21veFNiUVVLUE5LUkMyZw?oc=5",
       "source": "NewsNation",
       "published_at": "Wed, 18 Mar 2026 21:49:58 GMT",
       "summary": "Federal Reserve holds firm with decision not to cut interest rate NewsNation",
       "guid": "CBMimAFBVV95cUxPTWF1NHBzVndvOFhhS0kyUFNrQ3RGT0ltc0FuOVNiSVlwTGFyblp0R2Vjb2FFcnIxNFJ3LWRMc21CRGZ1d0VnUmdHdzZiRTZPdno2T3RLUkJ0TFUzRVZudFRXZV9waVAtMHZEZGNVdkhYZUIxU2hqSEpWS1lrXzBYT3djTXdDN0Z0emZFdm5wcEdZU1ZBbE1uSdIBngFBVV95cUxPbXFDdTNkTU52YVVZYXhQMzdJSU83V2pyRWZYM2RtX3NhNlZ2YlRfUnBWYmphQTdaQmI3NXZHb245TkluQzVMNHlwZERNOTB0S0s0bUxYZURsdHNpaEEwN1IzOUxieTJZUzNjLVU3N042S2pIT2FhSmRKS1RpOFEzaExnUjd5UXpNSWQ5ZTBKd21veFNiUVVLUE5LUkMyZw"
+    },
+    {
+      "title": "Wall Street ends down as traders see no rate cuts before 2027 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZnd4dnBJTWNzYWlyeDI4YzNyeEt3azRBaEVMcXFUWW9pdERVa1ZwdFlpdW53ZWZ1eXJ4NkVzaFVxakl3b1hWVGt0NTFuZTZETXgwNVBSdWhQS2pqQk5nMUk5LXNQVDJRMmktZ2dCM0dLY3p5M19lZW1EcDVqRGlKbE1VdlFoWFlyZ1A1X25RcE5xbmo1bUlsWU1fc0Z1QVdfMW1zQ21hWktyVWd5WHJNS0pn?oc=5",
+      "source": "Reuters",
+      "published_at": "Thu, 19 Mar 2026 09:57:37 GMT",
+      "summary": "Wall Street ends down as traders see no rate cuts before 2027 Reuters",
+      "guid": "CBMisgFBVV95cUxNZnd4dnBJTWNzYWlyeDI4YzNyeEt3azRBaEVMcXFUWW9pdERVa1ZwdFlpdW53ZWZ1eXJ4NkVzaFVxakl3b1hWVGt0NTFuZTZETXgwNVBSdWhQS2pqQk5nMUk5LXNQVDJRMmktZ2dCM0dLY3p5M19lZW1EcDVqRGlKbE1VdlFoWFlyZ1A1X25RcE5xbmo1bUlsWU1fc0Z1QVdfMW1zQ21hWktyVWd5WHJNS0pn"
     },
     {
       "title": "Dow Slides 768 Points on Inflation Fears: Stock Market Today - Kiplinger",
@@ -63,12 +63,20 @@
       "guid": "CBMipAFBVV95cUxQTGRFUDYwMHkxUk9kNGRZVWJOV3ZzNEQ1YVZ1STZVVVNudGtOQkpxTUh6cktER3FUQXNxRUxLdlpVUTlxYjVpWUhXZDFRYk9VNHBrbFc4QmFKM09yQ0RZMm1sU05sTmxDenFYeFQzZ2tSM1E4SnZKWGY0UGNRaUJPRVRMMkhhaXM4eUkybndzYjJMeEJralNxY1FZMF9ZNS1FT3EtOQ"
     },
     {
+      "title": "US moves to soften capital rules: ‘Big banks can declare mission accomplished’ - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVndMRTNaZzgwcVJaUXBoOGpDSzZQQlZweEZ4RXdYSXNhQ2RKVElUcFVoMHBXWEhuTGpmaGxWcjdRRkxmUnptOExLdTF5c0FfS2Qtem1tY3NjRk9HRE1obTNSakNKai13UE5OZDM1aXRmVWhlZWJfcG5feDZ1eUNMbWQ4bDJUNmhOYm1GME8zQllhTVhy?oc=5",
+      "source": "The Guardian",
+      "published_at": "Thu, 19 Mar 2026 18:22:00 GMT",
+      "summary": "US moves to soften capital rules: ‘Big banks can declare mission accomplished’ The Guardian",
+      "guid": "CBMilAFBVV95cUxPVndMRTNaZzgwcVJaUXBoOGpDSzZQQlZweEZ4RXdYSXNhQ2RKVElUcFVoMHBXWEhuTGpmaGxWcjdRRkxmUnptOExLdTF5c0FfS2Qtem1tY3NjRk9HRE1obTNSakNKai13UE5OZDM1aXRmVWhlZWJfcG5feDZ1eUNMbWQ4bDJUNmhOYm1GME8zQllhTVhy"
+    },
+    {
       "title": "Stock Market Has Weathered a Host of Shocks. Is Surging Oil Too Much for It to Bear? - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxOTmhfM2hDU1hqYi00bHZWOW0xQnE4X0t1X3d6V3djT3lWY1BCWGh4TFdqbnNCejJ1SXZFRWEwam1Ud20tM0FsdkdDQjJra3hkbjVuUVRZenp2SlNGOWFMMFg0MDdPYnk1bWtaa2NwZmRPdERVbkRqTHcxRUFZcmRnRDh0ZmFVODdXVjJmM0JvWlAwSllGNmR5SnA3S0xYNGZ4eUhDanFyV1pxZHZkTk5GOC00UDU5X0FwNUtwd1FWeko1bU1oVGRvYUN1aFZFa1p6QkFldjFfN3BNTHA1VGZ5UFhkSFNaWWdhM1lnSGVVajJtbVhodDl0aGFjU28tWHoteWg5elhGN3ZtVC1jckoxQ0FpZnhGTUI5UmhtTVU2RHhwemZvY3A1RmlNQnc4UUNjS2IydkJsdTNFRDhSX05rZm9Uek1LOGxXQ011ZExGdWhxeW9VTkZlY2VQVzA1cUZjeHVlbFBUdWVQLWVQaS1jdGVoaXd0NHN3OEN6QldRNlNvMXFaZTBfVGdKNDc3Zw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxPd1VhOHVIZW5mSy1UbmVMdVBLV09tMFFsaWxfNWpzbDYyeG9GeHQ5cnExY2hoREJ0QThaX1FqQTFodkZFa2RhLWpLY3J4S2tvRmN2VEVOWWlWSVdiREhiRGp0VmEwbWlyeElBVUNQT256YTAwdEh4UDRxYTMxa3BPdkxHWDczV091cmUxLUVOcTk5MGpFTkV3RmxCUDltbWU4V01DbW1RLXdFdEh5MkFlUDA1SGwyY3pBSE85bzV0eFh2SDVRRXJ4RjMxbkhMQ3NXVkZTOWlTZWJ4WllZRklIZTZJQlV3LUpFdFpaTFZTTUFIS0txTW1MbHVDS3lKZk9wMkpXNVNfd1lSakF5a3FvYlZYTW10dnMxbDBqYVF3dDdrVTBudmhaWkhxQWE1VHJQU0xGWXJhQTZtMjYwSmJ5clpVMTNSNjBBMno0WHYwVHdXNHVuT0FjZUVHdlFTaWlJdnlScFZOSmVDaFd1ZXhmSU9RUmZ6Z2hseHFzRWxmM1dSQ3VTTG9ybk9COThBUQ?oc=5",
       "source": "Barron's",
       "published_at": "Thu, 19 Mar 2026 11:12:00 GMT",
       "summary": "Stock Market Has Weathered a Host of Shocks. Is Surging Oil Too Much for It to Bear? Barron's",
-      "guid": "CBMijgNBVV95cUxOTmhfM2hDU1hqYi00bHZWOW0xQnE4X0t1X3d6V3djT3lWY1BCWGh4TFdqbnNCejJ1SXZFRWEwam1Ud20tM0FsdkdDQjJra3hkbjVuUVRZenp2SlNGOWFMMFg0MDdPYnk1bWtaa2NwZmRPdERVbkRqTHcxRUFZcmRnRDh0ZmFVODdXVjJmM0JvWlAwSllGNmR5SnA3S0xYNGZ4eUhDanFyV1pxZHZkTk5GOC00UDU5X0FwNUtwd1FWeko1bU1oVGRvYUN1aFZFa1p6QkFldjFfN3BNTHA1VGZ5UFhkSFNaWWdhM1lnSGVVajJtbVhodDl0aGFjU28tWHoteWg5elhGN3ZtVC1jckoxQ0FpZnhGTUI5UmhtTVU2RHhwemZvY3A1RmlNQnc4UUNjS2IydkJsdTNFRDhSX05rZm9Uek1LOGxXQ011ZExGdWhxeW9VTkZlY2VQVzA1cUZjeHVlbFBUdWVQLWVQaS1jdGVoaXd0NHN3OEN6QldRNlNvMXFaZTBfVGdKNDc3Zw"
+      "guid": "CBMijgNBVV95cUxPd1VhOHVIZW5mSy1UbmVMdVBLV09tMFFsaWxfNWpzbDYyeG9GeHQ5cnExY2hoREJ0QThaX1FqQTFodkZFa2RhLWpLY3J4S2tvRmN2VEVOWWlWSVdiREhiRGp0VmEwbWlyeElBVUNQT256YTAwdEh4UDRxYTMxa3BPdkxHWDczV091cmUxLUVOcTk5MGpFTkV3RmxCUDltbWU4V01DbW1RLXdFdEh5MkFlUDA1SGwyY3pBSE85bzV0eFh2SDVRRXJ4RjMxbkhMQ3NXVkZTOWlTZWJ4WllZRklIZTZJQlV3LUpFdFpaTFZTTUFIS0txTW1MbHVDS3lKZk9wMkpXNVNfd1lSakF5a3FvYlZYTW10dnMxbDBqYVF3dDdrVTBudmhaWkhxQWE1VHJQU0xGWXJhQTZtMjYwSmJ5clpVMTNSNjBBMno0WHYwVHdXNHVuT0FjZUVHdlFTaWlJdnlScFZOSmVDaFd1ZXhmSU9RUmZ6Z2hseHFzRWxmM1dSQ3VTTG9ybk9COThBUQ"
     },
     {
       "title": "The Fed decision, Micron earnings, Amazon's USPS contract and more in Morning Squawk - CNBC",
@@ -77,14 +85,6 @@
       "published_at": "Thu, 19 Mar 2026 12:08:06 GMT",
       "summary": "The Fed decision, Micron earnings, Amazon's USPS contract and more in Morning Squawk CNBC",
       "guid": "CBMigwFBVV95cUxOWW9iSWt6RFVBWElrdl90YTd0azd0WEJfWHlPVVZONzF0OFRqRXBJRlNxbVl3Sm9QbksyNnZsVDhPNUQ0d2xWWU9meDNmSHZBUUlKSVgxVlIxSk9FTGk3ZnY3Ny1EVkUzenFVZ1hGX2Vud0dUcDJ2Z29QX0h6QTRjYXpIY9IBiAFBVV95cUxNTVppa2xBenR0QzFxUk96WmZBWVdyQnd0U1gyREl5a1NSQVAyTHhHTDE2ZTVwT2QzWjVkZHNQSFZMT2taMi0wenVuSlFzOGpTMjR6SWRqZHM0N1VUc0kwTE1WemNoZV9BSG53NWZiVW1HSVJ6UEgzUEk3NXc0M1BpbVBhckg4a3Ey"
-    },
-    {
-      "title": "Federal Reserve proposes lowering capital requirements for banks - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMHpRNmUzeTJBWWFpZzdtbkdGekg3MllEWXpHaFdpVml2ZkxnXzV4YXQyRnJQZExoMEx1SC1Fa2RtYy00ZTNVSzJaWXY5UGxZVkVIVkJzU2M3cDdhT19JQUl1SWlpaWVKTFVIXzlmQ0xOakg3MURtUUYxUXBQbW1aY3dXSGJHeUZtbmppSXpTM2xFRC10b2Q1SGd1QmltMDV2UXF0X2FBSzM4UlBzTVdR?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Thu, 19 Mar 2026 14:28:27 GMT",
-      "summary": "Federal Reserve proposes lowering capital requirements for banks Yahoo Finance",
-      "guid": "CBMirwFBVV95cUxOMHpRNmUzeTJBWWFpZzdtbkdGekg3MllEWXpHaFdpVml2ZkxnXzV4YXQyRnJQZExoMEx1SC1Fa2RtYy00ZTNVSzJaWXY5UGxZVkVIVkJzU2M3cDdhT19JQUl1SWlpaWVKTFVIXzlmQ0xOakg3MURtUUYxUXBQbW1aY3dXSGJHeUZtbmppSXpTM2xFRC10b2Q1SGd1QmltMDV2UXF0X2FBSzM4UlBzTVdR"
     }
   ]
 }
