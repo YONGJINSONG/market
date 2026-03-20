@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-20T17:22:31Z",
+  "generated_at": "2026-03-20T17:57:13Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -32,11 +32,11 @@
     },
     {
       "title": "The Stock Market Is Buckling Under the Weight of Oil and the Fed. What Comes Next. - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxQNzdHOEJ2VDBSWVB1Z3dzRjZ1ZjZYOTRySVgxSEQ1OXFvMTdmcFJmaWFxY1RRemZIMTJwYXI5eWVXYU5fVTJmSzQzUDNYY1lFc2xIVTdQOXRYM3JCNkEyVlNoWEFiWnNCNFRBSGhMTGVYek5PYVp5TGRrZ2FubkdHS0tTdnZSUHV1ZUpMSWh1a2xUWENIaEdfQmNKUmUzNm5jM0FULUxLcjd3RXZWak42VDNVY3NidWFFeGcxcEhZVlNSc0ZRVlRyd2syV1dlTDNINGNvQWxvS1RxemFzMG1YUkVDUHFmc0wxNV9NSmRRNjNBd2xIMEtwMVZSZnlPd1VXMmxUaHpHb0hKLUxCNGZDQndsbzdxT25UOVh2S2pGWjB3RzY3NThlTC1FZDlycWduYUF3NWRzVk05RF9ISDFyWUJUc1ozOXZ2dFBmSG51eVZXZlY2YXN1b2tjaGFMUUpxWG5BbGxFX1lsNE82S1VmTUl3cUR4cHdWS2hxaXh6OHliZ1J5OGFGWnpsdWFUQUt4TGFNOA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxNcTFnVDZ3NlIwVVlfbURSNHJuZU9VTG5fMHFJU1BGT1Q2Y3E1MzBWcmZfWjVKZ0J0bUtabzNJbmQ3QU9leU5hbllFUjV3S0I5NG0yQm56dmxfd3JsX0FLd1BvcHV1RVF6bTBIVjNjMDVsdW5lcndQTmNGZUo3Ympzc0FUcW9TY0FfdXdyWU5QdjFuVVNNeTFNMk9scDFKdGlscmZJSWJGVTNmOVZ4Z3c0a3JyZ3VFN2lQaFlZVmNLOEozck5qalVKM3FjeWVrUG4wTm9rMzNBb3U3czgtM3BvdUViekxjYjM4d3oxQjhYU256SDNSSkNFZEJ3aDQ2MDZIX1c0XzkxTDFwdW5xTzA5WXBzSzBhaXFiR1RaXzA2RkZFLS1hVUl6OHlGdnNQN1d4Yy1QVFdXS0ZXaUFEY3BDVnJYVHhUM0FraHlMcVdQUTJsVExJNHhwVzFQdWpVanJoalh3RjlIRnVGVUd0a0d5YmxKcUlza0xSMm9abDN4LVZZcXc0UFppYk9RQkItZlNRX2xteg?oc=5",
       "source": "Barron's",
       "published_at": "Thu, 19 Mar 2026 13:34:00 GMT",
       "summary": "The Stock Market Is Buckling Under the Weight of Oil and the Fed. What Comes Next. Barron's",
-      "guid": "CBMilANBVV95cUxQNzdHOEJ2VDBSWVB1Z3dzRjZ1ZjZYOTRySVgxSEQ1OXFvMTdmcFJmaWFxY1RRemZIMTJwYXI5eWVXYU5fVTJmSzQzUDNYY1lFc2xIVTdQOXRYM3JCNkEyVlNoWEFiWnNCNFRBSGhMTGVYek5PYVp5TGRrZ2FubkdHS0tTdnZSUHV1ZUpMSWh1a2xUWENIaEdfQmNKUmUzNm5jM0FULUxLcjd3RXZWak42VDNVY3NidWFFeGcxcEhZVlNSc0ZRVlRyd2syV1dlTDNINGNvQWxvS1RxemFzMG1YUkVDUHFmc0wxNV9NSmRRNjNBd2xIMEtwMVZSZnlPd1VXMmxUaHpHb0hKLUxCNGZDQndsbzdxT25UOVh2S2pGWjB3RzY3NThlTC1FZDlycWduYUF3NWRzVk05RF9ISDFyWUJUc1ozOXZ2dFBmSG51eVZXZlY2YXN1b2tjaGFMUUpxWG5BbGxFX1lsNE82S1VmTUl3cUR4cHdWS2hxaXh6OHliZ1J5OGFGWnpsdWFUQUt4TGFNOA"
+      "guid": "CBMilANBVV95cUxNcTFnVDZ3NlIwVVlfbURSNHJuZU9VTG5fMHFJU1BGT1Q2Y3E1MzBWcmZfWjVKZ0J0bUtabzNJbmQ3QU9leU5hbllFUjV3S0I5NG0yQm56dmxfd3JsX0FLd1BvcHV1RVF6bTBIVjNjMDVsdW5lcndQTmNGZUo3Ympzc0FUcW9TY0FfdXdyWU5QdjFuVVNNeTFNMk9scDFKdGlscmZJSWJGVTNmOVZ4Z3c0a3JyZ3VFN2lQaFlZVmNLOEozck5qalVKM3FjeWVrUG4wTm9rMzNBb3U3czgtM3BvdUViekxjYjM4d3oxQjhYU256SDNSSkNFZEJ3aDQ2MDZIX1c0XzkxTDFwdW5xTzA5WXBzSzBhaXFiR1RaXzA2RkZFLS1hVUl6OHlGdnNQN1d4Yy1QVFdXS0ZXaUFEY3BDVnJYVHhUM0FraHlMcVdQUTJsVExJNHhwVzFQdWpVanJoalh3RjlIRnVGVUd0a0d5YmxKcUlza0xSMm9abDN4LVZZcXc0UFppYk9RQkItZlNRX2xteg"
     },
     {
       "title": "Federal Reserve Watch: Can We Get Through 2026 - Seeking Alpha",
@@ -47,20 +47,20 @@
       "guid": "CBMijwFBVV95cUxQVldFM3IyZjEwYUpqTVpTaUVlcUhvbW5iTndRXzlUV1FKWFY5U1ZaTF9wTjlJU2t0ZWp3WWxJTW4xZVZFSEJjR0hpQmQzeEd2bzFfeGV3eGhUdzRHNjVyN1dBWVdhMXNEc2xhQm9LWEt3c3Y0MkJvQURQX2t3U2hpbmVLM0NiT2RrTjJ0VnJXUQ"
     },
     {
+      "title": "Weekly market commentary - blackrock.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
+      "source": "blackrock.com",
+      "published_at": "Mon, 16 Mar 2026 07:00:00 GMT",
+      "summary": "Weekly market commentary blackrock.com",
+      "guid": "CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw"
+    },
+    {
       "title": "The Federal Reserve Has Become a Stock Market Liability, and President Trump's New Nominee for Chair Won't Help - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOUN5MHFlVmh2ZFI3eXp1ODZCS0E1WGZNdkt4Q1lWZHBXY1N4bXl4bjk3VGRoUU83Rk9tRzNsOGJ6SWx4Ukk0eTRhOUZ2aHZnVDFOQkg3d3JuNEp6SjV0RUFYUzVBN003V0U2SmFEczdJd3FZWnRaVnY2ZG1pVjI1Zl9jcXhGSV9fUW8xTHZEbmFCNnJONjBR?oc=5",
       "source": "The Motley Fool",
       "published_at": "Mon, 16 Mar 2026 16:33:00 GMT",
       "summary": "The Federal Reserve Has Become a Stock Market Liability, and President Trump's New Nominee for Chair Won't Help The Motley Fool",
       "guid": "CBMilwFBVV95cUxOOUN5MHFlVmh2ZFI3eXp1ODZCS0E1WGZNdkt4Q1lWZHBXY1N4bXl4bjk3VGRoUU83Rk9tRzNsOGJ6SWx4Ukk0eTRhOUZ2aHZnVDFOQkg3d3JuNEp6SjV0RUFYUzVBN003V0U2SmFEczdJd3FZWnRaVnY2ZG1pVjI1Zl9jcXhGSV9fUW8xTHZEbmFCNnJONjBR"
-    },
-    {
-      "title": "In This Crisis, the Best Investors Can Expect From the Fed Is Nothing - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNX19PbmJFZkdSZjhBdkRic2lLWG94QVNRS2hUaW0yMG5mTGdvQkkyR2tzT3VvRVdMU1hvdUNONVc5ZV85aGJTYlJONFVBN0pLb2J5SEVSajZpMjBtNzYyWjh3Um1mR2wtejNBQW45NFAyZ3lEaDBwMVJacjcwaC1vendpclBMaWtjZGxMMGpCTW9oVmc?oc=5",
-      "source": "The New York Times",
-      "published_at": "Thu, 19 Mar 2026 15:06:28 GMT",
-      "summary": "In This Crisis, the Best Investors Can Expect From the Fed Is Nothing The New York Times",
-      "guid": "CBMikwFBVV95cUxNX19PbmJFZkdSZjhBdkRic2lLWG94QVNRS2hUaW0yMG5mTGdvQkkyR2tzT3VvRVdMU1hvdUNONVc5ZV85aGJTYlJONFVBN0pLb2J5SEVSajZpMjBtNzYyWjh3Um1mR2wtejNBQW45NFAyZ3lEaDBwMVJacjcwaC1vendpclBMaWtjZGxMMGpCTW9oVmc"
     },
     {
       "title": "Wall Street ends down as traders see no rate cuts before 2027 - Reuters",
