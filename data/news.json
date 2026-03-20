@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-20T11:07:46Z",
+  "generated_at": "2026-03-20T11:44:46Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -8,11 +8,11 @@
   "items": [
     {
       "title": "The Stock Market Is Buckling Under the Weight of Oil and the Fed. What Comes Next. - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxNM0diM1VlUXhUVW81dzlydUY0STFTdmhtYzRJTElxZEhMaXFzUzhqNkZwNlJ0QUNvSWhNZzVsOGZLLTI3Z2FlQXNSTEsxeWpheWg5ZFZhNGptZDVHUl9SYmFHWHZ5Y1ozS0FEdVBXYU9yemVEWlFGVmprSEhPUWppMUxoVUdfaEdvQjhDTFNYclRCRFFldTV5SWRrRU1zSlJIV2Y5UkZUeFdTQXBYZVdkcTRWb2wzUVRIZmdvVGFCdjlTNWZDWnpIYTVXN0w3WHBLcTB6MmdDamV6SlpUbDNQWC03eXpZb3UtVGhuTV8yc2NTUmlSakwzLWt6QV9ZZUlYQVFwcTByTExpSEpGc0Q5OFg5QS1ZMzZzZ1Vtb2J4dlY1TGVCcTBPSVcyMVFwVjV6eENMY1JrNnhvMndoSnpWbF9tOFBqX1ZCcjJrRnNuS05nc2hLVExNWUZiZjI1R2NMTzdKa0tMNnhSMXZsbDR0TnBTMldjZURFVDAwT1UxQ3pmY0JsNXM3ekt3SHlzZElOejR2UQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxOckY4WndLUUhXcDlIbmFmMDJtcTZsaFRCT25qcjZseDVFVDdURXZjWkt0VkFJR2o0N3Q4S1dJTFRhZnZXTUpRcVBQQjBmU2JLbzA5QnEwZDVoYm5qMGZmWjk1UFBaVl9zZm9ZbTdYMDRTNU52S2xNUE5CR1QyV3dHVGZFS1VjUkJ2M01HamstbWE5TEJfMHQ0dEI0aGFTbFpKOV9mYk1Mb3JDWnpZVWdrMjlBZFZqTWlCQVpuS2I5RXIxRjc2dzRGN0h1TkpqaFY5WTNVTFJBTWFqRF93aDhjX3FhVWxfZ1ZreG5Rc0Z6S0ZoRVdFd3V5OFpsTWp1LXdmR1E0bXY0bWFFOEg0Y09WbkZILWxSMlNyczZjMlpkV2luN2VtVi1GcmJxYUlUSEZWZEpJTnZQQ1dCcEVkQVMxeVk3bno5OG81WFdpSE85UXdaQnZ6YnJZd3JEUXVFbDgyT1NnZE9uZEotei13c2dZaGx6dzNkZ2EydjZ0bng4YUg4SDc1d2dmZU80dkFJQnA1VHlJUw?oc=5",
       "source": "Barron's",
       "published_at": "Thu, 19 Mar 2026 13:34:00 GMT",
       "summary": "The Stock Market Is Buckling Under the Weight of Oil and the Fed. What Comes Next. Barron's",
-      "guid": "CBMilANBVV95cUxNM0diM1VlUXhUVW81dzlydUY0STFTdmhtYzRJTElxZEhMaXFzUzhqNkZwNlJ0QUNvSWhNZzVsOGZLLTI3Z2FlQXNSTEsxeWpheWg5ZFZhNGptZDVHUl9SYmFHWHZ5Y1ozS0FEdVBXYU9yemVEWlFGVmprSEhPUWppMUxoVUdfaEdvQjhDTFNYclRCRFFldTV5SWRrRU1zSlJIV2Y5UkZUeFdTQXBYZVdkcTRWb2wzUVRIZmdvVGFCdjlTNWZDWnpIYTVXN0w3WHBLcTB6MmdDamV6SlpUbDNQWC03eXpZb3UtVGhuTV8yc2NTUmlSakwzLWt6QV9ZZUlYQVFwcTByTExpSEpGc0Q5OFg5QS1ZMzZzZ1Vtb2J4dlY1TGVCcTBPSVcyMVFwVjV6eENMY1JrNnhvMndoSnpWbF9tOFBqX1ZCcjJrRnNuS05nc2hLVExNWUZiZjI1R2NMTzdKa0tMNnhSMXZsbDR0TnBTMldjZURFVDAwT1UxQ3pmY0JsNXM3ekt3SHlzZElOejR2UQ"
+      "guid": "CBMilANBVV95cUxOckY4WndLUUhXcDlIbmFmMDJtcTZsaFRCT25qcjZseDVFVDdURXZjWkt0VkFJR2o0N3Q4S1dJTFRhZnZXTUpRcVBQQjBmU2JLbzA5QnEwZDVoYm5qMGZmWjk1UFBaVl9zZm9ZbTdYMDRTNU52S2xNUE5CR1QyV3dHVGZFS1VjUkJ2M01HamstbWE5TEJfMHQ0dEI0aGFTbFpKOV9mYk1Mb3JDWnpZVWdrMjlBZFZqTWlCQVpuS2I5RXIxRjc2dzRGN0h1TkpqaFY5WTNVTFJBTWFqRF93aDhjX3FhVWxfZ1ZreG5Rc0Z6S0ZoRVdFd3V5OFpsTWp1LXdmR1E0bXY0bWFFOEg0Y09WbkZILWxSMlNyczZjMlpkV2luN2VtVi1GcmJxYUlUSEZWZEpJTnZQQ1dCcEVkQVMxeVk3bno5OG81WFdpSE85UXdaQnZ6YnJZd3JEUXVFbDgyT1NnZE9uZEotei13c2dZaGx6dzNkZ2EydjZ0bng4YUg4SDc1d2dmZU80dkFJQnA1VHlJUw"
     },
     {
       "title": "In This Crisis, the Best Investors Can Expect From the Fed Is Nothing - The New York Times",
@@ -63,14 +63,6 @@
       "guid": "CBMisgFBVV95cUxNZnd4dnBJTWNzYWlyeDI4YzNyeEt3azRBaEVMcXFUWW9pdERVa1ZwdFlpdW53ZWZ1eXJ4NkVzaFVxakl3b1hWVGt0NTFuZTZETXgwNVBSdWhQS2pqQk5nMUk5LXNQVDJRMmktZ2dCM0dLY3p5M19lZW1EcDVqRGlKbE1VdlFoWFlyZ1A1X25RcE5xbmo1bUlsWU1fc0Z1QVdfMW1zQ21hWktyVWd5WHJNS0pn"
     },
     {
-      "title": "US moves to soften capital rules: ‘Big banks can declare mission accomplished’ - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVndMRTNaZzgwcVJaUXBoOGpDSzZQQlZweEZ4RXdYSXNhQ2RKVElUcFVoMHBXWEhuTGpmaGxWcjdRRkxmUnptOExLdTF5c0FfS2Qtem1tY3NjRk9HRE1obTNSakNKai13UE5OZDM1aXRmVWhlZWJfcG5feDZ1eUNMbWQ4bDJUNmhOYm1GME8zQllhTVhy?oc=5",
-      "source": "The Guardian",
-      "published_at": "Thu, 19 Mar 2026 18:22:00 GMT",
-      "summary": "US moves to soften capital rules: ‘Big banks can declare mission accomplished’ The Guardian",
-      "guid": "CBMilAFBVV95cUxPVndMRTNaZzgwcVJaUXBoOGpDSzZQQlZweEZ4RXdYSXNhQ2RKVElUcFVoMHBXWEhuTGpmaGxWcjdRRkxmUnptOExLdTF5c0FfS2Qtem1tY3NjRk9HRE1obTNSakNKai13UE5OZDM1aXRmVWhlZWJfcG5feDZ1eUNMbWQ4bDJUNmhOYm1GME8zQllhTVhy"
-    },
-    {
       "title": "Dow Slides 768 Points on Inflation Fears: Stock Market Today - Kiplinger",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTGRFUDYwMHkxUk9kNGRZVWJOV3ZzNEQ1YVZ1STZVVVNudGtOQkpxTUh6cktER3FUQXNxRUxLdlpVUTlxYjVpWUhXZDFRYk9VNHBrbFc4QmFKM09yQ0RZMm1sU05sTmxDenFYeFQzZ2tSM1E4SnZKWGY0UGNRaUJPRVRMMkhhaXM4eUkybndzYjJMeEJralNxY1FZMF9ZNS1FT3EtOQ?oc=5",
       "source": "Kiplinger",
@@ -79,12 +71,20 @@
       "guid": "CBMipAFBVV95cUxQTGRFUDYwMHkxUk9kNGRZVWJOV3ZzNEQ1YVZ1STZVVVNudGtOQkpxTUh6cktER3FUQXNxRUxLdlpVUTlxYjVpWUhXZDFRYk9VNHBrbFc4QmFKM09yQ0RZMm1sU05sTmxDenFYeFQzZ2tSM1E4SnZKWGY0UGNRaUJPRVRMMkhhaXM4eUkybndzYjJMeEJralNxY1FZMF9ZNS1FT3EtOQ"
     },
     {
+      "title": "US moves to soften capital rules: ‘Big banks can declare mission accomplished’ - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVndMRTNaZzgwcVJaUXBoOGpDSzZQQlZweEZ4RXdYSXNhQ2RKVElUcFVoMHBXWEhuTGpmaGxWcjdRRkxmUnptOExLdTF5c0FfS2Qtem1tY3NjRk9HRE1obTNSakNKai13UE5OZDM1aXRmVWhlZWJfcG5feDZ1eUNMbWQ4bDJUNmhOYm1GME8zQllhTVhy?oc=5",
+      "source": "The Guardian",
+      "published_at": "Thu, 19 Mar 2026 18:22:00 GMT",
+      "summary": "US moves to soften capital rules: ‘Big banks can declare mission accomplished’ The Guardian",
+      "guid": "CBMilAFBVV95cUxPVndMRTNaZzgwcVJaUXBoOGpDSzZQQlZweEZ4RXdYSXNhQ2RKVElUcFVoMHBXWEhuTGpmaGxWcjdRRkxmUnptOExLdTF5c0FfS2Qtem1tY3NjRk9HRE1obTNSakNKai13UE5OZDM1aXRmVWhlZWJfcG5feDZ1eUNMbWQ4bDJUNmhOYm1GME8zQllhTVhy"
+    },
+    {
       "title": "Stock Market Has Weathered a Host of Shocks. Is Surging Oil Too Much for It to Bear? - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxNQmhieUE4c25QSXVjc1dweHJ1Ylk2eXRGck9xVHBPdE9Cd3U1aHBuT25EenctUUo0aFdpWVRGa0ZXRU11VjlsNDE0dVlaWUNvbnZ1MVJxWWlnY3k0bmt0SXRLaGxFb245QWtfcHluZXJFS0xLRlZjbHJSN2hZTjdURlJpRHJuT1NqejhMUHpfRXBhcUg2SFl1M3k5aWt1WDVrdjF4emFHMURtV0djbGJxRDJUSnEyaS0tV1ZPV3Y5Mm9LSUhHTUZaQWg0MDZmR2pmeEZ4M0dXOGRkZk1pcGxGLTlUVGtzNFVPQWFsRk1SNUtTN0c4YnRzUFRMcWFkU3ZyRVhGclROMWZwdWt2WXNOZ2E0aFNid2VpakxQVGlQbWFYS1FhWWNUdHh3T2ZSNy0zQkxSZ0ZzZlhEQmx5SGx2ZUtzanJYbWVnVjUtMUpWRklLcnBPaFZaTk9MY1ZTWHNJMjZmUjM1dXpISWRQQU4xbzh4endZTzNxc1p2Q0hUaEIwY1djLS1LaS1GMVFiUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxONm1pZGhRd0NhbEVWNzNWWllNeFlYTnNLQWxuYU9IeU9aOTZMVmp6cHlReEJKalpLcE1LYTNSNndBdlc5MkVrdUtPdDdZdmRwSEMxZFF1NWVYcGNWcm41Skw2R2xMUjVPUnk3MlhuaFM3WFdOTkJHUUJjYjNmVkI0WDRmWkhxSXdBS2VxOWlKY0xLNTI2V0tib3d6Z3J1WVpIS003M1JYUkNZNllLQ2N6QVRvRDBhWkhxdXFuM01wcFVNXzBYdFpBeVltYWltRUZXelRianpzQ21LdUV1UW41c01GUlV2cnR2OHY1MnRmV1NjVDFsdEJCTkNRbGIzWDA0eV9ETXNidXpxbk1tc0JoTlV0NjNXbEZmTUZldUJhUGplRHVHTmtUa3RjSjRGSENNcmFVdUxubUl3OXhxNlkxQ3UzUzYwZVZxV0hCZDZ4NHNGNWp4TU1qRWpVZjF0c0dkYld6Y3V4eDhaQTJoSkN2NWlDX2JULUN2c3lNeGpjOHZPaE9udEp6WUxrYXBpZw?oc=5",
       "source": "Barron's",
       "published_at": "Thu, 19 Mar 2026 11:12:00 GMT",
       "summary": "Stock Market Has Weathered a Host of Shocks. Is Surging Oil Too Much for It to Bear? Barron's",
-      "guid": "CBMijgNBVV95cUxNQmhieUE4c25QSXVjc1dweHJ1Ylk2eXRGck9xVHBPdE9Cd3U1aHBuT25EenctUUo0aFdpWVRGa0ZXRU11VjlsNDE0dVlaWUNvbnZ1MVJxWWlnY3k0bmt0SXRLaGxFb245QWtfcHluZXJFS0xLRlZjbHJSN2hZTjdURlJpRHJuT1NqejhMUHpfRXBhcUg2SFl1M3k5aWt1WDVrdjF4emFHMURtV0djbGJxRDJUSnEyaS0tV1ZPV3Y5Mm9LSUhHTUZaQWg0MDZmR2pmeEZ4M0dXOGRkZk1pcGxGLTlUVGtzNFVPQWFsRk1SNUtTN0c4YnRzUFRMcWFkU3ZyRVhGclROMWZwdWt2WXNOZ2E0aFNid2VpakxQVGlQbWFYS1FhWWNUdHh3T2ZSNy0zQkxSZ0ZzZlhEQmx5SGx2ZUtzanJYbWVnVjUtMUpWRklLcnBPaFZaTk9MY1ZTWHNJMjZmUjM1dXpISWRQQU4xbzh4endZTzNxc1p2Q0hUaEIwY1djLS1LaS1GMVFiUQ"
+      "guid": "CBMijgNBVV95cUxONm1pZGhRd0NhbEVWNzNWWllNeFlYTnNLQWxuYU9IeU9aOTZMVmp6cHlReEJKalpLcE1LYTNSNndBdlc5MkVrdUtPdDdZdmRwSEMxZFF1NWVYcGNWcm41Skw2R2xMUjVPUnk3MlhuaFM3WFdOTkJHUUJjYjNmVkI0WDRmWkhxSXdBS2VxOWlKY0xLNTI2V0tib3d6Z3J1WVpIS003M1JYUkNZNllLQ2N6QVRvRDBhWkhxdXFuM01wcFVNXzBYdFpBeVltYWltRUZXelRianpzQ21LdUV1UW41c01GUlV2cnR2OHY1MnRmV1NjVDFsdEJCTkNRbGIzWDA0eV9ETXNidXpxbk1tc0JoTlV0NjNXbEZmTUZldUJhUGplRHVHTmtUa3RjSjRGSENNcmFVdUxubUl3OXhxNlkxQ3UzUzYwZVZxV0hCZDZ4NHNGNWp4TU1qRWpVZjF0c0dkYld6Y3V4eDhaQTJoSkN2NWlDX2JULUN2c3lNeGpjOHZPaE9udEp6WUxrYXBpZw"
     }
   ]
 }
