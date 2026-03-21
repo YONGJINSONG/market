@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-21T15:15:53Z",
+  "generated_at": "2026-03-21T15:45:25Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -16,11 +16,11 @@
     },
     {
       "title": "The Stock Market Is Buckling Under the Weight of Oil and the Fed. What Comes Next. - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxQRFdiQnJkbzhsTVBmX2hCbExEeXVJRndPREh4ZzRJSzd5am9mMEpwQ2VsN01UY2NjNlV5VjdTblEzQnNFOUU4TlcxVml0Vmp6Vm5oejNXbTNzQ1VsbElDdjd2VXphNy1QT0xJbkh1d2hKRVFBZ1RFTUIwaHhOQUpRZWJuZktPSFM2ZHBqM0JoWkF3QWVjV1VaTmlzbHlZbFZLSGRwa3ZGOTBZRHFjMXVYT2UzZVdCT3hvazlKbUVnLXlZRGJqd0RTSHdDaXJXV0hpRkJjSWlJNTF2dDQ1UDVwSXdVT3pnSUtCTkFHNkFIT2lwS1Y3LUs0elM1X0JMLTQ5WDJ6WUtZNjQyaDBJcXlHZmVxQ2FQZ3FIWU1GZUZMWlNXQ20ycGlFSnQwTS1GRUViUzZTU290MkxTSUZSZE1aRUs2SDR6YzJyeGMzbHhnT0hCNi0tQ1B4bG5hYzcyZnRiYmlXQnhfLW50U0x0cjVDOUstaU5yTzJGRE1KU19fcjY1YVhKX1JfZEh6Mmc3aDNsY29zdw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxQWEZiOGhYbTU0U1diRENIOGxLeFVFUnZSaW4zM0t3VkZmV1k4RnZ2MUd4aGQxNHZMUElzQlBfMWVndnRFOHpfZlFDdnY2MFV4WkVMeUpsa0RQYS1ia2pJZnhoNGdoamRPcWdKellGQS1HVFhJdXhzTGZtMlRmN1BDN3pEVFRYcGU4dy1QT3FTTC1MajlxU3pFd3FaQ0R2bDcxWHVodDBESW1NNlVXS1plbzFxUmU0ZlNOLTZpVXFqM3o5RWZMUHZGOUNqMGEtNWN5MUxtWndvOVltaVp6QVpMcUhDQ183VWRPNjdlS1pfVUE1ZFhHdDloT1VwVWRZOWpiRkpDcG5adFljTlR2NTdYQl9neVdLYnpMbGFDemkyU3hnRVUxZFg0aGR4VFZqQWVXX290WWh2MjBJeVVNNnl3b1V0MVZHYmdJZFpQQ1diYVN6Vlo5VWo4TXhMa0NZcGFrNllycktEem5SX2hqcnJXR0d1UDdHMGxMNzZybUgtUktqR2RTNmg0eGp5eHFnd3ZOQUdacQ?oc=5",
       "source": "Barron's",
       "published_at": "Thu, 19 Mar 2026 13:34:00 GMT",
       "summary": "The Stock Market Is Buckling Under the Weight of Oil and the Fed. What Comes Next. Barron's",
-      "guid": "CBMilANBVV95cUxQRFdiQnJkbzhsTVBmX2hCbExEeXVJRndPREh4ZzRJSzd5am9mMEpwQ2VsN01UY2NjNlV5VjdTblEzQnNFOUU4TlcxVml0Vmp6Vm5oejNXbTNzQ1VsbElDdjd2VXphNy1QT0xJbkh1d2hKRVFBZ1RFTUIwaHhOQUpRZWJuZktPSFM2ZHBqM0JoWkF3QWVjV1VaTmlzbHlZbFZLSGRwa3ZGOTBZRHFjMXVYT2UzZVdCT3hvazlKbUVnLXlZRGJqd0RTSHdDaXJXV0hpRkJjSWlJNTF2dDQ1UDVwSXdVT3pnSUtCTkFHNkFIT2lwS1Y3LUs0elM1X0JMLTQ5WDJ6WUtZNjQyaDBJcXlHZmVxQ2FQZ3FIWU1GZUZMWlNXQ20ycGlFSnQwTS1GRUViUzZTU290MkxTSUZSZE1aRUs2SDR6YzJyeGMzbHhnT0hCNi0tQ1B4bG5hYzcyZnRiYmlXQnhfLW50U0x0cjVDOUstaU5yTzJGRE1KU19fcjY1YVhKX1JfZEh6Mmc3aDNsY29zdw"
+      "guid": "CBMilANBVV95cUxQWEZiOGhYbTU0U1diRENIOGxLeFVFUnZSaW4zM0t3VkZmV1k4RnZ2MUd4aGQxNHZMUElzQlBfMWVndnRFOHpfZlFDdnY2MFV4WkVMeUpsa0RQYS1ia2pJZnhoNGdoamRPcWdKellGQS1HVFhJdXhzTGZtMlRmN1BDN3pEVFRYcGU4dy1QT3FTTC1MajlxU3pFd3FaQ0R2bDcxWHVodDBESW1NNlVXS1plbzFxUmU0ZlNOLTZpVXFqM3o5RWZMUHZGOUNqMGEtNWN5MUxtWndvOVltaVp6QVpMcUhDQ183VWRPNjdlS1pfVUE1ZFhHdDloT1VwVWRZOWpiRkpDcG5adFljTlR2NTdYQl9neVdLYnpMbGFDemkyU3hnRVUxZFg0aGR4VFZqQWVXX290WWh2MjBJeVVNNnl3b1V0MVZHYmdJZFpQQ1diYVN6Vlo5VWo4TXhMa0NZcGFrNllycktEem5SX2hqcnJXR0d1UDdHMGxMNzZybUgtUktqR2RTNmg0eGp5eHFnd3ZOQUdacQ"
     },
     {
       "title": "Wall Street ends down as traders see no rate cuts before 2027 - Reuters",
@@ -63,14 +63,6 @@
       "guid": "CBMipAFBVV95cUxQTGRFUDYwMHkxUk9kNGRZVWJOV3ZzNEQ1YVZ1STZVVVNudGtOQkpxTUh6cktER3FUQXNxRUxLdlpVUTlxYjVpWUhXZDFRYk9VNHBrbFc4QmFKM09yQ0RZMm1sU05sTmxDenFYeFQzZ2tSM1E4SnZKWGY0UGNRaUJPRVRMMkhhaXM4eUkybndzYjJMeEJralNxY1FZMF9ZNS1FT3EtOQ"
     },
     {
-      "title": "US stocks fall as hopes wither for a cut to interest rates by the Federal Reserve this year - WTOP",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTE1IWDlVNWtEOWI5aEhQVGloVUVhUXFZNmN1MURQeGkycldEYUVPYm9ZcG9YMGpCZXRFRG03eHQ1OTVoVVpPdnMxakt5YWNlRkdiblk2WUhFX041bWdyZ3R4Y1VRVFYta05fTldNcnVfbHZVcHNTUWFiQUFKRmJCcW11X2t6SF9ZSHdYajlJaV8yNGZNVjA3c2Z3TTZOVHZDNmtYWnBTM1lMc3EzbWZ2YUFWc2xKb2ljUV9SSg?oc=5",
-      "source": "WTOP",
-      "published_at": "Fri, 20 Mar 2026 17:15:00 GMT",
-      "summary": "US stocks fall as hopes wither for a cut to interest rates by the Federal Reserve this year WTOP",
-      "guid": "CBMivAFBVV95cUxNTE1IWDlVNWtEOWI5aEhQVGloVUVhUXFZNmN1MURQeGkycldEYUVPYm9ZcG9YMGpCZXRFRG03eHQ1OTVoVVpPdnMxakt5YWNlRkdiblk2WUhFX041bWdyZ3R4Y1VRVFYta05fTldNcnVfbHZVcHNTUWFiQUFKRmJCcW11X2t6SF9ZSHdYajlJaV8yNGZNVjA3c2Z3TTZOVHZDNmtYWnBTM1lMc3EzbWZ2YUFWc2xKb2ljUV9SSg"
-    },
-    {
       "title": "BofA isn't ruling out a rate hike this year, and says it would take 3 things for that to happen - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPLTVWS2oxUnZuUGNYU1pRQ0QxdEpjOEFYY2dOcWd0M1hPTjd0SnI4Smh0Wm1GcVhMTE5fQ0pWYlR3Tlc5SjBCaUZCTXhGaENVQV9zUjA0MlktU1ZyaF9iMDVEVWpra0h0dWx1cGM0cHdSNE5ubEVvdGc2VUdGZFdicTRHU2VBdzk1X0UtaTMwQUlwbHp1c1VQdlAxVW1pNkE1bmpZUzFFNA?oc=5",
       "source": "Business Insider",
@@ -79,12 +71,20 @@
       "guid": "CBMipwFBVV95cUxPLTVWS2oxUnZuUGNYU1pRQ0QxdEpjOEFYY2dOcWd0M1hPTjd0SnI4Smh0Wm1GcVhMTE5fQ0pWYlR3Tlc5SjBCaUZCTXhGaENVQV9zUjA0MlktU1ZyaF9iMDVEVWpra0h0dWx1cGM0cHdSNE5ubEVvdGc2VUdGZFdicTRHU2VBdzk1X0UtaTMwQUlwbHp1c1VQdlAxVW1pNkE1bmpZUzFFNA"
     },
     {
-      "title": "Stock markets dip for another straight week as U.S. war on Iran continues - CBC",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeF9Sc0VReXZ4Rzh4UWFURXVVMTgxRzRlampNc3AtbmZGNU5rRDM5and2QjZRSlR5SHlYUVNUdjdGYTFpblRCaS1FREtBN3VhdDJyb3RDczdXZDFTV0cwMmZyU18tOU9OMUdOUGtiZ2tjNnBycEl3WjJ0MVZWaWlxV1UzTkRzLVNHTVR3TDdKOHdkRXc?oc=5",
-      "source": "CBC",
-      "published_at": "Fri, 20 Mar 2026 21:29:00 GMT",
-      "summary": "Stock markets dip for another straight week as U.S. war on Iran continues CBC",
-      "guid": "CBMikwFBVV95cUxPeF9Sc0VReXZ4Rzh4UWFURXVVMTgxRzRlampNc3AtbmZGNU5rRDM5and2QjZRSlR5SHlYUVNUdjdGYTFpblRCaS1FREtBN3VhdDJyb3RDczdXZDFTV0cwMmZyU18tOU9OMUdOUGtiZ2tjNnBycEl3WjJ0MVZWaWlxV1UzTkRzLVNHTVR3TDdKOHdkRXc"
+      "title": "US stocks fall as hopes wither for a cut to interest rates by the Federal Reserve this year - WTOP",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTE1IWDlVNWtEOWI5aEhQVGloVUVhUXFZNmN1MURQeGkycldEYUVPYm9ZcG9YMGpCZXRFRG03eHQ1OTVoVVpPdnMxakt5YWNlRkdiblk2WUhFX041bWdyZ3R4Y1VRVFYta05fTldNcnVfbHZVcHNTUWFiQUFKRmJCcW11X2t6SF9ZSHdYajlJaV8yNGZNVjA3c2Z3TTZOVHZDNmtYWnBTM1lMc3EzbWZ2YUFWc2xKb2ljUV9SSg?oc=5",
+      "source": "WTOP",
+      "published_at": "Fri, 20 Mar 2026 17:15:00 GMT",
+      "summary": "US stocks fall as hopes wither for a cut to interest rates by the Federal Reserve this year WTOP",
+      "guid": "CBMivAFBVV95cUxNTE1IWDlVNWtEOWI5aEhQVGloVUVhUXFZNmN1MURQeGkycldEYUVPYm9ZcG9YMGpCZXRFRG03eHQ1OTVoVVpPdnMxakt5YWNlRkdiblk2WUhFX041bWdyZ3R4Y1VRVFYta05fTldNcnVfbHZVcHNTUWFiQUFKRmJCcW11X2t6SF9ZSHdYajlJaV8yNGZNVjA3c2Z3TTZOVHZDNmtYWnBTM1lMc3EzbWZ2YUFWc2xKb2ljUV9SSg"
+    },
+    {
+      "title": "Stock Market Has Weathered a Host of Shocks. Is Surging Oil Too Much for It to Bear? - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxONzNUbWRWUU11SXhMaWM2YjR1OGJpdmxPR0dzSENFMmRwQ0xnTWd0MzN1UUs4R0dad0ZUejFHRnBrMTAwR2s3SktoRjh6ZXEydXBGWEpIbXhZbVdoS3JoSjNCbExkSk1tX09HYkcwLUV6MUUtTTdnNnNWSU5RUDZzbUQ5NFY3SGN1eFh3N19LSzlhSGNqZ05kWU1XUjFTUEVUSENoQ0piYzFubGVodDQzV0p0eHlmb0lIYUZVUzFyeDhPVUtTMDhIODZjaXhPT0hESmNjaWlscWxoRll3QXV2ZUp6V05sSWRMSENzTmV1OGNXVGswY05BOUFleU5meXVLb09CTm9Zd1R5TG1aR1Z5cC1BN1hhMmczelVwWmNralpOaXFsVTRTd2FzakJXWUlweVlqNkVLUkd1SndqYXhHdm9qYmFBQXFYT1JTV2IzY2tGNEpmYzUtN0FON1NPN1hyRmZuTU40ellPekRmaURIOGpWcTFncTJoc0hzYlh0TEtzQzFFbjVhQ1hiQnh3QQ?oc=5",
+      "source": "Barron's",
+      "published_at": "Thu, 19 Mar 2026 11:12:00 GMT",
+      "summary": "Stock Market Has Weathered a Host of Shocks. Is Surging Oil Too Much for It to Bear? Barron's",
+      "guid": "CBMijgNBVV95cUxONzNUbWRWUU11SXhMaWM2YjR1OGJpdmxPR0dzSENFMmRwQ0xnTWd0MzN1UUs4R0dad0ZUejFHRnBrMTAwR2s3SktoRjh6ZXEydXBGWEpIbXhZbVdoS3JoSjNCbExkSk1tX09HYkcwLUV6MUUtTTdnNnNWSU5RUDZzbUQ5NFY3SGN1eFh3N19LSzlhSGNqZ05kWU1XUjFTUEVUSENoQ0piYzFubGVodDQzV0p0eHlmb0lIYUZVUzFyeDhPVUtTMDhIODZjaXhPT0hESmNjaWlscWxoRll3QXV2ZUp6V05sSWRMSENzTmV1OGNXVGswY05BOUFleU5meXVLb09CTm9Zd1R5TG1aR1Z5cC1BN1hhMmczelVwWmNralpOaXFsVTRTd2FzakJXWUlweVlqNkVLUkd1SndqYXhHdm9qYmFBQXFYT1JTV2IzY2tGNEpmYzUtN0FON1NPN1hyRmZuTU40ellPekRmaURIOGpWcTFncTJoc0hzYlh0TEtzQzFFbjVhQ1hiQnh3QQ"
     }
   ]
 }
