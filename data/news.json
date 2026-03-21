@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-03-21T11:35:55Z",
+  "generated_at": "2026-03-21T11:53:27Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "The Federal Reserve Has Become a Stock Market Liability, and President Trump's New Nominee for Chair Won't Help - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaXkyeVlWbEhaRk9wczFpNk80UG9Td2lqeTNxa3hxd19GOE1kRUQzQ0xNaFIxNWRXUm8wSngtYUtMeFhuV1J3b0lPMm5zcUlKYi16YW1ic00zZU1aUUFTUV9ULXlva1lEU0hlM1UzSFBWVFhJMFFCNEVWRGtYcDlqcklMdzlTQ28?oc=5",
+      "source": "AOL.com",
+      "published_at": "Sat, 21 Mar 2026 10:16:21 GMT",
+      "summary": "The Federal Reserve Has Become a Stock Market Liability, and President Trump's New Nominee for Chair Won't Help AOL.com",
+      "guid": "CBMihwFBVV95cUxQaXkyeVlWbEhaRk9wczFpNk80UG9Td2lqeTNxa3hxd19GOE1kRUQzQ0xNaFIxNWRXUm8wSngtYUtMeFhuV1J3b0lPMm5zcUlKYi16YW1ic00zZU1aUUFTUV9ULXlva1lEU0hlM1UzSFBWVFhJMFFCNEVWRGtYcDlqcklMdzlTQ28"
+    },
     {
       "title": "Federal Reserve holds interest rates steady, signals one rate cut amid inflation uncertainty - U.S. Bank",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw?oc=5",
@@ -16,11 +24,11 @@
     },
     {
       "title": "The Stock Market Is Buckling Under the Weight of Oil and the Fed. What Comes Next. - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxOZ1VPS3B2X3VKRWJtc0dJU0pxeHVpMklMSkRiQXIyWmRRR0xjNUd2cW5idk8zc3BIdVVjQTNRUjdKOHNUenNUWG9oWk0yTHBUUDYwN29tZVN1S211aWxIQlVydlVnUk1xbG4xUUhGOUtOajkzQzdab1Y1cW1KZFJwekp1MGZtREt6ZUVBY3lLZWZKTGxRTS1Ed001bzBKZ0tsdmFSNk9JZWUxb0lJRDRUeHFTYUtiei1sd3U5OHJfSlMtUl9sUXZ1QUs1ekE2QlJiVlRaTFc3UVUtVk5LYVNCQUc4T1Nnd1dvdl9lTmM2RjJzUmRuZDdMZ1hCS1gtNHY3REZ2ajRjWnZmQ0RJb3RnNkdRMmd1MDJPcUljNkVkeFozMlZkcDlPNm45aUZoemxnZW5oRFZZVl95bFB2S3UyQTduMUlScVZyTjRSOU5IN2h4WEkzcDkxOEFKOHozQTRJVHFhZGI5SktvbGtPVGdNS1g0N3EteWF0anNuSllrV0tZcmxtaHdjcC0wZ0UxN1d2ZXgzQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxQcWROdTJuQXBUZU9XMlhGazFNQVVnczNVb2hoaFNsZm5DNGI1eVNlR211b0hKampibEFtdWhfZ0l3X1JaS3c1VVB5Tnp4WGE4dVpWWXlEU0lOTmxreHJPUldvMkVXSE10cXNxQ2IzcGx3cXYzQUg1V0FDelBTVGlkZktrc0JOZlJvTG12MFNvRjFZRG9yZm5MSzhjV1AxOFFRc2pWQU9YdVVURlI1Z3A2RGV4WHBMVkgzMXZqUThKNlUzV1g1VGFlcUZjcFVZckwwUWtxbmFSMjZIamVaUUN0SjMwbmZsdDdOaFZtT1p5MFZnXzhsMEtQYnN5VERaN1ZkNU9Wbmw4NTFrX21sU2lCSFNlRFcya0tyTnRBUXk5NXBLQTQ3ZVdKS3dIbGNTUmdmaERxN0c3ZVJaUWk0YWR2Qk5tZmJtczdjY2F2cEZrYUFKb1d6a3U4aHlfYWtUR0VlUzNVdi1EZzRkVXRubS1ETkRBUk84SWh5U3p0SHFXM0FlTDlCQlVuNnpCaDdEZEdpNGI5ag?oc=5",
       "source": "Barron's",
       "published_at": "Thu, 19 Mar 2026 13:34:00 GMT",
       "summary": "The Stock Market Is Buckling Under the Weight of Oil and the Fed. What Comes Next. Barron's",
-      "guid": "CBMilANBVV95cUxOZ1VPS3B2X3VKRWJtc0dJU0pxeHVpMklMSkRiQXIyWmRRR0xjNUd2cW5idk8zc3BIdVVjQTNRUjdKOHNUenNUWG9oWk0yTHBUUDYwN29tZVN1S211aWxIQlVydlVnUk1xbG4xUUhGOUtOajkzQzdab1Y1cW1KZFJwekp1MGZtREt6ZUVBY3lLZWZKTGxRTS1Ed001bzBKZ0tsdmFSNk9JZWUxb0lJRDRUeHFTYUtiei1sd3U5OHJfSlMtUl9sUXZ1QUs1ekE2QlJiVlRaTFc3UVUtVk5LYVNCQUc4T1Nnd1dvdl9lTmM2RjJzUmRuZDdMZ1hCS1gtNHY3REZ2ajRjWnZmQ0RJb3RnNkdRMmd1MDJPcUljNkVkeFozMlZkcDlPNm45aUZoemxnZW5oRFZZVl95bFB2S3UyQTduMUlScVZyTjRSOU5IN2h4WEkzcDkxOEFKOHozQTRJVHFhZGI5SktvbGtPVGdNS1g0N3EteWF0anNuSllrV0tZcmxtaHdjcC0wZ0UxN1d2ZXgzQQ"
+      "guid": "CBMilANBVV95cUxQcWROdTJuQXBUZU9XMlhGazFNQVVnczNVb2hoaFNsZm5DNGI1eVNlR211b0hKampibEFtdWhfZ0l3X1JaS3c1VVB5Tnp4WGE4dVpWWXlEU0lOTmxreHJPUldvMkVXSE10cXNxQ2IzcGx3cXYzQUg1V0FDelBTVGlkZktrc0JOZlJvTG12MFNvRjFZRG9yZm5MSzhjV1AxOFFRc2pWQU9YdVVURlI1Z3A2RGV4WHBMVkgzMXZqUThKNlUzV1g1VGFlcUZjcFVZckwwUWtxbmFSMjZIamVaUUN0SjMwbmZsdDdOaFZtT1p5MFZnXzhsMEtQYnN5VERaN1ZkNU9Wbmw4NTFrX21sU2lCSFNlRFcya0tyTnRBUXk5NXBLQTQ3ZVdKS3dIbGNTUmdmaERxN0c3ZVJaUWk0YWR2Qk5tZmJtczdjY2F2cEZrYUFKb1d6a3U4aHlfYWtUR0VlUzNVdi1EZzRkVXRubS1ETkRBUk84SWh5U3p0SHFXM0FlTDlCQlVuNnpCaDdEZEdpNGI5ag"
     },
     {
       "title": "Wall Street ends down as traders see no rate cuts before 2027 - Reuters",
@@ -37,22 +45,6 @@
       "published_at": "Fri, 20 Mar 2026 17:15:00 GMT",
       "summary": "US stocks fall as hopes wither for a cut to interest rates by the Federal Reserve this year WTOP",
       "guid": "CBMivAFBVV95cUxNTE1IWDlVNWtEOWI5aEhQVGloVUVhUXFZNmN1MURQeGkycldEYUVPYm9ZcG9YMGpCZXRFRG03eHQ1OTVoVVpPdnMxakt5YWNlRkdiblk2WUhFX041bWdyZ3R4Y1VRVFYta05fTldNcnVfbHZVcHNTUWFiQUFKRmJCcW11X2t6SF9ZSHdYajlJaV8yNGZNVjA3c2Z3TTZOVHZDNmtYWnBTM1lMc3EzbWZ2YUFWc2xKb2ljUV9SSg"
-    },
-    {
-      "title": "Weekly market commentary - blackrock.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
-      "source": "blackrock.com",
-      "published_at": "Mon, 16 Mar 2026 07:00:00 GMT",
-      "summary": "Weekly market commentary blackrock.com",
-      "guid": "CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw"
-    },
-    {
-      "title": "The Federal Reserve Has Become a Stock Market Liability, and President Trump's New Nominee for Chair Won't Help - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOUN5MHFlVmh2ZFI3eXp1ODZCS0E1WGZNdkt4Q1lWZHBXY1N4bXl4bjk3VGRoUU83Rk9tRzNsOGJ6SWx4Ukk0eTRhOUZ2aHZnVDFOQkg3d3JuNEp6SjV0RUFYUzVBN003V0U2SmFEczdJd3FZWnRaVnY2ZG1pVjI1Zl9jcXhGSV9fUW8xTHZEbmFCNnJONjBR?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Mon, 16 Mar 2026 16:33:00 GMT",
-      "summary": "The Federal Reserve Has Become a Stock Market Liability, and President Trump's New Nominee for Chair Won't Help The Motley Fool",
-      "guid": "CBMilwFBVV95cUxOOUN5MHFlVmh2ZFI3eXp1ODZCS0E1WGZNdkt4Q1lWZHBXY1N4bXl4bjk3VGRoUU83Rk9tRzNsOGJ6SWx4Ukk0eTRhOUZ2aHZnVDFOQkg3d3JuNEp6SjV0RUFYUzVBN003V0U2SmFEczdJd3FZWnRaVnY2ZG1pVjI1Zl9jcXhGSV9fUW8xTHZEbmFCNnJONjBR"
     },
     {
       "title": "Federal Reserve holds firm with decision not to cut interest rate - NewsNation",
@@ -85,6 +77,14 @@
       "published_at": "Wed, 18 Mar 2026 20:12:48 GMT",
       "summary": "Dow Slides 768 Points on Inflation Fears: Stock Market Today Kiplinger",
       "guid": "CBMipAFBVV95cUxQTGRFUDYwMHkxUk9kNGRZVWJOV3ZzNEQ1YVZ1STZVVVNudGtOQkpxTUh6cktER3FUQXNxRUxLdlpVUTlxYjVpWUhXZDFRYk9VNHBrbFc4QmFKM09yQ0RZMm1sU05sTmxDenFYeFQzZ2tSM1E4SnZKWGY0UGNRaUJPRVRMMkhhaXM4eUkybndzYjJMeEJralNxY1FZMF9ZNS1FT3EtOQ"
+    },
+    {
+      "title": "Stock markets dip for another straight week as U.S. war on Iran continues - CBC",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeF9Sc0VReXZ4Rzh4UWFURXVVMTgxRzRlampNc3AtbmZGNU5rRDM5and2QjZRSlR5SHlYUVNUdjdGYTFpblRCaS1FREtBN3VhdDJyb3RDczdXZDFTV0cwMmZyU18tOU9OMUdOUGtiZ2tjNnBycEl3WjJ0MVZWaWlxV1UzTkRzLVNHTVR3TDdKOHdkRXc?oc=5",
+      "source": "CBC",
+      "published_at": "Fri, 20 Mar 2026 21:29:11 GMT",
+      "summary": "Stock markets dip for another straight week as U.S. war on Iran continues CBC",
+      "guid": "CBMikwFBVV95cUxPeF9Sc0VReXZ4Rzh4UWFURXVVMTgxRzRlampNc3AtbmZGNU5rRDM5and2QjZRSlR5SHlYUVNUdjdGYTFpblRCaS1FREtBN3VhdDJyb3RDczdXZDFTV0cwMmZyU18tOU9OMUdOUGtiZ2tjNnBycEl3WjJ0MVZWaWlxV1UzTkRzLVNHTVR3TDdKOHdkRXc"
     }
   ]
 }
