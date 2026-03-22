@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-22T11:14:51Z",
+  "generated_at": "2026-03-22T11:36:53Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -24,11 +24,11 @@
     },
     {
       "title": "The Stock Market Is Buckling Under the Weight of Oil and the Fed. What Comes Next. - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxNWGVQcmxFVkJsOVNrUXVRODFwajNCcDNwNDd4aGlWbGNyZ1VHeVhOek1iMlc1aXZhWHdNY3R4UEFfcnBtcDFMZ0lXRXRueGFSWl9lUzhIY2FuTzJQSEZFRC1PUGtqS0N2X3ZwT0l1MkRhYmtoZEhGUC14N05JLTZGUnVTLWUzQzJmNUNMdWJaWEk0Yi1lNnMtcUt3b1BaNkxtT1dzOUdoV3kzcUdrTXM1VmpuYjJlZDN4eHhmVEdyaHk3cHh6RFd0OWRTYjlRMG5fTXhDMU5sNDF4a3FfSXhCbWpfYkxIZUhVSmhYYkpITnNRanJmNW9WZzlPYjAxREVSVnZnLVVXOGVTTk5NQThYNmp6dHBtaTJ4ZDlXaHdhMEdfOXRQMXd3ZU03ZzVhWnpmeHpfNXRtb0Z3TEl2V2hpNk9OZlpreUp3Q3U3Q3BjN0xseWhBM09EaDFJeXFmRi1uVjA4M0xEa2FOamxwZC01Y1RiMTVXYUd5VHhkcUx5b0stQkR0VDhQdHJ4TjZzWk9MTk5xUg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxQNVJjRjFoVHhkVGpZRUJxNnlwTWkyWVlvbW1fazFqWEFSSENQT0R3NndCNkJWdG5UdE5GRWhfZ0lzYUZTQWlYWXZDM29Dc1lKZ3lzSGhNdzZaUGRUT0lwdDBzNWtlUGpGcnNUQlByQS15RllZNmtnMDFGS1ZqS1haNHhYMkhyc2ttRE5kSDJLVWxuV2s5OXFudzJKTm5SYndTTHZ4WTVka1MyMmFjUW1LVnZ5cHhWMUVxQTk2VTJNOHVSQTVLVEtkSGFWWGNuajAzUkxvV2x4MC1UdURYVW1mUFcydXc0SW1uZHZGQUdsNHpDSV8yVDBEMkRTenoyS2xCRTlpWjVtM0p6ekE4SDV5Ym9zeGlKaWlfMkZHcU5vX0pyenJtY1RwNTljcHluT2h0VWRyQkE3dlZCMjRTVFBLS1pSMTlGMlZsVUNSbkd2MEh6eFN2NWJUNUpocUJNLUJKaElVNzhuMzlrZ0owU0c5czJtbFNteFlobXZvRlpjanI1NC1JcTh1MnFXTk9GVnJmSGItTA?oc=5",
       "source": "Barron's",
       "published_at": "Thu, 19 Mar 2026 13:34:00 GMT",
       "summary": "The Stock Market Is Buckling Under the Weight of Oil and the Fed. What Comes Next. Barron's",
-      "guid": "CBMilANBVV95cUxNWGVQcmxFVkJsOVNrUXVRODFwajNCcDNwNDd4aGlWbGNyZ1VHeVhOek1iMlc1aXZhWHdNY3R4UEFfcnBtcDFMZ0lXRXRueGFSWl9lUzhIY2FuTzJQSEZFRC1PUGtqS0N2X3ZwT0l1MkRhYmtoZEhGUC14N05JLTZGUnVTLWUzQzJmNUNMdWJaWEk0Yi1lNnMtcUt3b1BaNkxtT1dzOUdoV3kzcUdrTXM1VmpuYjJlZDN4eHhmVEdyaHk3cHh6RFd0OWRTYjlRMG5fTXhDMU5sNDF4a3FfSXhCbWpfYkxIZUhVSmhYYkpITnNRanJmNW9WZzlPYjAxREVSVnZnLVVXOGVTTk5NQThYNmp6dHBtaTJ4ZDlXaHdhMEdfOXRQMXd3ZU03ZzVhWnpmeHpfNXRtb0Z3TEl2V2hpNk9OZlpreUp3Q3U3Q3BjN0xseWhBM09EaDFJeXFmRi1uVjA4M0xEa2FOamxwZC01Y1RiMTVXYUd5VHhkcUx5b0stQkR0VDhQdHJ4TjZzWk9MTk5xUg"
+      "guid": "CBMilANBVV95cUxQNVJjRjFoVHhkVGpZRUJxNnlwTWkyWVlvbW1fazFqWEFSSENQT0R3NndCNkJWdG5UdE5GRWhfZ0lzYUZTQWlYWXZDM29Dc1lKZ3lzSGhNdzZaUGRUT0lwdDBzNWtlUGpGcnNUQlByQS15RllZNmtnMDFGS1ZqS1haNHhYMkhyc2ttRE5kSDJLVWxuV2s5OXFudzJKTm5SYndTTHZ4WTVka1MyMmFjUW1LVnZ5cHhWMUVxQTk2VTJNOHVSQTVLVEtkSGFWWGNuajAzUkxvV2x4MC1UdURYVW1mUFcydXc0SW1uZHZGQUdsNHpDSV8yVDBEMkRTenoyS2xCRTlpWjVtM0p6ekE4SDV5Ym9zeGlKaWlfMkZHcU5vX0pyenJtY1RwNTljcHluT2h0VWRyQkE3dlZCMjRTVFBLS1pSMTlGMlZsVUNSbkd2MEh6eFN2NWJUNUpocUJNLUJKaElVNzhuMzlrZ0owU0c5czJtbFNteFlobXZvRlpjanI1NC1JcTh1MnFXTk9GVnJmSGItTA"
     },
     {
       "title": "Wall Street ends down as traders see no rate cuts before 2027 - Reuters",
