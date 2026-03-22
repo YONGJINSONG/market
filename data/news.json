@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-22T14:23:44Z",
+  "generated_at": "2026-03-22T14:50:40Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,20 +7,28 @@
   },
   "items": [
     {
-      "title": "A Federal Reserve Double Whammy Is 2 Months Away and Most Investors Aren't Ready - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVjB6WXBtRmJZUzdFWkktbzJTQXQ0c191cktWTVF3cjdZWFNDeHVBeWN5N2MtZWkwRnc0QnJjTkFXTURrUHJwT0VjeC1Rckt0eloyQ2hzTFU3aEFVamVLeHdRcWpydzQ0ZzZsNjBUdG9jbFhEQ1lqdUk1WGR1bzZwSUZqM1dDU05HOE83WFRBLWlZazhBZk1FMENn?oc=5",
+      "title": "The Federal Reserve Is Raising Red Flags, and the Stock Market Isn't Listening - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOekxPWGJuVXFUNmJnRnprN09sby15c1dYcDB4YVVlWGwyUF96S2hxLTRmdktCYnhpNEEwc3lBdjVCVmwtRnlKQ20tUXBOQlpTMFNjZll6eDc0NDdsbWtMUjdoSUxDY2lWcTJNOEpublNrcV9CQWRVbTZxQkVUM2ZiOUlnS2JLTjdkb2JCQUNEVVA1LTg?oc=5",
       "source": "The Motley Fool",
-      "published_at": "Sun, 22 Mar 2026 10:05:05 GMT",
-      "summary": "A Federal Reserve Double Whammy Is 2 Months Away and Most Investors Aren't Ready The Motley Fool",
-      "guid": "CBMimgFBVV95cUxOVjB6WXBtRmJZUzdFWkktbzJTQXQ0c191cktWTVF3cjdZWFNDeHVBeWN5N2MtZWkwRnc0QnJjTkFXTURrUHJwT0VjeC1Rckt0eloyQ2hzTFU3aEFVamVLeHdRcWpydzQ0ZzZsNjBUdG9jbFhEQ1lqdUk1WGR1bzZwSUZqM1dDU05HOE83WFRBLWlZazhBZk1FMENn"
+      "published_at": "Sun, 22 Mar 2026 14:48:05 GMT",
+      "summary": "The Federal Reserve Is Raising Red Flags, and the Stock Market Isn't Listening The Motley Fool",
+      "guid": "CBMikwFBVV95cUxOekxPWGJuVXFUNmJnRnprN09sby15c1dYcDB4YVVlWGwyUF96S2hxLTRmdktCYnhpNEEwc3lBdjVCVmwtRnlKQ20tUXBOQlpTMFNjZll6eDc0NDdsbWtMUjdoSUxDY2lWcTJNOEpublNrcV9CQWRVbTZxQkVUM2ZiOUlnS2JLTjdkb2JCQUNEVVA1LTg"
+    },
+    {
+      "title": "Federal Reserve holds interest rates steady, signals one rate cut amid inflation uncertainty - U.S. Bank",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw?oc=5",
+      "source": "U.S. Bank",
+      "published_at": "Wed, 18 Mar 2026 07:00:00 GMT",
+      "summary": "Federal Reserve holds interest rates steady, signals one rate cut amid inflation uncertainty U.S. Bank",
+      "guid": "CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw"
     },
     {
       "title": "The Stock Market Is Buckling Under the Weight of Oil and the Fed. What Comes Next. - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxOSWh0NkhMMi1WWV8tZ3Vab0lMZXdiSjNsZzYxY0tRR0xvcWh6Z2w0QzBxTEx2eVk2bjNBV1B6ZXBPUDRiUnAzNlFzdmp5QXAzclFnTzJmUlNveGFIQ2JCTGZ3cHhKZ29IeTRVRnBrSWlSSlUwQkV4RmNYTGwtY1c0ZlJUY3RqUE55NXo1SEN2aDh6ckE0cDlRRlJja0pfY0RGR19KQ3E1RzBmai1oNElEeEY0b1RDc0pjQmxMTlJrM2t6d241aEhLdE1PTkhZTVFKY3ZHUkpwcU05WDdBR1NHMnMyUGZ6SGJURnRPMmktUHhRVkhzb25pbHlLdFg0VEpBS1ZwZS1WM3NLYlcwY0VWVXQ3bFQ2Wk5tdTZsLUpWYnhoaG5ZeDRrSF9YUDl4NWxEbjFXckJUZ21uNVRuV25kRlR5b2hEN3BjVTZRTmVfUUhOYWpLcVFDWDlieWt2TUxka25fWXNSSlpRUFZMT0ZpR0FIRFJkNDE3Y0xhMkRUS1doNVc3dXNKN3N1SVJFalNJcTM1Wg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxNcWFRWVpReVN1cC1oVFVJc3pQOTlxZ19OUTdMRDBlNW9zVjYzelVJMDlTdHdoYTdvaXFZZXFYX21hRG9WM3ZpaF9WNy14ZkQ2T1NYX2RYWERKUE1FT3ZHWnN0RTZsUEJiN1ZrYUwycUZDN0szQjZHQV8za3hVRFNWNmpILWptcEFyTk42M0FPcHNhQXNlQ2xwV0JuS2p2MzNHTGVHNFp5dHJRdm5YbFM4T3RJNlZGTmExRXA4Ymp6TFpBVjA0UjlfOE9hb0VDX1RzNjZkVTRvMkhpOFNJRE9IZFJ3VDE0OWMxUG5UcW03dXpvZk5hb1VsMUFTQlhzWUVZS1pHdW5FdExCSms2dlJmdG5kS05oSFJQOG5YZnNwd296OVRUWTNMSFJfVDVaTUVsQ1Z6RmVPRGF4bTlCTEptbnp4c2gwR1FSai04cDFJZEhkZERnazNmNFVyUUVBQUt1QldQU1hoVTVoLXVfd2poekd4U3lkblA4bjg3ZVczMmptZExqLWhLdWd1TTZjcUg0UjNGNA?oc=5",
       "source": "Barron's",
       "published_at": "Thu, 19 Mar 2026 13:34:00 GMT",
       "summary": "The Stock Market Is Buckling Under the Weight of Oil and the Fed. What Comes Next. Barron's",
-      "guid": "CBMilANBVV95cUxOSWh0NkhMMi1WWV8tZ3Vab0lMZXdiSjNsZzYxY0tRR0xvcWh6Z2w0QzBxTEx2eVk2bjNBV1B6ZXBPUDRiUnAzNlFzdmp5QXAzclFnTzJmUlNveGFIQ2JCTGZ3cHhKZ29IeTRVRnBrSWlSSlUwQkV4RmNYTGwtY1c0ZlJUY3RqUE55NXo1SEN2aDh6ckE0cDlRRlJja0pfY0RGR19KQ3E1RzBmai1oNElEeEY0b1RDc0pjQmxMTlJrM2t6d241aEhLdE1PTkhZTVFKY3ZHUkpwcU05WDdBR1NHMnMyUGZ6SGJURnRPMmktUHhRVkhzb25pbHlLdFg0VEpBS1ZwZS1WM3NLYlcwY0VWVXQ3bFQ2Wk5tdTZsLUpWYnhoaG5ZeDRrSF9YUDl4NWxEbjFXckJUZ21uNVRuV25kRlR5b2hEN3BjVTZRTmVfUUhOYWpLcVFDWDlieWt2TUxka25fWXNSSlpRUFZMT0ZpR0FIRFJkNDE3Y0xhMkRUS1doNVc3dXNKN3N1SVJFalNJcTM1Wg"
+      "guid": "CBMilANBVV95cUxNcWFRWVpReVN1cC1oVFVJc3pQOTlxZ19OUTdMRDBlNW9zVjYzelVJMDlTdHdoYTdvaXFZZXFYX21hRG9WM3ZpaF9WNy14ZkQ2T1NYX2RYWERKUE1FT3ZHWnN0RTZsUEJiN1ZrYUwycUZDN0szQjZHQV8za3hVRFNWNmpILWptcEFyTk42M0FPcHNhQXNlQ2xwV0JuS2p2MzNHTGVHNFp5dHJRdm5YbFM4T3RJNlZGTmExRXA4Ymp6TFpBVjA0UjlfOE9hb0VDX1RzNjZkVTRvMkhpOFNJRE9IZFJ3VDE0OWMxUG5UcW03dXpvZk5hb1VsMUFTQlhzWUVZS1pHdW5FdExCSms2dlJmdG5kS05oSFJQOG5YZnNwd296OVRUWTNMSFJfVDVaTUVsQ1Z6RmVPRGF4bTlCTEptbnp4c2gwR1FSai04cDFJZEhkZERnazNmNFVyUUVBQUt1QldQU1hoVTVoLXVfd2poekd4U3lkblA4bjg3ZVczMmptZExqLWhLdWd1TTZjcUg0UjNGNA"
     },
     {
       "title": "Wall Street ends down as traders see no rate cuts before 2027 - Reuters",
@@ -55,20 +63,20 @@
       "guid": "CBMivAFBVV95cUxNTE1IWDlVNWtEOWI5aEhQVGloVUVhUXFZNmN1MURQeGkycldEYUVPYm9ZcG9YMGpCZXRFRG03eHQ1OTVoVVpPdnMxakt5YWNlRkdiblk2WUhFX041bWdyZ3R4Y1VRVFYta05fTldNcnVfbHZVcHNTUWFiQUFKRmJCcW11X2t6SF9ZSHdYajlJaV8yNGZNVjA3c2Z3TTZOVHZDNmtYWnBTM1lMc3EzbWZ2YUFWc2xKb2ljUV9SSg"
     },
     {
-      "title": "Tackling a weakened job market could be more difficult for the Fed - marketplace.org",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNkg5YmdRaHlzY05qUUVGRFZSZ1hfMUJZU1JwYkRTTjMxU1pJbUdHZFh5V3BrdHV1WXdFNDFfRDA2VjlJSEExVDM1UHpOQzlJWmhVRGFFZ0pUbmVaOUJGWVVRdm54bnUtWnNhWXZCb0lLaG5rV1NVbVFaS2Via2tNWkR4bWZQUndOV05hdkk4RHF1OGxMR0poMDB5STdnOGpNT1F0cWJOTGw3NDN4cnZTWg?oc=5",
-      "source": "marketplace.org",
-      "published_at": "Wed, 18 Mar 2026 21:00:00 GMT",
-      "summary": "Tackling a weakened job market could be more difficult for the Fed marketplace.org",
-      "guid": "CBMisAFBVV95cUxNNkg5YmdRaHlzY05qUUVGRFZSZ1hfMUJZU1JwYkRTTjMxU1pJbUdHZFh5V3BrdHV1WXdFNDFfRDA2VjlJSEExVDM1UHpOQzlJWmhVRGFFZ0pUbmVaOUJGWVVRdm54bnUtWnNhWXZCb0lLaG5rV1NVbVFaS2Via2tNWkR4bWZQUndOV05hdkk4RHF1OGxMR0poMDB5STdnOGpNT1F0cWJOTGw3NDN4cnZTWg"
+      "title": "A Federal Reserve Double Whammy Is 2 Months Away and Most Investors Aren't Ready - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVjB6WXBtRmJZUzdFWkktbzJTQXQ0c191cktWTVF3cjdZWFNDeHVBeWN5N2MtZWkwRnc0QnJjTkFXTURrUHJwT0VjeC1Rckt0eloyQ2hzTFU3aEFVamVLeHdRcWpydzQ0ZzZsNjBUdG9jbFhEQ1lqdUk1WGR1bzZwSUZqM1dDU05HOE83WFRBLWlZazhBZk1FMENn?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Sun, 22 Mar 2026 10:05:05 GMT",
+      "summary": "A Federal Reserve Double Whammy Is 2 Months Away and Most Investors Aren't Ready The Motley Fool",
+      "guid": "CBMimgFBVV95cUxOVjB6WXBtRmJZUzdFWkktbzJTQXQ0c191cktWTVF3cjdZWFNDeHVBeWN5N2MtZWkwRnc0QnJjTkFXTURrUHJwT0VjeC1Rckt0eloyQ2hzTFU3aEFVamVLeHdRcWpydzQ0ZzZsNjBUdG9jbFhEQ1lqdUk1WGR1bzZwSUZqM1dDU05HOE83WFRBLWlZazhBZk1FMENn"
     },
     {
-      "title": "Federal Reserve holds interest rates steady, citing economic uncertainty - ROI-NJ",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUURhWVViX3hBWl9DOEpRdzRGYm14WVRaWmlhX2JDdFlLS2NPTHFKR1hXSnp4NHY4UXZFWVVFVFVvRkx3NmxBTUpGSHUxOXJ6aU0yZmNZdDd2Q1JLVnU4MWxzZUVPN3VmWGticzBfb21BNC1mX092cWdvZ19aNkVSZUlvVWxqdGszbTZpWnlLWDlEdkRWMXItaFBZZmhkbVdJVFNDNS01MWN3TTBqMnhNOFhRMXdOUQ?oc=5",
-      "source": "ROI-NJ",
-      "published_at": "Thu, 19 Mar 2026 09:26:39 GMT",
-      "summary": "Federal Reserve holds interest rates steady, citing economic uncertainty ROI-NJ",
-      "guid": "CBMitgFBVV95cUxNUURhWVViX3hBWl9DOEpRdzRGYm14WVRaWmlhX2JDdFlLS2NPTHFKR1hXSnp4NHY4UXZFWVVFVFVvRkx3NmxBTUpGSHUxOXJ6aU0yZmNZdDd2Q1JLVnU4MWxzZUVPN3VmWGticzBfb21BNC1mX092cWdvZ19aNkVSZUlvVWxqdGszbTZpWnlLWDlEdkRWMXItaFBZZmhkbVdJVFNDNS01MWN3TTBqMnhNOFhRMXdOUQ"
+      "title": "How Do Changing Interest Rates Affect the Stock Market? - U.S. Bank",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVVJpa2pCR3B0TmxRZGlpSmRZaFctZ21ybGtrVUVBMFozZ0xiSGFRY0ZZdGNWaV80dnhHUTR2TTVoSnZEU190aGtMamY2MDAxT0hYYzRXcUl5OUEyOGRGYWlBbm54T3ppaEZWRWtyV01EOEJGcVRaM2xROWlCX2FxSFYxX1NXeUQwZmJLS3pqcGhCWjR5RVJrNlhmbUtRcy1EUGJLaFI4UTNkUHg4emNPUE95cTc0bnlDcklaaG5EcWhBeVU?oc=5",
+      "source": "U.S. Bank",
+      "published_at": "Fri, 30 Jan 2026 08:00:00 GMT",
+      "summary": "How Do Changing Interest Rates Affect the Stock Market? U.S. Bank",
+      "guid": "CBMiwwFBVV95cUxQVVJpa2pCR3B0TmxRZGlpSmRZaFctZ21ybGtrVUVBMFozZ0xiSGFRY0ZZdGNWaV80dnhHUTR2TTVoSnZEU190aGtMamY2MDAxT0hYYzRXcUl5OUEyOGRGYWlBbm54T3ppaEZWRWtyV01EOEJGcVRaM2xROWlCX2FxSFYxX1NXeUQwZmJLS3pqcGhCWjR5RVJrNlhmbUtRcy1EUGJLaFI4UTNkUHg4emNPUE95cTc0bnlDcklaaG5EcWhBeVU"
     },
     {
       "title": "Prediction: The Trump Bull Market Is Running on Fumes, and the Federal Reserve Will Send It Over the Edge - The Motley Fool",
@@ -77,14 +85,6 @@
       "published_at": "Sun, 22 Mar 2026 09:06:00 GMT",
       "summary": "Prediction: The Trump Bull Market Is Running on Fumes, and the Federal Reserve Will Send It Over the Edge The Motley Fool",
       "guid": "CBMilgFBVV95cUxPZHotZDg2TUF1NnpOb0tXaEdYZ00tbG9rNTJrWVB6cnRXa0NBQm1mbmF2cDNNZjJoemZTUnhQN3lyeWVGLXZjVmdOZUZsWDYxc2VzT2U5ek81S2JLR0dmbzRra2E0YWRFSWQ1cTN2SVhLbTRkbnd4d2JETUVWYlBQdW9yU3M4R0tYMXpvZXIyMVlVSXExZXc"
-    },
-    {
-      "title": "Fed Chair Jerome Powell Just Connected AI to Inflation. Here's Your Investing Playbook. - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNd2QxeHJZZlRvRXBMc1lvWWFtLXM2YmVrTDI2RmZwdlU1b00yMDBDUzZ4Mm1YRWhKYUlWUDQ3dTREbWlEcFNHTnQyMUZjODV6Nklpb2g3bGxsdGhEakE3d0EzQllOZmU2WUROM3FIYjg2aW9vbXVGNURMamJxcldkQmxqRXRtX1picVZMeXdIS0J6NWJnbGJuMw?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Sun, 22 Mar 2026 08:48:00 GMT",
-      "summary": "Fed Chair Jerome Powell Just Connected AI to Inflation. Here's Your Investing Playbook. The Motley Fool",
-      "guid": "CBMimAFBVV95cUxNd2QxeHJZZlRvRXBMc1lvWWFtLXM2YmVrTDI2RmZwdlU1b00yMDBDUzZ4Mm1YRWhKYUlWUDQ3dTREbWlEcFNHTnQyMUZjODV6Nklpb2g3bGxsdGhEakE3d0EzQllOZmU2WUROM3FIYjg2aW9vbXVGNURMamJxcldkQmxqRXRtX1picVZMeXdIS0J6NWJnbGJuMw"
     }
   ]
 }
