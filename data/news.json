@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-22T19:25:50Z",
+  "generated_at": "2026-03-22T19:44:05Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -13,6 +13,14 @@
       "published_at": "Sun, 22 Mar 2026 15:05:00 GMT",
       "summary": "The Federal Reserve Is Raising Red Flags, and the Stock Market Isn't Listening Yahoo Finance",
       "guid": "CBMinAFBVV95cUxQRjJsN0JkeGxvWlM2R2dFenRqOHZqRFlreGZsYjZHbTBtUVh4VGdDMHVQeS1IcGJZZXNHUFFSbFFJWHZmZDRtVG9XMURsOFJ4RmpnUHU3Q19fRlN4STBab1d2RXBNMVdoWGFUcVlmNzVYNG9LTG94VWVCdHpXUTJ1NF9yMzNPa2szdTV3UXM0ejB0NFE4UHVneFh0Rko"
+    },
+    {
+      "title": "'The thing I really want to emphasize is that nobody knows' 🤷🏻‍♂️ - TKer by Sam Ro",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBldVZTQ0VvQ2h2ZFRGVV9YcUcwMTZWMW95Qlk3TVVRMEpuQ3E5RUxWb2d0aDh5b1pkUkFRUmZnZ0t4WlhSbGhJaW1NR1EzYjY1ck5xZTh5WDBYTFZhYVJKdVFwcENqZTc4TnJaaUl5bXAwVm51Qm40?oc=5",
+      "source": "TKer by Sam Ro",
+      "published_at": "Sun, 22 Mar 2026 13:32:13 GMT",
+      "summary": "'The thing I really want to emphasize is that nobody knows' 🤷🏻‍♂️ TKer by Sam Ro",
+      "guid": "CBMid0FVX3lxTFBldVZTQ0VvQ2h2ZFRGVV9YcUcwMTZWMW95Qlk3TVVRMEpuQ3E5RUxWb2d0aDh5b1pkUkFRUmZnZ0t4WlhSbGhJaW1NR1EzYjY1ck5xZTh5WDBYTFZhYVJKdVFwcENqZTc4TnJaaUl5bXAwVm51Qm40"
     },
     {
       "title": "Federal Reserve holds interest rates steady, signals one rate cut amid inflation uncertainty - U.S. Bank",
@@ -39,30 +47,6 @@
       "guid": "CBMisgFBVV95cUxNZnd4dnBJTWNzYWlyeDI4YzNyeEt3azRBaEVMcXFUWW9pdERVa1ZwdFlpdW53ZWZ1eXJ4NkVzaFVxakl3b1hWVGt0NTFuZTZETXgwNVBSdWhQS2pqQk5nMUk5LXNQVDJRMmktZ2dCM0dLY3p5M19lZW1EcDVqRGlKbE1VdlFoWFlyZ1A1X25RcE5xbmo1bUlsWU1fc0Z1QVdfMW1zQ21hWktyVWd5WHJNS0pn"
     },
     {
-      "title": "Tracker: The Federal Reserve’s Balance Sheet Assets - The American Action Forum",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0?oc=5",
-      "source": "The American Action Forum",
-      "published_at": "Fri, 20 Mar 2026 07:00:00 GMT",
-      "summary": "Tracker: The Federal Reserve’s Balance Sheet Assets The American Action Forum",
-      "guid": "CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0"
-    },
-    {
-      "title": "Weekly market commentary - blackrock.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
-      "source": "blackrock.com",
-      "published_at": "Mon, 16 Mar 2026 07:00:00 GMT",
-      "summary": "Weekly market commentary blackrock.com",
-      "guid": "CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw"
-    },
-    {
-      "title": "U.S. Stock Market Week Ahead: Iran Oil Shock Tests S&P 500 After Six-Month Low - TechStock²",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMEprdzZJcFpuWnBkR0QyMEpmNnBJQVBXUmZlckVtdi0zaVZPcHczeEEzN2dlS2ZVNlBTYlJ5MVVvNDB0bGVvQjI5M201YjkyYnlxZkVqdG9hVFlRbG5pQ3gyZ1JTMEVndkQ2V1ZZbXo1WlYyVzZIQUcyblhHZ05nelJ1aFdMUEw3V3BoVnBWd0ZyUXgyNzlkWVZfdjQ?oc=5",
-      "source": "TechStock²",
-      "published_at": "Sun, 22 Mar 2026 17:53:51 GMT",
-      "summary": "U.S. Stock Market Week Ahead: Iran Oil Shock Tests S&P 500 After Six-Month Low TechStock²",
-      "guid": "CBMinAFBVV95cUxPMEprdzZJcFpuWnBkR0QyMEpmNnBJQVBXUmZlckVtdi0zaVZPcHczeEEzN2dlS2ZVNlBTYlJ5MVVvNDB0bGVvQjI5M201YjkyYnlxZkVqdG9hVFlRbG5pQ3gyZ1JTMEVndkQ2V1ZZbXo1WlYyVzZIQUcyblhHZ05nelJ1aFdMUEw3V3BoVnBWd0ZyUXgyNzlkWVZfdjQ"
-    },
-    {
       "title": "High oil prices knock down stocks and erase Wall Street's hopes for a cut to interest rates - Daily Herald",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUDJwUnIwTV81Zi03aUJvbzlmVkthQ3g0OUtSSTFNRlFpTXpPSF9laG1RRWlzUnFuTzlmUktocG9WYTA0NXppdzNSNzJJSmlucEdtalhOZ29lN0Y3U0hGelNMbFJycFQzZ2xQajFlNTlmZVRKSWw0X2VKYkJKTnJJRWxXSTZUb2Z0eHEwNnhrd1otVkxaZVhnRFduWDhFSGYwRVZ6SEEyZ2I3WmRHZWdBSkg2VXYzT2k3X3R4dWNBX0gzUDFjc04wNmk1WHM1Q0JlNWdsRDYzT3FGSk9BS0E?oc=5",
       "source": "Daily Herald",
@@ -79,12 +63,28 @@
       "guid": "CBMivAFBVV95cUxNTE1IWDlVNWtEOWI5aEhQVGloVUVhUXFZNmN1MURQeGkycldEYUVPYm9ZcG9YMGpCZXRFRG03eHQ1OTVoVVpPdnMxakt5YWNlRkdiblk2WUhFX041bWdyZ3R4Y1VRVFYta05fTldNcnVfbHZVcHNTUWFiQUFKRmJCcW11X2t6SF9ZSHdYajlJaV8yNGZNVjA3c2Z3TTZOVHZDNmtYWnBTM1lMc3EzbWZ2YUFWc2xKb2ljUV9SSg"
     },
     {
+      "title": "U.S. Stock Market Week Ahead: Iran Oil Shock Tests S&P 500 After Six-Month Low - TechStock²",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMEprdzZJcFpuWnBkR0QyMEpmNnBJQVBXUmZlckVtdi0zaVZPcHczeEEzN2dlS2ZVNlBTYlJ5MVVvNDB0bGVvQjI5M201YjkyYnlxZkVqdG9hVFlRbG5pQ3gyZ1JTMEVndkQ2V1ZZbXo1WlYyVzZIQUcyblhHZ05nelJ1aFdMUEw3V3BoVnBWd0ZyUXgyNzlkWVZfdjQ?oc=5",
+      "source": "TechStock²",
+      "published_at": "Sun, 22 Mar 2026 17:53:51 GMT",
+      "summary": "U.S. Stock Market Week Ahead: Iran Oil Shock Tests S&P 500 After Six-Month Low TechStock²",
+      "guid": "CBMinAFBVV95cUxPMEprdzZJcFpuWnBkR0QyMEpmNnBJQVBXUmZlckVtdi0zaVZPcHczeEEzN2dlS2ZVNlBTYlJ5MVVvNDB0bGVvQjI5M201YjkyYnlxZkVqdG9hVFlRbG5pQ3gyZ1JTMEVndkQ2V1ZZbXo1WlYyVzZIQUcyblhHZ05nelJ1aFdMUEw3V3BoVnBWd0ZyUXgyNzlkWVZfdjQ"
+    },
+    {
       "title": "BofA isn't ruling out a rate hike this year, and says it would take 3 things for that to happen - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPLTVWS2oxUnZuUGNYU1pRQ0QxdEpjOEFYY2dOcWd0M1hPTjd0SnI4Smh0Wm1GcVhMTE5fQ0pWYlR3Tlc5SjBCaUZCTXhGaENVQV9zUjA0MlktU1ZyaF9iMDVEVWpra0h0dWx1cGM0cHdSNE5ubEVvdGc2VUdGZFdicTRHU2VBdzk1X0UtaTMwQUlwbHp1c1VQdlAxVW1pNkE1bmpZUzFFNA?oc=5",
       "source": "Business Insider",
       "published_at": "Fri, 20 Mar 2026 20:00:00 GMT",
       "summary": "BofA isn't ruling out a rate hike this year, and says it would take 3 things for that to happen Business Insider",
       "guid": "CBMipwFBVV95cUxPLTVWS2oxUnZuUGNYU1pRQ0QxdEpjOEFYY2dOcWd0M1hPTjd0SnI4Smh0Wm1GcVhMTE5fQ0pWYlR3Tlc5SjBCaUZCTXhGaENVQV9zUjA0MlktU1ZyaF9iMDVEVWpra0h0dWx1cGM0cHdSNE5ubEVvdGc2VUdGZFdicTRHU2VBdzk1X0UtaTMwQUlwbHp1c1VQdlAxVW1pNkE1bmpZUzFFNA"
+    },
+    {
+      "title": "The Federal Reserve Has Become a Stock Market Liability, and President Trump's New Nominee for Chair Won't Help - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOUN5MHFlVmh2ZFI3eXp1ODZCS0E1WGZNdkt4Q1lWZHBXY1N4bXl4bjk3VGRoUU83Rk9tRzNsOGJ6SWx4Ukk0eTRhOUZ2aHZnVDFOQkg3d3JuNEp6SjV0RUFYUzVBN003V0U2SmFEczdJd3FZWnRaVnY2ZG1pVjI1Zl9jcXhGSV9fUW8xTHZEbmFCNnJONjBR?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Mon, 16 Mar 2026 16:33:00 GMT",
+      "summary": "The Federal Reserve Has Become a Stock Market Liability, and President Trump's New Nominee for Chair Won't Help The Motley Fool",
+      "guid": "CBMilwFBVV95cUxOOUN5MHFlVmh2ZFI3eXp1ODZCS0E1WGZNdkt4Q1lWZHBXY1N4bXl4bjk3VGRoUU83Rk9tRzNsOGJ6SWx4Ukk0eTRhOUZ2aHZnVDFOQkg3d3JuNEp6SjV0RUFYUzVBN003V0U2SmFEczdJd3FZWnRaVnY2ZG1pVjI1Zl9jcXhGSV9fUW8xTHZEbmFCNnJONjBR"
     }
   ]
 }
