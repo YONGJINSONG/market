@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-23T12:39:18Z",
+  "generated_at": "2026-03-23T14:00:00Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -39,20 +39,20 @@
       "guid": "CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw"
     },
     {
-      "title": "The Federal Reserve Is Raising Red Flags, and the Stock Market Isn't Listening - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRjJsN0JkeGxvWlM2R2dFenRqOHZqRFlreGZsYjZHbTBtUVh4VGdDMHVQeS1IcGJZZXNHUFFSbFFJWHZmZDRtVG9XMURsOFJ4RmpnUHU3Q19fRlN4STBab1d2RXBNMVdoWGFUcVlmNzVYNG9LTG94VWVCdHpXUTJ1NF9yMzNPa2szdTV3UXM0ejB0NFE4UHVneFh0Rko?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Sun, 22 Mar 2026 15:05:00 GMT",
-      "summary": "The Federal Reserve Is Raising Red Flags, and the Stock Market Isn't Listening Yahoo Finance",
-      "guid": "CBMinAFBVV95cUxQRjJsN0JkeGxvWlM2R2dFenRqOHZqRFlreGZsYjZHbTBtUVh4VGdDMHVQeS1IcGJZZXNHUFFSbFFJWHZmZDRtVG9XMURsOFJ4RmpnUHU3Q19fRlN4STBab1d2RXBNMVdoWGFUcVlmNzVYNG9LTG94VWVCdHpXUTJ1NF9yMzNPa2szdTV3UXM0ejB0NFE4UHVneFh0Rko"
-    },
-    {
       "title": "Tracker: The Federal Reserve’s Balance Sheet Assets - The American Action Forum",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0?oc=5",
       "source": "The American Action Forum",
       "published_at": "Fri, 20 Mar 2026 07:00:00 GMT",
       "summary": "Tracker: The Federal Reserve’s Balance Sheet Assets The American Action Forum",
       "guid": "CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0"
+    },
+    {
+      "title": "The Federal Reserve Is Raising Red Flags, and the Stock Market Isn't Listening - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRjJsN0JkeGxvWlM2R2dFenRqOHZqRFlreGZsYjZHbTBtUVh4VGdDMHVQeS1IcGJZZXNHUFFSbFFJWHZmZDRtVG9XMURsOFJ4RmpnUHU3Q19fRlN4STBab1d2RXBNMVdoWGFUcVlmNzVYNG9LTG94VWVCdHpXUTJ1NF9yMzNPa2szdTV3UXM0ejB0NFE4UHVneFh0Rko?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Sun, 22 Mar 2026 15:05:00 GMT",
+      "summary": "The Federal Reserve Is Raising Red Flags, and the Stock Market Isn't Listening Yahoo Finance",
+      "guid": "CBMinAFBVV95cUxQRjJsN0JkeGxvWlM2R2dFenRqOHZqRFlreGZsYjZHbTBtUVh4VGdDMHVQeS1IcGJZZXNHUFFSbFFJWHZmZDRtVG9XMURsOFJ4RmpnUHU3Q19fRlN4STBab1d2RXBNMVdoWGFUcVlmNzVYNG9LTG94VWVCdHpXUTJ1NF9yMzNPa2szdTV3UXM0ejB0NFE4UHVneFh0Rko"
     },
     {
       "title": "US stock market today: Dow, S&P 500 futures jump over 2% after Trump pauses Iran strikes; Brent slips below $100 - Mint",
@@ -71,20 +71,20 @@
       "guid": "CBMi3gFBVV95cUxOUDJwUnIwTV81Zi03aUJvbzlmVkthQ3g0OUtSSTFNRlFpTXpPSF9laG1RRWlzUnFuTzlmUktocG9WYTA0NXppdzNSNzJJSmlucEdtalhOZ29lN0Y3U0hGelNMbFJycFQzZ2xQajFlNTlmZVRKSWw0X2VKYkJKTnJJRWxXSTZUb2Z0eHEwNnhrd1otVkxaZVhnRFduWDhFSGYwRVZ6SEEyZ2I3WmRHZWdBSkg2VXYzT2k3X3R4dWNBX0gzUDFjc04wNmk1WHM1Q0JlNWdsRDYzT3FGSk9BS0E"
     },
     {
-      "title": "US stocks fall as hopes wither for a cut to interest rates by the Federal Reserve this year - WTOP",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTE1IWDlVNWtEOWI5aEhQVGloVUVhUXFZNmN1MURQeGkycldEYUVPYm9ZcG9YMGpCZXRFRG03eHQ1OTVoVVpPdnMxakt5YWNlRkdiblk2WUhFX041bWdyZ3R4Y1VRVFYta05fTldNcnVfbHZVcHNTUWFiQUFKRmJCcW11X2t6SF9ZSHdYajlJaV8yNGZNVjA3c2Z3TTZOVHZDNmtYWnBTM1lMc3EzbWZ2YUFWc2xKb2ljUV9SSg?oc=5",
-      "source": "WTOP",
-      "published_at": "Fri, 20 Mar 2026 17:15:00 GMT",
-      "summary": "US stocks fall as hopes wither for a cut to interest rates by the Federal Reserve this year WTOP",
-      "guid": "CBMivAFBVV95cUxNTE1IWDlVNWtEOWI5aEhQVGloVUVhUXFZNmN1MURQeGkycldEYUVPYm9ZcG9YMGpCZXRFRG03eHQ1OTVoVVpPdnMxakt5YWNlRkdiblk2WUhFX041bWdyZ3R4Y1VRVFYta05fTldNcnVfbHZVcHNTUWFiQUFKRmJCcW11X2t6SF9ZSHdYajlJaV8yNGZNVjA3c2Z3TTZOVHZDNmtYWnBTM1lMc3EzbWZ2YUFWc2xKb2ljUV9SSg"
-    },
-    {
       "title": "A Federal Reserve Double Whammy Is 2 Months Away and Most Investors Aren't Ready - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVjB6WXBtRmJZUzdFWkktbzJTQXQ0c191cktWTVF3cjdZWFNDeHVBeWN5N2MtZWkwRnc0QnJjTkFXTURrUHJwT0VjeC1Rckt0eloyQ2hzTFU3aEFVamVLeHdRcWpydzQ0ZzZsNjBUdG9jbFhEQ1lqdUk1WGR1bzZwSUZqM1dDU05HOE83WFRBLWlZazhBZk1FMENn?oc=5",
       "source": "The Motley Fool",
       "published_at": "Sun, 22 Mar 2026 10:41:00 GMT",
       "summary": "A Federal Reserve Double Whammy Is 2 Months Away and Most Investors Aren't Ready The Motley Fool",
       "guid": "CBMimgFBVV95cUxOVjB6WXBtRmJZUzdFWkktbzJTQXQ0c191cktWTVF3cjdZWFNDeHVBeWN5N2MtZWkwRnc0QnJjTkFXTURrUHJwT0VjeC1Rckt0eloyQ2hzTFU3aEFVamVLeHdRcWpydzQ0ZzZsNjBUdG9jbFhEQ1lqdUk1WGR1bzZwSUZqM1dDU05HOE83WFRBLWlZazhBZk1FMENn"
+    },
+    {
+      "title": "Federal Reserve unveils its proposal for lower bank capital requirements - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVGxOeU9KZ1VUZEhfV1JfNjB6QkRTamhXNzRZaldiaHZxcnJfcDUyd1oycU0zOUdRaG1pejdILS1qMXk0NkxYTXloM0U1bmxZMGhHMThwbmg5bndpSGt4TWxLaFJpbFlZbTVVaUFEZ0VFeFJnbDVsd010XzZ3cGI0d0Jic2ktVHlqalRjQzZ4TmVsU2hMV09SUlRYRDVaX2JGb1N6LXUyWl80eVR6NERpNGF4OWxySWplMUE?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Thu, 19 Mar 2026 15:41:53 GMT",
+      "summary": "Federal Reserve unveils its proposal for lower bank capital requirements Yahoo Finance",
+      "guid": "CBMiugFBVV95cUxOVGxOeU9KZ1VUZEhfV1JfNjB6QkRTamhXNzRZaldiaHZxcnJfcDUyd1oycU0zOUdRaG1pejdILS1qMXk0NkxYTXloM0U1bmxZMGhHMThwbmg5bndpSGt4TWxLaFJpbFlZbTVVaUFEZ0VFeFJnbDVsd010XzZ3cGI0d0Jic2ktVHlqalRjQzZ4TmVsU2hMV09SUlRYRDVaX2JGb1N6LXUyWl80eVR6NERpNGF4OWxySWplMUE"
     }
   ]
 }
