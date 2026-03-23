@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-23T05:59:12Z",
+  "generated_at": "2026-03-23T07:10:54Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,12 +7,12 @@
   },
   "items": [
     {
-      "title": "The Federal Reserve Is Raising Red Flags, and the Stock Market Isn't Listening - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOekxPWGJuVXFUNmJnRnprN09sby15c1dYcDB4YVVlWGwyUF96S2hxLTRmdktCYnhpNEEwc3lBdjVCVmwtRnlKQ20tUXBOQlpTMFNjZll6eDc0NDdsbWtMUjdoSUxDY2lWcTJNOEpublNrcV9CQWRVbTZxQkVUM2ZiOUlnS2JLTjdkb2JCQUNEVVA1LTg?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Sun, 22 Mar 2026 15:45:00 GMT",
-      "summary": "The Federal Reserve Is Raising Red Flags, and the Stock Market Isn't Listening The Motley Fool",
-      "guid": "CBMikwFBVV95cUxOekxPWGJuVXFUNmJnRnprN09sby15c1dYcDB4YVVlWGwyUF96S2hxLTRmdktCYnhpNEEwc3lBdjVCVmwtRnlKQ20tUXBOQlpTMFNjZll6eDc0NDdsbWtMUjdoSUxDY2lWcTJNOEpublNrcV9CQWRVbTZxQkVUM2ZiOUlnS2JLTjdkb2JCQUNEVVA1LTg"
+      "title": "The Federal Reserve Is Raising Red Flags, and the Stock Market Isn't Listening - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRjJsN0JkeGxvWlM2R2dFenRqOHZqRFlreGZsYjZHbTBtUVh4VGdDMHVQeS1IcGJZZXNHUFFSbFFJWHZmZDRtVG9XMURsOFJ4RmpnUHU3Q19fRlN4STBab1d2RXBNMVdoWGFUcVlmNzVYNG9LTG94VWVCdHpXUTJ1NF9yMzNPa2szdTV3UXM0ejB0NFE4UHVneFh0Rko?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Sun, 22 Mar 2026 15:05:00 GMT",
+      "summary": "The Federal Reserve Is Raising Red Flags, and the Stock Market Isn't Listening Yahoo Finance",
+      "guid": "CBMinAFBVV95cUxQRjJsN0JkeGxvWlM2R2dFenRqOHZqRFlreGZsYjZHbTBtUVh4VGdDMHVQeS1IcGJZZXNHUFFSbFFJWHZmZDRtVG9XMURsOFJ4RmpnUHU3Q19fRlN4STBab1d2RXBNMVdoWGFUcVlmNzVYNG9LTG94VWVCdHpXUTJ1NF9yMzNPa2szdTV3UXM0ejB0NFE4UHVneFh0Rko"
     },
     {
       "title": "'The thing I really want to emphasize is that nobody knows' 🤷🏻‍♂️ - TKer by Sam Ro",
@@ -47,6 +47,14 @@
       "guid": "CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0"
     },
     {
+      "title": "A Federal Reserve Double Whammy Is 2 Months Away and Most Investors Aren't Ready - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVjB6WXBtRmJZUzdFWkktbzJTQXQ0c191cktWTVF3cjdZWFNDeHVBeWN5N2MtZWkwRnc0QnJjTkFXTURrUHJwT0VjeC1Rckt0eloyQ2hzTFU3aEFVamVLeHdRcWpydzQ0ZzZsNjBUdG9jbFhEQ1lqdUk1WGR1bzZwSUZqM1dDU05HOE83WFRBLWlZazhBZk1FMENn?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Sun, 22 Mar 2026 10:41:00 GMT",
+      "summary": "A Federal Reserve Double Whammy Is 2 Months Away and Most Investors Aren't Ready The Motley Fool",
+      "guid": "CBMimgFBVV95cUxOVjB6WXBtRmJZUzdFWkktbzJTQXQ0c191cktWTVF3cjdZWFNDeHVBeWN5N2MtZWkwRnc0QnJjTkFXTURrUHJwT0VjeC1Rckt0eloyQ2hzTFU3aEFVamVLeHdRcWpydzQ0ZzZsNjBUdG9jbFhEQ1lqdUk1WGR1bzZwSUZqM1dDU05HOE83WFRBLWlZazhBZk1FMENn"
+    },
+    {
       "title": "High oil prices knock down stocks and erase Wall Street's hopes for a cut to interest rates - Daily Herald",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUDJwUnIwTV81Zi03aUJvbzlmVkthQ3g0OUtSSTFNRlFpTXpPSF9laG1RRWlzUnFuTzlmUktocG9WYTA0NXppdzNSNzJJSmlucEdtalhOZ29lN0Y3U0hGelNMbFJycFQzZ2xQajFlNTlmZVRKSWw0X2VKYkJKTnJJRWxXSTZUb2Z0eHEwNnhrd1otVkxaZVhnRFduWDhFSGYwRVZ6SEEyZ2I3WmRHZWdBSkg2VXYzT2k3X3R4dWNBX0gzUDFjc04wNmk1WHM1Q0JlNWdsRDYzT3FGSk9BS0E?oc=5",
       "source": "Daily Herald",
@@ -63,28 +71,20 @@
       "guid": "CBMivAFBVV95cUxNTE1IWDlVNWtEOWI5aEhQVGloVUVhUXFZNmN1MURQeGkycldEYUVPYm9ZcG9YMGpCZXRFRG03eHQ1OTVoVVpPdnMxakt5YWNlRkdiblk2WUhFX041bWdyZ3R4Y1VRVFYta05fTldNcnVfbHZVcHNTUWFiQUFKRmJCcW11X2t6SF9ZSHdYajlJaV8yNGZNVjA3c2Z3TTZOVHZDNmtYWnBTM1lMc3EzbWZ2YUFWc2xKb2ljUV9SSg"
     },
     {
+      "title": "Weekly market commentary - blackrock.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
+      "source": "blackrock.com",
+      "published_at": "Mon, 16 Mar 2026 07:00:00 GMT",
+      "summary": "Weekly market commentary blackrock.com",
+      "guid": "CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw"
+    },
+    {
       "title": "Market Reactions to Tariff Announcements - Federal Reserve Bank of San Francisco",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM1dfLWVxeDJGbVNDYU9vWU8xOW5Fbk9rWk5KREtjbWFDcWFfdzAyVE5WMDhINUpWbWVDVWZmRHBSSlN3blk5alBHd3B1RE5JSmVMRTd3SXhNQmZWdDllUDFCU1lwTk9zcmpBSmhmazM5OEhIWEVHMlhHTDY4M1luNXJ5TExQbi1RMjBLbmpZd3BqLU1zanlvM0hvVWhVcWtiSWZBOV9ENTJmTWUtQzIxdmprYlpGNnJzQk11T1ZfWQ?oc=5",
       "source": "Federal Reserve Bank of San Francisco",
       "published_at": "Mon, 06 Oct 2025 07:00:00 GMT",
       "summary": "Market Reactions to Tariff Announcements Federal Reserve Bank of San Francisco",
       "guid": "CBMivwFBVV95cUxOM1dfLWVxeDJGbVNDYU9vWU8xOW5Fbk9rWk5KREtjbWFDcWFfdzAyVE5WMDhINUpWbWVDVWZmRHBSSlN3blk5alBHd3B1RE5JSmVMRTd3SXhNQmZWdDllUDFCU1lwTk9zcmpBSmhmazM5OEhIWEVHMlhHTDY4M1luNXJ5TExQbi1RMjBLbmpZd3BqLU1zanlvM0hvVWhVcWtiSWZBOV9ENTJmTWUtQzIxdmprYlpGNnJzQk11T1ZfWQ"
-    },
-    {
-      "title": "A Federal Reserve Double Whammy Is 2 Months Away and Most Investors Aren't Ready - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVjB6WXBtRmJZUzdFWkktbzJTQXQ0c191cktWTVF3cjdZWFNDeHVBeWN5N2MtZWkwRnc0QnJjTkFXTURrUHJwT0VjeC1Rckt0eloyQ2hzTFU3aEFVamVLeHdRcWpydzQ0ZzZsNjBUdG9jbFhEQ1lqdUk1WGR1bzZwSUZqM1dDU05HOE83WFRBLWlZazhBZk1FMENn?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Sun, 22 Mar 2026 10:41:00 GMT",
-      "summary": "A Federal Reserve Double Whammy Is 2 Months Away and Most Investors Aren't Ready The Motley Fool",
-      "guid": "CBMimgFBVV95cUxOVjB6WXBtRmJZUzdFWkktbzJTQXQ0c191cktWTVF3cjdZWFNDeHVBeWN5N2MtZWkwRnc0QnJjTkFXTURrUHJwT0VjeC1Rckt0eloyQ2hzTFU3aEFVamVLeHdRcWpydzQ0ZzZsNjBUdG9jbFhEQ1lqdUk1WGR1bzZwSUZqM1dDU05HOE83WFRBLWlZazhBZk1FMENn"
-    },
-    {
-      "title": "The Federal Reserve Has Become a Stock Market Liability, and President Trump's New Nominee for Chair Won't Help - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOUN5MHFlVmh2ZFI3eXp1ODZCS0E1WGZNdkt4Q1lWZHBXY1N4bXl4bjk3VGRoUU83Rk9tRzNsOGJ6SWx4Ukk0eTRhOUZ2aHZnVDFOQkg3d3JuNEp6SjV0RUFYUzVBN003V0U2SmFEczdJd3FZWnRaVnY2ZG1pVjI1Zl9jcXhGSV9fUW8xTHZEbmFCNnJONjBR?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Mon, 16 Mar 2026 16:33:00 GMT",
-      "summary": "The Federal Reserve Has Become a Stock Market Liability, and President Trump's New Nominee for Chair Won't Help The Motley Fool",
-      "guid": "CBMilwFBVV95cUxOOUN5MHFlVmh2ZFI3eXp1ODZCS0E1WGZNdkt4Q1lWZHBXY1N4bXl4bjk3VGRoUU83Rk9tRzNsOGJ6SWx4Ukk0eTRhOUZ2aHZnVDFOQkg3d3JuNEp6SjV0RUFYUzVBN003V0U2SmFEczdJd3FZWnRaVnY2ZG1pVjI1Zl9jcXhGSV9fUW8xTHZEbmFCNnJONjBR"
     }
   ]
 }
