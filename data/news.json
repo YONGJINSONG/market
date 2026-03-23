@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-03-23T11:08:27Z",
+  "generated_at": "2026-03-23T11:52:49Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "Here's When the Fed Might Cut Interest Rates Again, and What It Means for the Stock Market - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLURQbTZEUG04N3NLVElKUDIzMTdoN0RLOEp2dzdSSTA1bmlRckRIMUlzUmU3cFctX3U0eHZGcnh3cXVGYS0tRGlpNUR1dzhKWEdmWnh1Z0ZHSVVVZG1JY0d4UWo0Si1iYmZFYm9GZ1dEZGJGbGx5WExUTklLS05PRmlBc1FwWURzTGs3SEY2UkZULU1PdlYzVw?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Mon, 23 Mar 2026 11:21:43 GMT",
+      "summary": "Here's When the Fed Might Cut Interest Rates Again, and What It Means for the Stock Market The Motley Fool",
+      "guid": "CBMimAFBVV95cUxQLURQbTZEUG04N3NLVElKUDIzMTdoN0RLOEp2dzdSSTA1bmlRckRIMUlzUmU3cFctX3U0eHZGcnh3cXVGYS0tRGlpNUR1dzhKWEdmWnh1Z0ZHSVVVZG1JY0d4UWo0Si1iYmZFYm9GZ1dEZGJGbGx5WExUTklLS05PRmlBc1FwWURzTGs3SEY2UkZULU1PdlYzVw"
+    },
     {
       "title": "The Projected Federal Reserve Script Has Been Flipped -- and the Stock Market Isn't Ready for It - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRVdrMU93Z0VraktQR25Qc3Q0ckZVYWJzVXJVQ1FLT3hCZ0Yya1R4bG0zV2tvUHJRSEJyMkVJNW1odDI0RXI0eENxOFV3LTZfbWFIcTZSRFRoeF9JUzJxZkttSTA1Y1BOS1hQeUZTdk9IaVBKLTVzNXZFREVkaTBPR1ZvVUt6U3lTMHNhWW9XenlPTS1tU00zTFRiUkx2T185Wm9QRXB3?oc=5",
@@ -23,20 +31,20 @@
       "guid": "CBMid0FVX3lxTFBldVZTQ0VvQ2h2ZFRGVV9YcUcwMTZWMW95Qlk3TVVRMEpuQ3E5RUxWb2d0aDh5b1pkUkFRUmZnZ0t4WlhSbGhJaW1NR1EzYjY1ck5xZTh5WDBYTFZhYVJKdVFwcENqZTc4TnJaaUl5bXAwVm51Qm40"
     },
     {
-      "title": "The Federal Reserve Is Raising Red Flags, and the Stock Market Isn't Listening - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQdVViV1RnMHJoSG5YWHBqTldOQUpUd0pnSWtGSEFpUmZ0eV92MTFQdzZJVTlMa2FtVmxQNUZKQ05aV3JpY1pVUWZyUldlbzJ3R01xTnZoM2pMM0lNQ3k1QjNrcUp6Y3g5T0xjU1dTNmxLbnpUSzduNlpJbHI4RTZVS3dvdjViM3B0Wk5vbC11UjRmQnlTRHhzVGl2SnZrRnItNjNhYnRORnJfbEpnS1NtTTZoMnctamNwSzRsS2VrWVNFVFJFN0VvYmpmMWFIbDg2S0JZYnVHendDUlRpZWdKVmxyTXJ5Sm1fbW1VcVNNSEJPZw?oc=5",
-      "source": "The Globe and Mail",
-      "published_at": "Sun, 22 Mar 2026 15:10:45 GMT",
-      "summary": "The Federal Reserve Is Raising Red Flags, and the Stock Market Isn't Listening The Globe and Mail",
-      "guid": "CBMi8gFBVV95cUxQdVViV1RnMHJoSG5YWHBqTldOQUpUd0pnSWtGSEFpUmZ0eV92MTFQdzZJVTlMa2FtVmxQNUZKQ05aV3JpY1pVUWZyUldlbzJ3R01xTnZoM2pMM0lNQ3k1QjNrcUp6Y3g5T0xjU1dTNmxLbnpUSzduNlpJbHI4RTZVS3dvdjViM3B0Wk5vbC11UjRmQnlTRHhzVGl2SnZrRnItNjNhYnRORnJfbEpnS1NtTTZoMnctamNwSzRsS2VrWVNFVFJFN0VvYmpmMWFIbDg2S0JZYnVHendDUlRpZWdKVmxyTXJ5Sm1fbW1VcVNNSEJPZw"
-    },
-    {
       "title": "Federal Reserve holds interest rates steady, signals one rate cut amid inflation uncertainty - U.S. Bank",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw?oc=5",
       "source": "U.S. Bank",
       "published_at": "Wed, 18 Mar 2026 07:00:00 GMT",
       "summary": "Federal Reserve holds interest rates steady, signals one rate cut amid inflation uncertainty U.S. Bank",
       "guid": "CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw"
+    },
+    {
+      "title": "The Federal Reserve Is Raising Red Flags, and the Stock Market Isn't Listening - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRjJsN0JkeGxvWlM2R2dFenRqOHZqRFlreGZsYjZHbTBtUVh4VGdDMHVQeS1IcGJZZXNHUFFSbFFJWHZmZDRtVG9XMURsOFJ4RmpnUHU3Q19fRlN4STBab1d2RXBNMVdoWGFUcVlmNzVYNG9LTG94VWVCdHpXUTJ1NF9yMzNPa2szdTV3UXM0ejB0NFE4UHVneFh0Rko?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Sun, 22 Mar 2026 15:05:00 GMT",
+      "summary": "The Federal Reserve Is Raising Red Flags, and the Stock Market Isn't Listening Yahoo Finance",
+      "guid": "CBMinAFBVV95cUxQRjJsN0JkeGxvWlM2R2dFenRqOHZqRFlreGZsYjZHbTBtUVh4VGdDMHVQeS1IcGJZZXNHUFFSbFFJWHZmZDRtVG9XMURsOFJ4RmpnUHU3Q19fRlN4STBab1d2RXBNMVdoWGFUcVlmNzVYNG9LTG94VWVCdHpXUTJ1NF9yMzNPa2szdTV3UXM0ejB0NFE4UHVneFh0Rko"
     },
     {
       "title": "Wall Street ends down as traders see no rate cuts before 2027 - Reuters",
@@ -71,20 +79,12 @@
       "guid": "CBMivAFBVV95cUxNTE1IWDlVNWtEOWI5aEhQVGloVUVhUXFZNmN1MURQeGkycldEYUVPYm9ZcG9YMGpCZXRFRG03eHQ1OTVoVVpPdnMxakt5YWNlRkdiblk2WUhFX041bWdyZ3R4Y1VRVFYta05fTldNcnVfbHZVcHNTUWFiQUFKRmJCcW11X2t6SF9ZSHdYajlJaV8yNGZNVjA3c2Z3TTZOVHZDNmtYWnBTM1lMc3EzbWZ2YUFWc2xKb2ljUV9SSg"
     },
     {
-      "title": "The Federal Reserve Has Become a Stock Market Liability, and President Trump's New Nominee for Chair Won't Help - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOUN5MHFlVmh2ZFI3eXp1ODZCS0E1WGZNdkt4Q1lWZHBXY1N4bXl4bjk3VGRoUU83Rk9tRzNsOGJ6SWx4Ukk0eTRhOUZ2aHZnVDFOQkg3d3JuNEp6SjV0RUFYUzVBN003V0U2SmFEczdJd3FZWnRaVnY2ZG1pVjI1Zl9jcXhGSV9fUW8xTHZEbmFCNnJONjBR?oc=5",
+      "title": "A Federal Reserve Double Whammy Is 2 Months Away and Most Investors Aren't Ready - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVjB6WXBtRmJZUzdFWkktbzJTQXQ0c191cktWTVF3cjdZWFNDeHVBeWN5N2MtZWkwRnc0QnJjTkFXTURrUHJwT0VjeC1Rckt0eloyQ2hzTFU3aEFVamVLeHdRcWpydzQ0ZzZsNjBUdG9jbFhEQ1lqdUk1WGR1bzZwSUZqM1dDU05HOE83WFRBLWlZazhBZk1FMENn?oc=5",
       "source": "The Motley Fool",
-      "published_at": "Mon, 16 Mar 2026 16:33:00 GMT",
-      "summary": "The Federal Reserve Has Become a Stock Market Liability, and President Trump's New Nominee for Chair Won't Help The Motley Fool",
-      "guid": "CBMilwFBVV95cUxOOUN5MHFlVmh2ZFI3eXp1ODZCS0E1WGZNdkt4Q1lWZHBXY1N4bXl4bjk3VGRoUU83Rk9tRzNsOGJ6SWx4Ukk0eTRhOUZ2aHZnVDFOQkg3d3JuNEp6SjV0RUFYUzVBN003V0U2SmFEczdJd3FZWnRaVnY2ZG1pVjI1Zl9jcXhGSV9fUW8xTHZEbmFCNnJONjBR"
-    },
-    {
-      "title": "Federal Reserve unveils its proposal for lower bank capital requirements - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVGxOeU9KZ1VUZEhfV1JfNjB6QkRTamhXNzRZaldiaHZxcnJfcDUyd1oycU0zOUdRaG1pejdILS1qMXk0NkxYTXloM0U1bmxZMGhHMThwbmg5bndpSGt4TWxLaFJpbFlZbTVVaUFEZ0VFeFJnbDVsd010XzZ3cGI0d0Jic2ktVHlqalRjQzZ4TmVsU2hMV09SUlRYRDVaX2JGb1N6LXUyWl80eVR6NERpNGF4OWxySWplMUE?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Thu, 19 Mar 2026 15:41:53 GMT",
-      "summary": "Federal Reserve unveils its proposal for lower bank capital requirements Yahoo Finance",
-      "guid": "CBMiugFBVV95cUxOVGxOeU9KZ1VUZEhfV1JfNjB6QkRTamhXNzRZaldiaHZxcnJfcDUyd1oycU0zOUdRaG1pejdILS1qMXk0NkxYTXloM0U1bmxZMGhHMThwbmg5bndpSGt4TWxLaFJpbFlZbTVVaUFEZ0VFeFJnbDVsd010XzZ3cGI0d0Jic2ktVHlqalRjQzZ4TmVsU2hMV09SUlRYRDVaX2JGb1N6LXUyWl80eVR6NERpNGF4OWxySWplMUE"
+      "published_at": "Sun, 22 Mar 2026 10:41:00 GMT",
+      "summary": "A Federal Reserve Double Whammy Is 2 Months Away and Most Investors Aren't Ready The Motley Fool",
+      "guid": "CBMimgFBVV95cUxOVjB6WXBtRmJZUzdFWkktbzJTQXQ0c191cktWTVF3cjdZWFNDeHVBeWN5N2MtZWkwRnc0QnJjTkFXTURrUHJwT0VjeC1Rckt0eloyQ2hzTFU3aEFVamVLeHdRcWpydzQ0ZzZsNjBUdG9jbFhEQ1lqdUk1WGR1bzZwSUZqM1dDU05HOE83WFRBLWlZazhBZk1FMENn"
     }
   ]
 }
