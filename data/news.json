@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-23T11:52:49Z",
+  "generated_at": "2026-03-23T12:39:18Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -47,20 +47,20 @@
       "guid": "CBMinAFBVV95cUxQRjJsN0JkeGxvWlM2R2dFenRqOHZqRFlreGZsYjZHbTBtUVh4VGdDMHVQeS1IcGJZZXNHUFFSbFFJWHZmZDRtVG9XMURsOFJ4RmpnUHU3Q19fRlN4STBab1d2RXBNMVdoWGFUcVlmNzVYNG9LTG94VWVCdHpXUTJ1NF9yMzNPa2szdTV3UXM0ejB0NFE4UHVneFh0Rko"
     },
     {
-      "title": "Wall Street ends down as traders see no rate cuts before 2027 - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZnd4dnBJTWNzYWlyeDI4YzNyeEt3azRBaEVMcXFUWW9pdERVa1ZwdFlpdW53ZWZ1eXJ4NkVzaFVxakl3b1hWVGt0NTFuZTZETXgwNVBSdWhQS2pqQk5nMUk5LXNQVDJRMmktZ2dCM0dLY3p5M19lZW1EcDVqRGlKbE1VdlFoWFlyZ1A1X25RcE5xbmo1bUlsWU1fc0Z1QVdfMW1zQ21hWktyVWd5WHJNS0pn?oc=5",
-      "source": "Reuters",
-      "published_at": "Thu, 19 Mar 2026 09:57:37 GMT",
-      "summary": "Wall Street ends down as traders see no rate cuts before 2027 Reuters",
-      "guid": "CBMisgFBVV95cUxNZnd4dnBJTWNzYWlyeDI4YzNyeEt3azRBaEVMcXFUWW9pdERVa1ZwdFlpdW53ZWZ1eXJ4NkVzaFVxakl3b1hWVGt0NTFuZTZETXgwNVBSdWhQS2pqQk5nMUk5LXNQVDJRMmktZ2dCM0dLY3p5M19lZW1EcDVqRGlKbE1VdlFoWFlyZ1A1X25RcE5xbmo1bUlsWU1fc0Z1QVdfMW1zQ21hWktyVWd5WHJNS0pn"
-    },
-    {
       "title": "Tracker: The Federal Reserve’s Balance Sheet Assets - The American Action Forum",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0?oc=5",
       "source": "The American Action Forum",
       "published_at": "Fri, 20 Mar 2026 07:00:00 GMT",
       "summary": "Tracker: The Federal Reserve’s Balance Sheet Assets The American Action Forum",
       "guid": "CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0"
+    },
+    {
+      "title": "US stock market today: Dow, S&P 500 futures jump over 2% after Trump pauses Iran strikes; Brent slips below $100 - Mint",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxORkZuWVZuRmVvaGx1dWQ5TUZVX2VSVE9EeHlRenB5Ny10VDFCTjRGYWN0el82OVFEazRNOUc3UWNkWVNHX04tdG5uRGRfQU5aMnpVbnhPdFEtWGZYU0ZWWlNDT0MyaHpNVmQ4RV9ISzlQb1ZPRzJGNkNrSlVhTzV0eWVnekhobmtzSmJJOGp5cnl1c09kbE01dUNUM09RYTdrSk5GMWdzUHdpdDRoWXYzU3NyNFl6V2h5dkVyRUJtdFk4RnhmNlpVUmZJOWNqMkUweUVQalgwaDN1elRWVVg3RmtpczhsNHRKWW56Mm1hUGk4VkdtalFqckFadVBuVmdickNsNGxFbUjSAY4CQVVfeXFMTkV4YWh0RGR5bjBFRzJ1cy0zSEMwYjF4N0N3eUExT19HbkQzVDhmcUV1dXozY2YtbzJTcFdEM08xVWsxb3dKWUdQVmV3Z0k0bFplR2F1R01va2tCajR2RGxjV2Z6dXlzYjZ3bDlXV09fTGNqVUl5bWNzT2ZJQUhvallrZE5nMzlKdnB4aUpJSUhVb0M5bjVCbnB2MjZfcE8xWkhDVnlRbHl2X1N2WndFVTBHRi1nWlhfZjNKRXJwTU05RV9LX0VNNzdPbGgzS0NkdTBTNGs1UDE4Rm45eGFfckdLWG42ZXBBWHhPVDhmZW5qeUloamZQYWx0OXJVWGJmMkpuTU4wQk8zc01DSmNB?oc=5",
+      "source": "Mint",
+      "published_at": "Mon, 23 Mar 2026 12:16:50 GMT",
+      "summary": "US stock market today: Dow, S&P 500 futures jump over 2% after Trump pauses Iran strikes; Brent slips below $100 Mint",
+      "guid": "CBMiiAJBVV95cUxORkZuWVZuRmVvaGx1dWQ5TUZVX2VSVE9EeHlRenB5Ny10VDFCTjRGYWN0el82OVFEazRNOUc3UWNkWVNHX04tdG5uRGRfQU5aMnpVbnhPdFEtWGZYU0ZWWlNDT0MyaHpNVmQ4RV9ISzlQb1ZPRzJGNkNrSlVhTzV0eWVnekhobmtzSmJJOGp5cnl1c09kbE01dUNUM09RYTdrSk5GMWdzUHdpdDRoWXYzU3NyNFl6V2h5dkVyRUJtdFk4RnhmNlpVUmZJOWNqMkUweUVQalgwaDN1elRWVVg3RmtpczhsNHRKWW56Mm1hUGk4VkdtalFqckFadVBuVmdickNsNGxFbUjSAY4CQVVfeXFMTkV4YWh0RGR5bjBFRzJ1cy0zSEMwYjF4N0N3eUExT19HbkQzVDhmcUV1dXozY2YtbzJTcFdEM08xVWsxb3dKWUdQVmV3Z0k0bFplR2F1R01va2tCajR2RGxjV2Z6dXlzYjZ3bDlXV09fTGNqVUl5bWNzT2ZJQUhvallrZE5nMzlKdnB4aUpJSUhVb0M5bjVCbnB2MjZfcE8xWkhDVnlRbHl2X1N2WndFVTBHRi1nWlhfZjNKRXJwTU05RV9LX0VNNzdPbGgzS0NkdTBTNGs1UDE4Rm45eGFfckdLWG42ZXBBWHhPVDhmZW5qeUloamZQYWx0OXJVWGJmMkpuTU4wQk8zc01DSmNB"
     },
     {
       "title": "High oil prices knock down stocks and erase Wall Street's hopes for a cut to interest rates - Daily Herald",
