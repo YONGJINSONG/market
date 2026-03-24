@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-24T22:03:56Z",
+  "generated_at": "2026-03-24T22:48:51Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -55,14 +55,6 @@
       "guid": "CBMimAFBVV95cUxQLURQbTZEUG04N3NLVElKUDIzMTdoN0RLOEp2dzdSSTA1bmlRckRIMUlzUmU3cFctX3U0eHZGcnh3cXVGYS0tRGlpNUR1dzhKWEdmWnh1Z0ZHSVVVZG1JY0d4UWo0Si1iYmZFYm9GZ1dEZGJGbGx5WExUTklLS05PRmlBc1FwWURzTGs3SEY2UkZULU1PdlYzVw"
     },
     {
-      "title": "Market Reactions to Tariff Announcements - Federal Reserve Bank of San Francisco",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM1dfLWVxeDJGbVNDYU9vWU8xOW5Fbk9rWk5KREtjbWFDcWFfdzAyVE5WMDhINUpWbWVDVWZmRHBSSlN3blk5alBHd3B1RE5JSmVMRTd3SXhNQmZWdDllUDFCU1lwTk9zcmpBSmhmazM5OEhIWEVHMlhHTDY4M1luNXJ5TExQbi1RMjBLbmpZd3BqLU1zanlvM0hvVWhVcWtiSWZBOV9ENTJmTWUtQzIxdmprYlpGNnJzQk11T1ZfWQ?oc=5",
-      "source": "Federal Reserve Bank of San Francisco",
-      "published_at": "Mon, 06 Oct 2025 07:00:00 GMT",
-      "summary": "Market Reactions to Tariff Announcements Federal Reserve Bank of San Francisco",
-      "guid": "CBMivwFBVV95cUxOM1dfLWVxeDJGbVNDYU9vWU8xOW5Fbk9rWk5KREtjbWFDcWFfdzAyVE5WMDhINUpWbWVDVWZmRHBSSlN3blk5alBHd3B1RE5JSmVMRTd3SXhNQmZWdDllUDFCU1lwTk9zcmpBSmhmazM5OEhIWEVHMlhHTDY4M1luNXJ5TExQbi1RMjBLbmpZd3BqLU1zanlvM0hvVWhVcWtiSWZBOV9ENTJmTWUtQzIxdmprYlpGNnJzQk11T1ZfWQ"
-    },
-    {
       "title": "Federal Reserve Interest Rate Freeze Tests Gladstone Capital’s Road to Recovery - 24/7 Wall St.",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQWJtNmo3VlRlcGNIc1EtV2FmbXFKQ051SnhWU05pUVBESkdnODlrZ1FqWnYtZGlETXRZZjNzTTYzUVN3Wkx0YmdteHJ6VDBmckhXX3A2YlRnTGZlV2YtT3VCQmRjY1Y1TGVydTQ0WVJCSlFxWE92X3ota0EybkNsZmVYemYyeVNmVlpCVHpDY2JtVVBMeHJGS0N1VFp1QUpvVTVwY0NtcWFtQmVndUFOT0dkdFVKMTFFTmNfSGRITQ?oc=5",
       "source": "24/7 Wall St.",
@@ -85,6 +77,14 @@
       "published_at": "Wed, 18 Mar 2026 07:00:00 GMT",
       "summary": "Federal Reserve holds interest rates steady, signals one rate cut amid inflation uncertainty U.S. Bank",
       "guid": "CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw"
+    },
+    {
+      "title": "The stock market's dreams of rate cuts have been officially dashed - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5oSlVxc0sxLUtVOVE0Wk5ncnR0RVc3c0VvcEt1aHZpeEpIUDU4SmdlOE1VOGstdzR6eURKQnBGTGduVkszaTdBMnN3MUFCMEo5T04zRzM3YVhuVHU4cGRITzY2aXFSZHk2REE4UFdtSEpsdU0?oc=5",
+      "source": "AOL.com",
+      "published_at": "Mon, 23 Mar 2026 18:20:12 GMT",
+      "summary": "The stock market's dreams of rate cuts have been officially dashed AOL.com",
+      "guid": "CBMic0FVX3lxTE5oSlVxc0sxLUtVOVE0Wk5ncnR0RVc3c0VvcEt1aHZpeEpIUDU4SmdlOE1VOGstdzR6eURKQnBGTGduVkszaTdBMnN3MUFCMEo5T04zRzM3YVhuVHU4cGRITzY2aXFSZHk2REE4UFdtSEpsdU0"
     }
   ]
 }
