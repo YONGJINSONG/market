@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-25T03:45:19Z",
+  "generated_at": "2026-03-25T05:18:50Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,44 +7,12 @@
   },
   "items": [
     {
-      "title": "Here's When the Fed Might Cut Interest Rates Again, and What It Means for the Stock Market - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLURQbTZEUG04N3NLVElKUDIzMTdoN0RLOEp2dzdSSTA1bmlRckRIMUlzUmU3cFctX3U0eHZGcnh3cXVGYS0tRGlpNUR1dzhKWEdmWnh1Z0ZHSVVVZG1JY0d4UWo0Si1iYmZFYm9GZ1dEZGJGbGx5WExUTklLS05PRmlBc1FwWURzTGs3SEY2UkZULU1PdlYzVw?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Mon, 23 Mar 2026 11:55:00 GMT",
-      "summary": "Here's When the Fed Might Cut Interest Rates Again, and What It Means for the Stock Market The Motley Fool",
-      "guid": "CBMimAFBVV95cUxQLURQbTZEUG04N3NLVElKUDIzMTdoN0RLOEp2dzdSSTA1bmlRckRIMUlzUmU3cFctX3U0eHZGcnh3cXVGYS0tRGlpNUR1dzhKWEdmWnh1Z0ZHSVVVZG1JY0d4UWo0Si1iYmZFYm9GZ1dEZGJGbGx5WExUTklLS05PRmlBc1FwWURzTGs3SEY2UkZULU1PdlYzVw"
-    },
-    {
-      "title": "The Projected Federal Reserve Script Has Been Flipped -- and the Stock Market Isn't Ready for It - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRVdrMU93Z0VraktQR25Qc3Q0ckZVYWJzVXJVQ1FLT3hCZ0Yya1R4bG0zV2tvUHJRSEJyMkVJNW1odDI0RXI0eENxOFV3LTZfbWFIcTZSRFRoeF9JUzJxZkttSTA1Y1BOS1hQeUZTdk9IaVBKLTVzNXZFREVkaTBPR1ZvVUt6U3lTMHNhWW9XenlPTS1tU00zTFRiUkx2T185Wm9QRXB3?oc=5",
+      "title": "The First Federal Reserve Inflation Forecast for March Is In -- and It's Not Pretty - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaDZsLTJibnB5eWNnVmFsY0hQa0NYUXZ1ZWVXUHl1Z2t3VmdPUlI5NHVQcExGYTVWMW5HclpxU19Ja25Ycm1tUHAxZmRMZ3ZkMGNOakxyc0xrNUJqMEw0bW1MMWNXdjRRbHRRc1ZFbXFLSXZPOUxhTHVTV0pRYTRfZUFVNXNoOVdkaE9YaUhjLWNhOW5ES19jQW56SEUyN015b0tnOWVR?oc=5",
       "source": "Yahoo Finance",
-      "published_at": "Mon, 23 Mar 2026 08:26:00 GMT",
-      "summary": "The Projected Federal Reserve Script Has Been Flipped -- and the Stock Market Isn't Ready for It Yahoo Finance",
-      "guid": "CBMipgFBVV95cUxPRVdrMU93Z0VraktQR25Qc3Q0ckZVYWJzVXJVQ1FLT3hCZ0Yya1R4bG0zV2tvUHJRSEJyMkVJNW1odDI0RXI0eENxOFV3LTZfbWFIcTZSRFRoeF9JUzJxZkttSTA1Y1BOS1hQeUZTdk9IaVBKLTVzNXZFREVkaTBPR1ZvVUt6U3lTMHNhWW9XenlPTS1tU00zTFRiUkx2T185Wm9QRXB3"
-    },
-    {
-      "title": "Federal Reserve holds interest rates steady as inflation and hiring remain in focus - U.S. Bank",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa2V2OFo4WjFPclRZRGtjZXJvb3dsaDVUM3FjRnVCTkxfX184eHRyQjJ2NFlDc09TUlZrUDZGUzQzTjgyV1drNG9PSnc2Y0RELWZ5LVktLTlFcGFFa2s0Qm04RzRoYjNRSE9aSGw3aDljNFEyUEZJS1RNa203WlBLdmxxS2lWNmNXT0pRZGdDcGdqdEZ1YmMxN2lhci1RdVRMTEJtWE5wM3RJSFhGMXJjMjdqZw?oc=5",
-      "source": "U.S. Bank",
-      "published_at": "Thu, 19 Mar 2026 07:00:00 GMT",
-      "summary": "Federal Reserve holds interest rates steady as inflation and hiring remain in focus U.S. Bank",
-      "guid": "CBMiswFBVV95cUxOa2V2OFo4WjFPclRZRGtjZXJvb3dsaDVUM3FjRnVCTkxfX184eHRyQjJ2NFlDc09TUlZrUDZGUzQzTjgyV1drNG9PSnc2Y0RELWZ5LVktLTlFcGFFa2s0Qm04RzRoYjNRSE9aSGw3aDljNFEyUEZJS1RNa203WlBLdmxxS2lWNmNXT0pRZGdDcGdqdEZ1YmMxN2lhci1RdVRMTEJtWE5wM3RJSFhGMXJjMjdqZw"
-    },
-    {
-      "title": "The First Federal Reserve Inflation Forecast for March Is In -- and It's Not Pretty - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPSGlXWF83Tml5clYtZkx4NlliWk5ySDVMT3ZLTk9GRm1zZ1JSaHlzVFg1WFBpRzNXb1VTbFZBSUxZaS1fdkpnOE55aUdrZVQwSkVYYTNjSFRtU00yYmt3TzdEVUZCa0o3ZlVhM0JrRDFHTXVNX3d6dDJ1OFY5XzZORklmUGZHRzBiYmowRFEtb3dYSGpIeVpNdVVMNl94ejlxTGYxQUltQlYwZzYtUllRZzNERlBIbmVYU0Q5Mks2SWVJdVgyS3Jxd2ludlEzcHNVRGNLUzhGVmxRS2htNkE0aWs2Yy1IMXY1TkRoUUNjdldmS3o1UEE?oc=5",
-      "source": "The Globe and Mail",
-      "published_at": "Tue, 24 Mar 2026 12:00:58 GMT",
-      "summary": "The First Federal Reserve Inflation Forecast for March Is In -- and It's Not Pretty The Globe and Mail",
-      "guid": "CBMi9gFBVV95cUxPSGlXWF83Tml5clYtZkx4NlliWk5ySDVMT3ZLTk9GRm1zZ1JSaHlzVFg1WFBpRzNXb1VTbFZBSUxZaS1fdkpnOE55aUdrZVQwSkVYYTNjSFRtU00yYmt3TzdEVUZCa0o3ZlVhM0JrRDFHTXVNX3d6dDJ1OFY5XzZORklmUGZHRzBiYmowRFEtb3dYSGpIeVpNdVVMNl94ejlxTGYxQUltQlYwZzYtUllRZzNERlBIbmVYU0Q5Mks2SWVJdVgyS3Jxd2ludlEzcHNVRGNLUzhGVmxRS2htNkE0aWs2Yy1IMXY1TkRoUUNjdldmS3o1UEE"
-    },
-    {
-      "title": "Chances of a Federal Reserve rate cut fade as inflation worsens - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vbEtoaGItSHppYjdIeEZUU0N1UTEzUzNPWV9FMTNmT2xBelJhcDZfc25nTUJudlJuTlgxNHF5eFBjWGdQQ3JxczNtWUl1SU5VSE1qb0lDeHNnVEVqRkZ4VzRGTUhKTlkyYUFLLVV1WXdsdzI3ZWpDeFRfazByTTQ?oc=5",
-      "source": "AOL.com",
-      "published_at": "Tue, 24 Mar 2026 18:27:02 GMT",
-      "summary": "Chances of a Federal Reserve rate cut fade as inflation worsens AOL.com",
-      "guid": "CBMif0FVX3lxTE5vbEtoaGItSHppYjdIeEZUU0N1UTEzUzNPWV9FMTNmT2xBelJhcDZfc25nTUJudlJuTlgxNHF5eFBjWGdQQ3JxczNtWUl1SU5VSE1qb0lDeHNnVEVqRkZ4VzRGTUhKTlkyYUFLLVV1WXdsdzI3ZWpDeFRfazByTTQ"
+      "published_at": "Tue, 24 Mar 2026 11:56:00 GMT",
+      "summary": "The First Federal Reserve Inflation Forecast for March Is In -- and It's Not Pretty Yahoo Finance",
+      "guid": "CBMipgFBVV95cUxOaDZsLTJibnB5eWNnVmFsY0hQa0NYUXZ1ZWVXUHl1Z2t3VmdPUlI5NHVQcExGYTVWMW5HclpxU19Ja25Ycm1tUHAxZmRMZ3ZkMGNOakxyc0xrNUJqMEw0bW1MMWNXdjRRbHRRc1ZFbXFLSXZPOUxhTHVTV0pRYTRfZUFVNXNoOVdkaE9YaUhjLWNhOW5ES19jQW56SEUyN015b0tnOWVR"
     },
     {
       "title": "The Federal Reserve Is Raising Red Flags, and the Stock Market Isn't Listening - The Motley Fool",
@@ -55,12 +23,52 @@
       "guid": "CBMikwFBVV95cUxOekxPWGJuVXFUNmJnRnprN09sby15c1dYcDB4YVVlWGwyUF96S2hxLTRmdktCYnhpNEEwc3lBdjVCVmwtRnlKQ20tUXBOQlpTMFNjZll6eDc0NDdsbWtMUjdoSUxDY2lWcTJNOEpublNrcV9CQWRVbTZxQkVUM2ZiOUlnS2JLTjdkb2JCQUNEVVA1LTg"
     },
     {
+      "title": "Federal Reserve holds interest rates steady as inflation and hiring remain in focus - U.S. Bank",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa2V2OFo4WjFPclRZRGtjZXJvb3dsaDVUM3FjRnVCTkxfX184eHRyQjJ2NFlDc09TUlZrUDZGUzQzTjgyV1drNG9PSnc2Y0RELWZ5LVktLTlFcGFFa2s0Qm04RzRoYjNRSE9aSGw3aDljNFEyUEZJS1RNa203WlBLdmxxS2lWNmNXT0pRZGdDcGdqdEZ1YmMxN2lhci1RdVRMTEJtWE5wM3RJSFhGMXJjMjdqZw?oc=5",
+      "source": "U.S. Bank",
+      "published_at": "Thu, 19 Mar 2026 07:00:00 GMT",
+      "summary": "Federal Reserve holds interest rates steady as inflation and hiring remain in focus U.S. Bank",
+      "guid": "CBMiswFBVV95cUxOa2V2OFo4WjFPclRZRGtjZXJvb3dsaDVUM3FjRnVCTkxfX184eHRyQjJ2NFlDc09TUlZrUDZGUzQzTjgyV1drNG9PSnc2Y0RELWZ5LVktLTlFcGFFa2s0Qm04RzRoYjNRSE9aSGw3aDljNFEyUEZJS1RNa203WlBLdmxxS2lWNmNXT0pRZGdDcGdqdEZ1YmMxN2lhci1RdVRMTEJtWE5wM3RJSFhGMXJjMjdqZw"
+    },
+    {
+      "title": "The Federal Reserve Is Raising Red Flags, and the Stock Market Isn't Listening - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUHVScVZWbjROUF9jZFhqLWJ3b3h5Tmtnc21falh3VkNpdnF0aGJZeUtGQy1pZkthbV9QVXhUbzM4enh3aXFpMndXNkN4VUQ2bmJjdElFOEQ4VXJtVUduNE1XQmUzdGNtZnd4Y2Z1MktOT2lvV1czTThObFNnYkpIOA?oc=5",
+      "source": "AOL.com",
+      "published_at": "Sun, 22 Mar 2026 15:14:24 GMT",
+      "summary": "The Federal Reserve Is Raising Red Flags, and the Stock Market Isn't Listening AOL.com",
+      "guid": "CBMigAFBVV95cUxPUHVScVZWbjROUF9jZFhqLWJ3b3h5Tmtnc21falh3VkNpdnF0aGJZeUtGQy1pZkthbV9QVXhUbzM4enh3aXFpMndXNkN4VUQ2bmJjdElFOEQ4VXJtVUduNE1XQmUzdGNtZnd4Y2Z1MktOT2lvV1czTThObFNnYkpIOA"
+    },
+    {
+      "title": "Tracker: The Federal Reserve’s Balance Sheet Assets - The American Action Forum",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0?oc=5",
+      "source": "The American Action Forum",
+      "published_at": "Fri, 20 Mar 2026 07:00:00 GMT",
+      "summary": "Tracker: The Federal Reserve’s Balance Sheet Assets The American Action Forum",
+      "guid": "CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0"
+    },
+    {
+      "title": "Here's When the Fed Might Cut Interest Rates Again, and What It Means for the Stock Market - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLURQbTZEUG04N3NLVElKUDIzMTdoN0RLOEp2dzdSSTA1bmlRckRIMUlzUmU3cFctX3U0eHZGcnh3cXVGYS0tRGlpNUR1dzhKWEdmWnh1Z0ZHSVVVZG1JY0d4UWo0Si1iYmZFYm9GZ1dEZGJGbGx5WExUTklLS05PRmlBc1FwWURzTGs3SEY2UkZULU1PdlYzVw?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Mon, 23 Mar 2026 11:55:00 GMT",
+      "summary": "Here's When the Fed Might Cut Interest Rates Again, and What It Means for the Stock Market The Motley Fool",
+      "guid": "CBMimAFBVV95cUxQLURQbTZEUG04N3NLVElKUDIzMTdoN0RLOEp2dzdSSTA1bmlRckRIMUlzUmU3cFctX3U0eHZGcnh3cXVGYS0tRGlpNUR1dzhKWEdmWnh1Z0ZHSVVVZG1JY0d4UWo0Si1iYmZFYm9GZ1dEZGJGbGx5WExUTklLS05PRmlBc1FwWURzTGs3SEY2UkZULU1PdlYzVw"
+    },
+    {
       "title": "Federal Reserve Interest Rate Freeze Tests Gladstone Capital’s Road to Recovery - 24/7 Wall St.",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQWJtNmo3VlRlcGNIc1EtV2FmbXFKQ051SnhWU05pUVBESkdnODlrZ1FqWnYtZGlETXRZZjNzTTYzUVN3Wkx0YmdteHJ6VDBmckhXX3A2YlRnTGZlV2YtT3VCQmRjY1Y1TGVydTQ0WVJCSlFxWE92X3ota0EybkNsZmVYemYyeVNmVlpCVHpDY2JtVVBMeHJGS0N1VFp1QUpvVTVwY0NtcWFtQmVndUFOT0dkdFVKMTFFTmNfSGRITQ?oc=5",
       "source": "24/7 Wall St.",
       "published_at": "Mon, 23 Mar 2026 18:55:18 GMT",
       "summary": "Federal Reserve Interest Rate Freeze Tests Gladstone Capital’s Road to Recovery 24/7 Wall St.",
       "guid": "CBMivwFBVV95cUxQQWJtNmo3VlRlcGNIc1EtV2FmbXFKQ051SnhWU05pUVBESkdnODlrZ1FqWnYtZGlETXRZZjNzTTYzUVN3Wkx0YmdteHJ6VDBmckhXX3A2YlRnTGZlV2YtT3VCQmRjY1Y1TGVydTQ0WVJCSlFxWE92X3ota0EybkNsZmVYemYyeVNmVlpCVHpDY2JtVVBMeHJGS0N1VFp1QUpvVTVwY0NtcWFtQmVndUFOT0dkdFVKMTFFTmNfSGRITQ"
+    },
+    {
+      "title": "The Projected Federal Reserve Script Has Been Flipped -- and the Stock Market Isn't Ready for It - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRVdrMU93Z0VraktQR25Qc3Q0ckZVYWJzVXJVQ1FLT3hCZ0Yya1R4bG0zV2tvUHJRSEJyMkVJNW1odDI0RXI0eENxOFV3LTZfbWFIcTZSRFRoeF9JUzJxZkttSTA1Y1BOS1hQeUZTdk9IaVBKLTVzNXZFREVkaTBPR1ZvVUt6U3lTMHNhWW9XenlPTS1tU00zTFRiUkx2T185Wm9QRXB3?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Mon, 23 Mar 2026 08:26:00 GMT",
+      "summary": "The Projected Federal Reserve Script Has Been Flipped -- and the Stock Market Isn't Ready for It Yahoo Finance",
+      "guid": "CBMipgFBVV95cUxPRVdrMU93Z0VraktQR25Qc3Q0ckZVYWJzVXJVQ1FLT3hCZ0Yya1R4bG0zV2tvUHJRSEJyMkVJNW1odDI0RXI0eENxOFV3LTZfbWFIcTZSRFRoeF9JUzJxZkttSTA1Y1BOS1hQeUZTdk9IaVBKLTVzNXZFREVkaTBPR1ZvVUt6U3lTMHNhWW9XenlPTS1tU00zTFRiUkx2T185Wm9QRXB3"
     },
     {
       "title": "Scatterplot of Inflation and the Share of Relative Price Increases - Federal Reserve Bank of Richmond",
@@ -77,14 +85,6 @@
       "published_at": "Wed, 18 Mar 2026 18:23:00 GMT",
       "summary": "US stocks hold their losses after the Federal Reserve opts again not to cut interest rates KVOA",
       "guid": "CBMi_gFBVV95cUxQQ0V3ZEFYZ2VXUzhvVDljdlJxWVM2Zmpwbl9pVDVoUGp6S05zcG9PT0hRUFFPS05zX3RfdXRHNW1qaExEbUhyTEtXZjJ3ME1uSUNXeThET0tnWjZEMWptS3JITUxhSzQ0ZU9jTjMtSlBVQlAtOEtRTVVtVm5rdkVfLU9GR195QVBJOHF6eWN0akowb19QLWllV0VPdE83cHc0ZDNMOVpvNXZsa0NaTUJYZnN2YnMtSmxDWHZ2bjY3X01oOFQ1bS03V1p4Y1FTOW1wdVd2cEZ1azVzZXRMZTVWVkMtOVhGUlNGbDBld2hUUU1KNkNwOVpUZ0J6UHY0UQ"
-    },
-    {
-      "title": "Federal Reserve holds interest rates steady, signals one rate cut amid inflation uncertainty - U.S. Bank",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw?oc=5",
-      "source": "U.S. Bank",
-      "published_at": "Wed, 18 Mar 2026 07:00:00 GMT",
-      "summary": "Federal Reserve holds interest rates steady, signals one rate cut amid inflation uncertainty U.S. Bank",
-      "guid": "CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw"
     }
   ]
 }
