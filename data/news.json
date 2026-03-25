@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-25T06:36:14Z",
+  "generated_at": "2026-03-25T07:38:20Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -47,14 +47,6 @@
       "guid": "CBMiigFBVV95cUxNMVc0YTRRME4yVDgwVmZxcmFUbHVDX1NLSk9NUHQyQ0ViQURQMWMxQ3FzZnhxUUhjekV3MWxyelAwRmhYQ2o3cDhIUXV2T0RONDc1cDB0Z2wzRExJTnloUTRTLUk4dnVRS0VaRWIwZnY1SlBpQTM3ZWVvWXBzNnlMSTFZTHoweGFiOHc"
     },
     {
-      "title": "Tracker: The Federal Reserve’s Balance Sheet Assets - The American Action Forum",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0?oc=5",
-      "source": "The American Action Forum",
-      "published_at": "Fri, 20 Mar 2026 07:00:00 GMT",
-      "summary": "Tracker: The Federal Reserve’s Balance Sheet Assets The American Action Forum",
-      "guid": "CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0"
-    },
-    {
       "title": "Federal Reserve Interest Rate Freeze Tests Gladstone Capital’s Road to Recovery - 24/7 Wall St.",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQWJtNmo3VlRlcGNIc1EtV2FmbXFKQ051SnhWU05pUVBESkdnODlrZ1FqWnYtZGlETXRZZjNzTTYzUVN3Wkx0YmdteHJ6VDBmckhXX3A2YlRnTGZlV2YtT3VCQmRjY1Y1TGVydTQ0WVJCSlFxWE92X3ota0EybkNsZmVYemYyeVNmVlpCVHpDY2JtVVBMeHJGS0N1VFp1QUpvVTVwY0NtcWFtQmVndUFOT0dkdFVKMTFFTmNfSGRITQ?oc=5",
       "source": "24/7 Wall St.",
@@ -71,20 +63,28 @@
       "guid": "CBMipgFBVV95cUxPRVdrMU93Z0VraktQR25Qc3Q0ckZVYWJzVXJVQ1FLT3hCZ0Yya1R4bG0zV2tvUHJRSEJyMkVJNW1odDI0RXI0eENxOFV3LTZfbWFIcTZSRFRoeF9JUzJxZkttSTA1Y1BOS1hQeUZTdk9IaVBKLTVzNXZFREVkaTBPR1ZvVUt6U3lTMHNhWW9XenlPTS1tU00zTFRiUkx2T185Wm9QRXB3"
     },
     {
-      "title": "Scatterplot of Inflation and the Share of Relative Price Increases - Federal Reserve Bank of Richmond",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWGswa3NHUE5OV2tzVVZESy1kUVVEdWstQllDb3VHNmZEaHE3aG5XLUFDR0p5NTM1T0tZQjRTUG43dVlwYXJXRENjNS1kUnBoTzZUaTJtQ1A3WnVZbGVxOVhuWEd5SzNJLXNNRTdZbmVhSGZ4SEhIdlNnTWtXaFl6RmdXelFtMVBVaEZFRGFSa3ZzN3JsQWRKY05tdWFzZw?oc=5",
-      "source": "Federal Reserve Bank of Richmond",
-      "published_at": "Fri, 13 Mar 2026 07:00:00 GMT",
-      "summary": "Scatterplot of Inflation and the Share of Relative Price Increases Federal Reserve Bank of Richmond",
-      "guid": "CBMingFBVV95cUxQWGswa3NHUE5OV2tzVVZESy1kUVVEdWstQllDb3VHNmZEaHE3aG5XLUFDR0p5NTM1T0tZQjRTUG43dVlwYXJXRENjNS1kUnBoTzZUaTJtQ1A3WnVZbGVxOVhuWEd5SzNJLXNNRTdZbmVhSGZ4SEhIdlNnTWtXaFl6RmdXelFtMVBVaEZFRGFSa3ZzN3JsQWRKY05tdWFzZw"
+      "title": "Federal Reserve Forecasts Surging Inflation in March - National Today",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWjh6WGdET3ZGeWlwRU55VHB2QzE2X1FJOU5maXl0Q01YUzdlSUUwU0JCMElCSG96V2IteUo4VXp2WE1UV0lnX3RBU3p1MTNtT3NzN1BTeFcxTTVfSi1DRWVxUFJwWkQzY3pQZXVDMnpLOEpKcnZHeGpXNDFWT2loTTlrUzFHUURZUkZJclRacndxUWxVZHA5Y2hFM2pDYjJEbDFna2xUd2tEWlk4UzFlcQ?oc=5",
+      "source": "National Today",
+      "published_at": "Tue, 24 Mar 2026 11:57:55 GMT",
+      "summary": "Federal Reserve Forecasts Surging Inflation in March National Today",
+      "guid": "CBMisAFBVV95cUxOWjh6WGdET3ZGeWlwRU55VHB2QzE2X1FJOU5maXl0Q01YUzdlSUUwU0JCMElCSG96V2IteUo4VXp2WE1UV0lnX3RBU3p1MTNtT3NzN1BTeFcxTTVfSi1DRWVxUFJwWkQzY3pQZXVDMnpLOEpKcnZHeGpXNDFWT2loTTlrUzFHUURZUkZJclRacndxUWxVZHA5Y2hFM2pDYjJEbDFna2xUd2tEWlk4UzFlcQ"
     },
     {
-      "title": "US stocks hold their losses after the Federal Reserve opts again not to cut interest rates - KVOA",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQQ0V3ZEFYZ2VXUzhvVDljdlJxWVM2Zmpwbl9pVDVoUGp6S05zcG9PT0hRUFFPS05zX3RfdXRHNW1qaExEbUhyTEtXZjJ3ME1uSUNXeThET0tnWjZEMWptS3JITUxhSzQ0ZU9jTjMtSlBVQlAtOEtRTVVtVm5rdkVfLU9GR195QVBJOHF6eWN0akowb19QLWllV0VPdE83cHc0ZDNMOVpvNXZsa0NaTUJYZnN2YnMtSmxDWHZ2bjY3X01oOFQ1bS03V1p4Y1FTOW1wdVd2cEZ1azVzZXRMZTVWVkMtOVhGUlNGbDBld2hUUU1KNkNwOVpUZ0J6UHY0UQ?oc=5",
-      "source": "KVOA",
-      "published_at": "Wed, 18 Mar 2026 18:23:00 GMT",
-      "summary": "US stocks hold their losses after the Federal Reserve opts again not to cut interest rates KVOA",
-      "guid": "CBMi_gFBVV95cUxQQ0V3ZEFYZ2VXUzhvVDljdlJxWVM2Zmpwbl9pVDVoUGp6S05zcG9PT0hRUFFPS05zX3RfdXRHNW1qaExEbUhyTEtXZjJ3ME1uSUNXeThET0tnWjZEMWptS3JITUxhSzQ0ZU9jTjMtSlBVQlAtOEtRTVVtVm5rdkVfLU9GR195QVBJOHF6eWN0akowb19QLWllV0VPdE83cHc0ZDNMOVpvNXZsa0NaTUJYZnN2YnMtSmxDWHZ2bjY3X01oOFQ1bS03V1p4Y1FTOW1wdVd2cEZ1azVzZXRMZTVWVkMtOVhGUlNGbDBld2hUUU1KNkNwOVpUZ0J6UHY0UQ"
+      "title": "Federal Reserve holds interest rates steady, signals one rate cut amid inflation uncertainty - U.S. Bank",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw?oc=5",
+      "source": "U.S. Bank",
+      "published_at": "Wed, 18 Mar 2026 07:00:00 GMT",
+      "summary": "Federal Reserve holds interest rates steady, signals one rate cut amid inflation uncertainty U.S. Bank",
+      "guid": "CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw"
+    },
+    {
+      "title": "Federal Reserve Interest Rate Freeze Tests Gladstone Capital’s Road to Recovery - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYXpvSFJzN3hGYXBZVEtZZXotemNFS1N5MEttRm1PN1hnU2tidjMwQnNlZ1AwR1YxcWZsWjA1MHJUT0VwMDNwSTVoWWFEdU5NVDh0R2h1YnI0WGRGOFF5VV9YYUgtNDNST3VlZU1UcS1mUzVQMkNmYUpjV082TndaQ3ZKcDA?oc=5",
+      "source": "AOL.com",
+      "published_at": "Mon, 23 Mar 2026 15:24:59 GMT",
+      "summary": "Federal Reserve Interest Rate Freeze Tests Gladstone Capital’s Road to Recovery AOL.com",
+      "guid": "CBMihAFBVV95cUxOYXpvSFJzN3hGYXBZVEtZZXotemNFS1N5MEttRm1PN1hnU2tidjMwQnNlZ1AwR1YxcWZsWjA1MHJUT0VwMDNwSTVoWWFEdU5NVDh0R2h1YnI0WGRGOFF5VV9YYUgtNDNST3VlZU1UcS1mUzVQMkNmYUpjV082TndaQ3ZKcDA"
     }
   ]
 }
