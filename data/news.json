@@ -1,19 +1,11 @@
 {
-  "generated_at": "2026-03-26T15:38:18Z",
+  "generated_at": "2026-03-26T16:43:28Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
-    {
-      "title": "What a Fed Rate Hike Could Mean for These Key Stock Sectors - Morningstar",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcDlaUGNFLWVrSEs5RjZnRW1BeVpHU2ZhM29EM0hzbkdyWFpiSXBzTlI0UUN1clptLVU2b2JVREZadUtFSGNuUUF6aTZmN0FLa2tEdlhiWG1CQmI5emo1TkpmUmtCTEJleHo5aV9IUndBZkdJaUhjaFhyZlhFWUtuNjk5MFlQbHhTSXpqSnVVTXZtdw?oc=5",
-      "source": "Morningstar",
-      "published_at": "Thu, 26 Mar 2026 10:13:22 GMT",
-      "summary": "What a Fed Rate Hike Could Mean for These Key Stock Sectors Morningstar",
-      "guid": "CBMikgFBVV95cUxQcDlaUGNFLWVrSEs5RjZnRW1BeVpHU2ZhM29EM0hzbkdyWFpiSXBzTlI0UUN1clptLVU2b2JVREZadUtFSGNuUUF6aTZmN0FLa2tEdlhiWG1CQmI5emo1TkpmUmtCTEJleHo5aV9IUndBZkdJaUhjaFhyZlhFWUtuNjk5MFlQbHhTSXpqSnVVTXZtdw"
-    },
     {
       "title": "The Federal Reserve Is Raising Red Flags, and the Stock Market Isn't Listening - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOekxPWGJuVXFUNmJnRnprN09sby15c1dYcDB4YVVlWGwyUF96S2hxLTRmdktCYnhpNEEwc3lBdjVCVmwtRnlKQ20tUXBOQlpTMFNjZll6eDc0NDdsbWtMUjdoSUxDY2lWcTJNOEpublNrcV9CQWRVbTZxQkVUM2ZiOUlnS2JLTjdkb2JCQUNEVVA1LTg?oc=5",
@@ -23,12 +15,12 @@
       "guid": "CBMikwFBVV95cUxOekxPWGJuVXFUNmJnRnprN09sby15c1dYcDB4YVVlWGwyUF96S2hxLTRmdktCYnhpNEEwc3lBdjVCVmwtRnlKQ20tUXBOQlpTMFNjZll6eDc0NDdsbWtMUjdoSUxDY2lWcTJNOEpublNrcV9CQWRVbTZxQkVUM2ZiOUlnS2JLTjdkb2JCQUNEVVA1LTg"
     },
     {
-      "title": "Federal Reserve Posted Loss of $18.7 Billion in 2025 - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxQU3pwd0pXZ25RbHJSOXNaV0FweHJLeEhGcWlsaWVSNXJlX3ZNSFF4V0JEYVhmV2dUcVRla3c2M2hfd0lUNGF2Q1dRVElvLWEzVk1TbHlkLWw3eWtQaVgzTmxTNmhDdHNZWXRSVVhrLTJjY2tLQUw1LUdPTlY5MWdrY0kyWG01SEtvUzFhQUdqNWdDb2t6bmFKbm45SGRkdXFDTEFWaS1BeFBaVDAxa2dLYzlsbVBqS0RKTUJyUU9jRHNBNHNySFhUUGNQWkVWeTMtclJjMGF2T1dUVkFBdHNnVVdGbzVZc3k0Q1dNeDZXVFV6dURONXBUX3N4SENzOWNpOGNSZm5NeHdKMUF2cFpPTGtHdDRCaXZ6SmV5SWNjV1g4clJwQVdkOGJqenFsdm1GaDYzcThzdllRTi12Mmo0U3BYVDUxekV5MWl4d1pxZDdWTmpRZGlja2pIcmtJZ0lsVWRsRU1saUxBWWlpVld0ekh0M2pYaWtDZ3hJblBvUGx4YlNKcWdvQU1VdmE3aFdFSmFXUENVMTVzaFJYcjlKLWdpeHBXTVFsRmZPQg?oc=5",
-      "source": "WSJ",
-      "published_at": "Wed, 25 Mar 2026 16:59:00 GMT",
-      "summary": "Federal Reserve Posted Loss of $18.7 Billion in 2025 WSJ",
-      "guid": "CBMirANBVV95cUxQU3pwd0pXZ25RbHJSOXNaV0FweHJLeEhGcWlsaWVSNXJlX3ZNSFF4V0JEYVhmV2dUcVRla3c2M2hfd0lUNGF2Q1dRVElvLWEzVk1TbHlkLWw3eWtQaVgzTmxTNmhDdHNZWXRSVVhrLTJjY2tLQUw1LUdPTlY5MWdrY0kyWG01SEtvUzFhQUdqNWdDb2t6bmFKbm45SGRkdXFDTEFWaS1BeFBaVDAxa2dLYzlsbVBqS0RKTUJyUU9jRHNBNHNySFhUUGNQWkVWeTMtclJjMGF2T1dUVkFBdHNnVVdGbzVZc3k0Q1dNeDZXVFV6dURONXBUX3N4SENzOWNpOGNSZm5NeHdKMUF2cFpPTGtHdDRCaXZ6SmV5SWNjV1g4clJwQVdkOGJqenFsdm1GaDYzcThzdllRTi12Mmo0U3BYVDUxekV5MWl4d1pxZDdWTmpRZGlja2pIcmtJZ0lsVWRsRU1saUxBWWlpVld0ekh0M2pYaWtDZ3hJblBvUGx4YlNKcWdvQU1VdmE3aFdFSmFXUENVMTVzaFJYcjlKLWdpeHBXTVFsRmZPQg"
+      "title": "What a Fed Rate Hike Could Mean for These Key Stock Sectors - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcDlaUGNFLWVrSEs5RjZnRW1BeVpHU2ZhM29EM0hzbkdyWFpiSXBzTlI0UUN1clptLVU2b2JVREZadUtFSGNuUUF6aTZmN0FLa2tEdlhiWG1CQmI5emo1TkpmUmtCTEJleHo5aV9IUndBZkdJaUhjaFhyZlhFWUtuNjk5MFlQbHhTSXpqSnVVTXZtdw?oc=5",
+      "source": "Morningstar",
+      "published_at": "Thu, 26 Mar 2026 10:13:22 GMT",
+      "summary": "What a Fed Rate Hike Could Mean for These Key Stock Sectors Morningstar",
+      "guid": "CBMikgFBVV95cUxQcDlaUGNFLWVrSEs5RjZnRW1BeVpHU2ZhM29EM0hzbkdyWFpiSXBzTlI0UUN1clptLVU2b2JVREZadUtFSGNuUUF6aTZmN0FLa2tEdlhiWG1CQmI5emo1TkpmUmtCTEJleHo5aV9IUndBZkdJaUhjaFhyZlhFWUtuNjk5MFlQbHhTSXpqSnVVTXZtdw"
     },
     {
       "title": "Why are US stock market futures down today, and will Dow, S&P 500 and Nasdaq stay in red or turn green aga - The Economic Times",
@@ -37,6 +29,14 @@
       "published_at": "Thu, 26 Mar 2026 12:52:14 GMT",
       "summary": "Why are US stock market futures down today, and will Dow, S&P 500 and Nasdaq stay in red or turn green aga The Economic Times",
       "guid": "CBMiiANBVV95cUxOM2dwdzM4SzdhX3FzVlpiRGVReVd6RWZQOUpHT3hYWWltbDh1TVpiWkNiS2t2eFNiei1teFJYOFNjT001VXJ2Nmt0c0s0VzY1UE42eDJTN2JDVUo3cWwweWxxUnRkeTZubElkNFlaUWlpV1VmX1dfTW80Q05iREphMG9lVWtKM0tzUEV3RjQ0b1RtRW5zbDNIM3BLejNsNEtZWDFlQmJfMWpCRkJfcTJVaFN6Y2pQblBYeTFyRjN6YUZXYUZsNkpaTnNOSm9NYXFQMjJDcXFyMGtpTGV0cFZOalc1VThCRGpkVmxBNVF1dXJ6SHpxZnVxbkszN2JDZWtlbUdYcTVZUjROWERXa2t4a3d0bTd1XzR3VTVnUXNlYzg3U2FQOEEzMFh3VWlYOVpVRXp5dHFHM01OTjhmSWlzX0ozRTNHY19BcF9na3pfSEFDRkE0OWowTkVsbGJrNGkwa3BJLTdjQXpxNnYxZ3hWdzdxZzAyNXpoOE95dGMtbzNRbUliQXJ0UdIBjgNBVV95cUxOb21oMDE0NHFKZGwwdzBVQXFVcVNib2dkUWVLSFZZTmhHUVhCaW9rTkxhczRnTzFEU1U3Q1NkMVZlVmJLcTduY3pSQ2NvMk5kTlRsVHhBY1RVMnZQSEJiaDJfNnMyamNHaS11WEtfajhFVG5vRXlLaTZGZ2xVeDRPSlplNXlOaXdVWWhiMVhmd1ZYWUJnOXJpZE56ZjRKVWp2ZUNveWJtTWJ2cG9EYURCdzY0OFluMDNpZDh3YVc0dnlSVUFwRklKRmMyZVdOTG9yWWxKRldzTlJaYUlMQzB2RnN6Tml2S0VJUkl3bTVGT0xUYnpzX0RWV1htSkc3b0lELU55T2dOS08yWElsWGo5QnluQ0VKNFd5N3FZYTdQRnpEU0FGVlZyeFA2d01Wd1NvV0xWV0lmWUxPTkRaN1B3WUFpWHplTzJYenZPaExmcXdvQmkyWW9IdmczdHdnVFdsNDdsVUZPVnVFZE9qNFNOXzVLMFlEVllxT2cwTmdrdk9IZGtFaDBZcFFNdVM2Zw"
+    },
+    {
+      "title": "Federal Reserve Posted Loss of $18.7 Billion in 2025 - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxQeldsb2MzLUhvZnFOZVhNbnFvaEZiSmExam9wU2JuYmZUS1dnX0w2dlc1eVByMkU5dHhFcWFWSU5PcGw1QzRDQmNuejU1azhuSlZZS1oyVzI2VjVxajNJT3l5Zk1qZ2pVclR1d1YxQUh5ODNrREtCcGpiRmFLc01nMFVlTW9QN1RzdVdyQ0pIcFRhdUtyN2Y1eWU2cmdRanByUUdFajVkWUxzQzFQVWZSLVlyTkoxa1VzQkpVYjAtX19QRWUweGFTZXQ2YVZ6d1hKcVV4bjAtY2tncDNjLWtCeHk1ZGRCS3NhZUJZcFo1WkdhZnVUazFyQnhFaFVSQThNcmt0SHZ6RjUxampBSjJHckM5Wnd6TnZJR29GaVlIUGdHbXhWYmYwd0tYNW9PQ3ZMc2FGdTJ3UFlWamdoQXhkR05IZmlNalpmTDNHcHpxT3JmVDktZ0VLdmV4X2NTeGFtX2FFRXlnRHNSMVVLSTZFR1BUaUZZR3ZOXzU0U3dJN0ExaHdZenpZMlpjM0RwUEtQWF9ySEdtbTNDd1VyZlVQbVlMT2l1Z1Zpb3dscw?oc=5",
+      "source": "WSJ",
+      "published_at": "Wed, 25 Mar 2026 16:59:00 GMT",
+      "summary": "Federal Reserve Posted Loss of $18.7 Billion in 2025 WSJ",
+      "guid": "CBMirANBVV95cUxQeldsb2MzLUhvZnFOZVhNbnFvaEZiSmExam9wU2JuYmZUS1dnX0w2dlc1eVByMkU5dHhFcWFWSU5PcGw1QzRDQmNuejU1azhuSlZZS1oyVzI2VjVxajNJT3l5Zk1qZ2pVclR1d1YxQUh5ODNrREtCcGpiRmFLc01nMFVlTW9QN1RzdVdyQ0pIcFRhdUtyN2Y1eWU2cmdRanByUUdFajVkWUxzQzFQVWZSLVlyTkoxa1VzQkpVYjAtX19QRWUweGFTZXQ2YVZ6d1hKcVV4bjAtY2tncDNjLWtCeHk1ZGRCS3NhZUJZcFo1WkdhZnVUazFyQnhFaFVSQThNcmt0SHZ6RjUxampBSjJHckM5Wnd6TnZJR29GaVlIUGdHbXhWYmYwd0tYNW9PQ3ZMc2FGdTJ3UFlWamdoQXhkR05IZmlNalpmTDNHcHpxT3JmVDktZ0VLdmV4X2NTeGFtX2FFRXlnRHNSMVVLSTZFR1BUaUZZR3ZOXzU0U3dJN0ExaHdZenpZMlpjM0RwUEtQWF9ySEdtbTNDd1VyZlVQbVlMT2l1Z1Zpb3dscw"
     },
     {
       "title": "The research firm whose AI paper knocked the whole stock market is out with another big call - CNBC",
