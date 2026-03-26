@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-26T05:48:13Z",
+  "generated_at": "2026-03-26T06:56:01Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -8,11 +8,11 @@
   "items": [
     {
       "title": "Federal Reserve Posted Loss of $18.7 Billion in 2025 - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxOSTJVeGxfdGRuak0yRnFRQlczaHNGUDFZUlcxODREMlotNE1CU3NWVGVST1ZjRXpjRm1mTUdaUC1kakdkNEpZRjBsSEhMUkpna2pQcjNlUmk2aE9ENmp3blRWLVlQR2lGZ2JmWFRLcHhUci1Yc0I2SVFBYmRlYjVFZXh3RnZSMW5XaFVoUjBZYUc1djh2M2FTVmdQLUVGY2s0WnRFcVlid0sxYVA0cUEwVlNvTWhnUWRmYkNIRTB5UlVWbGNBSWZHNjhQeXluemdtbm1tUDlyaHVnTzVVVEJ6MDhLTUxUMjRqSzdLRE5tWkJ3Z040Unh6RGRFUm96R3FaWUtKR05pa0JKcWFqNkswTHpPTTV6M3JacnZOTDJ0eVgzSHhpcmhSZDBZVEpoVkhPVzkwQWM1QkVvNW94c2czQU53eDVWcW5NZ2s2OUtYajgwRlllTEJMNGg5bGJXcjBsamRqTnhOb3Z3RWlfTk9nSDBVUG1kMHE0Mk1HX1gxcmpzUEZ1a1dBUXJKS2VhbVprOVJQTXRGRTBaRXI0OWEzS1ZoMUFLRFA2ZDZFUA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxPbDNhS3UzcVZzUkxORzZjd3VxWkFzUnhlZGhrQ29DSmdBU0J4UklXeUZzd2RoZHpiaUV5X1dJU0xNNnJoNC1pZjNuRmJHSW9YWmQ0Zm4xWGRaU2RMLThwejVSdU14dmQxOWh1RU4wRFNmMmdLYktoOVc4LUVZTU5pMml5ZndFU2pZb1FKTXFsNnhvS3pyN2VpTzl6a2cwdGVFeXQ0WGxBYjhCQmVZZHhzSFo5eTg4YWRBNWVOeDVQQ3B3b0hSZ2R4a3FGMGtRWWtPX2trZnRuY1hKYzF3LW5XOGZ0V2lUVWUtN05kSnB6bEV2QkMwY0o1S1VaZHBiZ01RQUhzXzFUanZSUTV5ZXk0WnZ6aFluNWZvTzNMZk5IMUVFLWhsUkFwR09Dd3I5Y1VOWGF6dFdMbGV5aUJXNmNYemlBbHZVaTFZd0tuQnJmVmdKclNTekdORzFoYTdnLWc2U0xQcWJpWldmbnlvSTRGTzRsenVBZ0ptX1JOdV96Nkt4bmVsUUtza0VKUm1OLWtlbEZsOEFSbUktSlROejQxN2VNb3JnajZPbVhmQw?oc=5",
       "source": "WSJ",
       "published_at": "Wed, 25 Mar 2026 16:59:00 GMT",
       "summary": "Federal Reserve Posted Loss of $18.7 Billion in 2025 WSJ",
-      "guid": "CBMirANBVV95cUxOSTJVeGxfdGRuak0yRnFRQlczaHNGUDFZUlcxODREMlotNE1CU3NWVGVST1ZjRXpjRm1mTUdaUC1kakdkNEpZRjBsSEhMUkpna2pQcjNlUmk2aE9ENmp3blRWLVlQR2lGZ2JmWFRLcHhUci1Yc0I2SVFBYmRlYjVFZXh3RnZSMW5XaFVoUjBZYUc1djh2M2FTVmdQLUVGY2s0WnRFcVlid0sxYVA0cUEwVlNvTWhnUWRmYkNIRTB5UlVWbGNBSWZHNjhQeXluemdtbm1tUDlyaHVnTzVVVEJ6MDhLTUxUMjRqSzdLRE5tWkJ3Z040Unh6RGRFUm96R3FaWUtKR05pa0JKcWFqNkswTHpPTTV6M3JacnZOTDJ0eVgzSHhpcmhSZDBZVEpoVkhPVzkwQWM1QkVvNW94c2czQU53eDVWcW5NZ2s2OUtYajgwRlllTEJMNGg5bGJXcjBsamRqTnhOb3Z3RWlfTk9nSDBVUG1kMHE0Mk1HX1gxcmpzUEZ1a1dBUXJKS2VhbVprOVJQTXRGRTBaRXI0OWEzS1ZoMUFLRFA2ZDZFUA"
+      "guid": "CBMirANBVV95cUxPbDNhS3UzcVZzUkxORzZjd3VxWkFzUnhlZGhrQ29DSmdBU0J4UklXeUZzd2RoZHpiaUV5X1dJU0xNNnJoNC1pZjNuRmJHSW9YWmQ0Zm4xWGRaU2RMLThwejVSdU14dmQxOWh1RU4wRFNmMmdLYktoOVc4LUVZTU5pMml5ZndFU2pZb1FKTXFsNnhvS3pyN2VpTzl6a2cwdGVFeXQ0WGxBYjhCQmVZZHhzSFo5eTg4YWRBNWVOeDVQQ3B3b0hSZ2R4a3FGMGtRWWtPX2trZnRuY1hKYzF3LW5XOGZ0V2lUVWUtN05kSnB6bEV2QkMwY0o1S1VaZHBiZ01RQUhzXzFUanZSUTV5ZXk0WnZ6aFluNWZvTzNMZk5IMUVFLWhsUkFwR09Dd3I5Y1VOWGF6dFdMbGV5aUJXNmNYemlBbHZVaTFZd0tuQnJmVmdKclNTekdORzFoYTdnLWc2U0xQcWJpWldmbnlvSTRGTzRsenVBZ0ptX1JOdV96Nkt4bmVsUUtza0VKUm1OLWtlbEZsOEFSbUktSlROejQxN2VNb3JnajZPbVhmQw"
     },
     {
       "title": "The Federal Reserve Is Raising Red Flags, and the Stock Market Isn't Listening - Yahoo Finance",
@@ -39,20 +39,20 @@
       "guid": "CBMimAFBVV95cUxQLURQbTZEUG04N3NLVElKUDIzMTdoN0RLOEp2dzdSSTA1bmlRckRIMUlzUmU3cFctX3U0eHZGcnh3cXVGYS0tRGlpNUR1dzhKWEdmWnh1Z0ZHSVVVZG1JY0d4UWo0Si1iYmZFYm9GZ1dEZGJGbGx5WExUTklLS05PRmlBc1FwWURzTGs3SEY2UkZULU1PdlYzVw"
     },
     {
-      "title": "US Stock Market | Warsh’s Big Task: Why balance sheet cuts may take years - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNWZxbHJoR3BMdDVueG5xVV9pajY0RTJQUGswLW9TdmtSNnZBSHYzS1FKdFRCS0tfN3hIZVVaelhDUzhheHY4MExUQ2h0Q1prSlp4d2RrSkFiY0tyMC1RaDFTbFczUTY1eW9DTzFXTWh5Mlg5anNHdXVKczJnQjZwRWNfaTl1SXlRX1ZPT1pBdjZnNHBxNFVNLVVFSXlsUmlSTnYwRDVrM3I5dFY0dEJjTWl3djlhYkdKRzM1V052WTluWGZRQ2lqVE9iQU92QVZCOS02WjZ6Ynd4a2JEYUUw0gHkAUFVX3lxTE11QVJOcDgtS2ZqMzBCRE9ZNG9rU2VEOGhvSGszQmhFRzdJX050MXMxMXBTSzJjakt3ZDN4NHZrbG05MDkwRGlBUDJRM1JscDhiZGcxeDJnV0cyWXdNbzktdVVUaTA2SGdIWWd6eEcyaWkzNjlNOWcwOVFZZnMzTmFoT2xlNC0zNFZIWllNS1VBbHZ3YmVjTDB3UTNMemtRV1h3djF3MENiQTFCclVncDFrQllGc2trdG9DZzJ3REhCMG80NjVSM01NNnAxUXhSTWVSR3B6eGh5U2VEWUprb2d6MjlnXw?oc=5",
-      "source": "The Economic Times",
-      "published_at": "Thu, 26 Mar 2026 03:27:44 GMT",
-      "summary": "US Stock Market | Warsh’s Big Task: Why balance sheet cuts may take years The Economic Times",
-      "guid": "CBMi3wFBVV95cUxNNWZxbHJoR3BMdDVueG5xVV9pajY0RTJQUGswLW9TdmtSNnZBSHYzS1FKdFRCS0tfN3hIZVVaelhDUzhheHY4MExUQ2h0Q1prSlp4d2RrSkFiY0tyMC1RaDFTbFczUTY1eW9DTzFXTWh5Mlg5anNHdXVKczJnQjZwRWNfaTl1SXlRX1ZPT1pBdjZnNHBxNFVNLVVFSXlsUmlSTnYwRDVrM3I5dFY0dEJjTWl3djlhYkdKRzM1V052WTluWGZRQ2lqVE9iQU92QVZCOS02WjZ6Ynd4a2JEYUUw0gHkAUFVX3lxTE11QVJOcDgtS2ZqMzBCRE9ZNG9rU2VEOGhvSGszQmhFRzdJX050MXMxMXBTSzJjakt3ZDN4NHZrbG05MDkwRGlBUDJRM1JscDhiZGcxeDJnV0cyWXdNbzktdVVUaTA2SGdIWWd6eEcyaWkzNjlNOWcwOVFZZnMzTmFoT2xlNC0zNFZIWllNS1VBbHZ3YmVjTDB3UTNMemtRV1h3djF3MENiQTFCclVncDFrQllGc2trdG9DZzJ3REhCMG80NjVSM01NNnAxUXhSTWVSR3B6eGh5U2VEWUprb2d6MjlnXw"
-    },
-    {
       "title": "The Federal Reserve Is Raising Red Flags, and the Stock Market Isn't Listening - AOL.com",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUHVScVZWbjROUF9jZFhqLWJ3b3h5Tmtnc21falh3VkNpdnF0aGJZeUtGQy1pZkthbV9QVXhUbzM4enh3aXFpMndXNkN4VUQ2bmJjdElFOEQ4VXJtVUduNE1XQmUzdGNtZnd4Y2Z1MktOT2lvV1czTThObFNnYkpIOA?oc=5",
       "source": "AOL.com",
       "published_at": "Sun, 22 Mar 2026 15:14:24 GMT",
       "summary": "The Federal Reserve Is Raising Red Flags, and the Stock Market Isn't Listening AOL.com",
       "guid": "CBMigAFBVV95cUxPUHVScVZWbjROUF9jZFhqLWJ3b3h5Tmtnc21falh3VkNpdnF0aGJZeUtGQy1pZkthbV9QVXhUbzM4enh3aXFpMndXNkN4VUQ2bmJjdElFOEQ4VXJtVUduNE1XQmUzdGNtZnd4Y2Z1MktOT2lvV1czTThObFNnYkpIOA"
+    },
+    {
+      "title": "US Stock Market | Warsh’s Big Task: Why balance sheet cuts may take years - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNWZxbHJoR3BMdDVueG5xVV9pajY0RTJQUGswLW9TdmtSNnZBSHYzS1FKdFRCS0tfN3hIZVVaelhDUzhheHY4MExUQ2h0Q1prSlp4d2RrSkFiY0tyMC1RaDFTbFczUTY1eW9DTzFXTWh5Mlg5anNHdXVKczJnQjZwRWNfaTl1SXlRX1ZPT1pBdjZnNHBxNFVNLVVFSXlsUmlSTnYwRDVrM3I5dFY0dEJjTWl3djlhYkdKRzM1V052WTluWGZRQ2lqVE9iQU92QVZCOS02WjZ6Ynd4a2JEYUUw0gHkAUFVX3lxTE11QVJOcDgtS2ZqMzBCRE9ZNG9rU2VEOGhvSGszQmhFRzdJX050MXMxMXBTSzJjakt3ZDN4NHZrbG05MDkwRGlBUDJRM1JscDhiZGcxeDJnV0cyWXdNbzktdVVUaTA2SGdIWWd6eEcyaWkzNjlNOWcwOVFZZnMzTmFoT2xlNC0zNFZIWllNS1VBbHZ3YmVjTDB3UTNMemtRV1h3djF3MENiQTFCclVncDFrQllGc2trdG9DZzJ3REhCMG80NjVSM01NNnAxUXhSTWVSR3B6eGh5U2VEWUprb2d6MjlnXw?oc=5",
+      "source": "The Economic Times",
+      "published_at": "Thu, 26 Mar 2026 03:27:44 GMT",
+      "summary": "US Stock Market | Warsh’s Big Task: Why balance sheet cuts may take years The Economic Times",
+      "guid": "CBMi3wFBVV95cUxNNWZxbHJoR3BMdDVueG5xVV9pajY0RTJQUGswLW9TdmtSNnZBSHYzS1FKdFRCS0tfN3hIZVVaelhDUzhheHY4MExUQ2h0Q1prSlp4d2RrSkFiY0tyMC1RaDFTbFczUTY1eW9DTzFXTWh5Mlg5anNHdXVKczJnQjZwRWNfaTl1SXlRX1ZPT1pBdjZnNHBxNFVNLVVFSXlsUmlSTnYwRDVrM3I5dFY0dEJjTWl3djlhYkdKRzM1V052WTluWGZRQ2lqVE9iQU92QVZCOS02WjZ6Ynd4a2JEYUUw0gHkAUFVX3lxTE11QVJOcDgtS2ZqMzBCRE9ZNG9rU2VEOGhvSGszQmhFRzdJX050MXMxMXBTSzJjakt3ZDN4NHZrbG05MDkwRGlBUDJRM1JscDhiZGcxeDJnV0cyWXdNbzktdVVUaTA2SGdIWWd6eEcyaWkzNjlNOWcwOVFZZnMzTmFoT2xlNC0zNFZIWllNS1VBbHZ3YmVjTDB3UTNMemtRV1h3djF3MENiQTFCclVncDFrQllGc2trdG9DZzJ3REhCMG80NjVSM01NNnAxUXhSTWVSR3B6eGh5U2VEWUprb2d6MjlnXw"
     },
     {
       "title": "Federal Reserve holds interest rates steady as inflation and hiring remain in focus - U.S. Bank",
