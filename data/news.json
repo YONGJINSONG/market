@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-03-26T01:14:58Z",
+  "generated_at": "2026-03-26T04:05:25Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "Federal Reserve Posted Loss of $18.7 Billion in 2025 - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxPSnpiaU1XOEVUYXFXRkFkbUs5RkJEaktQcEVmZWYtejZQYjFheHY1dFNWZ3ZQYmYwQzJ5MGpWUXI5dTl3SlNOMGgzU3h1aHpKaEs2ZG5tZGZKd3BRZURCS1E4aFpSdS0zQlk1V3hXbDQ1ZVA0ajRvZXU3RDlMY29MRVVPY1J5QXFvd3pFSll1YlRKZlhWOVlSaUZ6SDYtUHU3cnpfN2ZwQThHcnlTTEdZb3AwS1VSQ2dnREZKNHV2cGZhN3l2VXkxMENhTVJwQ1k3eGZxVnZuT1JNX2dPZzhITEd6N0JZSzVfVmYxd00wVDA5NE9uVzk5d0lzeVhZZERyQzNOdGQtd29fOF8zbGVpek5oTE5kVkttUkFxejg3QTF4d1JsaUY2VnR3V05EMmQ2WUNMZWdiU3AwZjlhNzRzbHdaY0xraVRPUFhjOG53Q0NQU0FkLW1VNG1CaC1nX3FIbzc5eDNOVEJBQi1fQlI4bGowMXNSU1JqaDlBenFSZlppTHlxUm5TUWhfYTZFYmFsTWZYSVVueE93YkZMRVNuNjdueEFWSzFJZmZrUQ?oc=5",
+      "source": "WSJ",
+      "published_at": "Wed, 25 Mar 2026 16:59:00 GMT",
+      "summary": "Federal Reserve Posted Loss of $18.7 Billion in 2025 WSJ",
+      "guid": "CBMirANBVV95cUxPSnpiaU1XOEVUYXFXRkFkbUs5RkJEaktQcEVmZWYtejZQYjFheHY1dFNWZ3ZQYmYwQzJ5MGpWUXI5dTl3SlNOMGgzU3h1aHpKaEs2ZG5tZGZKd3BRZURCS1E4aFpSdS0zQlk1V3hXbDQ1ZVA0ajRvZXU3RDlMY29MRVVPY1J5QXFvd3pFSll1YlRKZlhWOVlSaUZ6SDYtUHU3cnpfN2ZwQThHcnlTTEdZb3AwS1VSQ2dnREZKNHV2cGZhN3l2VXkxMENhTVJwQ1k3eGZxVnZuT1JNX2dPZzhITEd6N0JZSzVfVmYxd00wVDA5NE9uVzk5d0lzeVhZZERyQzNOdGQtd29fOF8zbGVpek5oTE5kVkttUkFxejg3QTF4d1JsaUY2VnR3V05EMmQ2WUNMZWdiU3AwZjlhNzRzbHdaY0xraVRPUFhjOG53Q0NQU0FkLW1VNG1CaC1nX3FIbzc5eDNOVEJBQi1fQlI4bGowMXNSU1JqaDlBenFSZlppTHlxUm5TUWhfYTZFYmFsTWZYSVVueE93YkZMRVNuNjdueEFWSzFJZmZrUQ"
+    },
     {
       "title": "The Federal Reserve Is Raising Red Flags, and the Stock Market Isn't Listening - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRjJsN0JkeGxvWlM2R2dFenRqOHZqRFlreGZsYjZHbTBtUVh4VGdDMHVQeS1IcGJZZXNHUFFSbFFJWHZmZDRtVG9XMURsOFJ4RmpnUHU3Q19fRlN4STBab1d2RXBNMVdoWGFUcVlmNzVYNG9LTG94VWVCdHpXUTJ1NF9yMzNPa2szdTV3UXM0ejB0NFE4UHVneFh0Rko?oc=5",
@@ -31,12 +39,12 @@
       "guid": "CBMimAFBVV95cUxQLURQbTZEUG04N3NLVElKUDIzMTdoN0RLOEp2dzdSSTA1bmlRckRIMUlzUmU3cFctX3U0eHZGcnh3cXVGYS0tRGlpNUR1dzhKWEdmWnh1Z0ZHSVVVZG1JY0d4UWo0Si1iYmZFYm9GZ1dEZGJGbGx5WExUTklLS05PRmlBc1FwWURzTGs3SEY2UkZULU1PdlYzVw"
     },
     {
-      "title": "Federal Reserve holds interest rates steady as inflation and hiring remain in focus - U.S. Bank",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa2V2OFo4WjFPclRZRGtjZXJvb3dsaDVUM3FjRnVCTkxfX184eHRyQjJ2NFlDc09TUlZrUDZGUzQzTjgyV1drNG9PSnc2Y0RELWZ5LVktLTlFcGFFa2s0Qm04RzRoYjNRSE9aSGw3aDljNFEyUEZJS1RNa203WlBLdmxxS2lWNmNXT0pRZGdDcGdqdEZ1YmMxN2lhci1RdVRMTEJtWE5wM3RJSFhGMXJjMjdqZw?oc=5",
-      "source": "U.S. Bank",
-      "published_at": "Thu, 19 Mar 2026 07:00:00 GMT",
-      "summary": "Federal Reserve holds interest rates steady as inflation and hiring remain in focus U.S. Bank",
-      "guid": "CBMiswFBVV95cUxOa2V2OFo4WjFPclRZRGtjZXJvb3dsaDVUM3FjRnVCTkxfX184eHRyQjJ2NFlDc09TUlZrUDZGUzQzTjgyV1drNG9PSnc2Y0RELWZ5LVktLTlFcGFFa2s0Qm04RzRoYjNRSE9aSGw3aDljNFEyUEZJS1RNa203WlBLdmxxS2lWNmNXT0pRZGdDcGdqdEZ1YmMxN2lhci1RdVRMTEJtWE5wM3RJSFhGMXJjMjdqZw"
+      "title": "US Stock Market | Warsh’s Big Task: Why balance sheet cuts may take years - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNWZxbHJoR3BMdDVueG5xVV9pajY0RTJQUGswLW9TdmtSNnZBSHYzS1FKdFRCS0tfN3hIZVVaelhDUzhheHY4MExUQ2h0Q1prSlp4d2RrSkFiY0tyMC1RaDFTbFczUTY1eW9DTzFXTWh5Mlg5anNHdXVKczJnQjZwRWNfaTl1SXlRX1ZPT1pBdjZnNHBxNFVNLVVFSXlsUmlSTnYwRDVrM3I5dFY0dEJjTWl3djlhYkdKRzM1V052WTluWGZRQ2lqVE9iQU92QVZCOS02WjZ6Ynd4a2JEYUUw0gHkAUFVX3lxTE11QVJOcDgtS2ZqMzBCRE9ZNG9rU2VEOGhvSGszQmhFRzdJX050MXMxMXBTSzJjakt3ZDN4NHZrbG05MDkwRGlBUDJRM1JscDhiZGcxeDJnV0cyWXdNbzktdVVUaTA2SGdIWWd6eEcyaWkzNjlNOWcwOVFZZnMzTmFoT2xlNC0zNFZIWllNS1VBbHZ3YmVjTDB3UTNMemtRV1h3djF3MENiQTFCclVncDFrQllGc2trdG9DZzJ3REhCMG80NjVSM01NNnAxUXhSTWVSR3B6eGh5U2VEWUprb2d6MjlnXw?oc=5",
+      "source": "The Economic Times",
+      "published_at": "Thu, 26 Mar 2026 03:27:44 GMT",
+      "summary": "US Stock Market | Warsh’s Big Task: Why balance sheet cuts may take years The Economic Times",
+      "guid": "CBMi3wFBVV95cUxNNWZxbHJoR3BMdDVueG5xVV9pajY0RTJQUGswLW9TdmtSNnZBSHYzS1FKdFRCS0tfN3hIZVVaelhDUzhheHY4MExUQ2h0Q1prSlp4d2RrSkFiY0tyMC1RaDFTbFczUTY1eW9DTzFXTWh5Mlg5anNHdXVKczJnQjZwRWNfaTl1SXlRX1ZPT1pBdjZnNHBxNFVNLVVFSXlsUmlSTnYwRDVrM3I5dFY0dEJjTWl3djlhYkdKRzM1V052WTluWGZRQ2lqVE9iQU92QVZCOS02WjZ6Ynd4a2JEYUUw0gHkAUFVX3lxTE11QVJOcDgtS2ZqMzBCRE9ZNG9rU2VEOGhvSGszQmhFRzdJX050MXMxMXBTSzJjakt3ZDN4NHZrbG05MDkwRGlBUDJRM1JscDhiZGcxeDJnV0cyWXdNbzktdVVUaTA2SGdIWWd6eEcyaWkzNjlNOWcwOVFZZnMzTmFoT2xlNC0zNFZIWllNS1VBbHZ3YmVjTDB3UTNMemtRV1h3djF3MENiQTFCclVncDFrQllGc2trdG9DZzJ3REhCMG80NjVSM01NNnAxUXhSTWVSR3B6eGh5U2VEWUprb2d6MjlnXw"
     },
     {
       "title": "The Federal Reserve Is Raising Red Flags, and the Stock Market Isn't Listening - AOL.com",
@@ -45,6 +53,14 @@
       "published_at": "Sun, 22 Mar 2026 15:14:24 GMT",
       "summary": "The Federal Reserve Is Raising Red Flags, and the Stock Market Isn't Listening AOL.com",
       "guid": "CBMigAFBVV95cUxPUHVScVZWbjROUF9jZFhqLWJ3b3h5Tmtnc21falh3VkNpdnF0aGJZeUtGQy1pZkthbV9QVXhUbzM4enh3aXFpMndXNkN4VUQ2bmJjdElFOEQ4VXJtVUduNE1XQmUzdGNtZnd4Y2Z1MktOT2lvV1czTThObFNnYkpIOA"
+    },
+    {
+      "title": "Federal Reserve holds interest rates steady as inflation and hiring remain in focus - U.S. Bank",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa2V2OFo4WjFPclRZRGtjZXJvb3dsaDVUM3FjRnVCTkxfX184eHRyQjJ2NFlDc09TUlZrUDZGUzQzTjgyV1drNG9PSnc2Y0RELWZ5LVktLTlFcGFFa2s0Qm04RzRoYjNRSE9aSGw3aDljNFEyUEZJS1RNa203WlBLdmxxS2lWNmNXT0pRZGdDcGdqdEZ1YmMxN2lhci1RdVRMTEJtWE5wM3RJSFhGMXJjMjdqZw?oc=5",
+      "source": "U.S. Bank",
+      "published_at": "Thu, 19 Mar 2026 07:00:00 GMT",
+      "summary": "Federal Reserve holds interest rates steady as inflation and hiring remain in focus U.S. Bank",
+      "guid": "CBMiswFBVV95cUxOa2V2OFo4WjFPclRZRGtjZXJvb3dsaDVUM3FjRnVCTkxfX184eHRyQjJ2NFlDc09TUlZrUDZGUzQzTjgyV1drNG9PSnc2Y0RELWZ5LVktLTlFcGFFa2s0Qm04RzRoYjNRSE9aSGw3aDljNFEyUEZJS1RNa203WlBLdmxxS2lWNmNXT0pRZGdDcGdqdEZ1YmMxN2lhci1RdVRMTEJtWE5wM3RJSFhGMXJjMjdqZw"
     },
     {
       "title": "Trump’s Iran War May Mark the Beginning of the End for Dollar-Backed US Empire - Truthout",
@@ -69,22 +85,6 @@
       "published_at": "Tue, 24 Mar 2026 12:00:58 GMT",
       "summary": "The First Federal Reserve Inflation Forecast for March Is In -- and It's Not Pretty The Globe and Mail",
       "guid": "CBMi9gFBVV95cUxPSGlXWF83Tml5clYtZkx4NlliWk5ySDVMT3ZLTk9GRm1zZ1JSaHlzVFg1WFBpRzNXb1VTbFZBSUxZaS1fdkpnOE55aUdrZVQwSkVYYTNjSFRtU00yYmt3TzdEVUZCa0o3ZlVhM0JrRDFHTXVNX3d6dDJ1OFY5XzZORklmUGZHRzBiYmowRFEtb3dYSGpIeVpNdVVMNl94ejlxTGYxQUltQlYwZzYtUllRZzNERlBIbmVYU0Q5Mks2SWVJdVgyS3Jxd2ludlEzcHNVRGNLUzhGVmxRS2htNkE0aWs2Yy1IMXY1TkRoUUNjdldmS3o1UEE"
-    },
-    {
-      "title": "Tracker: The Federal Reserve’s Balance Sheet Assets - The American Action Forum",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0?oc=5",
-      "source": "The American Action Forum",
-      "published_at": "Fri, 20 Mar 2026 07:00:00 GMT",
-      "summary": "Tracker: The Federal Reserve’s Balance Sheet Assets The American Action Forum",
-      "guid": "CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0"
-    },
-    {
-      "title": "Scatterplot of Inflation and the Share of Relative Price Increases - Federal Reserve Bank of Richmond",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWGswa3NHUE5OV2tzVVZESy1kUVVEdWstQllDb3VHNmZEaHE3aG5XLUFDR0p5NTM1T0tZQjRTUG43dVlwYXJXRENjNS1kUnBoTzZUaTJtQ1A3WnVZbGVxOVhuWEd5SzNJLXNNRTdZbmVhSGZ4SEhIdlNnTWtXaFl6RmdXelFtMVBVaEZFRGFSa3ZzN3JsQWRKY05tdWFzZw?oc=5",
-      "source": "Federal Reserve Bank of Richmond",
-      "published_at": "Fri, 13 Mar 2026 07:00:00 GMT",
-      "summary": "Scatterplot of Inflation and the Share of Relative Price Increases Federal Reserve Bank of Richmond",
-      "guid": "CBMingFBVV95cUxQWGswa3NHUE5OV2tzVVZESy1kUVVEdWstQllDb3VHNmZEaHE3aG5XLUFDR0p5NTM1T0tZQjRTUG43dVlwYXJXRENjNS1kUnBoTzZUaTJtQ1A3WnVZbGVxOVhuWEd5SzNJLXNNRTdZbmVhSGZ4SEhIdlNnTWtXaFl6RmdXelFtMVBVaEZFRGFSa3ZzN3JsQWRKY05tdWFzZw"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-26T01:21:14Z",
+  "generated_at": "2026-03-26T04:11:47Z",
   "benchmark": "SPY",
   "sectors": [
     {
@@ -241,10 +241,6 @@
       "symbol": "XLRE",
       "trail": [
         {
-          "rsRatio": 100.1,
-          "rsMomentum": 100.02
-        },
-        {
           "rsRatio": 98.79,
           "rsMomentum": 98.69
         },
@@ -259,6 +255,10 @@
         {
           "rsRatio": 97.47,
           "rsMomentum": 99.62
+        },
+        {
+          "rsRatio": 97.78,
+          "rsMomentum": 100.31
         }
       ]
     },
@@ -266,10 +266,6 @@
       "name": "Communication Services",
       "symbol": "XLC",
       "trail": [
-        {
-          "rsRatio": 99.24,
-          "rsMomentum": 99.93
-        },
         {
           "rsRatio": 100.24,
           "rsMomentum": 101.01
@@ -285,9 +281,13 @@
         {
           "rsRatio": 98.74,
           "rsMomentum": 99.92
+        },
+        {
+          "rsRatio": 98.93,
+          "rsMomentum": 100.2
         }
       ]
     }
   ],
-  "lastUpdated": "2026-03-26T01:21:14Z"
+  "lastUpdated": "2026-03-26T04:11:47Z"
 }
