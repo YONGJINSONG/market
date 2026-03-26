@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-26T20:04:11Z",
+  "generated_at": "2026-03-26T20:49:40Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -15,6 +15,14 @@
       "guid": "CBMinAFBVV95cUxQRjJsN0JkeGxvWlM2R2dFenRqOHZqRFlreGZsYjZHbTBtUVh4VGdDMHVQeS1IcGJZZXNHUFFSbFFJWHZmZDRtVG9XMURsOFJ4RmpnUHU3Q19fRlN4STBab1d2RXBNMVdoWGFUcVlmNzVYNG9LTG94VWVCdHpXUTJ1NF9yMzNPa2szdTV3UXM0ejB0NFE4UHVneFh0Rko"
     },
     {
+      "title": "Here's When the Fed Might Cut Interest Rates Again, and What It Means for the Stock Market - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLURQbTZEUG04N3NLVElKUDIzMTdoN0RLOEp2dzdSSTA1bmlRckRIMUlzUmU3cFctX3U0eHZGcnh3cXVGYS0tRGlpNUR1dzhKWEdmWnh1Z0ZHSVVVZG1JY0d4UWo0Si1iYmZFYm9GZ1dEZGJGbGx5WExUTklLS05PRmlBc1FwWURzTGs3SEY2UkZULU1PdlYzVw?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Mon, 23 Mar 2026 11:55:00 GMT",
+      "summary": "Here's When the Fed Might Cut Interest Rates Again, and What It Means for the Stock Market The Motley Fool",
+      "guid": "CBMimAFBVV95cUxQLURQbTZEUG04N3NLVElKUDIzMTdoN0RLOEp2dzdSSTA1bmlRckRIMUlzUmU3cFctX3U0eHZGcnh3cXVGYS0tRGlpNUR1dzhKWEdmWnh1Z0ZHSVVVZG1JY0d4UWo0Si1iYmZFYm9GZ1dEZGJGbGx5WExUTklLS05PRmlBc1FwWURzTGs3SEY2UkZULU1PdlYzVw"
+    },
+    {
       "title": "What a Fed Rate Hike Could Mean for These Key Stock Sectors - Morningstar",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcDlaUGNFLWVrSEs5RjZnRW1BeVpHU2ZhM29EM0hzbkdyWFpiSXBzTlI0UUN1clptLVU2b2JVREZadUtFSGNuUUF6aTZmN0FLa2tEdlhiWG1CQmI5emo1TkpmUmtCTEJleHo5aV9IUndBZkdJaUhjaFhyZlhFWUtuNjk5MFlQbHhTSXpqSnVVTXZtdw?oc=5",
       "source": "Morningstar",
@@ -23,36 +31,12 @@
       "guid": "CBMikgFBVV95cUxQcDlaUGNFLWVrSEs5RjZnRW1BeVpHU2ZhM29EM0hzbkdyWFpiSXBzTlI0UUN1clptLVU2b2JVREZadUtFSGNuUUF6aTZmN0FLa2tEdlhiWG1CQmI5emo1TkpmUmtCTEJleHo5aV9IUndBZkdJaUhjaFhyZlhFWUtuNjk5MFlQbHhTSXpqSnVVTXZtdw"
     },
     {
-      "title": "Why are US stock market futures down today, and will Dow, S&P 500 and Nasdaq stay in red or turn green aga - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxOM2dwdzM4SzdhX3FzVlpiRGVReVd6RWZQOUpHT3hYWWltbDh1TVpiWkNiS2t2eFNiei1teFJYOFNjT001VXJ2Nmt0c0s0VzY1UE42eDJTN2JDVUo3cWwweWxxUnRkeTZubElkNFlaUWlpV1VmX1dfTW80Q05iREphMG9lVWtKM0tzUEV3RjQ0b1RtRW5zbDNIM3BLejNsNEtZWDFlQmJfMWpCRkJfcTJVaFN6Y2pQblBYeTFyRjN6YUZXYUZsNkpaTnNOSm9NYXFQMjJDcXFyMGtpTGV0cFZOalc1VThCRGpkVmxBNVF1dXJ6SHpxZnVxbkszN2JDZWtlbUdYcTVZUjROWERXa2t4a3d0bTd1XzR3VTVnUXNlYzg3U2FQOEEzMFh3VWlYOVpVRXp5dHFHM01OTjhmSWlzX0ozRTNHY19BcF9na3pfSEFDRkE0OWowTkVsbGJrNGkwa3BJLTdjQXpxNnYxZ3hWdzdxZzAyNXpoOE95dGMtbzNRbUliQXJ0UdIBjgNBVV95cUxOb21oMDE0NHFKZGwwdzBVQXFVcVNib2dkUWVLSFZZTmhHUVhCaW9rTkxhczRnTzFEU1U3Q1NkMVZlVmJLcTduY3pSQ2NvMk5kTlRsVHhBY1RVMnZQSEJiaDJfNnMyamNHaS11WEtfajhFVG5vRXlLaTZGZ2xVeDRPSlplNXlOaXdVWWhiMVhmd1ZYWUJnOXJpZE56ZjRKVWp2ZUNveWJtTWJ2cG9EYURCdzY0OFluMDNpZDh3YVc0dnlSVUFwRklKRmMyZVdOTG9yWWxKRldzTlJaYUlMQzB2RnN6Tml2S0VJUkl3bTVGT0xUYnpzX0RWV1htSkc3b0lELU55T2dOS08yWElsWGo5QnluQ0VKNFd5N3FZYTdQRnpEU0FGVlZyeFA2d01Wd1NvV0xWV0lmWUxPTkRaN1B3WUFpWHplTzJYenZPaExmcXdvQmkyWW9IdmczdHdnVFdsNDdsVUZPVnVFZE9qNFNOXzVLMFlEVllxT2cwTmdrdk9IZGtFaDBZcFFNdVM2Zw?oc=5",
-      "source": "The Economic Times",
-      "published_at": "Thu, 26 Mar 2026 12:52:14 GMT",
-      "summary": "Why are US stock market futures down today, and will Dow, S&P 500 and Nasdaq stay in red or turn green aga The Economic Times",
-      "guid": "CBMiiANBVV95cUxOM2dwdzM4SzdhX3FzVlpiRGVReVd6RWZQOUpHT3hYWWltbDh1TVpiWkNiS2t2eFNiei1teFJYOFNjT001VXJ2Nmt0c0s0VzY1UE42eDJTN2JDVUo3cWwweWxxUnRkeTZubElkNFlaUWlpV1VmX1dfTW80Q05iREphMG9lVWtKM0tzUEV3RjQ0b1RtRW5zbDNIM3BLejNsNEtZWDFlQmJfMWpCRkJfcTJVaFN6Y2pQblBYeTFyRjN6YUZXYUZsNkpaTnNOSm9NYXFQMjJDcXFyMGtpTGV0cFZOalc1VThCRGpkVmxBNVF1dXJ6SHpxZnVxbkszN2JDZWtlbUdYcTVZUjROWERXa2t4a3d0bTd1XzR3VTVnUXNlYzg3U2FQOEEzMFh3VWlYOVpVRXp5dHFHM01OTjhmSWlzX0ozRTNHY19BcF9na3pfSEFDRkE0OWowTkVsbGJrNGkwa3BJLTdjQXpxNnYxZ3hWdzdxZzAyNXpoOE95dGMtbzNRbUliQXJ0UdIBjgNBVV95cUxOb21oMDE0NHFKZGwwdzBVQXFVcVNib2dkUWVLSFZZTmhHUVhCaW9rTkxhczRnTzFEU1U3Q1NkMVZlVmJLcTduY3pSQ2NvMk5kTlRsVHhBY1RVMnZQSEJiaDJfNnMyamNHaS11WEtfajhFVG5vRXlLaTZGZ2xVeDRPSlplNXlOaXdVWWhiMVhmd1ZYWUJnOXJpZE56ZjRKVWp2ZUNveWJtTWJ2cG9EYURCdzY0OFluMDNpZDh3YVc0dnlSVUFwRklKRmMyZVdOTG9yWWxKRldzTlJaYUlMQzB2RnN6Tml2S0VJUkl3bTVGT0xUYnpzX0RWV1htSkc3b0lELU55T2dOS08yWElsWGo5QnluQ0VKNFd5N3FZYTdQRnpEU0FGVlZyeFA2d01Wd1NvV0xWV0lmWUxPTkRaN1B3WUFpWHplTzJYenZPaExmcXdvQmkyWW9IdmczdHdnVFdsNDdsVUZPVnVFZE9qNFNOXzVLMFlEVllxT2cwTmdrdk9IZGtFaDBZcFFNdVM2Zw"
-    },
-    {
-      "title": "The research firm whose AI paper knocked the whole stock market is out with another big call - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOekY0bHhNVXlmeVR6YUV1NFhSN1RXcG9CUEZldHM3N0h0Vk42b2c4M1ZSYmcyZkFkOVJlWEc1SDVjTGlabm9NSmRUSFU5TmhaTXNpeVZ1YUZhcVJHRmxXc3h1QTQxeXNKNG04VGRkMWxhZHZ1dGo1OGp1bXZHQnFXU1c2YnpjNUdvUXlLbi1EX2NfS3hFeWU2Rm5abmxKU2w1VGFCc2FacUVidmM2SERMc2d6OVTSAboBQVVfeXFMT3RkNWpCVTJvMmtrQm5seDBGU1pqOVJnRDgtUXEtV01wVEtsYVRDVkZBalM5bHVVUEtGd1kycW5qUlpoN080Ym0tZFVwQ2hxOTZsN3NLbzlGMHdIS0UtLTlQcEE2UE5mcmtuQjVoaWtGUDVjM3dpY2RBTEp4bng1cElEN2JWaTBkQ2M2M0RJVlVpY21fcElzaWlxMXkxVWpNNVdxdmstRTluVXhrWjBwdVgwLWptaC1JWFdn?oc=5",
-      "source": "CNBC",
-      "published_at": "Wed, 25 Mar 2026 16:49:06 GMT",
-      "summary": "The research firm whose AI paper knocked the whole stock market is out with another big call CNBC",
-      "guid": "CBMitAFBVV95cUxOekY0bHhNVXlmeVR6YUV1NFhSN1RXcG9CUEZldHM3N0h0Vk42b2c4M1ZSYmcyZkFkOVJlWEc1SDVjTGlabm9NSmRUSFU5TmhaTXNpeVZ1YUZhcVJHRmxXc3h1QTQxeXNKNG04VGRkMWxhZHZ1dGo1OGp1bXZHQnFXU1c2YnpjNUdvUXlLbi1EX2NfS3hFeWU2Rm5abmxKU2w1VGFCc2FacUVidmM2SERMc2d6OVTSAboBQVVfeXFMT3RkNWpCVTJvMmtrQm5seDBGU1pqOVJnRDgtUXEtV01wVEtsYVRDVkZBalM5bHVVUEtGd1kycW5qUlpoN080Ym0tZFVwQ2hxOTZsN3NLbzlGMHdIS0UtLTlQcEE2UE5mcmtuQjVoaWtGUDVjM3dpY2RBTEp4bng1cElEN2JWaTBkQ2M2M0RJVlVpY21fcElzaWlxMXkxVWpNNVdxdmstRTluVXhrWjBwdVgwLWptaC1JWFdn"
-    },
-    {
       "title": "Federal Reserve Posted Loss of $18.7 Billion in 2025 - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxPMlVoT3UwX0Q3MURoN3FrR3pFSUF2bVJ6aUk4N05tbjFZUUgxTDVjX25TZU8yUGw1NVNiT0l1MzNMRkN1Y1ZQRjB2Z0JmdUxFSTZPMWFKUGZOMVdHTndacjhsUU5LaTdZVlduWjJLRm5SS0c0bkVHb2ZPOXVPM1NzaERTb0I3VEVJay1tYmhYLWZMTkxzLTlNMGkxZzFKVmpLZURZT0dnRzl5NXBJZW5QWmZsVExQaW9yeDZPQnhlNm84bGt4dlFYZWV0Q05OaUw0ZTZYZS1tdzhHUzZZUWxEXzA5ak5mb0NXMTZKWFdQRnQxWEluQlVLU2lJaGVtVmZSTEoxekhDTHczbTZ0TTRKWl9YVVduUUtPUDM1UTJmTnNreWhET0VYUUZVX1djeldUeDJnQXdocU90a2JHNm9FcDN1Skloc0lmM2xEM2Q4OUhlZ25LNGM5MlVVcDd2RzAzTWlTUUs5NXR1UXY1T1FpNjRSWEhBU1Qwd2M0dU1NeW16YUV3XzBaMmptOEFWaTVZZFUyUVVvOWdRWVpKR2RpaEhnM0Y1dHE0ZE5FUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxNMWQwVGtkQm4tbEd0Nmd0WE1IRDlETUxVcVRTZ0k2YlYxcEllWjY1dTMtVjA1aUNVM1VZWDVQNGROVGY0Z3RQSjVScmp4NnNRRVhjQkUwUmdvM3dpTVc1Rm5JSDFIbENvb0VjdnBMLUJDX19tT3BIQ0F5RVJVR1pzUnR1WXl2WkFvVTUzRGlmNmw3STcxVERMeEJtUlk5bHhTQWt2MDZkSjhwMUpKM3YzY1dMbEdfQTdnODlvTmxOZkp0SXZGcXhGZWhybEhHVlRzMWNrRTBmTkRvT292RnY2ajdWTm1BTzJoLWtfdmk2Rlp2WXRfUTgxUUNKR0x0LWl1Y21rbHhhU3hvVVVpSTQ4TDBCXzdXQ2VFcWs2bTBQeGd0M3U1bEVQbU1XX1RmaE5kVkIxQUZCMlBTdEtPVGV1eDFJT0ZsM1ZXNGxfcmJXOV9HY2w0bmRKUGtRMk9lY2l5Y3hHR2Q4dE9fZk90bUdieG1SZ0J0VVJFLW1Id2RkczlJVUxwZmZzd1E3T0dyVGdTX2FtSEFqRW50b1RZNTJTY2dXWWF0ZjhmY1NkNg?oc=5",
       "source": "WSJ",
       "published_at": "Wed, 25 Mar 2026 16:59:00 GMT",
       "summary": "Federal Reserve Posted Loss of $18.7 Billion in 2025 WSJ",
-      "guid": "CBMirANBVV95cUxPMlVoT3UwX0Q3MURoN3FrR3pFSUF2bVJ6aUk4N05tbjFZUUgxTDVjX25TZU8yUGw1NVNiT0l1MzNMRkN1Y1ZQRjB2Z0JmdUxFSTZPMWFKUGZOMVdHTndacjhsUU5LaTdZVlduWjJLRm5SS0c0bkVHb2ZPOXVPM1NzaERTb0I3VEVJay1tYmhYLWZMTkxzLTlNMGkxZzFKVmpLZURZT0dnRzl5NXBJZW5QWmZsVExQaW9yeDZPQnhlNm84bGt4dlFYZWV0Q05OaUw0ZTZYZS1tdzhHUzZZUWxEXzA5ak5mb0NXMTZKWFdQRnQxWEluQlVLU2lJaGVtVmZSTEoxekhDTHczbTZ0TTRKWl9YVVduUUtPUDM1UTJmTnNreWhET0VYUUZVX1djeldUeDJnQXdocU90a2JHNm9FcDN1Skloc0lmM2xEM2Q4OUhlZ25LNGM5MlVVcDd2RzAzTWlTUUs5NXR1UXY1T1FpNjRSWEhBU1Qwd2M0dU1NeW16YUV3XzBaMmptOEFWaTVZZFUyUVVvOWdRWVpKR2RpaEhnM0Y1dHE0ZE5FUQ"
-    },
-    {
-      "title": "How Changing Interest Rates Affect Bonds - U.S. Bank",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZFhSQmZsVVZfQUZjT2pUOEFvdUI3SzFacnlsem9WU2RqbGx2c2ZyVFljSHJkakNJZ2lvaUk3UnZtSmVKTDF0V25mZzV4Q1BKbURaT2FzbDZYVlc3VHZqVVQ3RUxzclYxcFQ4M2x0OW12Y3hiV2Y3OW1fejdGbmlUZnYwTTg0anBqeW82RVp2MzU2Y182NV9RQTgzamxhYTFtbnc?oc=5",
-      "source": "U.S. Bank",
-      "published_at": "Mon, 23 Mar 2026 07:00:00 GMT",
-      "summary": "How Changing Interest Rates Affect Bonds U.S. Bank",
-      "guid": "CBMiogFBVV95cUxOZFhSQmZsVVZfQUZjT2pUOEFvdUI3SzFacnlsem9WU2RqbGx2c2ZyVFljSHJkakNJZ2lvaUk3UnZtSmVKTDF0V25mZzV4Q1BKbURaT2FzbDZYVlc3VHZqVVQ3RUxzclYxcFQ4M2x0OW12Y3hiV2Y3OW1fejdGbmlUZnYwTTg0anBqeW82RVp2MzU2Y182NV9RQTgzamxhYTFtbnc"
+      "guid": "CBMirANBVV95cUxNMWQwVGtkQm4tbEd0Nmd0WE1IRDlETUxVcVRTZ0k2YlYxcEllWjY1dTMtVjA1aUNVM1VZWDVQNGROVGY0Z3RQSjVScmp4NnNRRVhjQkUwUmdvM3dpTVc1Rm5JSDFIbENvb0VjdnBMLUJDX19tT3BIQ0F5RVJVR1pzUnR1WXl2WkFvVTUzRGlmNmw3STcxVERMeEJtUlk5bHhTQWt2MDZkSjhwMUpKM3YzY1dMbEdfQTdnODlvTmxOZkp0SXZGcXhGZWhybEhHVlRzMWNrRTBmTkRvT292RnY2ajdWTm1BTzJoLWtfdmk2Rlp2WXRfUTgxUUNKR0x0LWl1Y21rbHhhU3hvVVVpSTQ4TDBCXzdXQ2VFcWs2bTBQeGd0M3U1bEVQbU1XX1RmaE5kVkIxQUZCMlBTdEtPVGV1eDFJT0ZsM1ZXNGxfcmJXOV9HY2w0bmRKUGtRMk9lY2l5Y3hHR2Q4dE9fZk90bUdieG1SZ0J0VVJFLW1Id2RkczlJVUxwZmZzd1E3T0dyVGdTX2FtSEFqRW50b1RZNTJTY2dXWWF0ZjhmY1NkNg"
     },
     {
       "title": "Stock Market Today: Nasdaq Falls, Oil Pushes Past $100 Again - Eurasia Business News",
@@ -63,20 +47,20 @@
       "guid": "CBMiowFBVV95cUxOakNkZ0syUE93VU5rRG1fTzliOFRMNjd1a25yN0tySXd0bkpiZk5KR3MyY0k1Rno2cDN5Yk91NGUwb3U0RF9jV09hSEc2UkJfY1N6azV6Tkl3ajlKSTFrOTVTdlZBaGJLc3FUaTE2dVJseHljdGlEd2kzNy1NRW9hLXhpOXpTZE5JcGZVcmtqT2tpbTJaQmxyYzgybVZVVzdYRHhj"
     },
     {
-      "title": "The Projected Federal Reserve Script Has Been Flipped -- and the Stock Market Isn't Ready for It - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMVc0YTRRME4yVDgwVmZxcmFUbHVDX1NLSk9NUHQyQ0ViQURQMWMxQ3FzZnhxUUhjekV3MWxyelAwRmhYQ2o3cDhIUXV2T0RONDc1cDB0Z2wzRExJTnloUTRTLUk4dnVRS0VaRWIwZnY1SlBpQTM3ZWVvWXBzNnlMSTFZTHoweGFiOHc?oc=5",
-      "source": "AOL.com",
-      "published_at": "Mon, 23 Mar 2026 08:26:00 GMT",
-      "summary": "The Projected Federal Reserve Script Has Been Flipped -- and the Stock Market Isn't Ready for It AOL.com",
-      "guid": "CBMiigFBVV95cUxNMVc0YTRRME4yVDgwVmZxcmFUbHVDX1NLSk9NUHQyQ0ViQURQMWMxQ3FzZnhxUUhjekV3MWxyelAwRmhYQ2o3cDhIUXV2T0RONDc1cDB0Z2wzRExJTnloUTRTLUk4dnVRS0VaRWIwZnY1SlBpQTM3ZWVvWXBzNnlMSTFZTHoweGFiOHc"
+      "title": "Federal Reserve holds interest rates steady as inflation and hiring remain in focus - U.S. Bank",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa2V2OFo4WjFPclRZRGtjZXJvb3dsaDVUM3FjRnVCTkxfX184eHRyQjJ2NFlDc09TUlZrUDZGUzQzTjgyV1drNG9PSnc2Y0RELWZ5LVktLTlFcGFFa2s0Qm04RzRoYjNRSE9aSGw3aDljNFEyUEZJS1RNa203WlBLdmxxS2lWNmNXT0pRZGdDcGdqdEZ1YmMxN2lhci1RdVRMTEJtWE5wM3RJSFhGMXJjMjdqZw?oc=5",
+      "source": "U.S. Bank",
+      "published_at": "Thu, 19 Mar 2026 07:00:00 GMT",
+      "summary": "Federal Reserve holds interest rates steady as inflation and hiring remain in focus U.S. Bank",
+      "guid": "CBMiswFBVV95cUxOa2V2OFo4WjFPclRZRGtjZXJvb3dsaDVUM3FjRnVCTkxfX184eHRyQjJ2NFlDc09TUlZrUDZGUzQzTjgyV1drNG9PSnc2Y0RELWZ5LVktLTlFcGFFa2s0Qm04RzRoYjNRSE9aSGw3aDljNFEyUEZJS1RNa203WlBLdmxxS2lWNmNXT0pRZGdDcGdqdEZ1YmMxN2lhci1RdVRMTEJtWE5wM3RJSFhGMXJjMjdqZw"
     },
     {
-      "title": "The Projected Federal Reserve Script Has Been Flipped -- and the Stock Market Isn't Ready for It - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOHdCNWQwSGhJMGpxZFRVZ0Jfal9QdS1zaGphaE5fU1JpRy1FZDlZaTg1Zno1MnZFWElwLXFrbDlHZmRIbDA3VERjMUs0N0EtV09lQWt3YkpuYUxBaDYzLWhrSVhOV2RqbG8yWkNkMjNxOXFOR1hRdnZSY195clR0dVBzQWUyU3p5OTk2WUtEV3JadEwweFpr?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Mon, 23 Mar 2026 09:06:00 GMT",
-      "summary": "The Projected Federal Reserve Script Has Been Flipped -- and the Stock Market Isn't Ready for It The Motley Fool",
-      "guid": "CBMilwFBVV95cUxPOHdCNWQwSGhJMGpxZFRVZ0Jfal9QdS1zaGphaE5fU1JpRy1FZDlZaTg1Zno1MnZFWElwLXFrbDlHZmRIbDA3VERjMUs0N0EtV09lQWt3YkpuYUxBaDYzLWhrSVhOV2RqbG8yWkNkMjNxOXFOR1hRdnZSY195clR0dVBzQWUyU3p5OTk2WUtEV3JadEwweFpr"
+      "title": "Tracker: The Federal Reserve’s Balance Sheet Assets - The American Action Forum",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0?oc=5",
+      "source": "The American Action Forum",
+      "published_at": "Fri, 20 Mar 2026 07:00:00 GMT",
+      "summary": "Tracker: The Federal Reserve’s Balance Sheet Assets The American Action Forum",
+      "guid": "CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0"
     },
     {
       "title": "Trump’s Iran War May Mark the Beginning of the End for Dollar-Backed US Empire - Truthout",
@@ -85,6 +69,22 @@
       "published_at": "Tue, 24 Mar 2026 20:25:00 GMT",
       "summary": "Trump’s Iran War May Mark the Beginning of the End for Dollar-Backed US Empire Truthout",
       "guid": "CBMirAFBVV95cUxOV2NQazF4Z0ctRm9ZVzNMRnI0RlZhaENid0k3OXhSYkcwdURYMkRXODAyTk5HQTg1T25ELTNpdURMRWRSU05NLXlRZzJac0VBOThreWE4Q2dMRVpORjB4ZkVydGE3ZlZqUHhwZmlrX3NHNmtXdWw1QVFaOG1rVTJIT09wLUNEakJVdUJhN3A5cDlJTXJYQXd3NEJDeHBuc0JGQVlBR05PTDJQYU5R"
+    },
+    {
+      "title": "The Projected Federal Reserve Script Has Been Flipped -- and the Stock Market Isn't Ready for It - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRVdrMU93Z0VraktQR25Qc3Q0ckZVYWJzVXJVQ1FLT3hCZ0Yya1R4bG0zV2tvUHJRSEJyMkVJNW1odDI0RXI0eENxOFV3LTZfbWFIcTZSRFRoeF9JUzJxZkttSTA1Y1BOS1hQeUZTdk9IaVBKLTVzNXZFREVkaTBPR1ZvVUt6U3lTMHNhWW9XenlPTS1tU00zTFRiUkx2T185Wm9QRXB3?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Mon, 23 Mar 2026 08:26:00 GMT",
+      "summary": "The Projected Federal Reserve Script Has Been Flipped -- and the Stock Market Isn't Ready for It Yahoo Finance",
+      "guid": "CBMipgFBVV95cUxPRVdrMU93Z0VraktQR25Qc3Q0ckZVYWJzVXJVQ1FLT3hCZ0Yya1R4bG0zV2tvUHJRSEJyMkVJNW1odDI0RXI0eENxOFV3LTZfbWFIcTZSRFRoeF9JUzJxZkttSTA1Y1BOS1hQeUZTdk9IaVBKLTVzNXZFREVkaTBPR1ZvVUt6U3lTMHNhWW9XenlPTS1tU00zTFRiUkx2T185Wm9QRXB3"
+    },
+    {
+      "title": "Scatterplot of Inflation and the Share of Relative Price Increases - Federal Reserve Bank of Richmond",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWGswa3NHUE5OV2tzVVZESy1kUVVEdWstQllDb3VHNmZEaHE3aG5XLUFDR0p5NTM1T0tZQjRTUG43dVlwYXJXRENjNS1kUnBoTzZUaTJtQ1A3WnVZbGVxOVhuWEd5SzNJLXNNRTdZbmVhSGZ4SEhIdlNnTWtXaFl6RmdXelFtMVBVaEZFRGFSa3ZzN3JsQWRKY05tdWFzZw?oc=5",
+      "source": "Federal Reserve Bank of Richmond",
+      "published_at": "Fri, 13 Mar 2026 07:00:00 GMT",
+      "summary": "Scatterplot of Inflation and the Share of Relative Price Increases Federal Reserve Bank of Richmond",
+      "guid": "CBMingFBVV95cUxQWGswa3NHUE5OV2tzVVZESy1kUVVEdWstQllDb3VHNmZEaHE3aG5XLUFDR0p5NTM1T0tZQjRTUG43dVlwYXJXRENjNS1kUnBoTzZUaTJtQ1A3WnVZbGVxOVhuWEd5SzNJLXNNRTdZbmVhSGZ4SEhIdlNnTWtXaFl6RmdXelFtMVBVaEZFRGFSa3ZzN3JsQWRKY05tdWFzZw"
     }
   ]
 }
