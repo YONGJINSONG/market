@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-26T22:17:18Z",
+  "generated_at": "2026-03-26T22:53:32Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -24,11 +24,11 @@
     },
     {
       "title": "Federal Reserve Posted Loss of $18.7 Billion in 2025 - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxOcU52cldPcTdodkRfclVkbFUwazBrajdMS3BJenZ3U3hSUE9nMjJCaWc4UFJXczlBaVZQZWZMVWNhZ3YtX0RrSVNBT2hTWkMwbVlYbHZCLUZva2JWVG5RNGhUYWxpWl8wWWN4Vzd6VzhVZ0VFaUhuNW9KQVlvZ3UxMlpFUnAtZHpHNG1ZZ2pjX2JKQmo4cFpiQkJrXzlwdzBqSmx5Nk83VTdIbk9GR0dmUGFvQjFReDZHREhZN2h0QS1Ma3dIN1lSaDdwMm9HR3Fnb2R5ZllIaTFVSnRtdjYxVEt6d1diQlU0WDlGVDZ3SXZiT0k4Y0VueTItWGpxLXV6bUM2V0RLenROYkdiTG43Ulk2UnBnYzRaZkxxSE9wVFBIUW84TTJBR2pSbVlGajgxSjhXZmVJangtRXRMSUV3Ny1YTjBjV0EzTnRKYXNWX0FTMEVITUgzRzVkOUMzQ19JdzNmT1pxV3hlVGVud0VCRmltdjQ2UW9tc3JWdFNRLTdfWkVKT1poaHBPOEd3blNWVXlZRXNka25SWEh2VEJkX2lxWFRjN052ZkNiYw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxPR25JZmY5WHFlQWl3QUFOWkRMUDFNakVOelV0NmpIbDNjRmx0czNtaUo2bmdib1lBZUpiTnE2bWhmejFLSC03WXZXQzVHVEo0ZlVpZ1NkYXIyNUtNRTRvUWdYeTY3MEFjaWhFTnlBa0FwTTBVSU9VLWw1UWNJWEFpRUduRnh6Ri1sX3VyX3FLLURNb3g1OEZIZ1pnQXQ2aFdFZGtNSHNWTHNFOE9EWmtqNHVQblpmRXI5QkM1WmpKTlZDbGdjSlNRbVBfZ2dSQ2lmcjRRT1BKMy1rUkpsLU5jV1ozV2IwOURxSVQyMXJISTFVd3d5cUhlZi14UmFGSFp3WkVuYktITVFsTjlzY0Etd0E1Q25YX0RYNWZ2M1lLQ0l0SFVTTUNscWJ5MjZpNWc0WmRKVXJZaDJLLURNVExQZU1uVU5tREcyT3VKQmgtNUFhdjlVX2p5UUJlWThDbUR6ZVJ2VmMxbzFLS2UtbXBaQnkxaDRwYjMtOExQMG5OYU5IdG9iYlctYmpmdU1henc1X1A5Z1AtWW5GNW1BNzA5OUwyS0Jjc1BGMDNLVA?oc=5",
       "source": "WSJ",
       "published_at": "Wed, 25 Mar 2026 16:59:00 GMT",
       "summary": "Federal Reserve Posted Loss of $18.7 Billion in 2025 WSJ",
-      "guid": "CBMirANBVV95cUxOcU52cldPcTdodkRfclVkbFUwazBrajdMS3BJenZ3U3hSUE9nMjJCaWc4UFJXczlBaVZQZWZMVWNhZ3YtX0RrSVNBT2hTWkMwbVlYbHZCLUZva2JWVG5RNGhUYWxpWl8wWWN4Vzd6VzhVZ0VFaUhuNW9KQVlvZ3UxMlpFUnAtZHpHNG1ZZ2pjX2JKQmo4cFpiQkJrXzlwdzBqSmx5Nk83VTdIbk9GR0dmUGFvQjFReDZHREhZN2h0QS1Ma3dIN1lSaDdwMm9HR3Fnb2R5ZllIaTFVSnRtdjYxVEt6d1diQlU0WDlGVDZ3SXZiT0k4Y0VueTItWGpxLXV6bUM2V0RLenROYkdiTG43Ulk2UnBnYzRaZkxxSE9wVFBIUW84TTJBR2pSbVlGajgxSjhXZmVJangtRXRMSUV3Ny1YTjBjV0EzTnRKYXNWX0FTMEVITUgzRzVkOUMzQ19JdzNmT1pxV3hlVGVud0VCRmltdjQ2UW9tc3JWdFNRLTdfWkVKT1poaHBPOEd3blNWVXlZRXNka25SWEh2VEJkX2lxWFRjN052ZkNiYw"
+      "guid": "CBMirANBVV95cUxPR25JZmY5WHFlQWl3QUFOWkRMUDFNakVOelV0NmpIbDNjRmx0czNtaUo2bmdib1lBZUpiTnE2bWhmejFLSC03WXZXQzVHVEo0ZlVpZ1NkYXIyNUtNRTRvUWdYeTY3MEFjaWhFTnlBa0FwTTBVSU9VLWw1UWNJWEFpRUduRnh6Ri1sX3VyX3FLLURNb3g1OEZIZ1pnQXQ2aFdFZGtNSHNWTHNFOE9EWmtqNHVQblpmRXI5QkM1WmpKTlZDbGdjSlNRbVBfZ2dSQ2lmcjRRT1BKMy1rUkpsLU5jV1ozV2IwOURxSVQyMXJISTFVd3d5cUhlZi14UmFGSFp3WkVuYktITVFsTjlzY0Etd0E1Q25YX0RYNWZ2M1lLQ0l0SFVTTUNscWJ5MjZpNWc0WmRKVXJZaDJLLURNVExQZU1uVU5tREcyT3VKQmgtNUFhdjlVX2p5UUJlWThDbUR6ZVJ2VmMxbzFLS2UtbXBaQnkxaDRwYjMtOExQMG5OYU5IdG9iYlctYmpmdU1henc1X1A5Z1AtWW5GNW1BNzA5OUwyS0Jjc1BGMDNLVA"
     },
     {
       "title": "Stock Market Today: Nasdaq Falls, Oil Pushes Past $100 Again - Eurasia Business News",
@@ -45,6 +45,14 @@
       "published_at": "Thu, 19 Mar 2026 07:00:00 GMT",
       "summary": "Federal Reserve holds interest rates steady as inflation and hiring remain in focus U.S. Bank",
       "guid": "CBMiswFBVV95cUxOa2V2OFo4WjFPclRZRGtjZXJvb3dsaDVUM3FjRnVCTkxfX184eHRyQjJ2NFlDc09TUlZrUDZGUzQzTjgyV1drNG9PSnc2Y0RELWZ5LVktLTlFcGFFa2s0Qm04RzRoYjNRSE9aSGw3aDljNFEyUEZJS1RNa203WlBLdmxxS2lWNmNXT0pRZGdDcGdqdEZ1YmMxN2lhci1RdVRMTEJtWE5wM3RJSFhGMXJjMjdqZw"
+    },
+    {
+      "title": "Federal Funds Rate History: 1980 Through The Present - Bankrate",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUl9LVEFpUDE0MV9QdUdrY2tJTlJYQzdJQURzUG5PSENETk1YMHBtY09RZVJteHc0SFdPeWF6ZF9oWklZaWxndVRNS2xqZWJONzVWZWpBT19qdmpaVHI0QkZVOHhtWl9EUU9yenZLY3RPZHFPRGpVMm1NbjZNOHJwSlBONFpvZw?oc=5",
+      "source": "Bankrate",
+      "published_at": "Tue, 24 Mar 2026 07:00:00 GMT",
+      "summary": "Federal Funds Rate History: 1980 Through The Present Bankrate",
+      "guid": "CBMihgFBVV95cUxOUl9LVEFpUDE0MV9QdUdrY2tJTlJYQzdJQURzUG5PSENETk1YMHBtY09RZVJteHc0SFdPeWF6ZF9oWklZaWxndVRNS2xqZWJONzVWZWpBT19qdmpaVHI0QkZVOHhtWl9EUU9yenZLY3RPZHFPRGpVMm1NbjZNOHJwSlBONFpvZw"
     },
     {
       "title": "Tracker: The Federal Reserve’s Balance Sheet Assets - The American Action Forum",
@@ -77,14 +85,6 @@
       "published_at": "Mon, 23 Mar 2026 08:26:00 GMT",
       "summary": "The Projected Federal Reserve Script Has Been Flipped -- and the Stock Market Isn't Ready for It Yahoo Finance",
       "guid": "CBMipgFBVV95cUxPRVdrMU93Z0VraktQR25Qc3Q0ckZVYWJzVXJVQ1FLT3hCZ0Yya1R4bG0zV2tvUHJRSEJyMkVJNW1odDI0RXI0eENxOFV3LTZfbWFIcTZSRFRoeF9JUzJxZkttSTA1Y1BOS1hQeUZTdk9IaVBKLTVzNXZFREVkaTBPR1ZvVUt6U3lTMHNhWW9XenlPTS1tU00zTFRiUkx2T185Wm9QRXB3"
-    },
-    {
-      "title": "How Fed Moves Impact HELOCs, Home Equity Loans - Bankrate",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcnpBU3hIQ1N1ZHl1WE5YZGRzeDRZX2JWaXBBVDJkY09IY3NFUmFZb0ZldlhVUHdHaU9Zak52LU11R1FCdENYb3VqNTcxLVFrYXZqRlRDYjJwOVlrYjcwa05nTW5iODlnNk01VkEyM2JXRGRUQ0JYaDlHVDdwczdJSg?oc=5",
-      "source": "Bankrate",
-      "published_at": "Thu, 19 Mar 2026 07:00:00 GMT",
-      "summary": "How Fed Moves Impact HELOCs, Home Equity Loans Bankrate",
-      "guid": "CBMigAFBVV95cUxOcnpBU3hIQ1N1ZHl1WE5YZGRzeDRZX2JWaXBBVDJkY09IY3NFUmFZb0ZldlhVUHdHaU9Zak52LU11R1FCdENYb3VqNTcxLVFrYXZqRlRDYjJwOVlrYjcwa05nTW5iODlnNk01VkEyM2JXRGRUQ0JYaDlHVDdwczdJSg"
     }
   ]
 }
