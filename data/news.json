@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-03-27T16:05:54Z",
+  "generated_at": "2026-03-27T17:08:16Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "The big stock market correction that Trump can’t talk his way out of is official - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZko2ZU5iY243eERncHBxb0tYQm85ZTdwRnNZbzJweUdQNEtvWVR2aVV2SENKem9lemRoSEdKS0hEM3F3ODI1VWN4WmFBYm1tWjhGSThGQjJsMFdWNV9aVFZnRzA4RV95dDlJb09ZT3AyS19ldXgzaGpsS2VqZlN3RXhfeFU2dzY0aTJpMENFUHBtV1hIT1U4cXRqbE9CeWs?oc=5",
+      "source": "Fortune",
+      "published_at": "Fri, 27 Mar 2026 16:31:00 GMT",
+      "summary": "The big stock market correction that Trump can’t talk his way out of is official Fortune",
+      "guid": "CBMinwFBVV95cUxOZko2ZU5iY243eERncHBxb0tYQm85ZTdwRnNZbzJweUdQNEtvWVR2aVV2SENKem9lemRoSEdKS0hEM3F3ODI1VWN4WmFBYm1tWjhGSThGQjJsMFdWNV9aVFZnRzA4RV95dDlJb09ZT3AyS19ldXgzaGpsS2VqZlN3RXhfeFU2dzY0aTJpMENFUHBtV1hIT1U4cXRqbE9CeWs"
+    },
     {
       "title": "The market is starting to think the Federal Reserve's next move is raising interest rates - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNjloLUlWbldfb0h6ZkFHcmxOLVBVUmFOQkxHVE5VYTFOekFvR25yTDNkcTl5U0ZRWEl4ckxwQkd4bzlDWmdSalVGa25UTGp2WXF5djFmLVI2cnZaRUJBTTdTZG5MdlZ2LW1UcVBJc1M2VmltSXRYUE9teW5kWnRvME5FOTlINjRSZmV6M1pIb2htMElFdGV2YXVxbHFnNXlhQUxaeGEyTDljNHBsZUV0U0Rsb3NQb3BkWG9FczdLTlREUHZwSzF4bG41TkxFXzA?oc=5",
@@ -16,11 +24,11 @@
     },
     {
       "title": "Federal Reserve Posted Loss of $18.7 Billion in 2025 - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxOb3U3Rmk0UVppNFZuanZPM1psU3ZPbGxMcDhQSU4zRmxaVmFHU0dFa3FmWXJJcDNjUDc2eHJnb1B3MFUwRmxOMnVlUlExQ21HdlhVZVh1LTVNZ3A3c1N2UDVRWk1LdmJ3VjdCbWVJU2FhTWhNNGRsUmVsNmZzZkJuZlY5eF9rUVFfb3cySDAtMXRUZkhOZXhTRGMyUW05c2tuN1FyZjNYSFMycW8xOVdXeVhrTndrSVhqTHEwdDUtWnBhX0laM0VaNmp5RzNpamxldXpRYXFVQ25rWnRycnZZeU9wQ0xVYV9zUTBSZkpSUkxGV0NfSTdDcHN5aXlfejZGNTUyRlhvMGpwVkhUeGlrd2ZXckJYQXNHV1BlQ2JLWWVfNTlDUWRRSGljYzc1NTRNdDEzS3Q0UVhUemFvb2xVbTZtUVlCcGkyQld6VDFObW1XYkxmYlo3RUt4cFpCeXZ0NTFRQ2RxYktqTzYwbkJXbDBmVnNVcWcxTTkwOHBKWlVGbk5kRHlHYlRjc0xDUmdSUFNMMURicE1DM2ZhRXBGWEVuRHdXRnU2dWpYag?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxORzdnOXh3RXluZ29Jb2ZnRm5jMjFwb0F2VnBsVDA1YnMtb1ZUNDdmeUdGM2p4Zk5kSC1vYzJGcVNtZmtfOTdRZnJ0bDM4YzdlbkVjcl8tRThpN2xCSlliM0xfOGdYdVJoWmpiRFJtNENHS1Bfc184RC0tSFVCVGpvMzZvNU1qdDBUNHBZLWVBU0VwTy1Yd0V4MDhQTV9yWHBVTldnWGZ2ZWZJRDNXcGJrZnA3S3N3eVFIVTh5V0ZMT2I3bGQ0d2FTMjJYZ2h6bUg3VU9NZWtQQTlZNllmWG5JX1VrU2xlTEFBbktOaV8tcVBydFVxVnVxZU5pZ1lHcE9XdkJJUEM4MzVzQTF2TzJORDJjWHdjcGx2UHgyWFVyQlViZkIyLXR2ZHNCeUFwei00WVJqTFNDTFRXU2llLWRnQ1c3NXQ3czBhdmVJc05NcHRWRnFFeWhmNkhBMGpNVUM3aUNwclQ4WF9mTzlHTTB5NGZWRzNqQlIxNHVNOEJGNkdHeV80N1NidzF6TVFkb2kxdXVka0l6dWMxeTFDTktXMnlhS1VBbnJ2cTZKYQ?oc=5",
       "source": "WSJ",
       "published_at": "Wed, 25 Mar 2026 16:59:00 GMT",
       "summary": "Federal Reserve Posted Loss of $18.7 Billion in 2025 WSJ",
-      "guid": "CBMirANBVV95cUxOb3U3Rmk0UVppNFZuanZPM1psU3ZPbGxMcDhQSU4zRmxaVmFHU0dFa3FmWXJJcDNjUDc2eHJnb1B3MFUwRmxOMnVlUlExQ21HdlhVZVh1LTVNZ3A3c1N2UDVRWk1LdmJ3VjdCbWVJU2FhTWhNNGRsUmVsNmZzZkJuZlY5eF9rUVFfb3cySDAtMXRUZkhOZXhTRGMyUW05c2tuN1FyZjNYSFMycW8xOVdXeVhrTndrSVhqTHEwdDUtWnBhX0laM0VaNmp5RzNpamxldXpRYXFVQ25rWnRycnZZeU9wQ0xVYV9zUTBSZkpSUkxGV0NfSTdDcHN5aXlfejZGNTUyRlhvMGpwVkhUeGlrd2ZXckJYQXNHV1BlQ2JLWWVfNTlDUWRRSGljYzc1NTRNdDEzS3Q0UVhUemFvb2xVbTZtUVlCcGkyQld6VDFObW1XYkxmYlo3RUt4cFpCeXZ0NTFRQ2RxYktqTzYwbkJXbDBmVnNVcWcxTTkwOHBKWlVGbk5kRHlHYlRjc0xDUmdSUFNMMURicE1DM2ZhRXBGWEVuRHdXRnU2dWpYag"
+      "guid": "CBMirANBVV95cUxORzdnOXh3RXluZ29Jb2ZnRm5jMjFwb0F2VnBsVDA1YnMtb1ZUNDdmeUdGM2p4Zk5kSC1vYzJGcVNtZmtfOTdRZnJ0bDM4YzdlbkVjcl8tRThpN2xCSlliM0xfOGdYdVJoWmpiRFJtNENHS1Bfc184RC0tSFVCVGpvMzZvNU1qdDBUNHBZLWVBU0VwTy1Yd0V4MDhQTV9yWHBVTldnWGZ2ZWZJRDNXcGJrZnA3S3N3eVFIVTh5V0ZMT2I3bGQ0d2FTMjJYZ2h6bUg3VU9NZWtQQTlZNllmWG5JX1VrU2xlTEFBbktOaV8tcVBydFVxVnVxZU5pZ1lHcE9XdkJJUEM4MzVzQTF2TzJORDJjWHdjcGx2UHgyWFVyQlViZkIyLXR2ZHNCeUFwei00WVJqTFNDTFRXU2llLWRnQ1c3NXQ3czBhdmVJc05NcHRWRnFFeWhmNkhBMGpNVUM3aUNwclQ4WF9mTzlHTTB5NGZWRzNqQlIxNHVNOEJGNkdHeV80N1NidzF6TVFkb2kxdXVka0l6dWMxeTFDTktXMnlhS1VBbnJ2cTZKYQ"
     },
     {
       "title": "Federal Reserve holds interest rates steady, signals one rate cut amid inflation uncertainty - U.S. Bank",
@@ -39,12 +47,28 @@
       "guid": "CBMikgFBVV95cUxQcDlaUGNFLWVrSEs5RjZnRW1BeVpHU2ZhM29EM0hzbkdyWFpiSXBzTlI0UUN1clptLVU2b2JVREZadUtFSGNuUUF6aTZmN0FLa2tEdlhiWG1CQmI5emo1TkpmUmtCTEJleHo5aV9IUndBZkdJaUhjaFhyZlhFWUtuNjk5MFlQbHhTSXpqSnVVTXZtdw"
     },
     {
+      "title": "The Federal Reserve Is Raising Red Flags, and the Stock Market Isn't Listening - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUHVScVZWbjROUF9jZFhqLWJ3b3h5Tmtnc21falh3VkNpdnF0aGJZeUtGQy1pZkthbV9QVXhUbzM4enh3aXFpMndXNkN4VUQ2bmJjdElFOEQ4VXJtVUduNE1XQmUzdGNtZnd4Y2Z1MktOT2lvV1czTThObFNnYkpIOA?oc=5",
+      "source": "AOL.com",
+      "published_at": "Sun, 22 Mar 2026 15:12:22 GMT",
+      "summary": "The Federal Reserve Is Raising Red Flags, and the Stock Market Isn't Listening AOL.com",
+      "guid": "CBMigAFBVV95cUxPUHVScVZWbjROUF9jZFhqLWJ3b3h5Tmtnc21falh3VkNpdnF0aGJZeUtGQy1pZkthbV9QVXhUbzM4enh3aXFpMndXNkN4VUQ2bmJjdElFOEQ4VXJtVUduNE1XQmUzdGNtZnd4Y2Z1MktOT2lvV1czTThObFNnYkpIOA"
+    },
+    {
       "title": "The Federal Reserve Is Raising Red Flags, and the Stock Market Isn't Listening - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRjJsN0JkeGxvWlM2R2dFenRqOHZqRFlreGZsYjZHbTBtUVh4VGdDMHVQeS1IcGJZZXNHUFFSbFFJWHZmZDRtVG9XMURsOFJ4RmpnUHU3Q19fRlN4STBab1d2RXBNMVdoWGFUcVlmNzVYNG9LTG94VWVCdHpXUTJ1NF9yMzNPa2szdTV3UXM0ejB0NFE4UHVneFh0Rko?oc=5",
       "source": "Yahoo Finance",
       "published_at": "Sun, 22 Mar 2026 15:05:00 GMT",
       "summary": "The Federal Reserve Is Raising Red Flags, and the Stock Market Isn't Listening Yahoo Finance",
       "guid": "CBMinAFBVV95cUxQRjJsN0JkeGxvWlM2R2dFenRqOHZqRFlreGZsYjZHbTBtUVh4VGdDMHVQeS1IcGJZZXNHUFFSbFFJWHZmZDRtVG9XMURsOFJ4RmpnUHU3Q19fRlN4STBab1d2RXBNMVdoWGFUcVlmNzVYNG9LTG94VWVCdHpXUTJ1NF9yMzNPa2szdTV3UXM0ejB0NFE4UHVneFh0Rko"
+    },
+    {
+      "title": "Federal Reserve Flags a Potential Crisis in Home Equity Lending — and It Could Affect You - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOamxvUWdWblpZZlhDcUczNzFmMXlyeG9PNVV4QWxaaTNfc3BIRWFNWUJCS3hteWJNWmUxS3p5d25JN0p2SGViRE05YjJxdVZVNjhPYzN1MDVjWVZmRWNPQXhhUUFJS1o4cENJem1SUVZtcXd4YkVyeFpWS3FBQ256TmFONTdnYVZtdmRlN2Nlazk1UGc5b2dsSFdtUWVKSjRFMkFlSGVGNlpheFhQNklzTDNUUXdKUUV6OE14cGVlS1BkNDIwdnBjVnNHTTNiTllEWEptdXlvOFg1eVRHYkxBelhscHJQUnRFQjhB?oc=5",
+      "source": "Benzinga",
+      "published_at": "Fri, 27 Mar 2026 17:01:00 GMT",
+      "summary": "Federal Reserve Flags a Potential Crisis in Home Equity Lending — and It Could Affect You Benzinga",
+      "guid": "CBMi6wFBVV95cUxOamxvUWdWblpZZlhDcUczNzFmMXlyeG9PNVV4QWxaaTNfc3BIRWFNWUJCS3hteWJNWmUxS3p5d25JN0p2SGViRE05YjJxdVZVNjhPYzN1MDVjWVZmRWNPQXhhUUFJS1o4cENJem1SUVZtcXd4YkVyeFpWS3FBQ256TmFONTdnYVZtdmRlN2Nlazk1UGc5b2dsSFdtUWVKSjRFMkFlSGVGNlpheFhQNklzTDNUUXdKUUV6OE14cGVlS1BkNDIwdnBjVnNHTTNiTllEWEptdXlvOFg1eVRHYkxBelhscHJQUnRFQjhB"
     },
     {
       "title": "The Federal Reserve Has Become a Stock Market Liability, and President Trump's New Nominee for Chair Won't Help - The Motley Fool",
@@ -61,30 +85,6 @@
       "published_at": "Wed, 25 Mar 2026 20:49:29 GMT",
       "summary": "Trump’s Iran War May Mark the Beginning of the End for Dollar-Backed US Empire Truthout",
       "guid": "CBMirAFBVV95cUxOV2NQazF4Z0ctRm9ZVzNMRnI0RlZhaENid0k3OXhSYkcwdURYMkRXODAyTk5HQTg1T25ELTNpdURMRWRSU05NLXlRZzJac0VBOThreWE4Q2dMRVpORjB4ZkVydGE3ZlZqUHhwZmlrX3NHNmtXdWw1QVFaOG1rVTJIT09wLUNEakJVdUJhN3A5cDlJTXJYQXd3NEJDeHBuc0JGQVlBR05PTDJQYU5R"
-    },
-    {
-      "title": "Dow Slides 768 Points on Inflation Fears: Stock Market Today - Kiplinger",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTGRFUDYwMHkxUk9kNGRZVWJOV3ZzNEQ1YVZ1STZVVVNudGtOQkpxTUh6cktER3FUQXNxRUxLdlpVUTlxYjVpWUhXZDFRYk9VNHBrbFc4QmFKM09yQ0RZMm1sU05sTmxDenFYeFQzZ2tSM1E4SnZKWGY0UGNRaUJPRVRMMkhhaXM4eUkybndzYjJMeEJralNxY1FZMF9ZNS1FT3EtOQ?oc=5",
-      "source": "Kiplinger",
-      "published_at": "Wed, 18 Mar 2026 07:00:00 GMT",
-      "summary": "Dow Slides 768 Points on Inflation Fears: Stock Market Today Kiplinger",
-      "guid": "CBMipAFBVV95cUxQTGRFUDYwMHkxUk9kNGRZVWJOV3ZzNEQ1YVZ1STZVVVNudGtOQkpxTUh6cktER3FUQXNxRUxLdlpVUTlxYjVpWUhXZDFRYk9VNHBrbFc4QmFKM09yQ0RZMm1sU05sTmxDenFYeFQzZ2tSM1E4SnZKWGY0UGNRaUJPRVRMMkhhaXM4eUkybndzYjJMeEJralNxY1FZMF9ZNS1FT3EtOQ"
-    },
-    {
-      "title": "The Projected Federal Reserve Script Has Been Flipped -- and the Stock Market Isn't Ready for It - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOHdCNWQwSGhJMGpxZFRVZ0Jfal9QdS1zaGphaE5fU1JpRy1FZDlZaTg1Zno1MnZFWElwLXFrbDlHZmRIbDA3VERjMUs0N0EtV09lQWt3YkpuYUxBaDYzLWhrSVhOV2RqbG8yWkNkMjNxOXFOR1hRdnZSY195clR0dVBzQWUyU3p5OTk2WUtEV3JadEwweFpr?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Mon, 23 Mar 2026 09:06:00 GMT",
-      "summary": "The Projected Federal Reserve Script Has Been Flipped -- and the Stock Market Isn't Ready for It The Motley Fool",
-      "guid": "CBMilwFBVV95cUxPOHdCNWQwSGhJMGpxZFRVZ0Jfal9QdS1zaGphaE5fU1JpRy1FZDlZaTg1Zno1MnZFWElwLXFrbDlHZmRIbDA3VERjMUs0N0EtV09lQWt3YkpuYUxBaDYzLWhrSVhOV2RqbG8yWkNkMjNxOXFOR1hRdnZSY195clR0dVBzQWUyU3p5OTk2WUtEV3JadEwweFpr"
-    },
-    {
-      "title": "The Projected Federal Reserve Script Has Been Flipped -- and the Stock Market Isn't Ready for It - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRVdrMU93Z0VraktQR25Qc3Q0ckZVYWJzVXJVQ1FLT3hCZ0Yya1R4bG0zV2tvUHJRSEJyMkVJNW1odDI0RXI0eENxOFV3LTZfbWFIcTZSRFRoeF9JUzJxZkttSTA1Y1BOS1hQeUZTdk9IaVBKLTVzNXZFREVkaTBPR1ZvVUt6U3lTMHNhWW9XenlPTS1tU00zTFRiUkx2T185Wm9QRXB3?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Mon, 23 Mar 2026 08:26:00 GMT",
-      "summary": "The Projected Federal Reserve Script Has Been Flipped -- and the Stock Market Isn't Ready for It Yahoo Finance",
-      "guid": "CBMipgFBVV95cUxPRVdrMU93Z0VraktQR25Qc3Q0ckZVYWJzVXJVQ1FLT3hCZ0Yya1R4bG0zV2tvUHJRSEJyMkVJNW1odDI0RXI0eENxOFV3LTZfbWFIcTZSRFRoeF9JUzJxZkttSTA1Y1BOS1hQeUZTdk9IaVBKLTVzNXZFREVkaTBPR1ZvVUt6U3lTMHNhWW9XenlPTS1tU00zTFRiUkx2T185Wm9QRXB3"
     }
   ]
 }
