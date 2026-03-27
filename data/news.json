@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-27T01:14:53Z",
+  "generated_at": "2026-03-27T04:06:11Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -24,19 +24,11 @@
     },
     {
       "title": "Federal Reserve Posted Loss of $18.7 Billion in 2025 - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxPazVNRlBWUnhGVWVmVENaQkc1WTJMbC12dmR1VzJNekg4NEpQbGhNVlJIb2c3bDBtcWZ3YVlBdW1pT2gwSmVuNTh6NG9LcXEyZklTdjZyWHZBNEZfM0FGaVpFQ3ZvejYzbnVzcEY0ckRWdlVJaFNyUkhwN1Y3MFJjNWlYdFNNTTV4R0E2M1VwVW93Tmw3RUNJTFNwQkYtT25rX0REZFFNZXFFam90LTlPTGs4VV9fWTdveHpwU3ZYT204eUlGUjlPVkxEcEkxSXBaeVZ6T3d1TmZUeWFGM0hYc1MydlRrbEtlM2cySTdvNUptdXpQbEloT1p4NWxiMjdjdVA0R015R1ZpVmZQUjlITW5PNEcwQjlyX2ltMWlDajhzSGFyUEpQN0h5MFpraXp6anB1cVRFWk5PcjZibHgzU0c0dWJVZmo1cEFXejh0RllZbS1CMXVMemxLVWpHelF1Y2VsWThueVpwRnlLVmVuMGlTcTk4a2dudWZhSFhKY0FrdHZVaHNWZTJlLUMwVWxYbU01WWhtQlVCRnpRaTBBVEMwYUxZVHFFN3M5Sw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxQSlExbVV3VW5QWkFWQkJYby1qbU9QMlBLWjAtSzk3NkVTR08wcGtteDZSUDJheU9wY0xjbUVFd1Q3VTR0RlVfS29GendlaWlsLVZvWGlxbEJ4SjBka3ZOWlIwTElvdlRkUnU4NFctUnVhWlVQZlF4WWhaREJTUks5MjlwNHJZcnRXWmx2MGRadFZ1NnoxYnlrR0hoV0dNTXN3M1lWdG4xVlN2UlRFQTBmUUwzT09IaW1LYVJxbUtnYmxsTW9mNjNmV0twNUxIQXJjaEFKZ2xTYWx6SkU2TS1jcTdMVDB4Si0wWE5kMzYxSUpiVUdlMXQ0aVhBZzltTWE3MDBGTEF2ZU1kUGlBQXItLWRUYzk3MkhSNE91Q2c5WTlPTUhwYWR1ZGMxdGNObWFJNmlzbm52T0lPbl9LOFZFWkxYcFhJWDk3UV9jTE1VQ2s4eld1MHFuMWNiQWxPd0VFU3ZnUlE4NThvSWdJQ2Y5MldCNDJERjIxNXVxRzhaY2w2NU9GaUZNTk5hV2t4a0c3ejdIMmJYSVhIZUo5NUViLUdXYTJqUGdIbzBIdQ?oc=5",
       "source": "WSJ",
       "published_at": "Wed, 25 Mar 2026 16:59:00 GMT",
       "summary": "Federal Reserve Posted Loss of $18.7 Billion in 2025 WSJ",
-      "guid": "CBMirANBVV95cUxPazVNRlBWUnhGVWVmVENaQkc1WTJMbC12dmR1VzJNekg4NEpQbGhNVlJIb2c3bDBtcWZ3YVlBdW1pT2gwSmVuNTh6NG9LcXEyZklTdjZyWHZBNEZfM0FGaVpFQ3ZvejYzbnVzcEY0ckRWdlVJaFNyUkhwN1Y3MFJjNWlYdFNNTTV4R0E2M1VwVW93Tmw3RUNJTFNwQkYtT25rX0REZFFNZXFFam90LTlPTGs4VV9fWTdveHpwU3ZYT204eUlGUjlPVkxEcEkxSXBaeVZ6T3d1TmZUeWFGM0hYc1MydlRrbEtlM2cySTdvNUptdXpQbEloT1p4NWxiMjdjdVA0R015R1ZpVmZQUjlITW5PNEcwQjlyX2ltMWlDajhzSGFyUEpQN0h5MFpraXp6anB1cVRFWk5PcjZibHgzU0c0dWJVZmo1cEFXejh0RllZbS1CMXVMemxLVWpHelF1Y2VsWThueVpwRnlLVmVuMGlTcTk4a2dudWZhSFhKY0FrdHZVaHNWZTJlLUMwVWxYbU01WWhtQlVCRnpRaTBBVEMwYUxZVHFFN3M5Sw"
-    },
-    {
-      "title": "Stock Market Today: Nasdaq Falls, Oil Pushes Past $100 Again - Eurasia Business News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOakNkZ0syUE93VU5rRG1fTzliOFRMNjd1a25yN0tySXd0bkpiZk5KR3MyY0k1Rno2cDN5Yk91NGUwb3U0RF9jV09hSEc2UkJfY1N6azV6Tkl3ajlKSTFrOTVTdlZBaGJLc3FUaTE2dVJseHljdGlEd2kzNy1NRW9hLXhpOXpTZE5JcGZVcmtqT2tpbTJaQmxyYzgybVZVVzdYRHhj?oc=5",
-      "source": "Eurasia Business News",
-      "published_at": "Thu, 26 Mar 2026 18:12:38 GMT",
-      "summary": "Stock Market Today: Nasdaq Falls, Oil Pushes Past $100 Again Eurasia Business News",
-      "guid": "CBMiowFBVV95cUxOakNkZ0syUE93VU5rRG1fTzliOFRMNjd1a25yN0tySXd0bkpiZk5KR3MyY0k1Rno2cDN5Yk91NGUwb3U0RF9jV09hSEc2UkJfY1N6azV6Tkl3ajlKSTFrOTVTdlZBaGJLc3FUaTE2dVJseHljdGlEd2kzNy1NRW9hLXhpOXpTZE5JcGZVcmtqT2tpbTJaQmxyYzgybVZVVzdYRHhj"
+      "guid": "CBMirANBVV95cUxQSlExbVV3VW5QWkFWQkJYby1qbU9QMlBLWjAtSzk3NkVTR08wcGtteDZSUDJheU9wY0xjbUVFd1Q3VTR0RlVfS29GendlaWlsLVZvWGlxbEJ4SjBka3ZOWlIwTElvdlRkUnU4NFctUnVhWlVQZlF4WWhaREJTUks5MjlwNHJZcnRXWmx2MGRadFZ1NnoxYnlrR0hoV0dNTXN3M1lWdG4xVlN2UlRFQTBmUUwzT09IaW1LYVJxbUtnYmxsTW9mNjNmV0twNUxIQXJjaEFKZ2xTYWx6SkU2TS1jcTdMVDB4Si0wWE5kMzYxSUpiVUdlMXQ0aVhBZzltTWE3MDBGTEF2ZU1kUGlBQXItLWRUYzk3MkhSNE91Q2c5WTlPTUhwYWR1ZGMxdGNObWFJNmlzbm52T0lPbl9LOFZFWkxYcFhJWDk3UV9jTE1VQ2s4eld1MHFuMWNiQWxPd0VFU3ZnUlE4NThvSWdJQ2Y5MldCNDJERjIxNXVxRzhaY2w2NU9GaUZNTk5hV2t4a0c3ejdIMmJYSVhIZUo5NUViLUdXYTJqUGdIbzBIdQ"
     },
     {
       "title": "Federal Reserve holds interest rates steady as inflation and hiring remain in focus - U.S. Bank",
@@ -47,12 +39,12 @@
       "guid": "CBMiswFBVV95cUxOa2V2OFo4WjFPclRZRGtjZXJvb3dsaDVUM3FjRnVCTkxfX184eHRyQjJ2NFlDc09TUlZrUDZGUzQzTjgyV1drNG9PSnc2Y0RELWZ5LVktLTlFcGFFa2s0Qm04RzRoYjNRSE9aSGw3aDljNFEyUEZJS1RNa203WlBLdmxxS2lWNmNXT0pRZGdDcGdqdEZ1YmMxN2lhci1RdVRMTEJtWE5wM3RJSFhGMXJjMjdqZw"
     },
     {
-      "title": "Federal Funds Rate History: 1980 Through The Present - Bankrate",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUl9LVEFpUDE0MV9QdUdrY2tJTlJYQzdJQURzUG5PSENETk1YMHBtY09RZVJteHc0SFdPeWF6ZF9oWklZaWxndVRNS2xqZWJONzVWZWpBT19qdmpaVHI0QkZVOHhtWl9EUU9yenZLY3RPZHFPRGpVMm1NbjZNOHJwSlBONFpvZw?oc=5",
-      "source": "Bankrate",
-      "published_at": "Tue, 24 Mar 2026 07:00:00 GMT",
-      "summary": "Federal Funds Rate History: 1980 Through The Present Bankrate",
-      "guid": "CBMihgFBVV95cUxOUl9LVEFpUDE0MV9QdUdrY2tJTlJYQzdJQURzUG5PSENETk1YMHBtY09RZVJteHc0SFdPeWF6ZF9oWklZaWxndVRNS2xqZWJONzVWZWpBT19qdmpaVHI0QkZVOHhtWl9EUU9yenZLY3RPZHFPRGpVMm1NbjZNOHJwSlBONFpvZw"
+      "title": "Stock Market Today: Nasdaq Falls, Oil Pushes Past $100 Again - Eurasia Business News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOakNkZ0syUE93VU5rRG1fTzliOFRMNjd1a25yN0tySXd0bkpiZk5KR3MyY0k1Rno2cDN5Yk91NGUwb3U0RF9jV09hSEc2UkJfY1N6azV6Tkl3ajlKSTFrOTVTdlZBaGJLc3FUaTE2dVJseHljdGlEd2kzNy1NRW9hLXhpOXpTZE5JcGZVcmtqT2tpbTJaQmxyYzgybVZVVzdYRHhj?oc=5",
+      "source": "Eurasia Business News",
+      "published_at": "Thu, 26 Mar 2026 18:12:38 GMT",
+      "summary": "Stock Market Today: Nasdaq Falls, Oil Pushes Past $100 Again Eurasia Business News",
+      "guid": "CBMiowFBVV95cUxOakNkZ0syUE93VU5rRG1fTzliOFRMNjd1a25yN0tySXd0bkpiZk5KR3MyY0k1Rno2cDN5Yk91NGUwb3U0RF9jV09hSEc2UkJfY1N6azV6Tkl3ajlKSTFrOTVTdlZBaGJLc3FUaTE2dVJseHljdGlEd2kzNy1NRW9hLXhpOXpTZE5JcGZVcmtqT2tpbTJaQmxyYzgybVZVVzdYRHhj"
     },
     {
       "title": "Trump’s Iran War May Mark the Beginning of the End for Dollar-Backed US Empire - Truthout",
@@ -79,12 +71,20 @@
       "guid": "CBMingFBVV95cUxQWGswa3NHUE5OV2tzVVZESy1kUVVEdWstQllDb3VHNmZEaHE3aG5XLUFDR0p5NTM1T0tZQjRTUG43dVlwYXJXRENjNS1kUnBoTzZUaTJtQ1A3WnVZbGVxOVhuWEd5SzNJLXNNRTdZbmVhSGZ4SEhIdlNnTWtXaFl6RmdXelFtMVBVaEZFRGFSa3ZzN3JsQWRKY05tdWFzZw"
     },
     {
-      "title": "The Projected Federal Reserve Script Has Been Flipped -- and the Stock Market Isn't Ready for It - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRVdrMU93Z0VraktQR25Qc3Q0ckZVYWJzVXJVQ1FLT3hCZ0Yya1R4bG0zV2tvUHJRSEJyMkVJNW1odDI0RXI0eENxOFV3LTZfbWFIcTZSRFRoeF9JUzJxZkttSTA1Y1BOS1hQeUZTdk9IaVBKLTVzNXZFREVkaTBPR1ZvVUt6U3lTMHNhWW9XenlPTS1tU00zTFRiUkx2T185Wm9QRXB3?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Mon, 23 Mar 2026 08:26:00 GMT",
-      "summary": "The Projected Federal Reserve Script Has Been Flipped -- and the Stock Market Isn't Ready for It Yahoo Finance",
-      "guid": "CBMipgFBVV95cUxPRVdrMU93Z0VraktQR25Qc3Q0ckZVYWJzVXJVQ1FLT3hCZ0Yya1R4bG0zV2tvUHJRSEJyMkVJNW1odDI0RXI0eENxOFV3LTZfbWFIcTZSRFRoeF9JUzJxZkttSTA1Y1BOS1hQeUZTdk9IaVBKLTVzNXZFREVkaTBPR1ZvVUt6U3lTMHNhWW9XenlPTS1tU00zTFRiUkx2T185Wm9QRXB3"
+      "title": "How Fed Moves Impact HELOCs, Home Equity Loans - Bankrate",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcnpBU3hIQ1N1ZHl1WE5YZGRzeDRZX2JWaXBBVDJkY09IY3NFUmFZb0ZldlhVUHdHaU9Zak52LU11R1FCdENYb3VqNTcxLVFrYXZqRlRDYjJwOVlrYjcwa05nTW5iODlnNk01VkEyM2JXRGRUQ0JYaDlHVDdwczdJSg?oc=5",
+      "source": "Bankrate",
+      "published_at": "Thu, 19 Mar 2026 07:00:00 GMT",
+      "summary": "How Fed Moves Impact HELOCs, Home Equity Loans Bankrate",
+      "guid": "CBMigAFBVV95cUxOcnpBU3hIQ1N1ZHl1WE5YZGRzeDRZX2JWaXBBVDJkY09IY3NFUmFZb0ZldlhVUHdHaU9Zak52LU11R1FCdENYb3VqNTcxLVFrYXZqRlRDYjJwOVlrYjcwa05nTW5iODlnNk01VkEyM2JXRGRUQ0JYaDlHVDdwczdJSg"
+    },
+    {
+      "title": "US stocks hold their losses after the Federal Reserve opts again not to cut interest rates - KVOA",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQQ0V3ZEFYZ2VXUzhvVDljdlJxWVM2Zmpwbl9pVDVoUGp6S05zcG9PT0hRUFFPS05zX3RfdXRHNW1qaExEbUhyTEtXZjJ3ME1uSUNXeThET0tnWjZEMWptS3JITUxhSzQ0ZU9jTjMtSlBVQlAtOEtRTVVtVm5rdkVfLU9GR195QVBJOHF6eWN0akowb19QLWllV0VPdE83cHc0ZDNMOVpvNXZsa0NaTUJYZnN2YnMtSmxDWHZ2bjY3X01oOFQ1bS03V1p4Y1FTOW1wdVd2cEZ1azVzZXRMZTVWVkMtOVhGUlNGbDBld2hUUU1KNkNwOVpUZ0J6UHY0UQ?oc=5",
+      "source": "KVOA",
+      "published_at": "Wed, 18 Mar 2026 18:23:00 GMT",
+      "summary": "US stocks hold their losses after the Federal Reserve opts again not to cut interest rates KVOA",
+      "guid": "CBMi_gFBVV95cUxQQ0V3ZEFYZ2VXUzhvVDljdlJxWVM2Zmpwbl9pVDVoUGp6S05zcG9PT0hRUFFPS05zX3RfdXRHNW1qaExEbUhyTEtXZjJ3ME1uSUNXeThET0tnWjZEMWptS3JITUxhSzQ0ZU9jTjMtSlBVQlAtOEtRTVVtVm5rdkVfLU9GR195QVBJOHF6eWN0akowb19QLWllV0VPdE83cHc0ZDNMOVpvNXZsa0NaTUJYZnN2YnMtSmxDWHZ2bjY3X01oOFQ1bS03V1p4Y1FTOW1wdVd2cEZ1azVzZXRMZTVWVkMtOVhGUlNGbDBld2hUUU1KNkNwOVpUZ0J6UHY0UQ"
     }
   ]
 }
