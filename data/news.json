@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-27T07:52:38Z",
+  "generated_at": "2026-03-27T08:38:30Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -16,19 +16,11 @@
     },
     {
       "title": "Federal Reserve Posted Loss of $18.7 Billion in 2025 - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxPQnZmUElnQU5DTXI3alF6akJiV1RKLUE0eFV5ZWNZZXlwM3B4enAzR2ZKSUNsYnhoSThDMUYzZkxCSTBhUUpvRDVWM0E2d2dNcWZWWXhvc2txRll6cmF4UWwtdnptcEFPUVVMUFBPY3g0cUZuWFppQ0pUUDdqMFROMUlqMEZpcWZJd2FIYkpzdHJhVnB6RVhUYUx1NDZDNGpTVjRUUThWRE5uX0tCdS1wQUJXaVA3YjFNWDFNTGVjbGZCMS0wbzhKTDNtX0dfeFRmNUJHaC1oUFlPLTN1SnktYnh2UThyM1pFMGltMTZOcnFab2xNSjc4R3JzeGFpTVFVbnJCNHZtUmNzbDFlaWNLVERCQW90NHg2MHRFSlFoS1l5SG51ajRuU3J4c1NlUlZfeFFRSjBDY2Z2c0F2S3RHT3MyTy1oMDRENWdyRHh3SjZwWU1GVzRBVVNodmZyUkROWUpjMGtxZHAxcm95NUZZVmVsS2xISnJKTUVwU2R0cEZFLWN2cVBPbXdRY1lHWTFGc0wwYThEamxMQzQ4RHphNFp1WkwwT0owajBldA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxOSEVlajVmSF9UbVJyS0hEME50eWRpUm9CeHlvQ0JvTDFjUl9Fd2VvQ1NjdnhJa284SURaajJScHQ2NmpvWWotUURFZzFWNi1oNFdSSDRHOHVNeGNyZVJFQ0Vvejg3LXlaSTlhbExvUmRRbEN6Z25WV0p0VU11T0dWWmNDYXBPbDNwY3hHN2s1dmVEakxlWF94OExNVFE1OFljNnE4VDJXQ1o3OXNoYkdmVWRYb193a1hjcTBveGYwZUlhaE05cmt0cVFPUXJJTW1QNFF2N0NoQ2NxeTdLd184c1U0cE1yTTlycWNTVjlxb0JFZUpJY1gxdjRXUWtLd01aREZLUE94X3d5Ujh4N3JrVUd6dXBsdElHNWR3RXZfbk9FMDdrVHZIaEZteTNhVjlJV0Ytb1ZuNU9jV2cwbDFPVzk4Sk1FU0ZSYkYxZFhOOVhrN050R1JxYVVSMEVyNDhzN2pPZnQ3QUtHQ2ZnbnpPdjVsNUhBRkE1VHRxNm5QdnZEempjLS0zMkVIZHRzbjY0Yjd5NjBuTlRMS3VlT3NSZTVvX0N4YXN5M01QZQ?oc=5",
       "source": "WSJ",
       "published_at": "Wed, 25 Mar 2026 16:59:00 GMT",
       "summary": "Federal Reserve Posted Loss of $18.7 Billion in 2025 WSJ",
-      "guid": "CBMirANBVV95cUxPQnZmUElnQU5DTXI3alF6akJiV1RKLUE0eFV5ZWNZZXlwM3B4enAzR2ZKSUNsYnhoSThDMUYzZkxCSTBhUUpvRDVWM0E2d2dNcWZWWXhvc2txRll6cmF4UWwtdnptcEFPUVVMUFBPY3g0cUZuWFppQ0pUUDdqMFROMUlqMEZpcWZJd2FIYkpzdHJhVnB6RVhUYUx1NDZDNGpTVjRUUThWRE5uX0tCdS1wQUJXaVA3YjFNWDFNTGVjbGZCMS0wbzhKTDNtX0dfeFRmNUJHaC1oUFlPLTN1SnktYnh2UThyM1pFMGltMTZOcnFab2xNSjc4R3JzeGFpTVFVbnJCNHZtUmNzbDFlaWNLVERCQW90NHg2MHRFSlFoS1l5SG51ajRuU3J4c1NlUlZfeFFRSjBDY2Z2c0F2S3RHT3MyTy1oMDRENWdyRHh3SjZwWU1GVzRBVVNodmZyUkROWUpjMGtxZHAxcm95NUZZVmVsS2xISnJKTUVwU2R0cEZFLWN2cVBPbXdRY1lHWTFGc0wwYThEamxMQzQ4RHphNFp1WkwwT0owajBldA"
-    },
-    {
-      "title": "What a Fed Rate Hike Could Mean for These Key Stock Sectors - Morningstar",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcDlaUGNFLWVrSEs5RjZnRW1BeVpHU2ZhM29EM0hzbkdyWFpiSXBzTlI0UUN1clptLVU2b2JVREZadUtFSGNuUUF6aTZmN0FLa2tEdlhiWG1CQmI5emo1TkpmUmtCTEJleHo5aV9IUndBZkdJaUhjaFhyZlhFWUtuNjk5MFlQbHhTSXpqSnVVTXZtdw?oc=5",
-      "source": "Morningstar",
-      "published_at": "Thu, 26 Mar 2026 10:13:22 GMT",
-      "summary": "What a Fed Rate Hike Could Mean for These Key Stock Sectors Morningstar",
-      "guid": "CBMikgFBVV95cUxQcDlaUGNFLWVrSEs5RjZnRW1BeVpHU2ZhM29EM0hzbkdyWFpiSXBzTlI0UUN1clptLVU2b2JVREZadUtFSGNuUUF6aTZmN0FLa2tEdlhiWG1CQmI5emo1TkpmUmtCTEJleHo5aV9IUndBZkdJaUhjaFhyZlhFWUtuNjk5MFlQbHhTSXpqSnVVTXZtdw"
+      "guid": "CBMirANBVV95cUxOSEVlajVmSF9UbVJyS0hEME50eWRpUm9CeHlvQ0JvTDFjUl9Fd2VvQ1NjdnhJa284SURaajJScHQ2NmpvWWotUURFZzFWNi1oNFdSSDRHOHVNeGNyZVJFQ0Vvejg3LXlaSTlhbExvUmRRbEN6Z25WV0p0VU11T0dWWmNDYXBPbDNwY3hHN2s1dmVEakxlWF94OExNVFE1OFljNnE4VDJXQ1o3OXNoYkdmVWRYb193a1hjcTBveGYwZUlhaE05cmt0cVFPUXJJTW1QNFF2N0NoQ2NxeTdLd184c1U0cE1yTTlycWNTVjlxb0JFZUpJY1gxdjRXUWtLd01aREZLUE94X3d5Ujh4N3JrVUd6dXBsdElHNWR3RXZfbk9FMDdrVHZIaEZteTNhVjlJV0Ytb1ZuNU9jV2cwbDFPVzk4Sk1FU0ZSYkYxZFhOOVhrN050R1JxYVVSMEVyNDhzN2pPZnQ3QUtHQ2ZnbnpPdjVsNUhBRkE1VHRxNm5QdnZEempjLS0zMkVIZHRzbjY0Yjd5NjBuTlRMS3VlT3NSZTVvX0N4YXN5M01QZQ"
     },
     {
       "title": "Federal Reserve holds interest rates steady as inflation and hiring remain in focus - U.S. Bank",
@@ -37,6 +29,14 @@
       "published_at": "Thu, 19 Mar 2026 07:00:00 GMT",
       "summary": "Federal Reserve holds interest rates steady as inflation and hiring remain in focus U.S. Bank",
       "guid": "CBMiswFBVV95cUxOa2V2OFo4WjFPclRZRGtjZXJvb3dsaDVUM3FjRnVCTkxfX184eHRyQjJ2NFlDc09TUlZrUDZGUzQzTjgyV1drNG9PSnc2Y0RELWZ5LVktLTlFcGFFa2s0Qm04RzRoYjNRSE9aSGw3aDljNFEyUEZJS1RNa203WlBLdmxxS2lWNmNXT0pRZGdDcGdqdEZ1YmMxN2lhci1RdVRMTEJtWE5wM3RJSFhGMXJjMjdqZw"
+    },
+    {
+      "title": "What a Fed Rate Hike Could Mean for These Key Stock Sectors - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcDlaUGNFLWVrSEs5RjZnRW1BeVpHU2ZhM29EM0hzbkdyWFpiSXBzTlI0UUN1clptLVU2b2JVREZadUtFSGNuUUF6aTZmN0FLa2tEdlhiWG1CQmI5emo1TkpmUmtCTEJleHo5aV9IUndBZkdJaUhjaFhyZlhFWUtuNjk5MFlQbHhTSXpqSnVVTXZtdw?oc=5",
+      "source": "Morningstar",
+      "published_at": "Thu, 26 Mar 2026 10:13:22 GMT",
+      "summary": "What a Fed Rate Hike Could Mean for These Key Stock Sectors Morningstar",
+      "guid": "CBMikgFBVV95cUxQcDlaUGNFLWVrSEs5RjZnRW1BeVpHU2ZhM29EM0hzbkdyWFpiSXBzTlI0UUN1clptLVU2b2JVREZadUtFSGNuUUF6aTZmN0FLa2tEdlhiWG1CQmI5emo1TkpmUmtCTEJleHo5aV9IUndBZkdJaUhjaFhyZlhFWUtuNjk5MFlQbHhTSXpqSnVVTXZtdw"
     },
     {
       "title": "Stock Market Today: Nasdaq Falls, Oil Pushes Past $100 Again - Eurasia Business News",
