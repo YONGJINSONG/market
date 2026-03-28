@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-28T17:22:11Z",
+  "generated_at": "2026-03-28T17:52:19Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -23,14 +23,6 @@
       "guid": "CBMinwFBVV95cUxOZko2ZU5iY243eERncHBxb0tYQm85ZTdwRnNZbzJweUdQNEtvWVR2aVV2SENKem9lemRoSEdKS0hEM3F3ODI1VWN4WmFBYm1tWjhGSThGQjJsMFdWNV9aVFZnRzA4RV95dDlJb09ZT3AyS19ldXgzaGpsS2VqZlN3RXhfeFU2dzY0aTJpMENFUHBtV1hIT1U4cXRqbE9CeWs"
     },
     {
-      "title": "Here's When the Fed Might Cut Interest Rates Again, and What It Means for the Stock Market - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLURQbTZEUG04N3NLVElKUDIzMTdoN0RLOEp2dzdSSTA1bmlRckRIMUlzUmU3cFctX3U0eHZGcnh3cXVGYS0tRGlpNUR1dzhKWEdmWnh1Z0ZHSVVVZG1JY0d4UWo0Si1iYmZFYm9GZ1dEZGJGbGx5WExUTklLS05PRmlBc1FwWURzTGs3SEY2UkZULU1PdlYzVw?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Mon, 23 Mar 2026 11:55:00 GMT",
-      "summary": "Here's When the Fed Might Cut Interest Rates Again, and What It Means for the Stock Market The Motley Fool",
-      "guid": "CBMimAFBVV95cUxQLURQbTZEUG04N3NLVElKUDIzMTdoN0RLOEp2dzdSSTA1bmlRckRIMUlzUmU3cFctX3U0eHZGcnh3cXVGYS0tRGlpNUR1dzhKWEdmWnh1Z0ZHSVVVZG1JY0d4UWo0Si1iYmZFYm9GZ1dEZGJGbGx5WExUTklLS05PRmlBc1FwWURzTGs3SEY2UkZULU1PdlYzVw"
-    },
-    {
       "title": "Potential Stock Market Crash Looms as Fed Faces Tough Decisions - National Today",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPT3pHamo3d1Z0WF9kbnhYcGFRZ0RUZVcxOUVtN0pvQ2FsR0NRbmh6akZpdEY0Ujc4My1felBoOTVTTTNLTS1IQXF3YUdXdXI1SnlNcWNhQWVHOWl1UTRkakpNZVdUY0I2cEFrRmRuN01ybjBLZ01BMmxKMm41UF9ybVRQbUJWSmhqOTVLWGt6Y3lhR25SODhLOEtkZS1DNWJjeFpyb094R3U0elJmVDNJR0FlUzBJYzFxb2VV?oc=5",
       "source": "National Today",
@@ -40,11 +32,11 @@
     },
     {
       "title": "Federal Reserve Posted Loss of $18.7 Billion in 2025 - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxPZHZDNkhnbE93czNGTEVOTmJiUHNicEMybk1MZU9yZUtBMXNQc25iNDRJR1pRY3JYRUd1cTY5aUJXcm1MTVV4S2NJeEFCNWdVOENZTGx5ZExxVFlQSXJmRlJWY0ZMYlJMVTVLTU4tbnFFUVRzR2pRRmdLSjZTejZxSFVqWVRjRnJ4bVk2ZWFRYjVkRTZ0WGdHV3pqQkxHN0pjRENpdWdheUEySV8yeWtJUzVvV3Z3c0V2ZTFZaGt3ZzRURlhJNktRYkdUTnRKWDA5YXRZQ3lzcFVjbWZ4cl80M29vcnNLNkR1aFNpeHJkcnhIdl9tMlpTaWRfbkdfRzVjZDI2VHk4TDBjbEo4dWdsWkczMkpNcUMxa29NS0ZDOEdDYW03N3d4X29XcEJCanhLNF9SbzIwQ2hnbXlHbFI5QUxKT01uaHlPQ2kzakt3TS1haDhJWFhEV2ZjcW80ai1iSjdrSXRJWDhYcmcwUXJuTXBmOGhmdmhQYjZraWFjbDEwU0J6ZlBlemlwMDUzMjBOUjNWWTN0S20zZVFsOFJXekhpMHBqR3FyUkNDNQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxNWWxvcGd4bnVRYXE4SEh0TTZaVGVoWXV1WFAwMV9pWkxoT3NXUDBpWEtuRm4xUGYwcF83VWVJWktHbjJoWkJvZER4aEtfV2UzeTF0dGlJNENncWhhV2pHR3FhUDR2aVp5RFlMTnROdkRaSW1iVTlfN0tTVmkzZkpwdl8za1NZSHlnbDEtMlZURW42dy1NdkJPNnJpcUxSQ2plYzRVOEpTUjd6NFZvaWt0dmRyZGt4NXpDNXB6dGZ1eXNnWTcyUUlxWjZXYnJ4eE1mN1Z4YzlqZUt0dEdZb1RQdXhESVJ1cm1uWHh3aG5rU09aVjFGSUt2SVdrQWFxcUpvWUx6SUhjNGRuYmZ0T0lYUklYaXF3NXg2Mm5wamJsVHJ1a0V0SVBKbmdtUjg2Z2w4bXJBSFJickw2TmE5MG5hS1FuT1lZcUNQcWtMdnI2dDVVdmgwbDFSZTZzVm9wdlptdnR6dTV3aXg5dWpzOVF2MDNjZTJMYVJIWjA2aDZ2NG53WWNyNURObzhYR1ByTFlzMDZRTUhkMXJOOFNubjRjUTRmWC1adC1UMGFBUw?oc=5",
       "source": "WSJ",
       "published_at": "Wed, 25 Mar 2026 16:59:00 GMT",
       "summary": "Federal Reserve Posted Loss of $18.7 Billion in 2025 WSJ",
-      "guid": "CBMirANBVV95cUxPZHZDNkhnbE93czNGTEVOTmJiUHNicEMybk1MZU9yZUtBMXNQc25iNDRJR1pRY3JYRUd1cTY5aUJXcm1MTVV4S2NJeEFCNWdVOENZTGx5ZExxVFlQSXJmRlJWY0ZMYlJMVTVLTU4tbnFFUVRzR2pRRmdLSjZTejZxSFVqWVRjRnJ4bVk2ZWFRYjVkRTZ0WGdHV3pqQkxHN0pjRENpdWdheUEySV8yeWtJUzVvV3Z3c0V2ZTFZaGt3ZzRURlhJNktRYkdUTnRKWDA5YXRZQ3lzcFVjbWZ4cl80M29vcnNLNkR1aFNpeHJkcnhIdl9tMlpTaWRfbkdfRzVjZDI2VHk4TDBjbEo4dWdsWkczMkpNcUMxa29NS0ZDOEdDYW03N3d4X29XcEJCanhLNF9SbzIwQ2hnbXlHbFI5QUxKT01uaHlPQ2kzakt3TS1haDhJWFhEV2ZjcW80ai1iSjdrSXRJWDhYcmcwUXJuTXBmOGhmdmhQYjZraWFjbDEwU0J6ZlBlemlwMDUzMjBOUjNWWTN0S20zZVFsOFJXekhpMHBqR3FyUkNDNQ"
+      "guid": "CBMirANBVV95cUxNWWxvcGd4bnVRYXE4SEh0TTZaVGVoWXV1WFAwMV9pWkxoT3NXUDBpWEtuRm4xUGYwcF83VWVJWktHbjJoWkJvZER4aEtfV2UzeTF0dGlJNENncWhhV2pHR3FhUDR2aVp5RFlMTnROdkRaSW1iVTlfN0tTVmkzZkpwdl8za1NZSHlnbDEtMlZURW42dy1NdkJPNnJpcUxSQ2plYzRVOEpTUjd6NFZvaWt0dmRyZGt4NXpDNXB6dGZ1eXNnWTcyUUlxWjZXYnJ4eE1mN1Z4YzlqZUt0dEdZb1RQdXhESVJ1cm1uWHh3aG5rU09aVjFGSUt2SVdrQWFxcUpvWUx6SUhjNGRuYmZ0T0lYUklYaXF3NXg2Mm5wamJsVHJ1a0V0SVBKbmdtUjg2Z2w4bXJBSFJickw2TmE5MG5hS1FuT1lZcUNQcWtMdnI2dDVVdmgwbDFSZTZzVm9wdlptdnR6dTV3aXg5dWpzOVF2MDNjZTJMYVJIWjA2aDZ2NG53WWNyNURObzhYR1ByTFlzMDZRTUhkMXJOOFNubjRjUTRmWC1adC1UMGFBUw"
     },
     {
       "title": "Federal Reserve holds interest rates steady, signals one rate cut amid inflation uncertainty - U.S. Bank",
@@ -77,6 +69,14 @@
       "published_at": "Thu, 19 Mar 2026 07:00:00 GMT",
       "summary": "March 19, 2026 -- Notice of Open Board Meeting Federal Reserve Board (.gov)",
       "guid": "CBMifkFVX3lxTE9GVmtqUWJ0ZVZJeXVnVkFJWTF3N0JNekJqYl9UenpZMEJyeHZVUUUyTkU0dno3aVQ0UXlkSmVSSGl5TGhaTFcyQ0tIRDc0UTVuZzJ4LTVjWWJrZjlSbHRQSjF0a0NuNzRNaTJQUkZya3NxeHdtSGlKU05reG5Tdw"
+    },
+    {
+      "title": "The Federal Reserve Has Become a Stock Market Liability, and President Trump's New Nominee for Chair Won't Help - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOUN5MHFlVmh2ZFI3eXp1ODZCS0E1WGZNdkt4Q1lWZHBXY1N4bXl4bjk3VGRoUU83Rk9tRzNsOGJ6SWx4Ukk0eTRhOUZ2aHZnVDFOQkg3d3JuNEp6SjV0RUFYUzVBN003V0U2SmFEczdJd3FZWnRaVnY2ZG1pVjI1Zl9jcXhGSV9fUW8xTHZEbmFCNnJONjBR?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Mon, 16 Mar 2026 07:00:00 GMT",
+      "summary": "The Federal Reserve Has Become a Stock Market Liability, and President Trump's New Nominee for Chair Won't Help The Motley Fool",
+      "guid": "CBMilwFBVV95cUxOOUN5MHFlVmh2ZFI3eXp1ODZCS0E1WGZNdkt4Q1lWZHBXY1N4bXl4bjk3VGRoUU83Rk9tRzNsOGJ6SWx4Ukk0eTRhOUZ2aHZnVDFOQkg3d3JuNEp6SjV0RUFYUzVBN003V0U2SmFEczdJd3FZWnRaVnY2ZG1pVjI1Zl9jcXhGSV9fUW8xTHZEbmFCNnJONjBR"
     },
     {
       "title": "The Federal Reserve Is Raising Red Flags, and the Stock Market Isn't Listening - Yahoo Finance",
