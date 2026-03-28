@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-28T22:16:56Z",
+  "generated_at": "2026-03-28T22:52:44Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,20 +7,20 @@
   },
   "items": [
     {
-      "title": "US treasury department demands retraction of story on increased oversight of Federal Reserve - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQblBVZGk5QlZqME9DZjdPNjE1RVJOMHZCN3lreWM1b19zQkZMM3ZUcjFSVzFDeWVodDJhc2hUSkp1VDVBbldTTHVmT1UxUTdwLVRMTEN6dGhSTkdYMGxEU3VmVkZySWc5QVJEU3NYWGpiaTVzRFhIY0UyeHpEcUl5YXdDWV96UUxqbFpaTE40eFhvSGRFNHpwMGo2VVpYZkFH?oc=5",
-      "source": "The Guardian",
-      "published_at": "Sat, 28 Mar 2026 16:26:00 GMT",
-      "summary": "US treasury department demands retraction of story on increased oversight of Federal Reserve The Guardian",
-      "guid": "CBMioAFBVV95cUxQblBVZGk5QlZqME9DZjdPNjE1RVJOMHZCN3lreWM1b19zQkZMM3ZUcjFSVzFDeWVodDJhc2hUSkp1VDVBbldTTHVmT1UxUTdwLVRMTEN6dGhSTkdYMGxEU3VmVkZySWc5QVJEU3NYWGpiaTVzRFhIY0UyeHpEcUl5YXdDWV96UUxqbFpaTE40eFhvSGRFNHpwMGo2VVpYZkFH"
-    },
-    {
       "title": "The market is starting to think the Federal Reserve's next move is raising interest rates - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNjloLUlWbldfb0h6ZkFHcmxOLVBVUmFOQkxHVE5VYTFOekFvR25yTDNkcTl5U0ZRWEl4ckxwQkd4bzlDWmdSalVGa25UTGp2WXF5djFmLVI2cnZaRUJBTTdTZG5MdlZ2LW1UcVBJc1M2VmltSXRYUE9teW5kWnRvME5FOTlINjRSZmV6M1pIb2htMElFdGV2YXVxbHFnNXlhQUxaeGEyTDljNHBsZUV0U0Rsb3NQb3BkWG9FczdLTlREUHZwSzF4bG41TkxFXzA?oc=5",
       "source": "Yahoo Finance",
       "published_at": "Fri, 27 Mar 2026 20:40:26 GMT",
       "summary": "The market is starting to think the Federal Reserve's next move is raising interest rates Yahoo Finance",
       "guid": "CBMizwFBVV95cUxPNjloLUlWbldfb0h6ZkFHcmxOLVBVUmFOQkxHVE5VYTFOekFvR25yTDNkcTl5U0ZRWEl4ckxwQkd4bzlDWmdSalVGa25UTGp2WXF5djFmLVI2cnZaRUJBTTdTZG5MdlZ2LW1UcVBJc1M2VmltSXRYUE9teW5kWnRvME5FOTlINjRSZmV6M1pIb2htMElFdGV2YXVxbHFnNXlhQUxaeGEyTDljNHBsZUV0U0Rsb3NQb3BkWG9FczdLTlREUHZwSzF4bG41TkxFXzA"
+    },
+    {
+      "title": "US treasury department demands retraction of story on increased oversight of Federal Reserve - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQblBVZGk5QlZqME9DZjdPNjE1RVJOMHZCN3lreWM1b19zQkZMM3ZUcjFSVzFDeWVodDJhc2hUSkp1VDVBbldTTHVmT1UxUTdwLVRMTEN6dGhSTkdYMGxEU3VmVkZySWc5QVJEU3NYWGpiaTVzRFhIY0UyeHpEcUl5YXdDWV96UUxqbFpaTE40eFhvSGRFNHpwMGo2VVpYZkFH?oc=5",
+      "source": "The Guardian",
+      "published_at": "Sat, 28 Mar 2026 16:26:00 GMT",
+      "summary": "US treasury department demands retraction of story on increased oversight of Federal Reserve The Guardian",
+      "guid": "CBMioAFBVV95cUxQblBVZGk5QlZqME9DZjdPNjE1RVJOMHZCN3lreWM1b19zQkZMM3ZUcjFSVzFDeWVodDJhc2hUSkp1VDVBbldTTHVmT1UxUTdwLVRMTEN6dGhSTkdYMGxEU3VmVkZySWc5QVJEU3NYWGpiaTVzRFhIY0UyeHpEcUl5YXdDWV96UUxqbFpaTE40eFhvSGRFNHpwMGo2VVpYZkFH"
     },
     {
       "title": "Will the US stock market see a big crash ahead? How will Dow, S&P 500 and Nasdaq move — Are rising oil pri - The Economic Times",
@@ -39,12 +39,12 @@
       "guid": "CBMinwFBVV95cUxOZko2ZU5iY243eERncHBxb0tYQm85ZTdwRnNZbzJweUdQNEtvWVR2aVV2SENKem9lemRoSEdKS0hEM3F3ODI1VWN4WmFBYm1tWjhGSThGQjJsMFdWNV9aVFZnRzA4RV95dDlJb09ZT3AyS19ldXgzaGpsS2VqZlN3RXhfeFU2dzY0aTJpMENFUHBtV1hIT1U4cXRqbE9CeWs"
     },
     {
-      "title": "Here's When the Fed Might Cut Interest Rates Again, and What It Means for the Stock Market - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLURQbTZEUG04N3NLVElKUDIzMTdoN0RLOEp2dzdSSTA1bmlRckRIMUlzUmU3cFctX3U0eHZGcnh3cXVGYS0tRGlpNUR1dzhKWEdmWnh1Z0ZHSVVVZG1JY0d4UWo0Si1iYmZFYm9GZ1dEZGJGbGx5WExUTklLS05PRmlBc1FwWURzTGs3SEY2UkZULU1PdlYzVw?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Mon, 23 Mar 2026 11:55:00 GMT",
-      "summary": "Here's When the Fed Might Cut Interest Rates Again, and What It Means for the Stock Market The Motley Fool",
-      "guid": "CBMimAFBVV95cUxQLURQbTZEUG04N3NLVElKUDIzMTdoN0RLOEp2dzdSSTA1bmlRckRIMUlzUmU3cFctX3U0eHZGcnh3cXVGYS0tRGlpNUR1dzhKWEdmWnh1Z0ZHSVVVZG1JY0d4UWo0Si1iYmZFYm9GZ1dEZGJGbGx5WExUTklLS05PRmlBc1FwWURzTGs3SEY2UkZULU1PdlYzVw"
+      "title": "Federal Reserve Posted Loss of $18.7 Billion in 2025 - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxNQi1UYlN2SHhXaHhLLUllSkhQeGJxejF1REhMVFk0VGZDWGNERVdtQlBmRm9hLXhMaWlJaHpNaHlMbEJHTms1cnJ6eDR0bVNfNkstRUNsNVl1SjRxNjJ1cjZEWDJnUkNsOU4xclpaWC1ULXR3ajFLaHM5bnBmS3RRemZNTzJYZzlrZ1F4UFJQQjlSWWFDWlV6Qy05cWFrcWl1U1pQSXNGMlIwSDNpd3c4V21rZ3plbjkyUkI0aTVRYXpHbjRPT3h5ekRacGc4X2NxM1NxVlhsdFl1V0NBcGJrc2kxa01VWjZ0LXdvWHViRHFnTHpaNlI3UHlGMGV6QXRSZkJ0MkFfZi1ud1Etc1k2cGZuZ2xMcGxJQVVDWXhaRUxYWUFZRlJKYkQwR2RSSm1MMkdKbFJPYm42M05zZy1JbWt4YjFJNlNZd3E2RHh5RXBrV0NaalJEbThuc0JYVEtYZ21YYlBnQVBVa3BvaU90dElaY3hJMWxNREZhdUI3YTZ4SFFSMzRuVnhhWXlqSGI4c2F2NlZyLWl5STcxejUtMmlxSVlGbW9EdWFIQQ?oc=5",
+      "source": "WSJ",
+      "published_at": "Wed, 25 Mar 2026 16:59:00 GMT",
+      "summary": "Federal Reserve Posted Loss of $18.7 Billion in 2025 WSJ",
+      "guid": "CBMirANBVV95cUxNQi1UYlN2SHhXaHhLLUllSkhQeGJxejF1REhMVFk0VGZDWGNERVdtQlBmRm9hLXhMaWlJaHpNaHlMbEJHTms1cnJ6eDR0bVNfNkstRUNsNVl1SjRxNjJ1cjZEWDJnUkNsOU4xclpaWC1ULXR3ajFLaHM5bnBmS3RRemZNTzJYZzlrZ1F4UFJQQjlSWWFDWlV6Qy05cWFrcWl1U1pQSXNGMlIwSDNpd3c4V21rZ3plbjkyUkI0aTVRYXpHbjRPT3h5ekRacGc4X2NxM1NxVlhsdFl1V0NBcGJrc2kxa01VWjZ0LXdvWHViRHFnTHpaNlI3UHlGMGV6QXRSZkJ0MkFfZi1ud1Etc1k2cGZuZ2xMcGxJQVVDWXhaRUxYWUFZRlJKYkQwR2RSSm1MMkdKbFJPYm42M05zZy1JbWt4YjFJNlNZd3E2RHh5RXBrV0NaalJEbThuc0JYVEtYZ21YYlBnQVBVa3BvaU90dElaY3hJMWxNREZhdUI3YTZ4SFFSMzRuVnhhWXlqSGI4c2F2NlZyLWl5STcxejUtMmlxSVlGbW9EdWFIQQ"
     },
     {
       "title": "Potential Stock Market Crash Looms as Fed Faces Tough Decisions - National Today",
@@ -53,14 +53,6 @@
       "published_at": "Sat, 28 Mar 2026 08:52:53 GMT",
       "summary": "Potential Stock Market Crash Looms as Fed Faces Tough Decisions National Today",
       "guid": "CBMiuwFBVV95cUxPT3pHamo3d1Z0WF9kbnhYcGFRZ0RUZVcxOUVtN0pvQ2FsR0NRbmh6akZpdEY0Ujc4My1felBoOTVTTTNLTS1IQXF3YUdXdXI1SnlNcWNhQWVHOWl1UTRkakpNZVdUY0I2cEFrRmRuN01ybjBLZ01BMmxKMm41UF9ybVRQbUJWSmhqOTVLWGt6Y3lhR25SODhLOEtkZS1DNWJjeFpyb094R3U0elJmVDNJR0FlUzBJYzFxb2VV"
-    },
-    {
-      "title": "Federal Reserve Posted Loss of $18.7 Billion in 2025 - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxNZS1PYlo5MVZIbnJLRTFXbjF2Qk5PZGNaZW9nNmVwUVp1bjAzQkV6R3JPNXhHdTA5MEJWdFVnNlpJT3NSX0gweDlLbFpJOHprRzZiYng5M0x1ZkJSQVh6NDhvUnZDNUExN21Kbl9oZ3E3ZmdhREZyYzlhbHV0U2FMLTdiV3ZsU0QxaC1aUnBsNjUtLWZXa2tEYXpBN2hBY0hCbUVzS0R3bnB5XzBoeTNXeWJaWUw5Q2dxNTZaN2pfSDFsTTN0eDdOX0xjTENXTVNCaXN5eTU4QjE2SVpDRE11bXl0SXNRcTFWOHdiTjNsZzc0eGpLRXN1bUFiMkpwQ0RDSVZJM0FHc3VfMVdrUGxZZHNjQXlhWERUbWNJZUhKWFJ3MU14WEpDaS1QSTJpOUc1QWJCOHk5dDBqWHFfU3FyLVJEZkVWbk1NSmtwY3Nhb29tSWd0UlRxZnlzcDVtekVlMVhjd0hLSHJDdzVNbzh2T2tyMFFPTnNYd3ZHR0lJbzB5b2o4a1RRb3FPb2VjMzdMa0llZzZFQUJkLUoxZWdMTEdzYUt5R3Nael8teg?oc=5",
-      "source": "WSJ",
-      "published_at": "Wed, 25 Mar 2026 16:59:00 GMT",
-      "summary": "Federal Reserve Posted Loss of $18.7 Billion in 2025 WSJ",
-      "guid": "CBMirANBVV95cUxNZS1PYlo5MVZIbnJLRTFXbjF2Qk5PZGNaZW9nNmVwUVp1bjAzQkV6R3JPNXhHdTA5MEJWdFVnNlpJT3NSX0gweDlLbFpJOHprRzZiYng5M0x1ZkJSQVh6NDhvUnZDNUExN21Kbl9oZ3E3ZmdhREZyYzlhbHV0U2FMLTdiV3ZsU0QxaC1aUnBsNjUtLWZXa2tEYXpBN2hBY0hCbUVzS0R3bnB5XzBoeTNXeWJaWUw5Q2dxNTZaN2pfSDFsTTN0eDdOX0xjTENXTVNCaXN5eTU4QjE2SVpDRE11bXl0SXNRcTFWOHdiTjNsZzc0eGpLRXN1bUFiMkpwQ0RDSVZJM0FHc3VfMVdrUGxZZHNjQXlhWERUbWNJZUhKWFJ3MU14WEpDaS1QSTJpOUc1QWJCOHk5dDBqWHFfU3FyLVJEZkVWbk1NSmtwY3Nhb29tSWd0UlRxZnlzcDVtekVlMVhjd0hLSHJDdzVNbzh2T2tyMFFPTnNYd3ZHR0lJbzB5b2o4a1RRb3FPb2VjMzdMa0llZzZFQUJkLUoxZWdMTEdzYUt5R3Nael8teg"
     },
     {
       "title": "Federal Reserve holds interest rates steady, signals one rate cut amid inflation uncertainty - U.S. Bank",
@@ -85,6 +77,14 @@
       "published_at": "Thu, 19 Mar 2026 07:00:00 GMT",
       "summary": "March 19, 2026 -- Notice of Open Board Meeting Federal Reserve Board (.gov)",
       "guid": "CBMifkFVX3lxTE9GVmtqUWJ0ZVZJeXVnVkFJWTF3N0JNekJqYl9UenpZMEJyeHZVUUUyTkU0dno3aVQ0UXlkSmVSSGl5TGhaTFcyQ0tIRDc0UTVuZzJ4LTVjWWJrZjlSbHRQSjF0a0NuNzRNaTJQUkZya3NxeHdtSGlKU05reG5Tdw"
+    },
+    {
+      "title": "The Federal Reserve Has Become a Stock Market Liability, and President Trump's New Nominee for Chair Won't Help - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOUN5MHFlVmh2ZFI3eXp1ODZCS0E1WGZNdkt4Q1lWZHBXY1N4bXl4bjk3VGRoUU83Rk9tRzNsOGJ6SWx4Ukk0eTRhOUZ2aHZnVDFOQkg3d3JuNEp6SjV0RUFYUzVBN003V0U2SmFEczdJd3FZWnRaVnY2ZG1pVjI1Zl9jcXhGSV9fUW8xTHZEbmFCNnJONjBR?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Mon, 16 Mar 2026 07:00:00 GMT",
+      "summary": "The Federal Reserve Has Become a Stock Market Liability, and President Trump's New Nominee for Chair Won't Help The Motley Fool",
+      "guid": "CBMilwFBVV95cUxOOUN5MHFlVmh2ZFI3eXp1ODZCS0E1WGZNdkt4Q1lWZHBXY1N4bXl4bjk3VGRoUU83Rk9tRzNsOGJ6SWx4Ukk0eTRhOUZ2aHZnVDFOQkg3d3JuNEp6SjV0RUFYUzVBN003V0U2SmFEczdJd3FZWnRaVnY2ZG1pVjI1Zl9jcXhGSV9fUW8xTHZEbmFCNnJONjBR"
     }
   ]
 }
