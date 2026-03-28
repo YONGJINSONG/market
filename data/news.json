@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-28T19:04:27Z",
+  "generated_at": "2026-03-28T19:42:57Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -32,11 +32,11 @@
     },
     {
       "title": "Federal Reserve Posted Loss of $18.7 Billion in 2025 - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxOaDlTenJ3VE1ObXB6Rmc2dU52bGR0UVdQODJVRVRJX2ZtMWQyRFJkVlIzVHE0U3ZHX0RvSExpZ0o1Sk00MFdMWTVuVzhHdjRHY19LZXFUTlpvV1lpRnhId0tFZjR0YmgweWpVMmhHMDBQYXpnTXRMVXdBbGthOTZsZEVUTGFtZTNrdjk4cWw5bkdUM1Q5dWZCOEdIT21vczJHdXAtdkRteU5pNUNINF9YSmtZNjVvNEUyMmVBOGc1dXJGZzJPSUk3LTFkb0prVHdsU1RDVU9IdEVsbnZMS2tzYk40Q2RKYmFVMzB5ZFA5d1ZrdmdlNW96Um1hM1ZFM2VBVEVuSGRJT1VKSUw0ZTFkT3o4eHUxR0tZN2c5UG5lQU4tWFNjemRZTDFiZlBSZzhxTFdDT0RxbFpVVjd1elhYYW5xaWdKTHBvVURpMWZHM2ptMlZRZDZoUk9hOEpvX2l5T1hhMHhic3pMZk0xWmVCdjB5NHVQNkJTY2l3SnNFcWRyRHF2S1hGalBOcVV0TzN0Q3c5WXRSZTJuc1Y2Q0JSdjVrYkdZNkZBazRQZA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxNbktKOTVldy1HdVdydG1lUVI2bVdLV3NpRFByQkk0a3hhNWhzUk1ycUpZRW1QdURMU2toVk53SllMMnZtdzRnaTZZUzZ4amNFeFkyakJUek52eUJFeUxjdWhWeHpFU1Y3QS1UZ1ZhUVl0NDBoMFplZHVpdGNkQ1FCbk1pRzVpNTVlWDZubU5Vb19NZkh6LVRZWEppa0FhcDNnTU5RRE0zN2NCcFVST3dHTWM1bDZzY1VDekNMNGpidW8wdXpxLVZGWkdRcmZ0QkJ4TzYzOF8xMGVaY1B1czRwSmlVVXVweVRTOVg3bGhKSk95Y1lwR3dmQnliMFdGd1A4czZaWGE0ek4xaFJ1d01PZTFjR2hKaVFmYm5yV1cydjVQRngxX19lRTdhWlVqR2hwUEVmOHJkWFdqNFdqSVpHdHlYOXJ2TEVWRWZOVGdHaElkZmtQbElfWTRaeWJ1UG94d0NwQlROR1Y0akM3eno5YTNVRzV0TXJhNl9xZ1pSTXhsNEVBeTV4WExDVjEtcE9IeXdNNzRSZjhjUFdoQnViNGRLTVctWjF4MEFiZg?oc=5",
       "source": "WSJ",
       "published_at": "Wed, 25 Mar 2026 16:59:00 GMT",
       "summary": "Federal Reserve Posted Loss of $18.7 Billion in 2025 WSJ",
-      "guid": "CBMirANBVV95cUxOaDlTenJ3VE1ObXB6Rmc2dU52bGR0UVdQODJVRVRJX2ZtMWQyRFJkVlIzVHE0U3ZHX0RvSExpZ0o1Sk00MFdMWTVuVzhHdjRHY19LZXFUTlpvV1lpRnhId0tFZjR0YmgweWpVMmhHMDBQYXpnTXRMVXdBbGthOTZsZEVUTGFtZTNrdjk4cWw5bkdUM1Q5dWZCOEdIT21vczJHdXAtdkRteU5pNUNINF9YSmtZNjVvNEUyMmVBOGc1dXJGZzJPSUk3LTFkb0prVHdsU1RDVU9IdEVsbnZMS2tzYk40Q2RKYmFVMzB5ZFA5d1ZrdmdlNW96Um1hM1ZFM2VBVEVuSGRJT1VKSUw0ZTFkT3o4eHUxR0tZN2c5UG5lQU4tWFNjemRZTDFiZlBSZzhxTFdDT0RxbFpVVjd1elhYYW5xaWdKTHBvVURpMWZHM2ptMlZRZDZoUk9hOEpvX2l5T1hhMHhic3pMZk0xWmVCdjB5NHVQNkJTY2l3SnNFcWRyRHF2S1hGalBOcVV0TzN0Q3c5WXRSZTJuc1Y2Q0JSdjVrYkdZNkZBazRQZA"
+      "guid": "CBMirANBVV95cUxNbktKOTVldy1HdVdydG1lUVI2bVdLV3NpRFByQkk0a3hhNWhzUk1ycUpZRW1QdURMU2toVk53SllMMnZtdzRnaTZZUzZ4amNFeFkyakJUek52eUJFeUxjdWhWeHpFU1Y3QS1UZ1ZhUVl0NDBoMFplZHVpdGNkQ1FCbk1pRzVpNTVlWDZubU5Vb19NZkh6LVRZWEppa0FhcDNnTU5RRE0zN2NCcFVST3dHTWM1bDZzY1VDekNMNGpidW8wdXpxLVZGWkdRcmZ0QkJ4TzYzOF8xMGVaY1B1czRwSmlVVXVweVRTOVg3bGhKSk95Y1lwR3dmQnliMFdGd1A4czZaWGE0ek4xaFJ1d01PZTFjR2hKaVFmYm5yV1cydjVQRngxX19lRTdhWlVqR2hwUEVmOHJkWFdqNFdqSVpHdHlYOXJ2TEVWRWZOVGdHaElkZmtQbElfWTRaeWJ1UG94d0NwQlROR1Y0akM3eno5YTNVRzV0TXJhNl9xZ1pSTXhsNEVBeTV4WExDVjEtcE9IeXdNNzRSZjhjUFdoQnViNGRLTVctWjF4MEFiZg"
     },
     {
       "title": "Federal Reserve holds interest rates steady, signals one rate cut amid inflation uncertainty - U.S. Bank",
@@ -47,11 +47,11 @@
       "guid": "CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw"
     },
     {
-      "title": "The big stock market correction that Trump can’t talk his way out of is official - Fortune",
+      "title": "The big stock market correction that Trump can’t talk his way out of is official - fortune.com",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZko2ZU5iY243eERncHBxb0tYQm85ZTdwRnNZbzJweUdQNEtvWVR2aVV2SENKem9lemRoSEdKS0hEM3F3ODI1VWN4WmFBYm1tWjhGSThGQjJsMFdWNV9aVFZnRzA4RV95dDlJb09ZT3AyS19ldXgzaGpsS2VqZlN3RXhfeFU2dzY0aTJpMENFUHBtV1hIT1U4cXRqbE9CeWs?oc=5",
-      "source": "Fortune",
+      "source": "fortune.com",
       "published_at": "Fri, 27 Mar 2026 16:31:00 GMT",
-      "summary": "The big stock market correction that Trump can’t talk his way out of is official Fortune",
+      "summary": "The big stock market correction that Trump can’t talk his way out of is official fortune.com",
       "guid": "CBMinwFBVV95cUxOZko2ZU5iY243eERncHBxb0tYQm85ZTdwRnNZbzJweUdQNEtvWVR2aVV2SENKem9lemRoSEdKS0hEM3F3ODI1VWN4WmFBYm1tWjhGSThGQjJsMFdWNV9aVFZnRzA4RV95dDlJb09ZT3AyS19ldXgzaGpsS2VqZlN3RXhfeFU2dzY0aTJpMENFUHBtV1hIT1U4cXRqbE9CeWs"
     },
     {
@@ -63,20 +63,20 @@
       "guid": "CBMikgFBVV95cUxQcDlaUGNFLWVrSEs5RjZnRW1BeVpHU2ZhM29EM0hzbkdyWFpiSXBzTlI0UUN1clptLVU2b2JVREZadUtFSGNuUUF6aTZmN0FLa2tEdlhiWG1CQmI5emo1TkpmUmtCTEJleHo5aV9IUndBZkdJaUhjaFhyZlhFWUtuNjk5MFlQbHhTSXpqSnVVTXZtdw"
     },
     {
-      "title": "Federal Reserve Watch: Lots Still Going On - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcWROa2ZnLU1kaE90ajQ4ZlNockxGV1loNTlUYzJoVzBJc3hXVnRGYWRGUUZIXy1zZGJWUERERGk4X3lmN1lIOURqcnQwQTJlUjFPbXV6ZWtVZ05iVmt5cG9nQURNN0haeExsTXdnMDdlLW5kWk80VGxmVXNxY1BmV2w2MHZDMkZGS3c?oc=5",
-      "source": "Seeking Alpha",
-      "published_at": "Fri, 27 Mar 2026 19:56:11 GMT",
-      "summary": "Federal Reserve Watch: Lots Still Going On Seeking Alpha",
-      "guid": "CBMiigFBVV95cUxQcWROa2ZnLU1kaE90ajQ4ZlNockxGV1loNTlUYzJoVzBJc3hXVnRGYWRGUUZIXy1zZGJWUERERGk4X3lmN1lIOURqcnQwQTJlUjFPbXV6ZWtVZ05iVmt5cG9nQURNN0haeExsTXdnMDdlLW5kWk80VGxmVXNxY1BmV2w2MHZDMkZGS3c"
-    },
-    {
       "title": "March 19, 2026 -- Notice of Open Board Meeting - Federal Reserve Board (.gov)",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9GVmtqUWJ0ZVZJeXVnVkFJWTF3N0JNekJqYl9UenpZMEJyeHZVUUUyTkU0dno3aVQ0UXlkSmVSSGl5TGhaTFcyQ0tIRDc0UTVuZzJ4LTVjWWJrZjlSbHRQSjF0a0NuNzRNaTJQUkZya3NxeHdtSGlKU05reG5Tdw?oc=5",
       "source": "Federal Reserve Board (.gov)",
       "published_at": "Thu, 19 Mar 2026 07:00:00 GMT",
       "summary": "March 19, 2026 -- Notice of Open Board Meeting Federal Reserve Board (.gov)",
       "guid": "CBMifkFVX3lxTE9GVmtqUWJ0ZVZJeXVnVkFJWTF3N0JNekJqYl9UenpZMEJyeHZVUUUyTkU0dno3aVQ0UXlkSmVSSGl5TGhaTFcyQ0tIRDc0UTVuZzJ4LTVjWWJrZjlSbHRQSjF0a0NuNzRNaTJQUkZya3NxeHdtSGlKU05reG5Tdw"
+    },
+    {
+      "title": "Federal Reserve Watch: Lots Still Going On - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcWROa2ZnLU1kaE90ajQ4ZlNockxGV1loNTlUYzJoVzBJc3hXVnRGYWRGUUZIXy1zZGJWUERERGk4X3lmN1lIOURqcnQwQTJlUjFPbXV6ZWtVZ05iVmt5cG9nQURNN0haeExsTXdnMDdlLW5kWk80VGxmVXNxY1BmV2w2MHZDMkZGS3c?oc=5",
+      "source": "Seeking Alpha",
+      "published_at": "Fri, 27 Mar 2026 19:56:11 GMT",
+      "summary": "Federal Reserve Watch: Lots Still Going On Seeking Alpha",
+      "guid": "CBMiigFBVV95cUxQcWROa2ZnLU1kaE90ajQ4ZlNockxGV1loNTlUYzJoVzBJc3hXVnRGYWRGUUZIXy1zZGJWUERERGk4X3lmN1lIOURqcnQwQTJlUjFPbXV6ZWtVZ05iVmt5cG9nQURNN0haeExsTXdnMDdlLW5kWk80VGxmVXNxY1BmV2w2MHZDMkZGS3c"
     },
     {
       "title": "Fed narrowly approves Morgan Stanley plan for German arm - American Banker",
