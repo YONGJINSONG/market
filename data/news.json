@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-28T20:28:20Z",
+  "generated_at": "2026-03-28T20:55:27Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -48,18 +48,18 @@
     },
     {
       "title": "Federal Reserve Posted Loss of $18.7 Billion in 2025 - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxPa2xBbTZhWnNlZWlnNzRIakVEcHVNWHVoaG5kWDEtMndET25KMzBacDhWZVYyMmlPVE5YX1hqWEl1ZGZIUjlmSjVpWkhjTk85VGNlY2FlbFJSSEE0ZUNQR0twLTFNX1BSZTc2Nl9TU28wNk1rSHNNTWU3MFhQbGU1RUo2WjJJNlIxRDFSYmRvVmxVc1pwUUFDaXVMMTh1U1owdjA0WnlQTVB0LUQwQ3ZmRmZ3MUY2ZVlVeHlTcTBUZ1hRSGFqOGkwbkZmRFd0b3ZYOEpMZmdUd1JLU0xRRDEtSnNROXRHYUtvUVFrbEZ2MzVjcGYyWlpZWkNnTXZIOFByel9SZG1JUHF2NVJldmRCZHhHRXliMHd4bDhVRFlQamtfaWZQZUczWEpjUEV1cE1NejdyNzE0QTVMLXBKWVVuN0NNWERVaTZMTFhTMGU0dHZtUTJhb2NNYkRFZEhlSmk2b1B3VGpwVmt0cXQwaHVTTk5meDdRLWJBOW1VbzE5SGVmQzVzMHB6RnZMZjZBejVIOFNTa2FZSkw0ejVPTnlaMk9obFNlUXFjSno2cg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxQdzlGenZXUjMyTEY0OUJSem5Ua092MndtalVDSHZQUGdtNGNtLV9qWUd6WUhlY0UtR2FBdV9rZGQzZFpNNHdoQnhsX1E2ZmRHZWQ1cFU1TURRVk1VQ3RzZ3VhLWNWRzZOeVAwdjNQLXVIYU9oRDNNd08ybUJBVkJWSlhfU2FMLUtHZ0hZdjFjV0ZOVkswWTc2YWxlV09hMXRGVk1vUzF5Q2FvdlJoVl93dWVEejlGaTZvYm1DUW03Y1p3aC11ejFDelMzbXg2aWt1bWt5enU5cFlrM0REVXkyZWZaVjFfTExmMy1zemRJVktCZ2d1am9DckpyV3hsQXFzZFFnanhrT0tRZWNQUGx6VHR3SU1aY0xoTmJ2YlVSbjNvRW9MeGpkVUhQTzgzYlJuYWVvZEIyc2Zoak5JR28ySzBGUERHVmJBTnExTDFVbnluSXMyRmdCbG41WVA5ZU8yaktZRndRS0tkbUVFdG90Z0c2NzFqNDRsM0M5ZlcyVmk0QUw1bkpzb3hLd1pBN196Tk15cGg4Sm1vZmczWW1IWE80Z2JjZzBWenE1WA?oc=5",
       "source": "WSJ",
       "published_at": "Wed, 25 Mar 2026 16:59:00 GMT",
       "summary": "Federal Reserve Posted Loss of $18.7 Billion in 2025 WSJ",
-      "guid": "CBMirANBVV95cUxPa2xBbTZhWnNlZWlnNzRIakVEcHVNWHVoaG5kWDEtMndET25KMzBacDhWZVYyMmlPVE5YX1hqWEl1ZGZIUjlmSjVpWkhjTk85VGNlY2FlbFJSSEE0ZUNQR0twLTFNX1BSZTc2Nl9TU28wNk1rSHNNTWU3MFhQbGU1RUo2WjJJNlIxRDFSYmRvVmxVc1pwUUFDaXVMMTh1U1owdjA0WnlQTVB0LUQwQ3ZmRmZ3MUY2ZVlVeHlTcTBUZ1hRSGFqOGkwbkZmRFd0b3ZYOEpMZmdUd1JLU0xRRDEtSnNROXRHYUtvUVFrbEZ2MzVjcGYyWlpZWkNnTXZIOFByel9SZG1JUHF2NVJldmRCZHhHRXliMHd4bDhVRFlQamtfaWZQZUczWEpjUEV1cE1NejdyNzE0QTVMLXBKWVVuN0NNWERVaTZMTFhTMGU0dHZtUTJhb2NNYkRFZEhlSmk2b1B3VGpwVmt0cXQwaHVTTk5meDdRLWJBOW1VbzE5SGVmQzVzMHB6RnZMZjZBejVIOFNTa2FZSkw0ejVPTnlaMk9obFNlUXFjSno2cg"
+      "guid": "CBMirANBVV95cUxQdzlGenZXUjMyTEY0OUJSem5Ua092MndtalVDSHZQUGdtNGNtLV9qWUd6WUhlY0UtR2FBdV9rZGQzZFpNNHdoQnhsX1E2ZmRHZWQ1cFU1TURRVk1VQ3RzZ3VhLWNWRzZOeVAwdjNQLXVIYU9oRDNNd08ybUJBVkJWSlhfU2FMLUtHZ0hZdjFjV0ZOVkswWTc2YWxlV09hMXRGVk1vUzF5Q2FvdlJoVl93dWVEejlGaTZvYm1DUW03Y1p3aC11ejFDelMzbXg2aWt1bWt5enU5cFlrM0REVXkyZWZaVjFfTExmMy1zemRJVktCZ2d1am9DckpyV3hsQXFzZFFnanhrT0tRZWNQUGx6VHR3SU1aY0xoTmJ2YlVSbjNvRW9MeGpkVUhQTzgzYlJuYWVvZEIyc2Zoak5JR28ySzBGUERHVmJBTnExTDFVbnluSXMyRmdCbG41WVA5ZU8yaktZRndRS0tkbUVFdG90Z0c2NzFqNDRsM0M5ZlcyVmk0QUw1bkpzb3hLd1pBN196Tk15cGg4Sm1vZmczWW1IWE80Z2JjZzBWenE1WA"
     },
     {
-      "title": "Federal Reserve holds interest rates steady, signals one rate cut amid inflation uncertainty - U.S. Bank",
+      "title": "Federal Reserve holds interest rates steady, signals one rate cut amid inflation uncertainty - usbank.com",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw?oc=5",
-      "source": "U.S. Bank",
+      "source": "usbank.com",
       "published_at": "Wed, 18 Mar 2026 07:00:00 GMT",
-      "summary": "Federal Reserve holds interest rates steady, signals one rate cut amid inflation uncertainty U.S. Bank",
+      "summary": "Federal Reserve holds interest rates steady, signals one rate cut amid inflation uncertainty usbank.com",
       "guid": "CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw"
     },
     {
@@ -71,11 +71,11 @@
       "guid": "CBMikgFBVV95cUxQcDlaUGNFLWVrSEs5RjZnRW1BeVpHU2ZhM29EM0hzbkdyWFpiSXBzTlI0UUN1clptLVU2b2JVREZadUtFSGNuUUF6aTZmN0FLa2tEdlhiWG1CQmI5emo1TkpmUmtCTEJleHo5aV9IUndBZkdJaUhjaFhyZlhFWUtuNjk5MFlQbHhTSXpqSnVVTXZtdw"
     },
     {
-      "title": "March 19, 2026 -- Notice of Open Board Meeting - Federal Reserve Board (.gov)",
+      "title": "March 19, 2026 -- Notice of Open Board Meeting - federalreserve.gov",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9GVmtqUWJ0ZVZJeXVnVkFJWTF3N0JNekJqYl9UenpZMEJyeHZVUUUyTkU0dno3aVQ0UXlkSmVSSGl5TGhaTFcyQ0tIRDc0UTVuZzJ4LTVjWWJrZjlSbHRQSjF0a0NuNzRNaTJQUkZya3NxeHdtSGlKU05reG5Tdw?oc=5",
-      "source": "Federal Reserve Board (.gov)",
+      "source": "federalreserve.gov",
       "published_at": "Thu, 19 Mar 2026 07:00:00 GMT",
-      "summary": "March 19, 2026 -- Notice of Open Board Meeting Federal Reserve Board (.gov)",
+      "summary": "March 19, 2026 -- Notice of Open Board Meeting federalreserve.gov",
       "guid": "CBMifkFVX3lxTE9GVmtqUWJ0ZVZJeXVnVkFJWTF3N0JNekJqYl9UenpZMEJyeHZVUUUyTkU0dno3aVQ0UXlkSmVSSGl5TGhaTFcyQ0tIRDc0UTVuZzJ4LTVjWWJrZjlSbHRQSjF0a0NuNzRNaTJQUkZya3NxeHdtSGlKU05reG5Tdw"
     },
     {
