@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-03-28T20:55:27Z",
+  "generated_at": "2026-03-28T21:20:56Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "US treasury department demands retraction of story on increased oversight of Federal Reserve - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQblBVZGk5QlZqME9DZjdPNjE1RVJOMHZCN3lreWM1b19zQkZMM3ZUcjFSVzFDeWVodDJhc2hUSkp1VDVBbldTTHVmT1UxUTdwLVRMTEN6dGhSTkdYMGxEU3VmVkZySWc5QVJEU3NYWGpiaTVzRFhIY0UyeHpEcUl5YXdDWV96UUxqbFpaTE40eFhvSGRFNHpwMGo2VVpYZkFH?oc=5",
+      "source": "The Guardian",
+      "published_at": "Sat, 28 Mar 2026 16:26:00 GMT",
+      "summary": "US treasury department demands retraction of story on increased oversight of Federal Reserve The Guardian",
+      "guid": "CBMioAFBVV95cUxQblBVZGk5QlZqME9DZjdPNjE1RVJOMHZCN3lreWM1b19zQkZMM3ZUcjFSVzFDeWVodDJhc2hUSkp1VDVBbldTTHVmT1UxUTdwLVRMTEN6dGhSTkdYMGxEU3VmVkZySWc5QVJEU3NYWGpiaTVzRFhIY0UyeHpEcUl5YXdDWV96UUxqbFpaTE40eFhvSGRFNHpwMGo2VVpYZkFH"
+    },
     {
       "title": "The market is starting to think the Federal Reserve's next move is raising interest rates - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNjloLUlWbldfb0h6ZkFHcmxOLVBVUmFOQkxHVE5VYTFOekFvR25yTDNkcTl5U0ZRWEl4ckxwQkd4bzlDWmdSalVGa25UTGp2WXF5djFmLVI2cnZaRUJBTTdTZG5MdlZ2LW1UcVBJc1M2VmltSXRYUE9teW5kWnRvME5FOTlINjRSZmV6M1pIb2htMElFdGV2YXVxbHFnNXlhQUxaeGEyTDljNHBsZUV0U0Rsb3NQb3BkWG9FczdLTlREUHZwSzF4bG41TkxFXzA?oc=5",
@@ -48,18 +56,18 @@
     },
     {
       "title": "Federal Reserve Posted Loss of $18.7 Billion in 2025 - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxQdzlGenZXUjMyTEY0OUJSem5Ua092MndtalVDSHZQUGdtNGNtLV9qWUd6WUhlY0UtR2FBdV9rZGQzZFpNNHdoQnhsX1E2ZmRHZWQ1cFU1TURRVk1VQ3RzZ3VhLWNWRzZOeVAwdjNQLXVIYU9oRDNNd08ybUJBVkJWSlhfU2FMLUtHZ0hZdjFjV0ZOVkswWTc2YWxlV09hMXRGVk1vUzF5Q2FvdlJoVl93dWVEejlGaTZvYm1DUW03Y1p3aC11ejFDelMzbXg2aWt1bWt5enU5cFlrM0REVXkyZWZaVjFfTExmMy1zemRJVktCZ2d1am9DckpyV3hsQXFzZFFnanhrT0tRZWNQUGx6VHR3SU1aY0xoTmJ2YlVSbjNvRW9MeGpkVUhQTzgzYlJuYWVvZEIyc2Zoak5JR28ySzBGUERHVmJBTnExTDFVbnluSXMyRmdCbG41WVA5ZU8yaktZRndRS0tkbUVFdG90Z0c2NzFqNDRsM0M5ZlcyVmk0QUw1bkpzb3hLd1pBN196Tk15cGg4Sm1vZmczWW1IWE80Z2JjZzBWenE1WA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxNX1MyTmhFWmhEVlE2OVF5LTJjZllMY3JzaDhXWTJZYzh5VXhvbFVJdkp4cUJnU0Jlc2RVS3RYTDI4X1R2S2Z3ZzE3MU5tYXpfSzZ3ZmNDV3lXM29yWk9HbVNLN3lTUDFIREh1NGZwc2k2eVhqcENBa2hEZVV5dnFFdV9CN19aNXlMVWE2dndkRHZITHotX0QweS1RZ1JpUnBJdE1qR1J0Q1NYN2FKVEx6VGplVGQ2cWlVNFVYWmJlVlRXV2tfUk1uUzNVeVJVWDRZRTdGTDFlMzR0T0hOb1BTcUM3QjgzYjlvc3k4YTJpcnppaGs3UllGQ2l0UWU5a1IzMEI3S1VjZ191TEZnd0YyZEZtMjNxeG52YXBKYzktZ0RPMmpGVHRYTkNtMmk2TFNzc3FVajNSLUpVY1BLNk5NZFBDOHBUZVJETW43OWEzQkdBRFNzV2NjZlBGVWdabVNXNDV4TDdFbUN0WEk3RnNOcEc4bjRqSzlRUVJkb0VKTUhIWW41MHBITXplalZYV1JzYm13MEMzd2loMUtMRGgySHpiTDhOLWdGbHFXSw?oc=5",
       "source": "WSJ",
       "published_at": "Wed, 25 Mar 2026 16:59:00 GMT",
       "summary": "Federal Reserve Posted Loss of $18.7 Billion in 2025 WSJ",
-      "guid": "CBMirANBVV95cUxQdzlGenZXUjMyTEY0OUJSem5Ua092MndtalVDSHZQUGdtNGNtLV9qWUd6WUhlY0UtR2FBdV9rZGQzZFpNNHdoQnhsX1E2ZmRHZWQ1cFU1TURRVk1VQ3RzZ3VhLWNWRzZOeVAwdjNQLXVIYU9oRDNNd08ybUJBVkJWSlhfU2FMLUtHZ0hZdjFjV0ZOVkswWTc2YWxlV09hMXRGVk1vUzF5Q2FvdlJoVl93dWVEejlGaTZvYm1DUW03Y1p3aC11ejFDelMzbXg2aWt1bWt5enU5cFlrM0REVXkyZWZaVjFfTExmMy1zemRJVktCZ2d1am9DckpyV3hsQXFzZFFnanhrT0tRZWNQUGx6VHR3SU1aY0xoTmJ2YlVSbjNvRW9MeGpkVUhQTzgzYlJuYWVvZEIyc2Zoak5JR28ySzBGUERHVmJBTnExTDFVbnluSXMyRmdCbG41WVA5ZU8yaktZRndRS0tkbUVFdG90Z0c2NzFqNDRsM0M5ZlcyVmk0QUw1bkpzb3hLd1pBN196Tk15cGg4Sm1vZmczWW1IWE80Z2JjZzBWenE1WA"
+      "guid": "CBMirANBVV95cUxNX1MyTmhFWmhEVlE2OVF5LTJjZllMY3JzaDhXWTJZYzh5VXhvbFVJdkp4cUJnU0Jlc2RVS3RYTDI4X1R2S2Z3ZzE3MU5tYXpfSzZ3ZmNDV3lXM29yWk9HbVNLN3lTUDFIREh1NGZwc2k2eVhqcENBa2hEZVV5dnFFdV9CN19aNXlMVWE2dndkRHZITHotX0QweS1RZ1JpUnBJdE1qR1J0Q1NYN2FKVEx6VGplVGQ2cWlVNFVYWmJlVlRXV2tfUk1uUzNVeVJVWDRZRTdGTDFlMzR0T0hOb1BTcUM3QjgzYjlvc3k4YTJpcnppaGs3UllGQ2l0UWU5a1IzMEI3S1VjZ191TEZnd0YyZEZtMjNxeG52YXBKYzktZ0RPMmpGVHRYTkNtMmk2TFNzc3FVajNSLUpVY1BLNk5NZFBDOHBUZVJETW43OWEzQkdBRFNzV2NjZlBGVWdabVNXNDV4TDdFbUN0WEk3RnNOcEc4bjRqSzlRUVJkb0VKTUhIWW41MHBITXplalZYV1JzYm13MEMzd2loMUtMRGgySHpiTDhOLWdGbHFXSw"
     },
     {
-      "title": "Federal Reserve holds interest rates steady, signals one rate cut amid inflation uncertainty - usbank.com",
+      "title": "Federal Reserve holds interest rates steady, signals one rate cut amid inflation uncertainty - U.S. Bank",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw?oc=5",
-      "source": "usbank.com",
+      "source": "U.S. Bank",
       "published_at": "Wed, 18 Mar 2026 07:00:00 GMT",
-      "summary": "Federal Reserve holds interest rates steady, signals one rate cut amid inflation uncertainty usbank.com",
+      "summary": "Federal Reserve holds interest rates steady, signals one rate cut amid inflation uncertainty U.S. Bank",
       "guid": "CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw"
     },
     {
@@ -71,20 +79,12 @@
       "guid": "CBMikgFBVV95cUxQcDlaUGNFLWVrSEs5RjZnRW1BeVpHU2ZhM29EM0hzbkdyWFpiSXBzTlI0UUN1clptLVU2b2JVREZadUtFSGNuUUF6aTZmN0FLa2tEdlhiWG1CQmI5emo1TkpmUmtCTEJleHo5aV9IUndBZkdJaUhjaFhyZlhFWUtuNjk5MFlQbHhTSXpqSnVVTXZtdw"
     },
     {
-      "title": "March 19, 2026 -- Notice of Open Board Meeting - federalreserve.gov",
+      "title": "March 19, 2026 -- Notice of Open Board Meeting - Federal Reserve Board (.gov)",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9GVmtqUWJ0ZVZJeXVnVkFJWTF3N0JNekJqYl9UenpZMEJyeHZVUUUyTkU0dno3aVQ0UXlkSmVSSGl5TGhaTFcyQ0tIRDc0UTVuZzJ4LTVjWWJrZjlSbHRQSjF0a0NuNzRNaTJQUkZya3NxeHdtSGlKU05reG5Tdw?oc=5",
-      "source": "federalreserve.gov",
+      "source": "Federal Reserve Board (.gov)",
       "published_at": "Thu, 19 Mar 2026 07:00:00 GMT",
-      "summary": "March 19, 2026 -- Notice of Open Board Meeting federalreserve.gov",
+      "summary": "March 19, 2026 -- Notice of Open Board Meeting Federal Reserve Board (.gov)",
       "guid": "CBMifkFVX3lxTE9GVmtqUWJ0ZVZJeXVnVkFJWTF3N0JNekJqYl9UenpZMEJyeHZVUUUyTkU0dno3aVQ0UXlkSmVSSGl5TGhaTFcyQ0tIRDc0UTVuZzJ4LTVjWWJrZjlSbHRQSjF0a0NuNzRNaTJQUkZya3NxeHdtSGlKU05reG5Tdw"
-    },
-    {
-      "title": "Federal Reserve Watch: Lots Still Going On - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcWROa2ZnLU1kaE90ajQ4ZlNockxGV1loNTlUYzJoVzBJc3hXVnRGYWRGUUZIXy1zZGJWUERERGk4X3lmN1lIOURqcnQwQTJlUjFPbXV6ZWtVZ05iVmt5cG9nQURNN0haeExsTXdnMDdlLW5kWk80VGxmVXNxY1BmV2w2MHZDMkZGS3c?oc=5",
-      "source": "Seeking Alpha",
-      "published_at": "Fri, 27 Mar 2026 19:56:11 GMT",
-      "summary": "Federal Reserve Watch: Lots Still Going On Seeking Alpha",
-      "guid": "CBMiigFBVV95cUxQcWROa2ZnLU1kaE90ajQ4ZlNockxGV1loNTlUYzJoVzBJc3hXVnRGYWRGUUZIXy1zZGJWUERERGk4X3lmN1lIOURqcnQwQTJlUjFPbXV6ZWtVZ05iVmt5cG9nQURNN0haeExsTXdnMDdlLW5kWk80VGxmVXNxY1BmV2w2MHZDMkZGS3c"
     }
   ]
 }
