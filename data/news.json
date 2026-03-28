@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-28T12:29:46Z",
+  "generated_at": "2026-03-28T13:32:38Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,11 +7,11 @@
   },
   "items": [
     {
-      "title": "The market is starting to think the Federal Reserve's next move is raising interest rates - Yahoo Finance",
+      "title": "The market is starting to think the Federal Reserve's next move is raising interest rates - finance.yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNjloLUlWbldfb0h6ZkFHcmxOLVBVUmFOQkxHVE5VYTFOekFvR25yTDNkcTl5U0ZRWEl4ckxwQkd4bzlDWmdSalVGa25UTGp2WXF5djFmLVI2cnZaRUJBTTdTZG5MdlZ2LW1UcVBJc1M2VmltSXRYUE9teW5kWnRvME5FOTlINjRSZmV6M1pIb2htMElFdGV2YXVxbHFnNXlhQUxaeGEyTDljNHBsZUV0U0Rsb3NQb3BkWG9FczdLTlREUHZwSzF4bG41TkxFXzA?oc=5",
-      "source": "Yahoo Finance",
+      "source": "finance.yahoo.com",
       "published_at": "Fri, 27 Mar 2026 20:40:26 GMT",
-      "summary": "The market is starting to think the Federal Reserve's next move is raising interest rates Yahoo Finance",
+      "summary": "The market is starting to think the Federal Reserve's next move is raising interest rates finance.yahoo.com",
       "guid": "CBMizwFBVV95cUxPNjloLUlWbldfb0h6ZkFHcmxOLVBVUmFOQkxHVE5VYTFOekFvR25yTDNkcTl5U0ZRWEl4ckxwQkd4bzlDWmdSalVGa25UTGp2WXF5djFmLVI2cnZaRUJBTTdTZG5MdlZ2LW1UcVBJc1M2VmltSXRYUE9teW5kWnRvME5FOTlINjRSZmV6M1pIb2htMElFdGV2YXVxbHFnNXlhQUxaeGEyTDljNHBsZUV0U0Rsb3NQb3BkWG9FczdLTlREUHZwSzF4bG41TkxFXzA"
     },
     {
@@ -39,12 +39,12 @@
       "guid": "CBMimAFBVV95cUxQLURQbTZEUG04N3NLVElKUDIzMTdoN0RLOEp2dzdSSTA1bmlRckRIMUlzUmU3cFctX3U0eHZGcnh3cXVGYS0tRGlpNUR1dzhKWEdmWnh1Z0ZHSVVVZG1JY0d4UWo0Si1iYmZFYm9GZ1dEZGJGbGx5WExUTklLS05PRmlBc1FwWURzTGs3SEY2UkZULU1PdlYzVw"
     },
     {
-      "title": "Federal Reserve Posted Loss of $18.7 Billion in 2025 - wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxNLUlCNlM4c0tua2Nmajl4cFdubTV5aXZyRGFCQVJQZWh0UV9vS0wtMFlXV21hTDRnT0MtaWt0SURGWDdnb3A4Zi1MY3ByRHpMN2JYOTJmc0RaUWNONEcxSFhfZDhORkhweHRweDdZV0c2VzNSMnVFS0thOUlpeGR2NXoxejVaX1Y0NENLR0F0SHZPQm93aXBoYmowT3E4ZEJOeUl4Wk8wWjB5NFlsOFpYTkZGcGZMaEszMnNtWlB3T2Qya2Q0d1duazltV1ZBdThpUGtobW1VWG9qYjZSeDNYVm5zUmo3TTE1YkoyWUpqT1FTbTNieTdWSUlVSUpOUk52aXhqY3FuR3ZoRFpDSDhtTURMaHhSUDBZZ2h2cTZHaGVIQ25aTUF0VnVzb3BScTZBQk5Jd1dfbWd4VFpqa3JoWjU5bkt5YkdmblZIWHpFMjFPTkxXSE9zRzl0ZEVDT244eENkRy1Nb0NJcF9jZk1Ub1VwUV91cWcxaXNSR3NNRFdhQUpwZnNuN0lFTEFoS0lqVVN3c3VWM2Z6TU83aHlSNzlJMUp2M0JTTjY4cQ?oc=5",
-      "source": "wsj.com",
+      "title": "Federal Reserve Posted Loss of $18.7 Billion in 2025 - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxQdWZYMkFLT2dJZk5NR2pNb2hjSWdoYUxzTWxHYjdBRWVoOXFFd1NwVUViNk1vejhMZDl3OGdCVlFNMUJlM1lPX2ZLanJSUTdocFlMV2hWYnhKVzJUUGdoX184R2JLNVpGZTUtQk50WU1hRXZVamlmdkxGZjM2Mk1WZmRJajBpOFZPOUZaZzdlVjM3VVhpcG0yQ05FMF95cGw4U2ZUOE11SDk2U21VaDhNaV9uNUhWU3NkbW9uNl9DVW55aWVkMGZxdkViSW80RkxqN2g0NGN4UU5EOTNVTV9nS1duNExjMHdWUUFqMzl0eWFwbHg5VVlaRmZkN001elpueUxxMkM5azJmbm1kVkw3ZE5GdllhWW5HY3l6N3p4bTBWQjVZMUJKeUVlUDAyLVo1czkySXBmOGV1WUxaeDZCMk80d09XdUNYTFZYdVkzQktud3RMa256WDZNNm9wclA4cm5nTEYxUFE5ZE16Vzg5RlZ0N2tReDhLSDJLQmVHLUNONWpQa01wZ3A4Q1JEZnBLTXVjZFhnNTJMMTNYVWItZDIzdFpmbDI4NnFNMQ?oc=5",
+      "source": "WSJ",
       "published_at": "Wed, 25 Mar 2026 16:59:00 GMT",
-      "summary": "Federal Reserve Posted Loss of $18.7 Billion in 2025 wsj.com",
-      "guid": "CBMirANBVV95cUxNLUlCNlM4c0tua2Nmajl4cFdubTV5aXZyRGFCQVJQZWh0UV9vS0wtMFlXV21hTDRnT0MtaWt0SURGWDdnb3A4Zi1MY3ByRHpMN2JYOTJmc0RaUWNONEcxSFhfZDhORkhweHRweDdZV0c2VzNSMnVFS0thOUlpeGR2NXoxejVaX1Y0NENLR0F0SHZPQm93aXBoYmowT3E4ZEJOeUl4Wk8wWjB5NFlsOFpYTkZGcGZMaEszMnNtWlB3T2Qya2Q0d1duazltV1ZBdThpUGtobW1VWG9qYjZSeDNYVm5zUmo3TTE1YkoyWUpqT1FTbTNieTdWSUlVSUpOUk52aXhqY3FuR3ZoRFpDSDhtTURMaHhSUDBZZ2h2cTZHaGVIQ25aTUF0VnVzb3BScTZBQk5Jd1dfbWd4VFpqa3JoWjU5bkt5YkdmblZIWHpFMjFPTkxXSE9zRzl0ZEVDT244eENkRy1Nb0NJcF9jZk1Ub1VwUV91cWcxaXNSR3NNRFdhQUpwZnNuN0lFTEFoS0lqVVN3c3VWM2Z6TU83aHlSNzlJMUp2M0JTTjY4cQ"
+      "summary": "Federal Reserve Posted Loss of $18.7 Billion in 2025 WSJ",
+      "guid": "CBMirANBVV95cUxQdWZYMkFLT2dJZk5NR2pNb2hjSWdoYUxzTWxHYjdBRWVoOXFFd1NwVUViNk1vejhMZDl3OGdCVlFNMUJlM1lPX2ZLanJSUTdocFlMV2hWYnhKVzJUUGdoX184R2JLNVpGZTUtQk50WU1hRXZVamlmdkxGZjM2Mk1WZmRJajBpOFZPOUZaZzdlVjM3VVhpcG0yQ05FMF95cGw4U2ZUOE11SDk2U21VaDhNaV9uNUhWU3NkbW9uNl9DVW55aWVkMGZxdkViSW80RkxqN2g0NGN4UU5EOTNVTV9nS1duNExjMHdWUUFqMzl0eWFwbHg5VVlaRmZkN001elpueUxxMkM5azJmbm1kVkw3ZE5GdllhWW5HY3l6N3p4bTBWQjVZMUJKeUVlUDAyLVo1czkySXBmOGV1WUxaeDZCMk80d09XdUNYTFZYdVkzQktud3RMa256WDZNNm9wclA4cm5nTEYxUFE5ZE16Vzg5RlZ0N2tReDhLSDJLQmVHLUNONWpQa01wZ3A4Q1JEZnBLTXVjZFhnNTJMMTNYVWItZDIzdFpmbDI4NnFNMQ"
     },
     {
       "title": "Federal Reserve Watch: Lots Still Going On - Seeking Alpha",
@@ -79,11 +79,11 @@
       "guid": "CBMifkFVX3lxTE9GVmtqUWJ0ZVZJeXVnVkFJWTF3N0JNekJqYl9UenpZMEJyeHZVUUUyTkU0dno3aVQ0UXlkSmVSSGl5TGhaTFcyQ0tIRDc0UTVuZzJ4LTVjWWJrZjlSbHRQSjF0a0NuNzRNaTJQUkZya3NxeHdtSGlKU05reG5Tdw"
     },
     {
-      "title": "The Federal Reserve Is Raising Red Flags, and the Stock Market Isn't Listening - Yahoo Finance",
+      "title": "The Federal Reserve Is Raising Red Flags, and the Stock Market Isn't Listening - finance.yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRjJsN0JkeGxvWlM2R2dFenRqOHZqRFlreGZsYjZHbTBtUVh4VGdDMHVQeS1IcGJZZXNHUFFSbFFJWHZmZDRtVG9XMURsOFJ4RmpnUHU3Q19fRlN4STBab1d2RXBNMVdoWGFUcVlmNzVYNG9LTG94VWVCdHpXUTJ1NF9yMzNPa2szdTV3UXM0ejB0NFE4UHVneFh0Rko?oc=5",
-      "source": "Yahoo Finance",
+      "source": "finance.yahoo.com",
       "published_at": "Sun, 22 Mar 2026 15:05:00 GMT",
-      "summary": "The Federal Reserve Is Raising Red Flags, and the Stock Market Isn't Listening Yahoo Finance",
+      "summary": "The Federal Reserve Is Raising Red Flags, and the Stock Market Isn't Listening finance.yahoo.com",
       "guid": "CBMinAFBVV95cUxQRjJsN0JkeGxvWlM2R2dFenRqOHZqRFlreGZsYjZHbTBtUVh4VGdDMHVQeS1IcGJZZXNHUFFSbFFJWHZmZDRtVG9XMURsOFJ4RmpnUHU3Q19fRlN4STBab1d2RXBNMVdoWGFUcVlmNzVYNG9LTG94VWVCdHpXUTJ1NF9yMzNPa2szdTV3UXM0ejB0NFE4UHVneFh0Rko"
     }
   ]
