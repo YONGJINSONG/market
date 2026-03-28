@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-28T07:12:15Z",
+  "generated_at": "2026-03-28T07:52:00Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,11 +7,11 @@
   },
   "items": [
     {
-      "title": "The market is starting to think the Federal Reserve's next move is raising interest rates - Yahoo Finance",
+      "title": "The market is starting to think the Federal Reserve's next move is raising interest rates - finance.yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNjloLUlWbldfb0h6ZkFHcmxOLVBVUmFOQkxHVE5VYTFOekFvR25yTDNkcTl5U0ZRWEl4ckxwQkd4bzlDWmdSalVGa25UTGp2WXF5djFmLVI2cnZaRUJBTTdTZG5MdlZ2LW1UcVBJc1M2VmltSXRYUE9teW5kWnRvME5FOTlINjRSZmV6M1pIb2htMElFdGV2YXVxbHFnNXlhQUxaeGEyTDljNHBsZUV0U0Rsb3NQb3BkWG9FczdLTlREUHZwSzF4bG41TkxFXzA?oc=5",
-      "source": "Yahoo Finance",
+      "source": "finance.yahoo.com",
       "published_at": "Fri, 27 Mar 2026 20:40:26 GMT",
-      "summary": "The market is starting to think the Federal Reserve's next move is raising interest rates Yahoo Finance",
+      "summary": "The market is starting to think the Federal Reserve's next move is raising interest rates finance.yahoo.com",
       "guid": "CBMizwFBVV95cUxPNjloLUlWbldfb0h6ZkFHcmxOLVBVUmFOQkxHVE5VYTFOekFvR25yTDNkcTl5U0ZRWEl4ckxwQkd4bzlDWmdSalVGa25UTGp2WXF5djFmLVI2cnZaRUJBTTdTZG5MdlZ2LW1UcVBJc1M2VmltSXRYUE9teW5kWnRvME5FOTlINjRSZmV6M1pIb2htMElFdGV2YXVxbHFnNXlhQUxaeGEyTDljNHBsZUV0U0Rsb3NQb3BkWG9FczdLTlREUHZwSzF4bG41TkxFXzA"
     },
     {
@@ -31,12 +31,12 @@
       "guid": "CBMiigFBVV95cUxQcWROa2ZnLU1kaE90ajQ4ZlNockxGV1loNTlUYzJoVzBJc3hXVnRGYWRGUUZIXy1zZGJWUERERGk4X3lmN1lIOURqcnQwQTJlUjFPbXV6ZWtVZ05iVmt5cG9nQURNN0haeExsTXdnMDdlLW5kWk80VGxmVXNxY1BmV2w2MHZDMkZGS3c"
     },
     {
-      "title": "Federal Reserve Posted Loss of $18.7 Billion in 2025 - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxQR19PTDljLXhCRGJtNlZUQVRqQ19WdFpmbkJHYWlTM0tfcnZVRE1jQ09hQnlLYUtUamw0Smx3T2N2QW5Pd3AtUk5vQVJnRVRwVHFQWnJaRGpFamZ3SDNfQlRxMVZNbHo1YTJVWW9sRUJSdzc2MW5hTHNYTEdEZGJPd2dUM1ZzcV9UY0dsc1hneTNSSzd4SUROSmtHanc5QVg0U2ItZmp2bElGZFRhTm15V0NsUFdiLWtoWUEyVWpRcnhNOTBXeWR3Rlh2QjVvb0ZkMDc4Zkh4V2ViRmIzLUxvbjVWZUNCelBlVkpUZzhUR3VodTl0c3AzbmNqLVJzSTdVdjFXMzhacVdUOWpFSWd4VE54Y1liczBZVzlpVW9QWnpnMGJGRFZzMUp3STJfSWlULW82VXZxdmsyRGstbU03MmpNaTZ4ZWhocXd3SGo3NUV3YzFkaE1yV0JMV2p1VE1ZUWNuYWUzVG5oSmV2Q1R6b045Sm5qOVlHWWpEVWZmWUVCVDI4cGktZm5WNUVDRFI2RzRuR2U0MWtGbGFrX0YzejJZbzBKd3Z4TGlFWQ?oc=5",
-      "source": "WSJ",
+      "title": "Federal Reserve Posted Loss of $18.7 Billion in 2025 - wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxNSWEyNThPZDNRYjdqZDdjMklVUW1vc0h0YnYydE05Vmd0Q09hS0ZLSFJVNmt4aE42ZDZmczdsMzdzWm5uLVZaamRyS3Q4cmtrcUpkNGZzbnl6SlVGNUptVjVSUFQzX2E4X1lSaXBDZEtZQVRaLXZ4dUVpSldxd0JBTW9kWEIta2ladHNtcFpDa183TVNieHdOdGhHbFFFN0w5UTNkbVpsZzNuLUk0M0toZWxGYXNhZHF1TmNMaURieVVqQ2FFbDhSOWVMcnpZU2pMQmE1Znp4WXdGWHVWUzE1eEpYdEFmUHRyLVVmZl9rSGFFcjhETnNQSUUzZmVkMDFRRk5YR3paa1hiaXlNQXRpRlIwOWN3eXQ5R0RJV2ZYenplaFdsMDQ3a2hfS2d1UGR2VTA4M0NhRHJuNGNVTlhVR2ZndnNTdmpIc21TU2lVZzVYV0lyTlJEaXhwYWlzY2F0TnpoSjVlYVlkNFZ6bGI5M283TnhpejJQNU5NZlphSjRldVc2cjFNU1NTSDFEdmNraDBJS09nSGFiblE3OEszQzZXYkNBZ2Q4M2FzaQ?oc=5",
+      "source": "wsj.com",
       "published_at": "Wed, 25 Mar 2026 16:59:00 GMT",
-      "summary": "Federal Reserve Posted Loss of $18.7 Billion in 2025 WSJ",
-      "guid": "CBMirANBVV95cUxQR19PTDljLXhCRGJtNlZUQVRqQ19WdFpmbkJHYWlTM0tfcnZVRE1jQ09hQnlLYUtUamw0Smx3T2N2QW5Pd3AtUk5vQVJnRVRwVHFQWnJaRGpFamZ3SDNfQlRxMVZNbHo1YTJVWW9sRUJSdzc2MW5hTHNYTEdEZGJPd2dUM1ZzcV9UY0dsc1hneTNSSzd4SUROSmtHanc5QVg0U2ItZmp2bElGZFRhTm15V0NsUFdiLWtoWUEyVWpRcnhNOTBXeWR3Rlh2QjVvb0ZkMDc4Zkh4V2ViRmIzLUxvbjVWZUNCelBlVkpUZzhUR3VodTl0c3AzbmNqLVJzSTdVdjFXMzhacVdUOWpFSWd4VE54Y1liczBZVzlpVW9QWnpnMGJGRFZzMUp3STJfSWlULW82VXZxdmsyRGstbU03MmpNaTZ4ZWhocXd3SGo3NUV3YzFkaE1yV0JMV2p1VE1ZUWNuYWUzVG5oSmV2Q1R6b045Sm5qOVlHWWpEVWZmWUVCVDI4cGktZm5WNUVDRFI2RzRuR2U0MWtGbGFrX0YzejJZbzBKd3Z4TGlFWQ"
+      "summary": "Federal Reserve Posted Loss of $18.7 Billion in 2025 wsj.com",
+      "guid": "CBMirANBVV95cUxNSWEyNThPZDNRYjdqZDdjMklVUW1vc0h0YnYydE05Vmd0Q09hS0ZLSFJVNmt4aE42ZDZmczdsMzdzWm5uLVZaamRyS3Q4cmtrcUpkNGZzbnl6SlVGNUptVjVSUFQzX2E4X1lSaXBDZEtZQVRaLXZ4dUVpSldxd0JBTW9kWEIta2ladHNtcFpDa183TVNieHdOdGhHbFFFN0w5UTNkbVpsZzNuLUk0M0toZWxGYXNhZHF1TmNMaURieVVqQ2FFbDhSOWVMcnpZU2pMQmE1Znp4WXdGWHVWUzE1eEpYdEFmUHRyLVVmZl9rSGFFcjhETnNQSUUzZmVkMDFRRk5YR3paa1hiaXlNQXRpRlIwOWN3eXQ5R0RJV2ZYenplaFdsMDQ3a2hfS2d1UGR2VTA4M0NhRHJuNGNVTlhVR2ZndnNTdmpIc21TU2lVZzVYV0lyTlJEaXhwYWlzY2F0TnpoSjVlYVlkNFZ6bGI5M283TnhpejJQNU5NZlphSjRldVc2cjFNU1NTSDFEdmNraDBJS09nSGFiblE3OEszQzZXYkNBZ2Q4M2FzaQ"
     },
     {
       "title": "Federal Reserve holds interest rates steady, signals one rate cut amid inflation uncertainty - U.S. Bank",
@@ -55,11 +55,11 @@
       "guid": "CBMikgFBVV95cUxQcDlaUGNFLWVrSEs5RjZnRW1BeVpHU2ZhM29EM0hzbkdyWFpiSXBzTlI0UUN1clptLVU2b2JVREZadUtFSGNuUUF6aTZmN0FLa2tEdlhiWG1CQmI5emo1TkpmUmtCTEJleHo5aV9IUndBZkdJaUhjaFhyZlhFWUtuNjk5MFlQbHhTSXpqSnVVTXZtdw"
     },
     {
-      "title": "The Federal Reserve Has Become a Stock Market Liability, and President Trump's New Nominee for Chair Won't Help - The Motley Fool",
+      "title": "The Federal Reserve Has Become a Stock Market Liability, and President Trump's New Nominee for Chair Won't Help - fool.com",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOUN5MHFlVmh2ZFI3eXp1ODZCS0E1WGZNdkt4Q1lWZHBXY1N4bXl4bjk3VGRoUU83Rk9tRzNsOGJ6SWx4Ukk0eTRhOUZ2aHZnVDFOQkg3d3JuNEp6SjV0RUFYUzVBN003V0U2SmFEczdJd3FZWnRaVnY2ZG1pVjI1Zl9jcXhGSV9fUW8xTHZEbmFCNnJONjBR?oc=5",
-      "source": "The Motley Fool",
+      "source": "fool.com",
       "published_at": "Mon, 16 Mar 2026 07:00:00 GMT",
-      "summary": "The Federal Reserve Has Become a Stock Market Liability, and President Trump's New Nominee for Chair Won't Help The Motley Fool",
+      "summary": "The Federal Reserve Has Become a Stock Market Liability, and President Trump's New Nominee for Chair Won't Help fool.com",
       "guid": "CBMilwFBVV95cUxOOUN5MHFlVmh2ZFI3eXp1ODZCS0E1WGZNdkt4Q1lWZHBXY1N4bXl4bjk3VGRoUU83Rk9tRzNsOGJ6SWx4Ukk0eTRhOUZ2aHZnVDFOQkg3d3JuNEp6SjV0RUFYUzVBN003V0U2SmFEczdJd3FZWnRaVnY2ZG1pVjI1Zl9jcXhGSV9fUW8xTHZEbmFCNnJONjBR"
     },
     {
@@ -71,20 +71,20 @@
       "guid": "CBMifkFVX3lxTE9GVmtqUWJ0ZVZJeXVnVkFJWTF3N0JNekJqYl9UenpZMEJyeHZVUUUyTkU0dno3aVQ0UXlkSmVSSGl5TGhaTFcyQ0tIRDc0UTVuZzJ4LTVjWWJrZjlSbHRQSjF0a0NuNzRNaTJQUkZya3NxeHdtSGlKU05reG5Tdw"
     },
     {
-      "title": "The Federal Reserve Is Raising Red Flags, and the Stock Market Isn't Listening - Yahoo Finance",
+      "title": "The Federal Reserve Is Raising Red Flags, and the Stock Market Isn't Listening - finance.yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRjJsN0JkeGxvWlM2R2dFenRqOHZqRFlreGZsYjZHbTBtUVh4VGdDMHVQeS1IcGJZZXNHUFFSbFFJWHZmZDRtVG9XMURsOFJ4RmpnUHU3Q19fRlN4STBab1d2RXBNMVdoWGFUcVlmNzVYNG9LTG94VWVCdHpXUTJ1NF9yMzNPa2szdTV3UXM0ejB0NFE4UHVneFh0Rko?oc=5",
-      "source": "Yahoo Finance",
+      "source": "finance.yahoo.com",
       "published_at": "Sun, 22 Mar 2026 15:05:00 GMT",
-      "summary": "The Federal Reserve Is Raising Red Flags, and the Stock Market Isn't Listening Yahoo Finance",
+      "summary": "The Federal Reserve Is Raising Red Flags, and the Stock Market Isn't Listening finance.yahoo.com",
       "guid": "CBMinAFBVV95cUxQRjJsN0JkeGxvWlM2R2dFenRqOHZqRFlreGZsYjZHbTBtUVh4VGdDMHVQeS1IcGJZZXNHUFFSbFFJWHZmZDRtVG9XMURsOFJ4RmpnUHU3Q19fRlN4STBab1d2RXBNMVdoWGFUcVlmNzVYNG9LTG94VWVCdHpXUTJ1NF9yMzNPa2szdTV3UXM0ejB0NFE4UHVneFh0Rko"
     },
     {
-      "title": "Fed narrowly approves Morgan Stanley plan for German arm - American Banker",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNc3FCNzI2X1lUeDhvRkZTRUNKS21Mb3ptMFdka3hqdGhTNWxaaVZBWWtuN3p5U2VCZWo0c3hvdUViNEY5NkhoSEpuSVFGeWFSM1U5MXZPQzZrd0xlVFZjTU5CU3hicXJmX2xxRjhIM3F4SUtSYzFUWFJtTmxjQnBoZE8zOGZJZjMwUDkxcHIydzN2ckhYZDNv?oc=5",
-      "source": "American Banker",
-      "published_at": "Fri, 27 Mar 2026 00:15:00 GMT",
-      "summary": "Fed narrowly approves Morgan Stanley plan for German arm American Banker",
-      "guid": "CBMilwFBVV95cUxNc3FCNzI2X1lUeDhvRkZTRUNKS21Mb3ptMFdka3hqdGhTNWxaaVZBWWtuN3p5U2VCZWo0c3hvdUViNEY5NkhoSEpuSVFGeWFSM1U5MXZPQzZrd0xlVFZjTU5CU3hicXJmX2xxRjhIM3F4SUtSYzFUWFJtTmxjQnBoZE8zOGZJZjMwUDkxcHIydzN2ckhYZDNv"
+      "title": "Trump’s Iran War May Mark the Beginning of the End for Dollar-Backed US Empire - Truthout",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV2NQazF4Z0ctRm9ZVzNMRnI0RlZhaENid0k3OXhSYkcwdURYMkRXODAyTk5HQTg1T25ELTNpdURMRWRSU05NLXlRZzJac0VBOThreWE4Q2dMRVpORjB4ZkVydGE3ZlZqUHhwZmlrX3NHNmtXdWw1QVFaOG1rVTJIT09wLUNEakJVdUJhN3A5cDlJTXJYQXd3NEJDeHBuc0JGQVlBR05PTDJQYU5R?oc=5",
+      "source": "Truthout",
+      "published_at": "Wed, 25 Mar 2026 20:49:29 GMT",
+      "summary": "Trump’s Iran War May Mark the Beginning of the End for Dollar-Backed US Empire Truthout",
+      "guid": "CBMirAFBVV95cUxOV2NQazF4Z0ctRm9ZVzNMRnI0RlZhaENid0k3OXhSYkcwdURYMkRXODAyTk5HQTg1T25ELTNpdURMRWRSU05NLXlRZzJac0VBOThreWE4Q2dMRVpORjB4ZkVydGE3ZlZqUHhwZmlrX3NHNmtXdWw1QVFaOG1rVTJIT09wLUNEakJVdUJhN3A5cDlJTXJYQXd3NEJDeHBuc0JGQVlBR05PTDJQYU5R"
     }
   ]
 }
