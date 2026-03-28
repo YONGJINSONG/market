@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-28T09:02:21Z",
+  "generated_at": "2026-03-28T09:51:23Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -39,12 +39,12 @@
       "guid": "CBMiigFBVV95cUxQcWROa2ZnLU1kaE90ajQ4ZlNockxGV1loNTlUYzJoVzBJc3hXVnRGYWRGUUZIXy1zZGJWUERERGk4X3lmN1lIOURqcnQwQTJlUjFPbXV6ZWtVZ05iVmt5cG9nQURNN0haeExsTXdnMDdlLW5kWk80VGxmVXNxY1BmV2w2MHZDMkZGS3c"
     },
     {
-      "title": "Federal Reserve Posted Loss of $18.7 Billion in 2025 - wsj.com",
-      "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxOUDJ3SUtwQlBKYXp5Q09NRUtHVDdVaU53eTJ6b2Ryb2FucnRGclRnSmR6UC0yR3QzaXE2bU9hTmtQWnFrQ0ZMdE5FeVNPc1pweWxNb1I3SWNZYzhtZENKUkZCVzU3MVk5V3BPTXFDdkJDOGhic1huLWlLVDMyUURNS19wVzFUUFBVcHFVRHBpenZYVjZPWC1qckJ0WHlfcnY3UnRRRnhRT1ktSzJEQTFrQW9DRW9lYkZqc2stSlpXQmZIMm5vcU5idFhKbWg1VG42YzhwYnJHRkFHbDhqOXRxS3VjTWdEUjltMTdFN0t5elFwcThOZGcyYUZxSXhjUE5tUmNmSWFwUnBjZkNTVHRfZ0ZlQ3JJN3RoWmJrblVjZG1NLVpCbnlVMzU5WEhBRlBHbjFRZjFqeUE2a1RNOGRKd3JwdEVZWmdfQTdpeG5MS08zS01yTnh4NG9HUmMxdXBzQXlSVVJqRVp3QWNFRHRDUm9EaktnY0lsc2tFMjZ6aTh6MUJyTTJVVEpPVFY1R3ZXTm5uc1RKYUFnRjA1NWZKRjJaN3h3Uk5BZ0s2aw?oc=5",
-      "source": "wsj.com",
+      "title": "Federal Reserve Posted Loss of $18.7 Billion in 2025 - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxOaG95SEtlMXVGZURwMkVzRDJtS003bzZxdFA5ZXJYQk5PMXpCSGpGMzhzTFU5aFg5SUZfZ1RTWF83dllSYmttTDZjZW83Y3BDZzhBcW8zenNWRUtMLU85VGg4WGd1Y3FGMTJmS1ZNOEs1Zlh0MzV2ZWRGU21QZWphZzRVWWFIYUVEVEtyMklWMjhlczRSYm43bEk3ZzZyZVJJbHNuUnFZd3cxMUowWjAyNXNhWnpheHhLaHdCNEVvMDEySjZRNUkzdzZwSzhfU1ZNazE1T2F3eVlYamFpNmhOZTFFOW5FbUt3SGJEZWJCRURzOWlHb3JrVV9UWlNNR2VFZGgyQjVvcjRnVkd4YUpGRkFTQnFiZWlKVTVrQW1ZbEZTLWlDSi02TWJKOThZV0FveEhCbVVweUR4cV85dmFnMjlVMGlNMk83dS04UzRjekc3SEVRbGtaOGpVcUpYcVNROFViQUlrOW5nMXNWdmh3RmpVZUdKLXRkbFVFSmVaT3JkVUllQV9QRnFQMUJ6N3BuUGh0VGdnX050TVdidFZCTldiRVFvMW5SUm5Rdw?oc=5",
+      "source": "WSJ",
       "published_at": "Wed, 25 Mar 2026 16:59:00 GMT",
-      "summary": "Federal Reserve Posted Loss of $18.7 Billion in 2025 wsj.com",
-      "guid": "CBMirANBVV95cUxOUDJ3SUtwQlBKYXp5Q09NRUtHVDdVaU53eTJ6b2Ryb2FucnRGclRnSmR6UC0yR3QzaXE2bU9hTmtQWnFrQ0ZMdE5FeVNPc1pweWxNb1I3SWNZYzhtZENKUkZCVzU3MVk5V3BPTXFDdkJDOGhic1huLWlLVDMyUURNS19wVzFUUFBVcHFVRHBpenZYVjZPWC1qckJ0WHlfcnY3UnRRRnhRT1ktSzJEQTFrQW9DRW9lYkZqc2stSlpXQmZIMm5vcU5idFhKbWg1VG42YzhwYnJHRkFHbDhqOXRxS3VjTWdEUjltMTdFN0t5elFwcThOZGcyYUZxSXhjUE5tUmNmSWFwUnBjZkNTVHRfZ0ZlQ3JJN3RoWmJrblVjZG1NLVpCbnlVMzU5WEhBRlBHbjFRZjFqeUE2a1RNOGRKd3JwdEVZWmdfQTdpeG5MS08zS01yTnh4NG9HUmMxdXBzQXlSVVJqRVp3QWNFRHRDUm9EaktnY0lsc2tFMjZ6aTh6MUJyTTJVVEpPVFY1R3ZXTm5uc1RKYUFnRjA1NWZKRjJaN3h3Uk5BZ0s2aw"
+      "summary": "Federal Reserve Posted Loss of $18.7 Billion in 2025 WSJ",
+      "guid": "CBMirANBVV95cUxOaG95SEtlMXVGZURwMkVzRDJtS003bzZxdFA5ZXJYQk5PMXpCSGpGMzhzTFU5aFg5SUZfZ1RTWF83dllSYmttTDZjZW83Y3BDZzhBcW8zenNWRUtMLU85VGg4WGd1Y3FGMTJmS1ZNOEs1Zlh0MzV2ZWRGU21QZWphZzRVWWFIYUVEVEtyMklWMjhlczRSYm43bEk3ZzZyZVJJbHNuUnFZd3cxMUowWjAyNXNhWnpheHhLaHdCNEVvMDEySjZRNUkzdzZwSzhfU1ZNazE1T2F3eVlYamFpNmhOZTFFOW5FbUt3SGJEZWJCRURzOWlHb3JrVV9UWlNNR2VFZGgyQjVvcjRnVkd4YUpGRkFTQnFiZWlKVTVrQW1ZbEZTLWlDSi02TWJKOThZV0FveEhCbVVweUR4cV85dmFnMjlVMGlNMk83dS04UzRjekc3SEVRbGtaOGpVcUpYcVNROFViQUlrOW5nMXNWdmh3RmpVZUdKLXRkbFVFSmVaT3JkVUllQV9QRnFQMUJ6N3BuUGh0VGdnX050TVdidFZCTldiRVFvMW5SUm5Rdw"
     },
     {
       "title": "Federal Reserve holds interest rates steady, signals one rate cut amid inflation uncertainty - U.S. Bank",
@@ -63,11 +63,11 @@
       "guid": "CBMikgFBVV95cUxQcDlaUGNFLWVrSEs5RjZnRW1BeVpHU2ZhM29EM0hzbkdyWFpiSXBzTlI0UUN1clptLVU2b2JVREZadUtFSGNuUUF6aTZmN0FLa2tEdlhiWG1CQmI5emo1TkpmUmtCTEJleHo5aV9IUndBZkdJaUhjaFhyZlhFWUtuNjk5MFlQbHhTSXpqSnVVTXZtdw"
     },
     {
-      "title": "The Federal Reserve Has Become a Stock Market Liability, and President Trump's New Nominee for Chair Won't Help - fool.com",
+      "title": "The Federal Reserve Has Become a Stock Market Liability, and President Trump's New Nominee for Chair Won't Help - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOUN5MHFlVmh2ZFI3eXp1ODZCS0E1WGZNdkt4Q1lWZHBXY1N4bXl4bjk3VGRoUU83Rk9tRzNsOGJ6SWx4Ukk0eTRhOUZ2aHZnVDFOQkg3d3JuNEp6SjV0RUFYUzVBN003V0U2SmFEczdJd3FZWnRaVnY2ZG1pVjI1Zl9jcXhGSV9fUW8xTHZEbmFCNnJONjBR?oc=5",
-      "source": "fool.com",
+      "source": "The Motley Fool",
       "published_at": "Mon, 16 Mar 2026 07:00:00 GMT",
-      "summary": "The Federal Reserve Has Become a Stock Market Liability, and President Trump's New Nominee for Chair Won't Help fool.com",
+      "summary": "The Federal Reserve Has Become a Stock Market Liability, and President Trump's New Nominee for Chair Won't Help The Motley Fool",
       "guid": "CBMilwFBVV95cUxOOUN5MHFlVmh2ZFI3eXp1ODZCS0E1WGZNdkt4Q1lWZHBXY1N4bXl4bjk3VGRoUU83Rk9tRzNsOGJ6SWx4Ukk0eTRhOUZ2aHZnVDFOQkg3d3JuNEp6SjV0RUFYUzVBN003V0U2SmFEczdJd3FZWnRaVnY2ZG1pVjI1Zl9jcXhGSV9fUW8xTHZEbmFCNnJONjBR"
     },
     {
