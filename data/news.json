@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-29T14:57:07Z",
+  "generated_at": "2026-03-29T15:26:24Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -15,11 +15,11 @@
       "guid": "CBMijwFBVV95cUxPeEszZS1kSDFLeW9BNHFLS1p6QV9Tc0RuSGlwLWh2MHVybVJaQVhIeGs1dVAySHRiSGtZclRuWmNzNjVtWXppbE9IakRudktRTjZDaGFoTWJ1b0VZMXpXSnFzRW5GeGhGdUZnSzBWQkh6X29tcmVwMGdiRzNqMTNSM1JSQ0xRZDVyQUhhVFo4aw"
     },
     {
-      "title": "The New York Stock Exchange | NYSE - NYSE",
+      "title": "NYSE - NYSE",
       "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE93UWVlU3g1TVNpdTNEcjI2Yk9kSHU2Tnh5Y0stVFBGRWVkLW9wbU1EbHhQaHdIOE56d2V5NXVhSQ?oc=5",
       "source": "NYSE",
       "published_at": "Fri, 27 Mar 2026 22:00:00 GMT",
-      "summary": "The New York Stock Exchange | NYSE NYSE",
+      "summary": "NYSE NYSE",
       "guid": "CBMiP0FVX3lxTE93UWVlU3g1TVNpdTNEcjI2Yk9kSHU2Tnh5Y0stVFBGRWVkLW9wbU1EbHhQaHdIOE56d2V5NXVhSQ"
     },
     {
@@ -79,11 +79,11 @@
       "guid": "CBMivwFBVV95cUxOM1dfLWVxeDJGbVNDYU9vWU8xOW5Fbk9rWk5KREtjbWFDcWFfdzAyVE5WMDhINUpWbWVDVWZmRHBSSlN3blk5alBHd3B1RE5JSmVMRTd3SXhNQmZWdDllUDFCU1lwTk9zcmpBSmhmazM5OEhIWEVHMlhHTDY4M1luNXJ5TExQbi1RMjBLbmpZd3BqLU1zanlvM0hvVWhVcWtiSWZBOV9ENTJmTWUtQzIxdmprYlpGNnJzQk11T1ZfWQ"
     },
     {
-      "title": "Federal Reserve Watch: Lots Still Going On - seekingalpha.com",
+      "title": "Federal Reserve Watch: Lots Still Going On - Seeking Alpha",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcWROa2ZnLU1kaE90ajQ4ZlNockxGV1loNTlUYzJoVzBJc3hXVnRGYWRGUUZIXy1zZGJWUERERGk4X3lmN1lIOURqcnQwQTJlUjFPbXV6ZWtVZ05iVmt5cG9nQURNN0haeExsTXdnMDdlLW5kWk80VGxmVXNxY1BmV2w2MHZDMkZGS3c?oc=5",
-      "source": "seekingalpha.com",
+      "source": "Seeking Alpha",
       "published_at": "Fri, 27 Mar 2026 19:56:11 GMT",
-      "summary": "Federal Reserve Watch: Lots Still Going On seekingalpha.com",
+      "summary": "Federal Reserve Watch: Lots Still Going On Seeking Alpha",
       "guid": "CBMiigFBVV95cUxQcWROa2ZnLU1kaE90ajQ4ZlNockxGV1loNTlUYzJoVzBJc3hXVnRGYWRGUUZIXy1zZGJWUERERGk4X3lmN1lIOURqcnQwQTJlUjFPbXV6ZWtVZ05iVmt5cG9nQURNN0haeExsTXdnMDdlLW5kWk80VGxmVXNxY1BmV2w2MHZDMkZGS3c"
     }
   ]
