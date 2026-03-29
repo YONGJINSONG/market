@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-29T10:21:37Z",
+  "generated_at": "2026-03-29T10:57:13Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -13,6 +13,14 @@
       "published_at": "Sun, 29 Mar 2026 10:17:57 GMT",
       "summary": "Fed Chair Jerome Powell Just Sent a Signal That Could Shake the Stock Market The Motley Fool",
       "guid": "CBMijwFBVV95cUxPeEszZS1kSDFLeW9BNHFLS1p6QV9Tc0RuSGlwLWh2MHVybVJaQVhIeGs1dVAySHRiSGtZclRuWmNzNjVtWXppbE9IakRudktRTjZDaGFoTWJ1b0VZMXpXSnFzRW5GeGhGdUZnSzBWQkh6X29tcmVwMGdiRzNqMTNSM1JSQ0xRZDVyQUhhVFo4aw"
+    },
+    {
+      "title": "The New York Stock Exchange | NYSE - NYSE",
+      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE93UWVlU3g1TVNpdTNEcjI2Yk9kSHU2Tnh5Y0stVFBGRWVkLW9wbU1EbHhQaHdIOE56d2V5NXVhSQ?oc=5",
+      "source": "NYSE",
+      "published_at": "Fri, 27 Mar 2026 22:00:00 GMT",
+      "summary": "The New York Stock Exchange | NYSE NYSE",
+      "guid": "CBMiP0FVX3lxTE93UWVlU3g1TVNpdTNEcjI2Yk9kSHU2Tnh5Y0stVFBGRWVkLW9wbU1EbHhQaHdIOE56d2V5NXVhSQ"
     },
     {
       "title": "The market is starting to think the Federal Reserve's next move is raising interest rates - Yahoo Finance",
@@ -31,11 +39,11 @@
       "guid": "CBMioAFBVV95cUxQblBVZGk5QlZqME9DZjdPNjE1RVJOMHZCN3lreWM1b19zQkZMM3ZUcjFSVzFDeWVodDJhc2hUSkp1VDVBbldTTHVmT1UxUTdwLVRMTEN6dGhSTkdYMGxEU3VmVkZySWc5QVJEU3NYWGpiaTVzRFhIY0UyeHpEcUl5YXdDWV96UUxqbFpaTE40eFhvSGRFNHpwMGo2VVpYZkFH"
     },
     {
-      "title": "The big stock market correction that Trump can’t talk his way out of is official - fortune.com",
+      "title": "The big stock market correction that Trump can’t talk his way out of is official - Fortune",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZko2ZU5iY243eERncHBxb0tYQm85ZTdwRnNZbzJweUdQNEtvWVR2aVV2SENKem9lemRoSEdKS0hEM3F3ODI1VWN4WmFBYm1tWjhGSThGQjJsMFdWNV9aVFZnRzA4RV95dDlJb09ZT3AyS19ldXgzaGpsS2VqZlN3RXhfeFU2dzY0aTJpMENFUHBtV1hIT1U4cXRqbE9CeWs?oc=5",
-      "source": "fortune.com",
+      "source": "Fortune",
       "published_at": "Fri, 27 Mar 2026 16:31:00 GMT",
-      "summary": "The big stock market correction that Trump can’t talk his way out of is official fortune.com",
+      "summary": "The big stock market correction that Trump can’t talk his way out of is official Fortune",
       "guid": "CBMinwFBVV95cUxOZko2ZU5iY243eERncHBxb0tYQm85ZTdwRnNZbzJweUdQNEtvWVR2aVV2SENKem9lemRoSEdKS0hEM3F3ODI1VWN4WmFBYm1tWjhGSThGQjJsMFdWNV9aVFZnRzA4RV95dDlJb09ZT3AyS19ldXgzaGpsS2VqZlN3RXhfeFU2dzY0aTJpMENFUHBtV1hIT1U4cXRqbE9CeWs"
     },
     {
@@ -47,20 +55,20 @@
       "guid": "CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0"
     },
     {
-      "title": "Federal Reserve Posted Loss of $18.7 Billion in 2025 - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxOaERMU0xlZVJnb2I3XzRYSXJNNG85YmRlc3JfVW9LRklJRkkzREZWQldyeENsWmJlMkFoQXdYYm1XdGk5VUpGM2RKODNBMU90TUhXcHdlZGplT29XZlhvYmg2R0theDloYllPbTNfSEhBWTlqYkhtVTNPWk1vWkMycFZNNGdiVWVkVkl0d0g4Rk9ZRkNWUmt1NTVhZDV3OENIZTdFNE5Nd2FZNTZIMlViam9jNHdiUWNDN1BKX0FWQzJES2RPZ2FQQkVvd0psMnBwbTRaM0J6UHpuTmVxRkxSNkNkUm9VLVFiem83cnp3anFtRzZCOERYV1Yxa1lMNXYzdXRuMXR6V0NnT2RxaG9kMjNEVkF0REowSkZOUWNwNFkwamVzOElxYVhlUzBrTlBaZlhieldlQ2RINWVLX29rOUwyOUxqa3NnYk91NU9oV0YtSWUyWjZNbFd0WmtiRVZHUld1OTRyWlVwX0pHUGxObXZsMHVvWFZnM0lDeVBrYXZpMXV2UW1wNWpKeTFBTTBQdHhweFVPZVFzZlZ4SkRqUzlfQWlLczFsMFVkRQ?oc=5",
-      "source": "WSJ",
-      "published_at": "Wed, 25 Mar 2026 16:59:00 GMT",
-      "summary": "Federal Reserve Posted Loss of $18.7 Billion in 2025 WSJ",
-      "guid": "CBMirANBVV95cUxOaERMU0xlZVJnb2I3XzRYSXJNNG85YmRlc3JfVW9LRklJRkkzREZWQldyeENsWmJlMkFoQXdYYm1XdGk5VUpGM2RKODNBMU90TUhXcHdlZGplT29XZlhvYmg2R0theDloYllPbTNfSEhBWTlqYkhtVTNPWk1vWkMycFZNNGdiVWVkVkl0d0g4Rk9ZRkNWUmt1NTVhZDV3OENIZTdFNE5Nd2FZNTZIMlViam9jNHdiUWNDN1BKX0FWQzJES2RPZ2FQQkVvd0psMnBwbTRaM0J6UHpuTmVxRkxSNkNkUm9VLVFiem83cnp3anFtRzZCOERYV1Yxa1lMNXYzdXRuMXR6V0NnT2RxaG9kMjNEVkF0REowSkZOUWNwNFkwamVzOElxYVhlUzBrTlBaZlhieldlQ2RINWVLX29rOUwyOUxqa3NnYk91NU9oV0YtSWUyWjZNbFd0WmtiRVZHUld1OTRyWlVwX0pHUGxObXZsMHVvWFZnM0lDeVBrYXZpMXV2UW1wNWpKeTFBTTBQdHhweFVPZVFzZlZ4SkRqUzlfQWlLczFsMFVkRQ"
-    },
-    {
       "title": "Federal Reserve holds interest rates steady, signals one rate cut amid inflation uncertainty - U.S. Bank",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw?oc=5",
       "source": "U.S. Bank",
       "published_at": "Wed, 18 Mar 2026 07:00:00 GMT",
       "summary": "Federal Reserve holds interest rates steady, signals one rate cut amid inflation uncertainty U.S. Bank",
       "guid": "CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw"
+    },
+    {
+      "title": "Federal Reserve Posted Loss of $18.7 Billion in 2025 - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxPa1ZMeDVCdm00TEpxSUxtZ3dVVnUybV9iSjZDY29YVjJId2NvQ29Kc1FlWTJpZkkzMGZYWlZfS1NCZ19pY1kxaDlZTkVhZENDWkhOMjhfTnRIdDhIc2lqUFdxQ1AycjJWdGg0eHB2RlRGTEE0RUFRZFF1ay1LYnhlUm5YNXBkOExiX2lGVVJObkZfWElOa013Z1BONFdlREstUGJybWdRTWdjaGJ4cWdtRHZJcElSZ1VKa2N2aUhZeUNvbzhSZGlZMEpPYm1jbHRRYUNWc3dCSmlzeEtZLWNHT1FuLWhkdk0yYUxtM2xuUkZpelZkWnlPX2d2ZjM0QlMwU0k2NlNDNUtjeTNPOV9VY0tkUFJMUWdGX2xHQUdLTzVBcFFvbTlaZG9LYTJ4UGZzbkVoYjB2UU5pYjRtMUduWXlFdmtqMGRtZUNhNHg4UFJMSTI0ancxbjhQOFNNZUhMUm1ha01Oa2VCdGpFZDY2ZWFOd1JYaktvYUJrTHhSdUdHQUY2SWxFM0hfNHdxbHJGWElZWUwzVTgtOWVaUTFBaFNjQlE2YkpoWWs2UA?oc=5",
+      "source": "WSJ",
+      "published_at": "Wed, 25 Mar 2026 16:59:00 GMT",
+      "summary": "Federal Reserve Posted Loss of $18.7 Billion in 2025 WSJ",
+      "guid": "CBMirANBVV95cUxPa1ZMeDVCdm00TEpxSUxtZ3dVVnUybV9iSjZDY29YVjJId2NvQ29Kc1FlWTJpZkkzMGZYWlZfS1NCZ19pY1kxaDlZTkVhZENDWkhOMjhfTnRIdDhIc2lqUFdxQ1AycjJWdGg0eHB2RlRGTEE0RUFRZFF1ay1LYnhlUm5YNXBkOExiX2lGVVJObkZfWElOa013Z1BONFdlREstUGJybWdRTWdjaGJ4cWdtRHZJcElSZ1VKa2N2aUhZeUNvbzhSZGlZMEpPYm1jbHRRYUNWc3dCSmlzeEtZLWNHT1FuLWhkdk0yYUxtM2xuUkZpelZkWnlPX2d2ZjM0QlMwU0k2NlNDNUtjeTNPOV9VY0tkUFJMUWdGX2xHQUdLTzVBcFFvbTlaZG9LYTJ4UGZzbkVoYjB2UU5pYjRtMUduWXlFdmtqMGRtZUNhNHg4UFJMSTI0ancxbjhQOFNNZUhMUm1ha01Oa2VCdGpFZDY2ZWFOd1JYaktvYUJrTHhSdUdHQUY2SWxFM0hfNHdxbHJGWElZWUwzVTgtOWVaUTFBaFNjQlE2YkpoWWs2UA"
     },
     {
       "title": "What a Fed Rate Hike Could Mean for These Key Stock Sectors - Morningstar",
@@ -77,14 +85,6 @@
       "published_at": "Thu, 19 Mar 2026 07:00:00 GMT",
       "summary": "March 19, 2026 -- Notice of Open Board Meeting Federal Reserve Board (.gov)",
       "guid": "CBMifkFVX3lxTE9GVmtqUWJ0ZVZJeXVnVkFJWTF3N0JNekJqYl9UenpZMEJyeHZVUUUyTkU0dno3aVQ0UXlkSmVSSGl5TGhaTFcyQ0tIRDc0UTVuZzJ4LTVjWWJrZjlSbHRQSjF0a0NuNzRNaTJQUkZya3NxeHdtSGlKU05reG5Tdw"
-    },
-    {
-      "title": "Federal Reserve Watch: Lots Still Going On - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcWROa2ZnLU1kaE90ajQ4ZlNockxGV1loNTlUYzJoVzBJc3hXVnRGYWRGUUZIXy1zZGJWUERERGk4X3lmN1lIOURqcnQwQTJlUjFPbXV6ZWtVZ05iVmt5cG9nQURNN0haeExsTXdnMDdlLW5kWk80VGxmVXNxY1BmV2w2MHZDMkZGS3c?oc=5",
-      "source": "Seeking Alpha",
-      "published_at": "Fri, 27 Mar 2026 19:56:11 GMT",
-      "summary": "Federal Reserve Watch: Lots Still Going On Seeking Alpha",
-      "guid": "CBMiigFBVV95cUxQcWROa2ZnLU1kaE90ajQ4ZlNockxGV1loNTlUYzJoVzBJc3hXVnRGYWRGUUZIXy1zZGJWUERERGk4X3lmN1lIOURqcnQwQTJlUjFPbXV6ZWtVZ05iVmt5cG9nQURNN0haeExsTXdnMDdlLW5kWk80VGxmVXNxY1BmV2w2MHZDMkZGS3c"
     }
   ]
 }
