@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-29T16:59:00Z",
+  "generated_at": "2026-03-29T17:30:05Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -13,14 +13,6 @@
       "published_at": "Sun, 29 Mar 2026 11:15:00 GMT",
       "summary": "Fed Chair Jerome Powell Just Sent a Signal That Could Shake the Stock Market The Motley Fool",
       "guid": "CBMijwFBVV95cUxPeEszZS1kSDFLeW9BNHFLS1p6QV9Tc0RuSGlwLWh2MHVybVJaQVhIeGs1dVAySHRiSGtZclRuWmNzNjVtWXppbE9IakRudktRTjZDaGFoTWJ1b0VZMXpXSnFzRW5GeGhGdUZnSzBWQkh6X29tcmVwMGdiRzNqMTNSM1JSQ0xRZDVyQUhhVFo4aw"
-    },
-    {
-      "title": "NYSE - NYSE",
-      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE93UWVlU3g1TVNpdTNEcjI2Yk9kSHU2Tnh5Y0stVFBGRWVkLW9wbU1EbHhQaHdIOE56d2V5NXVhSQ?oc=5",
-      "source": "NYSE",
-      "published_at": "Fri, 27 Mar 2026 22:00:00 GMT",
-      "summary": "NYSE NYSE",
-      "guid": "CBMiP0FVX3lxTE93UWVlU3g1TVNpdTNEcjI2Yk9kSHU2Tnh5Y0stVFBGRWVkLW9wbU1EbHhQaHdIOE56d2V5NXVhSQ"
     },
     {
       "title": "The market is starting to think the Federal Reserve's next move is raising interest rates - Yahoo Finance",
@@ -79,12 +71,20 @@
       "guid": "CBMiuwFBVV95cUxPT3pHamo3d1Z0WF9kbnhYcGFRZ0RUZVcxOUVtN0pvQ2FsR0NRbmh6akZpdEY0Ujc4My1felBoOTVTTTNLTS1IQXF3YUdXdXI1SnlNcWNhQWVHOWl1UTRkakpNZVdUY0I2cEFrRmRuN01ybjBLZ01BMmxKMm41UF9ybVRQbUJWSmhqOTVLWGt6Y3lhR25SODhLOEtkZS1DNWJjeFpyb094R3U0elJmVDNJR0FlUzBJYzFxb2VV"
     },
     {
-      "title": "Why bitcoin's 'compressed' valuation offers reduced downside risk versus stocks - CoinDesk",
+      "title": "Why bitcoin's 'compressed' valuation offers reduced downside risk versus stocks - coindesk.com",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTjB2S2w1T2xucHNvYS0wbjdzQVNwc05UMTFVMU9XbnZsLUcwMlc2cW92T3B4bXlHVDFvOTdyVUlOU1M3cEcwZ2hVd0hZMHBhU2JkUmFRTjY5Q2NFQm5OYlZHaTV4Y0E0ZTF5R2N3NE1uS1JEdkRObld4SkRieFBtQ2UwUFI3a1RONGVIWjVHOWIzckloZENkcEUzMG9hMTY1YldQN1pCSnZBcG4zOEZBdGN1d09La1FtMXEtRE13?oc=5",
-      "source": "CoinDesk",
+      "source": "coindesk.com",
       "published_at": "Sat, 28 Mar 2026 16:43:35 GMT",
-      "summary": "Why bitcoin's 'compressed' valuation offers reduced downside risk versus stocks CoinDesk",
+      "summary": "Why bitcoin's 'compressed' valuation offers reduced downside risk versus stocks coindesk.com",
       "guid": "CBMivgFBVV95cUxNTjB2S2w1T2xucHNvYS0wbjdzQVNwc05UMTFVMU9XbnZsLUcwMlc2cW92T3B4bXlHVDFvOTdyVUlOU1M3cEcwZ2hVd0hZMHBhU2JkUmFRTjY5Q2NFQm5OYlZHaTV4Y0E0ZTF5R2N3NE1uS1JEdkRObld4SkRieFBtQ2UwUFI3a1RONGVIWjVHOWIzckloZENkcEUzMG9hMTY1YldQN1pCSnZBcG4zOEZBdGN1d09La1FtMXEtRE13"
+    },
+    {
+      "title": "Stock Market Week: Nvidia's AI Woodstock, Fed Meeting, Quad Witching - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcGVLZDc3c2FvSW5JZjI4eFE1T1BRaXhrcXNobkZlWlR1cjJRRXZGaDJEQVJZUVhRNEVkVHFQVmdfcHQwdWlHdmY0WG9PNmFwaVdqSTI3Yk9NRV9IaWxjcjV3SlVac2NRRER2OFBOcnk3VGp6My05QmFld3FTa1BURU1VS1lKZDNQTEtiWkxwVXNpZmZ4WE1VWmF0V0dZYjRIVEx5dElxcFpKQWgtTFFvdVlTWmJQZw?oc=5",
+      "source": "Investor's Business Daily",
+      "published_at": "Sat, 14 Mar 2026 07:00:00 GMT",
+      "summary": "Stock Market Week: Nvidia's AI Woodstock, Fed Meeting, Quad Witching Investor's Business Daily",
+      "guid": "CBMitgFBVV95cUxOcGVLZDc3c2FvSW5JZjI4eFE1T1BRaXhrcXNobkZlWlR1cjJRRXZGaDJEQVJZUVhRNEVkVHFQVmdfcHQwdWlHdmY0WG9PNmFwaVdqSTI3Yk9NRV9IaWxjcjV3SlVac2NRRER2OFBOcnk3VGp6My05QmFld3FTa1BURU1VS1lKZDNQTEtiWkxwVXNpZmZ4WE1VWmF0V0dZYjRIVEx5dElxcFpKQWgtTFFvdVlTWmJQZw"
     }
   ]
 }
