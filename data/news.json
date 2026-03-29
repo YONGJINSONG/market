@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-29T12:30:48Z",
+  "generated_at": "2026-03-29T13:38:18Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -10,7 +10,7 @@
       "title": "Fed Chair Jerome Powell Just Sent a Signal That Could Shake the Stock Market - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeEszZS1kSDFLeW9BNHFLS1p6QV9Tc0RuSGlwLWh2MHVybVJaQVhIeGs1dVAySHRiSGtZclRuWmNzNjVtWXppbE9IakRudktRTjZDaGFoTWJ1b0VZMXpXSnFzRW5GeGhGdUZnSzBWQkh6X29tcmVwMGdiRzNqMTNSM1JSQ0xRZDVyQUhhVFo4aw?oc=5",
       "source": "The Motley Fool",
-      "published_at": "Sun, 29 Mar 2026 10:17:57 GMT",
+      "published_at": "Sun, 29 Mar 2026 11:15:00 GMT",
       "summary": "Fed Chair Jerome Powell Just Sent a Signal That Could Shake the Stock Market The Motley Fool",
       "guid": "CBMijwFBVV95cUxPeEszZS1kSDFLeW9BNHFLS1p6QV9Tc0RuSGlwLWh2MHVybVJaQVhIeGs1dVAySHRiSGtZclRuWmNzNjVtWXppbE9IakRudktRTjZDaGFoTWJ1b0VZMXpXSnFzRW5GeGhGdUZnSzBWQkh6X29tcmVwMGdiRzNqMTNSM1JSQ0xRZDVyQUhhVFo4aw"
     },
@@ -39,14 +39,6 @@
       "guid": "CBMinwFBVV95cUxOZko2ZU5iY243eERncHBxb0tYQm85ZTdwRnNZbzJweUdQNEtvWVR2aVV2SENKem9lemRoSEdKS0hEM3F3ODI1VWN4WmFBYm1tWjhGSThGQjJsMFdWNV9aVFZnRzA4RV95dDlJb09ZT3AyS19ldXgzaGpsS2VqZlN3RXhfeFU2dzY0aTJpMENFUHBtV1hIT1U4cXRqbE9CeWs"
     },
     {
-      "title": "US treasury department demands retraction of story on increased oversight of Federal Reserve - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQblBVZGk5QlZqME9DZjdPNjE1RVJOMHZCN3lreWM1b19zQkZMM3ZUcjFSVzFDeWVodDJhc2hUSkp1VDVBbldTTHVmT1UxUTdwLVRMTEN6dGhSTkdYMGxEU3VmVkZySWc5QVJEU3NYWGpiaTVzRFhIY0UyeHpEcUl5YXdDWV96UUxqbFpaTE40eFhvSGRFNHpwMGo2VVpYZkFH?oc=5",
-      "source": "The Guardian",
-      "published_at": "Sat, 28 Mar 2026 16:26:00 GMT",
-      "summary": "US treasury department demands retraction of story on increased oversight of Federal Reserve The Guardian",
-      "guid": "CBMioAFBVV95cUxQblBVZGk5QlZqME9DZjdPNjE1RVJOMHZCN3lreWM1b19zQkZMM3ZUcjFSVzFDeWVodDJhc2hUSkp1VDVBbldTTHVmT1UxUTdwLVRMTEN6dGhSTkdYMGxEU3VmVkZySWc5QVJEU3NYWGpiaTVzRFhIY0UyeHpEcUl5YXdDWV96UUxqbFpaTE40eFhvSGRFNHpwMGo2VVpYZkFH"
-    },
-    {
       "title": "Tracker: The Federal Reserve’s Balance Sheet Assets - The American Action Forum",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0?oc=5",
       "source": "The American Action Forum",
@@ -55,20 +47,20 @@
       "guid": "CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0"
     },
     {
+      "title": "US treasury department demands retraction of story on increased oversight of Federal Reserve - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQblBVZGk5QlZqME9DZjdPNjE1RVJOMHZCN3lreWM1b19zQkZMM3ZUcjFSVzFDeWVodDJhc2hUSkp1VDVBbldTTHVmT1UxUTdwLVRMTEN6dGhSTkdYMGxEU3VmVkZySWc5QVJEU3NYWGpiaTVzRFhIY0UyeHpEcUl5YXdDWV96UUxqbFpaTE40eFhvSGRFNHpwMGo2VVpYZkFH?oc=5",
+      "source": "The Guardian",
+      "published_at": "Sat, 28 Mar 2026 16:26:00 GMT",
+      "summary": "US treasury department demands retraction of story on increased oversight of Federal Reserve The Guardian",
+      "guid": "CBMioAFBVV95cUxQblBVZGk5QlZqME9DZjdPNjE1RVJOMHZCN3lreWM1b19zQkZMM3ZUcjFSVzFDeWVodDJhc2hUSkp1VDVBbldTTHVmT1UxUTdwLVRMTEN6dGhSTkdYMGxEU3VmVkZySWc5QVJEU3NYWGpiaTVzRFhIY0UyeHpEcUl5YXdDWV96UUxqbFpaTE40eFhvSGRFNHpwMGo2VVpYZkFH"
+    },
+    {
       "title": "Federal Reserve holds interest rates steady, signals one rate cut amid inflation uncertainty - U.S. Bank",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw?oc=5",
       "source": "U.S. Bank",
       "published_at": "Wed, 18 Mar 2026 07:00:00 GMT",
       "summary": "Federal Reserve holds interest rates steady, signals one rate cut amid inflation uncertainty U.S. Bank",
       "guid": "CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw"
-    },
-    {
-      "title": "Market Reactions to Tariff Announcements - frbsf.org",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM1dfLWVxeDJGbVNDYU9vWU8xOW5Fbk9rWk5KREtjbWFDcWFfdzAyVE5WMDhINUpWbWVDVWZmRHBSSlN3blk5alBHd3B1RE5JSmVMRTd3SXhNQmZWdDllUDFCU1lwTk9zcmpBSmhmazM5OEhIWEVHMlhHTDY4M1luNXJ5TExQbi1RMjBLbmpZd3BqLU1zanlvM0hvVWhVcWtiSWZBOV9ENTJmTWUtQzIxdmprYlpGNnJzQk11T1ZfWQ?oc=5",
-      "source": "frbsf.org",
-      "published_at": "Mon, 06 Oct 2025 07:00:00 GMT",
-      "summary": "Market Reactions to Tariff Announcements frbsf.org",
-      "guid": "CBMivwFBVV95cUxOM1dfLWVxeDJGbVNDYU9vWU8xOW5Fbk9rWk5KREtjbWFDcWFfdzAyVE5WMDhINUpWbWVDVWZmRHBSSlN3blk5alBHd3B1RE5JSmVMRTd3SXhNQmZWdDllUDFCU1lwTk9zcmpBSmhmazM5OEhIWEVHMlhHTDY4M1luNXJ5TExQbi1RMjBLbmpZd3BqLU1zanlvM0hvVWhVcWtiSWZBOV9ENTJmTWUtQzIxdmprYlpGNnJzQk11T1ZfWQ"
     },
     {
       "title": "March 19, 2026 -- Notice of Open Board Meeting - Federal Reserve Board (.gov)",
@@ -85,6 +77,14 @@
       "published_at": "Thu, 26 Mar 2026 10:13:22 GMT",
       "summary": "What a Fed Rate Hike Could Mean for These Key Stock Sectors Morningstar",
       "guid": "CBMikgFBVV95cUxQcDlaUGNFLWVrSEs5RjZnRW1BeVpHU2ZhM29EM0hzbkdyWFpiSXBzTlI0UUN1clptLVU2b2JVREZadUtFSGNuUUF6aTZmN0FLa2tEdlhiWG1CQmI5emo1TkpmUmtCTEJleHo5aV9IUndBZkdJaUhjaFhyZlhFWUtuNjk5MFlQbHhTSXpqSnVVTXZtdw"
+    },
+    {
+      "title": "Federal Reserve Watch: Lots Still Going On - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcWROa2ZnLU1kaE90ajQ4ZlNockxGV1loNTlUYzJoVzBJc3hXVnRGYWRGUUZIXy1zZGJWUERERGk4X3lmN1lIOURqcnQwQTJlUjFPbXV6ZWtVZ05iVmt5cG9nQURNN0haeExsTXdnMDdlLW5kWk80VGxmVXNxY1BmV2w2MHZDMkZGS3c?oc=5",
+      "source": "Seeking Alpha",
+      "published_at": "Fri, 27 Mar 2026 19:56:11 GMT",
+      "summary": "Federal Reserve Watch: Lots Still Going On Seeking Alpha",
+      "guid": "CBMiigFBVV95cUxQcWROa2ZnLU1kaE90ajQ4ZlNockxGV1loNTlUYzJoVzBJc3hXVnRGYWRGUUZIXy1zZGJWUERERGk4X3lmN1lIOURqcnQwQTJlUjFPbXV6ZWtVZ05iVmt5cG9nQURNN0haeExsTXdnMDdlLW5kWk80VGxmVXNxY1BmV2w2MHZDMkZGS3c"
     }
   ]
 }
