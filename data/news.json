@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-03-30T10:53:34Z",
+  "generated_at": "2026-03-30T11:45:36Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "Don't Look Now, but the Federal Reserve's March Inflation Forecast Just Worsened - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTERfZDlVOEhyeDJvOUxLOHg2SC1pR3BlSlF1RkNRQUZmVy1rMWpJcE9ZeEZmaDh1VkRfdjFCSUt1cjd3UmlCejZ4bnFhbUFHZ1NQb0RUdmVlZjg1eGx3aHE2bTJ0cUN5VEFZWU1pN1VGMTdlNmVVSkE2U0VJeDhKb1g1cnpfZ2ptMzE1a2xHOW4yWV9aM2w2a2Z1WQ?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Mon, 30 Mar 2026 09:26:00 GMT",
+      "summary": "Don't Look Now, but the Federal Reserve's March Inflation Forecast Just Worsened Yahoo Finance",
+      "guid": "CBMimwFBVV95cUxPTERfZDlVOEhyeDJvOUxLOHg2SC1pR3BlSlF1RkNRQUZmVy1rMWpJcE9ZeEZmaDh1VkRfdjFCSUt1cjd3UmlCejZ4bnFhbUFHZ1NQb0RUdmVlZjg1eGx3aHE2bTJ0cUN5VEFZWU1pN1VGMTdlNmVVSkE2U0VJeDhKb1g1cnpfZ2ptMzE1a2xHOW4yWV9aM2w2a2Z1WQ"
+    },
     {
       "title": "The New York Stock Exchange | NYSE - NYSE",
       "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE93UWVlU3g1TVNpdTNEcjI2Yk9kSHU2Tnh5Y0stVFBGRWVkLW9wbU1EbHhQaHdIOE56d2V5NXVhSQ?oc=5",
@@ -15,36 +23,12 @@
       "guid": "CBMiP0FVX3lxTE93UWVlU3g1TVNpdTNEcjI2Yk9kSHU2Tnh5Y0stVFBGRWVkLW9wbU1EbHhQaHdIOE56d2V5NXVhSQ"
     },
     {
-      "title": "Don't Look Now, but the Federal Reserve's March Inflation Forecast Just Worsened - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MRy1KVEFZSWhQd1BPUG1VbFA3dGU5c3hwcDJJUEVMamFJdXoxWnVWWDllR293N2FmOEYzSUkyaEhnNW1sUlQ2UTdyRnNPMExScHhNeEstb1lzUVNfTm84RWR4TGV0ZWtma3pJamZyUURVV0ZBQ3U2UTBxcUtYakk?oc=5",
-      "source": "AOL.com",
-      "published_at": "Mon, 30 Mar 2026 09:33:18 GMT",
-      "summary": "Don't Look Now, but the Federal Reserve's March Inflation Forecast Just Worsened AOL.com",
-      "guid": "CBMif0FVX3lxTE1MRy1KVEFZSWhQd1BPUG1VbFA3dGU5c3hwcDJJUEVMamFJdXoxWnVWWDllR293N2FmOEYzSUkyaEhnNW1sUlQ2UTdyRnNPMExScHhNeEstb1lzUVNfTm84RWR4TGV0ZWtma3pJamZyUURVV0ZBQ3U2UTBxcUtYakk"
-    },
-    {
-      "title": "The market is starting to think the Federal Reserve's next move is raising interest rates - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNjloLUlWbldfb0h6ZkFHcmxOLVBVUmFOQkxHVE5VYTFOekFvR25yTDNkcTl5U0ZRWEl4ckxwQkd4bzlDWmdSalVGa25UTGp2WXF5djFmLVI2cnZaRUJBTTdTZG5MdlZ2LW1UcVBJc1M2VmltSXRYUE9teW5kWnRvME5FOTlINjRSZmV6M1pIb2htMElFdGV2YXVxbHFnNXlhQUxaeGEyTDljNHBsZUV0U0Rsb3NQb3BkWG9FczdLTlREUHZwSzF4bG41TkxFXzA?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Fri, 27 Mar 2026 20:40:26 GMT",
-      "summary": "The market is starting to think the Federal Reserve's next move is raising interest rates Yahoo Finance",
-      "guid": "CBMizwFBVV95cUxPNjloLUlWbldfb0h6ZkFHcmxOLVBVUmFOQkxHVE5VYTFOekFvR25yTDNkcTl5U0ZRWEl4ckxwQkd4bzlDWmdSalVGa25UTGp2WXF5djFmLVI2cnZaRUJBTTdTZG5MdlZ2LW1UcVBJc1M2VmltSXRYUE9teW5kWnRvME5FOTlINjRSZmV6M1pIb2htMElFdGV2YXVxbHFnNXlhQUxaeGEyTDljNHBsZUV0U0Rsb3NQb3BkWG9FczdLTlREUHZwSzF4bG41TkxFXzA"
-    },
-    {
       "title": "Fed Chair Jerome Powell Just Sent a Signal That Could Shake the Stock Market - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeEszZS1kSDFLeW9BNHFLS1p6QV9Tc0RuSGlwLWh2MHVybVJaQVhIeGs1dVAySHRiSGtZclRuWmNzNjVtWXppbE9IakRudktRTjZDaGFoTWJ1b0VZMXpXSnFzRW5GeGhGdUZnSzBWQkh6X29tcmVwMGdiRzNqMTNSM1JSQ0xRZDVyQUhhVFo4aw?oc=5",
       "source": "The Motley Fool",
       "published_at": "Sun, 29 Mar 2026 11:15:00 GMT",
       "summary": "Fed Chair Jerome Powell Just Sent a Signal That Could Shake the Stock Market The Motley Fool",
       "guid": "CBMijwFBVV95cUxPeEszZS1kSDFLeW9BNHFLS1p6QV9Tc0RuSGlwLWh2MHVybVJaQVhIeGs1dVAySHRiSGtZclRuWmNzNjVtWXppbE9IakRudktRTjZDaGFoTWJ1b0VZMXpXSnFzRW5GeGhGdUZnSzBWQkh6X29tcmVwMGdiRzNqMTNSM1JSQ0xRZDVyQUhhVFo4aw"
-    },
-    {
-      "title": "Don't Look Now, but the Federal Reserve's March Inflation Forecast Just Worsened - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOaWM4NnJlSVE5MXR4ei00WnF0aTUxTExHQXJpN0VxNzNvWGZ2QlRQTERrOHJ0OTY1VmhHdm1VdzJabFVrOGZjS0pyQUVBYjV4aUhDdW9EMU9rckNMbmlFa2lvM0ZHQnVHd2lPQnIxOEp1aEpGRHhzYms2bFhaRzM1R1F4aG1ZLTlXZVFKenJuTzdNbGphMXhZZHhHYlZ6cnlUVmdfUkdRMWRmT1N6eWdSV2FkY1U4QUplUTBtMEZGYVlOZ3JrQU1faWkxdmNOdXJwNERJS2d1OXFicnNYcmUyMWZ5bW1LelZUUmtIS0hidFFJWFczUkpFWU9n?oc=5",
-      "source": "The Globe and Mail",
-      "published_at": "Mon, 30 Mar 2026 09:26:06 GMT",
-      "summary": "Don't Look Now, but the Federal Reserve's March Inflation Forecast Just Worsened The Globe and Mail",
-      "guid": "CBMi-gFBVV95cUxOaWM4NnJlSVE5MXR4ei00WnF0aTUxTExHQXJpN0VxNzNvWGZ2QlRQTERrOHJ0OTY1VmhHdm1VdzJabFVrOGZjS0pyQUVBYjV4aUhDdW9EMU9rckNMbmlFa2lvM0ZHQnVHd2lPQnIxOEp1aEpGRHhzYms2bFhaRzM1R1F4aG1ZLTlXZVFKenJuTzdNbGphMXhZZHhHYlZ6cnlUVmdfUkdRMWRmT1N6eWdSV2FkY1U4QUplUTBtMEZGYVlOZ3JrQU1faWkxdmNOdXJwNERJS2d1OXFicnNYcmUyMWZ5bW1LelZUUmtIS0hidFFJWFczUkpFWU9n"
     },
     {
       "title": "Tracker: The Federal Reserve’s Balance Sheet Assets - The American Action Forum",
@@ -71,6 +55,14 @@
       "guid": "CBMioAFBVV95cUxQblBVZGk5QlZqME9DZjdPNjE1RVJOMHZCN3lreWM1b19zQkZMM3ZUcjFSVzFDeWVodDJhc2hUSkp1VDVBbldTTHVmT1UxUTdwLVRMTEN6dGhSTkdYMGxEU3VmVkZySWc5QVJEU3NYWGpiaTVzRFhIY0UyeHpEcUl5YXdDWV96UUxqbFpaTE40eFhvSGRFNHpwMGo2VVpYZkFH"
     },
     {
+      "title": "The market is starting to think the Federal Reserve's next move is raising interest rates - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNjloLUlWbldfb0h6ZkFHcmxOLVBVUmFOQkxHVE5VYTFOekFvR25yTDNkcTl5U0ZRWEl4ckxwQkd4bzlDWmdSalVGa25UTGp2WXF5djFmLVI2cnZaRUJBTTdTZG5MdlZ2LW1UcVBJc1M2VmltSXRYUE9teW5kWnRvME5FOTlINjRSZmV6M1pIb2htMElFdGV2YXVxbHFnNXlhQUxaeGEyTDljNHBsZUV0U0Rsb3NQb3BkWG9FczdLTlREUHZwSzF4bG41TkxFXzA?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Fri, 27 Mar 2026 20:40:26 GMT",
+      "summary": "The market is starting to think the Federal Reserve's next move is raising interest rates Yahoo Finance",
+      "guid": "CBMizwFBVV95cUxPNjloLUlWbldfb0h6ZkFHcmxOLVBVUmFOQkxHVE5VYTFOekFvR25yTDNkcTl5U0ZRWEl4ckxwQkd4bzlDWmdSalVGa25UTGp2WXF5djFmLVI2cnZaRUJBTTdTZG5MdlZ2LW1UcVBJc1M2VmltSXRYUE9teW5kWnRvME5FOTlINjRSZmV6M1pIb2htMElFdGV2YXVxbHFnNXlhQUxaeGEyTDljNHBsZUV0U0Rsb3NQb3BkWG9FczdLTlREUHZwSzF4bG41TkxFXzA"
+    },
+    {
       "title": "Potential Stock Market Crash Looms as Fed Faces Tough Decisions - National Today",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPT3pHamo3d1Z0WF9kbnhYcGFRZ0RUZVcxOUVtN0pvQ2FsR0NRbmh6akZpdEY0Ujc4My1felBoOTVTTTNLTS1IQXF3YUdXdXI1SnlNcWNhQWVHOWl1UTRkakpNZVdUY0I2cEFrRmRuN01ybjBLZ01BMmxKMm41UF9ybVRQbUJWSmhqOTVLWGt6Y3lhR25SODhLOEtkZS1DNWJjeFpyb094R3U0elJmVDNJR0FlUzBJYzFxb2VV?oc=5",
       "source": "National Today",
@@ -85,6 +77,14 @@
       "published_at": "Sun, 29 Mar 2026 17:36:37 GMT",
       "summary": "US Stock Market Week Ahead: Dow Correction, Good Friday Jobs Report and Oil Jolt Put Wall Street on Edge TechStock²",
       "guid": "CBMiwAFBVV95cUxOV0UtV3lQdFZ1M1lGLVR2dXctZHByOWhXMEZxSDRnNDZhTll0MFJFdGNZckQ3a3dhLWlndlR5dWtzOWZSdk9tWk0zYkVUdmtybFgyYTlTR0M1OG54MkU2Y2VEQi13Tjd6TzV6eDRlTlcwVHBVd3dZX0dTZ1hWUlp1MlNzU21wcHBGWlRBVkoxTzQyTUJldk8wME1yNklfa1VQSjVucjN1YXJHTWdKUnVrYjF0Q2VsUEhWZ2EwdXFZMlA"
+    },
+    {
+      "title": "US stocks hold their losses after the Federal Reserve opts again not to cut interest rates - kvoa.com",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQQ0V3ZEFYZ2VXUzhvVDljdlJxWVM2Zmpwbl9pVDVoUGp6S05zcG9PT0hRUFFPS05zX3RfdXRHNW1qaExEbUhyTEtXZjJ3ME1uSUNXeThET0tnWjZEMWptS3JITUxhSzQ0ZU9jTjMtSlBVQlAtOEtRTVVtVm5rdkVfLU9GR195QVBJOHF6eWN0akowb19QLWllV0VPdE83cHc0ZDNMOVpvNXZsa0NaTUJYZnN2YnMtSmxDWHZ2bjY3X01oOFQ1bS03V1p4Y1FTOW1wdVd2cEZ1azVzZXRMZTVWVkMtOVhGUlNGbDBld2hUUU1KNkNwOVpUZ0J6UHY0UQ?oc=5",
+      "source": "kvoa.com",
+      "published_at": "Wed, 18 Mar 2026 18:23:00 GMT",
+      "summary": "US stocks hold their losses after the Federal Reserve opts again not to cut interest rates kvoa.com",
+      "guid": "CBMi_gFBVV95cUxQQ0V3ZEFYZ2VXUzhvVDljdlJxWVM2Zmpwbl9pVDVoUGp6S05zcG9PT0hRUFFPS05zX3RfdXRHNW1qaExEbUhyTEtXZjJ3ME1uSUNXeThET0tnWjZEMWptS3JITUxhSzQ0ZU9jTjMtSlBVQlAtOEtRTVVtVm5rdkVfLU9GR195QVBJOHF6eWN0akowb19QLWllV0VPdE83cHc0ZDNMOVpvNXZsa0NaTUJYZnN2YnMtSmxDWHZ2bjY3X01oOFQ1bS03V1p4Y1FTOW1wdVd2cEZ1azVzZXRMZTVWVkMtOVhGUlNGbDBld2hUUU1KNkNwOVpUZ0J6UHY0UQ"
     }
   ]
 }
