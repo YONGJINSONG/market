@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-29T23:22:18Z",
+  "generated_at": "2026-03-29T23:53:53Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -15,19 +15,19 @@
       "guid": "CBMijwFBVV95cUxPeEszZS1kSDFLeW9BNHFLS1p6QV9Tc0RuSGlwLWh2MHVybVJaQVhIeGs1dVAySHRiSGtZclRuWmNzNjVtWXppbE9IakRudktRTjZDaGFoTWJ1b0VZMXpXSnFzRW5GeGhGdUZnSzBWQkh6X29tcmVwMGdiRzNqMTNSM1JSQ0xRZDVyQUhhVFo4aw"
     },
     {
-      "title": "NYSE - NYSE",
+      "title": "The New York Stock Exchange | NYSE - NYSE",
       "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE93UWVlU3g1TVNpdTNEcjI2Yk9kSHU2Tnh5Y0stVFBGRWVkLW9wbU1EbHhQaHdIOE56d2V5NXVhSQ?oc=5",
       "source": "NYSE",
       "published_at": "Fri, 27 Mar 2026 22:00:00 GMT",
-      "summary": "NYSE NYSE",
+      "summary": "The New York Stock Exchange | NYSE NYSE",
       "guid": "CBMiP0FVX3lxTE93UWVlU3g1TVNpdTNEcjI2Yk9kSHU2Tnh5Y0stVFBGRWVkLW9wbU1EbHhQaHdIOE56d2V5NXVhSQ"
     },
     {
-      "title": "The market is starting to think the Federal Reserve's next move is raising interest rates - finance.yahoo.com",
+      "title": "The market is starting to think the Federal Reserve's next move is raising interest rates - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNjloLUlWbldfb0h6ZkFHcmxOLVBVUmFOQkxHVE5VYTFOekFvR25yTDNkcTl5U0ZRWEl4ckxwQkd4bzlDWmdSalVGa25UTGp2WXF5djFmLVI2cnZaRUJBTTdTZG5MdlZ2LW1UcVBJc1M2VmltSXRYUE9teW5kWnRvME5FOTlINjRSZmV6M1pIb2htMElFdGV2YXVxbHFnNXlhQUxaeGEyTDljNHBsZUV0U0Rsb3NQb3BkWG9FczdLTlREUHZwSzF4bG41TkxFXzA?oc=5",
-      "source": "finance.yahoo.com",
+      "source": "Yahoo Finance",
       "published_at": "Fri, 27 Mar 2026 20:40:26 GMT",
-      "summary": "The market is starting to think the Federal Reserve's next move is raising interest rates finance.yahoo.com",
+      "summary": "The market is starting to think the Federal Reserve's next move is raising interest rates Yahoo Finance",
       "guid": "CBMizwFBVV95cUxPNjloLUlWbldfb0h6ZkFHcmxOLVBVUmFOQkxHVE5VYTFOekFvR25yTDNkcTl5U0ZRWEl4ckxwQkd4bzlDWmdSalVGa25UTGp2WXF5djFmLVI2cnZaRUJBTTdTZG5MdlZ2LW1UcVBJc1M2VmltSXRYUE9teW5kWnRvME5FOTlINjRSZmV6M1pIb2htMElFdGV2YXVxbHFnNXlhQUxaeGEyTDljNHBsZUV0U0Rsb3NQb3BkWG9FczdLTlREUHZwSzF4bG41TkxFXzA"
     },
     {
@@ -55,14 +55,6 @@
       "guid": "CBMioAFBVV95cUxQblBVZGk5QlZqME9DZjdPNjE1RVJOMHZCN3lreWM1b19zQkZMM3ZUcjFSVzFDeWVodDJhc2hUSkp1VDVBbldTTHVmT1UxUTdwLVRMTEN6dGhSTkdYMGxEU3VmVkZySWc5QVJEU3NYWGpiaTVzRFhIY0UyeHpEcUl5YXdDWV96UUxqbFpaTE40eFhvSGRFNHpwMGo2VVpYZkFH"
     },
     {
-      "title": "Market Reactions to Tariff Announcements - Federal Reserve Bank of San Francisco",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM1dfLWVxeDJGbVNDYU9vWU8xOW5Fbk9rWk5KREtjbWFDcWFfdzAyVE5WMDhINUpWbWVDVWZmRHBSSlN3blk5alBHd3B1RE5JSmVMRTd3SXhNQmZWdDllUDFCU1lwTk9zcmpBSmhmazM5OEhIWEVHMlhHTDY4M1luNXJ5TExQbi1RMjBLbmpZd3BqLU1zanlvM0hvVWhVcWtiSWZBOV9ENTJmTWUtQzIxdmprYlpGNnJzQk11T1ZfWQ?oc=5",
-      "source": "Federal Reserve Bank of San Francisco",
-      "published_at": "Mon, 06 Oct 2025 07:00:00 GMT",
-      "summary": "Market Reactions to Tariff Announcements Federal Reserve Bank of San Francisco",
-      "guid": "CBMivwFBVV95cUxOM1dfLWVxeDJGbVNDYU9vWU8xOW5Fbk9rWk5KREtjbWFDcWFfdzAyVE5WMDhINUpWbWVDVWZmRHBSSlN3blk5alBHd3B1RE5JSmVMRTd3SXhNQmZWdDllUDFCU1lwTk9zcmpBSmhmazM5OEhIWEVHMlhHTDY4M1luNXJ5TExQbi1RMjBLbmpZd3BqLU1zanlvM0hvVWhVcWtiSWZBOV9ENTJmTWUtQzIxdmprYlpGNnJzQk11T1ZfWQ"
-    },
-    {
       "title": "March 19, 2026 -- Notice of Open Board Meeting - Federal Reserve Board (.gov)",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9GVmtqUWJ0ZVZJeXVnVkFJWTF3N0JNekJqYl9UenpZMEJyeHZVUUUyTkU0dno3aVQ0UXlkSmVSSGl5TGhaTFcyQ0tIRDc0UTVuZzJ4LTVjWWJrZjlSbHRQSjF0a0NuNzRNaTJQUkZya3NxeHdtSGlKU05reG5Tdw?oc=5",
       "source": "Federal Reserve Board (.gov)",
@@ -79,12 +71,20 @@
       "guid": "CBMiwAFBVV95cUxOV0UtV3lQdFZ1M1lGLVR2dXctZHByOWhXMEZxSDRnNDZhTll0MFJFdGNZckQ3a3dhLWlndlR5dWtzOWZSdk9tWk0zYkVUdmtybFgyYTlTR0M1OG54MkU2Y2VEQi13Tjd6TzV6eDRlTlcwVHBVd3dZX0dTZ1hWUlp1MlNzU21wcHBGWlRBVkoxTzQyTUJldk8wME1yNklfa1VQSjVucjN1YXJHTWdKUnVrYjF0Q2VsUEhWZ2EwdXFZMlA"
     },
     {
-      "title": "Potential Stock Market Crash Looms as Fed Faces Tough Decisions - nationaltoday.com",
+      "title": "Potential Stock Market Crash Looms as Fed Faces Tough Decisions - National Today",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPT3pHamo3d1Z0WF9kbnhYcGFRZ0RUZVcxOUVtN0pvQ2FsR0NRbmh6akZpdEY0Ujc4My1felBoOTVTTTNLTS1IQXF3YUdXdXI1SnlNcWNhQWVHOWl1UTRkakpNZVdUY0I2cEFrRmRuN01ybjBLZ01BMmxKMm41UF9ybVRQbUJWSmhqOTVLWGt6Y3lhR25SODhLOEtkZS1DNWJjeFpyb094R3U0elJmVDNJR0FlUzBJYzFxb2VV?oc=5",
-      "source": "nationaltoday.com",
+      "source": "National Today",
       "published_at": "Sat, 28 Mar 2026 08:52:53 GMT",
-      "summary": "Potential Stock Market Crash Looms as Fed Faces Tough Decisions nationaltoday.com",
+      "summary": "Potential Stock Market Crash Looms as Fed Faces Tough Decisions National Today",
       "guid": "CBMiuwFBVV95cUxPT3pHamo3d1Z0WF9kbnhYcGFRZ0RUZVcxOUVtN0pvQ2FsR0NRbmh6akZpdEY0Ujc4My1felBoOTVTTTNLTS1IQXF3YUdXdXI1SnlNcWNhQWVHOWl1UTRkakpNZVdUY0I2cEFrRmRuN01ybjBLZ01BMmxKMm41UF9ybVRQbUJWSmhqOTVLWGt6Y3lhR25SODhLOEtkZS1DNWJjeFpyb094R3U0elJmVDNJR0FlUzBJYzFxb2VV"
+    },
+    {
+      "title": "Stock Market Week: Nvidia's AI Woodstock, Fed Meeting, Quad Witching - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcGVLZDc3c2FvSW5JZjI4eFE1T1BRaXhrcXNobkZlWlR1cjJRRXZGaDJEQVJZUVhRNEVkVHFQVmdfcHQwdWlHdmY0WG9PNmFwaVdqSTI3Yk9NRV9IaWxjcjV3SlVac2NRRER2OFBOcnk3VGp6My05QmFld3FTa1BURU1VS1lKZDNQTEtiWkxwVXNpZmZ4WE1VWmF0V0dZYjRIVEx5dElxcFpKQWgtTFFvdVlTWmJQZw?oc=5",
+      "source": "Investor's Business Daily",
+      "published_at": "Sat, 14 Mar 2026 07:00:00 GMT",
+      "summary": "Stock Market Week: Nvidia's AI Woodstock, Fed Meeting, Quad Witching Investor's Business Daily",
+      "guid": "CBMitgFBVV95cUxOcGVLZDc3c2FvSW5JZjI4eFE1T1BRaXhrcXNobkZlWlR1cjJRRXZGaDJEQVJZUVhRNEVkVHFQVmdfcHQwdWlHdmY0WG9PNmFwaVdqSTI3Yk9NRV9IaWxjcjV3SlVac2NRRER2OFBOcnk3VGp6My05QmFld3FTa1BURU1VS1lKZDNQTEtiWkxwVXNpZmZ4WE1VWmF0V0dZYjRIVEx5dElxcFpKQWgtTFFvdVlTWmJQZw"
     }
   ]
 }
