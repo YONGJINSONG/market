@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-30T17:37:28Z",
+  "generated_at": "2026-03-30T18:37:19Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -23,11 +23,11 @@
       "guid": "CBMimwFBVV95cUxPTERfZDlVOEhyeDJvOUxLOHg2SC1pR3BlSlF1RkNRQUZmVy1rMWpJcE9ZeEZmaDh1VkRfdjFCSUt1cjd3UmlCejZ4bnFhbUFHZ1NQb0RUdmVlZjg1eGx3aHE2bTJ0cUN5VEFZWU1pN1VGMTdlNmVVSkE2U0VJeDhKb1g1cnpfZ2ptMzE1a2xHOW4yWV9aM2w2a2Z1WQ"
     },
     {
-      "title": "Fed Chair Jerome Powell Just Sent a Signal That Could Shake the Stock Market - fool.com",
+      "title": "Fed Chair Jerome Powell Just Sent a Signal That Could Shake the Stock Market - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeEszZS1kSDFLeW9BNHFLS1p6QV9Tc0RuSGlwLWh2MHVybVJaQVhIeGs1dVAySHRiSGtZclRuWmNzNjVtWXppbE9IakRudktRTjZDaGFoTWJ1b0VZMXpXSnFzRW5GeGhGdUZnSzBWQkh6X29tcmVwMGdiRzNqMTNSM1JSQ0xRZDVyQUhhVFo4aw?oc=5",
-      "source": "fool.com",
+      "source": "The Motley Fool",
       "published_at": "Sun, 29 Mar 2026 11:15:00 GMT",
-      "summary": "Fed Chair Jerome Powell Just Sent a Signal That Could Shake the Stock Market fool.com",
+      "summary": "Fed Chair Jerome Powell Just Sent a Signal That Could Shake the Stock Market The Motley Fool",
       "guid": "CBMijwFBVV95cUxPeEszZS1kSDFLeW9BNHFLS1p6QV9Tc0RuSGlwLWh2MHVybVJaQVhIeGs1dVAySHRiSGtZclRuWmNzNjVtWXppbE9IakRudktRTjZDaGFoTWJ1b0VZMXpXSnFzRW5GeGhGdUZnSzBWQkh6X29tcmVwMGdiRzNqMTNSM1JSQ0xRZDVyQUhhVFo4aw"
     },
     {
@@ -37,6 +37,14 @@
       "published_at": "Fri, 27 Mar 2026 07:00:00 GMT",
       "summary": "Tracker: The Federal Reserve’s Balance Sheet Assets The American Action Forum",
       "guid": "CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0"
+    },
+    {
+      "title": "US Stock Market Today: Dow Rebounds, Nasdaq Slips as Powell and Oil Keep Wall Street on Edge - TechStock²",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWG9jMzJBZ0NNVkFTZkdQTHZQYkVYY0c3WDJXU2JYUGZWVnJzZVpUZ2NMUDBUNE54QWxyLU9qMjZyek8xSVdfTV9hLVBLaE9fN2Z2MjZlOWMtODMwS1VLNjJFWEhOUTJyeVlIQnkwU1ZTUlU3N1dPYlU5cXlMYTlfVmhjdHhrYnRmdXBUSUZJclMybUlHQWdSVWp0WFlVVmRVZF9oYms0VFlkNGtuR2pZSA?oc=5",
+      "source": "TechStock²",
+      "published_at": "Mon, 30 Mar 2026 17:38:32 GMT",
+      "summary": "US Stock Market Today: Dow Rebounds, Nasdaq Slips as Powell and Oil Keep Wall Street on Edge TechStock²",
+      "guid": "CBMisAFBVV95cUxNWG9jMzJBZ0NNVkFTZkdQTHZQYkVYY0c3WDJXU2JYUGZWVnJzZVpUZ2NMUDBUNE54QWxyLU9qMjZyek8xSVdfTV9hLVBLaE9fN2Z2MjZlOWMtODMwS1VLNjJFWEhOUTJyeVlIQnkwU1ZTUlU3N1dPYlU5cXlMYTlfVmhjdHhrYnRmdXBUSUZJclMybUlHQWdSVWp0WFlVVmRVZF9oYms0VFlkNGtuR2pZSA"
     },
     {
       "title": "Federal Reserve holds interest rates steady, signals one rate cut amid inflation uncertainty - U.S. Bank",
@@ -55,36 +63,28 @@
       "guid": "CBMizwFBVV95cUxPNjloLUlWbldfb0h6ZkFHcmxOLVBVUmFOQkxHVE5VYTFOekFvR25yTDNkcTl5U0ZRWEl4ckxwQkd4bzlDWmdSalVGa25UTGp2WXF5djFmLVI2cnZaRUJBTTdTZG5MdlZ2LW1UcVBJc1M2VmltSXRYUE9teW5kWnRvME5FOTlINjRSZmV6M1pIb2htMElFdGV2YXVxbHFnNXlhQUxaeGEyTDljNHBsZUV0U0Rsb3NQb3BkWG9FczdLTlREUHZwSzF4bG41TkxFXzA"
     },
     {
-      "title": "Potential Stock Market Crash Looms as Fed Faces Tough Decisions - National Today",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPT3pHamo3d1Z0WF9kbnhYcGFRZ0RUZVcxOUVtN0pvQ2FsR0NRbmh6akZpdEY0Ujc4My1felBoOTVTTTNLTS1IQXF3YUdXdXI1SnlNcWNhQWVHOWl1UTRkakpNZVdUY0I2cEFrRmRuN01ybjBLZ01BMmxKMm41UF9ybVRQbUJWSmhqOTVLWGt6Y3lhR25SODhLOEtkZS1DNWJjeFpyb094R3U0elJmVDNJR0FlUzBJYzFxb2VV?oc=5",
-      "source": "National Today",
-      "published_at": "Sat, 28 Mar 2026 08:52:53 GMT",
-      "summary": "Potential Stock Market Crash Looms as Fed Faces Tough Decisions National Today",
-      "guid": "CBMiuwFBVV95cUxPT3pHamo3d1Z0WF9kbnhYcGFRZ0RUZVcxOUVtN0pvQ2FsR0NRbmh6akZpdEY0Ujc4My1felBoOTVTTTNLTS1IQXF3YUdXdXI1SnlNcWNhQWVHOWl1UTRkakpNZVdUY0I2cEFrRmRuN01ybjBLZ01BMmxKMm41UF9ybVRQbUJWSmhqOTVLWGt6Y3lhR25SODhLOEtkZS1DNWJjeFpyb094R3U0elJmVDNJR0FlUzBJYzFxb2VV"
+      "title": "The Federal Reserve Is Raising Red Flags, and the Stock Market Isn't Listening - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOVVBNRFNDVEZkN0dlWWFvaVpjOVRBNzhpaFlWNWI3MmNESmV4bmgtQ0VMa29HeUkzc0h5ZTlwWDhLSVVvVm5IdHBlSEktR1NYeUtmbjg1TmlLZjJuZ0pjY044RG4wX0JTTjhTcjI2NTItS0N4T0xmNy1PNXFuUVhpSVd5NUY5c1B2WlpxZEVQN05VSUtJdDg0Z29kbzVLSHBtaUp3Z0w5MkNPYVMtMnZ5SXhPUmRtaEx3LURHMlFfOE9qUThyeWs1bGRuVDg1VS1qNG5ZeTlNOG9KMHc1ZmNSbjduZmxNUG1mRDNhbGlJdGdCc1Fu?oc=5",
+      "source": "The Globe and Mail",
+      "published_at": "Sun, 22 Mar 2026 15:05:00 GMT",
+      "summary": "The Federal Reserve Is Raising Red Flags, and the Stock Market Isn't Listening The Globe and Mail",
+      "guid": "CBMi9AFBVV95cUxOVVBNRFNDVEZkN0dlWWFvaVpjOVRBNzhpaFlWNWI3MmNESmV4bmgtQ0VMa29HeUkzc0h5ZTlwWDhLSVVvVm5IdHBlSEktR1NYeUtmbjg1TmlLZjJuZ0pjY044RG4wX0JTTjhTcjI2NTItS0N4T0xmNy1PNXFuUVhpSVd5NUY5c1B2WlpxZEVQN05VSUtJdDg0Z29kbzVLSHBtaUp3Z0w5MkNPYVMtMnZ5SXhPUmRtaEx3LURHMlFfOE9qUThyeWs1bGRuVDg1VS1qNG5ZeTlNOG9KMHc1ZmNSbjduZmxNUG1mRDNhbGlJdGdCc1Fu"
     },
     {
-      "title": "The Federal Reserve Is Raising Red Flags, and the Stock Market Isn't Listening - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRjJsN0JkeGxvWlM2R2dFenRqOHZqRFlreGZsYjZHbTBtUVh4VGdDMHVQeS1IcGJZZXNHUFFSbFFJWHZmZDRtVG9XMURsOFJ4RmpnUHU3Q19fRlN4STBab1d2RXBNMVdoWGFUcVlmNzVYNG9LTG94VWVCdHpXUTJ1NF9yMzNPa2szdTV3UXM0ejB0NFE4UHVneFh0Rko?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Sun, 22 Mar 2026 07:00:00 GMT",
-      "summary": "The Federal Reserve Is Raising Red Flags, and the Stock Market Isn't Listening Yahoo Finance",
-      "guid": "CBMinAFBVV95cUxQRjJsN0JkeGxvWlM2R2dFenRqOHZqRFlreGZsYjZHbTBtUVh4VGdDMHVQeS1IcGJZZXNHUFFSbFFJWHZmZDRtVG9XMURsOFJ4RmpnUHU3Q19fRlN4STBab1d2RXBNMVdoWGFUcVlmNzVYNG9LTG94VWVCdHpXUTJ1NF9yMzNPa2szdTV3UXM0ejB0NFE4UHVneFh0Rko"
+      "title": "Don't Look Now, but the Federal Reserve's March Inflation Forecast Just Worsened - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPb0RQY2JIQWp0U1pyOGRuVlQ0cmNPeTlYSi1Ha09fbmFhRUhwYXcxTGh5NWttLVNqM0JQRW5TaEZKWHB4OUg1bDlPX0ZRSW9QSG1ELUlYMXgwVFdUSkVHZnd5U25nQ0xteFpzZVhaOGpJTElyZWtKWHZJSUo0YVh4dTdMQ1JqbGE5dUluRkdzS2x0eENPU0hZ?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Mon, 30 Mar 2026 10:06:00 GMT",
+      "summary": "Don't Look Now, but the Federal Reserve's March Inflation Forecast Just Worsened The Motley Fool",
+      "guid": "CBMilwFBVV95cUxPb0RQY2JIQWp0U1pyOGRuVlQ0cmNPeTlYSi1Ha09fbmFhRUhwYXcxTGh5NWttLVNqM0JQRW5TaEZKWHB4OUg1bDlPX0ZRSW9QSG1ELUlYMXgwVFdUSkVHZnd5U25nQ0xteFpzZVhaOGpJTElyZWtKWHZJSUo0YVh4dTdMQ1JqbGE5dUluRkdzS2x0eENPU0hZ"
     },
     {
-      "title": "Here's When the Fed Might Cut Interest Rates Again, and What It Means for the Stock Market - fool.com",
+      "title": "Here's When the Fed Might Cut Interest Rates Again, and What It Means for the Stock Market - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLURQbTZEUG04N3NLVElKUDIzMTdoN0RLOEp2dzdSSTA1bmlRckRIMUlzUmU3cFctX3U0eHZGcnh3cXVGYS0tRGlpNUR1dzhKWEdmWnh1Z0ZHSVVVZG1JY0d4UWo0Si1iYmZFYm9GZ1dEZGJGbGx5WExUTklLS05PRmlBc1FwWURzTGs3SEY2UkZULU1PdlYzVw?oc=5",
-      "source": "fool.com",
+      "source": "The Motley Fool",
       "published_at": "Mon, 23 Mar 2026 11:55:00 GMT",
-      "summary": "Here's When the Fed Might Cut Interest Rates Again, and What It Means for the Stock Market fool.com",
+      "summary": "Here's When the Fed Might Cut Interest Rates Again, and What It Means for the Stock Market The Motley Fool",
       "guid": "CBMimAFBVV95cUxQLURQbTZEUG04N3NLVElKUDIzMTdoN0RLOEp2dzdSSTA1bmlRckRIMUlzUmU3cFctX3U0eHZGcnh3cXVGYS0tRGlpNUR1dzhKWEdmWnh1Z0ZHSVVVZG1JY0d4UWo0Si1iYmZFYm9GZ1dEZGJGbGx5WExUTklLS05PRmlBc1FwWURzTGs3SEY2UkZULU1PdlYzVw"
-    },
-    {
-      "title": "The Federal Reserve Has Become a Stock Market Liability, and President Trump's New Nominee for Chair Won't Help - fool.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOUN5MHFlVmh2ZFI3eXp1ODZCS0E1WGZNdkt4Q1lWZHBXY1N4bXl4bjk3VGRoUU83Rk9tRzNsOGJ6SWx4Ukk0eTRhOUZ2aHZnVDFOQkg3d3JuNEp6SjV0RUFYUzVBN003V0U2SmFEczdJd3FZWnRaVnY2ZG1pVjI1Zl9jcXhGSV9fUW8xTHZEbmFCNnJONjBR?oc=5",
-      "source": "fool.com",
-      "published_at": "Mon, 16 Mar 2026 07:00:00 GMT",
-      "summary": "The Federal Reserve Has Become a Stock Market Liability, and President Trump's New Nominee for Chair Won't Help fool.com",
-      "guid": "CBMilwFBVV95cUxOOUN5MHFlVmh2ZFI3eXp1ODZCS0E1WGZNdkt4Q1lWZHBXY1N4bXl4bjk3VGRoUU83Rk9tRzNsOGJ6SWx4Ukk0eTRhOUZ2aHZnVDFOQkg3d3JuNEp6SjV0RUFYUzVBN003V0U2SmFEczdJd3FZWnRaVnY2ZG1pVjI1Zl9jcXhGSV9fUW8xTHZEbmFCNnJONjBR"
     }
   ]
 }
