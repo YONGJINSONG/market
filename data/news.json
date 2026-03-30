@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-30T09:45:33Z",
+  "generated_at": "2026-03-30T10:53:34Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -13,6 +13,14 @@
       "published_at": "Fri, 27 Mar 2026 22:00:00 GMT",
       "summary": "The New York Stock Exchange | NYSE NYSE",
       "guid": "CBMiP0FVX3lxTE93UWVlU3g1TVNpdTNEcjI2Yk9kSHU2Tnh5Y0stVFBGRWVkLW9wbU1EbHhQaHdIOE56d2V5NXVhSQ"
+    },
+    {
+      "title": "Don't Look Now, but the Federal Reserve's March Inflation Forecast Just Worsened - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MRy1KVEFZSWhQd1BPUG1VbFA3dGU5c3hwcDJJUEVMamFJdXoxWnVWWDllR293N2FmOEYzSUkyaEhnNW1sUlQ2UTdyRnNPMExScHhNeEstb1lzUVNfTm84RWR4TGV0ZWtma3pJamZyUURVV0ZBQ3U2UTBxcUtYakk?oc=5",
+      "source": "AOL.com",
+      "published_at": "Mon, 30 Mar 2026 09:33:18 GMT",
+      "summary": "Don't Look Now, but the Federal Reserve's March Inflation Forecast Just Worsened AOL.com",
+      "guid": "CBMif0FVX3lxTE1MRy1KVEFZSWhQd1BPUG1VbFA3dGU5c3hwcDJJUEVMamFJdXoxWnVWWDllR293N2FmOEYzSUkyaEhnNW1sUlQ2UTdyRnNPMExScHhNeEstb1lzUVNfTm84RWR4TGV0ZWtma3pJamZyUURVV0ZBQ3U2UTBxcUtYakk"
     },
     {
       "title": "The market is starting to think the Federal Reserve's next move is raising interest rates - Yahoo Finance",
@@ -63,27 +71,19 @@
       "guid": "CBMioAFBVV95cUxQblBVZGk5QlZqME9DZjdPNjE1RVJOMHZCN3lreWM1b19zQkZMM3ZUcjFSVzFDeWVodDJhc2hUSkp1VDVBbldTTHVmT1UxUTdwLVRMTEN6dGhSTkdYMGxEU3VmVkZySWc5QVJEU3NYWGpiaTVzRFhIY0UyeHpEcUl5YXdDWV96UUxqbFpaTE40eFhvSGRFNHpwMGo2VVpYZkFH"
     },
     {
-      "title": "March 19, 2026 -- Notice of Open Board Meeting - Federal Reserve Board (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9GVmtqUWJ0ZVZJeXVnVkFJWTF3N0JNekJqYl9UenpZMEJyeHZVUUUyTkU0dno3aVQ0UXlkSmVSSGl5TGhaTFcyQ0tIRDc0UTVuZzJ4LTVjWWJrZjlSbHRQSjF0a0NuNzRNaTJQUkZya3NxeHdtSGlKU05reG5Tdw?oc=5",
-      "source": "Federal Reserve Board (.gov)",
-      "published_at": "Thu, 19 Mar 2026 07:00:00 GMT",
-      "summary": "March 19, 2026 -- Notice of Open Board Meeting Federal Reserve Board (.gov)",
-      "guid": "CBMifkFVX3lxTE9GVmtqUWJ0ZVZJeXVnVkFJWTF3N0JNekJqYl9UenpZMEJyeHZVUUUyTkU0dno3aVQ0UXlkSmVSSGl5TGhaTFcyQ0tIRDc0UTVuZzJ4LTVjWWJrZjlSbHRQSjF0a0NuNzRNaTJQUkZya3NxeHdtSGlKU05reG5Tdw"
-    },
-    {
-      "title": "Potential Stock Market Crash Looms as Fed Faces Tough Decisions - nationaltoday.com",
+      "title": "Potential Stock Market Crash Looms as Fed Faces Tough Decisions - National Today",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPT3pHamo3d1Z0WF9kbnhYcGFRZ0RUZVcxOUVtN0pvQ2FsR0NRbmh6akZpdEY0Ujc4My1felBoOTVTTTNLTS1IQXF3YUdXdXI1SnlNcWNhQWVHOWl1UTRkakpNZVdUY0I2cEFrRmRuN01ybjBLZ01BMmxKMm41UF9ybVRQbUJWSmhqOTVLWGt6Y3lhR25SODhLOEtkZS1DNWJjeFpyb094R3U0elJmVDNJR0FlUzBJYzFxb2VV?oc=5",
-      "source": "nationaltoday.com",
+      "source": "National Today",
       "published_at": "Sat, 28 Mar 2026 08:52:53 GMT",
-      "summary": "Potential Stock Market Crash Looms as Fed Faces Tough Decisions nationaltoday.com",
+      "summary": "Potential Stock Market Crash Looms as Fed Faces Tough Decisions National Today",
       "guid": "CBMiuwFBVV95cUxPT3pHamo3d1Z0WF9kbnhYcGFRZ0RUZVcxOUVtN0pvQ2FsR0NRbmh6akZpdEY0Ujc4My1felBoOTVTTTNLTS1IQXF3YUdXdXI1SnlNcWNhQWVHOWl1UTRkakpNZVdUY0I2cEFrRmRuN01ybjBLZ01BMmxKMm41UF9ybVRQbUJWSmhqOTVLWGt6Y3lhR25SODhLOEtkZS1DNWJjeFpyb094R3U0elJmVDNJR0FlUzBJYzFxb2VV"
     },
     {
-      "title": "US Stock Market Week Ahead: Dow Correction, Good Friday Jobs Report and Oil Jolt Put Wall Street on Edge - ts2.tech",
+      "title": "US Stock Market Week Ahead: Dow Correction, Good Friday Jobs Report and Oil Jolt Put Wall Street on Edge - TechStock²",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOV0UtV3lQdFZ1M1lGLVR2dXctZHByOWhXMEZxSDRnNDZhTll0MFJFdGNZckQ3a3dhLWlndlR5dWtzOWZSdk9tWk0zYkVUdmtybFgyYTlTR0M1OG54MkU2Y2VEQi13Tjd6TzV6eDRlTlcwVHBVd3dZX0dTZ1hWUlp1MlNzU21wcHBGWlRBVkoxTzQyTUJldk8wME1yNklfa1VQSjVucjN1YXJHTWdKUnVrYjF0Q2VsUEhWZ2EwdXFZMlA?oc=5",
-      "source": "ts2.tech",
+      "source": "TechStock²",
       "published_at": "Sun, 29 Mar 2026 17:36:37 GMT",
-      "summary": "US Stock Market Week Ahead: Dow Correction, Good Friday Jobs Report and Oil Jolt Put Wall Street on Edge ts2.tech",
+      "summary": "US Stock Market Week Ahead: Dow Correction, Good Friday Jobs Report and Oil Jolt Put Wall Street on Edge TechStock²",
       "guid": "CBMiwAFBVV95cUxOV0UtV3lQdFZ1M1lGLVR2dXctZHByOWhXMEZxSDRnNDZhTll0MFJFdGNZckQ3a3dhLWlndlR5dWtzOWZSdk9tWk0zYkVUdmtybFgyYTlTR0M1OG54MkU2Y2VEQi13Tjd6TzV6eDRlTlcwVHBVd3dZX0dTZ1hWUlp1MlNzU21wcHBGWlRBVkoxTzQyTUJldk8wME1yNklfa1VQSjVucjN1YXJHTWdKUnVrYjF0Q2VsUEhWZ2EwdXFZMlA"
     }
   ]
