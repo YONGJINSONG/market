@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-31T21:41:50Z",
+  "generated_at": "2026-03-31T22:19:23Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -15,20 +15,20 @@
       "guid": "CBMic0FVX3lxTE5LX29tUmY1TThSbUJiV3UwMzNhUGViNXRGQXZSeTMyNXVCM1U1WVdkUGpLYkJKNVdZdWp2MV9CMktTUlVGeHNya3RnN2s0R3dBSXFiMHFLVmwzZXhxbXFmYzJFWTJuSUx4QmZsZEJNU2tqM0U"
     },
     {
-      "title": "Don't Look Now, but the Federal Reserve's March Inflation Forecast Just Worsened - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTERfZDlVOEhyeDJvOUxLOHg2SC1pR3BlSlF1RkNRQUZmVy1rMWpJcE9ZeEZmaDh1VkRfdjFCSUt1cjd3UmlCejZ4bnFhbUFHZ1NQb0RUdmVlZjg1eGx3aHE2bTJ0cUN5VEFZWU1pN1VGMTdlNmVVSkE2U0VJeDhKb1g1cnpfZ2ptMzE1a2xHOW4yWV9aM2w2a2Z1WQ?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Mon, 30 Mar 2026 09:26:00 GMT",
-      "summary": "Don't Look Now, but the Federal Reserve's March Inflation Forecast Just Worsened Yahoo Finance",
-      "guid": "CBMimwFBVV95cUxPTERfZDlVOEhyeDJvOUxLOHg2SC1pR3BlSlF1RkNRQUZmVy1rMWpJcE9ZeEZmaDh1VkRfdjFCSUt1cjd3UmlCejZ4bnFhbUFHZ1NQb0RUdmVlZjg1eGx3aHE2bTJ0cUN5VEFZWU1pN1VGMTdlNmVVSkE2U0VJeDhKb1g1cnpfZ2ptMzE1a2xHOW4yWV9aM2w2a2Z1WQ"
-    },
-    {
       "title": "Fed Chair Jerome Powell Just Sent a Signal That Could Shake the Stock Market - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeEszZS1kSDFLeW9BNHFLS1p6QV9Tc0RuSGlwLWh2MHVybVJaQVhIeGs1dVAySHRiSGtZclRuWmNzNjVtWXppbE9IakRudktRTjZDaGFoTWJ1b0VZMXpXSnFzRW5GeGhGdUZnSzBWQkh6X29tcmVwMGdiRzNqMTNSM1JSQ0xRZDVyQUhhVFo4aw?oc=5",
       "source": "The Motley Fool",
       "published_at": "Sun, 29 Mar 2026 11:15:00 GMT",
       "summary": "Fed Chair Jerome Powell Just Sent a Signal That Could Shake the Stock Market The Motley Fool",
       "guid": "CBMijwFBVV95cUxPeEszZS1kSDFLeW9BNHFLS1p6QV9Tc0RuSGlwLWh2MHVybVJaQVhIeGs1dVAySHRiSGtZclRuWmNzNjVtWXppbE9IakRudktRTjZDaGFoTWJ1b0VZMXpXSnFzRW5GeGhGdUZnSzBWQkh6X29tcmVwMGdiRzNqMTNSM1JSQ0xRZDVyQUhhVFo4aw"
+    },
+    {
+      "title": "Don't Look Now, but the Federal Reserve's March Inflation Forecast Just Worsened - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTERfZDlVOEhyeDJvOUxLOHg2SC1pR3BlSlF1RkNRQUZmVy1rMWpJcE9ZeEZmaDh1VkRfdjFCSUt1cjd3UmlCejZ4bnFhbUFHZ1NQb0RUdmVlZjg1eGx3aHE2bTJ0cUN5VEFZWU1pN1VGMTdlNmVVSkE2U0VJeDhKb1g1cnpfZ2ptMzE1a2xHOW4yWV9aM2w2a2Z1WQ?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Mon, 30 Mar 2026 09:26:00 GMT",
+      "summary": "Don't Look Now, but the Federal Reserve's March Inflation Forecast Just Worsened Yahoo Finance",
+      "guid": "CBMimwFBVV95cUxPTERfZDlVOEhyeDJvOUxLOHg2SC1pR3BlSlF1RkNRQUZmVy1rMWpJcE9ZeEZmaDh1VkRfdjFCSUt1cjd3UmlCejZ4bnFhbUFHZ1NQb0RUdmVlZjg1eGx3aHE2bTJ0cUN5VEFZWU1pN1VGMTdlNmVVSkE2U0VJeDhKb1g1cnpfZ2ptMzE1a2xHOW4yWV9aM2w2a2Z1WQ"
     },
     {
       "title": "Tracker: The Federal Reserve’s Balance Sheet Assets - The American Action Forum",
@@ -79,12 +79,12 @@
       "guid": "CBMiggFBVV95cUxNTWQ0cXlPNEhwRXN1SS15LXlhSkowVnE0eGRWTl8ySHhzNzFzSTh4aW5aTm9yMlpkVVlKbUdZUTVzRkR6em5DZEF4UU40Vk50cHVyMnlvaFVOSERHZTJOdUpnUUNSd1RJWVFYaDVRcnNPS3dZNDBaNGFCcGJzLVI4WFN3"
     },
     {
-      "title": "The Federal Reserve Is Raising Red Flags, and the Stock Market Isn't Listening - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRjJsN0JkeGxvWlM2R2dFenRqOHZqRFlreGZsYjZHbTBtUVh4VGdDMHVQeS1IcGJZZXNHUFFSbFFJWHZmZDRtVG9XMURsOFJ4RmpnUHU3Q19fRlN4STBab1d2RXBNMVdoWGFUcVlmNzVYNG9LTG94VWVCdHpXUTJ1NF9yMzNPa2szdTV3UXM0ejB0NFE4UHVneFh0Rko?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Sun, 22 Mar 2026 07:00:00 GMT",
-      "summary": "The Federal Reserve Is Raising Red Flags, and the Stock Market Isn't Listening Yahoo Finance",
-      "guid": "CBMinAFBVV95cUxQRjJsN0JkeGxvWlM2R2dFenRqOHZqRFlreGZsYjZHbTBtUVh4VGdDMHVQeS1IcGJZZXNHUFFSbFFJWHZmZDRtVG9XMURsOFJ4RmpnUHU3Q19fRlN4STBab1d2RXBNMVdoWGFUcVlmNzVYNG9LTG94VWVCdHpXUTJ1NF9yMzNPa2szdTV3UXM0ejB0NFE4UHVneFh0Rko"
+      "title": "Dow Slides 768 Points on Inflation Fears: Stock Market Today - Kiplinger",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTGRFUDYwMHkxUk9kNGRZVWJOV3ZzNEQ1YVZ1STZVVVNudGtOQkpxTUh6cktER3FUQXNxRUxLdlpVUTlxYjVpWUhXZDFRYk9VNHBrbFc4QmFKM09yQ0RZMm1sU05sTmxDenFYeFQzZ2tSM1E4SnZKWGY0UGNRaUJPRVRMMkhhaXM4eUkybndzYjJMeEJralNxY1FZMF9ZNS1FT3EtOQ?oc=5",
+      "source": "Kiplinger",
+      "published_at": "Wed, 18 Mar 2026 07:00:00 GMT",
+      "summary": "Dow Slides 768 Points on Inflation Fears: Stock Market Today Kiplinger",
+      "guid": "CBMipAFBVV95cUxQTGRFUDYwMHkxUk9kNGRZVWJOV3ZzNEQ1YVZ1STZVVVNudGtOQkpxTUh6cktER3FUQXNxRUxLdlpVUTlxYjVpWUhXZDFRYk9VNHBrbFc4QmFKM09yQ0RZMm1sU05sTmxDenFYeFQzZ2tSM1E4SnZKWGY0UGNRaUJPRVRMMkhhaXM4eUkybndzYjJMeEJralNxY1FZMF9ZNS1FT3EtOQ"
     }
   ]
 }
