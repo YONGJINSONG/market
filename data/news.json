@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-03-31T22:55:12Z",
+  "generated_at": "2026-03-31T23:23:53Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "Warren Buffett on the Recent Stock Market Selloff: 'This Is Nothing' - Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNFhUb2ZtNVlmaGhLWHFZelFJZDAwNDA3OGFCWUJ0U1diRVlkQ09Qa3RDUGRRZnRIZDFjbjVjQzhYalZkZmFhTDNOOXlBTElMS0M2cnNPUlR0TG5DOU51VXJ0eDhaaXdYcUZuc09VR2ExbDUtMUpPMUVzTTUtbUFmYTQyM21Eb2E4aDQtUEw2VFZ3SV9yaTZIc3dTZzl6T2R5UTlTeWhB?oc=5",
+      "source": "Investopedia",
+      "published_at": "Tue, 31 Mar 2026 21:16:31 GMT",
+      "summary": "Warren Buffett on the Recent Stock Market Selloff: 'This Is Nothing' Investopedia",
+      "guid": "CBMipgFBVV95cUxQNFhUb2ZtNVlmaGhLWHFZelFJZDAwNDA3OGFCWUJ0U1diRVlkQ09Qa3RDUGRRZnRIZDFjbjVjQzhYalZkZmFhTDNOOXlBTElMS0M2cnNPUlR0TG5DOU51VXJ0eDhaaXdYcUZuc09VR2ExbDUtMUpPMUVzTTUtbUFmYTQyM21Eb2E4aDQtUEw2VFZ3SV9yaTZIc3dTZzl6T2R5UTlTeWhB"
+    },
     {
       "title": "Stock Market: Not So Good - Seeking Alpha",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5LX29tUmY1TThSbUJiV3UwMzNhUGViNXRGQXZSeTMyNXVCM1U1WVdkUGpLYkJKNVdZdWp2MV9CMktTUlVGeHNya3RnN2s0R3dBSXFiMHFLVmwzZXhxbXFmYzJFWTJuSUx4QmZsZEJNU2tqM0U?oc=5",
@@ -55,6 +63,14 @@
       "guid": "CBMitAFBVV95cUxNVkpFejFBYTJZMmQ5WmRIRWpQQnppb0RSeVNIcnZoR3RONDR0elNJMkJ1SVMxcjJiMHFTUGFzeUxGRW5wS2FibDRRSXpGNkVkWTZRZDk3NFpRTW4zNDZMcnVfSDJaUGZOMUY3U1hvNjhyU0Z3cjAzM0RLcmRLaFZ3bnR5Y2NYR2VRZnA3dWliWlpIUXFqOFVEVjB1c2lRcTF4dlZyT1hNaFhNem5Xcnl6WUpCMWLSAboBQVVfeXFMTnQ2c0tkZElTb1RUR1lQRl9NRlBwT2dkZWp2V0ZHaHJQelRhN0dxT0ZleWhvbkotWUlvalQ0WV93aHBEQ3RxcUowbU9IMnYwV0d6d0I0MzQtQ2JvRnFTbDVWdmJFVEJ4X25aU0JPYVlJcy1FMk04SVBTc3BmRExiVHBDYkloeDFGd2NHVHFlUTFJQWVESE40bEtyanI4WG1POUViOE5iS1RQZlNEaW1wSm1CWk0tdXpzbVVB"
     },
     {
+      "title": "March 19, 2026 -- Notice of Open Board Meeting - Federal Reserve Board (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9GVmtqUWJ0ZVZJeXVnVkFJWTF3N0JNekJqYl9UenpZMEJyeHZVUUUyTkU0dno3aVQ0UXlkSmVSSGl5TGhaTFcyQ0tIRDc0UTVuZzJ4LTVjWWJrZjlSbHRQSjF0a0NuNzRNaTJQUkZya3NxeHdtSGlKU05reG5Tdw?oc=5",
+      "source": "Federal Reserve Board (.gov)",
+      "published_at": "Thu, 19 Mar 2026 07:00:00 GMT",
+      "summary": "March 19, 2026 -- Notice of Open Board Meeting Federal Reserve Board (.gov)",
+      "guid": "CBMifkFVX3lxTE9GVmtqUWJ0ZVZJeXVnVkFJWTF3N0JNekJqYl9UenpZMEJyeHZVUUUyTkU0dno3aVQ0UXlkSmVSSGl5TGhaTFcyQ0tIRDc0UTVuZzJ4LTVjWWJrZjlSbHRQSjF0a0NuNzRNaTJQUkZya3NxeHdtSGlKU05reG5Tdw"
+    },
+    {
       "title": "Bitcoin price news: BTC gives up gains as WTI crude oil surges over $100 per barrel - CoinDesk",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOS2tnQXVsSFR6U2o0MjFSaEZ6bU5KQjVyWWNOWGhEYmJ4SklETWIwdzRoaS1rOWFacEVCU0VYZlRtNFl3NlhpQ2lNMDRCQVVSaUhsNWRtVTlUczNDX1dvYl96OGEwZ3h3TTFhZDdTZG9DRndSTDJvYmRhMjc2Mm80OXgzT1ZxQmdOSmVHZ0RiUXZ2SmNTb05wY0RMVzNoUnRWYzVPVXZhSVA0b2JPQktCd3B5SkZpX2VJcEpPTFo3b3dkdVV1UEkzNjk4T19EaHM?oc=5",
       "source": "CoinDesk",
@@ -69,22 +85,6 @@
       "published_at": "Mon, 30 Mar 2026 20:10:31 GMT",
       "summary": "US Equity Markets Mixed After Federal Reserve Chair Powell's Reassuring Comments on Inflation marketscreener.com",
       "guid": "CBMi3wFBVV95cUxPb3VnS0RjOUpCbXdCSi00c29ETEg5ZzdxWG4tV2hETXZ3NVFvTVpOSHdFeDBpY3hvTDBTZWxvMlVsenZGYXpZM2dKMnhmVzdyTmNvbFBVTnVaS1ZFWlRmaEFnMm1rY2tpbW1lQ1hXWVc2bS1nR0dpcGotelpBTTlseW9VaGJEM01HQmlobnU3RzVEa1J5ZGROUFpLbEpjanVfZWZwVWtZOW9OQkVPek5DSmhYbjB5MDBGN0pkcFhVNjFhR3I4MXRjdHJRVUFEazA3bUxsQXlMTC1MM1g0N2dJ"
-    },
-    {
-      "title": "Federal Reserve Chair Jerome Powell Just Gave Investors Great News - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTWQ0cXlPNEhwRXN1SS15LXlhSkowVnE0eGRWTl8ySHhzNzFzSTh4aW5aTm9yMlpkVVlKbUdZUTVzRkR6em5DZEF4UU40Vk50cHVyMnlvaFVOSERHZTJOdUpnUUNSd1RJWVFYaDVRcnNPS3dZNDBaNGFCcGJzLVI4WFN3?oc=5",
-      "source": "AOL.com",
-      "published_at": "Mon, 30 Mar 2026 18:33:23 GMT",
-      "summary": "Federal Reserve Chair Jerome Powell Just Gave Investors Great News AOL.com",
-      "guid": "CBMiggFBVV95cUxNTWQ0cXlPNEhwRXN1SS15LXlhSkowVnE0eGRWTl8ySHhzNzFzSTh4aW5aTm9yMlpkVVlKbUdZUTVzRkR6em5DZEF4UU40Vk50cHVyMnlvaFVOSERHZTJOdUpnUUNSd1RJWVFYaDVRcnNPS3dZNDBaNGFCcGJzLVI4WFN3"
-    },
-    {
-      "title": "The Federal Reserve Is Raising Red Flags, and the Stock Market Isn't Listening - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRjJsN0JkeGxvWlM2R2dFenRqOHZqRFlreGZsYjZHbTBtUVh4VGdDMHVQeS1IcGJZZXNHUFFSbFFJWHZmZDRtVG9XMURsOFJ4RmpnUHU3Q19fRlN4STBab1d2RXBNMVdoWGFUcVlmNzVYNG9LTG94VWVCdHpXUTJ1NF9yMzNPa2szdTV3UXM0ejB0NFE4UHVneFh0Rko?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Sun, 22 Mar 2026 07:00:00 GMT",
-      "summary": "The Federal Reserve Is Raising Red Flags, and the Stock Market Isn't Listening Yahoo Finance",
-      "guid": "CBMinAFBVV95cUxQRjJsN0JkeGxvWlM2R2dFenRqOHZqRFlreGZsYjZHbTBtUVh4VGdDMHVQeS1IcGJZZXNHUFFSbFFJWHZmZDRtVG9XMURsOFJ4RmpnUHU3Q19fRlN4STBab1d2RXBNMVdoWGFUcVlmNzVYNG9LTG94VWVCdHpXUTJ1NF9yMzNPa2szdTV3UXM0ejB0NFE4UHVneFh0Rko"
     }
   ]
 }
