@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-31T18:35:25Z",
+  "generated_at": "2026-03-31T19:38:51Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,20 +7,12 @@
   },
   "items": [
     {
-      "title": "Stock Market: Not So Good - Seeking Alpha",
+      "title": "Stock Market: Not So Good - seekingalpha.com",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5LX29tUmY1TThSbUJiV3UwMzNhUGViNXRGQXZSeTMyNXVCM1U1WVdkUGpLYkJKNVdZdWp2MV9CMktTUlVGeHNya3RnN2s0R3dBSXFiMHFLVmwzZXhxbXFmYzJFWTJuSUx4QmZsZEJNU2tqM0U?oc=5",
-      "source": "Seeking Alpha",
+      "source": "seekingalpha.com",
       "published_at": "Mon, 30 Mar 2026 15:29:58 GMT",
-      "summary": "Stock Market: Not So Good Seeking Alpha",
+      "summary": "Stock Market: Not So Good seekingalpha.com",
       "guid": "CBMic0FVX3lxTE5LX29tUmY1TThSbUJiV3UwMzNhUGViNXRGQXZSeTMyNXVCM1U1WVdkUGpLYkJKNVdZdWp2MV9CMktTUlVGeHNya3RnN2s0R3dBSXFiMHFLVmwzZXhxbXFmYzJFWTJuSUx4QmZsZEJNU2tqM0U"
-    },
-    {
-      "title": "Fed Chair Jerome Powell Just Sent a Signal That Could Shake the Stock Market - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeEszZS1kSDFLeW9BNHFLS1p6QV9Tc0RuSGlwLWh2MHVybVJaQVhIeGs1dVAySHRiSGtZclRuWmNzNjVtWXppbE9IakRudktRTjZDaGFoTWJ1b0VZMXpXSnFzRW5GeGhGdUZnSzBWQkh6X29tcmVwMGdiRzNqMTNSM1JSQ0xRZDVyQUhhVFo4aw?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Sun, 29 Mar 2026 11:15:00 GMT",
-      "summary": "Fed Chair Jerome Powell Just Sent a Signal That Could Shake the Stock Market The Motley Fool",
-      "guid": "CBMijwFBVV95cUxPeEszZS1kSDFLeW9BNHFLS1p6QV9Tc0RuSGlwLWh2MHVybVJaQVhIeGs1dVAySHRiSGtZclRuWmNzNjVtWXppbE9IakRudktRTjZDaGFoTWJ1b0VZMXpXSnFzRW5GeGhGdUZnSzBWQkh6X29tcmVwMGdiRzNqMTNSM1JSQ0xRZDVyQUhhVFo4aw"
     },
     {
       "title": "Don't Look Now, but the Federal Reserve's March Inflation Forecast Just Worsened - Yahoo Finance",
@@ -29,6 +21,14 @@
       "published_at": "Mon, 30 Mar 2026 09:26:00 GMT",
       "summary": "Don't Look Now, but the Federal Reserve's March Inflation Forecast Just Worsened Yahoo Finance",
       "guid": "CBMimwFBVV95cUxPTERfZDlVOEhyeDJvOUxLOHg2SC1pR3BlSlF1RkNRQUZmVy1rMWpJcE9ZeEZmaDh1VkRfdjFCSUt1cjd3UmlCejZ4bnFhbUFHZ1NQb0RUdmVlZjg1eGx3aHE2bTJ0cUN5VEFZWU1pN1VGMTdlNmVVSkE2U0VJeDhKb1g1cnpfZ2ptMzE1a2xHOW4yWV9aM2w2a2Z1WQ"
+    },
+    {
+      "title": "Fed Chair Jerome Powell Just Sent a Signal That Could Shake the Stock Market - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeEszZS1kSDFLeW9BNHFLS1p6QV9Tc0RuSGlwLWh2MHVybVJaQVhIeGs1dVAySHRiSGtZclRuWmNzNjVtWXppbE9IakRudktRTjZDaGFoTWJ1b0VZMXpXSnFzRW5GeGhGdUZnSzBWQkh6X29tcmVwMGdiRzNqMTNSM1JSQ0xRZDVyQUhhVFo4aw?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Sun, 29 Mar 2026 11:15:00 GMT",
+      "summary": "Fed Chair Jerome Powell Just Sent a Signal That Could Shake the Stock Market The Motley Fool",
+      "guid": "CBMijwFBVV95cUxPeEszZS1kSDFLeW9BNHFLS1p6QV9Tc0RuSGlwLWh2MHVybVJaQVhIeGs1dVAySHRiSGtZclRuWmNzNjVtWXppbE9IakRudktRTjZDaGFoTWJ1b0VZMXpXSnFzRW5GeGhGdUZnSzBWQkh6X29tcmVwMGdiRzNqMTNSM1JSQ0xRZDVyQUhhVFo4aw"
     },
     {
       "title": "Tracker: The Federal Reserve’s Balance Sheet Assets - The American Action Forum",
