@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-01T22:27:49Z",
+  "generated_at": "2026-04-01T23:04:20Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,11 +7,11 @@
   },
   "items": [
     {
-      "title": "Stock Market: Not So Good - seekingalpha.com",
+      "title": "Stock Market: Not So Good - Seeking Alpha",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5LX29tUmY1TThSbUJiV3UwMzNhUGViNXRGQXZSeTMyNXVCM1U1WVdkUGpLYkJKNVdZdWp2MV9CMktTUlVGeHNya3RnN2s0R3dBSXFiMHFLVmwzZXhxbXFmYzJFWTJuSUx4QmZsZEJNU2tqM0U?oc=5",
-      "source": "seekingalpha.com",
+      "source": "Seeking Alpha",
       "published_at": "Mon, 30 Mar 2026 15:29:58 GMT",
-      "summary": "Stock Market: Not So Good seekingalpha.com",
+      "summary": "Stock Market: Not So Good Seeking Alpha",
       "guid": "CBMic0FVX3lxTE5LX29tUmY1TThSbUJiV3UwMzNhUGViNXRGQXZSeTMyNXVCM1U1WVdkUGpLYkJKNVdZdWp2MV9CMktTUlVGeHNya3RnN2s0R3dBSXFiMHFLVmwzZXhxbXFmYzJFWTJuSUx4QmZsZEJNU2tqM0U"
     },
     {
@@ -39,20 +39,20 @@
       "guid": "CBMimwFBVV95cUxPTERfZDlVOEhyeDJvOUxLOHg2SC1pR3BlSlF1RkNRQUZmVy1rMWpJcE9ZeEZmaDh1VkRfdjFCSUt1cjd3UmlCejZ4bnFhbUFHZ1NQb0RUdmVlZjg1eGx3aHE2bTJ0cUN5VEFZWU1pN1VGMTdlNmVVSkE2U0VJeDhKb1g1cnpfZ2ptMzE1a2xHOW4yWV9aM2w2a2Z1WQ"
     },
     {
-      "title": "Warren Buffett on the Recent Stock Market Selloff: 'This Is Nothing' - investopedia.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNFhUb2ZtNVlmaGhLWHFZelFJZDAwNDA3OGFCWUJ0U1diRVlkQ09Qa3RDUGRRZnRIZDFjbjVjQzhYalZkZmFhTDNOOXlBTElMS0M2cnNPUlR0TG5DOU51VXJ0eDhaaXdYcUZuc09VR2ExbDUtMUpPMUVzTTUtbUFmYTQyM21Eb2E4aDQtUEw2VFZ3SV9yaTZIc3dTZzl6T2R5UTlTeWhB?oc=5",
-      "source": "investopedia.com",
-      "published_at": "Tue, 31 Mar 2026 21:16:31 GMT",
-      "summary": "Warren Buffett on the Recent Stock Market Selloff: 'This Is Nothing' investopedia.com",
-      "guid": "CBMipgFBVV95cUxQNFhUb2ZtNVlmaGhLWHFZelFJZDAwNDA3OGFCWUJ0U1diRVlkQ09Qa3RDUGRRZnRIZDFjbjVjQzhYalZkZmFhTDNOOXlBTElMS0M2cnNPUlR0TG5DOU51VXJ0eDhaaXdYcUZuc09VR2ExbDUtMUpPMUVzTTUtbUFmYTQyM21Eb2E4aDQtUEw2VFZ3SV9yaTZIc3dTZzl6T2R5UTlTeWhB"
+      "title": "U.S. stocks sink on worries about inflation as gold falls below $5,000 per ounce - PBS",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVkpFejFBYTJZMmQ5WmRIRWpQQnppb0RSeVNIcnZoR3RONDR0elNJMkJ1SVMxcjJiMHFTUGFzeUxGRW5wS2FibDRRSXpGNkVkWTZRZDk3NFpRTW4zNDZMcnVfSDJaUGZOMUY3U1hvNjhyU0Z3cjAzM0RLcmRLaFZ3bnR5Y2NYR2VRZnA3dWliWlpIUXFqOFVEVjB1c2lRcTF4dlZyT1hNaFhNem5Xcnl6WUpCMWLSAboBQVVfeXFMTnQ2c0tkZElTb1RUR1lQRl9NRlBwT2dkZWp2V0ZHaHJQelRhN0dxT0ZleWhvbkotWUlvalQ0WV93aHBEQ3RxcUowbU9IMnYwV0d6d0I0MzQtQ2JvRnFTbDVWdmJFVEJ4X25aU0JPYVlJcy1FMk04SVBTc3BmRExiVHBDYkloeDFGd2NHVHFlUTFJQWVESE40bEtyanI4WG1POUViOE5iS1RQZlNEaW1wSm1CWk0tdXpzbVVB?oc=5",
+      "source": "PBS",
+      "published_at": "Wed, 18 Mar 2026 07:00:00 GMT",
+      "summary": "U.S. stocks sink on worries about inflation as gold falls below $5,000 per ounce PBS",
+      "guid": "CBMitAFBVV95cUxNVkpFejFBYTJZMmQ5WmRIRWpQQnppb0RSeVNIcnZoR3RONDR0elNJMkJ1SVMxcjJiMHFTUGFzeUxGRW5wS2FibDRRSXpGNkVkWTZRZDk3NFpRTW4zNDZMcnVfSDJaUGZOMUY3U1hvNjhyU0Z3cjAzM0RLcmRLaFZ3bnR5Y2NYR2VRZnA3dWliWlpIUXFqOFVEVjB1c2lRcTF4dlZyT1hNaFhNem5Xcnl6WUpCMWLSAboBQVVfeXFMTnQ2c0tkZElTb1RUR1lQRl9NRlBwT2dkZWp2V0ZHaHJQelRhN0dxT0ZleWhvbkotWUlvalQ0WV93aHBEQ3RxcUowbU9IMnYwV0d6d0I0MzQtQ2JvRnFTbDVWdmJFVEJ4X25aU0JPYVlJcy1FMk04SVBTc3BmRExiVHBDYkloeDFGd2NHVHFlUTFJQWVESE40bEtyanI4WG1POUViOE5iS1RQZlNEaW1wSm1CWk0tdXpzbVVB"
     },
     {
-      "title": "March 19, 2026 -- Notice of Open Board Meeting - federalreserve.gov",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9GVmtqUWJ0ZVZJeXVnVkFJWTF3N0JNekJqYl9UenpZMEJyeHZVUUUyTkU0dno3aVQ0UXlkSmVSSGl5TGhaTFcyQ0tIRDc0UTVuZzJ4LTVjWWJrZjlSbHRQSjF0a0NuNzRNaTJQUkZya3NxeHdtSGlKU05reG5Tdw?oc=5",
-      "source": "federalreserve.gov",
-      "published_at": "Thu, 19 Mar 2026 07:00:00 GMT",
-      "summary": "March 19, 2026 -- Notice of Open Board Meeting federalreserve.gov",
-      "guid": "CBMifkFVX3lxTE9GVmtqUWJ0ZVZJeXVnVkFJWTF3N0JNekJqYl9UenpZMEJyeHZVUUUyTkU0dno3aVQ0UXlkSmVSSGl5TGhaTFcyQ0tIRDc0UTVuZzJ4LTVjWWJrZjlSbHRQSjF0a0NuNzRNaTJQUkZya3NxeHdtSGlKU05reG5Tdw"
+      "title": "Tracker: The Federal Reserve’s Balance Sheet Assets - The American Action Forum",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0?oc=5",
+      "source": "The American Action Forum",
+      "published_at": "Fri, 27 Mar 2026 07:00:00 GMT",
+      "summary": "Tracker: The Federal Reserve’s Balance Sheet Assets The American Action Forum",
+      "guid": "CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0"
     },
     {
       "title": "Bitcoin price news: BTC gives up gains as WTI crude oil surges over $100 per barrel - CoinDesk",
@@ -71,20 +71,20 @@
       "guid": "CBMi3wFBVV95cUxPb3VnS0RjOUpCbXdCSi00c29ETEg5ZzdxWG4tV2hETXZ3NVFvTVpOSHdFeDBpY3hvTDBTZWxvMlVsenZGYXpZM2dKMnhmVzdyTmNvbFBVTnVaS1ZFWlRmaEFnMm1rY2tpbW1lQ1hXWVc2bS1nR0dpcGotelpBTTlseW9VaGJEM01HQmlobnU3RzVEa1J5ZGROUFpLbEpjanVfZWZwVWtZOW9OQkVPek5DSmhYbjB5MDBGN0pkcFhVNjFhR3I4MXRjdHJRVUFEazA3bUxsQXlMTC1MM1g0N2dJ"
     },
     {
-      "title": "Federal Reserve Chair Jerome Powell Just Gave Investors Great News - aol.com",
+      "title": "Federal Reserve Chair Jerome Powell Just Gave Investors Great News - AOL.com",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTWQ0cXlPNEhwRXN1SS15LXlhSkowVnE0eGRWTl8ySHhzNzFzSTh4aW5aTm9yMlpkVVlKbUdZUTVzRkR6em5DZEF4UU40Vk50cHVyMnlvaFVOSERHZTJOdUpnUUNSd1RJWVFYaDVRcnNPS3dZNDBaNGFCcGJzLVI4WFN3?oc=5",
-      "source": "aol.com",
+      "source": "AOL.com",
       "published_at": "Mon, 30 Mar 2026 18:33:23 GMT",
-      "summary": "Federal Reserve Chair Jerome Powell Just Gave Investors Great News aol.com",
+      "summary": "Federal Reserve Chair Jerome Powell Just Gave Investors Great News AOL.com",
       "guid": "CBMiggFBVV95cUxNTWQ0cXlPNEhwRXN1SS15LXlhSkowVnE0eGRWTl8ySHhzNzFzSTh4aW5aTm9yMlpkVVlKbUdZUTVzRkR6em5DZEF4UU40Vk50cHVyMnlvaFVOSERHZTJOdUpnUUNSd1RJWVFYaDVRcnNPS3dZNDBaNGFCcGJzLVI4WFN3"
     },
     {
-      "title": "US stocks hold their losses after the Federal Reserve opts again not to cut interest rates - kvoa.com",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQQ0V3ZEFYZ2VXUzhvVDljdlJxWVM2Zmpwbl9pVDVoUGp6S05zcG9PT0hRUFFPS05zX3RfdXRHNW1qaExEbUhyTEtXZjJ3ME1uSUNXeThET0tnWjZEMWptS3JITUxhSzQ0ZU9jTjMtSlBVQlAtOEtRTVVtVm5rdkVfLU9GR195QVBJOHF6eWN0akowb19QLWllV0VPdE83cHc0ZDNMOVpvNXZsa0NaTUJYZnN2YnMtSmxDWHZ2bjY3X01oOFQ1bS03V1p4Y1FTOW1wdVd2cEZ1azVzZXRMZTVWVkMtOVhGUlNGbDBld2hUUU1KNkNwOVpUZ0J6UHY0UQ?oc=5",
-      "source": "kvoa.com",
-      "published_at": "Wed, 18 Mar 2026 18:23:00 GMT",
-      "summary": "US stocks hold their losses after the Federal Reserve opts again not to cut interest rates kvoa.com",
-      "guid": "CBMi_gFBVV95cUxQQ0V3ZEFYZ2VXUzhvVDljdlJxWVM2Zmpwbl9pVDVoUGp6S05zcG9PT0hRUFFPS05zX3RfdXRHNW1qaExEbUhyTEtXZjJ3ME1uSUNXeThET0tnWjZEMWptS3JITUxhSzQ0ZU9jTjMtSlBVQlAtOEtRTVVtVm5rdkVfLU9GR195QVBJOHF6eWN0akowb19QLWllV0VPdE83cHc0ZDNMOVpvNXZsa0NaTUJYZnN2YnMtSmxDWHZ2bjY3X01oOFQ1bS03V1p4Y1FTOW1wdVd2cEZ1azVzZXRMZTVWVkMtOVhGUlNGbDBld2hUUU1KNkNwOVpUZ0J6UHY0UQ"
+      "title": "The Federal Reserve Has Become a Stock Market Liability, and President Trump's New Nominee for Chair Won't Help - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOUN5MHFlVmh2ZFI3eXp1ODZCS0E1WGZNdkt4Q1lWZHBXY1N4bXl4bjk3VGRoUU83Rk9tRzNsOGJ6SWx4Ukk0eTRhOUZ2aHZnVDFOQkg3d3JuNEp6SjV0RUFYUzVBN003V0U2SmFEczdJd3FZWnRaVnY2ZG1pVjI1Zl9jcXhGSV9fUW8xTHZEbmFCNnJONjBR?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Mon, 16 Mar 2026 07:00:00 GMT",
+      "summary": "The Federal Reserve Has Become a Stock Market Liability, and President Trump's New Nominee for Chair Won't Help The Motley Fool",
+      "guid": "CBMilwFBVV95cUxOOUN5MHFlVmh2ZFI3eXp1ODZCS0E1WGZNdkt4Q1lWZHBXY1N4bXl4bjk3VGRoUU83Rk9tRzNsOGJ6SWx4Ukk0eTRhOUZ2aHZnVDFOQkg3d3JuNEp6SjV0RUFYUzVBN003V0U2SmFEczdJd3FZWnRaVnY2ZG1pVjI1Zl9jcXhGSV9fUW8xTHZEbmFCNnJONjBR"
     }
   ]
 }
