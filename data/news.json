@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-01T14:15:40Z",
+  "generated_at": "2026-04-01T15:49:04Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -23,12 +23,20 @@
       "guid": "CBMijwFBVV95cUxPeEszZS1kSDFLeW9BNHFLS1p6QV9Tc0RuSGlwLWh2MHVybVJaQVhIeGs1dVAySHRiSGtZclRuWmNzNjVtWXppbE9IakRudktRTjZDaGFoTWJ1b0VZMXpXSnFzRW5GeGhGdUZnSzBWQkh6X29tcmVwMGdiRzNqMTNSM1JSQ0xRZDVyQUhhVFo4aw"
     },
     {
+      "title": "Warren Buffett on the Recent Stock Market Selloff: 'This Is Nothing' - Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNFhUb2ZtNVlmaGhLWHFZelFJZDAwNDA3OGFCWUJ0U1diRVlkQ09Qa3RDUGRRZnRIZDFjbjVjQzhYalZkZmFhTDNOOXlBTElMS0M2cnNPUlR0TG5DOU51VXJ0eDhaaXdYcUZuc09VR2ExbDUtMUpPMUVzTTUtbUFmYTQyM21Eb2E4aDQtUEw2VFZ3SV9yaTZIc3dTZzl6T2R5UTlTeWhB?oc=5",
+      "source": "Investopedia",
+      "published_at": "Tue, 31 Mar 2026 21:16:31 GMT",
+      "summary": "Warren Buffett on the Recent Stock Market Selloff: 'This Is Nothing' Investopedia",
+      "guid": "CBMipgFBVV95cUxQNFhUb2ZtNVlmaGhLWHFZelFJZDAwNDA3OGFCWUJ0U1diRVlkQ09Qa3RDUGRRZnRIZDFjbjVjQzhYalZkZmFhTDNOOXlBTElMS0M2cnNPUlR0TG5DOU51VXJ0eDhaaXdYcUZuc09VR2ExbDUtMUpPMUVzTTUtbUFmYTQyM21Eb2E4aDQtUEw2VFZ3SV9yaTZIc3dTZzl6T2R5UTlTeWhB"
+    },
+    {
       "title": "What a US Fed Rate Hike Could Mean for These Key Stock Sectors - Morningstar Canada",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNM0JFX0V4RjhEbE03ZXo0VFFxTTFCQThmS1gxZHN3NHo5aGkxUTJNYVVlbnNUenZtM3lmNmFJbi1ZN3M1WnV3cUdjTEI1RWRjWUxvZWtwZVlvVmhFdUxoWFdxRlRSeEZOV3J2S1RIeWFXOXh6Mlh5b3FyM3M4UzJ1cGt0NjU2SXcxcXlxdmc4Z2x5c2tJdVF6dWl2SlJTSlJfRkE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTVNvVlJRSEhncXFlWUduTVlJNTdsd0RhRlV3dU4yd0RvWEVFelFuRl9RblM3VThtRWlrNXVrZUYwVGp2M3JIRk1BTDZIYlNnWmxXdTEwQU9mdTU1M0ZybUJ6MW8xUW1oUmlacmhSeEp6ODVZSV95Q0lWamluS3padmJCS3FQRWY5Yk5IRkNLYTJzSkduZFhkdHg4elRGX1R5RkE?oc=5",
       "source": "Morningstar Canada",
-      "published_at": "Tue, 31 Mar 2026 08:07:22 GMT",
+      "published_at": "Tue, 31 Mar 2026 08:04:09 GMT",
       "summary": "What a US Fed Rate Hike Could Mean for These Key Stock Sectors Morningstar Canada",
-      "guid": "CBMiogFBVV95cUxNM0JFX0V4RjhEbE03ZXo0VFFxTTFCQThmS1gxZHN3NHo5aGkxUTJNYVVlbnNUenZtM3lmNmFJbi1ZN3M1WnV3cUdjTEI1RWRjWUxvZWtwZVlvVmhFdUxoWFdxRlRSeEZOV3J2S1RIeWFXOXh6Mlh5b3FyM3M4UzJ1cGt0NjU2SXcxcXlxdmc4Z2x5c2tJdVF6dWl2SlJTSlJfRkE"
+      "guid": "CBMiogFBVV95cUxNTVNvVlJRSEhncXFlWUduTVlJNTdsd0RhRlV3dU4yd0RvWEVFelFuRl9RblM3VThtRWlrNXVrZUYwVGp2M3JIRk1BTDZIYlNnWmxXdTEwQU9mdTU1M0ZybUJ6MW8xUW1oUmlacmhSeEp6ODVZSV95Q0lWamluS3padmJCS3FQRWY5Yk5IRkNLYTJzSkduZFhkdHg4elRGX1R5RkE"
     },
     {
       "title": "Don't Look Now, but the Federal Reserve's March Inflation Forecast Just Worsened - Yahoo Finance",
@@ -55,36 +63,28 @@
       "guid": "CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0"
     },
     {
-      "title": "U.S. stocks sink on worries about inflation as gold falls below $5,000 per ounce - PBS",
+      "title": "U.S. stocks sink on worries about inflation as gold falls below $5,000 per ounce - pbs.org",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVkpFejFBYTJZMmQ5WmRIRWpQQnppb0RSeVNIcnZoR3RONDR0elNJMkJ1SVMxcjJiMHFTUGFzeUxGRW5wS2FibDRRSXpGNkVkWTZRZDk3NFpRTW4zNDZMcnVfSDJaUGZOMUY3U1hvNjhyU0Z3cjAzM0RLcmRLaFZ3bnR5Y2NYR2VRZnA3dWliWlpIUXFqOFVEVjB1c2lRcTF4dlZyT1hNaFhNem5Xcnl6WUpCMWLSAboBQVVfeXFMTnQ2c0tkZElTb1RUR1lQRl9NRlBwT2dkZWp2V0ZHaHJQelRhN0dxT0ZleWhvbkotWUlvalQ0WV93aHBEQ3RxcUowbU9IMnYwV0d6d0I0MzQtQ2JvRnFTbDVWdmJFVEJ4X25aU0JPYVlJcy1FMk04SVBTc3BmRExiVHBDYkloeDFGd2NHVHFlUTFJQWVESE40bEtyanI4WG1POUViOE5iS1RQZlNEaW1wSm1CWk0tdXpzbVVB?oc=5",
-      "source": "PBS",
+      "source": "pbs.org",
       "published_at": "Wed, 18 Mar 2026 07:00:00 GMT",
-      "summary": "U.S. stocks sink on worries about inflation as gold falls below $5,000 per ounce PBS",
+      "summary": "U.S. stocks sink on worries about inflation as gold falls below $5,000 per ounce pbs.org",
       "guid": "CBMitAFBVV95cUxNVkpFejFBYTJZMmQ5WmRIRWpQQnppb0RSeVNIcnZoR3RONDR0elNJMkJ1SVMxcjJiMHFTUGFzeUxGRW5wS2FibDRRSXpGNkVkWTZRZDk3NFpRTW4zNDZMcnVfSDJaUGZOMUY3U1hvNjhyU0Z3cjAzM0RLcmRLaFZ3bnR5Y2NYR2VRZnA3dWliWlpIUXFqOFVEVjB1c2lRcTF4dlZyT1hNaFhNem5Xcnl6WUpCMWLSAboBQVVfeXFMTnQ2c0tkZElTb1RUR1lQRl9NRlBwT2dkZWp2V0ZHaHJQelRhN0dxT0ZleWhvbkotWUlvalQ0WV93aHBEQ3RxcUowbU9IMnYwV0d6d0I0MzQtQ2JvRnFTbDVWdmJFVEJ4X25aU0JPYVlJcy1FMk04SVBTc3BmRExiVHBDYkloeDFGd2NHVHFlUTFJQWVESE40bEtyanI4WG1POUViOE5iS1RQZlNEaW1wSm1CWk0tdXpzbVVB"
     },
     {
-      "title": "Bitcoin price news: BTC gives up gains as WTI crude oil surges over $100 per barrel - CoinDesk",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOS2tnQXVsSFR6U2o0MjFSaEZ6bU5KQjVyWWNOWGhEYmJ4SklETWIwdzRoaS1rOWFacEVCU0VYZlRtNFl3NlhpQ2lNMDRCQVVSaUhsNWRtVTlUczNDX1dvYl96OGEwZ3h3TTFhZDdTZG9DRndSTDJvYmRhMjc2Mm80OXgzT1ZxQmdOSmVHZ0RiUXZ2SmNTb05wY0RMVzNoUnRWYzVPVXZhSVA0b2JPQktCd3B5SkZpX2VJcEpPTFo3b3dkdVV1UEkzNjk4T19EaHM?oc=5",
-      "source": "CoinDesk",
-      "published_at": "Mon, 30 Mar 2026 20:28:57 GMT",
-      "summary": "Bitcoin price news: BTC gives up gains as WTI crude oil surges over $100 per barrel CoinDesk",
-      "guid": "CBMizwFBVV95cUxOS2tnQXVsSFR6U2o0MjFSaEZ6bU5KQjVyWWNOWGhEYmJ4SklETWIwdzRoaS1rOWFacEVCU0VYZlRtNFl3NlhpQ2lNMDRCQVVSaUhsNWRtVTlUczNDX1dvYl96OGEwZ3h3TTFhZDdTZG9DRndSTDJvYmRhMjc2Mm80OXgzT1ZxQmdOSmVHZ0RiUXZ2SmNTb05wY0RMVzNoUnRWYzVPVXZhSVA0b2JPQktCd3B5SkZpX2VJcEpPTFo3b3dkdVV1UEkzNjk4T19EaHM"
+      "title": "Market Reactions to Tariff Announcements - Federal Reserve Bank of San Francisco",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM1dfLWVxeDJGbVNDYU9vWU8xOW5Fbk9rWk5KREtjbWFDcWFfdzAyVE5WMDhINUpWbWVDVWZmRHBSSlN3blk5alBHd3B1RE5JSmVMRTd3SXhNQmZWdDllUDFCU1lwTk9zcmpBSmhmazM5OEhIWEVHMlhHTDY4M1luNXJ5TExQbi1RMjBLbmpZd3BqLU1zanlvM0hvVWhVcWtiSWZBOV9ENTJmTWUtQzIxdmprYlpGNnJzQk11T1ZfWQ?oc=5",
+      "source": "Federal Reserve Bank of San Francisco",
+      "published_at": "Mon, 06 Oct 2025 07:00:00 GMT",
+      "summary": "Market Reactions to Tariff Announcements Federal Reserve Bank of San Francisco",
+      "guid": "CBMivwFBVV95cUxOM1dfLWVxeDJGbVNDYU9vWU8xOW5Fbk9rWk5KREtjbWFDcWFfdzAyVE5WMDhINUpWbWVDVWZmRHBSSlN3blk5alBHd3B1RE5JSmVMRTd3SXhNQmZWdDllUDFCU1lwTk9zcmpBSmhmazM5OEhIWEVHMlhHTDY4M1luNXJ5TExQbi1RMjBLbmpZd3BqLU1zanlvM0hvVWhVcWtiSWZBOV9ENTJmTWUtQzIxdmprYlpGNnJzQk11T1ZfWQ"
     },
     {
-      "title": "US Equity Markets Mixed After Federal Reserve Chair Powell's Reassuring Comments on Inflation - marketscreener.com",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPb3VnS0RjOUpCbXdCSi00c29ETEg5ZzdxWG4tV2hETXZ3NVFvTVpOSHdFeDBpY3hvTDBTZWxvMlVsenZGYXpZM2dKMnhmVzdyTmNvbFBVTnVaS1ZFWlRmaEFnMm1rY2tpbW1lQ1hXWVc2bS1nR0dpcGotelpBTTlseW9VaGJEM01HQmlobnU3RzVEa1J5ZGROUFpLbEpjanVfZWZwVWtZOW9OQkVPek5DSmhYbjB5MDBGN0pkcFhVNjFhR3I4MXRjdHJRVUFEazA3bUxsQXlMTC1MM1g0N2dJ?oc=5",
-      "source": "marketscreener.com",
-      "published_at": "Mon, 30 Mar 2026 20:10:31 GMT",
-      "summary": "US Equity Markets Mixed After Federal Reserve Chair Powell's Reassuring Comments on Inflation marketscreener.com",
-      "guid": "CBMi3wFBVV95cUxPb3VnS0RjOUpCbXdCSi00c29ETEg5ZzdxWG4tV2hETXZ3NVFvTVpOSHdFeDBpY3hvTDBTZWxvMlVsenZGYXpZM2dKMnhmVzdyTmNvbFBVTnVaS1ZFWlRmaEFnMm1rY2tpbW1lQ1hXWVc2bS1nR0dpcGotelpBTTlseW9VaGJEM01HQmlobnU3RzVEa1J5ZGROUFpLbEpjanVfZWZwVWtZOW9OQkVPek5DSmhYbjB5MDBGN0pkcFhVNjFhR3I4MXRjdHJRVUFEazA3bUxsQXlMTC1MM1g0N2dJ"
-    },
-    {
-      "title": "Federal Reserve holds firm with decision not to cut interest rate - NewsNation",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTWF1NHBzVndvOFhhS0kyUFNrQ3RGT0ltc0FuOVNiSVlwTGFyblp0R2Vjb2FFcnIxNFJ3LWRMc21CRGZ1d0VnUmdHdzZiRTZPdno2T3RLUkJ0TFUzRVZudFRXZV9waVAtMHZEZGNVdkhYZUIxU2hqSEpWS1lrXzBYT3djTXdDN0Z0emZFdm5wcEdZU1ZBbE1uSdIBngFBVV95cUxPbXFDdTNkTU52YVVZYXhQMzdJSU83V2pyRWZYM2RtX3NhNlZ2YlRfUnBWYmphQTdaQmI3NXZHb245TkluQzVMNHlwZERNOTB0S0s0bUxYZURsdHNpaEEwN1IzOUxieTJZUzNjLVU3N042S2pIT2FhSmRKS1RpOFEzaExnUjd5UXpNSWQ5ZTBKd21veFNiUVVLUE5LUkMyZw?oc=5",
-      "source": "NewsNation",
-      "published_at": "Wed, 18 Mar 2026 07:00:00 GMT",
-      "summary": "Federal Reserve holds firm with decision not to cut interest rate NewsNation",
-      "guid": "CBMimAFBVV95cUxPTWF1NHBzVndvOFhhS0kyUFNrQ3RGT0ltc0FuOVNiSVlwTGFyblp0R2Vjb2FFcnIxNFJ3LWRMc21CRGZ1d0VnUmdHdzZiRTZPdno2T3RLUkJ0TFUzRVZudFRXZV9waVAtMHZEZGNVdkhYZUIxU2hqSEpWS1lrXzBYT3djTXdDN0Z0emZFdm5wcEdZU1ZBbE1uSdIBngFBVV95cUxPbXFDdTNkTU52YVVZYXhQMzdJSU83V2pyRWZYM2RtX3NhNlZ2YlRfUnBWYmphQTdaQmI3NXZHb245TkluQzVMNHlwZERNOTB0S0s0bUxYZURsdHNpaEEwN1IzOUxieTJZUzNjLVU3N042S2pIT2FhSmRKS1RpOFEzaExnUjd5UXpNSWQ5ZTBKd21veFNiUVVLUE5LUkMyZw"
+      "title": "What Causes “Jumps” in Stock Prices? - Federal Reserve Bank of St. Louis",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNlU3bVlaY05yZmRvNlVELU8yV25yT2ozUmJtT1lJbG1HelVoMGt4d1lVNHZkR3BrZkt4VzRRSXZjT3FHUXlLbHNZWkh3R1dYaWNjV3ZzNE9ROWJpQmZ3cFpwdEdLbXR6T00wamtwbmdLcF9RUDA3eEU5aUp1QWZwV0pMUDJrZ0hj?oc=5",
+      "source": "Federal Reserve Bank of St. Louis",
+      "published_at": "Mon, 29 Sep 2025 07:00:00 GMT",
+      "summary": "What Causes “Jumps” in Stock Prices? Federal Reserve Bank of St. Louis",
+      "guid": "CBMiiAFBVV95cUxPNlU3bVlaY05yZmRvNlVELU8yV25yT2ozUmJtT1lJbG1HelVoMGt4d1lVNHZkR3BrZkt4VzRRSXZjT3FHUXlLbHNZWkh3R1dYaWNjV3ZzNE9ROWJpQmZ3cFpwdEdLbXR6T00wamtwbmdLcF9RUDA3eEU5aUp1QWZwV0pMUDJrZ0hj"
     }
   ]
 }
