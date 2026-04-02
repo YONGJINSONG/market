@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-04-02T22:58:35Z",
+  "generated_at": "2026-04-02T23:34:21Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "Is the stock market closed on Good Friday? A guide to banks, mail and more - cbs8.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZExqMGRlWW56bWdfV0RQdkRSc3kxdVpzSkhxNjcxOGpyXzlEN01xRy1DRVE5UV9xZWJzaG53dWZWRkJVeldXYjQycDFybUZ2TGs2a2YxTVRKRmdaQThGVjNld1phRmdvQmhRN3pxS2xuSl91VnBmMzZvaHRhOXd1VkpYRm1nWXV0TzV6OGFGTnRwWFdLdkFWMkRrWUVnVWdkcDdvSlpWNi1Od1c3UV9kRDdvN3p5YWxoUUhQdV9GZlY4QQ?oc=5",
+      "source": "cbs8.com",
+      "published_at": "Thu, 02 Apr 2026 22:55:00 GMT",
+      "summary": "Is the stock market closed on Good Friday? A guide to banks, mail and more cbs8.com",
+      "guid": "CBMiwgFBVV95cUxNZExqMGRlWW56bWdfV0RQdkRSc3kxdVpzSkhxNjcxOGpyXzlEN01xRy1DRVE5UV9xZWJzaG53dWZWRkJVeldXYjQycDFybUZ2TGs2a2YxTVRKRmdaQThGVjNld1phRmdvQmhRN3pxS2xuSl91VnBmMzZvaHRhOXd1VkpYRm1nWXV0TzV6OGFGTnRwWFdLdkFWMkRrWUVnVWdkcDdvSlpWNi1Od1c3UV9kRDdvN3p5YWxoUUhQdV9GZlY4QQ"
+    },
     {
       "title": "Fed Chair Jerome Powell Just Sent a Signal That Could Shake the Stock Market - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeEszZS1kSDFLeW9BNHFLS1p6QV9Tc0RuSGlwLWh2MHVybVJaQVhIeGs1dVAySHRiSGtZclRuWmNzNjVtWXppbE9IakRudktRTjZDaGFoTWJ1b0VZMXpXSnFzRW5GeGhGdUZnSzBWQkh6X29tcmVwMGdiRzNqMTNSM1JSQ0xRZDVyQUhhVFo4aw?oc=5",
@@ -15,20 +23,20 @@
       "guid": "CBMijwFBVV95cUxPeEszZS1kSDFLeW9BNHFLS1p6QV9Tc0RuSGlwLWh2MHVybVJaQVhIeGs1dVAySHRiSGtZclRuWmNzNjVtWXppbE9IakRudktRTjZDaGFoTWJ1b0VZMXpXSnFzRW5GeGhGdUZnSzBWQkh6X29tcmVwMGdiRzNqMTNSM1JSQ0xRZDVyQUhhVFo4aw"
     },
     {
+      "title": "The market is starting to think the Federal Reserve's next move is raising interest rates - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNjloLUlWbldfb0h6ZkFHcmxOLVBVUmFOQkxHVE5VYTFOekFvR25yTDNkcTl5U0ZRWEl4ckxwQkd4bzlDWmdSalVGa25UTGp2WXF5djFmLVI2cnZaRUJBTTdTZG5MdlZ2LW1UcVBJc1M2VmltSXRYUE9teW5kWnRvME5FOTlINjRSZmV6M1pIb2htMElFdGV2YXVxbHFnNXlhQUxaeGEyTDljNHBsZUV0U0Rsb3NQb3BkWG9FczdLTlREUHZwSzF4bG41TkxFXzA?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Fri, 27 Mar 2026 20:40:26 GMT",
+      "summary": "The market is starting to think the Federal Reserve's next move is raising interest rates Yahoo Finance",
+      "guid": "CBMizwFBVV95cUxPNjloLUlWbldfb0h6ZkFHcmxOLVBVUmFOQkxHVE5VYTFOekFvR25yTDNkcTl5U0ZRWEl4ckxwQkd4bzlDWmdSalVGa25UTGp2WXF5djFmLVI2cnZaRUJBTTdTZG5MdlZ2LW1UcVBJc1M2VmltSXRYUE9teW5kWnRvME5FOTlINjRSZmV6M1pIb2htMElFdGV2YXVxbHFnNXlhQUxaeGEyTDljNHBsZUV0U0Rsb3NQb3BkWG9FczdLTlREUHZwSzF4bG41TkxFXzA"
+    },
+    {
       "title": "Jerome Powell gives surprisingly great news to US investors — it’s a wealth surge you could miss. How to make most of it - moneywise.com",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaVZ4NTVISFUtazJHaDZXNm5pdjF1dlhyWm1URXRCaDFrR1dLYWNhN0FVLWtTSWhob2JxTlhtRXA5MW43dUJmSVRkVnR1bVVLNldPNDhVNG9oZEEtZnEyeGJ0SGJBVk5aaTNPTlMtZkpaZlJDbTJyQktQM1lmVTdYS0V3czFUXzdRdzdEVW10WWdUdW5JaU11bTF3?oc=5",
       "source": "moneywise.com",
       "published_at": "Thu, 02 Apr 2026 11:00:50 GMT",
       "summary": "Jerome Powell gives surprisingly great news to US investors — it’s a wealth surge you could miss. How to make most of it moneywise.com",
       "guid": "CBMimgFBVV95cUxQaVZ4NTVISFUtazJHaDZXNm5pdjF1dlhyWm1URXRCaDFrR1dLYWNhN0FVLWtTSWhob2JxTlhtRXA5MW43dUJmSVRkVnR1bVVLNldPNDhVNG9oZEEtZnEyeGJ0SGJBVk5aaTNPTlMtZkpaZlJDbTJyQktQM1lmVTdYS0V3czFUXzdRdzdEVW10WWdUdW5JaU11bTF3"
-    },
-    {
-      "title": "The Federal Reserve Is Raising Red Flags, and the Stock Market Isn't Listening - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRjJsN0JkeGxvWlM2R2dFenRqOHZqRFlreGZsYjZHbTBtUVh4VGdDMHVQeS1IcGJZZXNHUFFSbFFJWHZmZDRtVG9XMURsOFJ4RmpnUHU3Q19fRlN4STBab1d2RXBNMVdoWGFUcVlmNzVYNG9LTG94VWVCdHpXUTJ1NF9yMzNPa2szdTV3UXM0ejB0NFE4UHVneFh0Rko?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Sun, 22 Mar 2026 07:00:00 GMT",
-      "summary": "The Federal Reserve Is Raising Red Flags, and the Stock Market Isn't Listening Yahoo Finance",
-      "guid": "CBMinAFBVV95cUxQRjJsN0JkeGxvWlM2R2dFenRqOHZqRFlreGZsYjZHbTBtUVh4VGdDMHVQeS1IcGJZZXNHUFFSbFFJWHZmZDRtVG9XMURsOFJ4RmpnUHU3Q19fRlN4STBab1d2RXBNMVdoWGFUcVlmNzVYNG9LTG94VWVCdHpXUTJ1NF9yMzNPa2szdTV3UXM0ejB0NFE4UHVneFh0Rko"
     },
     {
       "title": "Federal Reserve holds interest rates steady, signals one rate cut amid inflation uncertainty - U.S. Bank",
@@ -47,11 +55,11 @@
       "guid": "CBMitAFBVV95cUxNVkpFejFBYTJZMmQ5WmRIRWpQQnppb0RSeVNIcnZoR3RONDR0elNJMkJ1SVMxcjJiMHFTUGFzeUxGRW5wS2FibDRRSXpGNkVkWTZRZDk3NFpRTW4zNDZMcnVfSDJaUGZOMUY3U1hvNjhyU0Z3cjAzM0RLcmRLaFZ3bnR5Y2NYR2VRZnA3dWliWlpIUXFqOFVEVjB1c2lRcTF4dlZyT1hNaFhNem5Xcnl6WUpCMWLSAboBQVVfeXFMTnQ2c0tkZElTb1RUR1lQRl9NRlBwT2dkZWp2V0ZHaHJQelRhN0dxT0ZleWhvbkotWUlvalQ0WV93aHBEQ3RxcUowbU9IMnYwV0d6d0I0MzQtQ2JvRnFTbDVWdmJFVEJ4X25aU0JPYVlJcy1FMk04SVBTc3BmRExiVHBDYkloeDFGd2NHVHFlUTFJQWVESE40bEtyanI4WG1POUViOE5iS1RQZlNEaW1wSm1CWk0tdXpzbVVB"
     },
     {
-      "title": "Warren Buffett on the Recent Stock Market Selloff: 'This Is Nothing' - Investopedia",
+      "title": "Warren Buffett on the Recent Stock Market Selloff: 'This Is Nothing' - investopedia.com",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNFhUb2ZtNVlmaGhLWHFZelFJZDAwNDA3OGFCWUJ0U1diRVlkQ09Qa3RDUGRRZnRIZDFjbjVjQzhYalZkZmFhTDNOOXlBTElMS0M2cnNPUlR0TG5DOU51VXJ0eDhaaXdYcUZuc09VR2ExbDUtMUpPMUVzTTUtbUFmYTQyM21Eb2E4aDQtUEw2VFZ3SV9yaTZIc3dTZzl6T2R5UTlTeWhB?oc=5",
-      "source": "Investopedia",
+      "source": "investopedia.com",
       "published_at": "Tue, 31 Mar 2026 21:16:31 GMT",
-      "summary": "Warren Buffett on the Recent Stock Market Selloff: 'This Is Nothing' Investopedia",
+      "summary": "Warren Buffett on the Recent Stock Market Selloff: 'This Is Nothing' investopedia.com",
       "guid": "CBMipgFBVV95cUxQNFhUb2ZtNVlmaGhLWHFZelFJZDAwNDA3OGFCWUJ0U1diRVlkQ09Qa3RDUGRRZnRIZDFjbjVjQzhYalZkZmFhTDNOOXlBTElMS0M2cnNPUlR0TG5DOU51VXJ0eDhaaXdYcUZuc09VR2ExbDUtMUpPMUVzTTUtbUFmYTQyM21Eb2E4aDQtUEw2VFZ3SV9yaTZIc3dTZzl6T2R5UTlTeWhB"
     },
     {
@@ -77,14 +85,6 @@
       "published_at": "Mon, 23 Mar 2026 07:00:00 GMT",
       "summary": "The Projected Federal Reserve Script Has Been Flipped -- and the Stock Market Isn't Ready for It AOL.com",
       "guid": "CBMiigFBVV95cUxNMVc0YTRRME4yVDgwVmZxcmFUbHVDX1NLSk9NUHQyQ0ViQURQMWMxQ3FzZnhxUUhjekV3MWxyelAwRmhYQ2o3cDhIUXV2T0RONDc1cDB0Z2wzRExJTnloUTRTLUk4dnVRS0VaRWIwZnY1SlBpQTM3ZWVvWXBzNnlMSTFZTHoweGFiOHc"
-    },
-    {
-      "title": "The Federal Reserve Has Become a Stock Market Liability, and President Trump's New Nominee for Chair Won't Help - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOUN5MHFlVmh2ZFI3eXp1ODZCS0E1WGZNdkt4Q1lWZHBXY1N4bXl4bjk3VGRoUU83Rk9tRzNsOGJ6SWx4Ukk0eTRhOUZ2aHZnVDFOQkg3d3JuNEp6SjV0RUFYUzVBN003V0U2SmFEczdJd3FZWnRaVnY2ZG1pVjI1Zl9jcXhGSV9fUW8xTHZEbmFCNnJONjBR?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Mon, 16 Mar 2026 07:00:00 GMT",
-      "summary": "The Federal Reserve Has Become a Stock Market Liability, and President Trump's New Nominee for Chair Won't Help The Motley Fool",
-      "guid": "CBMilwFBVV95cUxOOUN5MHFlVmh2ZFI3eXp1ODZCS0E1WGZNdkt4Q1lWZHBXY1N4bXl4bjk3VGRoUU83Rk9tRzNsOGJ6SWx4Ukk0eTRhOUZ2aHZnVDFOQkg3d3JuNEp6SjV0RUFYUzVBN003V0U2SmFEczdJd3FZWnRaVnY2ZG1pVjI1Zl9jcXhGSV9fUW8xTHZEbmFCNnJONjBR"
     }
   ]
 }
