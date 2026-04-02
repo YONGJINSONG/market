@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-02T14:15:25Z",
+  "generated_at": "2026-04-02T15:31:49Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -13,14 +13,6 @@
       "published_at": "Thu, 02 Apr 2026 11:52:47 GMT",
       "summary": "Why are US stock market futures crashing today and Dow, S&P 500 and Nasdaq in red now? Wall Street futures The Economic Times",
       "guid": "CBMijgNBVV95cUxNcXNlbkhLNVJfZks0d3lpa01Ob3lWQlRVLWdsdDByOEdfcXBKeG42WHdnVWZ2QnVDNDhBRWY2LTlUNUFFTzVpcU9US0JmdGJCSHhFaEt5cDBsVUEzMzV6MUtWSGptTjdjcXhLZHVKd3lMQl82S3JCTFhSODFVbVdmOTk1NGtMQWNpUUpFV3pIemRQcGxOYjRrdGlyNVhZYVRLMlQtXzBINXFONFR4NkF5bUdxcnVZSVdvVzVYSzFaY3ZwOFJybmFRRm9QTEJyTmpzMFVpd3dtVG1HN1FseENYM3JlaHY5RTduYVJmU1RzSk5ZeXA4bEV3YjhyVlM1ZDNhNTA4QXhSYWhjenNfV2hlSkVLNFVPNnlnZmtGWDhlMG5XRHh6SXlvbGQ3cjRtVWJ0aDlZLVBwTmhHd0w2bEhmYmpTSlZoQlRYMUNjQ3ZLOWdGVG41V2ZvUHZ5MzJCUUlmckMyRHB3YUFEdENEcFNEQ283b00tMFluRVdGaTMzY253b2ZlR3hOd2dXUDVzQdIBkwNBVV95cUxPRlVCLTNEeVpUWUs3bWJzcExWY1FzdjFHOGNFZmJKU2gzc3otXzdXalBEbFJmcXJQVEFYczEzclNkOWdkOUpOZ3ZsbnIyazI4cWp5SlhwQ05vYTJZSXRYY3ZJNWVabWhLd0tiODh6SFlMOHo2d05yWXlVRHpZT0huWHlWNDZRSzl4dHF3UXVwWTVlYm9ld1laVDJsVGVNbUU0ampTc0Z0NzlMcHRoaXJlaEtDSnVkYmRpTWdzb19GVlZHRGxlbnFRUGdpWFM5ZFllUW9KWnpzenBLY0o4eldSc19UcnRnQXZFLTNxZGxURFVIdjZRcEZLNjl3ZGg1TTdwNkNBbnhLWHcwNEhIZTR0eXNTUFJRS2FCamhDbVR6UHp0SjA1WnJRSlNtcUtJZC1oZXRRMDJWYXZ1NGdLckNPNi1lRVB3TzRQdW9ES0d4eklMVVdNS0J0Y0tmREE5WkxvTHpfenU4X0l0aU9Lc3pZWkZwTEJKV0pIVG5rVGtjUm1XUThvellyYW5YWEt3aHBFd1RJ"
-    },
-    {
-      "title": "Stock Market: Not So Good - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5LX29tUmY1TThSbUJiV3UwMzNhUGViNXRGQXZSeTMyNXVCM1U1WVdkUGpLYkJKNVdZdWp2MV9CMktTUlVGeHNya3RnN2s0R3dBSXFiMHFLVmwzZXhxbXFmYzJFWTJuSUx4QmZsZEJNU2tqM0U?oc=5",
-      "source": "Seeking Alpha",
-      "published_at": "Mon, 30 Mar 2026 15:29:58 GMT",
-      "summary": "Stock Market: Not So Good Seeking Alpha",
-      "guid": "CBMic0FVX3lxTE5LX29tUmY1TThSbUJiV3UwMzNhUGViNXRGQXZSeTMyNXVCM1U1WVdkUGpLYkJKNVdZdWp2MV9CMktTUlVGeHNya3RnN2s0R3dBSXFiMHFLVmwzZXhxbXFmYzJFWTJuSUx4QmZsZEJNU2tqM0U"
     },
     {
       "title": "Fed Chair Jerome Powell Just Sent a Signal That Could Shake the Stock Market - The Motley Fool",
@@ -55,12 +47,28 @@
       "guid": "CBMitAFBVV95cUxNVkpFejFBYTJZMmQ5WmRIRWpQQnppb0RSeVNIcnZoR3RONDR0elNJMkJ1SVMxcjJiMHFTUGFzeUxGRW5wS2FibDRRSXpGNkVkWTZRZDk3NFpRTW4zNDZMcnVfSDJaUGZOMUY3U1hvNjhyU0Z3cjAzM0RLcmRLaFZ3bnR5Y2NYR2VRZnA3dWliWlpIUXFqOFVEVjB1c2lRcTF4dlZyT1hNaFhNem5Xcnl6WUpCMWLSAboBQVVfeXFMTnQ2c0tkZElTb1RUR1lQRl9NRlBwT2dkZWp2V0ZHaHJQelRhN0dxT0ZleWhvbkotWUlvalQ0WV93aHBEQ3RxcUowbU9IMnYwV0d6d0I0MzQtQ2JvRnFTbDVWdmJFVEJ4X25aU0JPYVlJcy1FMk04SVBTc3BmRExiVHBDYkloeDFGd2NHVHFlUTFJQWVESE40bEtyanI4WG1POUViOE5iS1RQZlNEaW1wSm1CWk0tdXpzbVVB"
     },
     {
+      "title": "Warren Buffett on the Recent Stock Market Selloff: 'This Is Nothing' - Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNFhUb2ZtNVlmaGhLWHFZelFJZDAwNDA3OGFCWUJ0U1diRVlkQ09Qa3RDUGRRZnRIZDFjbjVjQzhYalZkZmFhTDNOOXlBTElMS0M2cnNPUlR0TG5DOU51VXJ0eDhaaXdYcUZuc09VR2ExbDUtMUpPMUVzTTUtbUFmYTQyM21Eb2E4aDQtUEw2VFZ3SV9yaTZIc3dTZzl6T2R5UTlTeWhB?oc=5",
+      "source": "Investopedia",
+      "published_at": "Tue, 31 Mar 2026 21:16:31 GMT",
+      "summary": "Warren Buffett on the Recent Stock Market Selloff: 'This Is Nothing' Investopedia",
+      "guid": "CBMipgFBVV95cUxQNFhUb2ZtNVlmaGhLWHFZelFJZDAwNDA3OGFCWUJ0U1diRVlkQ09Qa3RDUGRRZnRIZDFjbjVjQzhYalZkZmFhTDNOOXlBTElMS0M2cnNPUlR0TG5DOU51VXJ0eDhaaXdYcUZuc09VR2ExbDUtMUpPMUVzTTUtbUFmYTQyM21Eb2E4aDQtUEw2VFZ3SV9yaTZIc3dTZzl6T2R5UTlTeWhB"
+    },
+    {
       "title": "Tracker: The Federal Reserve’s Balance Sheet Assets - The American Action Forum",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0?oc=5",
       "source": "The American Action Forum",
       "published_at": "Fri, 27 Mar 2026 07:00:00 GMT",
       "summary": "Tracker: The Federal Reserve’s Balance Sheet Assets The American Action Forum",
       "guid": "CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0"
+    },
+    {
+      "title": "March 19, 2026 -- Notice of Open Board Meeting - Federal Reserve Board (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9GVmtqUWJ0ZVZJeXVnVkFJWTF3N0JNekJqYl9UenpZMEJyeHZVUUUyTkU0dno3aVQ0UXlkSmVSSGl5TGhaTFcyQ0tIRDc0UTVuZzJ4LTVjWWJrZjlSbHRQSjF0a0NuNzRNaTJQUkZya3NxeHdtSGlKU05reG5Tdw?oc=5",
+      "source": "Federal Reserve Board (.gov)",
+      "published_at": "Thu, 19 Mar 2026 07:00:00 GMT",
+      "summary": "March 19, 2026 -- Notice of Open Board Meeting Federal Reserve Board (.gov)",
+      "guid": "CBMifkFVX3lxTE9GVmtqUWJ0ZVZJeXVnVkFJWTF3N0JNekJqYl9UenpZMEJyeHZVUUUyTkU0dno3aVQ0UXlkSmVSSGl5TGhaTFcyQ0tIRDc0UTVuZzJ4LTVjWWJrZjlSbHRQSjF0a0NuNzRNaTJQUkZya3NxeHdtSGlKU05reG5Tdw"
     },
     {
       "title": "Markets are starting to price in a Fed rate hike. Goldman details 4 reasons why investors are jumping the gun. - Business Insider",
@@ -77,14 +85,6 @@
       "published_at": "Mon, 23 Mar 2026 07:00:00 GMT",
       "summary": "The Projected Federal Reserve Script Has Been Flipped -- and the Stock Market Isn't Ready for It AOL.com",
       "guid": "CBMiigFBVV95cUxNMVc0YTRRME4yVDgwVmZxcmFUbHVDX1NLSk9NUHQyQ0ViQURQMWMxQ3FzZnhxUUhjekV3MWxyelAwRmhYQ2o3cDhIUXV2T0RONDc1cDB0Z2wzRExJTnloUTRTLUk4dnVRS0VaRWIwZnY1SlBpQTM3ZWVvWXBzNnlMSTFZTHoweGFiOHc"
-    },
-    {
-      "title": "US Equity Markets Mixed After Federal Reserve Chair Powell's Reassuring Comments on Inflation - MarketScreener",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPb3VnS0RjOUpCbXdCSi00c29ETEg5ZzdxWG4tV2hETXZ3NVFvTVpOSHdFeDBpY3hvTDBTZWxvMlVsenZGYXpZM2dKMnhmVzdyTmNvbFBVTnVaS1ZFWlRmaEFnMm1rY2tpbW1lQ1hXWVc2bS1nR0dpcGotelpBTTlseW9VaGJEM01HQmlobnU3RzVEa1J5ZGROUFpLbEpjanVfZWZwVWtZOW9OQkVPek5DSmhYbjB5MDBGN0pkcFhVNjFhR3I4MXRjdHJRVUFEazA3bUxsQXlMTC1MM1g0N2dJ?oc=5",
-      "source": "MarketScreener",
-      "published_at": "Mon, 30 Mar 2026 20:10:31 GMT",
-      "summary": "US Equity Markets Mixed After Federal Reserve Chair Powell's Reassuring Comments on Inflation MarketScreener",
-      "guid": "CBMi3wFBVV95cUxPb3VnS0RjOUpCbXdCSi00c29ETEg5ZzdxWG4tV2hETXZ3NVFvTVpOSHdFeDBpY3hvTDBTZWxvMlVsenZGYXpZM2dKMnhmVzdyTmNvbFBVTnVaS1ZFWlRmaEFnMm1rY2tpbW1lQ1hXWVc2bS1nR0dpcGotelpBTTlseW9VaGJEM01HQmlobnU3RzVEa1J5ZGROUFpLbEpjanVfZWZwVWtZOW9OQkVPek5DSmhYbjB5MDBGN0pkcFhVNjFhR3I4MXRjdHJRVUFEazA3bUxsQXlMTC1MM1g0N2dJ"
     }
   ]
 }
