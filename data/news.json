@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-02T18:32:40Z",
+  "generated_at": "2026-04-02T19:33:54Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -39,20 +39,36 @@
       "guid": "CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw"
     },
     {
-      "title": "U.S. stocks sink on worries about inflation as gold falls below $5,000 per ounce - PBS",
+      "title": "U.S. stocks sink on worries about inflation as gold falls below $5,000 per ounce - pbs.org",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVkpFejFBYTJZMmQ5WmRIRWpQQnppb0RSeVNIcnZoR3RONDR0elNJMkJ1SVMxcjJiMHFTUGFzeUxGRW5wS2FibDRRSXpGNkVkWTZRZDk3NFpRTW4zNDZMcnVfSDJaUGZOMUY3U1hvNjhyU0Z3cjAzM0RLcmRLaFZ3bnR5Y2NYR2VRZnA3dWliWlpIUXFqOFVEVjB1c2lRcTF4dlZyT1hNaFhNem5Xcnl6WUpCMWLSAboBQVVfeXFMTnQ2c0tkZElTb1RUR1lQRl9NRlBwT2dkZWp2V0ZHaHJQelRhN0dxT0ZleWhvbkotWUlvalQ0WV93aHBEQ3RxcUowbU9IMnYwV0d6d0I0MzQtQ2JvRnFTbDVWdmJFVEJ4X25aU0JPYVlJcy1FMk04SVBTc3BmRExiVHBDYkloeDFGd2NHVHFlUTFJQWVESE40bEtyanI4WG1POUViOE5iS1RQZlNEaW1wSm1CWk0tdXpzbVVB?oc=5",
-      "source": "PBS",
+      "source": "pbs.org",
       "published_at": "Wed, 18 Mar 2026 07:00:00 GMT",
-      "summary": "U.S. stocks sink on worries about inflation as gold falls below $5,000 per ounce PBS",
+      "summary": "U.S. stocks sink on worries about inflation as gold falls below $5,000 per ounce pbs.org",
       "guid": "CBMitAFBVV95cUxNVkpFejFBYTJZMmQ5WmRIRWpQQnppb0RSeVNIcnZoR3RONDR0elNJMkJ1SVMxcjJiMHFTUGFzeUxGRW5wS2FibDRRSXpGNkVkWTZRZDk3NFpRTW4zNDZMcnVfSDJaUGZOMUY3U1hvNjhyU0Z3cjAzM0RLcmRLaFZ3bnR5Y2NYR2VRZnA3dWliWlpIUXFqOFVEVjB1c2lRcTF4dlZyT1hNaFhNem5Xcnl6WUpCMWLSAboBQVVfeXFMTnQ2c0tkZElTb1RUR1lQRl9NRlBwT2dkZWp2V0ZHaHJQelRhN0dxT0ZleWhvbkotWUlvalQ0WV93aHBEQ3RxcUowbU9IMnYwV0d6d0I0MzQtQ2JvRnFTbDVWdmJFVEJ4X25aU0JPYVlJcy1FMk04SVBTc3BmRExiVHBDYkloeDFGd2NHVHFlUTFJQWVESE40bEtyanI4WG1POUViOE5iS1RQZlNEaW1wSm1CWk0tdXpzbVVB"
     },
     {
-      "title": "Warren Buffett on the Recent Stock Market Selloff: 'This Is Nothing' - Investopedia",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNFhUb2ZtNVlmaGhLWHFZelFJZDAwNDA3OGFCWUJ0U1diRVlkQ09Qa3RDUGRRZnRIZDFjbjVjQzhYalZkZmFhTDNOOXlBTElMS0M2cnNPUlR0TG5DOU51VXJ0eDhaaXdYcUZuc09VR2ExbDUtMUpPMUVzTTUtbUFmYTQyM21Eb2E4aDQtUEw2VFZ3SV9yaTZIc3dTZzl6T2R5UTlTeWhB?oc=5",
-      "source": "Investopedia",
-      "published_at": "Tue, 31 Mar 2026 21:16:31 GMT",
-      "summary": "Warren Buffett on the Recent Stock Market Selloff: 'This Is Nothing' Investopedia",
-      "guid": "CBMipgFBVV95cUxQNFhUb2ZtNVlmaGhLWHFZelFJZDAwNDA3OGFCWUJ0U1diRVlkQ09Qa3RDUGRRZnRIZDFjbjVjQzhYalZkZmFhTDNOOXlBTElMS0M2cnNPUlR0TG5DOU51VXJ0eDhaaXdYcUZuc09VR2ExbDUtMUpPMUVzTTUtbUFmYTQyM21Eb2E4aDQtUEw2VFZ3SV9yaTZIc3dTZzl6T2R5UTlTeWhB"
+      "title": "Market Reactions to Tariff Announcements - Federal Reserve Bank of San Francisco",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM1dfLWVxeDJGbVNDYU9vWU8xOW5Fbk9rWk5KREtjbWFDcWFfdzAyVE5WMDhINUpWbWVDVWZmRHBSSlN3blk5alBHd3B1RE5JSmVMRTd3SXhNQmZWdDllUDFCU1lwTk9zcmpBSmhmazM5OEhIWEVHMlhHTDY4M1luNXJ5TExQbi1RMjBLbmpZd3BqLU1zanlvM0hvVWhVcWtiSWZBOV9ENTJmTWUtQzIxdmprYlpGNnJzQk11T1ZfWQ?oc=5",
+      "source": "Federal Reserve Bank of San Francisco",
+      "published_at": "Mon, 06 Oct 2025 07:00:00 GMT",
+      "summary": "Market Reactions to Tariff Announcements Federal Reserve Bank of San Francisco",
+      "guid": "CBMivwFBVV95cUxOM1dfLWVxeDJGbVNDYU9vWU8xOW5Fbk9rWk5KREtjbWFDcWFfdzAyVE5WMDhINUpWbWVDVWZmRHBSSlN3blk5alBHd3B1RE5JSmVMRTd3SXhNQmZWdDllUDFCU1lwTk9zcmpBSmhmazM5OEhIWEVHMlhHTDY4M1luNXJ5TExQbi1RMjBLbmpZd3BqLU1zanlvM0hvVWhVcWtiSWZBOV9ENTJmTWUtQzIxdmprYlpGNnJzQk11T1ZfWQ"
+    },
+    {
+      "title": "March 19, 2026 -- Notice of Open Board Meeting - federalreserve.gov",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9GVmtqUWJ0ZVZJeXVnVkFJWTF3N0JNekJqYl9UenpZMEJyeHZVUUUyTkU0dno3aVQ0UXlkSmVSSGl5TGhaTFcyQ0tIRDc0UTVuZzJ4LTVjWWJrZjlSbHRQSjF0a0NuNzRNaTJQUkZya3NxeHdtSGlKU05reG5Tdw?oc=5",
+      "source": "federalreserve.gov",
+      "published_at": "Thu, 19 Mar 2026 07:00:00 GMT",
+      "summary": "March 19, 2026 -- Notice of Open Board Meeting federalreserve.gov",
+      "guid": "CBMifkFVX3lxTE9GVmtqUWJ0ZVZJeXVnVkFJWTF3N0JNekJqYl9UenpZMEJyeHZVUUUyTkU0dno3aVQ0UXlkSmVSSGl5TGhaTFcyQ0tIRDc0UTVuZzJ4LTVjWWJrZjlSbHRQSjF0a0NuNzRNaTJQUkZya3NxeHdtSGlKU05reG5Tdw"
+    },
+    {
+      "title": "What Causes “Jumps” in Stock Prices? - Federal Reserve Bank of St. Louis",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNlU3bVlaY05yZmRvNlVELU8yV25yT2ozUmJtT1lJbG1HelVoMGt4d1lVNHZkR3BrZkt4VzRRSXZjT3FHUXlLbHNZWkh3R1dYaWNjV3ZzNE9ROWJpQmZ3cFpwdEdLbXR6T00wamtwbmdLcF9RUDA3eEU5aUp1QWZwV0pMUDJrZ0hj?oc=5",
+      "source": "Federal Reserve Bank of St. Louis",
+      "published_at": "Mon, 29 Sep 2025 07:00:00 GMT",
+      "summary": "What Causes “Jumps” in Stock Prices? Federal Reserve Bank of St. Louis",
+      "guid": "CBMiiAFBVV95cUxPNlU3bVlaY05yZmRvNlVELU8yV25yT2ozUmJtT1lJbG1HelVoMGt4d1lVNHZkR3BrZkt4VzRRSXZjT3FHUXlLbHNZWkh3R1dYaWNjV3ZzNE9ROWJpQmZ3cFpwdEdLbXR6T00wamtwbmdLcF9RUDA3eEU5aUp1QWZwV0pMUDJrZ0hj"
     },
     {
       "title": "Tracker: The Federal Reserve’s Balance Sheet Assets - The American Action Forum",
@@ -63,28 +79,12 @@
       "guid": "CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0"
     },
     {
-      "title": "Markets are starting to price in a Fed rate hike. Goldman details 4 reasons why investors are jumping the gun. - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTkhwOFFuZjRoVGpSWkV3QmhVTUdNTExEaFc4NnpOd3FmS0JQWW5TY0QxYlFlWDBMTHI1cWtySDBaN3BQNURxY25YTHF6MjZUYkc2MEZqRTU2Ti1tSkFoMW1GbEZ4WXRpcDU5aXFYakdtUzR5NWM5TFJlaDBtcC1rcnY2dlFpZFdsdWZBOVdBT3hMSE5WZWhJMGJ3YUpyc0JlTlM5dkF3?oc=5",
-      "source": "Business Insider",
-      "published_at": "Wed, 01 Apr 2026 16:19:00 GMT",
-      "summary": "Markets are starting to price in a Fed rate hike. Goldman details 4 reasons why investors are jumping the gun. Business Insider",
-      "guid": "CBMipgFBVV95cUxNTkhwOFFuZjRoVGpSWkV3QmhVTUdNTExEaFc4NnpOd3FmS0JQWW5TY0QxYlFlWDBMTHI1cWtySDBaN3BQNURxY25YTHF6MjZUYkc2MEZqRTU2Ti1tSkFoMW1GbEZ4WXRpcDU5aXFYakdtUzR5NWM5TFJlaDBtcC1rcnY2dlFpZFdsdWZBOVdBT3hMSE5WZWhJMGJ3YUpyc0JlTlM5dkF3"
-    },
-    {
-      "title": "The Projected Federal Reserve Script Has Been Flipped -- and the Stock Market Isn't Ready for It - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMVc0YTRRME4yVDgwVmZxcmFUbHVDX1NLSk9NUHQyQ0ViQURQMWMxQ3FzZnhxUUhjekV3MWxyelAwRmhYQ2o3cDhIUXV2T0RONDc1cDB0Z2wzRExJTnloUTRTLUk4dnVRS0VaRWIwZnY1SlBpQTM3ZWVvWXBzNnlMSTFZTHoweGFiOHc?oc=5",
-      "source": "AOL.com",
-      "published_at": "Mon, 23 Mar 2026 07:00:00 GMT",
-      "summary": "The Projected Federal Reserve Script Has Been Flipped -- and the Stock Market Isn't Ready for It AOL.com",
-      "guid": "CBMiigFBVV95cUxNMVc0YTRRME4yVDgwVmZxcmFUbHVDX1NLSk9NUHQyQ0ViQURQMWMxQ3FzZnhxUUhjekV3MWxyelAwRmhYQ2o3cDhIUXV2T0RONDc1cDB0Z2wzRExJTnloUTRTLUk4dnVRS0VaRWIwZnY1SlBpQTM3ZWVvWXBzNnlMSTFZTHoweGFiOHc"
-    },
-    {
-      "title": "The Federal Reserve Has Become a Stock Market Liability, and President Trump's New Nominee for Chair Won't Help - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOUN5MHFlVmh2ZFI3eXp1ODZCS0E1WGZNdkt4Q1lWZHBXY1N4bXl4bjk3VGRoUU83Rk9tRzNsOGJ6SWx4Ukk0eTRhOUZ2aHZnVDFOQkg3d3JuNEp6SjV0RUFYUzVBN003V0U2SmFEczdJd3FZWnRaVnY2ZG1pVjI1Zl9jcXhGSV9fUW8xTHZEbmFCNnJONjBR?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Mon, 16 Mar 2026 07:00:00 GMT",
-      "summary": "The Federal Reserve Has Become a Stock Market Liability, and President Trump's New Nominee for Chair Won't Help The Motley Fool",
-      "guid": "CBMilwFBVV95cUxOOUN5MHFlVmh2ZFI3eXp1ODZCS0E1WGZNdkt4Q1lWZHBXY1N4bXl4bjk3VGRoUU83Rk9tRzNsOGJ6SWx4Ukk0eTRhOUZ2aHZnVDFOQkg3d3JuNEp6SjV0RUFYUzVBN003V0U2SmFEczdJd3FZWnRaVnY2ZG1pVjI1Zl9jcXhGSV9fUW8xTHZEbmFCNnJONjBR"
+      "title": "Shutdowns and Market Highs: The Top 3 Questions Investors Are Asking Now - J.P. Morgan",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTGRHcEVMSzQteWZtRWVqdk1DUDNpay05NllpcmVFaFV4TlJVWGpheDlrZW9ZWVFJY3pKNG9nbDgtZnpodFdsR18zUlI5OG9hVzZhRHRyNk9KMEo5bDg5OHJGcjU4bEEwWUVWLXhiTXBxYnVrd1hscnFEcW9jN3JYVlFVbGRmT2d1VkVldGVpTDFJeGw5T3pXVHpUWEU2ZFpFWVhXZXFTRDI4Nm90eEdxX285SkJ2b0pkTlg4M0N3dEF6cVAyWkVadDY2emhIVnhzUXN4QW1sZE1zc0UwQWNjQTZPTWg?oc=5",
+      "source": "J.P. Morgan",
+      "published_at": "Fri, 03 Oct 2025 07:00:00 GMT",
+      "summary": "Shutdowns and Market Highs: The Top 3 Questions Investors Are Asking Now J.P. Morgan",
+      "guid": "CBMi5AFBVV95cUxNTGRHcEVMSzQteWZtRWVqdk1DUDNpay05NllpcmVFaFV4TlJVWGpheDlrZW9ZWVFJY3pKNG9nbDgtZnpodFdsR18zUlI5OG9hVzZhRHRyNk9KMEo5bDg5OHJGcjU4bEEwWUVWLXhiTXBxYnVrd1hscnFEcW9jN3JYVlFVbGRmT2d1VkVldGVpTDFJeGw5T3pXVHpUWEU2ZFpFWVhXZXFTRDI4Nm90eEdxX285SkJ2b0pkTlg4M0N3dEF6cVAyWkVadDY2emhIVnhzUXN4QW1sZE1zc0UwQWNjQTZPTWg"
     }
   ]
 }
