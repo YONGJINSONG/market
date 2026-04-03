@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-04-03T17:06:23Z",
+  "generated_at": "2026-04-03T17:51:09Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "Federal Reserve Chairman Jerome Powell Just Delivered Fantastic News for Stock Market Investors - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOMV9CbDFWNDJtdFdEaHdqeS1TNE1fTlpwaHdFTjE4NnFIcUhXc1hiLUZ2bm00XzVyLTFTMVh2bmJNb2o4VWZ4M1d4RnFsX2JwY0w5QUhaMFBVNXB0R2lDMjNtSExHUU5MeFRERTdMWk4yMklEYlpxa2lxRUFTTnhTU0FSTlhOcE0taGpKR0Q3OGxXT3E0?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Fri, 03 Apr 2026 17:18:59 GMT",
+      "summary": "Federal Reserve Chairman Jerome Powell Just Delivered Fantastic News for Stock Market Investors The Motley Fool",
+      "guid": "CBMilAFBVV95cUxOMV9CbDFWNDJtdFdEaHdqeS1TNE1fTlpwaHdFTjE4NnFIcUhXc1hiLUZ2bm00XzVyLTFTMVh2bmJNb2o4VWZ4M1d4RnFsX2JwY0w5QUhaMFBVNXB0R2lDMjNtSExHUU5MeFRERTdMWk4yMklEYlpxa2lxRUFTTnhTU0FSTlhOcE0taGpKR0Q3OGxXT3E0"
+    },
     {
       "title": "Instant View: US jobs report for March is stronger than expected, likely keeping Fed on sidelines - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNR1VRRTZhNk05ME9WaFh2blR5a2JRV3lWSVREYlFjbEg1ZDZtMF9IMURzcEc2MkdoeHB0S1FsRjRycjhKRGF2N3RSSnNBOU40SlVYSjBfcFk0NExhLWx3VUZPSUxNWFN6eVJUOTc0dk1aLU9YX2tza0llQ0gtdmgxR2JFQ1dqRzcwbHVRRUpjdEMtblUta3FOZEl2Uzhkd2ttaTM4bVlrVmtCdEJXZ2FNYWM0UHpaSG55aGJIdGJIMkxVOUE?oc=5",
@@ -21,14 +29,6 @@
       "published_at": "Thu, 02 Apr 2026 22:55:00 GMT",
       "summary": "Is the stock market closed on Good Friday? A guide to banks, mail and more cbs8.com",
       "guid": "CBMiwgFBVV95cUxNZExqMGRlWW56bWdfV0RQdkRSc3kxdVpzSkhxNjcxOGpyXzlEN01xRy1DRVE5UV9xZWJzaG53dWZWRkJVeldXYjQycDFybUZ2TGs2a2YxTVRKRmdaQThGVjNld1phRmdvQmhRN3pxS2xuSl91VnBmMzZvaHRhOXd1VkpYRm1nWXV0TzV6OGFGTnRwWFdLdkFWMkRrWUVnVWdkcDdvSlpWNi1Od1c3UV9kRDdvN3p5YWxoUUhQdV9GZlY4QQ"
-    },
-    {
-      "title": "Fed Chair Jerome Powell Just Sent a Signal That Could Shake the Stock Market - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeEszZS1kSDFLeW9BNHFLS1p6QV9Tc0RuSGlwLWh2MHVybVJaQVhIeGs1dVAySHRiSGtZclRuWmNzNjVtWXppbE9IakRudktRTjZDaGFoTWJ1b0VZMXpXSnFzRW5GeGhGdUZnSzBWQkh6X29tcmVwMGdiRzNqMTNSM1JSQ0xRZDVyQUhhVFo4aw?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Sun, 29 Mar 2026 11:15:00 GMT",
-      "summary": "Fed Chair Jerome Powell Just Sent a Signal That Could Shake the Stock Market The Motley Fool",
-      "guid": "CBMijwFBVV95cUxPeEszZS1kSDFLeW9BNHFLS1p6QV9Tc0RuSGlwLWh2MHVybVJaQVhIeGs1dVAySHRiSGtZclRuWmNzNjVtWXppbE9IakRudktRTjZDaGFoTWJ1b0VZMXpXSnFzRW5GeGhGdUZnSzBWQkh6X29tcmVwMGdiRzNqMTNSM1JSQ0xRZDVyQUhhVFo4aw"
     },
     {
       "title": "Federal Reserve holds interest rates steady, signals one rate cut amid inflation uncertainty - U.S. Bank",
@@ -71,20 +71,20 @@
       "guid": "CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0"
     },
     {
-      "title": "The Projected Federal Reserve Script Has Been Flipped -- and the Stock Market Isn't Ready for It - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRVdrMU93Z0VraktQR25Qc3Q0ckZVYWJzVXJVQ1FLT3hCZ0Yya1R4bG0zV2tvUHJRSEJyMkVJNW1odDI0RXI0eENxOFV3LTZfbWFIcTZSRFRoeF9JUzJxZkttSTA1Y1BOS1hQeUZTdk9IaVBKLTVzNXZFREVkaTBPR1ZvVUt6U3lTMHNhWW9XenlPTS1tU00zTFRiUkx2T185Wm9QRXB3?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Mon, 23 Mar 2026 07:00:00 GMT",
-      "summary": "The Projected Federal Reserve Script Has Been Flipped -- and the Stock Market Isn't Ready for It Yahoo Finance",
-      "guid": "CBMipgFBVV95cUxPRVdrMU93Z0VraktQR25Qc3Q0ckZVYWJzVXJVQ1FLT3hCZ0Yya1R4bG0zV2tvUHJRSEJyMkVJNW1odDI0RXI0eENxOFV3LTZfbWFIcTZSRFRoeF9JUzJxZkttSTA1Y1BOS1hQeUZTdk9IaVBKLTVzNXZFREVkaTBPR1ZvVUt6U3lTMHNhWW9XenlPTS1tU00zTFRiUkx2T185Wm9QRXB3"
+      "title": "Fed Chair Jerome Powell Just Sent a Signal That Could Shake the Stock Market - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeEszZS1kSDFLeW9BNHFLS1p6QV9Tc0RuSGlwLWh2MHVybVJaQVhIeGs1dVAySHRiSGtZclRuWmNzNjVtWXppbE9IakRudktRTjZDaGFoTWJ1b0VZMXpXSnFzRW5GeGhGdUZnSzBWQkh6X29tcmVwMGdiRzNqMTNSM1JSQ0xRZDVyQUhhVFo4aw?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Sun, 29 Mar 2026 11:15:00 GMT",
+      "summary": "Fed Chair Jerome Powell Just Sent a Signal That Could Shake the Stock Market The Motley Fool",
+      "guid": "CBMijwFBVV95cUxPeEszZS1kSDFLeW9BNHFLS1p6QV9Tc0RuSGlwLWh2MHVybVJaQVhIeGs1dVAySHRiSGtZclRuWmNzNjVtWXppbE9IakRudktRTjZDaGFoTWJ1b0VZMXpXSnFzRW5GeGhGdUZnSzBWQkh6X29tcmVwMGdiRzNqMTNSM1JSQ0xRZDVyQUhhVFo4aw"
     },
     {
-      "title": "The Federal Reserve Has Become a Stock Market Liability, and President Trump's New Nominee for Chair Won't Help - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaXkyeVlWbEhaRk9wczFpNk80UG9Td2lqeTNxa3hxd19GOE1kRUQzQ0xNaFIxNWRXUm8wSngtYUtMeFhuV1J3b0lPMm5zcUlKYi16YW1ic00zZU1aUUFTUV9ULXlva1lEU0hlM1UzSFBWVFhJMFFCNEVWRGtYcDlqcklMdzlTQ28?oc=5",
-      "source": "AOL.com",
-      "published_at": "Mon, 16 Mar 2026 22:20:10 GMT",
-      "summary": "The Federal Reserve Has Become a Stock Market Liability, and President Trump's New Nominee for Chair Won't Help AOL.com",
-      "guid": "CBMihwFBVV95cUxQaXkyeVlWbEhaRk9wczFpNk80UG9Td2lqeTNxa3hxd19GOE1kRUQzQ0xNaFIxNWRXUm8wSngtYUtMeFhuV1J3b0lPMm5zcUlKYi16YW1ic00zZU1aUUFTUV9ULXlva1lEU0hlM1UzSFBWVFhJMFFCNEVWRGtYcDlqcklMdzlTQ28"
+      "title": "The Projected Federal Reserve Script Has Been Flipped -- and the Stock Market Isn't Ready for It - finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRVdrMU93Z0VraktQR25Qc3Q0ckZVYWJzVXJVQ1FLT3hCZ0Yya1R4bG0zV2tvUHJRSEJyMkVJNW1odDI0RXI0eENxOFV3LTZfbWFIcTZSRFRoeF9JUzJxZkttSTA1Y1BOS1hQeUZTdk9IaVBKLTVzNXZFREVkaTBPR1ZvVUt6U3lTMHNhWW9XenlPTS1tU00zTFRiUkx2T185Wm9QRXB3?oc=5",
+      "source": "finance.yahoo.com",
+      "published_at": "Mon, 23 Mar 2026 07:00:00 GMT",
+      "summary": "The Projected Federal Reserve Script Has Been Flipped -- and the Stock Market Isn't Ready for It finance.yahoo.com",
+      "guid": "CBMipgFBVV95cUxPRVdrMU93Z0VraktQR25Qc3Q0ckZVYWJzVXJVQ1FLT3hCZ0Yya1R4bG0zV2tvUHJRSEJyMkVJNW1odDI0RXI0eENxOFV3LTZfbWFIcTZSRFRoeF9JUzJxZkttSTA1Y1BOS1hQeUZTdk9IaVBKLTVzNXZFREVkaTBPR1ZvVUt6U3lTMHNhWW9XenlPTS1tU00zTFRiUkx2T185Wm9QRXB3"
     }
   ]
 }
