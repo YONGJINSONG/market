@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-03T21:48:13Z",
+  "generated_at": "2026-04-03T22:21:27Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -63,14 +63,6 @@
       "guid": "CBMimgFBVV95cUxQaVZ4NTVISFUtazJHaDZXNm5pdjF1dlhyWm1URXRCaDFrR1dLYWNhN0FVLWtTSWhob2JxTlhtRXA5MW43dUJmSVRkVnR1bVVLNldPNDhVNG9oZEEtZnEyeGJ0SGJBVk5aaTNPTlMtZkpaZlJDbTJyQktQM1lmVTdYS0V3czFUXzdRdzdEVW10WWdUdW5JaU11bTF3"
     },
     {
-      "title": "The Federal Reserve Is Raising Red Flags, and the Stock Market Isn't Listening - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUHVScVZWbjROUF9jZFhqLWJ3b3h5Tmtnc21falh3VkNpdnF0aGJZeUtGQy1pZkthbV9QVXhUbzM4enh3aXFpMndXNkN4VUQ2bmJjdElFOEQ4VXJtVUduNE1XQmUzdGNtZnd4Y2Z1MktOT2lvV1czTThObFNnYkpIOA?oc=5",
-      "source": "AOL.com",
-      "published_at": "Sun, 22 Mar 2026 15:12:22 GMT",
-      "summary": "The Federal Reserve Is Raising Red Flags, and the Stock Market Isn't Listening AOL.com",
-      "guid": "CBMigAFBVV95cUxPUHVScVZWbjROUF9jZFhqLWJ3b3h5Tmtnc21falh3VkNpdnF0aGJZeUtGQy1pZkthbV9QVXhUbzM4enh3aXFpMndXNkN4VUQ2bmJjdElFOEQ4VXJtVUduNE1XQmUzdGNtZnd4Y2Z1MktOT2lvV1czTThObFNnYkpIOA"
-    },
-    {
       "title": "Fed Chair Jerome Powell Just Sent a Signal That Could Shake the Stock Market - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeEszZS1kSDFLeW9BNHFLS1p6QV9Tc0RuSGlwLWh2MHVybVJaQVhIeGs1dVAySHRiSGtZclRuWmNzNjVtWXppbE9IakRudktRTjZDaGFoTWJ1b0VZMXpXSnFzRW5GeGhGdUZnSzBWQkh6X29tcmVwMGdiRzNqMTNSM1JSQ0xRZDVyQUhhVFo4aw?oc=5",
       "source": "The Motley Fool",
@@ -79,12 +71,20 @@
       "guid": "CBMijwFBVV95cUxPeEszZS1kSDFLeW9BNHFLS1p6QV9Tc0RuSGlwLWh2MHVybVJaQVhIeGs1dVAySHRiSGtZclRuWmNzNjVtWXppbE9IakRudktRTjZDaGFoTWJ1b0VZMXpXSnFzRW5GeGhGdUZnSzBWQkh6X29tcmVwMGdiRzNqMTNSM1JSQ0xRZDVyQUhhVFo4aw"
     },
     {
-      "title": "US stocks hold their losses after the Federal Reserve opts again not to cut interest rates - kvoa.com",
+      "title": "US stocks hold their losses after the Federal Reserve opts again not to cut interest rates - KVOA",
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQQ0V3ZEFYZ2VXUzhvVDljdlJxWVM2Zmpwbl9pVDVoUGp6S05zcG9PT0hRUFFPS05zX3RfdXRHNW1qaExEbUhyTEtXZjJ3ME1uSUNXeThET0tnWjZEMWptS3JITUxhSzQ0ZU9jTjMtSlBVQlAtOEtRTVVtVm5rdkVfLU9GR195QVBJOHF6eWN0akowb19QLWllV0VPdE83cHc0ZDNMOVpvNXZsa0NaTUJYZnN2YnMtSmxDWHZ2bjY3X01oOFQ1bS03V1p4Y1FTOW1wdVd2cEZ1azVzZXRMZTVWVkMtOVhGUlNGbDBld2hUUU1KNkNwOVpUZ0J6UHY0UQ?oc=5",
-      "source": "kvoa.com",
+      "source": "KVOA",
       "published_at": "Wed, 18 Mar 2026 18:23:00 GMT",
-      "summary": "US stocks hold their losses after the Federal Reserve opts again not to cut interest rates kvoa.com",
+      "summary": "US stocks hold their losses after the Federal Reserve opts again not to cut interest rates KVOA",
       "guid": "CBMi_gFBVV95cUxQQ0V3ZEFYZ2VXUzhvVDljdlJxWVM2Zmpwbl9pVDVoUGp6S05zcG9PT0hRUFFPS05zX3RfdXRHNW1qaExEbUhyTEtXZjJ3ME1uSUNXeThET0tnWjZEMWptS3JITUxhSzQ0ZU9jTjMtSlBVQlAtOEtRTVVtVm5rdkVfLU9GR195QVBJOHF6eWN0akowb19QLWllV0VPdE83cHc0ZDNMOVpvNXZsa0NaTUJYZnN2YnMtSmxDWHZ2bjY3X01oOFQ1bS03V1p4Y1FTOW1wdVd2cEZ1azVzZXRMZTVWVkMtOVhGUlNGbDBld2hUUU1KNkNwOVpUZ0J6UHY0UQ"
+    },
+    {
+      "title": "A Federal Reserve Double Whammy Is 2 Months Away and Most Investors Aren't Ready - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNDFGODRVd3BYZ1IzS21LVlU1SDF0aDFSdTlMdlFWNXdqeDBrTTRqaEdlUHVsYkV2cFRrMEI2cmx3Znc5VE5ubkQ3UmEtb2w5MlRhbnJtaWYtdVowTkNIc3RnUk54TkIyYjgzWUsxTm1MX3VGSl9UcGZPTXRzQUhVU3diQmJKQmxjU0stQXZDNUdUS2pseEVzcVU2WQ?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Sun, 22 Mar 2026 07:00:00 GMT",
+      "summary": "A Federal Reserve Double Whammy Is 2 Months Away and Most Investors Aren't Ready Yahoo Finance",
+      "guid": "CBMimwFBVV95cUxNNDFGODRVd3BYZ1IzS21LVlU1SDF0aDFSdTlMdlFWNXdqeDBrTTRqaEdlUHVsYkV2cFRrMEI2cmx3Znc5VE5ubkQ3UmEtb2w5MlRhbnJtaWYtdVowTkNIc3RnUk54TkIyYjgzWUsxTm1MX3VGSl9UcGZPTXRzQUhVU3diQmJKQmxjU0stQXZDNUdUS2pseEVzcVU2WQ"
     }
   ]
 }
