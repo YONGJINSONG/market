@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-03T05:18:47Z",
+  "generated_at": "2026-04-03T06:41:46Z",
   "source": {
     "provider": "Yahoo Finance",
     "endpoint": "https://query1.finance.yahoo.com/v8/finance/chart/{symbol}"
@@ -54,9 +54,9 @@
       "symbol": "BTC",
       "quote_symbol": "BTC-USD",
       "name": "Bitcoin",
-      "price": 66559.11,
-      "change": -1519.4446874999994,
-      "change_percent": -2.231899156018638,
+      "price": 66714.87,
+      "change": -173.70031250000466,
+      "change_percent": -0.25968608939985655,
       "up": false,
       "currency": "USD",
       "market_state": null,
@@ -84,14 +84,14 @@
       "symbol": "DXY",
       "quote_symbol": "DX-Y.NYB",
       "name": "US Dollar Index",
-      "price": 100.041,
-      "change": 0.011001220703121817,
-      "change_percent": 0.010997921460935506,
-      "up": true,
+      "price": 100.028,
+      "change": -0.001998779296869202,
+      "change_percent": -0.001998179867300856,
+      "up": false,
       "currency": "USD",
       "market_state": null,
       "exchange": "NYB",
-      "as_of": "2026-04-03T05:08:42Z",
+      "as_of": "2026-04-03T06:31:43Z",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com/quote/DX-Y.NYB/"
     }
