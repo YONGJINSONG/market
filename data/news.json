@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T18:44:54Z",
+  "generated_at": "2026-04-04T19:20:51Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,11 +7,11 @@
   },
   "items": [
     {
-      "title": "Federal Reserve Chairman Jerome Powell Just Delivered Fantastic News for Stock Market Investors - Yahoo Finance",
+      "title": "Federal Reserve Chairman Jerome Powell Just Delivered Fantastic News for Stock Market Investors - finance.yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSU5HQUpJYWhMTkV6RjUwUEpMdlBFNjFNQnI5U1lXcEVPR0hycmsxaTV6a2cwbmUzZ3JnbFFrUnJGNXpUcy1HdFZqRm1xRDd0QTE2SFFsUkozbWF0WUFERjFmcE9tM2hKTFBuc1FoZ3pxX3ItQXU2YTVuQlNjRWh0Zlc0a1lLZGw3ckw1WjVSOTRZLUNPMFBJaG51dzhDd1JWRkE?oc=5",
-      "source": "Yahoo Finance",
+      "source": "finance.yahoo.com",
       "published_at": "Fri, 03 Apr 2026 17:35:00 GMT",
-      "summary": "Federal Reserve Chairman Jerome Powell Just Delivered Fantastic News for Stock Market Investors Yahoo Finance",
+      "summary": "Federal Reserve Chairman Jerome Powell Just Delivered Fantastic News for Stock Market Investors finance.yahoo.com",
       "guid": "CBMiogFBVV95cUxPSU5HQUpJYWhMTkV6RjUwUEpMdlBFNjFNQnI5U1lXcEVPR0hycmsxaTV6a2cwbmUzZ3JnbFFrUnJGNXpUcy1HdFZqRm1xRDd0QTE2SFFsUkozbWF0WUFERjFmcE9tM2hKTFBuc1FoZ3pxX3ItQXU2YTVuQlNjRWh0Zlc0a1lLZGw3ckw1WjVSOTRZLUNPMFBJaG51dzhDd1JWRkE"
     },
     {
@@ -63,11 +63,19 @@
       "guid": "CBMipgFBVV95cUxNTkhwOFFuZjRoVGpSWkV3QmhVTUdNTExEaFc4NnpOd3FmS0JQWW5TY0QxYlFlWDBMTHI1cWtySDBaN3BQNURxY25YTHF6MjZUYkc2MEZqRTU2Ti1tSkFoMW1GbEZ4WXRpcDU5aXFYakdtUzR5NWM5TFJlaDBtcC1rcnY2dlFpZFdsdWZBOVdBT3hMSE5WZWhJMGJ3YUpyc0JlTlM5dkF3"
     },
     {
-      "title": "We're 6 Weeks Away From a Historic Change at the Federal Reserve -- and It May Be the Tipping Point for a Pricey Stock Market - fool.com",
+      "title": "What Causes “Jumps” in Stock Prices? - Federal Reserve Bank of St. Louis",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNlU3bVlaY05yZmRvNlVELU8yV25yT2ozUmJtT1lJbG1HelVoMGt4d1lVNHZkR3BrZkt4VzRRSXZjT3FHUXlLbHNZWkh3R1dYaWNjV3ZzNE9ROWJpQmZ3cFpwdEdLbXR6T00wamtwbmdLcF9RUDA3eEU5aUp1QWZwV0pMUDJrZ0hj?oc=5",
+      "source": "Federal Reserve Bank of St. Louis",
+      "published_at": "Mon, 29 Sep 2025 07:00:00 GMT",
+      "summary": "What Causes “Jumps” in Stock Prices? Federal Reserve Bank of St. Louis",
+      "guid": "CBMiiAFBVV95cUxPNlU3bVlaY05yZmRvNlVELU8yV25yT2ozUmJtT1lJbG1HelVoMGt4d1lVNHZkR3BrZkt4VzRRSXZjT3FHUXlLbHNZWkh3R1dYaWNjV3ZzNE9ROWJpQmZ3cFpwdEdLbXR6T00wamtwbmdLcF9RUDA3eEU5aUp1QWZwV0pMUDJrZ0hj"
+    },
+    {
+      "title": "We're 6 Weeks Away From a Historic Change at the Federal Reserve -- and It May Be the Tipping Point for a Pricey Stock Market - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdlZIVzk4eUxNdFRYYUQ3cHdpWm5CR3AxdzJsT2RFb3V6THdIQl9GZnVjSzJUVlNUb09CaU8wa2NKTTZyNkVjdnJsczVQUEhBRmlXeXBhUF9xYVlBenBUdVV1ZlFINTNwSDZxb0laaWlnYnhhd3NWNGExWEFkdjFVS2NDVjQ1bkhFdTVFWUN2YzBTb2JDc2FQSA?oc=5",
-      "source": "fool.com",
+      "source": "The Motley Fool",
       "published_at": "Sat, 04 Apr 2026 11:36:00 GMT",
-      "summary": "We're 6 Weeks Away From a Historic Change at the Federal Reserve -- and It May Be the Tipping Point for a Pricey Stock Market fool.com",
+      "summary": "We're 6 Weeks Away From a Historic Change at the Federal Reserve -- and It May Be the Tipping Point for a Pricey Stock Market The Motley Fool",
       "guid": "CBMimAFBVV95cUxNdlZIVzk4eUxNdFRYYUQ3cHdpWm5CR3AxdzJsT2RFb3V6THdIQl9GZnVjSzJUVlNUb09CaU8wa2NKTTZyNkVjdnJsczVQUEhBRmlXeXBhUF9xYVlBenBUdVV1ZlFINTNwSDZxb0laaWlnYnhhd3NWNGExWEFkdjFVS2NDVjQ1bkhFdTVFWUN2YzBTb2JDc2FQSA"
     },
     {
@@ -77,14 +85,6 @@
       "published_at": "Fri, 03 Apr 2026 14:26:00 GMT",
       "summary": "Jobs Report: Hiring Revved Up Before Oil-Price Surge, But Is It Real? S&P 500 Futures Fall Investor's Business Daily",
       "guid": "CBMiiAFBVV95cUxQSWJ4MGNrSFNTeDN1aFlqcFBWbVRLYTFZTHVFSjM4NUV1Mmk3aG5uSU5vZmRuNkwxamt5NGU1ZmJpeUFMV3RmTG93UVZqa2FOZDBBVmtDSTQzSi0xc0hXbXZQZmFVbTMwblM0RnJ0WEI4QXFNNDZkalJHU3c4Si16eUxGSnNOR3FL"
-    },
-    {
-      "title": "Scatterplot of Inflation and the Share of Relative Price Increases - Federal Reserve Bank of Richmond",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWGswa3NHUE5OV2tzVVZESy1kUVVEdWstQllDb3VHNmZEaHE3aG5XLUFDR0p5NTM1T0tZQjRTUG43dVlwYXJXRENjNS1kUnBoTzZUaTJtQ1A3WnVZbGVxOVhuWEd5SzNJLXNNRTdZbmVhSGZ4SEhIdlNnTWtXaFl6RmdXelFtMVBVaEZFRGFSa3ZzN3JsQWRKY05tdWFzZw?oc=5",
-      "source": "Federal Reserve Bank of Richmond",
-      "published_at": "Fri, 13 Mar 2026 07:00:00 GMT",
-      "summary": "Scatterplot of Inflation and the Share of Relative Price Increases Federal Reserve Bank of Richmond",
-      "guid": "CBMingFBVV95cUxQWGswa3NHUE5OV2tzVVZESy1kUVVEdWstQllDb3VHNmZEaHE3aG5XLUFDR0p5NTM1T0tZQjRTUG43dVlwYXJXRENjNS1kUnBoTzZUaTJtQ1A3WnVZbGVxOVhuWEd5SzNJLXNNRTdZbmVhSGZ4SEhIdlNnTWtXaFl6RmdXelFtMVBVaEZFRGFSa3ZzN3JsQWRKY05tdWFzZw"
     }
   ]
 }
