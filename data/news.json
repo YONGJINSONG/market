@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T10:51:11Z",
+  "generated_at": "2026-04-04T11:20:22Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -15,11 +15,19 @@
       "guid": "CBMiogFBVV95cUxPSU5HQUpJYWhMTkV6RjUwUEpMdlBFNjFNQnI5U1lXcEVPR0hycmsxaTV6a2cwbmUzZ3JnbFFrUnJGNXpUcy1HdFZqRm1xRDd0QTE2SFFsUkozbWF0WUFERjFmcE9tM2hKTFBuc1FoZ3pxX3ItQXU2YTVuQlNjRWh0Zlc0a1lLZGw3ckw1WjVSOTRZLUNPMFBJaG51dzhDd1JWRkE"
     },
     {
-      "title": "Hiring Surged Before Oil Prices Took Off: Futures Fall - Investor's Business Daily",
+      "title": "We're 6 Weeks Away From a Historic Change at the Federal Reserve -- and It May Be the Tipping Point for a Pricey Stock Market - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPak10RnBqbC1aMnhiU2pjRzFDbXVEVEFjZlJTeFdRdlZVNXVHQjM5cElHZWlQZW5ELWRHNHRGMDNZQjlYc285bFZoeUZMS19JM0d2N21CeW1xeDdaNjB3ajFyNHAxV04zd01KZjdha29BYUhUWWxObEl3TjBfU1VrMGZsRkJ1NWQyME9UYVFvNjZ4SUpNSGlWd1pGVEJzXzdQbl9PM0VXWnJSMjdvT25lZjFNSGZHc2dDTEhaNW9majFwNGp2aUxDVndqckhsZUtaZHRtbWIzSkE1cUZEaER5aUE1WmJfWmZIN1lkWHlsbnZ0ZkV5OGl0YUdHeEs4dkRpZHhicjNyV28zVWd2Mlhlc0pEYnExVFc4NTRQelFlQmw5Rm9UUzZGcndja0M0UTBOTjBV?oc=5",
+      "source": "The Globe and Mail",
+      "published_at": "Sat, 04 Apr 2026 10:56:19 GMT",
+      "summary": "We're 6 Weeks Away From a Historic Change at the Federal Reserve -- and It May Be the Tipping Point for a Pricey Stock Market The Globe and Mail",
+      "guid": "CBMiswJBVV95cUxPak10RnBqbC1aMnhiU2pjRzFDbXVEVEFjZlJTeFdRdlZVNXVHQjM5cElHZWlQZW5ELWRHNHRGMDNZQjlYc285bFZoeUZMS19JM0d2N21CeW1xeDdaNjB3ajFyNHAxV04zd01KZjdha29BYUhUWWxObEl3TjBfU1VrMGZsRkJ1NWQyME9UYVFvNjZ4SUpNSGlWd1pGVEJzXzdQbl9PM0VXWnJSMjdvT25lZjFNSGZHc2dDTEhaNW9majFwNGp2aUxDVndqckhsZUtaZHRtbWIzSkE1cUZEaER5aUE1WmJfWmZIN1lkWHlsbnZ0ZkV5OGl0YUdHeEs4dkRpZHhicjNyV28zVWd2Mlhlc0pEYnExVFc4NTRQelFlQmw5Rm9UUzZGcndja0M0UTBOTjBV"
+    },
+    {
+      "title": "Jobs Report: Hiring Revved Up Before Oil-Price Surge, But Is It Real? S&P 500 Futures Fall - Investor's Business Daily",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSWJ4MGNrSFNTeDN1aFlqcFBWbVRLYTFZTHVFSjM4NUV1Mmk3aG5uSU5vZmRuNkwxamt5NGU1ZmJpeUFMV3RmTG93UVZqa2FOZDBBVmtDSTQzSi0xc0hXbXZQZmFVbTMwblM0RnJ0WEI4QXFNNDZkalJHU3c4Si16eUxGSnNOR3FL?oc=5",
       "source": "Investor's Business Daily",
       "published_at": "Fri, 03 Apr 2026 14:26:00 GMT",
-      "summary": "Hiring Surged Before Oil Prices Took Off: Futures Fall Investor's Business Daily",
+      "summary": "Jobs Report: Hiring Revved Up Before Oil-Price Surge, But Is It Real? S&P 500 Futures Fall Investor's Business Daily",
       "guid": "CBMiiAFBVV95cUxQSWJ4MGNrSFNTeDN1aFlqcFBWbVRLYTFZTHVFSjM4NUV1Mmk3aG5uSU5vZmRuNkwxamt5NGU1ZmJpeUFMV3RmTG93UVZqa2FOZDBBVmtDSTQzSi0xc0hXbXZQZmFVbTMwblM0RnJ0WEI4QXFNNDZkalJHU3c4Si16eUxGSnNOR3FL"
     },
     {
@@ -69,14 +77,6 @@
       "published_at": "Thu, 02 Apr 2026 11:00:50 GMT",
       "summary": "Jerome Powell gives surprisingly great news to US investors — it’s a wealth surge you could miss. How to make most of it moneywise.com",
       "guid": "CBMimgFBVV95cUxQaVZ4NTVISFUtazJHaDZXNm5pdjF1dlhyWm1URXRCaDFrR1dLYWNhN0FVLWtTSWhob2JxTlhtRXA5MW43dUJmSVRkVnR1bVVLNldPNDhVNG9oZEEtZnEyeGJ0SGJBVk5aaTNPTlMtZkpaZlJDbTJyQktQM1lmVTdYS0V3czFUXzdRdzdEVW10WWdUdW5JaU11bTF3"
-    },
-    {
-      "title": "Tracker: The Federal Reserve’s Balance Sheet Assets - The American Action Forum",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0?oc=5",
-      "source": "The American Action Forum",
-      "published_at": "Fri, 27 Mar 2026 07:00:00 GMT",
-      "summary": "Tracker: The Federal Reserve’s Balance Sheet Assets The American Action Forum",
-      "guid": "CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0"
     },
     {
       "title": "We're 6 Weeks Away From a Historic Change at the Federal Reserve -- and It May Be the Tipping Point for a Pricey Stock Market - The Motley Fool",
