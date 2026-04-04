@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T03:13:30Z",
+  "generated_at": "2026-04-04T05:01:18Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -23,20 +23,20 @@
       "guid": "CBMiiAFBVV95cUxQSWJ4MGNrSFNTeDN1aFlqcFBWbVRLYTFZTHVFSjM4NUV1Mmk3aG5uSU5vZmRuNkwxamt5NGU1ZmJpeUFMV3RmTG93UVZqa2FOZDBBVmtDSTQzSi0xc0hXbXZQZmFVbTMwblM0RnJ0WEI4QXFNNDZkalJHU3c4Si16eUxGSnNOR3FL"
     },
     {
-      "title": "Instant View: US jobs report for March is stronger than expected, likely keeping Fed on sidelines - reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNR1VRRTZhNk05ME9WaFh2blR5a2JRV3lWSVREYlFjbEg1ZDZtMF9IMURzcEc2MkdoeHB0S1FsRjRycjhKRGF2N3RSSnNBOU40SlVYSjBfcFk0NExhLWx3VUZPSUxNWFN6eVJUOTc0dk1aLU9YX2tza0llQ0gtdmgxR2JFQ1dqRzcwbHVRRUpjdEMtblUta3FOZEl2Uzhkd2ttaTM4bVlrVmtCdEJXZ2FNYWM0UHpaSG55aGJIdGJIMkxVOUE?oc=5",
-      "source": "reuters.com",
-      "published_at": "Fri, 03 Apr 2026 14:25:57 GMT",
-      "summary": "Instant View: US jobs report for March is stronger than expected, likely keeping Fed on sidelines reuters.com",
-      "guid": "CBMiwwFBVV95cUxNR1VRRTZhNk05ME9WaFh2blR5a2JRV3lWSVREYlFjbEg1ZDZtMF9IMURzcEc2MkdoeHB0S1FsRjRycjhKRGF2N3RSSnNBOU40SlVYSjBfcFk0NExhLWx3VUZPSUxNWFN6eVJUOTc0dk1aLU9YX2tza0llQ0gtdmgxR2JFQ1dqRzcwbHVRRUpjdEMtblUta3FOZEl2Uzhkd2ttaTM4bVlrVmtCdEJXZ2FNYWM0UHpaSG55aGJIdGJIMkxVOUE"
-    },
-    {
       "title": "Is the stock market closed on Good Friday? A guide to banks, mail and more - cbs8.com",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZExqMGRlWW56bWdfV0RQdkRSc3kxdVpzSkhxNjcxOGpyXzlEN01xRy1DRVE5UV9xZWJzaG53dWZWRkJVeldXYjQycDFybUZ2TGs2a2YxTVRKRmdaQThGVjNld1phRmdvQmhRN3pxS2xuSl91VnBmMzZvaHRhOXd1VkpYRm1nWXV0TzV6OGFGTnRwWFdLdkFWMkRrWUVnVWdkcDdvSlpWNi1Od1c3UV9kRDdvN3p5YWxoUUhQdV9GZlY4QQ?oc=5",
       "source": "cbs8.com",
       "published_at": "Thu, 02 Apr 2026 22:55:00 GMT",
       "summary": "Is the stock market closed on Good Friday? A guide to banks, mail and more cbs8.com",
       "guid": "CBMiwgFBVV95cUxNZExqMGRlWW56bWdfV0RQdkRSc3kxdVpzSkhxNjcxOGpyXzlEN01xRy1DRVE5UV9xZWJzaG53dWZWRkJVeldXYjQycDFybUZ2TGs2a2YxTVRKRmdaQThGVjNld1phRmdvQmhRN3pxS2xuSl91VnBmMzZvaHRhOXd1VkpYRm1nWXV0TzV6OGFGTnRwWFdLdkFWMkRrWUVnVWdkcDdvSlpWNi1Od1c3UV9kRDdvN3p5YWxoUUhQdV9GZlY4QQ"
+    },
+    {
+      "title": "Instant View: US jobs report for March is stronger than expected, likely keeping Fed on sidelines - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNR1VRRTZhNk05ME9WaFh2blR5a2JRV3lWSVREYlFjbEg1ZDZtMF9IMURzcEc2MkdoeHB0S1FsRjRycjhKRGF2N3RSSnNBOU40SlVYSjBfcFk0NExhLWx3VUZPSUxNWFN6eVJUOTc0dk1aLU9YX2tza0llQ0gtdmgxR2JFQ1dqRzcwbHVRRUpjdEMtblUta3FOZEl2Uzhkd2ttaTM4bVlrVmtCdEJXZ2FNYWM0UHpaSG55aGJIdGJIMkxVOUE?oc=5",
+      "source": "Reuters",
+      "published_at": "Fri, 03 Apr 2026 14:25:57 GMT",
+      "summary": "Instant View: US jobs report for March is stronger than expected, likely keeping Fed on sidelines Reuters",
+      "guid": "CBMiwwFBVV95cUxNR1VRRTZhNk05ME9WaFh2blR5a2JRV3lWSVREYlFjbEg1ZDZtMF9IMURzcEc2MkdoeHB0S1FsRjRycjhKRGF2N3RSSnNBOU40SlVYSjBfcFk0NExhLWx3VUZPSUxNWFN6eVJUOTc0dk1aLU9YX2tza0llQ0gtdmgxR2JFQ1dqRzcwbHVRRUpjdEMtblUta3FOZEl2Uzhkd2ttaTM4bVlrVmtCdEJXZ2FNYWM0UHpaSG55aGJIdGJIMkxVOUE"
     },
     {
       "title": "U.S. stocks sink on worries about inflation as gold falls below $5,000 per ounce - PBS",
