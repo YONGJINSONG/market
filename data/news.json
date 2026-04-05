@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-05T14:58:08Z",
+  "generated_at": "2026-04-05T15:29:25Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -39,14 +39,6 @@
       "guid": "CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw"
     },
     {
-      "title": "We're 6 Weeks Away From a Historic Change at the Federal Reserve -- and It May Be the Tipping Point for a Pricey Stock Market - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPak10RnBqbC1aMnhiU2pjRzFDbXVEVEFjZlJTeFdRdlZVNXVHQjM5cElHZWlQZW5ELWRHNHRGMDNZQjlYc285bFZoeUZMS19JM0d2N21CeW1xeDdaNjB3ajFyNHAxV04zd01KZjdha29BYUhUWWxObEl3TjBfU1VrMGZsRkJ1NWQyME9UYVFvNjZ4SUpNSGlWd1pGVEJzXzdQbl9PM0VXWnJSMjdvT25lZjFNSGZHc2dDTEhaNW9majFwNGp2aUxDVndqckhsZUtaZHRtbWIzSkE1cUZEaER5aUE1WmJfWmZIN1lkWHlsbnZ0ZkV5OGl0YUdHeEs4dkRpZHhicjNyV28zVWd2Mlhlc0pEYnExVFc4NTRQelFlQmw5Rm9UUzZGcndja0M0UTBOTjBV?oc=5",
-      "source": "The Globe and Mail",
-      "published_at": "Sat, 04 Apr 2026 10:56:19 GMT",
-      "summary": "We're 6 Weeks Away From a Historic Change at the Federal Reserve -- and It May Be the Tipping Point for a Pricey Stock Market The Globe and Mail",
-      "guid": "CBMiswJBVV95cUxPak10RnBqbC1aMnhiU2pjRzFDbXVEVEFjZlJTeFdRdlZVNXVHQjM5cElHZWlQZW5ELWRHNHRGMDNZQjlYc285bFZoeUZMS19JM0d2N21CeW1xeDdaNjB3ajFyNHAxV04zd01KZjdha29BYUhUWWxObEl3TjBfU1VrMGZsRkJ1NWQyME9UYVFvNjZ4SUpNSGlWd1pGVEJzXzdQbl9PM0VXWnJSMjdvT25lZjFNSGZHc2dDTEhaNW9majFwNGp2aUxDVndqckhsZUtaZHRtbWIzSkE1cUZEaER5aUE1WmJfWmZIN1lkWHlsbnZ0ZkV5OGl0YUdHeEs4dkRpZHhicjNyV28zVWd2Mlhlc0pEYnExVFc4NTRQelFlQmw5Rm9UUzZGcndja0M0UTBOTjBV"
-    },
-    {
       "title": "Instant View: US jobs report for March is stronger than expected, likely keeping Fed on sidelines - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNR1VRRTZhNk05ME9WaFh2blR5a2JRV3lWSVREYlFjbEg1ZDZtMF9IMURzcEc2MkdoeHB0S1FsRjRycjhKRGF2N3RSSnNBOU40SlVYSjBfcFk0NExhLWx3VUZPSUxNWFN6eVJUOTc0dk1aLU9YX2tza0llQ0gtdmgxR2JFQ1dqRzcwbHVRRUpjdEMtblUta3FOZEl2Uzhkd2ttaTM4bVlrVmtCdEJXZ2FNYWM0UHpaSG55aGJIdGJIMkxVOUE?oc=5",
       "source": "Reuters",
@@ -77,6 +69,14 @@
       "published_at": "Mon, 16 Mar 2026 07:00:00 GMT",
       "summary": "The Federal Reserve Has Become a Stock Market Liability, and President Trump's New Nominee for Chair Won't Help The Motley Fool",
       "guid": "CBMilwFBVV95cUxOOUN5MHFlVmh2ZFI3eXp1ODZCS0E1WGZNdkt4Q1lWZHBXY1N4bXl4bjk3VGRoUU83Rk9tRzNsOGJ6SWx4Ukk0eTRhOUZ2aHZnVDFOQkg3d3JuNEp6SjV0RUFYUzVBN003V0U2SmFEczdJd3FZWnRaVnY2ZG1pVjI1Zl9jcXhGSV9fUW8xTHZEbmFCNnJONjBR"
+    },
+    {
+      "title": "We're 6 Weeks Away From a Historic Change at the Federal Reserve -- and It May Be the Tipping Point for a Pricey Stock Market - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxONlhtcUlYbmw5UloycV84UlUyeFBLeFVqWGJ2VGs5WnJDVkYtY3ZLRGtmTDEyMGpGZWxvMm0xMjRFa1VHd3hHS1pyZndSVzhWb0Qwb1czQ2lTNDBoT001M0dXMU4xR0Y0X2VXNVBpMUd6cjFQRExPOXVlTlh0WEoyWTY0V2s3eHlfbHNfUUpVSXRZcGJnNFdnNXoxcDlXQUY5YWhwZHlrTk9QcG9TX2dfUzRIZGpqWUh5OTU5d1pPMGdBS2dvOFY1V3hLemx5cHBqNEVoaWY1NDdWaVNoSzlVX2ZKdjlYNmhkNm1IYlIxS0doWmlOSVEzUC14OUV3emo0dUFXM0lCbFNKUGluS0EzQzE2cWJ3dUlOa1NTOXptOXl2eVhzcUFWbA?oc=5",
+      "source": "The Globe and Mail",
+      "published_at": "Sat, 04 Apr 2026 11:12:20 GMT",
+      "summary": "We're 6 Weeks Away From a Historic Change at the Federal Reserve -- and It May Be the Tipping Point for a Pricey Stock Market The Globe and Mail",
+      "guid": "CBMiqAJBVV95cUxONlhtcUlYbmw5UloycV84UlUyeFBLeFVqWGJ2VGs5WnJDVkYtY3ZLRGtmTDEyMGpGZWxvMm0xMjRFa1VHd3hHS1pyZndSVzhWb0Qwb1czQ2lTNDBoT001M0dXMU4xR0Y0X2VXNVBpMUd6cjFQRExPOXVlTlh0WEoyWTY0V2s3eHlfbHNfUUpVSXRZcGJnNFdnNXoxcDlXQUY5YWhwZHlrTk9QcG9TX2dfUzRIZGpqWUh5OTU5d1pPMGdBS2dvOFY1V3hLemx5cHBqNEVoaWY1NDdWaVNoSzlVX2ZKdjlYNmhkNm1IYlIxS0doWmlOSVEzUC14OUV3emo0dUFXM0lCbFNKUGluS0EzQzE2cWJ3dUlOa1NTOXptOXl2eVhzcUFWbA"
     },
     {
       "title": "We're 6 Weeks Away From a Historic Change at the Federal Reserve -- and It May Be the Tipping Point for a Pricey Stock Market - The Motley Fool",
