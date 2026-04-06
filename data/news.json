@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-06T11:31:33Z",
+  "generated_at": "2026-04-06T12:34:16Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -13,6 +13,14 @@
       "published_at": "Fri, 03 Apr 2026 17:35:00 GMT",
       "summary": "Federal Reserve Chairman Jerome Powell Just Delivered Fantastic News for Stock Market Investors finance.yahoo.com",
       "guid": "CBMiogFBVV95cUxPSU5HQUpJYWhMTkV6RjUwUEpMdlBFNjFNQnI5U1lXcEVPR0hycmsxaTV6a2cwbmUzZ3JnbFFrUnJGNXpUcy1HdFZqRm1xRDd0QTE2SFFsUkozbWF0WUFERjFmcE9tM2hKTFBuc1FoZ3pxX3ItQXU2YTVuQlNjRWh0Zlc0a1lLZGw3ckw1WjVSOTRZLUNPMFBJaG51dzhDd1JWRkE"
+    },
+    {
+      "title": "The New York Stock Exchange | NYSE - NYSE",
+      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE93UWVlU3g1TVNpdTNEcjI2Yk9kSHU2Tnh5Y0stVFBGRWVkLW9wbU1EbHhQaHdIOE56d2V5NXVhSQ?oc=5",
+      "source": "NYSE",
+      "published_at": "Fri, 03 Apr 2026 18:00:00 GMT",
+      "summary": "The New York Stock Exchange | NYSE NYSE",
+      "guid": "CBMiP0FVX3lxTE93UWVlU3g1TVNpdTNEcjI2Yk9kSHU2Tnh5Y0stVFBGRWVkLW9wbU1EbHhQaHdIOE56d2V5NXVhSQ"
     },
     {
       "title": "The Federal Reserve's March and April Inflation Forecast Is In -- and Things Just Keep Getting Uglier for Wall Street - The Globe and Mail",
@@ -39,14 +47,6 @@
       "guid": "CBMiiAFBVV95cUxQSWJ4MGNrSFNTeDN1aFlqcFBWbVRLYTFZTHVFSjM4NUV1Mmk3aG5uSU5vZmRuNkwxamt5NGU1ZmJpeUFMV3RmTG93UVZqa2FOZDBBVmtDSTQzSi0xc0hXbXZQZmFVbTMwblM0RnJ0WEI4QXFNNDZkalJHU3c4Si16eUxGSnNOR3FL"
     },
     {
-      "title": "U.S. stocks sink on worries about inflation as gold falls below $5,000 per ounce - PBS",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVkpFejFBYTJZMmQ5WmRIRWpQQnppb0RSeVNIcnZoR3RONDR0elNJMkJ1SVMxcjJiMHFTUGFzeUxGRW5wS2FibDRRSXpGNkVkWTZRZDk3NFpRTW4zNDZMcnVfSDJaUGZOMUY3U1hvNjhyU0Z3cjAzM0RLcmRLaFZ3bnR5Y2NYR2VRZnA3dWliWlpIUXFqOFVEVjB1c2lRcTF4dlZyT1hNaFhNem5Xcnl6WUpCMWLSAboBQVVfeXFMTnQ2c0tkZElTb1RUR1lQRl9NRlBwT2dkZWp2V0ZHaHJQelRhN0dxT0ZleWhvbkotWUlvalQ0WV93aHBEQ3RxcUowbU9IMnYwV0d6d0I0MzQtQ2JvRnFTbDVWdmJFVEJ4X25aU0JPYVlJcy1FMk04SVBTc3BmRExiVHBDYkloeDFGd2NHVHFlUTFJQWVESE40bEtyanI4WG1POUViOE5iS1RQZlNEaW1wSm1CWk0tdXpzbVVB?oc=5",
-      "source": "PBS",
-      "published_at": "Wed, 18 Mar 2026 07:00:00 GMT",
-      "summary": "U.S. stocks sink on worries about inflation as gold falls below $5,000 per ounce PBS",
-      "guid": "CBMitAFBVV95cUxNVkpFejFBYTJZMmQ5WmRIRWpQQnppb0RSeVNIcnZoR3RONDR0elNJMkJ1SVMxcjJiMHFTUGFzeUxGRW5wS2FibDRRSXpGNkVkWTZRZDk3NFpRTW4zNDZMcnVfSDJaUGZOMUY3U1hvNjhyU0Z3cjAzM0RLcmRLaFZ3bnR5Y2NYR2VRZnA3dWliWlpIUXFqOFVEVjB1c2lRcTF4dlZyT1hNaFhNem5Xcnl6WUpCMWLSAboBQVVfeXFMTnQ2c0tkZElTb1RUR1lQRl9NRlBwT2dkZWp2V0ZHaHJQelRhN0dxT0ZleWhvbkotWUlvalQ0WV93aHBEQ3RxcUowbU9IMnYwV0d6d0I0MzQtQ2JvRnFTbDVWdmJFVEJ4X25aU0JPYVlJcy1FMk04SVBTc3BmRExiVHBDYkloeDFGd2NHVHFlUTFJQWVESE40bEtyanI4WG1POUViOE5iS1RQZlNEaW1wSm1CWk0tdXpzbVVB"
-    },
-    {
       "title": "Federal Reserve holds interest rates steady, signals one rate cut amid inflation uncertainty - U.S. Bank",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw?oc=5",
       "source": "U.S. Bank",
@@ -55,12 +55,12 @@
       "guid": "CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw"
     },
     {
-      "title": "Instant View: US jobs report for March is stronger than expected, likely keeping Fed on sidelines - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNR1VRRTZhNk05ME9WaFh2blR5a2JRV3lWSVREYlFjbEg1ZDZtMF9IMURzcEc2MkdoeHB0S1FsRjRycjhKRGF2N3RSSnNBOU40SlVYSjBfcFk0NExhLWx3VUZPSUxNWFN6eVJUOTc0dk1aLU9YX2tza0llQ0gtdmgxR2JFQ1dqRzcwbHVRRUpjdEMtblUta3FOZEl2Uzhkd2ttaTM4bVlrVmtCdEJXZ2FNYWM0UHpaSG55aGJIdGJIMkxVOUE?oc=5",
-      "source": "Reuters",
-      "published_at": "Fri, 03 Apr 2026 14:25:57 GMT",
-      "summary": "Instant View: US jobs report for March is stronger than expected, likely keeping Fed on sidelines Reuters",
-      "guid": "CBMiwwFBVV95cUxNR1VRRTZhNk05ME9WaFh2blR5a2JRV3lWSVREYlFjbEg1ZDZtMF9IMURzcEc2MkdoeHB0S1FsRjRycjhKRGF2N3RSSnNBOU40SlVYSjBfcFk0NExhLWx3VUZPSUxNWFN6eVJUOTc0dk1aLU9YX2tza0llQ0gtdmgxR2JFQ1dqRzcwbHVRRUpjdEMtblUta3FOZEl2Uzhkd2ttaTM4bVlrVmtCdEJXZ2FNYWM0UHpaSG55aGJIdGJIMkxVOUE"
+      "title": "Market Reactions to Tariff Announcements - Federal Reserve Bank of San Francisco",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM1dfLWVxeDJGbVNDYU9vWU8xOW5Fbk9rWk5KREtjbWFDcWFfdzAyVE5WMDhINUpWbWVDVWZmRHBSSlN3blk5alBHd3B1RE5JSmVMRTd3SXhNQmZWdDllUDFCU1lwTk9zcmpBSmhmazM5OEhIWEVHMlhHTDY4M1luNXJ5TExQbi1RMjBLbmpZd3BqLU1zanlvM0hvVWhVcWtiSWZBOV9ENTJmTWUtQzIxdmprYlpGNnJzQk11T1ZfWQ?oc=5",
+      "source": "Federal Reserve Bank of San Francisco",
+      "published_at": "Mon, 06 Oct 2025 07:00:00 GMT",
+      "summary": "Market Reactions to Tariff Announcements Federal Reserve Bank of San Francisco",
+      "guid": "CBMivwFBVV95cUxOM1dfLWVxeDJGbVNDYU9vWU8xOW5Fbk9rWk5KREtjbWFDcWFfdzAyVE5WMDhINUpWbWVDVWZmRHBSSlN3blk5alBHd3B1RE5JSmVMRTd3SXhNQmZWdDllUDFCU1lwTk9zcmpBSmhmazM5OEhIWEVHMlhHTDY4M1luNXJ5TExQbi1RMjBLbmpZd3BqLU1zanlvM0hvVWhVcWtiSWZBOV9ENTJmTWUtQzIxdmprYlpGNnJzQk11T1ZfWQ"
     },
     {
       "title": "Wall Street Week Ahead: Focus on inflation reports, crude oil, Federal Reserve minutes - Mint",
@@ -71,20 +71,20 @@
       "guid": "CBMi6AFBVV95cUxONmZnNzlpNDRweDlORWtLeGU1eERWaGRWS2VEbXRLVkdqY3k4Z2k4SE5pRDdNQTZZTF9KV1FmNzNIZC10SEFyZll2NU9QZEMxdk9ENEhHZE83Zl8zTDhBSFB6VVh1T1JIVTREeVEtS2JzY292NFA2R0t3MG5Ldk4zZzJ0QWZ6bmZOaUtQX3hONWUtY3QwbkZieUpVUWpMOXpEcXhoVzcwTkpZeXhGeVpKbWNrOTdmazhmZXlPaExVSEt5eVllUTFiNW9mV0YwN2RnY0x3YVdQQWtVaTFkSGlMS2RNR2Q1Y05P0gHuAUFVX3lxTE1USTZkYnVOWGc0Z1E0QnZDbEJoV3ZvTlBaell1ZEhnYWlTVDdrRWtYZzViYnljdHMySDlxV21DZGk1VzhRUEQzOW9kd2lQQ19WbTBFc0oxZE05OWh6ZFIzUjJ5WXl0dFhiRjRJOXNwZDJ0bUV1U2REalZBYVhaMWtHQmlGSDN3b1kxdTJTSW9yR1JDeWdEQU9PY0IxLTNfb245ajQ2VmN6V19nMGhUVEhkbU5FSGstTGZOS0s3bzRLZ1h6cDVrTmFvSWpYdzFpMTlZQlFBWDdZSzJPLUpISXdlR25CNFVKRDRPc2dDMUE"
     },
     {
-      "title": "March 19, 2026 -- Notice of Open Board Meeting - Federal Reserve Board (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9GVmtqUWJ0ZVZJeXVnVkFJWTF3N0JNekJqYl9UenpZMEJyeHZVUUUyTkU0dno3aVQ0UXlkSmVSSGl5TGhaTFcyQ0tIRDc0UTVuZzJ4LTVjWWJrZjlSbHRQSjF0a0NuNzRNaTJQUkZya3NxeHdtSGlKU05reG5Tdw?oc=5",
-      "source": "Federal Reserve Board (.gov)",
-      "published_at": "Thu, 19 Mar 2026 07:00:00 GMT",
-      "summary": "March 19, 2026 -- Notice of Open Board Meeting Federal Reserve Board (.gov)",
-      "guid": "CBMifkFVX3lxTE9GVmtqUWJ0ZVZJeXVnVkFJWTF3N0JNekJqYl9UenpZMEJyeHZVUUUyTkU0dno3aVQ0UXlkSmVSSGl5TGhaTFcyQ0tIRDc0UTVuZzJ4LTVjWWJrZjlSbHRQSjF0a0NuNzRNaTJQUkZya3NxeHdtSGlKU05reG5Tdw"
+      "title": "What Causes “Jumps” in Stock Prices? - stlouisfed.org",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNlU3bVlaY05yZmRvNlVELU8yV25yT2ozUmJtT1lJbG1HelVoMGt4d1lVNHZkR3BrZkt4VzRRSXZjT3FHUXlLbHNZWkh3R1dYaWNjV3ZzNE9ROWJpQmZ3cFpwdEdLbXR6T00wamtwbmdLcF9RUDA3eEU5aUp1QWZwV0pMUDJrZ0hj?oc=5",
+      "source": "stlouisfed.org",
+      "published_at": "Mon, 29 Sep 2025 07:00:00 GMT",
+      "summary": "What Causes “Jumps” in Stock Prices? stlouisfed.org",
+      "guid": "CBMiiAFBVV95cUxPNlU3bVlaY05yZmRvNlVELU8yV25yT2ozUmJtT1lJbG1HelVoMGt4d1lVNHZkR3BrZkt4VzRRSXZjT3FHUXlLbHNZWkh3R1dYaWNjV3ZzNE9ROWJpQmZ3cFpwdEdLbXR6T00wamtwbmdLcF9RUDA3eEU5aUp1QWZwV0pMUDJrZ0hj"
     },
     {
-      "title": "We're 6 Weeks Away From a Historic Change at the Federal Reserve -- and It May Be the Tipping Point for a Pricey Stock Market - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFQ1B1R1lvLThIVmxBTDZ0RTRMd1E2RVh2REVSbkZVZzhYOEoydlpzZEd6U19IQXc5NUlvNlBOa0h1NGxSc2daR05NWHhCbGMtQXFHM3dBWjF3MWVKQlY2OTlaVk1JZ3oxMHRmSzVn?oc=5",
-      "source": "AOL.com",
-      "published_at": "Sat, 04 Apr 2026 11:04:12 GMT",
-      "summary": "We're 6 Weeks Away From a Historic Change at the Federal Reserve -- and It May Be the Tipping Point for a Pricey Stock Market AOL.com",
-      "guid": "CBMibkFVX3lxTFBFQ1B1R1lvLThIVmxBTDZ0RTRMd1E2RVh2REVSbkZVZzhYOEoydlpzZEd6U19IQXc5NUlvNlBOa0h1NGxSc2daR05NWHhCbGMtQXFHM3dBWjF3MWVKQlY2OTlaVk1JZ3oxMHRmSzVn"
+      "title": "The Fed - 1. Asset Valuations - federalreserve.gov",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMmo1bkdaV1NEeUk2SDlGekZEOXc1LWRCZ0tzaURpLUlmVmRaREtBdkdzdWo5UUQ3ekk2cmViN1h2MENkdk0yWm5sdlU5aGFfUWV4MHRKTF9PZFg3blVGbjlLSHBWY2lKZEtFcGZDX0l4cXp4cFVyck5udUpfTU5lQjRwcmRyeWR0TEktbnAwb25DU19JTEwzdU9Jb1V5aUJLVDlRUzZiaFc?oc=5",
+      "source": "federalreserve.gov",
+      "published_at": "Wed, 26 Nov 2025 19:17:29 GMT",
+      "summary": "The Fed - 1. Asset Valuations federalreserve.gov",
+      "guid": "CBMiqAFBVV95cUxQMmo1bkdaV1NEeUk2SDlGekZEOXc1LWRCZ0tzaURpLUlmVmRaREtBdkdzdWo5UUQ3ekk2cmViN1h2MENkdk0yWm5sdlU5aGFfUWV4MHRKTF9PZFg3blVGbjlLSHBWY2lKZEtFcGZDX0l4cXp4cFVyck5udUpfTU5lQjRwcmRyeWR0TEktbnAwb25DU19JTEwzdU9Jb1V5aUJLVDlRUzZiaFc"
     }
   ]
 }
