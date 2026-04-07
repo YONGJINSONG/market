@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-07T01:17:00Z",
+  "generated_at": "2026-04-07T04:08:22Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,20 +7,20 @@
   },
   "items": [
     {
+      "title": "Federal Reserve Chairman Jerome Powell Just Delivered Fantastic News for Stock Market Investors - finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSU5HQUpJYWhMTkV6RjUwUEpMdlBFNjFNQnI5U1lXcEVPR0hycmsxaTV6a2cwbmUzZ3JnbFFrUnJGNXpUcy1HdFZqRm1xRDd0QTE2SFFsUkozbWF0WUFERjFmcE9tM2hKTFBuc1FoZ3pxX3ItQXU2YTVuQlNjRWh0Zlc0a1lLZGw3ckw1WjVSOTRZLUNPMFBJaG51dzhDd1JWRkE?oc=5",
+      "source": "finance.yahoo.com",
+      "published_at": "Fri, 03 Apr 2026 17:35:00 GMT",
+      "summary": "Federal Reserve Chairman Jerome Powell Just Delivered Fantastic News for Stock Market Investors finance.yahoo.com",
+      "guid": "CBMiogFBVV95cUxPSU5HQUpJYWhMTkV6RjUwUEpMdlBFNjFNQnI5U1lXcEVPR0hycmsxaTV6a2cwbmUzZ3JnbFFrUnJGNXpUcy1HdFZqRm1xRDd0QTE2SFFsUkozbWF0WUFERjFmcE9tM2hKTFBuc1FoZ3pxX3ItQXU2YTVuQlNjRWh0Zlc0a1lLZGw3ckw1WjVSOTRZLUNPMFBJaG51dzhDd1JWRkE"
+    },
+    {
       "title": "Jim Cramer says potential stock market bottom is tied to interest rates, not war headlines - CNBC",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWVJNWWY0UDdTczc2OXI4Z1EzbU1taEl1RmR2X1hQWXg2UVEybTBtTHNDVnBHSnVJcERHNkkxLXJlMWlaZ1JXWktyb0c1bGNON2gxaVh0eG1NUE55ZUEtcUJMeHI1Vl9yVjVqVkt1TlZLemE2clZoQTk5aFE5UHN3Uzg3NERzUmZVR01EV0c4TdIBlAFBVV95cUxOQ0tGNnhnelQzN2FDYi11NGgzTVo4VzA0djJqczRBeVI2RHExejk5NlhFMkwwNnJfajZIVnhHRDJMWml6NUJTS0NZLUptWDU1Y0ZXenZLUDFjMlZZaS1fSjFTTE51cnY0VVpuZFFCbkY3T09aUGFQRUZxdDJadWsxVXZjNnVQVmFnS3RQbndNdDBfbDB2?oc=5",
       "source": "CNBC",
       "published_at": "Mon, 06 Apr 2026 22:25:46 GMT",
       "summary": "Jim Cramer says potential stock market bottom is tied to interest rates, not war headlines CNBC",
       "guid": "CBMijwFBVV95cUxQWVJNWWY0UDdTczc2OXI4Z1EzbU1taEl1RmR2X1hQWXg2UVEybTBtTHNDVnBHSnVJcERHNkkxLXJlMWlaZ1JXWktyb0c1bGNON2gxaVh0eG1NUE55ZUEtcUJMeHI1Vl9yVjVqVkt1TlZLemE2clZoQTk5aFE5UHN3Uzg3NERzUmZVR01EV0c4TdIBlAFBVV95cUxOQ0tGNnhnelQzN2FDYi11NGgzTVo4VzA0djJqczRBeVI2RHExejk5NlhFMkwwNnJfajZIVnhHRDJMWml6NUJTS0NZLUptWDU1Y0ZXenZLUDFjMlZZaS1fSjFTTE51cnY0VVpuZFFCbkY3T09aUGFQRUZxdDJadWsxVXZjNnVQVmFnS3RQbndNdDBfbDB2"
-    },
-    {
-      "title": "Federal Reserve Chairman Jerome Powell Just Delivered Fantastic News for Stock Market Investors - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSU5HQUpJYWhMTkV6RjUwUEpMdlBFNjFNQnI5U1lXcEVPR0hycmsxaTV6a2cwbmUzZ3JnbFFrUnJGNXpUcy1HdFZqRm1xRDd0QTE2SFFsUkozbWF0WUFERjFmcE9tM2hKTFBuc1FoZ3pxX3ItQXU2YTVuQlNjRWh0Zlc0a1lLZGw3ckw1WjVSOTRZLUNPMFBJaG51dzhDd1JWRkE?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Fri, 03 Apr 2026 17:35:00 GMT",
-      "summary": "Federal Reserve Chairman Jerome Powell Just Delivered Fantastic News for Stock Market Investors Yahoo Finance",
-      "guid": "CBMiogFBVV95cUxPSU5HQUpJYWhMTkV6RjUwUEpMdlBFNjFNQnI5U1lXcEVPR0hycmsxaTV6a2cwbmUzZ3JnbFFrUnJGNXpUcy1HdFZqRm1xRDd0QTE2SFFsUkozbWF0WUFERjFmcE9tM2hKTFBuc1FoZ3pxX3ItQXU2YTVuQlNjRWh0Zlc0a1lLZGw3ckw1WjVSOTRZLUNPMFBJaG51dzhDd1JWRkE"
     },
     {
       "title": "5 Stocks to Sell Before Inflation Spikes - Morningstar",
@@ -39,6 +39,14 @@
       "guid": "CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0"
     },
     {
+      "title": "The Federal Reserve's March and April Inflation Forecast Is In -- and Things Just Keep Getting Uglier for Wall Street - theglobeandmail.com",
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPNHlTU1RsdmpLSkhQUHBWQlNWU0tIVkdJWEd0VEtNS3pVSE85OGpsMmxwRGdwUF9EcWNMZ3Zwa3lzQWRQVkdFZGIwX3o3R1d6aUFENWg5UjBVWS10RHpYZzJHWUVFdFM3WWU2R3ZTLVI5S0M1VTBwQTgtNXRlbzBTdVk5QU51U1RfNkYydU9MSEZtaGY2S3YyOW1KbXljTktqcnhiRGNBQ05kdU1pbl83dTk5emEzakE1R0J4RXBiNHB1RVlrVkdua3BOcm5VMmxpNTBsME45U3BYdmZBTjZGc1JwUjN0bTV6d1J2VjgycENDd19teHVWQzAtYmxRWEZNV0VJNmtUb2NvQkhUNHYxa1RBWXlhNlZzd3I1dnN3?oc=5",
+      "source": "theglobeandmail.com",
+      "published_at": "Mon, 06 Apr 2026 09:43:13 GMT",
+      "summary": "The Federal Reserve's March and April Inflation Forecast Is In -- and Things Just Keep Getting Uglier for Wall Street theglobeandmail.com",
+      "guid": "CBMingJBVV95cUxPNHlTU1RsdmpLSkhQUHBWQlNWU0tIVkdJWEd0VEtNS3pVSE85OGpsMmxwRGdwUF9EcWNMZ3Zwa3lzQWRQVkdFZGIwX3o3R1d6aUFENWg5UjBVWS10RHpYZzJHWUVFdFM3WWU2R3ZTLVI5S0M1VTBwQTgtNXRlbzBTdVk5QU51U1RfNkYydU9MSEZtaGY2S3YyOW1KbXljTktqcnhiRGNBQ05kdU1pbl83dTk5emEzakE1R0J4RXBiNHB1RVlrVkdua3BOcm5VMmxpNTBsME45U3BYdmZBTjZGc1JwUjN0bTV6d1J2VjgycENDd19teHVWQzAtYmxRWEZNV0VJNmtUb2NvQkhUNHYxa1RBWXlhNlZzd3I1dnN3"
+    },
+    {
       "title": "The Federal Reserve's March and April Inflation Forecast Is In -- and Things Just Keep Getting Uglier for Wall Street - AOL.com",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUFpja3dIaS0yR3QzbjdIeTFFYUVuVnFISXlxdUEwRjhVX2hELU1iOFZaUTE5SFg1eWprd2htUTUwcWdNMlNIQ2VnRmhCWHpLN01rdG5xSklralNTZUFtSzdOYVh3WFhuTk4tQVcwZk9vSjhfNm9YOE01a3pUeUkxVTFEWHlVNkJ3OEE?oc=5",
       "source": "AOL.com",
@@ -47,11 +55,11 @@
       "guid": "CBMiigFBVV95cUxPUFpja3dIaS0yR3QzbjdIeTFFYUVuVnFISXlxdUEwRjhVX2hELU1iOFZaUTE5SFg1eWprd2htUTUwcWdNMlNIQ2VnRmhCWHpLN01rdG5xSklralNTZUFtSzdOYVh3WFhuTk4tQVcwZk9vSjhfNm9YOE01a3pUeUkxVTFEWHlVNkJ3OEE"
     },
     {
-      "title": "U.S. stocks sink on worries about inflation as gold falls below $5,000 per ounce - PBS",
+      "title": "U.S. stocks sink on worries about inflation as gold falls below $5,000 per ounce - pbs.org",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVkpFejFBYTJZMmQ5WmRIRWpQQnppb0RSeVNIcnZoR3RONDR0elNJMkJ1SVMxcjJiMHFTUGFzeUxGRW5wS2FibDRRSXpGNkVkWTZRZDk3NFpRTW4zNDZMcnVfSDJaUGZOMUY3U1hvNjhyU0Z3cjAzM0RLcmRLaFZ3bnR5Y2NYR2VRZnA3dWliWlpIUXFqOFVEVjB1c2lRcTF4dlZyT1hNaFhNem5Xcnl6WUpCMWLSAboBQVVfeXFMTnQ2c0tkZElTb1RUR1lQRl9NRlBwT2dkZWp2V0ZHaHJQelRhN0dxT0ZleWhvbkotWUlvalQ0WV93aHBEQ3RxcUowbU9IMnYwV0d6d0I0MzQtQ2JvRnFTbDVWdmJFVEJ4X25aU0JPYVlJcy1FMk04SVBTc3BmRExiVHBDYkloeDFGd2NHVHFlUTFJQWVESE40bEtyanI4WG1POUViOE5iS1RQZlNEaW1wSm1CWk0tdXpzbVVB?oc=5",
-      "source": "PBS",
+      "source": "pbs.org",
       "published_at": "Wed, 18 Mar 2026 07:00:00 GMT",
-      "summary": "U.S. stocks sink on worries about inflation as gold falls below $5,000 per ounce PBS",
+      "summary": "U.S. stocks sink on worries about inflation as gold falls below $5,000 per ounce pbs.org",
       "guid": "CBMitAFBVV95cUxNVkpFejFBYTJZMmQ5WmRIRWpQQnppb0RSeVNIcnZoR3RONDR0elNJMkJ1SVMxcjJiMHFTUGFzeUxGRW5wS2FibDRRSXpGNkVkWTZRZDk3NFpRTW4zNDZMcnVfSDJaUGZOMUY3U1hvNjhyU0Z3cjAzM0RLcmRLaFZ3bnR5Y2NYR2VRZnA3dWliWlpIUXFqOFVEVjB1c2lRcTF4dlZyT1hNaFhNem5Xcnl6WUpCMWLSAboBQVVfeXFMTnQ2c0tkZElTb1RUR1lQRl9NRlBwT2dkZWp2V0ZHaHJQelRhN0dxT0ZleWhvbkotWUlvalQ0WV93aHBEQ3RxcUowbU9IMnYwV0d6d0I0MzQtQ2JvRnFTbDVWdmJFVEJ4X25aU0JPYVlJcy1FMk04SVBTc3BmRExiVHBDYkloeDFGd2NHVHFlUTFJQWVESE40bEtyanI4WG1POUViOE5iS1RQZlNEaW1wSm1CWk0tdXpzbVVB"
     },
     {
@@ -71,20 +79,12 @@
       "guid": "CBMikwFBVV95cUxOekxPWGJuVXFUNmJnRnprN09sby15c1dYcDB4YVVlWGwyUF96S2hxLTRmdktCYnhpNEEwc3lBdjVCVmwtRnlKQ20tUXBOQlpTMFNjZll6eDc0NDdsbWtMUjdoSUxDY2lWcTJNOEpublNrcV9CQWRVbTZxQkVUM2ZiOUlnS2JLTjdkb2JCQUNEVVA1LTg"
     },
     {
-      "title": "The market is starting to think the Federal Reserve's next move is raising interest rates - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNjloLUlWbldfb0h6ZkFHcmxOLVBVUmFOQkxHVE5VYTFOekFvR25yTDNkcTl5U0ZRWEl4ckxwQkd4bzlDWmdSalVGa25UTGp2WXF5djFmLVI2cnZaRUJBTTdTZG5MdlZ2LW1UcVBJc1M2VmltSXRYUE9teW5kWnRvME5FOTlINjRSZmV6M1pIb2htMElFdGV2YXVxbHFnNXlhQUxaeGEyTDljNHBsZUV0U0Rsb3NQb3BkWG9FczdLTlREUHZwSzF4bG41TkxFXzA?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Fri, 27 Mar 2026 07:00:00 GMT",
-      "summary": "The market is starting to think the Federal Reserve's next move is raising interest rates Yahoo Finance",
-      "guid": "CBMizwFBVV95cUxPNjloLUlWbldfb0h6ZkFHcmxOLVBVUmFOQkxHVE5VYTFOekFvR25yTDNkcTl5U0ZRWEl4ckxwQkd4bzlDWmdSalVGa25UTGp2WXF5djFmLVI2cnZaRUJBTTdTZG5MdlZ2LW1UcVBJc1M2VmltSXRYUE9teW5kWnRvME5FOTlINjRSZmV6M1pIb2htMElFdGV2YXVxbHFnNXlhQUxaeGEyTDljNHBsZUV0U0Rsb3NQb3BkWG9FczdLTlREUHZwSzF4bG41TkxFXzA"
-    },
-    {
-      "title": "We're 6 Weeks Away From a Historic Change at the Federal Reserve -- and It May Be the Tipping Point for a Pricey Stock Market - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFQ1B1R1lvLThIVmxBTDZ0RTRMd1E2RVh2REVSbkZVZzhYOEoydlpzZEd6U19IQXc5NUlvNlBOa0h1NGxSc2daR05NWHhCbGMtQXFHM3dBWjF3MWVKQlY2OTlaVk1JZ3oxMHRmSzVn?oc=5",
+      "title": "Federal Reserve Chairman Jerome Powell Just Delivered Fantastic News for Stock Market Investors - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcW5SVWs2dTV4QmhsUEhEVWZiODVhOUd3YWNzOHhiZVpzNEtuTGtWdHh5aWNPbkRWZXJfcE9ZbTFVbHU5VFBDOWZXZ3c0bllsNW1JOERhMVNOTE55c3FNVHU0NjYzMnRBSFFWRTBtWnJaakc2YjdockxJYlBBaldHVE05NmU4QQ?oc=5",
       "source": "AOL.com",
-      "published_at": "Sat, 04 Apr 2026 11:04:12 GMT",
-      "summary": "We're 6 Weeks Away From a Historic Change at the Federal Reserve -- and It May Be the Tipping Point for a Pricey Stock Market AOL.com",
-      "guid": "CBMibkFVX3lxTFBFQ1B1R1lvLThIVmxBTDZ0RTRMd1E2RVh2REVSbkZVZzhYOEoydlpzZEd6U19IQXc5NUlvNlBOa0h1NGxSc2daR05NWHhCbGMtQXFHM3dBWjF3MWVKQlY2OTlaVk1JZ3oxMHRmSzVn"
+      "published_at": "Fri, 03 Apr 2026 18:01:55 GMT",
+      "summary": "Federal Reserve Chairman Jerome Powell Just Delivered Fantastic News for Stock Market Investors AOL.com",
+      "guid": "CBMihgFBVV95cUxOcW5SVWs2dTV4QmhsUEhEVWZiODVhOUd3YWNzOHhiZVpzNEtuTGtWdHh5aWNPbkRWZXJfcE9ZbTFVbHU5VFBDOWZXZ3c0bllsNW1JOERhMVNOTE55c3FNVHU0NjYzMnRBSFFWRTBtWnJaakc2YjdockxJYlBBaldHVE05NmU4QQ"
     }
   ]
 }
