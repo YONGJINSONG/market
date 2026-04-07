@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-07T21:06:54Z",
+  "generated_at": "2026-04-07T21:55:49Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,11 +7,11 @@
   },
   "items": [
     {
-      "title": "The Federal Reserve's Nightmare Scenario Is Taking Shape and the Stock Market Should Pay Attention - 247wallst.com",
+      "title": "The Federal Reserve's Nightmare Scenario Is Taking Shape and the Stock Market Should Pay Attention - 24/7 Wall St.",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYUo0M25uWWVNa3gwQ29FRUktMWNpQ3pWYVdWT3V5MU1MRjdpZE1NYnkzTWxqS1JXcFVMa0Jjb0xjZ1hZOEJSLTZZWnQxTHpSWlNvbm0xSy1qdDVveURWczdwcGg3NDlfR29Ha25oVG5fbGJwbkdJUTZiMFlhNmctVm1oWldidnd1NWt3YVhJN1Boc2plNDJ2aFhvcGpJdEtqYmtpc1Aybm1YSU91cTR1SDc1TldJTWJpQjk5TzZZMWp2OHduS3hGeTJMbHhWNExUM0FQVmRxMDE?oc=5",
-      "source": "247wallst.com",
+      "source": "24/7 Wall St.",
       "published_at": "Tue, 07 Apr 2026 16:45:12 GMT",
-      "summary": "The Federal Reserve's Nightmare Scenario Is Taking Shape and the Stock Market Should Pay Attention 247wallst.com",
+      "summary": "The Federal Reserve's Nightmare Scenario Is Taking Shape and the Stock Market Should Pay Attention 24/7 Wall St.",
       "guid": "CBMi2AFBVV95cUxOYUo0M25uWWVNa3gwQ29FRUktMWNpQ3pWYVdWT3V5MU1MRjdpZE1NYnkzTWxqS1JXcFVMa0Jjb0xjZ1hZOEJSLTZZWnQxTHpSWlNvbm0xSy1qdDVveURWczdwcGg3NDlfR29Ha25oVG5fbGJwbkdJUTZiMFlhNmctVm1oWldidnd1NWt3YVhJN1Boc2plNDJ2aFhvcGpJdEtqYmtpc1Aybm1YSU91cTR1SDc1TldJTWJpQjk5TzZZMWp2OHduS3hGeTJMbHhWNExUM0FQVmRxMDE"
     },
     {
@@ -63,14 +63,6 @@
       "guid": "CBMilgFBVV95cUxOa0QwVGZkYnFNREt1MlFTR0NpczFwekdka2NtTXdUeUhfZ3BJd1NrWnU0aTQyYkRsWXljWGpIWnFNMDZ4QnExekUwbXhDaF9NYTFiamQ4Y1d3SkhWejZsSGR0U2QzUTB2SjI2c252cFROQ3daSjE4Qmk2clI0by1tVG01QmI5RzdrSk5rTDRaLU5GMG93SWc"
     },
     {
-      "title": "France Pulls All Gold Out of US Federal Reserve - Newsweek",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdG1MOVoteGljNlY0R2NrSDNUUVV1X3RKNU5SbHpFS1d0MVhhNHNOSDhLMTVXMEVxSGpkeXoxODdMODBOa3EzQ2F6cnNOTWZtNjJyZUZMbUEzWnp0RVBJVVk2TzlSM3hJaWZPNW1PWmJlWGNNeGR4UEUyNVVIWGdJU2ZTQWo4NW9Y?oc=5",
-      "source": "Newsweek",
-      "published_at": "Tue, 07 Apr 2026 12:28:00 GMT",
-      "summary": "France Pulls All Gold Out of US Federal Reserve Newsweek",
-      "guid": "CBMiiAFBVV95cUxPdG1MOVoteGljNlY0R2NrSDNUUVV1X3RKNU5SbHpFS1d0MVhhNHNOSDhLMTVXMEVxSGpkeXoxODdMODBOa3EzQ2F6cnNOTWZtNjJyZUZMbUEzWnp0RVBJVVk2TzlSM3hJaWZPNW1PWmJlWGNNeGR4UEUyNVVIWGdJU2ZTQWo4NW9Y"
-    },
-    {
       "title": "The Federal Reserve’s Nightmare Scenario Is Taking Shape and the Stock Market Should Pay Attention - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSHZvalBMcEo0aUNqY205Zk5UOUdwSVpxekhHSUlSN0NyWEliSFZQSHRpQW5la1hsbXJSV3pvb2JzdWljdWJIdWVPV25ZX1dmREg3RVhCQnFkNWxsc2k3YmlsMUxHV2J5YWI0eHZfSkRfVWtubDFSN3lQeGdDZ3BVc0RKcExpcE1aUk5PTUVnQUFOdHR6dWllaVpjTjBaNk8tcGpGa1o4UQ?oc=5",
       "source": "Yahoo Finance",
@@ -79,12 +71,20 @@
       "guid": "CBMipwFBVV95cUxNSHZvalBMcEo0aUNqY205Zk5UOUdwSVpxekhHSUlSN0NyWEliSFZQSHRpQW5la1hsbXJSV3pvb2JzdWljdWJIdWVPV25ZX1dmREg3RVhCQnFkNWxsc2k3YmlsMUxHV2J5YWI0eHZfSkRfVWtubDFSN3lQeGdDZ3BVc0RKcExpcE1aUk5PTUVnQUFOdHR6dWllaVpjTjBaNk8tcGpGa1o4UQ"
     },
     {
-      "title": "Tracker: The Federal Reserve’s Balance Sheet Assets - The American Action Forum",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0?oc=5",
-      "source": "The American Action Forum",
-      "published_at": "Fri, 03 Apr 2026 07:00:00 GMT",
-      "summary": "Tracker: The Federal Reserve’s Balance Sheet Assets The American Action Forum",
-      "guid": "CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0"
+      "title": "France Pulls All Gold Out of US Federal Reserve - Newsweek",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdG1MOVoteGljNlY0R2NrSDNUUVV1X3RKNU5SbHpFS1d0MVhhNHNOSDhLMTVXMEVxSGpkeXoxODdMODBOa3EzQ2F6cnNOTWZtNjJyZUZMbUEzWnp0RVBJVVk2TzlSM3hJaWZPNW1PWmJlWGNNeGR4UEUyNVVIWGdJU2ZTQWo4NW9Y?oc=5",
+      "source": "Newsweek",
+      "published_at": "Tue, 07 Apr 2026 12:28:00 GMT",
+      "summary": "France Pulls All Gold Out of US Federal Reserve Newsweek",
+      "guid": "CBMiiAFBVV95cUxPdG1MOVoteGljNlY0R2NrSDNUUVV1X3RKNU5SbHpFS1d0MVhhNHNOSDhLMTVXMEVxSGpkeXoxODdMODBOa3EzQ2F6cnNOTWZtNjJyZUZMbUEzWnp0RVBJVVk2TzlSM3hJaWZPNW1PWmJlWGNNeGR4UEUyNVVIWGdJU2ZTQWo4NW9Y"
+    },
+    {
+      "title": "Federal Reserve holds interest rates steady, signals one rate cut amid inflation uncertainty - U.S. Bank",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw?oc=5",
+      "source": "U.S. Bank",
+      "published_at": "Wed, 18 Mar 2026 07:00:00 GMT",
+      "summary": "Federal Reserve holds interest rates steady, signals one rate cut amid inflation uncertainty U.S. Bank",
+      "guid": "CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw"
     }
   ]
 }
