@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-08T16:44:17Z",
+  "generated_at": "2026-04-08T17:46:19Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,20 +7,20 @@
   },
   "items": [
     {
-      "title": "5 Things to Know Before the Stock Market Opens - Investopedia",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTzBObWJqXzU4UUxKX09oZkwxbDNzM3J5NnZNb1hNRWxQaVdCTUZOb0RHSzlkMEdhd1hfMWFSbEs0elZWanZJUUNSd3dzN1ZEVjdEbmFqMkh1MmJHSFVBbVBzMDhNVVdwU2FvODlrLW5RSDlNZVcwbGJTeHQ5V0ZmWm5yT1NkYkxkTVZZVGdhY1JnVnczYWZTVE1VclkyUQ?oc=5",
-      "source": "Investopedia",
-      "published_at": "Wed, 08 Apr 2026 11:20:19 GMT",
-      "summary": "5 Things to Know Before the Stock Market Opens Investopedia",
-      "guid": "CBMingFBVV95cUxOTzBObWJqXzU4UUxKX09oZkwxbDNzM3J5NnZNb1hNRWxQaVdCTUZOb0RHSzlkMEdhd1hfMWFSbEs0elZWanZJUUNSd3dzN1ZEVjdEbmFqMkh1MmJHSFVBbVBzMDhNVVdwU2FvODlrLW5RSDlNZVcwbGJTeHQ5V0ZmWm5yT1NkYkxkTVZZVGdhY1JnVnczYWZTVE1VclkyUQ"
-    },
-    {
       "title": "Federal Reserve Chairman Jerome Powell Just Delivered Fantastic News for Stock Market Investors - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSU5HQUpJYWhMTkV6RjUwUEpMdlBFNjFNQnI5U1lXcEVPR0hycmsxaTV6a2cwbmUzZ3JnbFFrUnJGNXpUcy1HdFZqRm1xRDd0QTE2SFFsUkozbWF0WUFERjFmcE9tM2hKTFBuc1FoZ3pxX3ItQXU2YTVuQlNjRWh0Zlc0a1lLZGw3ckw1WjVSOTRZLUNPMFBJaG51dzhDd1JWRkE?oc=5",
       "source": "Yahoo Finance",
       "published_at": "Fri, 03 Apr 2026 17:35:00 GMT",
       "summary": "Federal Reserve Chairman Jerome Powell Just Delivered Fantastic News for Stock Market Investors Yahoo Finance",
       "guid": "CBMiogFBVV95cUxPSU5HQUpJYWhMTkV6RjUwUEpMdlBFNjFNQnI5U1lXcEVPR0hycmsxaTV6a2cwbmUzZ3JnbFFrUnJGNXpUcy1HdFZqRm1xRDd0QTE2SFFsUkozbWF0WUFERjFmcE9tM2hKTFBuc1FoZ3pxX3ItQXU2YTVuQlNjRWh0Zlc0a1lLZGw3ckw1WjVSOTRZLUNPMFBJaG51dzhDd1JWRkE"
+    },
+    {
+      "title": "5 Things to Know Before the Stock Market Opens - Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTzBObWJqXzU4UUxKX09oZkwxbDNzM3J5NnZNb1hNRWxQaVdCTUZOb0RHSzlkMEdhd1hfMWFSbEs0elZWanZJUUNSd3dzN1ZEVjdEbmFqMkh1MmJHSFVBbVBzMDhNVVdwU2FvODlrLW5RSDlNZVcwbGJTeHQ5V0ZmWm5yT1NkYkxkTVZZVGdhY1JnVnczYWZTVE1VclkyUQ?oc=5",
+      "source": "Investopedia",
+      "published_at": "Wed, 08 Apr 2026 11:20:19 GMT",
+      "summary": "5 Things to Know Before the Stock Market Opens Investopedia",
+      "guid": "CBMingFBVV95cUxOTzBObWJqXzU4UUxKX09oZkwxbDNzM3J5NnZNb1hNRWxQaVdCTUZOb0RHSzlkMEdhd1hfMWFSbEs0elZWanZJUUNSd3dzN1ZEVjdEbmFqMkh1MmJHSFVBbVBzMDhNVVdwU2FvODlrLW5RSDlNZVcwbGJTeHQ5V0ZmWm5yT1NkYkxkTVZZVGdhY1JnVnczYWZTVE1VclkyUQ"
     },
     {
       "title": "The Federal Reserve's Nightmare Scenario Is Taking Shape and the Stock Market Should Pay Attention - 24/7 Wall St.",
@@ -31,28 +31,12 @@
       "guid": "CBMi2AFBVV95cUxOYUo0M25uWWVNa3gwQ29FRUktMWNpQ3pWYVdWT3V5MU1MRjdpZE1NYnkzTWxqS1JXcFVMa0Jjb0xjZ1hZOEJSLTZZWnQxTHpSWlNvbm0xSy1qdDVveURWczdwcGg3NDlfR29Ha25oVG5fbGJwbkdJUTZiMFlhNmctVm1oWldidnd1NWt3YVhJN1Boc2plNDJ2aFhvcGpJdEtqYmtpc1Aybm1YSU91cTR1SDc1TldJTWJpQjk5TzZZMWp2OHduS3hGeTJMbHhWNExUM0FQVmRxMDE"
     },
     {
-      "title": "Why are US stock market futures up today, and will Dow Jones, S&P 500 and Nasdaq climb new milestones to m - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxQWEkwZ0FTV3ptbll5ZV9Selg2N0xKdGdOWUR6M0Y0WWQxYTZ5UHhmWXZwS3VCNFpxM0lPMGRub1NsMXZNc09ydllFQ3YwVzFTMEJycGU2cm5SVW1jR09faGlWSG5TbUNkNWxYZGFmN0hQTFBrdWN6ek53d3pZX1JEVjJHSWlKT2ptQXBSUkdNVjBQZV9ERGJCOEZNcjVCc1RIZXREQnFTRWp0OGJPX0xCcFhOOE9PN3VUSzBzdDk3XzFzakhKdk9uTVg1OFRUUlltUkpkX0w3cDJPYUg1dWttUXZuMHFZN1Y0ODNJU2UtX2l0MGp4eFI5Y3R1b3ZjSElfRzhNanIxWWpHcEg1NVdZaWNjNW54X1BxcFRyd1BEVVZPQ2JlOGExMm42eVRHZVNnWU1HeHZZNWVTaVRUaEd0SXU0TXg1T29LLXRPOGtjd3ZBai1sT05waXFjWUk3TXluSjFKUW5JUmxnZDNKV0VsWldTMkpTTWk1NktDQ19xS2FHV1BxektVdFhWbE0zeDhtOHJrVzhFclBISVh3ckhTV3FJZW5fMXhoTF9V0gGwA0FVX3lxTFBrRGdOcE1QUW01UGJKb0NFRTF4RVFXT3MzdzB6RnQ5MkhTWG1oc2lSNXRKM19qSEVURTQwVC00LXJVVHR5QkVSWWZNZmtvS3E0a0ZURDRIZnFpTEwzMnM4YWNIVk9oeXhVQlJFTlFJRk5YVVpsd2Zsb21DZUpyOXRTY21pZjVFNVVnUnExQkxuVDQ0ZFBKdVhCdnZvaHVLaWU2YUcwYmIxdzR2SGt6T0trT1ZPTzZCR0R3c1ZiaUNDaWdFRmh2V2Z0UkhrRG1Kc2JzS1hwUlp1T1pDUi05eU1Fcmt2aUNXc29EVHFERzN2c3pQUl9MU2c4ZVFMM0QyVEdQRXNTVlVYOF9PR1p6bVVyUm9rcWFkTnVkNXVBMWdPVDcxQnhSbGF4WVY5YmJtSWVkOTg3QnVnYkhpNWdrQmc0UlNCU0tFRldOUnRKc1FUSzdQaWpNcXNpbks0WGF0UkRBcXljZjdkdGszR0QydzlQX0ZDX1FYRFY5TjZzNGl1NWVqU0hIZ0MySS1HTE5lMWszeUQ4X01mQ3JfOTl0X1VOeVBlR0x5Wnk5dmZiSVlGeg?oc=5",
-      "source": "The Economic Times",
-      "published_at": "Wed, 08 Apr 2026 11:13:23 GMT",
-      "summary": "Why are US stock market futures up today, and will Dow Jones, S&P 500 and Nasdaq climb new milestones to m The Economic Times",
-      "guid": "CBMiqwNBVV95cUxQWEkwZ0FTV3ptbll5ZV9Selg2N0xKdGdOWUR6M0Y0WWQxYTZ5UHhmWXZwS3VCNFpxM0lPMGRub1NsMXZNc09ydllFQ3YwVzFTMEJycGU2cm5SVW1jR09faGlWSG5TbUNkNWxYZGFmN0hQTFBrdWN6ek53d3pZX1JEVjJHSWlKT2ptQXBSUkdNVjBQZV9ERGJCOEZNcjVCc1RIZXREQnFTRWp0OGJPX0xCcFhOOE9PN3VUSzBzdDk3XzFzakhKdk9uTVg1OFRUUlltUkpkX0w3cDJPYUg1dWttUXZuMHFZN1Y0ODNJU2UtX2l0MGp4eFI5Y3R1b3ZjSElfRzhNanIxWWpHcEg1NVdZaWNjNW54X1BxcFRyd1BEVVZPQ2JlOGExMm42eVRHZVNnWU1HeHZZNWVTaVRUaEd0SXU0TXg1T29LLXRPOGtjd3ZBai1sT05waXFjWUk3TXluSjFKUW5JUmxnZDNKV0VsWldTMkpTTWk1NktDQ19xS2FHV1BxektVdFhWbE0zeDhtOHJrVzhFclBISVh3ckhTV3FJZW5fMXhoTF9V0gGwA0FVX3lxTFBrRGdOcE1QUW01UGJKb0NFRTF4RVFXT3MzdzB6RnQ5MkhTWG1oc2lSNXRKM19qSEVURTQwVC00LXJVVHR5QkVSWWZNZmtvS3E0a0ZURDRIZnFpTEwzMnM4YWNIVk9oeXhVQlJFTlFJRk5YVVpsd2Zsb21DZUpyOXRTY21pZjVFNVVnUnExQkxuVDQ0ZFBKdVhCdnZvaHVLaWU2YUcwYmIxdzR2SGt6T0trT1ZPTzZCR0R3c1ZiaUNDaWdFRmh2V2Z0UkhrRG1Kc2JzS1hwUlp1T1pDUi05eU1Fcmt2aUNXc29EVHFERzN2c3pQUl9MU2c4ZVFMM0QyVEdQRXNTVlVYOF9PR1p6bVVyUm9rcWFkTnVkNXVBMWdPVDcxQnhSbGF4WVY5YmJtSWVkOTg3QnVnYkhpNWdrQmc0UlNCU0tFRldOUnRKc1FUSzdQaWpNcXNpbks0WGF0UkRBcXljZjdkdGszR0QydzlQX0ZDX1FYRFY5TjZzNGl1NWVqU0hIZ0MySS1HTE5lMWszeUQ4X01mQ3JfOTl0X1VOeVBlR0x5Wnk5dmZiSVlGeg"
-    },
-    {
       "title": "Jim Cramer says potential stock market bottom is tied to interest rates, not war headlines - CNBC",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWVJNWWY0UDdTczc2OXI4Z1EzbU1taEl1RmR2X1hQWXg2UVEybTBtTHNDVnBHSnVJcERHNkkxLXJlMWlaZ1JXWktyb0c1bGNON2gxaVh0eG1NUE55ZUEtcUJMeHI1Vl9yVjVqVkt1TlZLemE2clZoQTk5aFE5UHN3Uzg3NERzUmZVR01EV0c4TdIBlAFBVV95cUxOQ0tGNnhnelQzN2FDYi11NGgzTVo4VzA0djJqczRBeVI2RHExejk5NlhFMkwwNnJfajZIVnhHRDJMWml6NUJTS0NZLUptWDU1Y0ZXenZLUDFjMlZZaS1fSjFTTE51cnY0VVpuZFFCbkY3T09aUGFQRUZxdDJadWsxVXZjNnVQVmFnS3RQbndNdDBfbDB2?oc=5",
       "source": "CNBC",
       "published_at": "Mon, 06 Apr 2026 22:25:46 GMT",
       "summary": "Jim Cramer says potential stock market bottom is tied to interest rates, not war headlines CNBC",
       "guid": "CBMijwFBVV95cUxQWVJNWWY0UDdTczc2OXI4Z1EzbU1taEl1RmR2X1hQWXg2UVEybTBtTHNDVnBHSnVJcERHNkkxLXJlMWlaZ1JXWktyb0c1bGNON2gxaVh0eG1NUE55ZUEtcUJMeHI1Vl9yVjVqVkt1TlZLemE2clZoQTk5aFE5UHN3Uzg3NERzUmZVR01EV0c4TdIBlAFBVV95cUxOQ0tGNnhnelQzN2FDYi11NGgzTVo4VzA0djJqczRBeVI2RHExejk5NlhFMkwwNnJfajZIVnhHRDJMWml6NUJTS0NZLUptWDU1Y0ZXenZLUDFjMlZZaS1fSjFTTE51cnY0VVpuZFFCbkY3T09aUGFQRUZxdDJadWsxVXZjNnVQVmFnS3RQbndNdDBfbDB2"
-    },
-    {
-      "title": "An alchemy of assets: Understanding the Federal Reserve’s balance sheet - britannica.com",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE92Y05QTFlqQ0tQTlptdVpHSTdfY3d2Rm1TVU1jXzc4OFBqMnd0VHZ2THN1OHNHM1pXNUZfWWdBXzYtZUZqck9OQmhONGxqSFRKczlsMXBUNkFhbFVTUHZwU0I4T29HVVBfN2Zlbi12R1lGX0NCV1Q0RTQ4Skg?oc=5",
-      "source": "britannica.com",
-      "published_at": "Mon, 06 Apr 2026 22:44:00 GMT",
-      "summary": "An alchemy of assets: Understanding the Federal Reserve’s balance sheet britannica.com",
-      "guid": "CBMifEFVX3lxTE92Y05QTFlqQ0tQTlptdVpHSTdfY3d2Rm1TVU1jXzc4OFBqMnd0VHZ2THN1OHNHM1pXNUZfWWdBXzYtZUZqck9OQmhONGxqSFRKczlsMXBUNkFhbFVTUHZwU0I4T29HVVBfN2Zlbi12R1lGX0NCV1Q0RTQ4Skg"
     },
     {
       "title": "5 Stocks to Sell Before Inflation Spikes - Morningstar",
@@ -63,12 +47,12 @@
       "guid": "CBMif0FVX3lxTE5HMDNxWTZDd0ZnWktoQVduRjFfNEFJVGxQTjhmdGhDWmFpM210VEdxSjY3ckZ4S2c0TmlvM19qUnJaekI5bmZpUHJBanBsWXlXM0pTdUJNdkdfMXNLQ25LNkZDd2UyZ2ttT2ZZU0pIQWhMMllaSTVHNFVpRTI2ekE"
     },
     {
-      "title": "U.S. stocks sink on worries about inflation as gold falls below $5,000 per ounce - PBS",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVkpFejFBYTJZMmQ5WmRIRWpQQnppb0RSeVNIcnZoR3RONDR0elNJMkJ1SVMxcjJiMHFTUGFzeUxGRW5wS2FibDRRSXpGNkVkWTZRZDk3NFpRTW4zNDZMcnVfSDJaUGZOMUY3U1hvNjhyU0Z3cjAzM0RLcmRLaFZ3bnR5Y2NYR2VRZnA3dWliWlpIUXFqOFVEVjB1c2lRcTF4dlZyT1hNaFhNem5Xcnl6WUpCMWLSAboBQVVfeXFMTnQ2c0tkZElTb1RUR1lQRl9NRlBwT2dkZWp2V0ZHaHJQelRhN0dxT0ZleWhvbkotWUlvalQ0WV93aHBEQ3RxcUowbU9IMnYwV0d6d0I0MzQtQ2JvRnFTbDVWdmJFVEJ4X25aU0JPYVlJcy1FMk04SVBTc3BmRExiVHBDYkloeDFGd2NHVHFlUTFJQWVESE40bEtyanI4WG1POUViOE5iS1RQZlNEaW1wSm1CWk0tdXpzbVVB?oc=5",
-      "source": "PBS",
+      "title": "Federal Reserve holds interest rates steady, signals one rate cut amid inflation uncertainty - U.S. Bank",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw?oc=5",
+      "source": "U.S. Bank",
       "published_at": "Wed, 18 Mar 2026 07:00:00 GMT",
-      "summary": "U.S. stocks sink on worries about inflation as gold falls below $5,000 per ounce PBS",
-      "guid": "CBMitAFBVV95cUxNVkpFejFBYTJZMmQ5WmRIRWpQQnppb0RSeVNIcnZoR3RONDR0elNJMkJ1SVMxcjJiMHFTUGFzeUxGRW5wS2FibDRRSXpGNkVkWTZRZDk3NFpRTW4zNDZMcnVfSDJaUGZOMUY3U1hvNjhyU0Z3cjAzM0RLcmRLaFZ3bnR5Y2NYR2VRZnA3dWliWlpIUXFqOFVEVjB1c2lRcTF4dlZyT1hNaFhNem5Xcnl6WUpCMWLSAboBQVVfeXFMTnQ2c0tkZElTb1RUR1lQRl9NRlBwT2dkZWp2V0ZHaHJQelRhN0dxT0ZleWhvbkotWUlvalQ0WV93aHBEQ3RxcUowbU9IMnYwV0d6d0I0MzQtQ2JvRnFTbDVWdmJFVEJ4X25aU0JPYVlJcy1FMk04SVBTc3BmRExiVHBDYkloeDFGd2NHVHFlUTFJQWVESE40bEtyanI4WG1POUViOE5iS1RQZlNEaW1wSm1CWk0tdXpzbVVB"
+      "summary": "Federal Reserve holds interest rates steady, signals one rate cut amid inflation uncertainty U.S. Bank",
+      "guid": "CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw"
     },
     {
       "title": "Fed's Goolsbee nothing in Federal Reserve act says make the stock/Pres. happy - investingLive",
@@ -85,6 +69,22 @@
       "published_at": "Tue, 07 Apr 2026 16:25:29 GMT",
       "summary": "Why Is Inflation So Stubbornly High? Blame The Stock Market Investopedia",
       "guid": "CBMinAFBVV95cUxPRHdGdmlWSm5XYmNIODBBdXhhbDVTekM5cEtlbmh4ajAxa3dZZGhGRXdFRGItcUpudUFUUmx2MmJfOEJEYjJGUGUxeUhFM255UkNsaGVpYTRTNmxwSnBQanV1S2JTYk5xT1dMaEs5NXJoRHc5RUNXM3dPSHQ1ZThXOWNZNG1Wb0VhNzlOQ1RyWXNWQlV1SDlLREZ3QmI"
+    },
+    {
+      "title": "The Federal Reserve's March and April Inflation Forecast Is In -- and Things Just Keep Getting Uglier for Wall Street - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUFpja3dIaS0yR3QzbjdIeTFFYUVuVnFISXlxdUEwRjhVX2hELU1iOFZaUTE5SFg1eWprd2htUTUwcWdNMlNIQ2VnRmhCWHpLN01rdG5xSklralNTZUFtSzdOYVh3WFhuTk4tQVcwZk9vSjhfNm9YOE01a3pUeUkxVTFEWHlVNkJ3OEE?oc=5",
+      "source": "AOL.com",
+      "published_at": "Mon, 06 Apr 2026 09:26:00 GMT",
+      "summary": "The Federal Reserve's March and April Inflation Forecast Is In -- and Things Just Keep Getting Uglier for Wall Street AOL.com",
+      "guid": "CBMiigFBVV95cUxPUFpja3dIaS0yR3QzbjdIeTFFYUVuVnFISXlxdUEwRjhVX2hELU1iOFZaUTE5SFg1eWprd2htUTUwcWdNMlNIQ2VnRmhCWHpLN01rdG5xSklralNTZUFtSzdOYVh3WFhuTk4tQVcwZk9vSjhfNm9YOE01a3pUeUkxVTFEWHlVNkJ3OEE"
+    },
+    {
+      "title": "The Federal Reserve’s Nightmare Scenario Is Taking Shape and the Stock Market Should Pay Attention - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSHZvalBMcEo0aUNqY205Zk5UOUdwSVpxekhHSUlSN0NyWEliSFZQSHRpQW5la1hsbXJSV3pvb2JzdWljdWJIdWVPV25ZX1dmREg3RVhCQnFkNWxsc2k3YmlsMUxHV2J5YWI0eHZfSkRfVWtubDFSN3lQeGdDZ3BVc0RKcExpcE1aUk5PTUVnQUFOdHR6dWllaVpjTjBaNk8tcGpGa1o4UQ?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Tue, 07 Apr 2026 16:45:12 GMT",
+      "summary": "The Federal Reserve’s Nightmare Scenario Is Taking Shape and the Stock Market Should Pay Attention Yahoo Finance",
+      "guid": "CBMipwFBVV95cUxNSHZvalBMcEo0aUNqY205Zk5UOUdwSVpxekhHSUlSN0NyWEliSFZQSHRpQW5la1hsbXJSV3pvb2JzdWljdWJIdWVPV25ZX1dmREg3RVhCQnFkNWxsc2k3YmlsMUxHV2J5YWI0eHZfSkRfVWtubDFSN3lQeGdDZ3BVc0RKcExpcE1aUk5PTUVnQUFOdHR6dWllaVpjTjBaNk8tcGpGa1o4UQ"
     }
   ]
 }
