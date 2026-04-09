@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-09T01:07:51Z",
+  "generated_at": "2026-04-09T04:03:18Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -23,14 +23,6 @@
       "guid": "CBMingFBVV95cUxOTzBObWJqXzU4UUxKX09oZkwxbDNzM3J5NnZNb1hNRWxQaVdCTUZOb0RHSzlkMEdhd1hfMWFSbEs0elZWanZJUUNSd3dzN1ZEVjdEbmFqMkh1MmJHSFVBbVBzMDhNVVdwU2FvODlrLW5RSDlNZVcwbGJTeHQ5V0ZmWm5yT1NkYkxkTVZZVGdhY1JnVnczYWZTVE1VclkyUQ"
     },
     {
-      "title": "OpenAI will reserve portion of IPO shares for retail investors, CFO tells CNBC By Reuters - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONzhmTUJoS05ZYXI3R3RDUGRFV0ZNTEk1SXRwTkcxa1pSQjFuWk9ValFIeDZ0cjlZMmhhZnlaMW50YkRTaW5Jam9Yc3JEU0JkZFFlNG5EUGhBdzNkT2xKTzV4NjB0U0lCNTVPUkpLZ0Jnd2xCclVKNnJGcFNCOUM3WC0wazVCa0VxT0tTU1JOR0NtODJFd0dmR1ZwUGgwOG5HWUdpZVI3OWUtcnM0QXlCWVZnSWp1TlpHRzI2dlNqUHJSaGJFOXBWbGVkaWd4RjA?oc=5",
-      "source": "Investing.com",
-      "published_at": "Wed, 08 Apr 2026 22:14:06 GMT",
-      "summary": "OpenAI will reserve portion of IPO shares for retail investors, CFO tells CNBC By Reuters Investing.com",
-      "guid": "CBMizwFBVV95cUxONzhmTUJoS05ZYXI3R3RDUGRFV0ZNTEk1SXRwTkcxa1pSQjFuWk9ValFIeDZ0cjlZMmhhZnlaMW50YkRTaW5Jam9Yc3JEU0JkZFFlNG5EUGhBdzNkT2xKTzV4NjB0U0lCNTVPUkpLZ0Jnd2xCclVKNnJGcFNCOUM3WC0wazVCa0VxT0tTU1JOR0NtODJFd0dmR1ZwUGgwOG5HWUdpZVI3OWUtcnM0QXlCWVZnSWp1TlpHRzI2dlNqUHJSaGJFOXBWbGVkaWd4RjA"
-    },
-    {
       "title": "The Federal Reserve's Nightmare Scenario Is Taking Shape and the Stock Market Should Pay Attention - 24/7 Wall St.",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYUo0M25uWWVNa3gwQ29FRUktMWNpQ3pWYVdWT3V5MU1MRjdpZE1NYnkzTWxqS1JXcFVMa0Jjb0xjZ1hZOEJSLTZZWnQxTHpSWlNvbm0xSy1qdDVveURWczdwcGg3NDlfR29Ha25oVG5fbGJwbkdJUTZiMFlhNmctVm1oWldidnd1NWt3YVhJN1Boc2plNDJ2aFhvcGpJdEtqYmtpc1Aybm1YSU91cTR1SDc1TldJTWJpQjk5TzZZMWp2OHduS3hGeTJMbHhWNExUM0FQVmRxMDE?oc=5",
       "source": "24/7 Wall St.",
@@ -45,6 +37,14 @@
       "published_at": "Mon, 06 Apr 2026 22:25:46 GMT",
       "summary": "Jim Cramer says potential stock market bottom is tied to interest rates, not war headlines CNBC",
       "guid": "CBMijwFBVV95cUxQWVJNWWY0UDdTczc2OXI4Z1EzbU1taEl1RmR2X1hQWXg2UVEybTBtTHNDVnBHSnVJcERHNkkxLXJlMWlaZ1JXWktyb0c1bGNON2gxaVh0eG1NUE55ZUEtcUJMeHI1Vl9yVjVqVkt1TlZLemE2clZoQTk5aFE5UHN3Uzg3NERzUmZVR01EV0c4TdIBlAFBVV95cUxOQ0tGNnhnelQzN2FDYi11NGgzTVo4VzA0djJqczRBeVI2RHExejk5NlhFMkwwNnJfajZIVnhHRDJMWml6NUJTS0NZLUptWDU1Y0ZXenZLUDFjMlZZaS1fSjFTTE51cnY0VVpuZFFCbkY3T09aUGFQRUZxdDJadWsxVXZjNnVQVmFnS3RQbndNdDBfbDB2"
+    },
+    {
+      "title": "OpenAI will reserve portion of IPO shares for retail investors, CFO tells CNBC By Reuters - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONzhmTUJoS05ZYXI3R3RDUGRFV0ZNTEk1SXRwTkcxa1pSQjFuWk9ValFIeDZ0cjlZMmhhZnlaMW50YkRTaW5Jam9Yc3JEU0JkZFFlNG5EUGhBdzNkT2xKTzV4NjB0U0lCNTVPUkpLZ0Jnd2xCclVKNnJGcFNCOUM3WC0wazVCa0VxT0tTU1JOR0NtODJFd0dmR1ZwUGgwOG5HWUdpZVI3OWUtcnM0QXlCWVZnSWp1TlpHRzI2dlNqUHJSaGJFOXBWbGVkaWd4RjA?oc=5",
+      "source": "Investing.com",
+      "published_at": "Wed, 08 Apr 2026 22:14:06 GMT",
+      "summary": "OpenAI will reserve portion of IPO shares for retail investors, CFO tells CNBC By Reuters Investing.com",
+      "guid": "CBMizwFBVV95cUxONzhmTUJoS05ZYXI3R3RDUGRFV0ZNTEk1SXRwTkcxa1pSQjFuWk9ValFIeDZ0cjlZMmhhZnlaMW50YkRTaW5Jam9Yc3JEU0JkZFFlNG5EUGhBdzNkT2xKTzV4NjB0U0lCNTVPUkpLZ0Jnd2xCclVKNnJGcFNCOUM3WC0wazVCa0VxT0tTU1JOR0NtODJFd0dmR1ZwUGgwOG5HWUdpZVI3OWUtcnM0QXlCWVZnSWp1TlpHRzI2dlNqUHJSaGJFOXBWbGVkaWd4RjA"
     },
     {
       "title": "5 Stocks to Sell Before Inflation Spikes - Morningstar",
