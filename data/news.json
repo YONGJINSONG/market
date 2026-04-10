@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-04-10T11:14:52Z",
+  "generated_at": "2026-04-10T12:00:01Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "Inflation Recently Did Something It Hasn't Done Since April 2021, and It Could Spell Trouble for the Stock Market - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWEwybnNmdGxxWU5SbWdDT0VibjNPcmdaWDVwNmszU1hYS0tCYWVZd0xZaTFLT3NHc1V5ZkVoaFZYOVQxcGZJcFQzQ1diVndKT3REcXF0T1VJVVVsX0UxTDRtei1DS0Y1bWNzTnl4Zy1NNGpCMmpxNkUwRkNjRk8xRlNnYncyLW9rakZ4SEozX0NncVVpMllrSQ?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Fri, 10 Apr 2026 11:03:49 GMT",
+      "summary": "Inflation Recently Did Something It Hasn't Done Since April 2021, and It Could Spell Trouble for the Stock Market The Motley Fool",
+      "guid": "CBMimAFBVV95cUxPWEwybnNmdGxxWU5SbWdDT0VibjNPcmdaWDVwNmszU1hYS0tCYWVZd0xZaTFLT3NHc1V5ZkVoaFZYOVQxcGZJcFQzQ1diVndKT3REcXF0T1VJVVVsX0UxTDRtei1DS0Y1bWNzTnl4Zy1NNGpCMmpxNkUwRkNjRk8xRlNnYncyLW9rakZ4SEozX0NncVVpMllrSQ"
+    },
     {
       "title": "Federal Reserve Chairman Jerome Powell Just Delivered Fantastic News for Stock Market Investors - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSU5HQUpJYWhMTkV6RjUwUEpMdlBFNjFNQnI5U1lXcEVPR0hycmsxaTV6a2cwbmUzZ3JnbFFrUnJGNXpUcy1HdFZqRm1xRDd0QTE2SFFsUkozbWF0WUFERjFmcE9tM2hKTFBuc1FoZ3pxX3ItQXU2YTVuQlNjRWh0Zlc0a1lLZGw3ckw1WjVSOTRZLUNPMFBJaG51dzhDd1JWRkE?oc=5",
@@ -37,14 +45,6 @@
       "published_at": "Fri, 10 Apr 2026 04:32:46 GMT",
       "summary": "US Stock Market: Fed transition in focus as Warsh nears top job amid legal uncertainty The Economic Times",
       "guid": "CBMi9AFBVV95cUxPR2RtSFFXYmc5UVJBY2lWOG4tU0IzbkUyY1pWaldid1dmY2FPLS1VbzNNMU9vTmU5QmZYalBBZzduYnBjN0pfSFBoVThLZ2otOTN5cG1ndVhuWUZRcUZrY2xNdXJUVGpKRHMwVmlSVUN5RnRqTmZZLV9pUm1tcFlQd0YycjlvR192UlNiMVBRa1pZakxLd1JfUXViVHFob3c1bS1DNFJ2RjNZRV9tRHNxaVZpN0FDN0FtRFZIMmhCSXl0VTNhclFMR0F6U3oyYTFzVjIxRVBCdzQzeEJJTDZpbHZJekxfdjUxc0luTnc2QldnTVNn0gH6AUFVX3lxTE1COXZWM0o2VzBZZG5aSGlMWkk0MXpWWG5Wa2hUa29TM19pRUw0aWhSaWNuT1Ixa1lwRXY0cE44M2tmU1R6Q0YybmZHQXlUUG5WWXhaVGxVTXhUZC1wNUgxSEg0WWZJT0VuNVRfUnVlNjRqa3N2a1JXaVlLckVidGFjMzI2U1hLNUJpSjBFdm5kbzV1UUhWVzlFRDJPQS1LeDNBQ0lhVjB4VVIzeHNuVVNXNkw4Rm11ZFl5OFEyU3F0enFzYmYxNUFOdl9vY203RmQ4Q21paFNYYmxfQkYydG1TT043ZkxEZ0pSUk5xY1pOM2lkX3ZtaUUzeWc"
-    },
-    {
-      "title": "Slowing growth and sticky inflation: Is it time to reduce US equity exposure? - Mint",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdGtiNUlVZGNSZklnTzFaeEk5Sk1MMEl2Z095b01iRDVlanV5ZTREYkdyMm5kT2M4WGpFUW45aFljc3J4VDBGcE4xcmdTMkRIZkZ5YkZ6UF9YVUF5Yk5ZUi1hUFpiREppenFubVA0eGlHOHBxdW5OTTZIZXdNSFdvcVl1RTBUVl8yRzVxbm1wUUhmNUpJTEFmeVJ2Z3ZXa1lwT1VCS0pzMGZuTDRXUnoyRzZQTkVIZmhRWUdoUUFveUtBM0RqWFpIMUt2UVhEd3I5UnR3cjRzdVF0MlkzR1HSAeMBQVVfeXFMT3h2QjZQT2F0cXVGY043S05HNmQwbTFSWXIxdUlnQU9PWjFLdXVPZnN0VHd6Z0VhTkRReVlvMm1YbU8wazFmS3lCRmRNZVVyRzBCLTF2Z2xIX29JR3FSeHBObTlGMW5EeTZBVm5hdTVTQjNiSVpDd1F4TU1yWkoxeGcxUV9NQ0FnUEpEazluQU40anJyekpldWZMd04xQW0wMEkzX3dJdzZHTUJBcHIxa3ZsU0FuWFhSVlBkQXA3VVdXWFYzOWtiZkRnRmpnSzI1SXJGd0ttOVdqRU1mdEJCV1l6TW8?oc=5",
-      "source": "Mint",
-      "published_at": "Fri, 10 Apr 2026 09:05:00 GMT",
-      "summary": "Slowing growth and sticky inflation: Is it time to reduce US equity exposure? Mint",
-      "guid": "CBMi3gFBVV95cUxQdGtiNUlVZGNSZklnTzFaeEk5Sk1MMEl2Z095b01iRDVlanV5ZTREYkdyMm5kT2M4WGpFUW45aFljc3J4VDBGcE4xcmdTMkRIZkZ5YkZ6UF9YVUF5Yk5ZUi1hUFpiREppenFubVA0eGlHOHBxdW5OTTZIZXdNSFdvcVl1RTBUVl8yRzVxbm1wUUhmNUpJTEFmeVJ2Z3ZXa1lwT1VCS0pzMGZuTDRXUnoyRzZQTkVIZmhRWUdoUUFveUtBM0RqWFpIMUt2UVhEd3I5UnR3cjRzdVF0MlkzR1HSAeMBQVVfeXFMT3h2QjZQT2F0cXVGY043S05HNmQwbTFSWXIxdUlnQU9PWjFLdXVPZnN0VHd6Z0VhTkRReVlvMm1YbU8wazFmS3lCRmRNZVVyRzBCLTF2Z2xIX29JR3FSeHBObTlGMW5EeTZBVm5hdTVTQjNiSVpDd1F4TU1yWkoxeGcxUV9NQ0FnUEpEazluQU40anJyekpldWZMd04xQW0wMEkzX3dJdzZHTUJBcHIxa3ZsU0FuWFhSVlBkQXA3VVdXWFYzOWtiZkRnRmpnSzI1SXJGd0ttOVdqRU1mdEJCV1l6TW8"
     },
     {
       "title": "Stocks Brace for Huge Move as Inflation Report Looms - National Today",
