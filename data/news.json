@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-10T12:00:01Z",
+  "generated_at": "2026-04-10T13:16:27Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -55,14 +55,6 @@
       "guid": "CBMisAFBVV95cUxQTmIwV3cwQndjVU9BSy1pSmNxY2Jma18teWF5ZTFQSU1tSVVwMHRvMllQVVpXZzhPQVZOSC13VXlXOGF5bHRrbC1tbWpPdkEwSEpMRzNtRFNxdlpZUzhJSkJ1M3BaNE16QUNjaEFMemlvZWFYWUN5MXkzNkhBdU4xX2stOWpQQ1JMSUVJT3VYMEUxMm41WkR4anFpZnZ3VlEzOHUyQWNZZ0JxcW9BN2tSNQ"
     },
     {
-      "title": "Opinion | Countless Americans face a scary retirement. This rule could change that. - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOU25uUVB3M0ZDNlhmc080blVSR2lHNy16N28tdjlrR1ZodDFWRVpXTnVmM2ZrTnJuekFXNVY2LWhwa0h6cFlmaUl0b1NudTBWTlljME9DM05jVXlkVEM1Q3FhbUpZYXRzNllNbnhZemVDYXF1UkZUZTBmeHRYOXptTWpETDFYNHdIWGZqYTJHRFpOZkdQaGNvUDZ0OA?oc=5",
-      "source": "The Washington Post",
-      "published_at": "Thu, 09 Apr 2026 17:00:14 GMT",
-      "summary": "Opinion | Countless Americans face a scary retirement. This rule could change that. The Washington Post",
-      "guid": "CBMimwFBVV95cUxOU25uUVB3M0ZDNlhmc080blVSR2lHNy16N28tdjlrR1ZodDFWRVpXTnVmM2ZrTnJuekFXNVY2LWhwa0h6cFlmaUl0b1NudTBWTlljME9DM05jVXlkVEM1Q3FhbUpZYXRzNllNbnhZemVDYXF1UkZUZTBmeHRYOXptTWpETDFYNHdIWGZqYTJHRFpOZkdQaGNvUDZ0OA"
-    },
-    {
       "title": "Federal Reserve holds interest rates steady, signals one rate cut amid inflation uncertainty - U.S. Bank",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw?oc=5",
       "source": "U.S. Bank",
@@ -71,20 +63,28 @@
       "guid": "CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw"
     },
     {
+      "title": "Opinion | Countless Americans face a scary retirement. This rule could change that. - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOU25uUVB3M0ZDNlhmc080blVSR2lHNy16N28tdjlrR1ZodDFWRVpXTnVmM2ZrTnJuekFXNVY2LWhwa0h6cFlmaUl0b1NudTBWTlljME9DM05jVXlkVEM1Q3FhbUpZYXRzNllNbnhZemVDYXF1UkZUZTBmeHRYOXptTWpETDFYNHdIWGZqYTJHRFpOZkdQaGNvUDZ0OA?oc=5",
+      "source": "The Washington Post",
+      "published_at": "Thu, 09 Apr 2026 17:00:14 GMT",
+      "summary": "Opinion | Countless Americans face a scary retirement. This rule could change that. The Washington Post",
+      "guid": "CBMimwFBVV95cUxOU25uUVB3M0ZDNlhmc080blVSR2lHNy16N28tdjlrR1ZodDFWRVpXTnVmM2ZrTnJuekFXNVY2LWhwa0h6cFlmaUl0b1NudTBWTlljME9DM05jVXlkVEM1Q3FhbUpZYXRzNllNbnhZemVDYXF1UkZUZTBmeHRYOXptTWpETDFYNHdIWGZqYTJHRFpOZkdQaGNvUDZ0OA"
+    },
+    {
+      "title": "US banks could release $320 billion in capital with new draft rules, analysts say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNFpQM0xxWDZGb1dMbWsyZ0NoSVJqQ3hkS1dWMGR6dHN4dHVSR1QwZkRKN3BpSnZqT1pJQllzWFMwQnB2NVNUOUZhczQtdkZhR01EUjVnMlg3S21GemJhanNUYndlb01PWXBIWFNhaHN3a2h0RFZ1NUwwczhKNS16YWZpTTJzVUQ2V1ZSMTlWVm51eDY5RjRUcTZ3ZEwwT1NhYjR4NVVCRWlmd0dCcnU4clotZmFPeWx5dEh2WXkxOVhPYi1hc0twR1JlMk8tejBncG5NUFpNcnNXWUFvNzVMTWd3S1U4ZGc?oc=5",
+      "source": "Reuters",
+      "published_at": "Wed, 08 Apr 2026 19:19:45 GMT",
+      "summary": "US banks could release $320 billion in capital with new draft rules, analysts say Reuters",
+      "guid": "CBMi5wFBVV95cUxPNFpQM0xxWDZGb1dMbWsyZ0NoSVJqQ3hkS1dWMGR6dHN4dHVSR1QwZkRKN3BpSnZqT1pJQllzWFMwQnB2NVNUOUZhczQtdkZhR01EUjVnMlg3S21GemJhanNUYndlb01PWXBIWFNhaHN3a2h0RFZ1NUwwczhKNS16YWZpTTJzVUQ2V1ZSMTlWVm51eDY5RjRUcTZ3ZEwwT1NhYjR4NVVCRWlmd0dCcnU4clotZmFPeWx5dEh2WXkxOVhPYi1hc0twR1JlMk8tejBncG5NUFpNcnNXWUFvNzVMTWd3S1U4ZGc"
+    },
+    {
       "title": "Tracker: The Federal Reserve’s Balance Sheet Assets - The American Action Forum",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0?oc=5",
       "source": "The American Action Forum",
       "published_at": "Fri, 03 Apr 2026 07:00:00 GMT",
       "summary": "Tracker: The Federal Reserve’s Balance Sheet Assets The American Action Forum",
       "guid": "CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0"
-    },
-    {
-      "title": "Fed's Goolsbee nothing in Federal Reserve act says make the stock/Pres. happy - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUmhnakNySmcwZ0tKNWtKb0hxVzM4by1VeDE3VjVUbmJYVkpMazl6dzhzVHphTGVBcW1hR3lrcXltTHRGZm9nZEhIaW5IaERQZFhzcm8yUHJWVWJ2V1ZHZjYtcUQ4NS00amREaFJyZ3BIRFpZMDVNT0dfUEJwMGpvck00WlA2bG03ZHRmalZSd2ZUYklWVnZyVE1lY0p0a0dGY0JDT25GdW9zUEFXdWVsckxTRkhXaTlkSjhZWmU5dE95UzI1R0tMcjFUbXJOY2JXNUE?oc=5",
-      "source": "TradingView",
-      "published_at": "Tue, 07 Apr 2026 17:00:32 GMT",
-      "summary": "Fed's Goolsbee nothing in Federal Reserve act says make the stock/Pres. happy TradingView",
-      "guid": "CBMi0gFBVV95cUxQUmhnakNySmcwZ0tKNWtKb0hxVzM4by1VeDE3VjVUbmJYVkpMazl6dzhzVHphTGVBcW1hR3lrcXltTHRGZm9nZEhIaW5IaERQZFhzcm8yUHJWVWJ2V1ZHZjYtcUQ4NS00amREaFJyZ3BIRFpZMDVNT0dfUEJwMGpvck00WlA2bG03ZHRmalZSd2ZUYklWVnZyVE1lY0p0a0dGY0JDT25GdW9zUEFXdWVsckxTRkhXaTlkSjhZWmU5dE95UzI1R0tMcjFUbXJOY2JXNUE"
     }
   ]
 }
