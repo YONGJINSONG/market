@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-10T01:18:23Z",
+  "generated_at": "2026-04-10T04:21:41Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -39,14 +39,6 @@
       "guid": "CBMimwFBVV95cUxOU25uUVB3M0ZDNlhmc080blVSR2lHNy16N28tdjlrR1ZodDFWRVpXTnVmM2ZrTnJuekFXNVY2LWhwa0h6cFlmaUl0b1NudTBWTlljME9DM05jVXlkVEM1Q3FhbUpZYXRzNllNbnhZemVDYXF1UkZUZTBmeHRYOXptTWpETDFYNHdIWGZqYTJHRFpOZkdQaGNvUDZ0OA"
     },
     {
-      "title": "Looming Inflation Report Threatens to Upend Stock Market - National Today",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQazBORjAwWmhLOUhaM0FKR2NOc2ZnVEg1Y3BMQ1NJdktsa3lWeWQ3SXRiZXlqbXA1STRycGI0TDRNWnFiLWtURjA5cWY1NUczMTk4Mm5MQ3VwajdzYVFmcU55S0lJZ2JHd09aTS0wQ19tRXpxTkNVSXRaRjZlLVl3eklrV2xIamF6bkFGcmJQdlQ0Zk5ISUh4WGVDeGctcjBsUkxtYmM4MzJFUkRZb09HVWVBNmVfdw?oc=5",
-      "source": "National Today",
-      "published_at": "Thu, 09 Apr 2026 13:20:04 GMT",
-      "summary": "Looming Inflation Report Threatens to Upend Stock Market National Today",
-      "guid": "CBMitgFBVV95cUxQazBORjAwWmhLOUhaM0FKR2NOc2ZnVEg1Y3BMQ1NJdktsa3lWeWQ3SXRiZXlqbXA1STRycGI0TDRNWnFiLWtURjA5cWY1NUczMTk4Mm5MQ3VwajdzYVFmcU55S0lJZ2JHd09aTS0wQ19tRXpxTkNVSXRaRjZlLVl3eklrV2xIamF6bkFGcmJQdlQ0Zk5ISUh4WGVDeGctcjBsUkxtYmM4MzJFUkRZb09HVWVBNmVfdw"
-    },
-    {
       "title": "Federal Reserve holds interest rates steady, signals one rate cut amid inflation uncertainty - U.S. Bank",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw?oc=5",
       "source": "U.S. Bank",
@@ -55,20 +47,28 @@
       "guid": "CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw"
     },
     {
-      "title": "Federal Reserve Chairman Jerome Powell Just Delivered Fantastic News for Stock Market Investors - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcW5SVWs2dTV4QmhsUEhEVWZiODVhOUd3YWNzOHhiZVpzNEtuTGtWdHh5aWNPbkRWZXJfcE9ZbTFVbHU5VFBDOWZXZ3c0bllsNW1JOERhMVNOTE55c3FNVHU0NjYzMnRBSFFWRTBtWnJaakc2YjdockxJYlBBaldHVE05NmU4QQ?oc=5",
-      "source": "AOL.com",
-      "published_at": "Fri, 03 Apr 2026 17:49:54 GMT",
-      "summary": "Federal Reserve Chairman Jerome Powell Just Delivered Fantastic News for Stock Market Investors AOL.com",
-      "guid": "CBMihgFBVV95cUxOcW5SVWs2dTV4QmhsUEhEVWZiODVhOUd3YWNzOHhiZVpzNEtuTGtWdHh5aWNPbkRWZXJfcE9ZbTFVbHU5VFBDOWZXZ3c0bllsNW1JOERhMVNOTE55c3FNVHU0NjYzMnRBSFFWRTBtWnJaakc2YjdockxJYlBBaldHVE05NmU4QQ"
+      "title": "Looming Inflation Report Threatens to Upend Stock Market - National Today",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQazBORjAwWmhLOUhaM0FKR2NOc2ZnVEg1Y3BMQ1NJdktsa3lWeWQ3SXRiZXlqbXA1STRycGI0TDRNWnFiLWtURjA5cWY1NUczMTk4Mm5MQ3VwajdzYVFmcU55S0lJZ2JHd09aTS0wQ19tRXpxTkNVSXRaRjZlLVl3eklrV2xIamF6bkFGcmJQdlQ0Zk5ISUh4WGVDeGctcjBsUkxtYmM4MzJFUkRZb09HVWVBNmVfdw?oc=5",
+      "source": "National Today",
+      "published_at": "Thu, 09 Apr 2026 13:20:04 GMT",
+      "summary": "Looming Inflation Report Threatens to Upend Stock Market National Today",
+      "guid": "CBMitgFBVV95cUxQazBORjAwWmhLOUhaM0FKR2NOc2ZnVEg1Y3BMQ1NJdktsa3lWeWQ3SXRiZXlqbXA1STRycGI0TDRNWnFiLWtURjA5cWY1NUczMTk4Mm5MQ3VwajdzYVFmcU55S0lJZ2JHd09aTS0wQ19tRXpxTkNVSXRaRjZlLVl3eklrV2xIamF6bkFGcmJQdlQ0Zk5ISUh4WGVDeGctcjBsUkxtYmM4MzJFUkRZb09HVWVBNmVfdw"
     },
     {
-      "title": "Tracker: The Federal Reserve’s Balance Sheet Assets - The American Action Forum",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0?oc=5",
-      "source": "The American Action Forum",
-      "published_at": "Fri, 03 Apr 2026 07:00:00 GMT",
-      "summary": "Tracker: The Federal Reserve’s Balance Sheet Assets The American Action Forum",
-      "guid": "CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0"
+      "title": "US banks could release $320 billion in capital with new draft rules, analysts say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNFpQM0xxWDZGb1dMbWsyZ0NoSVJqQ3hkS1dWMGR6dHN4dHVSR1QwZkRKN3BpSnZqT1pJQllzWFMwQnB2NVNUOUZhczQtdkZhR01EUjVnMlg3S21GemJhanNUYndlb01PWXBIWFNhaHN3a2h0RFZ1NUwwczhKNS16YWZpTTJzVUQ2V1ZSMTlWVm51eDY5RjRUcTZ3ZEwwT1NhYjR4NVVCRWlmd0dCcnU4clotZmFPeWx5dEh2WXkxOVhPYi1hc0twR1JlMk8tejBncG5NUFpNcnNXWUFvNzVMTWd3S1U4ZGc?oc=5",
+      "source": "Reuters",
+      "published_at": "Wed, 08 Apr 2026 19:19:45 GMT",
+      "summary": "US banks could release $320 billion in capital with new draft rules, analysts say Reuters",
+      "guid": "CBMi5wFBVV95cUxPNFpQM0xxWDZGb1dMbWsyZ0NoSVJqQ3hkS1dWMGR6dHN4dHVSR1QwZkRKN3BpSnZqT1pJQllzWFMwQnB2NVNUOUZhczQtdkZhR01EUjVnMlg3S21GemJhanNUYndlb01PWXBIWFNhaHN3a2h0RFZ1NUwwczhKNS16YWZpTTJzVUQ2V1ZSMTlWVm51eDY5RjRUcTZ3ZEwwT1NhYjR4NVVCRWlmd0dCcnU4clotZmFPeWx5dEh2WXkxOVhPYi1hc0twR1JlMk8tejBncG5NUFpNcnNXWUFvNzVMTWd3S1U4ZGc"
+    },
+    {
+      "title": "Fed's Goolsbee nothing in Federal Reserve act says make the stock/Pres. happy - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUmhnakNySmcwZ0tKNWtKb0hxVzM4by1VeDE3VjVUbmJYVkpMazl6dzhzVHphTGVBcW1hR3lrcXltTHRGZm9nZEhIaW5IaERQZFhzcm8yUHJWVWJ2V1ZHZjYtcUQ4NS00amREaFJyZ3BIRFpZMDVNT0dfUEJwMGpvck00WlA2bG03ZHRmalZSd2ZUYklWVnZyVE1lY0p0a0dGY0JDT25GdW9zUEFXdWVsckxTRkhXaTlkSjhZWmU5dE95UzI1R0tMcjFUbXJOY2JXNUE?oc=5",
+      "source": "TradingView",
+      "published_at": "Tue, 07 Apr 2026 17:00:32 GMT",
+      "summary": "Fed's Goolsbee nothing in Federal Reserve act says make the stock/Pres. happy TradingView",
+      "guid": "CBMi0gFBVV95cUxQUmhnakNySmcwZ0tKNWtKb0hxVzM4by1VeDE3VjVUbmJYVkpMazl6dzhzVHphTGVBcW1hR3lrcXltTHRGZm9nZEhIaW5IaERQZFhzcm8yUHJWVWJ2V1ZHZjYtcUQ4NS00amREaFJyZ3BIRFpZMDVNT0dfUEJwMGpvck00WlA2bG03ZHRmalZSd2ZUYklWVnZyVE1lY0p0a0dGY0JDT25GdW9zUEFXdWVsckxTRkhXaTlkSjhZWmU5dE95UzI1R0tMcjFUbXJOY2JXNUE"
     },
     {
       "title": "Intuit Integrates With Federal Reserve To Enable Instant Payments For Businesses - marketscreener.com",
@@ -79,12 +79,12 @@
       "guid": "CBMizgFBVV95cUxOdjE1WS1XVTFtaUlpTTA1Yk12TExvUGhoVXl4b1A4VDBod0hGdVZsRVRGRHVBc085M29jWGMwNkVKdGlaYkRuS09lSklSMjVVSUJ2Q2hTVHJrNnRGSnRJTVF6ckFmVHQ2TlVQVm9BUEdfckpHemNCVDVkVjZ0ZUNiZmdCRlNvX3RITGJRX28wRkg2c0o2b3B0WmxvSFZMdHFMbXRJYVJFOXI4Z0Zpc0FJaTM4Ynl2Sk55SjdvcVdkX0ZfWE1sTDctSFAtbGNyUQ"
     },
     {
-      "title": "US banks could release $320 billion in capital with new draft rules, analysts say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNFpQM0xxWDZGb1dMbWsyZ0NoSVJqQ3hkS1dWMGR6dHN4dHVSR1QwZkRKN3BpSnZqT1pJQllzWFMwQnB2NVNUOUZhczQtdkZhR01EUjVnMlg3S21GemJhanNUYndlb01PWXBIWFNhaHN3a2h0RFZ1NUwwczhKNS16YWZpTTJzVUQ2V1ZSMTlWVm51eDY5RjRUcTZ3ZEwwT1NhYjR4NVVCRWlmd0dCcnU4clotZmFPeWx5dEh2WXkxOVhPYi1hc0twR1JlMk8tejBncG5NUFpNcnNXWUFvNzVMTWd3S1U4ZGc?oc=5",
-      "source": "Reuters",
-      "published_at": "Wed, 08 Apr 2026 19:19:45 GMT",
-      "summary": "US banks could release $320 billion in capital with new draft rules, analysts say Reuters",
-      "guid": "CBMi5wFBVV95cUxPNFpQM0xxWDZGb1dMbWsyZ0NoSVJqQ3hkS1dWMGR6dHN4dHVSR1QwZkRKN3BpSnZqT1pJQllzWFMwQnB2NVNUOUZhczQtdkZhR01EUjVnMlg3S21GemJhanNUYndlb01PWXBIWFNhaHN3a2h0RFZ1NUwwczhKNS16YWZpTTJzVUQ2V1ZSMTlWVm51eDY5RjRUcTZ3ZEwwT1NhYjR4NVVCRWlmd0dCcnU4clotZmFPeWx5dEh2WXkxOVhPYi1hc0twR1JlMk8tejBncG5NUFpNcnNXWUFvNzVMTWd3S1U4ZGc"
+      "title": "Fed's Goolsbee: Nothing in Federal Reserve Act says make stock market or president happy - Forex Factory",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOa0QwVGZkYnFNREt1MlFTR0NpczFwekdka2NtTXdUeUhfZ3BJd1NrWnU0aTQyYkRsWXljWGpIWnFNMDZ4QnExekUwbXhDaF9NYTFiamQ4Y1d3SkhWejZsSGR0U2QzUTB2SjI2c252cFROQ3daSjE4Qmk2clI0by1tVG01QmI5RzdrSk5rTDRaLU5GMG93SWc?oc=5",
+      "source": "Forex Factory",
+      "published_at": "Tue, 07 Apr 2026 18:09:22 GMT",
+      "summary": "Fed's Goolsbee: Nothing in Federal Reserve Act says make stock market or president happy Forex Factory",
+      "guid": "CBMilgFBVV95cUxOa0QwVGZkYnFNREt1MlFTR0NpczFwekdka2NtTXdUeUhfZ3BJd1NrWnU0aTQyYkRsWXljWGpIWnFNMDZ4QnExekUwbXhDaF9NYTFiamQ4Y1d3SkhWejZsSGR0U2QzUTB2SjI2c252cFROQ3daSjE4Qmk2clI0by1tVG01QmI5RzdrSk5rTDRaLU5GMG93SWc"
     }
   ]
 }
