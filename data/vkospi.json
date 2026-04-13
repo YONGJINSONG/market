@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-13T14:25:45Z",
+  "generated_at": "2026-04-13T15:58:15Z",
   "sourceUrl": "https://eindex.krx.co.kr/contents/GLB/05/0502/0502030101/GLB0502030101T2.jsp?upmidCd=0202&idxCd=1300&idxId=O2901P",
-  "fromdate": "20250413",
-  "todate": "20260413",
+  "fromdate": "20250414",
+  "todate": "20260414",
   "output": [
     {
       "trd_dd": "2025/04/14",
@@ -3872,6 +3872,22 @@
       "opnprc_idx": "53.06",
       "hgprc_idx": "53.81",
       "lwprc_idx": "49.07",
+      "acc_trdvol": "0",
+      "acc_trdval": "0",
+      "mktcap": "0"
+    },
+    {
+      "trd_dd": "2026/04/13",
+      "clsprc_idx": "50.14",
+      "fluc_tp_cd": "1",
+      "cmpprevdd_idx": "0.56",
+      "fluc_rt": "1.13",
+      "div_yd": "0.00",
+      "wt_per": "0.00",
+      "wt_stkprc_netasst_rto": "0.00",
+      "opnprc_idx": "51.54",
+      "hgprc_idx": "51.98",
+      "lwprc_idx": "50.11",
       "acc_trdvol": "0",
       "acc_trdval": "0",
       "mktcap": "0"
