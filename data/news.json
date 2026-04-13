@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-13T18:59:11Z",
+  "generated_at": "2026-04-13T20:04:31Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -37,6 +37,14 @@
       "published_at": "Fri, 10 Apr 2026 07:00:00 GMT",
       "summary": "Tracker: The Federal Reserve’s Balance Sheet Assets The American Action Forum",
       "guid": "CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0"
+    },
+    {
+      "title": "More Americans are millionaires, but they don’t feel rich - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeVlDVDV5cjd2TC14dU0tMlk4aHMwUnc1SjNCb1RoZXMzWVA0cllnZDJMeEhOamw3aVJreTNSLUFicVRiTUxJcDJfc285dWdhMzlJV2ZSWGNfMWdKeF9uZjN1bEtSWVN3dWtqeGJpa0dYNERLS0JaUGNCX0NJdFc5Y1NaYW1pYm5XMVBYZHZGZTFaZw?oc=5",
+      "source": "The Washington Post",
+      "published_at": "Mon, 13 Apr 2026 16:00:51 GMT",
+      "summary": "More Americans are millionaires, but they don’t feel rich The Washington Post",
+      "guid": "CBMikgFBVV95cUxNeVlDVDV5cjd2TC14dU0tMlk4aHMwUnc1SjNCb1RoZXMzWVA0cllnZDJMeEhOamw3aVJreTNSLUFicVRiTUxJcDJfc285dWdhMzlJV2ZSWGNfMWdKeF9uZjN1bEtSWVN3dWtqeGJpa0dYNERLS0JaUGNCX0NJdFc5Y1NaYW1pYm5XMVBYZHZGZTFaZw"
     },
     {
       "title": "Federal Reserve Watch: Fed Keeps Adding Securities To The Portfolio - Seeking Alpha",
@@ -77,14 +85,6 @@
       "published_at": "Mon, 06 Oct 2025 07:00:00 GMT",
       "summary": "Market Reactions to Tariff Announcements Federal Reserve Bank of San Francisco",
       "guid": "CBMivwFBVV95cUxOM1dfLWVxeDJGbVNDYU9vWU8xOW5Fbk9rWk5KREtjbWFDcWFfdzAyVE5WMDhINUpWbWVDVWZmRHBSSlN3blk5alBHd3B1RE5JSmVMRTd3SXhNQmZWdDllUDFCU1lwTk9zcmpBSmhmazM5OEhIWEVHMlhHTDY4M1luNXJ5TExQbi1RMjBLbmpZd3BqLU1zanlvM0hvVWhVcWtiSWZBOV9ENTJmTWUtQzIxdmprYlpGNnJzQk11T1ZfWQ"
-    },
-    {
-      "title": "What Causes “Jumps” in Stock Prices? - Federal Reserve Bank of St. Louis",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNlU3bVlaY05yZmRvNlVELU8yV25yT2ozUmJtT1lJbG1HelVoMGt4d1lVNHZkR3BrZkt4VzRRSXZjT3FHUXlLbHNZWkh3R1dYaWNjV3ZzNE9ROWJpQmZ3cFpwdEdLbXR6T00wamtwbmdLcF9RUDA3eEU5aUp1QWZwV0pMUDJrZ0hj?oc=5",
-      "source": "Federal Reserve Bank of St. Louis",
-      "published_at": "Mon, 29 Sep 2025 07:00:00 GMT",
-      "summary": "What Causes “Jumps” in Stock Prices? Federal Reserve Bank of St. Louis",
-      "guid": "CBMiiAFBVV95cUxPNlU3bVlaY05yZmRvNlVELU8yV25yT2ozUmJtT1lJbG1HelVoMGt4d1lVNHZkR3BrZkt4VzRRSXZjT3FHUXlLbHNZWkh3R1dYaWNjV3ZzNE9ROWJpQmZ3cFpwdEdLbXR6T00wamtwbmdLcF9RUDA3eEU5aUp1QWZwV0pMUDJrZ0hj"
     }
   ]
 }
