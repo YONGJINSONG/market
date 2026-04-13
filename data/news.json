@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-04-13T00:04:59Z",
+  "generated_at": "2026-04-13T03:50:46Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "The New York Stock Exchange | NYSE - NYSE",
+      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE93UWVlU3g1TVNpdTNEcjI2Yk9kSHU2Tnh5Y0stVFBGRWVkLW9wbU1EbHhQaHdIOE56d2V5NXVhSQ?oc=5",
+      "source": "NYSE",
+      "published_at": "Fri, 10 Apr 2026 21:30:00 GMT",
+      "summary": "The New York Stock Exchange | NYSE NYSE",
+      "guid": "CBMiP0FVX3lxTE93UWVlU3g1TVNpdTNEcjI2Yk9kSHU2Tnh5Y0stVFBGRWVkLW9wbU1EbHhQaHdIOE56d2V5NXVhSQ"
+    },
     {
       "title": "The Need for Federal Reserve Flexibility - American Enterprise Institute - AEI",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9rSE5TczdmcTBkeEhqVjJLVi13NmxkU09iQ0NmRFk5MktXMV96TnFLM2x2azgzSmNENVBpbWd0Y04wS2NRd1JmRzJRa2tIMk9vVXVLWnIyNkRETG5FeGRTTXEwWFIzdWM1U0tsZEwzVzZsNXVjeHFDS0xZUQ?oc=5",
@@ -39,14 +47,6 @@
       "guid": "CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0"
     },
     {
-      "title": "Inflation Recently Did Something It Hasn't Done Since April 2021, and It Could Spell Trouble for the Stock Market - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWEwybnNmdGxxWU5SbWdDT0VibjNPcmdaWDVwNmszU1hYS0tCYWVZd0xZaTFLT3NHc1V5ZkVoaFZYOVQxcGZJcFQzQ1diVndKT3REcXF0T1VJVVVsX0UxTDRtei1DS0Y1bWNzTnl4Zy1NNGpCMmpxNkUwRkNjRk8xRlNnYncyLW9rakZ4SEozX0NncVVpMllrSQ?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Fri, 10 Apr 2026 11:55:00 GMT",
-      "summary": "Inflation Recently Did Something It Hasn't Done Since April 2021, and It Could Spell Trouble for the Stock Market The Motley Fool",
-      "guid": "CBMimAFBVV95cUxPWEwybnNmdGxxWU5SbWdDT0VibjNPcmdaWDVwNmszU1hYS0tCYWVZd0xZaTFLT3NHc1V5ZkVoaFZYOVQxcGZJcFQzQ1diVndKT3REcXF0T1VJVVVsX0UxTDRtei1DS0Y1bWNzTnl4Zy1NNGpCMmpxNkUwRkNjRk8xRlNnYncyLW9rakZ4SEozX0NncVVpMllrSQ"
-    },
-    {
       "title": "Federal Reserve Watch: Fed Keeps Adding Securities To The Portfolio - Seeking Alpha",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOEhJZmNWYkxXck90Tnh3dkR1cVVfNnFON29yMTdCcjBORVNqR3RTU2lMMHhWY0UxajFIamFLdEtyVDZxdG41MkpuV04wRVF5VlpCYXpyeWpKSk9iaTVrYWZzN1dNc1Q4TXVZQWRScFZYV2pDUE50MnRFUVZCNGJMS1Uyd0NiYTI0RndzdUQtWklkdG8xNERIbFN4N29VT25HRm1XME5OX2R6Ykk?oc=5",
       "source": "Seeking Alpha",
@@ -71,20 +71,20 @@
       "guid": "CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw"
     },
     {
-      "title": "Jerome Powell | Biography, Federal Reserve, & Political Pressure - Britannica",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBobDEwNjdiX2RGSDdnR05fdEpYRTJhRTdERUxyT1JpZnFObFNOb3RUaVI5Q2VPU1prbHFOSTVCQ0Z0WmVfQ3dHLXY3Vk93R3JISmpBTFRQZGpwUQ?oc=5",
-      "source": "Britannica",
-      "published_at": "Wed, 08 Apr 2026 18:23:00 GMT",
-      "summary": "Jerome Powell | Biography, Federal Reserve, & Political Pressure Britannica",
-      "guid": "CBMiWkFVX3lxTFBobDEwNjdiX2RGSDdnR05fdEpYRTJhRTdERUxyT1JpZnFObFNOb3RUaVI5Q2VPU1prbHFOSTVCQ0Z0WmVfQ3dHLXY3Vk93R3JISmpBTFRQZGpwUQ"
+      "title": "Market Reactions to Tariff Announcements - Federal Reserve Bank of San Francisco",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM1dfLWVxeDJGbVNDYU9vWU8xOW5Fbk9rWk5KREtjbWFDcWFfdzAyVE5WMDhINUpWbWVDVWZmRHBSSlN3blk5alBHd3B1RE5JSmVMRTd3SXhNQmZWdDllUDFCU1lwTk9zcmpBSmhmazM5OEhIWEVHMlhHTDY4M1luNXJ5TExQbi1RMjBLbmpZd3BqLU1zanlvM0hvVWhVcWtiSWZBOV9ENTJmTWUtQzIxdmprYlpGNnJzQk11T1ZfWQ?oc=5",
+      "source": "Federal Reserve Bank of San Francisco",
+      "published_at": "Mon, 06 Oct 2025 07:00:00 GMT",
+      "summary": "Market Reactions to Tariff Announcements Federal Reserve Bank of San Francisco",
+      "guid": "CBMivwFBVV95cUxOM1dfLWVxeDJGbVNDYU9vWU8xOW5Fbk9rWk5KREtjbWFDcWFfdzAyVE5WMDhINUpWbWVDVWZmRHBSSlN3blk5alBHd3B1RE5JSmVMRTd3SXhNQmZWdDllUDFCU1lwTk9zcmpBSmhmazM5OEhIWEVHMlhHTDY4M1luNXJ5TExQbi1RMjBLbmpZd3BqLU1zanlvM0hvVWhVcWtiSWZBOV9ENTJmTWUtQzIxdmprYlpGNnJzQk11T1ZfWQ"
     },
     {
-      "title": "US Stock Market: Fed transition in focus as Warsh nears top job amid legal uncertainty - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPR2RtSFFXYmc5UVJBY2lWOG4tU0IzbkUyY1pWaldid1dmY2FPLS1VbzNNMU9vTmU5QmZYalBBZzduYnBjN0pfSFBoVThLZ2otOTN5cG1ndVhuWUZRcUZrY2xNdXJUVGpKRHMwVmlSVUN5RnRqTmZZLV9pUm1tcFlQd0YycjlvR192UlNiMVBRa1pZakxLd1JfUXViVHFob3c1bS1DNFJ2RjNZRV9tRHNxaVZpN0FDN0FtRFZIMmhCSXl0VTNhclFMR0F6U3oyYTFzVjIxRVBCdzQzeEJJTDZpbHZJekxfdjUxc0luTnc2QldnTVNn0gH6AUFVX3lxTE1COXZWM0o2VzBZZG5aSGlMWkk0MXpWWG5Wa2hUa29TM19pRUw0aWhSaWNuT1Ixa1lwRXY0cE44M2tmU1R6Q0YybmZHQXlUUG5WWXhaVGxVTXhUZC1wNUgxSEg0WWZJT0VuNVRfUnVlNjRqa3N2a1JXaVlLckVidGFjMzI2U1hLNUJpSjBFdm5kbzV1UUhWVzlFRDJPQS1LeDNBQ0lhVjB4VVIzeHNuVVNXNkw4Rm11ZFl5OFEyU3F0enFzYmYxNUFOdl9vY203RmQ4Q21paFNYYmxfQkYydG1TT043ZkxEZ0pSUk5xY1pOM2lkX3ZtaUUzeWc?oc=5",
-      "source": "The Economic Times",
-      "published_at": "Fri, 10 Apr 2026 04:32:46 GMT",
-      "summary": "US Stock Market: Fed transition in focus as Warsh nears top job amid legal uncertainty The Economic Times",
-      "guid": "CBMi9AFBVV95cUxPR2RtSFFXYmc5UVJBY2lWOG4tU0IzbkUyY1pWaldid1dmY2FPLS1VbzNNMU9vTmU5QmZYalBBZzduYnBjN0pfSFBoVThLZ2otOTN5cG1ndVhuWUZRcUZrY2xNdXJUVGpKRHMwVmlSVUN5RnRqTmZZLV9pUm1tcFlQd0YycjlvR192UlNiMVBRa1pZakxLd1JfUXViVHFob3c1bS1DNFJ2RjNZRV9tRHNxaVZpN0FDN0FtRFZIMmhCSXl0VTNhclFMR0F6U3oyYTFzVjIxRVBCdzQzeEJJTDZpbHZJekxfdjUxc0luTnc2QldnTVNn0gH6AUFVX3lxTE1COXZWM0o2VzBZZG5aSGlMWkk0MXpWWG5Wa2hUa29TM19pRUw0aWhSaWNuT1Ixa1lwRXY0cE44M2tmU1R6Q0YybmZHQXlUUG5WWXhaVGxVTXhUZC1wNUgxSEg0WWZJT0VuNVRfUnVlNjRqa3N2a1JXaVlLckVidGFjMzI2U1hLNUJpSjBFdm5kbzV1UUhWVzlFRDJPQS1LeDNBQ0lhVjB4VVIzeHNuVVNXNkw4Rm11ZFl5OFEyU3F0enFzYmYxNUFOdl9vY203RmQ4Q21paFNYYmxfQkYydG1TT043ZkxEZ0pSUk5xY1pOM2lkX3ZtaUUzeWc"
+      "title": "What Causes “Jumps” in Stock Prices? - Federal Reserve Bank of St. Louis",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNlU3bVlaY05yZmRvNlVELU8yV25yT2ozUmJtT1lJbG1HelVoMGt4d1lVNHZkR3BrZkt4VzRRSXZjT3FHUXlLbHNZWkh3R1dYaWNjV3ZzNE9ROWJpQmZ3cFpwdEdLbXR6T00wamtwbmdLcF9RUDA3eEU5aUp1QWZwV0pMUDJrZ0hj?oc=5",
+      "source": "Federal Reserve Bank of St. Louis",
+      "published_at": "Mon, 29 Sep 2025 07:00:00 GMT",
+      "summary": "What Causes “Jumps” in Stock Prices? Federal Reserve Bank of St. Louis",
+      "guid": "CBMiiAFBVV95cUxPNlU3bVlaY05yZmRvNlVELU8yV25yT2ozUmJtT1lJbG1HelVoMGt4d1lVNHZkR3BrZkt4VzRRSXZjT3FHUXlLbHNZWkh3R1dYaWNjV3ZzNE9ROWJpQmZ3cFpwdEdLbXR6T00wamtwbmdLcF9RUDA3eEU5aUp1QWZwV0pMUDJrZ0hj"
     }
   ]
 }
