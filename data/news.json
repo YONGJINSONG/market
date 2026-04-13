@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-12T23:37:20Z",
+  "generated_at": "2026-04-13T00:04:59Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -23,12 +23,28 @@
       "guid": "CBMiogFBVV95cUxPSU5HQUpJYWhMTkV6RjUwUEpMdlBFNjFNQnI5U1lXcEVPR0hycmsxaTV6a2cwbmUzZ3JnbFFrUnJGNXpUcy1HdFZqRm1xRDd0QTE2SFFsUkozbWF0WUFERjFmcE9tM2hKTFBuc1FoZ3pxX3ItQXU2YTVuQlNjRWh0Zlc0a1lLZGw3ckw1WjVSOTRZLUNPMFBJaG51dzhDd1JWRkE"
     },
     {
+      "title": "Princeton's Burton Malkiel on the AI bubble and trying to beat the stock market - marketplace.org",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUHpMVDB3WUpBMFNncHhiVFpCcEJPYkd4aUZqcnV3VnRqVk1CUWNOMEFTNmhvUVY1QkViZVFDZkhDX3Y5VkFrLUIzZGItNUVfb1BCa2RQQWV3cUFvR0FpRnBucGFwMFFQdGYyeWJQRXlfclJET2ZRMEV5RzJRS3JkWmtfbW1ScmRxbG5vM21icTFlbXZJNWJpMG8tc1JUVG8?oc=5",
+      "source": "marketplace.org",
+      "published_at": "Fri, 10 Apr 2026 13:30:00 GMT",
+      "summary": "Princeton's Burton Malkiel on the AI bubble and trying to beat the stock market marketplace.org",
+      "guid": "CBMinwFBVV95cUxPUHpMVDB3WUpBMFNncHhiVFpCcEJPYkd4aUZqcnV3VnRqVk1CUWNOMEFTNmhvUVY1QkViZVFDZkhDX3Y5VkFrLUIzZGItNUVfb1BCa2RQQWV3cUFvR0FpRnBucGFwMFFQdGYyeWJQRXlfclJET2ZRMEV5RzJRS3JkWmtfbW1ScmRxbG5vM21icTFlbXZJNWJpMG8tc1JUVG8"
+    },
+    {
       "title": "Tracker: The Federal Reserve’s Balance Sheet Assets - The American Action Forum",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0?oc=5",
       "source": "The American Action Forum",
       "published_at": "Fri, 10 Apr 2026 07:00:00 GMT",
       "summary": "Tracker: The Federal Reserve’s Balance Sheet Assets The American Action Forum",
       "guid": "CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0"
+    },
+    {
+      "title": "Inflation Recently Did Something It Hasn't Done Since April 2021, and It Could Spell Trouble for the Stock Market - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWEwybnNmdGxxWU5SbWdDT0VibjNPcmdaWDVwNmszU1hYS0tCYWVZd0xZaTFLT3NHc1V5ZkVoaFZYOVQxcGZJcFQzQ1diVndKT3REcXF0T1VJVVVsX0UxTDRtei1DS0Y1bWNzTnl4Zy1NNGpCMmpxNkUwRkNjRk8xRlNnYncyLW9rakZ4SEozX0NncVVpMllrSQ?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Fri, 10 Apr 2026 11:55:00 GMT",
+      "summary": "Inflation Recently Did Something It Hasn't Done Since April 2021, and It Could Spell Trouble for the Stock Market The Motley Fool",
+      "guid": "CBMimAFBVV95cUxPWEwybnNmdGxxWU5SbWdDT0VibjNPcmdaWDVwNmszU1hYS0tCYWVZd0xZaTFLT3NHc1V5ZkVoaFZYOVQxcGZJcFQzQ1diVndKT3REcXF0T1VJVVVsX0UxTDRtei1DS0Y1bWNzTnl4Zy1NNGpCMmpxNkUwRkNjRk8xRlNnYncyLW9rakZ4SEozX0NncVVpMllrSQ"
     },
     {
       "title": "Federal Reserve Watch: Fed Keeps Adding Securities To The Portfolio - Seeking Alpha",
@@ -55,36 +71,20 @@
       "guid": "CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw"
     },
     {
+      "title": "Jerome Powell | Biography, Federal Reserve, & Political Pressure - Britannica",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBobDEwNjdiX2RGSDdnR05fdEpYRTJhRTdERUxyT1JpZnFObFNOb3RUaVI5Q2VPU1prbHFOSTVCQ0Z0WmVfQ3dHLXY3Vk93R3JISmpBTFRQZGpwUQ?oc=5",
+      "source": "Britannica",
+      "published_at": "Wed, 08 Apr 2026 18:23:00 GMT",
+      "summary": "Jerome Powell | Biography, Federal Reserve, & Political Pressure Britannica",
+      "guid": "CBMiWkFVX3lxTFBobDEwNjdiX2RGSDdnR05fdEpYRTJhRTdERUxyT1JpZnFObFNOb3RUaVI5Q2VPU1prbHFOSTVCQ0Z0WmVfQ3dHLXY3Vk93R3JISmpBTFRQZGpwUQ"
+    },
+    {
       "title": "US Stock Market: Fed transition in focus as Warsh nears top job amid legal uncertainty - The Economic Times",
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPR2RtSFFXYmc5UVJBY2lWOG4tU0IzbkUyY1pWaldid1dmY2FPLS1VbzNNMU9vTmU5QmZYalBBZzduYnBjN0pfSFBoVThLZ2otOTN5cG1ndVhuWUZRcUZrY2xNdXJUVGpKRHMwVmlSVUN5RnRqTmZZLV9pUm1tcFlQd0YycjlvR192UlNiMVBRa1pZakxLd1JfUXViVHFob3c1bS1DNFJ2RjNZRV9tRHNxaVZpN0FDN0FtRFZIMmhCSXl0VTNhclFMR0F6U3oyYTFzVjIxRVBCdzQzeEJJTDZpbHZJekxfdjUxc0luTnc2QldnTVNn0gH6AUFVX3lxTE1COXZWM0o2VzBZZG5aSGlMWkk0MXpWWG5Wa2hUa29TM19pRUw0aWhSaWNuT1Ixa1lwRXY0cE44M2tmU1R6Q0YybmZHQXlUUG5WWXhaVGxVTXhUZC1wNUgxSEg0WWZJT0VuNVRfUnVlNjRqa3N2a1JXaVlLckVidGFjMzI2U1hLNUJpSjBFdm5kbzV1UUhWVzlFRDJPQS1LeDNBQ0lhVjB4VVIzeHNuVVNXNkw4Rm11ZFl5OFEyU3F0enFzYmYxNUFOdl9vY203RmQ4Q21paFNYYmxfQkYydG1TT043ZkxEZ0pSUk5xY1pOM2lkX3ZtaUUzeWc?oc=5",
       "source": "The Economic Times",
       "published_at": "Fri, 10 Apr 2026 04:32:46 GMT",
       "summary": "US Stock Market: Fed transition in focus as Warsh nears top job amid legal uncertainty The Economic Times",
       "guid": "CBMi9AFBVV95cUxPR2RtSFFXYmc5UVJBY2lWOG4tU0IzbkUyY1pWaldid1dmY2FPLS1VbzNNMU9vTmU5QmZYalBBZzduYnBjN0pfSFBoVThLZ2otOTN5cG1ndVhuWUZRcUZrY2xNdXJUVGpKRHMwVmlSVUN5RnRqTmZZLV9pUm1tcFlQd0YycjlvR192UlNiMVBRa1pZakxLd1JfUXViVHFob3c1bS1DNFJ2RjNZRV9tRHNxaVZpN0FDN0FtRFZIMmhCSXl0VTNhclFMR0F6U3oyYTFzVjIxRVBCdzQzeEJJTDZpbHZJekxfdjUxc0luTnc2QldnTVNn0gH6AUFVX3lxTE1COXZWM0o2VzBZZG5aSGlMWkk0MXpWWG5Wa2hUa29TM19pRUw0aWhSaWNuT1Ixa1lwRXY0cE44M2tmU1R6Q0YybmZHQXlUUG5WWXhaVGxVTXhUZC1wNUgxSEg0WWZJT0VuNVRfUnVlNjRqa3N2a1JXaVlLckVidGFjMzI2U1hLNUJpSjBFdm5kbzV1UUhWVzlFRDJPQS1LeDNBQ0lhVjB4VVIzeHNuVVNXNkw4Rm11ZFl5OFEyU3F0enFzYmYxNUFOdl9vY203RmQ4Q21paFNYYmxfQkYydG1TT043ZkxEZ0pSUk5xY1pOM2lkX3ZtaUUzeWc"
-    },
-    {
-      "title": "Federal Reserve Research Confirms Trump Tariffs Drove Excess Inflation In 2025: 'Dollar-For-Dollar' Hit - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNenhLWDd4dmlhRlNQcGhPamFPTmNtOXJ4RGJ4QWROSFgzWTVSTHZTZUw5dngzczFVOUJsb0hNNzZGMllmVjNDM0lMTVJwZU9EMGJRUFVTU3ZxTmVMYWhIMW54cy03NG1HZmp2V2hOb1hYLXRUUnlTTFNjWFVOU0VtMDVwa1NLOElNWUpv?oc=5",
-      "source": "AOL.com",
-      "published_at": "Sat, 11 Apr 2026 12:07:46 GMT",
-      "summary": "Federal Reserve Research Confirms Trump Tariffs Drove Excess Inflation In 2025: 'Dollar-For-Dollar' Hit AOL.com",
-      "guid": "CBMiiwFBVV95cUxNenhLWDd4dmlhRlNQcGhPamFPTmNtOXJ4RGJ4QWROSFgzWTVSTHZTZUw5dngzczFVOUJsb0hNNzZGMllmVjNDM0lMTVJwZU9EMGJRUFVTU3ZxTmVMYWhIMW54cy03NG1HZmp2V2hOb1hYLXRUUnlTTFNjWFVOU0VtMDVwa1NLOElNWUpv"
-    },
-    {
-      "title": "Opinion | Countless Americans face a scary retirement. This rule could change that. - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOU25uUVB3M0ZDNlhmc080blVSR2lHNy16N28tdjlrR1ZodDFWRVpXTnVmM2ZrTnJuekFXNVY2LWhwa0h6cFlmaUl0b1NudTBWTlljME9DM05jVXlkVEM1Q3FhbUpZYXRzNllNbnhZemVDYXF1UkZUZTBmeHRYOXptTWpETDFYNHdIWGZqYTJHRFpOZkdQaGNvUDZ0OA?oc=5",
-      "source": "The Washington Post",
-      "published_at": "Thu, 09 Apr 2026 17:00:14 GMT",
-      "summary": "Opinion | Countless Americans face a scary retirement. This rule could change that. The Washington Post",
-      "guid": "CBMimwFBVV95cUxOU25uUVB3M0ZDNlhmc080blVSR2lHNy16N28tdjlrR1ZodDFWRVpXTnVmM2ZrTnJuekFXNVY2LWhwa0h6cFlmaUl0b1NudTBWTlljME9DM05jVXlkVEM1Q3FhbUpZYXRzNllNbnhZemVDYXF1UkZUZTBmeHRYOXptTWpETDFYNHdIWGZqYTJHRFpOZkdQaGNvUDZ0OA"
-    },
-    {
-      "title": "Inflation Recently Did Something It Hasn't Done Since April 2021, and It Could Spell Trouble for the Stock Market - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWEwybnNmdGxxWU5SbWdDT0VibjNPcmdaWDVwNmszU1hYS0tCYWVZd0xZaTFLT3NHc1V5ZkVoaFZYOVQxcGZJcFQzQ1diVndKT3REcXF0T1VJVVVsX0UxTDRtei1DS0Y1bWNzTnl4Zy1NNGpCMmpxNkUwRkNjRk8xRlNnYncyLW9rakZ4SEozX0NncVVpMllrSQ?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Fri, 10 Apr 2026 11:55:00 GMT",
-      "summary": "Inflation Recently Did Something It Hasn't Done Since April 2021, and It Could Spell Trouble for the Stock Market The Motley Fool",
-      "guid": "CBMimAFBVV95cUxPWEwybnNmdGxxWU5SbWdDT0VibjNPcmdaWDVwNmszU1hYS0tCYWVZd0xZaTFLT3NHc1V5ZkVoaFZYOVQxcGZJcFQzQ1diVndKT3REcXF0T1VJVVVsX0UxTDRtei1DS0Y1bWNzTnl4Zy1NNGpCMmpxNkUwRkNjRk8xRlNnYncyLW9rakZ4SEozX0NncVVpMllrSQ"
     }
   ]
 }
