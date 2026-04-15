@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-15T11:45:52Z",
+  "generated_at": "2026-04-15T14:28:34Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -34,7 +34,7 @@
       "title": "We're Precisely 1 Month Away From a Historic Shake-Up at the Federal Reserve -- and Wall Street Isn't Ready for It - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMnI1S1hneTc5Tzg3V3RadE0zWlA5Wm1vSEJXXzNGOF9OUHQ3ZnBTMTV2MWFnZGUzNzM1UFhtTWNORS1TSlNQY1A5TDFXNUtELTBXdGk2N2FEcDhnLXpzZWZtQjduSG5QQm5oR3I0cGVFTnY3YmhYWVk4SGtzUVhpQmc3aGpNRTJjem54b1o1b05RbDloeWU0?oc=5",
       "source": "The Motley Fool",
-      "published_at": "Wed, 15 Apr 2026 08:27:43 GMT",
+      "published_at": "Wed, 15 Apr 2026 09:06:00 GMT",
       "summary": "We're Precisely 1 Month Away From a Historic Shake-Up at the Federal Reserve -- and Wall Street Isn't Ready for It The Motley Fool",
       "guid": "CBMilwFBVV95cUxQMnI1S1hneTc5Tzg3V3RadE0zWlA5Wm1vSEJXXzNGOF9OUHQ3ZnBTMTV2MWFnZGUzNzM1UFhtTWNORS1TSlNQY1A5TDFXNUtELTBXdGk2N2FEcDhnLXpzZWZtQjduSG5QQm5oR3I0cGVFTnY3YmhYWVk4SGtzUVhpQmc3aGpNRTJjem54b1o1b05RbDloeWU0"
     },
@@ -55,20 +55,12 @@
       "guid": "CBMisgFBVV95cUxOYlc3QlBJRlk0WU0xTFlUZkxRRVFzZS02S3ZiT1RUdGRfQ3JHdXVsN01OTDJjR19Pa3QyUGJESGtzaGdjUTRJbzg5T3AyZUZ0eVdBZWloMzlieHZ1bGJabVBEWXhmb3pyaHpkb09mS1lvTGJDMkZXVUZFRWZubXRyQnZjZi1va1lIM1Q3QlRoVmNFU0JmNF9hOFhBdnZPQzJDcGRqOWZESk5HX25CZGpRMlZR"
     },
     {
-      "title": "Federal Reserve holds interest rates steady, signals one rate cut amid inflation uncertainty - U.S. Bank",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw?oc=5",
-      "source": "U.S. Bank",
-      "published_at": "Wed, 18 Mar 2026 07:00:00 GMT",
-      "summary": "Federal Reserve holds interest rates steady, signals one rate cut amid inflation uncertainty U.S. Bank",
-      "guid": "CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw"
-    },
-    {
-      "title": "Market Reactions to Tariff Announcements - Federal Reserve Bank of San Francisco",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM1dfLWVxeDJGbVNDYU9vWU8xOW5Fbk9rWk5KREtjbWFDcWFfdzAyVE5WMDhINUpWbWVDVWZmRHBSSlN3blk5alBHd3B1RE5JSmVMRTd3SXhNQmZWdDllUDFCU1lwTk9zcmpBSmhmazM5OEhIWEVHMlhHTDY4M1luNXJ5TExQbi1RMjBLbmpZd3BqLU1zanlvM0hvVWhVcWtiSWZBOV9ENTJmTWUtQzIxdmprYlpGNnJzQk11T1ZfWQ?oc=5",
-      "source": "Federal Reserve Bank of San Francisco",
-      "published_at": "Mon, 06 Oct 2025 07:00:00 GMT",
-      "summary": "Market Reactions to Tariff Announcements Federal Reserve Bank of San Francisco",
-      "guid": "CBMivwFBVV95cUxOM1dfLWVxeDJGbVNDYU9vWU8xOW5Fbk9rWk5KREtjbWFDcWFfdzAyVE5WMDhINUpWbWVDVWZmRHBSSlN3blk5alBHd3B1RE5JSmVMRTd3SXhNQmZWdDllUDFCU1lwTk9zcmpBSmhmazM5OEhIWEVHMlhHTDY4M1luNXJ5TExQbi1RMjBLbmpZd3BqLU1zanlvM0hvVWhVcWtiSWZBOV9ENTJmTWUtQzIxdmprYlpGNnJzQk11T1ZfWQ"
+      "title": "US GDP Growth Slows Sharply to 0.5% in Q1 2026, Signaling Economic Headwinds for Investors - AD HOC NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUURoVjFxX2J0NWV4b21saXhhRFBobFdqOWFURm92QU5BaFJuQS1VYVRxWHBBT1VvZlRLd3ZNaTdXT1VyNFk0cjN6SlJ2WEQzRGxGamp0cWRyVk5nRVFLalVyUmE5SW9UbDRhQ3k1d2ptODdKYU1rWGJ4UVlWUUEtN1JnY25aaEdvdDVPTmpUUUMtUnlnbW5ZWHNreXdkeGplcTJEMFdjd2pQd2c4dEJFWTVxb1dqZHh6c1ktQUhvczJkMzBKckJRS0U3RQ?oc=5",
+      "source": "AD HOC NEWS",
+      "published_at": "Wed, 15 Apr 2026 14:00:52 GMT",
+      "summary": "US GDP Growth Slows Sharply to 0.5% in Q1 2026, Signaling Economic Headwinds for Investors AD HOC NEWS",
+      "guid": "CBMiywFBVV95cUxPUURoVjFxX2J0NWV4b21saXhhRFBobFdqOWFURm92QU5BaFJuQS1VYVRxWHBBT1VvZlRLd3ZNaTdXT1VyNFk0cjN6SlJ2WEQzRGxGamp0cWRyVk5nRVFLalVyUmE5SW9UbDRhQ3k1d2ptODdKYU1rWGJ4UVlWUUEtN1JnY25aaEdvdDVPTmpUUUMtUnlnbW5ZWHNreXdkeGplcTJEMFdjd2pQd2c4dEJFWTVxb1dqZHh6c1ktQUhvczJkMzBKckJRS0U3RQ"
     },
     {
       "title": "Federal reserve reveals troubling reality about wealthy Americans - thestreet.com",
@@ -79,12 +71,20 @@
       "guid": "CBMioAFBVV95cUxQdmhtMzdMTXZCMno5al9HNWR3UTFLcUxWdWVnRHhNSm1KbllKdzVQTWY1LWRLMG42dnlwN2tuSHR0WHR6LUVUaTlGbkxRTFFERW5YaTA5U3RJdTd1aUV3dnVMWmJhbWZXV25aLW9lZU1pdjZ0dVZyTWxQQkhSbVJPcFpnS2hnVy1Ma2toOEFLTlRpTHhtZkM2Q2dWNlVscGhW"
     },
     {
-      "title": "What Causes “Jumps” in Stock Prices? - Federal Reserve Bank of St. Louis",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNlU3bVlaY05yZmRvNlVELU8yV25yT2ozUmJtT1lJbG1HelVoMGt4d1lVNHZkR3BrZkt4VzRRSXZjT3FHUXlLbHNZWkh3R1dYaWNjV3ZzNE9ROWJpQmZ3cFpwdEdLbXR6T00wamtwbmdLcF9RUDA3eEU5aUp1QWZwV0pMUDJrZ0hj?oc=5",
-      "source": "Federal Reserve Bank of St. Louis",
-      "published_at": "Mon, 29 Sep 2025 07:00:00 GMT",
-      "summary": "What Causes “Jumps” in Stock Prices? Federal Reserve Bank of St. Louis",
-      "guid": "CBMiiAFBVV95cUxPNlU3bVlaY05yZmRvNlVELU8yV25yT2ozUmJtT1lJbG1HelVoMGt4d1lVNHZkR3BrZkt4VzRRSXZjT3FHUXlLbHNZWkh3R1dYaWNjV3ZzNE9ROWJpQmZ3cFpwdEdLbXR6T00wamtwbmdLcF9RUDA3eEU5aUp1QWZwV0pMUDJrZ0hj"
+      "title": "The Federal Reserve's April Inflation Forecast Is In -- and It Just Keeps Getting Worse for Wall Street - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWDZidzFxcU1YOHItMHNWQU9vSkRydUNiZmxLX1JLVUlQbFlVeERSOVpUTXZTd211NkVJdkJKdlpqLWlUSVVUbTJKUHA3eHRYQ29NcGQ0WW9KemVJeVE0YTVpcWFWcE9QXzF3VTRuYkhEZG9nYXJvNGpvRWV0RWVYTlp1R2hLRW9YSXF5a3Vn?oc=5",
+      "source": "AOL.com",
+      "published_at": "Mon, 13 Apr 2026 08:37:37 GMT",
+      "summary": "The Federal Reserve's April Inflation Forecast Is In -- and It Just Keeps Getting Worse for Wall Street AOL.com",
+      "guid": "CBMijgFBVV95cUxNWDZidzFxcU1YOHItMHNWQU9vSkRydUNiZmxLX1JLVUlQbFlVeERSOVpUTXZTd211NkVJdkJKdlpqLWlUSVVUbTJKUHA3eHRYQ29NcGQ0WW9KemVJeVE0YTVpcWFWcE9QXzF3VTRuYkhEZG9nYXJvNGpvRWV0RWVYTlp1R2hLRW9YSXF5a3Vn"
+    },
+    {
+      "title": "The Federal Reserve's April prediction for inflation has been released — and the outlook for Wall Street continues to deteriorate. - Bitget",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0wTWJUSDQydjNXdEpRc1c3Mm1pSURYR2thMmloRnF6YjJHQTlhbDlERHhvNUVSRXNxY3Y0Nk9rbmJacUN4RU11YUxKNkRrYWY0M3FlVWhIVjVmVG9GOWfSAWNBVV95cUxORnNuek9PZDhhMmhBYm9XZ1dxQmM1V3lRdzlSWWxMMi14dEkyakpZOFhkN2QtengyZTRrOVcxbmlNR2ZhYXpxdnNQcS1SbmFHWldmeEFOUjk2bEh5elRNNDVJOGs?oc=5",
+      "source": "Bitget",
+      "published_at": "Mon, 13 Apr 2026 20:00:51 GMT",
+      "summary": "The Federal Reserve's April prediction for inflation has been released — and the outlook for Wall Street continues to deteriorate. Bitget",
+      "guid": "CBMiXkFVX3lxTE0wTWJUSDQydjNXdEpRc1c3Mm1pSURYR2thMmloRnF6YjJHQTlhbDlERHhvNUVSRXNxY3Y0Nk9rbmJacUN4RU11YUxKNkRrYWY0M3FlVWhIVjVmVG9GOWfSAWNBVV95cUxORnNuek9PZDhhMmhBYm9XZ1dxQmM1V3lRdzlSWWxMMi14dEkyakpZOFhkN2QtengyZTRrOVcxbmlNR2ZhYXpxdnNQcS1SbmFHWldmeEFOUjk2bEh5elRNNDVJOGs"
     }
   ]
 }
