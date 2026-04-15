@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-15T06:21:07Z",
+  "generated_at": "2026-04-15T08:11:02Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,11 +7,11 @@
   },
   "items": [
     {
-      "title": "2% Inflation Is Holding the Federal Reserve Hostage: This Is What the Stock Market Desperately Needs to Keep Growing - Barchart.com",
+      "title": "2% Inflation Is Holding the Federal Reserve Hostage: This Is What the Stock Market Desperately Needs to Keep Growing - Barchart",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcm1xS0MtYk56a3pQbkROcW92QWNGclBXbHNKOGJhNm9ncl85UDNTa05RTmZGcXVXZ2NHenU2dG5JZ1dyMG9YcWhrcjlxVWNSUW85S0RhUXVIcWxuQUlmd0ppaUtWT1JUckg0VG5MaTNBY05qOE9mQzBXQ3ktUk0yT2twQnZNVmZkeWU2cTN0aDBEY1hkclQxR0NBeHhjRWE2WkNfTExwaVJPbm5xLUxGdXRXZUpiT1ZZcTFPZV9rM1dFTGlsSmRTVHVVS3NRUzNmTjREWUxoMTVvS3U3MXNXWnN1bkRXZmgtcGxsMkRsdw?oc=5",
-      "source": "Barchart.com",
+      "source": "Barchart",
       "published_at": "Tue, 14 Apr 2026 15:50:38 GMT",
-      "summary": "2% Inflation Is Holding the Federal Reserve Hostage: This Is What the Stock Market Desperately Needs to Keep Growing Barchart.com",
+      "summary": "2% Inflation Is Holding the Federal Reserve Hostage: This Is What the Stock Market Desperately Needs to Keep Growing Barchart",
       "guid": "CBMi7wFBVV95cUxNcm1xS0MtYk56a3pQbkROcW92QWNGclBXbHNKOGJhNm9ncl85UDNTa05RTmZGcXVXZ2NHenU2dG5JZ1dyMG9YcWhrcjlxVWNSUW85S0RhUXVIcWxuQUlmd0ppaUtWT1JUckg0VG5MaTNBY05qOE9mQzBXQ3ktUk0yT2twQnZNVmZkeWU2cTN0aDBEY1hkclQxR0NBeHhjRWE2WkNfTExwaVJPbm5xLUxGdXRXZUpiT1ZZcTFPZV9rM1dFTGlsSmRTVHVVS3NRUzNmTjREWUxoMTVvS3U3MXNXWnN1bkRXZmgtcGxsMkRsdw"
     },
     {
@@ -29,14 +29,6 @@
       "published_at": "Wed, 15 Apr 2026 02:15:28 GMT",
       "summary": "US prosecutors make surprise visit to Federal Reserve office By Reuters Investing.com",
       "guid": "CBMisgFBVV95cUxOYlc3QlBJRlk0WU0xTFlUZkxRRVFzZS02S3ZiT1RUdGRfQ3JHdXVsN01OTDJjR19Pa3QyUGJESGtzaGdjUTRJbzg5T3AyZUZ0eVdBZWloMzlieHZ1bGJabVBEWXhmb3pyaHpkb09mS1lvTGJDMkZXVUZFRWZubXRyQnZjZi1va1lIM1Q3QlRoVmNFU0JmNF9hOFhBdnZPQzJDcGRqOWZESk5HX25CZGpRMlZR"
-    },
-    {
-      "title": "Tracker: The Federal Reserve’s Balance Sheet Assets - The American Action Forum",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0?oc=5",
-      "source": "The American Action Forum",
-      "published_at": "Fri, 10 Apr 2026 07:00:00 GMT",
-      "summary": "Tracker: The Federal Reserve’s Balance Sheet Assets The American Action Forum",
-      "guid": "CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0"
     },
     {
       "title": "The Federal Reserve's April Inflation Forecast Is In -- and It Just Keeps Getting Worse for Wall Street - The Globe and Mail",
@@ -71,20 +63,28 @@
       "guid": "CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw"
     },
     {
-      "title": "The Federal Reserve Is Raising Red Flags, and the Stock Market Isn't Listening - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUHVScVZWbjROUF9jZFhqLWJ3b3h5Tmtnc21falh3VkNpdnF0aGJZeUtGQy1pZkthbV9QVXhUbzM4enh3aXFpMndXNkN4VUQ2bmJjdElFOEQ4VXJtVUduNE1XQmUzdGNtZnd4Y2Z1MktOT2lvV1czTThObFNnYkpIOA?oc=5",
-      "source": "AOL.com",
-      "published_at": "Sun, 22 Mar 2026 15:12:22 GMT",
-      "summary": "The Federal Reserve Is Raising Red Flags, and the Stock Market Isn't Listening AOL.com",
-      "guid": "CBMigAFBVV95cUxPUHVScVZWbjROUF9jZFhqLWJ3b3h5Tmtnc21falh3VkNpdnF0aGJZeUtGQy1pZkthbV9QVXhUbzM4enh3aXFpMndXNkN4VUQ2bmJjdElFOEQ4VXJtVUduNE1XQmUzdGNtZnd4Y2Z1MktOT2lvV1czTThObFNnYkpIOA"
+      "title": "The Federal Reserve's Nightmare Scenario Is Taking Shape and the Stock Market Should Pay Attention - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYUo0M25uWWVNa3gwQ29FRUktMWNpQ3pWYVdWT3V5MU1MRjdpZE1NYnkzTWxqS1JXcFVMa0Jjb0xjZ1hZOEJSLTZZWnQxTHpSWlNvbm0xSy1qdDVveURWczdwcGg3NDlfR29Ha25oVG5fbGJwbkdJUTZiMFlhNmctVm1oWldidnd1NWt3YVhJN1Boc2plNDJ2aFhvcGpJdEtqYmtpc1Aybm1YSU91cTR1SDc1TldJTWJpQjk5TzZZMWp2OHduS3hGeTJMbHhWNExUM0FQVmRxMDE?oc=5",
+      "source": "24/7 Wall St.",
+      "published_at": "Tue, 07 Apr 2026 16:45:12 GMT",
+      "summary": "The Federal Reserve's Nightmare Scenario Is Taking Shape and the Stock Market Should Pay Attention 24/7 Wall St.",
+      "guid": "CBMi2AFBVV95cUxOYUo0M25uWWVNa3gwQ29FRUktMWNpQ3pWYVdWT3V5MU1MRjdpZE1NYnkzTWxqS1JXcFVMa0Jjb0xjZ1hZOEJSLTZZWnQxTHpSWlNvbm0xSy1qdDVveURWczdwcGg3NDlfR29Ha25oVG5fbGJwbkdJUTZiMFlhNmctVm1oWldidnd1NWt3YVhJN1Boc2plNDJ2aFhvcGpJdEtqYmtpc1Aybm1YSU91cTR1SDc1TldJTWJpQjk5TzZZMWp2OHduS3hGeTJMbHhWNExUM0FQVmRxMDE"
     },
     {
-      "title": "The Federal Reserve's April Inflation Forecast Is In -- and It Just Keeps Getting Worse for Wall Street - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOXVrN3ZuN3RKY0hUXzloN2FWaVRyeEM3NVp4dGZHM0liMXNLVWlNekhqek1Cb3E5OUMzZHlVNjVwNWVCS3kxNnhaejlUZTQ4R2VpME1KTldqVXo3d0lHTGpSZ1Y3RkFQX1ROQ2tZRHJHWkpVRFRkMjlnMnU3anVmN0xsUzN3bG41dmJtblh0R21tSi0waGc?oc=5",
+      "title": "How Net Worth for Americans Ages 55 to 64 Compares—Key Federal Reserve Findings - Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObGRseW51ak9zMXpIcGVYVFJ0ckY0LVBsNTZIMVhJV0JHallubFAtbks1VWJZbnNiYzhYVFhuU09ONW5WVEQ0NFo2ZnRVZG5yZWVPREZBNmg1Nlk4bllNYXFOWUo1Tzk2bEQ4UEJvRGV3UWZuOHJ0Rmd1OGJEa3JHUnZEOXVTc1FjU2E2YklvMmpwLTQ2UFAyX3MzQXluazQ1NnoyY0Z4TDMyR29iYU91Sml0VWpmbFg5?oc=5",
+      "source": "Investopedia",
+      "published_at": "Tue, 14 Apr 2026 02:55:07 GMT",
+      "summary": "How Net Worth for Americans Ages 55 to 64 Compares—Key Federal Reserve Findings Investopedia",
+      "guid": "CBMiuAFBVV95cUxObGRseW51ak9zMXpIcGVYVFJ0ckY0LVBsNTZIMVhJV0JHallubFAtbks1VWJZbnNiYzhYVFhuU09ONW5WVEQ0NFo2ZnRVZG5yZWVPREZBNmg1Nlk4bllNYXFOWUo1Tzk2bEQ4UEJvRGV3UWZuOHJ0Rmd1OGJEa3JHUnZEOXVTc1FjU2E2YklvMmpwLTQ2UFAyX3MzQXluazQ1NnoyY0Z4TDMyR29iYU91Sml0VWpmbFg5"
+    },
+    {
+      "title": "Inflation Recently Did Something It Hasn't Done Since April 2021, and It Could Spell Trouble for the Stock Market - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWEwybnNmdGxxWU5SbWdDT0VibjNPcmdaWDVwNmszU1hYS0tCYWVZd0xZaTFLT3NHc1V5ZkVoaFZYOVQxcGZJcFQzQ1diVndKT3REcXF0T1VJVVVsX0UxTDRtei1DS0Y1bWNzTnl4Zy1NNGpCMmpxNkUwRkNjRk8xRlNnYncyLW9rakZ4SEozX0NncVVpMllrSQ?oc=5",
       "source": "The Motley Fool",
-      "published_at": "Mon, 13 Apr 2026 09:06:00 GMT",
-      "summary": "The Federal Reserve's April Inflation Forecast Is In -- and It Just Keeps Getting Worse for Wall Street The Motley Fool",
-      "guid": "CBMilgFBVV95cUxPOXVrN3ZuN3RKY0hUXzloN2FWaVRyeEM3NVp4dGZHM0liMXNLVWlNekhqek1Cb3E5OUMzZHlVNjVwNWVCS3kxNnhaejlUZTQ4R2VpME1KTldqVXo3d0lHTGpSZ1Y3RkFQX1ROQ2tZRHJHWkpVRFRkMjlnMnU3anVmN0xsUzN3bG41dmJtblh0R21tSi0waGc"
+      "published_at": "Fri, 10 Apr 2026 11:55:00 GMT",
+      "summary": "Inflation Recently Did Something It Hasn't Done Since April 2021, and It Could Spell Trouble for the Stock Market The Motley Fool",
+      "guid": "CBMimAFBVV95cUxPWEwybnNmdGxxWU5SbWdDT0VibjNPcmdaWDVwNmszU1hYS0tCYWVZd0xZaTFLT3NHc1V5ZkVoaFZYOVQxcGZJcFQzQ1diVndKT3REcXF0T1VJVVVsX0UxTDRtei1DS0Y1bWNzTnl4Zy1NNGpCMmpxNkUwRkNjRk8xRlNnYncyLW9rakZ4SEozX0NncVVpMllrSQ"
     }
   ]
 }
