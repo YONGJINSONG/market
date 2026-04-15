@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-15T10:51:25Z",
+  "generated_at": "2026-04-15T11:45:52Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -10,17 +10,9 @@
       "title": "Has the Stock Market Really Been More Volatile Than Usual This Year? - Morningstar",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTllDMnFERzRraW1EY1VjTFZ0QVBZSGhGT3J1Rkx3QTU5LVE4d1k5aGM1bVcyajlFOHdxeXVYTUt6S1V4QUpaTC1TdjJRSFdlRTM4NXVFM2ZOREpfNEp2VmhqRkZYN3dNczlMcnZEcHRzcEdmUkdBQkp2ZlEzOVNDUS1OQmU0LTlBa1JYOUg4ODUwd3ZGalJobFQ0ZkhUTkk?oc=5",
       "source": "Morningstar",
-      "published_at": "Wed, 15 Apr 2026 09:11:15 GMT",
+      "published_at": "Wed, 15 Apr 2026 09:12:10 GMT",
       "summary": "Has the Stock Market Really Been More Volatile Than Usual This Year? Morningstar",
       "guid": "CBMinwFBVV95cUxPTllDMnFERzRraW1EY1VjTFZ0QVBZSGhGT3J1Rkx3QTU5LVE4d1k5aGM1bVcyajlFOHdxeXVYTUt6S1V4QUpaTC1TdjJRSFdlRTM4NXVFM2ZOREpfNEp2VmhqRkZYN3dNczlMcnZEcHRzcEdmUkdBQkp2ZlEzOVNDUS1OQmU0LTlBa1JYOUg4ODUwd3ZGalJobFQ0ZkhUTkk"
-    },
-    {
-      "title": "2% Inflation Is Holding the Federal Reserve Hostage: This Is What the Stock Market Desperately Needs to Keep Growing - Barchart",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcm1xS0MtYk56a3pQbkROcW92QWNGclBXbHNKOGJhNm9ncl85UDNTa05RTmZGcXVXZ2NHenU2dG5JZ1dyMG9YcWhrcjlxVWNSUW85S0RhUXVIcWxuQUlmd0ppaUtWT1JUckg0VG5MaTNBY05qOE9mQzBXQ3ktUk0yT2twQnZNVmZkeWU2cTN0aDBEY1hkclQxR0NBeHhjRWE2WkNfTExwaVJPbm5xLUxGdXRXZUpiT1ZZcTFPZV9rM1dFTGlsSmRTVHVVS3NRUzNmTjREWUxoMTVvS3U3MXNXWnN1bkRXZmgtcGxsMkRsdw?oc=5",
-      "source": "Barchart",
-      "published_at": "Tue, 14 Apr 2026 15:50:38 GMT",
-      "summary": "2% Inflation Is Holding the Federal Reserve Hostage: This Is What the Stock Market Desperately Needs to Keep Growing Barchart",
-      "guid": "CBMi7wFBVV95cUxNcm1xS0MtYk56a3pQbkROcW92QWNGclBXbHNKOGJhNm9ncl85UDNTa05RTmZGcXVXZ2NHenU2dG5JZ1dyMG9YcWhrcjlxVWNSUW85S0RhUXVIcWxuQUlmd0ppaUtWT1JUckg0VG5MaTNBY05qOE9mQzBXQ3ktUk0yT2twQnZNVmZkeWU2cTN0aDBEY1hkclQxR0NBeHhjRWE2WkNfTExwaVJPbm5xLUxGdXRXZUpiT1ZZcTFPZV9rM1dFTGlsSmRTVHVVS3NRUzNmTjREWUxoMTVvS3U3MXNXWnN1bkRXZmgtcGxsMkRsdw"
     },
     {
       "title": "Federal Reserve Chairman Jerome Powell Just Delivered Fantastic News for Stock Market Investors - Yahoo Finance",
@@ -31,12 +23,28 @@
       "guid": "CBMiogFBVV95cUxPSU5HQUpJYWhMTkV6RjUwUEpMdlBFNjFNQnI5U1lXcEVPR0hycmsxaTV6a2cwbmUzZ3JnbFFrUnJGNXpUcy1HdFZqRm1xRDd0QTE2SFFsUkozbWF0WUFERjFmcE9tM2hKTFBuc1FoZ3pxX3ItQXU2YTVuQlNjRWh0Zlc0a1lLZGw3ckw1WjVSOTRZLUNPMFBJaG51dzhDd1JWRkE"
     },
     {
+      "title": "2% Inflation Is Holding the Federal Reserve Hostage: This Is What the Stock Market Desperately Needs to Keep Growing - Barchart",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcm1xS0MtYk56a3pQbkROcW92QWNGclBXbHNKOGJhNm9ncl85UDNTa05RTmZGcXVXZ2NHenU2dG5JZ1dyMG9YcWhrcjlxVWNSUW85S0RhUXVIcWxuQUlmd0ppaUtWT1JUckg0VG5MaTNBY05qOE9mQzBXQ3ktUk0yT2twQnZNVmZkeWU2cTN0aDBEY1hkclQxR0NBeHhjRWE2WkNfTExwaVJPbm5xLUxGdXRXZUpiT1ZZcTFPZV9rM1dFTGlsSmRTVHVVS3NRUzNmTjREWUxoMTVvS3U3MXNXWnN1bkRXZmgtcGxsMkRsdw?oc=5",
+      "source": "Barchart",
+      "published_at": "Tue, 14 Apr 2026 15:50:38 GMT",
+      "summary": "2% Inflation Is Holding the Federal Reserve Hostage: This Is What the Stock Market Desperately Needs to Keep Growing Barchart",
+      "guid": "CBMi7wFBVV95cUxNcm1xS0MtYk56a3pQbkROcW92QWNGclBXbHNKOGJhNm9ncl85UDNTa05RTmZGcXVXZ2NHenU2dG5JZ1dyMG9YcWhrcjlxVWNSUW85S0RhUXVIcWxuQUlmd0ppaUtWT1JUckg0VG5MaTNBY05qOE9mQzBXQ3ktUk0yT2twQnZNVmZkeWU2cTN0aDBEY1hkclQxR0NBeHhjRWE2WkNfTExwaVJPbm5xLUxGdXRXZUpiT1ZZcTFPZV9rM1dFTGlsSmRTVHVVS3NRUzNmTjREWUxoMTVvS3U3MXNXWnN1bkRXZmgtcGxsMkRsdw"
+    },
+    {
       "title": "We're Precisely 1 Month Away From a Historic Shake-Up at the Federal Reserve -- and Wall Street Isn't Ready for It - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMnI1S1hneTc5Tzg3V3RadE0zWlA5Wm1vSEJXXzNGOF9OUHQ3ZnBTMTV2MWFnZGUzNzM1UFhtTWNORS1TSlNQY1A5TDFXNUtELTBXdGk2N2FEcDhnLXpzZWZtQjduSG5QQm5oR3I0cGVFTnY3YmhYWVk4SGtzUVhpQmc3aGpNRTJjem54b1o1b05RbDloeWU0?oc=5",
       "source": "The Motley Fool",
       "published_at": "Wed, 15 Apr 2026 08:27:43 GMT",
       "summary": "We're Precisely 1 Month Away From a Historic Shake-Up at the Federal Reserve -- and Wall Street Isn't Ready for It The Motley Fool",
       "guid": "CBMilwFBVV95cUxQMnI1S1hneTc5Tzg3V3RadE0zWlA5Wm1vSEJXXzNGOF9OUHQ3ZnBTMTV2MWFnZGUzNzM1UFhtTWNORS1TSlNQY1A5TDFXNUtELTBXdGk2N2FEcDhnLXpzZWZtQjduSG5QQm5oR3I0cGVFTnY3YmhYWVk4SGtzUVhpQmc3aGpNRTJjem54b1o1b05RbDloeWU0"
+    },
+    {
+      "title": "Tracker: The Federal Reserve’s Balance Sheet Assets - The American Action Forum",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0?oc=5",
+      "source": "The American Action Forum",
+      "published_at": "Fri, 10 Apr 2026 07:00:00 GMT",
+      "summary": "Tracker: The Federal Reserve’s Balance Sheet Assets The American Action Forum",
+      "guid": "CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0"
     },
     {
       "title": "US prosecutors make surprise visit to Federal Reserve office By Reuters - Investing.com",
@@ -47,30 +55,6 @@
       "guid": "CBMisgFBVV95cUxOYlc3QlBJRlk0WU0xTFlUZkxRRVFzZS02S3ZiT1RUdGRfQ3JHdXVsN01OTDJjR19Pa3QyUGJESGtzaGdjUTRJbzg5T3AyZUZ0eVdBZWloMzlieHZ1bGJabVBEWXhmb3pyaHpkb09mS1lvTGJDMkZXVUZFRWZubXRyQnZjZi1va1lIM1Q3QlRoVmNFU0JmNF9hOFhBdnZPQzJDcGRqOWZESk5HX25CZGpRMlZR"
     },
     {
-      "title": "Federal reserve reveals troubling reality about wealthy Americans - thestreet.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdmhtMzdMTXZCMno5al9HNWR3UTFLcUxWdWVnRHhNSm1KbllKdzVQTWY1LWRLMG42dnlwN2tuSHR0WHR6LUVUaTlGbkxRTFFERW5YaTA5U3RJdTd1aUV3dnVMWmJhbWZXV25aLW9lZU1pdjZ0dVZyTWxQQkhSbVJPcFpnS2hnVy1Ma2toOEFLTlRpTHhtZkM2Q2dWNlVscGhW?oc=5",
-      "source": "thestreet.com",
-      "published_at": "Sat, 11 Apr 2026 06:03:00 GMT",
-      "summary": "Federal reserve reveals troubling reality about wealthy Americans thestreet.com",
-      "guid": "CBMioAFBVV95cUxQdmhtMzdMTXZCMno5al9HNWR3UTFLcUxWdWVnRHhNSm1KbllKdzVQTWY1LWRLMG42dnlwN2tuSHR0WHR6LUVUaTlGbkxRTFFERW5YaTA5U3RJdTd1aUV3dnVMWmJhbWZXV25aLW9lZU1pdjZ0dVZyTWxQQkhSbVJPcFpnS2hnVy1Ma2toOEFLTlRpTHhtZkM2Q2dWNlVscGhW"
-    },
-    {
-      "title": "The Federal Reserve's April Inflation Forecast Is In -- and It Just Keeps Getting Worse for Wall Street - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWDZidzFxcU1YOHItMHNWQU9vSkRydUNiZmxLX1JLVUlQbFlVeERSOVpUTXZTd211NkVJdkJKdlpqLWlUSVVUbTJKUHA3eHRYQ29NcGQ0WW9KemVJeVE0YTVpcWFWcE9QXzF3VTRuYkhEZG9nYXJvNGpvRWV0RWVYTlp1R2hLRW9YSXF5a3Vn?oc=5",
-      "source": "AOL.com",
-      "published_at": "Mon, 13 Apr 2026 08:37:37 GMT",
-      "summary": "The Federal Reserve's April Inflation Forecast Is In -- and It Just Keeps Getting Worse for Wall Street AOL.com",
-      "guid": "CBMijgFBVV95cUxNWDZidzFxcU1YOHItMHNWQU9vSkRydUNiZmxLX1JLVUlQbFlVeERSOVpUTXZTd211NkVJdkJKdlpqLWlUSVVUbTJKUHA3eHRYQ29NcGQ0WW9KemVJeVE0YTVpcWFWcE9QXzF3VTRuYkhEZG9nYXJvNGpvRWV0RWVYTlp1R2hLRW9YSXF5a3Vn"
-    },
-    {
-      "title": "The Federal Reserve's April prediction for inflation has been released — and the outlook for Wall Street continues to deteriorate. - Bitget",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0wTWJUSDQydjNXdEpRc1c3Mm1pSURYR2thMmloRnF6YjJHQTlhbDlERHhvNUVSRXNxY3Y0Nk9rbmJacUN4RU11YUxKNkRrYWY0M3FlVWhIVjVmVG9GOWfSAWNBVV95cUxORnNuek9PZDhhMmhBYm9XZ1dxQmM1V3lRdzlSWWxMMi14dEkyakpZOFhkN2QtengyZTRrOVcxbmlNR2ZhYXpxdnNQcS1SbmFHWldmeEFOUjk2bEh5elRNNDVJOGs?oc=5",
-      "source": "Bitget",
-      "published_at": "Mon, 13 Apr 2026 20:00:51 GMT",
-      "summary": "The Federal Reserve's April prediction for inflation has been released — and the outlook for Wall Street continues to deteriorate. Bitget",
-      "guid": "CBMiXkFVX3lxTE0wTWJUSDQydjNXdEpRc1c3Mm1pSURYR2thMmloRnF6YjJHQTlhbDlERHhvNUVSRXNxY3Y0Nk9rbmJacUN4RU11YUxKNkRrYWY0M3FlVWhIVjVmVG9GOWfSAWNBVV95cUxORnNuek9PZDhhMmhBYm9XZ1dxQmM1V3lRdzlSWWxMMi14dEkyakpZOFhkN2QtengyZTRrOVcxbmlNR2ZhYXpxdnNQcS1SbmFHWldmeEFOUjk2bEh5elRNNDVJOGs"
-    },
-    {
       "title": "Federal Reserve holds interest rates steady, signals one rate cut amid inflation uncertainty - U.S. Bank",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw?oc=5",
       "source": "U.S. Bank",
@@ -79,12 +63,28 @@
       "guid": "CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw"
     },
     {
-      "title": "The Federal Reserve's Nightmare Scenario Is Taking Shape and the Stock Market Should Pay Attention - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYUo0M25uWWVNa3gwQ29FRUktMWNpQ3pWYVdWT3V5MU1MRjdpZE1NYnkzTWxqS1JXcFVMa0Jjb0xjZ1hZOEJSLTZZWnQxTHpSWlNvbm0xSy1qdDVveURWczdwcGg3NDlfR29Ha25oVG5fbGJwbkdJUTZiMFlhNmctVm1oWldidnd1NWt3YVhJN1Boc2plNDJ2aFhvcGpJdEtqYmtpc1Aybm1YSU91cTR1SDc1TldJTWJpQjk5TzZZMWp2OHduS3hGeTJMbHhWNExUM0FQVmRxMDE?oc=5",
-      "source": "24/7 Wall St.",
-      "published_at": "Tue, 07 Apr 2026 16:45:12 GMT",
-      "summary": "The Federal Reserve's Nightmare Scenario Is Taking Shape and the Stock Market Should Pay Attention 24/7 Wall St.",
-      "guid": "CBMi2AFBVV95cUxOYUo0M25uWWVNa3gwQ29FRUktMWNpQ3pWYVdWT3V5MU1MRjdpZE1NYnkzTWxqS1JXcFVMa0Jjb0xjZ1hZOEJSLTZZWnQxTHpSWlNvbm0xSy1qdDVveURWczdwcGg3NDlfR29Ha25oVG5fbGJwbkdJUTZiMFlhNmctVm1oWldidnd1NWt3YVhJN1Boc2plNDJ2aFhvcGpJdEtqYmtpc1Aybm1YSU91cTR1SDc1TldJTWJpQjk5TzZZMWp2OHduS3hGeTJMbHhWNExUM0FQVmRxMDE"
+      "title": "Market Reactions to Tariff Announcements - Federal Reserve Bank of San Francisco",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM1dfLWVxeDJGbVNDYU9vWU8xOW5Fbk9rWk5KREtjbWFDcWFfdzAyVE5WMDhINUpWbWVDVWZmRHBSSlN3blk5alBHd3B1RE5JSmVMRTd3SXhNQmZWdDllUDFCU1lwTk9zcmpBSmhmazM5OEhIWEVHMlhHTDY4M1luNXJ5TExQbi1RMjBLbmpZd3BqLU1zanlvM0hvVWhVcWtiSWZBOV9ENTJmTWUtQzIxdmprYlpGNnJzQk11T1ZfWQ?oc=5",
+      "source": "Federal Reserve Bank of San Francisco",
+      "published_at": "Mon, 06 Oct 2025 07:00:00 GMT",
+      "summary": "Market Reactions to Tariff Announcements Federal Reserve Bank of San Francisco",
+      "guid": "CBMivwFBVV95cUxOM1dfLWVxeDJGbVNDYU9vWU8xOW5Fbk9rWk5KREtjbWFDcWFfdzAyVE5WMDhINUpWbWVDVWZmRHBSSlN3blk5alBHd3B1RE5JSmVMRTd3SXhNQmZWdDllUDFCU1lwTk9zcmpBSmhmazM5OEhIWEVHMlhHTDY4M1luNXJ5TExQbi1RMjBLbmpZd3BqLU1zanlvM0hvVWhVcWtiSWZBOV9ENTJmTWUtQzIxdmprYlpGNnJzQk11T1ZfWQ"
+    },
+    {
+      "title": "Federal reserve reveals troubling reality about wealthy Americans - thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdmhtMzdMTXZCMno5al9HNWR3UTFLcUxWdWVnRHhNSm1KbllKdzVQTWY1LWRLMG42dnlwN2tuSHR0WHR6LUVUaTlGbkxRTFFERW5YaTA5U3RJdTd1aUV3dnVMWmJhbWZXV25aLW9lZU1pdjZ0dVZyTWxQQkhSbVJPcFpnS2hnVy1Ma2toOEFLTlRpTHhtZkM2Q2dWNlVscGhW?oc=5",
+      "source": "thestreet.com",
+      "published_at": "Sat, 11 Apr 2026 06:03:00 GMT",
+      "summary": "Federal reserve reveals troubling reality about wealthy Americans thestreet.com",
+      "guid": "CBMioAFBVV95cUxQdmhtMzdMTXZCMno5al9HNWR3UTFLcUxWdWVnRHhNSm1KbllKdzVQTWY1LWRLMG42dnlwN2tuSHR0WHR6LUVUaTlGbkxRTFFERW5YaTA5U3RJdTd1aUV3dnVMWmJhbWZXV25aLW9lZU1pdjZ0dVZyTWxQQkhSbVJPcFpnS2hnVy1Ma2toOEFLTlRpTHhtZkM2Q2dWNlVscGhW"
+    },
+    {
+      "title": "What Causes “Jumps” in Stock Prices? - Federal Reserve Bank of St. Louis",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNlU3bVlaY05yZmRvNlVELU8yV25yT2ozUmJtT1lJbG1HelVoMGt4d1lVNHZkR3BrZkt4VzRRSXZjT3FHUXlLbHNZWkh3R1dYaWNjV3ZzNE9ROWJpQmZ3cFpwdEdLbXR6T00wamtwbmdLcF9RUDA3eEU5aUp1QWZwV0pMUDJrZ0hj?oc=5",
+      "source": "Federal Reserve Bank of St. Louis",
+      "published_at": "Mon, 29 Sep 2025 07:00:00 GMT",
+      "summary": "What Causes “Jumps” in Stock Prices? Federal Reserve Bank of St. Louis",
+      "guid": "CBMiiAFBVV95cUxPNlU3bVlaY05yZmRvNlVELU8yV25yT2ozUmJtT1lJbG1HelVoMGt4d1lVNHZkR3BrZkt4VzRRSXZjT3FHUXlLbHNZWkh3R1dYaWNjV3ZzNE9ROWJpQmZ3cFpwdEdLbXR6T00wamtwbmdLcF9RUDA3eEU5aUp1QWZwV0pMUDJrZ0hj"
     }
   ]
 }
