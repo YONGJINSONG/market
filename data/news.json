@@ -1,19 +1,11 @@
 {
-  "generated_at": "2026-04-18T04:56:41Z",
+  "generated_at": "2026-04-18T06:08:53Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
-    {
-      "title": "Tracker: The Federal Reserve’s Balance Sheet Assets - The American Action Forum",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0?oc=5",
-      "source": "The American Action Forum",
-      "published_at": "Fri, 17 Apr 2026 15:16:57 GMT",
-      "summary": "Tracker: The Federal Reserve’s Balance Sheet Assets The American Action Forum",
-      "guid": "CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0"
-    },
     {
       "title": "Federal Reserve Chairman Jerome Powell Just Delivered Fantastic News for Stock Market Investors - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSU5HQUpJYWhMTkV6RjUwUEpMdlBFNjFNQnI5U1lXcEVPR0hycmsxaTV6a2cwbmUzZ3JnbFFrUnJGNXpUcy1HdFZqRm1xRDd0QTE2SFFsUkozbWF0WUFERjFmcE9tM2hKTFBuc1FoZ3pxX3ItQXU2YTVuQlNjRWh0Zlc0a1lLZGw3ckw1WjVSOTRZLUNPMFBJaG51dzhDd1JWRkE?oc=5",
@@ -55,14 +47,6 @@
       "guid": "CBMiswFBVV95cUxQajV0NHBpSkpRclVLX0pqZUh0X1pWcFBzSThtODB4bm8yby1IcUJIZjRaT21xX3pfZURSNFdfdlRORnFhaExXQXRjdUpEb1hGMkxfOEFsNkk3UjVWTlhhT0JfUWctYXZvUl9IX09EcGF2YTRydXVyOF9jTUVhM2k5NFhtbFBoRllFclVQc0VsUEtySVpXSkExdWFOTnZ3cnoyX21hb0RFTl9UYmpxdi1DNzVSVQ"
     },
     {
-      "title": "Money Markets: What They Are, How They Work, and Who Uses Them - Investopedia",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5oM0ZzZ0tzWDZ2UDF6U3ROLWtrUUVTaUo1MWRvOExSQ3BZWkZSVFRmUkFuaHZYbGdGdWlmMXJwWHFNbzJVRmpTWmFRWnpUVlBtYmJEaGRnMTJxVTJDT2NDaTBR?oc=5",
-      "source": "Investopedia",
-      "published_at": "Wed, 15 Apr 2026 07:00:00 GMT",
-      "summary": "Money Markets: What They Are, How They Work, and Who Uses Them Investopedia",
-      "guid": "CBMiYkFVX3lxTE5oM0ZzZ0tzWDZ2UDF6U3ROLWtrUUVTaUo1MWRvOExSQ3BZWkZSVFRmUkFuaHZYbGdGdWlmMXJwWHFNbzJVRmpTWmFRWnpUVlBtYmJEaGRnMTJxVTJDT2NDaTBR"
-    },
-    {
       "title": "Deutsche Bank Expects US Federal Reserve to Keep Rates Unchanged This Year - AASTOCKS.com",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOF9CVlI0T1o3M3A4aVFIQnUyRmsyamNkRGdveGZSZUthZzB5Q19EdDVPbWYzVjIwT3dUZTVYRXZ2NUJITUtBT0Z3X1l1eHhPTXNvUXB3aUZiYWhka1RxQ0lFRlh4Tm5RUDZnTkVoUnRaTHRSU1ctekk1RzdTS2VtYy10Qnl5S18tZ0E?oc=5",
       "source": "AASTOCKS.com",
@@ -85,6 +69,22 @@
       "published_at": "Wed, 18 Mar 2026 07:00:00 GMT",
       "summary": "Federal Reserve holds interest rates steady, signals one rate cut amid inflation uncertainty U.S. Bank",
       "guid": "CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw"
+    },
+    {
+      "title": "The Fed Has a Warning About the Iran War. Is Wall Street Listening? - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTlY0MHlPNzZiYnJwaUs1WExnZ3M1M0dEYVBDMGZJZVBaS1dBZndUXzIwQUgyQlZrM0dIODhaMm16VjFBM1ZvY1ZVVGF3UHFwLUs3U0tjZ3ZvaWp1WFNIUk5JVDY0TE1xOEhfcnBnRVFSeTROVjFiTWJCb0lVdlU0eG11U29kVGZpS0p0S0pCMi1pNklwSkZoOA?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Thu, 16 Apr 2026 17:50:00 GMT",
+      "summary": "The Fed Has a Warning About the Iran War. Is Wall Street Listening? The Motley Fool",
+      "guid": "CBMimAFBVV95cUxPTlY0MHlPNzZiYnJwaUs1WExnZ3M1M0dEYVBDMGZJZVBaS1dBZndUXzIwQUgyQlZrM0dIODhaMm16VjFBM1ZvY1ZVVGF3UHFwLUs3U0tjZ3ZvaWp1WFNIUk5JVDY0TE1xOEhfcnBnRVFSeTROVjFiTWJCb0lVdlU0eG11U29kVGZpS0p0S0pCMi1pNklwSkZoOA"
+    },
+    {
+      "title": "A Federal Reserve Double Whammy Is 2 Months Away and Most Investors Aren't Ready - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNDFGODRVd3BYZ1IzS21LVlU1SDF0aDFSdTlMdlFWNXdqeDBrTTRqaEdlUHVsYkV2cFRrMEI2cmx3Znc5VE5ubkQ3UmEtb2w5MlRhbnJtaWYtdVowTkNIc3RnUk54TkIyYjgzWUsxTm1MX3VGSl9UcGZPTXRzQUhVU3diQmJKQmxjU0stQXZDNUdUS2pseEVzcVU2WQ?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Sun, 22 Mar 2026 07:00:00 GMT",
+      "summary": "A Federal Reserve Double Whammy Is 2 Months Away and Most Investors Aren't Ready Yahoo Finance",
+      "guid": "CBMimwFBVV95cUxNNDFGODRVd3BYZ1IzS21LVlU1SDF0aDFSdTlMdlFWNXdqeDBrTTRqaEdlUHVsYkV2cFRrMEI2cmx3Znc5VE5ubkQ3UmEtb2w5MlRhbnJtaWYtdVowTkNIc3RnUk54TkIyYjgzWUsxTm1MX3VGSl9UcGZPTXRzQUhVU3diQmJKQmxjU0stQXZDNUdUS2pseEVzcVU2WQ"
     }
   ]
 }
