@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-18T02:34:43Z",
+  "generated_at": "2026-04-18T04:56:41Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -23,14 +23,6 @@
       "guid": "CBMiogFBVV95cUxPSU5HQUpJYWhMTkV6RjUwUEpMdlBFNjFNQnI5U1lXcEVPR0hycmsxaTV6a2cwbmUzZ3JnbFFrUnJGNXpUcy1HdFZqRm1xRDd0QTE2SFFsUkozbWF0WUFERjFmcE9tM2hKTFBuc1FoZ3pxX3ItQXU2YTVuQlNjRWh0Zlc0a1lLZGw3ckw1WjVSOTRZLUNPMFBJaG51dzhDd1JWRkE"
     },
     {
-      "title": "New Record: Stocks Doing Well (NYSEARCA:SPY) - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9rQ1dnRk5Wc3prcjVPM1U4N0F0R0ZhUzl1ak10ZmYwM2lfbDZZb0ZDX1l1NXhQQzg2WmptOE55RFVKX05HUWVjbGJ3RVJ6WWc1UFJ5Tks0Y0xjeUJOMzBCTkdETFF1VFEyYXk3VG5tMFduUXc5LS0wRg?oc=5",
-      "source": "Seeking Alpha",
-      "published_at": "Fri, 17 Apr 2026 08:11:29 GMT",
-      "summary": "New Record: Stocks Doing Well (NYSEARCA:SPY) Seeking Alpha",
-      "guid": "CBMieEFVX3lxTE9rQ1dnRk5Wc3prcjVPM1U4N0F0R0ZhUzl1ak10ZmYwM2lfbDZZb0ZDX1l1NXhQQzg2WmptOE55RFVKX05HUWVjbGJ3RVJ6WWc1UFJ5Tks0Y0xjeUJOMzBCTkdETFF1VFEyYXk3VG5tMFduUXc5LS0wRg"
-    },
-    {
       "title": "The Federal Reserve’s April Inflation Forecast Is In, and It’s Bad News for Stock Market Bulls - 24/7 Wall St.",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRXktLUpEd2c2QjJia1FiY3lwLXNnTXRJWl85ZG1JcWU1NkxVZjdZUU9BWTlMcC1ydW1hRXZnVFNzLXVvRC1qX3U4Vko1Q3p5LXowcXlUeHdTc0VhaENDNGNaaWZyeHdCUFhvM3ZhMjRIaF9CNnBBZHUxVV9YWDhuX1RrLVFHaHpPbDNOTEdFb1psbHVfc0hvRjFBc01HYkdqcVBPR2d2X053X1pjNlRGTkRWT1loQ3JDTUFNOFRGalR1VmFib1BMTFFkdm5YMmdyM3Qw?oc=5",
       "source": "24/7 Wall St.",
@@ -39,20 +31,28 @@
       "guid": "CBMi0wFBVV95cUxPRXktLUpEd2c2QjJia1FiY3lwLXNnTXRJWl85ZG1JcWU1NkxVZjdZUU9BWTlMcC1ydW1hRXZnVFNzLXVvRC1qX3U4Vko1Q3p5LXowcXlUeHdTc0VhaENDNGNaaWZyeHdCUFhvM3ZhMjRIaF9CNnBBZHUxVV9YWDhuX1RrLVFHaHpPbDNOTEdFb1psbHVfc0hvRjFBc01HYkdqcVBPR2d2X053X1pjNlRGTkRWT1loQ3JDTUFNOFRGalR1VmFib1BMTFFkdm5YMmdyM3Qw"
     },
     {
+      "title": "New Record: Stocks Doing Well (NYSEARCA:SPY) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9rQ1dnRk5Wc3prcjVPM1U4N0F0R0ZhUzl1ak10ZmYwM2lfbDZZb0ZDX1l1NXhQQzg2WmptOE55RFVKX05HUWVjbGJ3RVJ6WWc1UFJ5Tks0Y0xjeUJOMzBCTkdETFF1VFEyYXk3VG5tMFduUXc5LS0wRg?oc=5",
+      "source": "Seeking Alpha",
+      "published_at": "Fri, 17 Apr 2026 08:11:29 GMT",
+      "summary": "New Record: Stocks Doing Well (NYSEARCA:SPY) Seeking Alpha",
+      "guid": "CBMieEFVX3lxTE9rQ1dnRk5Wc3prcjVPM1U4N0F0R0ZhUzl1ak10ZmYwM2lfbDZZb0ZDX1l1NXhQQzg2WmptOE55RFVKX05HUWVjbGJ3RVJ6WWc1UFJ5Tks0Y0xjeUJOMzBCTkdETFF1VFEyYXk3VG5tMFduUXc5LS0wRg"
+    },
+    {
+      "title": "2% Inflation Is Holding the Federal Reserve Hostage: This Is What the Stock Market Desperately Needs to Keep Growing - Barchart",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcm1xS0MtYk56a3pQbkROcW92QWNGclBXbHNKOGJhNm9ncl85UDNTa05RTmZGcXVXZ2NHenU2dG5JZ1dyMG9YcWhrcjlxVWNSUW85S0RhUXVIcWxuQUlmd0ppaUtWT1JUckg0VG5MaTNBY05qOE9mQzBXQ3ktUk0yT2twQnZNVmZkeWU2cTN0aDBEY1hkclQxR0NBeHhjRWE2WkNfTExwaVJPbm5xLUxGdXRXZUpiT1ZZcTFPZV9rM1dFTGlsSmRTVHVVS3NRUzNmTjREWUxoMTVvS3U3MXNXWnN1bkRXZmgtcGxsMkRsdw?oc=5",
+      "source": "Barchart",
+      "published_at": "Tue, 14 Apr 2026 15:50:38 GMT",
+      "summary": "2% Inflation Is Holding the Federal Reserve Hostage: This Is What the Stock Market Desperately Needs to Keep Growing Barchart",
+      "guid": "CBMi7wFBVV95cUxNcm1xS0MtYk56a3pQbkROcW92QWNGclBXbHNKOGJhNm9ncl85UDNTa05RTmZGcXVXZ2NHenU2dG5JZ1dyMG9YcWhrcjlxVWNSUW85S0RhUXVIcWxuQUlmd0ppaUtWT1JUckg0VG5MaTNBY05qOE9mQzBXQ3ktUk0yT2twQnZNVmZkeWU2cTN0aDBEY1hkclQxR0NBeHhjRWE2WkNfTExwaVJPbm5xLUxGdXRXZUpiT1ZZcTFPZV9rM1dFTGlsSmRTVHVVS3NRUzNmTjREWUxoMTVvS3U3MXNXWnN1bkRXZmgtcGxsMkRsdw"
+    },
+    {
       "title": "Deutsche Bank Predicts Federal Reserve Will Keep Interest Rates Steady Through 2026 - StockInvest.us",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQajV0NHBpSkpRclVLX0pqZUh0X1pWcFBzSThtODB4bm8yby1IcUJIZjRaT21xX3pfZURSNFdfdlRORnFhaExXQXRjdUpEb1hGMkxfOEFsNkk3UjVWTlhhT0JfUWctYXZvUl9IX09EcGF2YTRydXVyOF9jTUVhM2k5NFhtbFBoRllFclVQc0VsUEtySVpXSkExdWFOTnZ3cnoyX21hb0RFTl9UYmpxdi1DNzVSVQ?oc=5",
       "source": "StockInvest.us",
       "published_at": "Fri, 17 Apr 2026 08:57:28 GMT",
       "summary": "Deutsche Bank Predicts Federal Reserve Will Keep Interest Rates Steady Through 2026 StockInvest.us",
       "guid": "CBMiswFBVV95cUxQajV0NHBpSkpRclVLX0pqZUh0X1pWcFBzSThtODB4bm8yby1IcUJIZjRaT21xX3pfZURSNFdfdlRORnFhaExXQXRjdUpEb1hGMkxfOEFsNkk3UjVWTlhhT0JfUWctYXZvUl9IX09EcGF2YTRydXVyOF9jTUVhM2k5NFhtbFBoRllFclVQc0VsUEtySVpXSkExdWFOTnZ3cnoyX21hb0RFTl9UYmpxdi1DNzVSVQ"
-    },
-    {
-      "title": "2% Inflation Is Holding the Federal Reserve Hostage: This Is What the Stock Market Desperately Needs to Keep Growing - Barchart.com",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcm1xS0MtYk56a3pQbkROcW92QWNGclBXbHNKOGJhNm9ncl85UDNTa05RTmZGcXVXZ2NHenU2dG5JZ1dyMG9YcWhrcjlxVWNSUW85S0RhUXVIcWxuQUlmd0ppaUtWT1JUckg0VG5MaTNBY05qOE9mQzBXQ3ktUk0yT2twQnZNVmZkeWU2cTN0aDBEY1hkclQxR0NBeHhjRWE2WkNfTExwaVJPbm5xLUxGdXRXZUpiT1ZZcTFPZV9rM1dFTGlsSmRTVHVVS3NRUzNmTjREWUxoMTVvS3U3MXNXWnN1bkRXZmgtcGxsMkRsdw?oc=5",
-      "source": "Barchart.com",
-      "published_at": "Tue, 14 Apr 2026 15:50:38 GMT",
-      "summary": "2% Inflation Is Holding the Federal Reserve Hostage: This Is What the Stock Market Desperately Needs to Keep Growing Barchart.com",
-      "guid": "CBMi7wFBVV95cUxNcm1xS0MtYk56a3pQbkROcW92QWNGclBXbHNKOGJhNm9ncl85UDNTa05RTmZGcXVXZ2NHenU2dG5JZ1dyMG9YcWhrcjlxVWNSUW85S0RhUXVIcWxuQUlmd0ppaUtWT1JUckg0VG5MaTNBY05qOE9mQzBXQ3ktUk0yT2twQnZNVmZkeWU2cTN0aDBEY1hkclQxR0NBeHhjRWE2WkNfTExwaVJPbm5xLUxGdXRXZUpiT1ZZcTFPZV9rM1dFTGlsSmRTVHVVS3NRUzNmTjREWUxoMTVvS3U3MXNXWnN1bkRXZmgtcGxsMkRsdw"
     },
     {
       "title": "Money Markets: What They Are, How They Work, and Who Uses Them - Investopedia",
