@@ -1,19 +1,11 @@
 {
-  "generated_at": "2026-04-18T19:28:02Z",
+  "generated_at": "2026-04-18T19:58:21Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
-    {
-      "title": "Tracker: The Federal Reserve’s Balance Sheet Assets - The American Action Forum",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0?oc=5",
-      "source": "The American Action Forum",
-      "published_at": "Fri, 17 Apr 2026 15:16:57 GMT",
-      "summary": "Tracker: The Federal Reserve’s Balance Sheet Assets The American Action Forum",
-      "guid": "CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0"
-    },
     {
       "title": "Federal Reserve Chairman Jerome Powell Just Delivered Fantastic News for Stock Market Investors - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSU5HQUpJYWhMTkV6RjUwUEpMdlBFNjFNQnI5U1lXcEVPR0hycmsxaTV6a2cwbmUzZ3JnbFFrUnJGNXpUcy1HdFZqRm1xRDd0QTE2SFFsUkozbWF0WUFERjFmcE9tM2hKTFBuc1FoZ3pxX3ItQXU2YTVuQlNjRWh0Zlc0a1lLZGw3ckw1WjVSOTRZLUNPMFBJaG51dzhDd1JWRkE?oc=5",
@@ -85,6 +77,14 @@
       "published_at": "Fri, 17 Apr 2026 06:35:00 GMT",
       "summary": "Deutsche Bank Expects US Federal Reserve to Keep Rates Unchanged This Year AASTOCKS.com",
       "guid": "CBMiigFBVV95cUxOOF9CVlI0T1o3M3A4aVFIQnUyRmsyamNkRGdveGZSZUthZzB5Q19EdDVPbWYzVjIwT3dUZTVYRXZ2NUJITUtBT0Z3X1l1eHhPTXNvUXB3aUZiYWhka1RxQ0lFRlh4Tm5RUDZnTkVoUnRaTHRSU1ctekk1RzdTS2VtYy10Qnl5S18tZ0E"
+    },
+    {
+      "title": "The Federal Reserve’s April inflation forecast is in, and it’s bad news for stock market bulls - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOT2JOY0F2SHNmZ2htSG5wbDVpZDdtRkxkV1pMcVZWT1pGSEtRVDAtVldqLXFSQ2lRN2U2ZVN1Ql9mRGt1bElKNkhhWmk0YTNLWVJ2MjhoeG1XOC13VHdiQnh3TTUtWjBWM0RzMlV2QThQdkVQOGhWNXMyMDRSVUZZQVhRVmozdHF1UW5uR011VWRxQm04UVJIdG1nX2ZJT2NXLXdpUzNQc3pQS05LZ2xsUlU3VEk5SjhiNUxWRktILWsxbGtUbVFlYWoybktIY1BhZXdTQm5RTEpFTGdEZmc?oc=5",
+      "source": "MSN",
+      "published_at": "Thu, 16 Apr 2026 23:08:37 GMT",
+      "summary": "The Federal Reserve’s April inflation forecast is in, and it’s bad news for stock market bulls MSN",
+      "guid": "CBMi3gFBVV95cUxOT2JOY0F2SHNmZ2htSG5wbDVpZDdtRkxkV1pMcVZWT1pGSEtRVDAtVldqLXFSQ2lRN2U2ZVN1Ql9mRGt1bElKNkhhWmk0YTNLWVJ2MjhoeG1XOC13VHdiQnh3TTUtWjBWM0RzMlV2QThQdkVQOGhWNXMyMDRSVUZZQVhRVmozdHF1UW5uR011VWRxQm04UVJIdG1nX2ZJT2NXLXdpUzNQc3pQS05LZ2xsUlU3VEk5SjhiNUxWRktILWsxbGtUbVFlYWoybktIY1BhZXdTQm5RTEpFTGdEZmc"
     }
   ]
 }
