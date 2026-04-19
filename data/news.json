@@ -1,11 +1,27 @@
 {
-  "generated_at": "2026-04-19T15:03:06Z",
+  "generated_at": "2026-04-19T15:51:57Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "The New York Stock Exchange - NYSE",
+      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE93UWVlU3g1TVNpdTNEcjI2Yk9kSHU2Tnh5Y0stVFBGRWVkLW9wbU1EbHhQaHdIOE56d2V5NXVhSQ?oc=5",
+      "source": "NYSE",
+      "published_at": "Fri, 17 Apr 2026 22:00:00 GMT",
+      "summary": "The New York Stock Exchange NYSE",
+      "guid": "CBMiP0FVX3lxTE93UWVlU3g1TVNpdTNEcjI2Yk9kSHU2Tnh5Y0stVFBGRWVkLW9wbU1EbHhQaHdIOE56d2V5NXVhSQ"
+    },
+    {
+      "title": "Tracker: The Federal Reserve’s Balance Sheet Assets - The American Action Forum",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0?oc=5",
+      "source": "The American Action Forum",
+      "published_at": "Fri, 17 Apr 2026 07:00:00 GMT",
+      "summary": "Tracker: The Federal Reserve’s Balance Sheet Assets The American Action Forum",
+      "guid": "CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0"
+    },
     {
       "title": "Federal Reserve Chairman Jerome Powell Just Delivered Fantastic News for Stock Market Investors - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSU5HQUpJYWhMTkV6RjUwUEpMdlBFNjFNQnI5U1lXcEVPR0hycmsxaTV6a2cwbmUzZ3JnbFFrUnJGNXpUcy1HdFZqRm1xRDd0QTE2SFFsUkozbWF0WUFERjFmcE9tM2hKTFBuc1FoZ3pxX3ItQXU2YTVuQlNjRWh0Zlc0a1lLZGw3ckw1WjVSOTRZLUNPMFBJaG51dzhDd1JWRkE?oc=5",
@@ -47,11 +63,11 @@
       "guid": "CBMivwFBVV95cUxOM1dfLWVxeDJGbVNDYU9vWU8xOW5Fbk9rWk5KREtjbWFDcWFfdzAyVE5WMDhINUpWbWVDVWZmRHBSSlN3blk5alBHd3B1RE5JSmVMRTd3SXhNQmZWdDllUDFCU1lwTk9zcmpBSmhmazM5OEhIWEVHMlhHTDY4M1luNXJ5TExQbi1RMjBLbmpZd3BqLU1zanlvM0hvVWhVcWtiSWZBOV9ENTJmTWUtQzIxdmprYlpGNnJzQk11T1ZfWQ"
     },
     {
-      "title": "2% Inflation Is Holding the Federal Reserve Hostage: This Is What the Stock Market Desperately Needs to Keep Growing - Barchart.com",
+      "title": "2% Inflation Is Holding the Federal Reserve Hostage: This Is What the Stock Market Desperately Needs to Keep Growing - Barchart",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcm1xS0MtYk56a3pQbkROcW92QWNGclBXbHNKOGJhNm9ncl85UDNTa05RTmZGcXVXZ2NHenU2dG5JZ1dyMG9YcWhrcjlxVWNSUW85S0RhUXVIcWxuQUlmd0ppaUtWT1JUckg0VG5MaTNBY05qOE9mQzBXQ3ktUk0yT2twQnZNVmZkeWU2cTN0aDBEY1hkclQxR0NBeHhjRWE2WkNfTExwaVJPbm5xLUxGdXRXZUpiT1ZZcTFPZV9rM1dFTGlsSmRTVHVVS3NRUzNmTjREWUxoMTVvS3U3MXNXWnN1bkRXZmgtcGxsMkRsdw?oc=5",
-      "source": "Barchart.com",
+      "source": "Barchart",
       "published_at": "Tue, 14 Apr 2026 15:50:38 GMT",
-      "summary": "2% Inflation Is Holding the Federal Reserve Hostage: This Is What the Stock Market Desperately Needs to Keep Growing Barchart.com",
+      "summary": "2% Inflation Is Holding the Federal Reserve Hostage: This Is What the Stock Market Desperately Needs to Keep Growing Barchart",
       "guid": "CBMi7wFBVV95cUxNcm1xS0MtYk56a3pQbkROcW92QWNGclBXbHNKOGJhNm9ncl85UDNTa05RTmZGcXVXZ2NHenU2dG5JZ1dyMG9YcWhrcjlxVWNSUW85S0RhUXVIcWxuQUlmd0ppaUtWT1JUckg0VG5MaTNBY05qOE9mQzBXQ3ktUk0yT2twQnZNVmZkeWU2cTN0aDBEY1hkclQxR0NBeHhjRWE2WkNfTExwaVJPbm5xLUxGdXRXZUpiT1ZZcTFPZV9rM1dFTGlsSmRTVHVVS3NRUzNmTjREWUxoMTVvS3U3MXNXWnN1bkRXZmgtcGxsMkRsdw"
     },
     {
@@ -69,22 +85,6 @@
       "published_at": "Mon, 29 Sep 2025 07:00:00 GMT",
       "summary": "What Causes “Jumps” in Stock Prices? Federal Reserve Bank of St. Louis",
       "guid": "CBMiiAFBVV95cUxPNlU3bVlaY05yZmRvNlVELU8yV25yT2ozUmJtT1lJbG1HelVoMGt4d1lVNHZkR3BrZkt4VzRRSXZjT3FHUXlLbHNZWkh3R1dYaWNjV3ZzNE9ROWJpQmZ3cFpwdEdLbXR6T00wamtwbmdLcF9RUDA3eEU5aUp1QWZwV0pMUDJrZ0hj"
-    },
-    {
-      "title": "The Federal Reserve Is Raising Red Flags, and the Stock Market Isn't Listening - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRjJsN0JkeGxvWlM2R2dFenRqOHZqRFlreGZsYjZHbTBtUVh4VGdDMHVQeS1IcGJZZXNHUFFSbFFJWHZmZDRtVG9XMURsOFJ4RmpnUHU3Q19fRlN4STBab1d2RXBNMVdoWGFUcVlmNzVYNG9LTG94VWVCdHpXUTJ1NF9yMzNPa2szdTV3UXM0ejB0NFE4UHVneFh0Rko?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Sun, 22 Mar 2026 07:00:00 GMT",
-      "summary": "The Federal Reserve Is Raising Red Flags, and the Stock Market Isn't Listening Yahoo Finance",
-      "guid": "CBMinAFBVV95cUxQRjJsN0JkeGxvWlM2R2dFenRqOHZqRFlreGZsYjZHbTBtUVh4VGdDMHVQeS1IcGJZZXNHUFFSbFFJWHZmZDRtVG9XMURsOFJ4RmpnUHU3Q19fRlN4STBab1d2RXBNMVdoWGFUcVlmNzVYNG9LTG94VWVCdHpXUTJ1NF9yMzNPa2szdTV3UXM0ejB0NFE4UHVneFh0Rko"
-    },
-    {
-      "title": "The Fed Has a Warning About the Iran War. Is Wall Street Listening? - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTlY0MHlPNzZiYnJwaUs1WExnZ3M1M0dEYVBDMGZJZVBaS1dBZndUXzIwQUgyQlZrM0dIODhaMm16VjFBM1ZvY1ZVVGF3UHFwLUs3U0tjZ3ZvaWp1WFNIUk5JVDY0TE1xOEhfcnBnRVFSeTROVjFiTWJCb0lVdlU0eG11U29kVGZpS0p0S0pCMi1pNklwSkZoOA?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Thu, 16 Apr 2026 17:50:00 GMT",
-      "summary": "The Fed Has a Warning About the Iran War. Is Wall Street Listening? The Motley Fool",
-      "guid": "CBMimAFBVV95cUxPTlY0MHlPNzZiYnJwaUs1WExnZ3M1M0dEYVBDMGZJZVBaS1dBZndUXzIwQUgyQlZrM0dIODhaMm16VjFBM1ZvY1ZVVGF3UHFwLUs3U0tjZ3ZvaWp1WFNIUk5JVDY0TE1xOEhfcnBnRVFSeTROVjFiTWJCb0lVdlU0eG11U29kVGZpS0p0S0pCMi1pNklwSkZoOA"
     }
   ]
 }
