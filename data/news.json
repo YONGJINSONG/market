@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-19T12:02:13Z",
+  "generated_at": "2026-04-19T13:33:02Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,11 +7,11 @@
   },
   "items": [
     {
-      "title": "The New York Stock Exchange | NYSE - NYSE",
+      "title": "The New York Stock Exchange - NYSE",
       "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE93UWVlU3g1TVNpdTNEcjI2Yk9kSHU2Tnh5Y0stVFBGRWVkLW9wbU1EbHhQaHdIOE56d2V5NXVhSQ?oc=5",
       "source": "NYSE",
       "published_at": "Fri, 17 Apr 2026 22:00:00 GMT",
-      "summary": "The New York Stock Exchange | NYSE NYSE",
+      "summary": "The New York Stock Exchange NYSE",
       "guid": "CBMiP0FVX3lxTE93UWVlU3g1TVNpdTNEcjI2Yk9kSHU2Tnh5Y0stVFBGRWVkLW9wbU1EbHhQaHdIOE56d2V5NXVhSQ"
     },
     {
@@ -47,14 +47,6 @@
       "guid": "CBMieEFVX3lxTE9rQ1dnRk5Wc3prcjVPM1U4N0F0R0ZhUzl1ak10ZmYwM2lfbDZZb0ZDX1l1NXhQQzg2WmptOE55RFVKX05HUWVjbGJ3RVJ6WWc1UFJ5Tks0Y0xjeUJOMzBCTkdETFF1VFEyYXk3VG5tMFduUXc5LS0wRg"
     },
     {
-      "title": "A Potential Worst-Case Scenario Is Setting Up for the Stock Market on May 15 -- and There's No Sweeping This Under the Rug - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeDZrSmMtX042RjRkVUdGdGpVME9Fd1JsSlJKX2tXeTJmcmZsRUlkeTBzWno3VkNobXdpeDUwZVdreTJRd0wxQ2U2WnNlNE4wdG5YRDJRWEk1QmxOZFZfOGk3eE5FRVhGcklHeXRSeFp5cUJjZlV1RGNkZTYzNmlFSmo2RGdiUlZVbXp3emlrcVFCOFRqT19N?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Sat, 18 Apr 2026 14:06:00 GMT",
-      "summary": "A Potential Worst-Case Scenario Is Setting Up for the Stock Market on May 15 -- and There's No Sweeping This Under the Rug The Motley Fool",
-      "guid": "CBMilwFBVV95cUxNeDZrSmMtX042RjRkVUdGdGpVME9Fd1JsSlJKX2tXeTJmcmZsRUlkeTBzWno3VkNobXdpeDUwZVdreTJRd0wxQ2U2WnNlNE4wdG5YRDJRWEk1QmxOZFZfOGk3eE5FRVhGcklHeXRSeFp5cUJjZlV1RGNkZTYzNmlFSmo2RGdiUlZVbXp3emlrcVFCOFRqT19N"
-    },
-    {
       "title": "2% Inflation Is Holding the Federal Reserve Hostage: This Is What the Stock Market Desperately Needs to Keep Growing - Barchart.com",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcm1xS0MtYk56a3pQbkROcW92QWNGclBXbHNKOGJhNm9ncl85UDNTa05RTmZGcXVXZ2NHenU2dG5JZ1dyMG9YcWhrcjlxVWNSUW85S0RhUXVIcWxuQUlmd0ppaUtWT1JUckg0VG5MaTNBY05qOE9mQzBXQ3ktUk0yT2twQnZNVmZkeWU2cTN0aDBEY1hkclQxR0NBeHhjRWE2WkNfTExwaVJPbm5xLUxGdXRXZUpiT1ZZcTFPZV9rM1dFTGlsSmRTVHVVS3NRUzNmTjREWUxoMTVvS3U3MXNXWnN1bkRXZmgtcGxsMkRsdw?oc=5",
       "source": "Barchart.com",
@@ -79,12 +71,20 @@
       "guid": "CBMiiAFBVV95cUxPNlU3bVlaY05yZmRvNlVELU8yV25yT2ozUmJtT1lJbG1HelVoMGt4d1lVNHZkR3BrZkt4VzRRSXZjT3FHUXlLbHNZWkh3R1dYaWNjV3ZzNE9ROWJpQmZ3cFpwdEdLbXR6T00wamtwbmdLcF9RUDA3eEU5aUp1QWZwV0pMUDJrZ0hj"
     },
     {
-      "title": "Exclusive: US Fed has told big banks not to push back aggressively on new capital rules - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVEZHaEd2Tkt4M01WdFZvMWphSHV1Um9VNm9VY20yZjNGQ2lBVzdXWEpaTGRUWWFYQWlUbm9xUGVwNTdJekk4Z2hLWHpDSHl6V24yc0VWeHViY0E1eWFpQlFSeVBTU1JINlZTWWZzUUVYXzd5Yk8tbXlPeUVyQzVCMFBXNVdjU281cmlTcDBBWF9JVVcxLXNqZ1lJQklMU09yTjQtR1VfaHUwYUw2TEJ2Zk9B?oc=5",
-      "source": "Reuters",
-      "published_at": "Fri, 17 Apr 2026 22:02:07 GMT",
-      "summary": "Exclusive: US Fed has told big banks not to push back aggressively on new capital rules Reuters",
-      "guid": "CBMisgFBVV95cUxPVEZHaEd2Tkt4M01WdFZvMWphSHV1Um9VNm9VY20yZjNGQ2lBVzdXWEpaTGRUWWFYQWlUbm9xUGVwNTdJekk4Z2hLWHpDSHl6V24yc0VWeHViY0E1eWFpQlFSeVBTU1JINlZTWWZzUUVYXzd5Yk8tbXlPeUVyQzVCMFBXNVdjU281cmlTcDBBWF9JVVcxLXNqZ1lJQklMU09yTjQtR1VfaHUwYUw2TEJ2Zk9B"
+      "title": "The Federal Reserve Is Raising Red Flags, and the Stock Market Isn't Listening - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRjJsN0JkeGxvWlM2R2dFenRqOHZqRFlreGZsYjZHbTBtUVh4VGdDMHVQeS1IcGJZZXNHUFFSbFFJWHZmZDRtVG9XMURsOFJ4RmpnUHU3Q19fRlN4STBab1d2RXBNMVdoWGFUcVlmNzVYNG9LTG94VWVCdHpXUTJ1NF9yMzNPa2szdTV3UXM0ejB0NFE4UHVneFh0Rko?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Sun, 22 Mar 2026 07:00:00 GMT",
+      "summary": "The Federal Reserve Is Raising Red Flags, and the Stock Market Isn't Listening Yahoo Finance",
+      "guid": "CBMinAFBVV95cUxQRjJsN0JkeGxvWlM2R2dFenRqOHZqRFlreGZsYjZHbTBtUVh4VGdDMHVQeS1IcGJZZXNHUFFSbFFJWHZmZDRtVG9XMURsOFJ4RmpnUHU3Q19fRlN4STBab1d2RXBNMVdoWGFUcVlmNzVYNG9LTG94VWVCdHpXUTJ1NF9yMzNPa2szdTV3UXM0ejB0NFE4UHVneFh0Rko"
+    },
+    {
+      "title": "A Potential Worst-Case Scenario Is Setting Up for the Stock Market on May 15 -- and There's No Sweeping This Under the Rug - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeDZrSmMtX042RjRkVUdGdGpVME9Fd1JsSlJKX2tXeTJmcmZsRUlkeTBzWno3VkNobXdpeDUwZVdreTJRd0wxQ2U2WnNlNE4wdG5YRDJRWEk1QmxOZFZfOGk3eE5FRVhGcklHeXRSeFp5cUJjZlV1RGNkZTYzNmlFSmo2RGdiUlZVbXp3emlrcVFCOFRqT19N?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Sat, 18 Apr 2026 14:06:00 GMT",
+      "summary": "A Potential Worst-Case Scenario Is Setting Up for the Stock Market on May 15 -- and There's No Sweeping This Under the Rug The Motley Fool",
+      "guid": "CBMilwFBVV95cUxNeDZrSmMtX042RjRkVUdGdGpVME9Fd1JsSlJKX2tXeTJmcmZsRUlkeTBzWno3VkNobXdpeDUwZVdreTJRd0wxQ2U2WnNlNE4wdG5YRDJRWEk1QmxOZFZfOGk3eE5FRVhGcklHeXRSeFp5cUJjZlV1RGNkZTYzNmlFSmo2RGdiUlZVbXp3emlrcVFCOFRqT19N"
     }
   ]
 }
