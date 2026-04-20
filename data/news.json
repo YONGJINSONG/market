@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T20:26:13Z",
+  "generated_at": "2026-04-20T21:06:23Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -13,6 +13,14 @@
       "published_at": "Mon, 20 Apr 2026 09:06:00 GMT",
       "summary": "The Federal Reserve's April Inflation Forecast Was Just Updated -- and the Outlook for the Stock Market Worsened, Yet Again The Motley Fool",
       "guid": "CBMilwFBVV95cUxQTTh0V2taVE9vNXZpUWtabzhXYWpqMXhtYVI0VlQ5cU9nV00zU2RZa0VacEdOTTQ5M19Ha2NaWmF2VDA3REZvU0NySFdoRjlkSnlNdnpGdnZVcmxCN1VaYTF0ai03QjRISkFLcS1RNnJDMmlGLXIwNTFiV2VxN1B0Z1JlX0Jxblh5VF9wSW5uOU4tMzUzRmJN"
+    },
+    {
+      "title": "The Federal Reserve's April Inflation Forecast Was Just Updated -- and the Outlook for the Stock Market Worsened, Yet Again - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZ3I1azBuYVBnSlhQaXZoYm9rRFpxekNWM0tkOUR2am03OWlyZExfY2ZfZE9iYUg3X0xDRkFWR2JTRWQ3SmFUeExQRUhFNU93Xy1iMkJQcTJ5N0hRMEpDTUlYQ1V1X3FkVGNEUmx3TnJBdHBiU2szd3U1X1RmU1VKaWhLeHNMcWE2M1JQQVdn?oc=5",
+      "source": "AOL.com",
+      "published_at": "Mon, 20 Apr 2026 08:26:00 GMT",
+      "summary": "The Federal Reserve's April Inflation Forecast Was Just Updated -- and the Outlook for the Stock Market Worsened, Yet Again AOL.com",
+      "guid": "CBMijgFBVV95cUxQZ3I1azBuYVBnSlhQaXZoYm9rRFpxekNWM0tkOUR2am03OWlyZExfY2ZfZE9iYUg3X0xDRkFWR2JTRWQ3SmFUeExQRUhFNU93Xy1iMkJQcTJ5N0hRMEpDTUlYQ1V1X3FkVGNEUmx3TnJBdHBiU2szd3U1X1RmU1VKaWhLeHNMcWE2M1JQQVdn"
     },
     {
       "title": "The Federal Reserve's April Inflation Forecast Was Just Updated -- and the Outlook for the Stock Market Worsened, Yet Again - The Globe and Mail",
@@ -55,11 +63,11 @@
       "guid": "CBMif0FVX3lxTE1mMzBwN3Y4ZHJEdFBXbWszRDNUUGk0SDNXSEdsalJXTHdLUzRPQTVldC1xQWJRckVRQ18xMHYxU1I1STlKYlhYclpQcmw3Y0drMWJ5TjJyZVUtSDJ6aXNJR1dsajY3eU40dHZGTm1yMGo3NUszY0lFbVNKWUo3dGs"
     },
     {
-      "title": "2% Inflation Is Holding the Federal Reserve Hostage: This Is What the Stock Market Desperately Needs to Keep Growing - Barchart.com",
+      "title": "2% Inflation Is Holding the Federal Reserve Hostage: This Is What the Stock Market Desperately Needs to Keep Growing - Barchart",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcm1xS0MtYk56a3pQbkROcW92QWNGclBXbHNKOGJhNm9ncl85UDNTa05RTmZGcXVXZ2NHenU2dG5JZ1dyMG9YcWhrcjlxVWNSUW85S0RhUXVIcWxuQUlmd0ppaUtWT1JUckg0VG5MaTNBY05qOE9mQzBXQ3ktUk0yT2twQnZNVmZkeWU2cTN0aDBEY1hkclQxR0NBeHhjRWE2WkNfTExwaVJPbm5xLUxGdXRXZUpiT1ZZcTFPZV9rM1dFTGlsSmRTVHVVS3NRUzNmTjREWUxoMTVvS3U3MXNXWnN1bkRXZmgtcGxsMkRsdw?oc=5",
-      "source": "Barchart.com",
+      "source": "Barchart",
       "published_at": "Tue, 14 Apr 2026 15:50:38 GMT",
-      "summary": "2% Inflation Is Holding the Federal Reserve Hostage: This Is What the Stock Market Desperately Needs to Keep Growing Barchart.com",
+      "summary": "2% Inflation Is Holding the Federal Reserve Hostage: This Is What the Stock Market Desperately Needs to Keep Growing Barchart",
       "guid": "CBMi7wFBVV95cUxNcm1xS0MtYk56a3pQbkROcW92QWNGclBXbHNKOGJhNm9ncl85UDNTa05RTmZGcXVXZ2NHenU2dG5JZ1dyMG9YcWhrcjlxVWNSUW85S0RhUXVIcWxuQUlmd0ppaUtWT1JUckg0VG5MaTNBY05qOE9mQzBXQ3ktUk0yT2twQnZNVmZkeWU2cTN0aDBEY1hkclQxR0NBeHhjRWE2WkNfTExwaVJPbm5xLUxGdXRXZUpiT1ZZcTFPZV9rM1dFTGlsSmRTVHVVS3NRUzNmTjREWUxoMTVvS3U3MXNXWnN1bkRXZmgtcGxsMkRsdw"
     },
     {
@@ -71,20 +79,12 @@
       "guid": "CBMisgFBVV95cUxPVEZHaEd2Tkt4M01WdFZvMWphSHV1Um9VNm9VY20yZjNGQ2lBVzdXWEpaTGRUWWFYQWlUbm9xUGVwNTdJekk4Z2hLWHpDSHl6V24yc0VWeHViY0E1eWFpQlFSeVBTU1JINlZTWWZzUUVYXzd5Yk8tbXlPeUVyQzVCMFBXNVdjU281cmlTcDBBWF9JVVcxLXNqZ1lJQklMU09yTjQtR1VfaHUwYUw2TEJ2Zk9B"
     },
     {
-      "title": "The Federal Reserve's Nightmare Scenario Is Taking Shape and the Stock Market Should Pay Attention - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYUo0M25uWWVNa3gwQ29FRUktMWNpQ3pWYVdWT3V5MU1MRjdpZE1NYnkzTWxqS1JXcFVMa0Jjb0xjZ1hZOEJSLTZZWnQxTHpSWlNvbm0xSy1qdDVveURWczdwcGg3NDlfR29Ha25oVG5fbGJwbkdJUTZiMFlhNmctVm1oWldidnd1NWt3YVhJN1Boc2plNDJ2aFhvcGpJdEtqYmtpc1Aybm1YSU91cTR1SDc1TldJTWJpQjk5TzZZMWp2OHduS3hGeTJMbHhWNExUM0FQVmRxMDE?oc=5",
-      "source": "24/7 Wall St.",
-      "published_at": "Tue, 07 Apr 2026 07:00:00 GMT",
-      "summary": "The Federal Reserve's Nightmare Scenario Is Taking Shape and the Stock Market Should Pay Attention 24/7 Wall St.",
-      "guid": "CBMi2AFBVV95cUxOYUo0M25uWWVNa3gwQ29FRUktMWNpQ3pWYVdWT3V5MU1MRjdpZE1NYnkzTWxqS1JXcFVMa0Jjb0xjZ1hZOEJSLTZZWnQxTHpSWlNvbm0xSy1qdDVveURWczdwcGg3NDlfR29Ha25oVG5fbGJwbkdJUTZiMFlhNmctVm1oWldidnd1NWt3YVhJN1Boc2plNDJ2aFhvcGpJdEtqYmtpc1Aybm1YSU91cTR1SDc1TldJTWJpQjk5TzZZMWp2OHduS3hGeTJMbHhWNExUM0FQVmRxMDE"
-    },
-    {
-      "title": "The Federal Reserve’s Nightmare Scenario Is Taking Shape and the Stock Market Should Pay Attention - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQjRYNUNuNnVyYkxVcUJQTDVUSGwwX0x4LVNhc2RyZFJ2S19HeWJqZTcyd24zdklZMll2Q05DU2NnenNITEdQMktFTWEwS0pkeGNSUlVfUVhKZDBjZTRBbThzR09EVDIxSjQxRThXZTF5WV9YNTVwNzc0SE1VUWlfQnFndVBQNFFJcWlR?oc=5",
-      "source": "AOL.com",
-      "published_at": "Tue, 07 Apr 2026 16:51:41 GMT",
-      "summary": "The Federal Reserve’s Nightmare Scenario Is Taking Shape and the Stock Market Should Pay Attention AOL.com",
-      "guid": "CBMiiwFBVV95cUxOQjRYNUNuNnVyYkxVcUJQTDVUSGwwX0x4LVNhc2RyZFJ2S19HeWJqZTcyd24zdklZMll2Q05DU2NnenNITEdQMktFTWEwS0pkeGNSUlVfUVhKZDBjZTRBbThzR09EVDIxSjQxRThXZTF5WV9YNTVwNzc0SE1VUWlfQnFndVBQNFFJcWlR"
+      "title": "Federal Reserve holds interest rates steady, signals one rate cut amid inflation uncertainty - U.S. Bank",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw?oc=5",
+      "source": "U.S. Bank",
+      "published_at": "Wed, 18 Mar 2026 07:00:00 GMT",
+      "summary": "Federal Reserve holds interest rates steady, signals one rate cut amid inflation uncertainty U.S. Bank",
+      "guid": "CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw"
     }
   ]
 }
