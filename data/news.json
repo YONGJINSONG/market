@@ -1,11 +1,27 @@
 {
-  "generated_at": "2026-04-20T06:35:48Z",
+  "generated_at": "2026-04-20T08:59:02Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "The Federal Reserve's April Inflation Forecast Was Just Updated -- and the Outlook for the Stock Market Worsened, Yet Again - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTTh0V2taVE9vNXZpUWtabzhXYWpqMXhtYVI0VlQ5cU9nV00zU2RZa0VacEdOTTQ5M19Ha2NaWmF2VDA3REZvU0NySFdoRjlkSnlNdnpGdnZVcmxCN1VaYTF0ai03QjRISkFLcS1RNnJDMmlGLXIwNTFiV2VxN1B0Z1JlX0Jxblh5VF9wSW5uOU4tMzUzRmJN?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Mon, 20 Apr 2026 08:38:01 GMT",
+      "summary": "The Federal Reserve's April Inflation Forecast Was Just Updated -- and the Outlook for the Stock Market Worsened, Yet Again The Motley Fool",
+      "guid": "CBMilwFBVV95cUxQTTh0V2taVE9vNXZpUWtabzhXYWpqMXhtYVI0VlQ5cU9nV00zU2RZa0VacEdOTTQ5M19Ha2NaWmF2VDA3REZvU0NySFdoRjlkSnlNdnpGdnZVcmxCN1VaYTF0ai03QjRISkFLcS1RNnJDMmlGLXIwNTFiV2VxN1B0Z1JlX0Jxblh5VF9wSW5uOU4tMzUzRmJN"
+    },
+    {
+      "title": "The Federal Reserve's April Inflation Forecast Was Just Updated -- and the Outlook for the Stock Market Worsened, Yet Again - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxONnVTeE1ZcTd4Ykx2RTdmdzNOYXBxUEszTHpoWlU5alp5ZHh5cjUzMk5Qbllmb29wcWJ2eUJ2T2VZMWt5aFB3OGxxZEJVTF92aFNLbjVsRkwwai1LUVV5SVllUGF6aW9taTJNem1mRHQ2RFRfYW5OY2cyaUxBaWNRMzBVdTNxV2U4clNWOFBtNWFvWVJUSXREd1c1VTlmOE9OalBaYnF4UjRsM3BMNnkweF9tTFFtanVsb2g0eHlnbm1SUjYwdHdub3hLS01VSHFLVFl4Sk82ZGpmYWp5UHBndXRjblQyMk1RLW1ybHY0QWJjR2VOZmlldk1kNUwzX1VPS2lscGZGYkZvQThkd2FDYUZHOGlkNjJ3UGJ6MkNxU0tMWlh0?oc=5",
+      "source": "The Globe and Mail",
+      "published_at": "Mon, 20 Apr 2026 08:42:56 GMT",
+      "summary": "The Federal Reserve's April Inflation Forecast Was Just Updated -- and the Outlook for the Stock Market Worsened, Yet Again The Globe and Mail",
+      "guid": "CBMipAJBVV95cUxONnVTeE1ZcTd4Ykx2RTdmdzNOYXBxUEszTHpoWlU5alp5ZHh5cjUzMk5Qbllmb29wcWJ2eUJ2T2VZMWt5aFB3OGxxZEJVTF92aFNLbjVsRkwwai1LUVV5SVllUGF6aW9taTJNem1mRHQ2RFRfYW5OY2cyaUxBaWNRMzBVdTNxV2U4clNWOFBtNWFvWVJUSXREd1c1VTlmOE9OalBaYnF4UjRsM3BMNnkweF9tTFFtanVsb2g0eHlnbm1SUjYwdHdub3hLS01VSHFLVFl4Sk82ZGpmYWp5UHBndXRjblQyMk1RLW1ybHY0QWJjR2VOZmlldk1kNUwzX1VPS2lscGZGYkZvQThkd2FDYUZHOGlkNjJ3UGJ6MkNxU0tMWlh0"
+    },
     {
       "title": "The New York Stock Exchange | NYSE - NYSE",
       "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE93UWVlU3g1TVNpdTNEcjI2Yk9kSHU2Tnh5Y0stVFBGRWVkLW9wbU1EbHhQaHdIOE56d2V5NXVhSQ?oc=5",
@@ -55,11 +71,11 @@
       "guid": "CBMijwFBVV95cUxOeU1PM1RFYkhHLXFfaWpocS1EUEZScG9wYjJBOHZvRG91a1ZVR3VoNDJoY2M3LU9ScDBRXzUweWVqR1c4Y05RdFRRNTNoYzkyVTZUU3ZqRTZaMmtrZDJwVllfNFUxMUpCWUZaWkZfNVo2S25oSURxbmJjdTlNNGpUQm94OG01ZV9pTFBpMFdaUQ"
     },
     {
-      "title": "2% Inflation Is Holding the Federal Reserve Hostage: This Is What the Stock Market Desperately Needs to Keep Growing - Barchart.com",
+      "title": "2% Inflation Is Holding the Federal Reserve Hostage: This Is What the Stock Market Desperately Needs to Keep Growing - Barchart",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcm1xS0MtYk56a3pQbkROcW92QWNGclBXbHNKOGJhNm9ncl85UDNTa05RTmZGcXVXZ2NHenU2dG5JZ1dyMG9YcWhrcjlxVWNSUW85S0RhUXVIcWxuQUlmd0ppaUtWT1JUckg0VG5MaTNBY05qOE9mQzBXQ3ktUk0yT2twQnZNVmZkeWU2cTN0aDBEY1hkclQxR0NBeHhjRWE2WkNfTExwaVJPbm5xLUxGdXRXZUpiT1ZZcTFPZV9rM1dFTGlsSmRTVHVVS3NRUzNmTjREWUxoMTVvS3U3MXNXWnN1bkRXZmgtcGxsMkRsdw?oc=5",
-      "source": "Barchart.com",
+      "source": "Barchart",
       "published_at": "Tue, 14 Apr 2026 15:50:38 GMT",
-      "summary": "2% Inflation Is Holding the Federal Reserve Hostage: This Is What the Stock Market Desperately Needs to Keep Growing Barchart.com",
+      "summary": "2% Inflation Is Holding the Federal Reserve Hostage: This Is What the Stock Market Desperately Needs to Keep Growing Barchart",
       "guid": "CBMi7wFBVV95cUxNcm1xS0MtYk56a3pQbkROcW92QWNGclBXbHNKOGJhNm9ncl85UDNTa05RTmZGcXVXZ2NHenU2dG5JZ1dyMG9YcWhrcjlxVWNSUW85S0RhUXVIcWxuQUlmd0ppaUtWT1JUckg0VG5MaTNBY05qOE9mQzBXQ3ktUk0yT2twQnZNVmZkeWU2cTN0aDBEY1hkclQxR0NBeHhjRWE2WkNfTExwaVJPbm5xLUxGdXRXZUpiT1ZZcTFPZV9rM1dFTGlsSmRTVHVVS3NRUzNmTjREWUxoMTVvS3U3MXNXWnN1bkRXZmgtcGxsMkRsdw"
     },
     {
@@ -69,22 +85,6 @@
       "published_at": "Tue, 07 Apr 2026 07:00:00 GMT",
       "summary": "Why Is Inflation So Stubbornly High? Blame The Stock Market Investopedia",
       "guid": "CBMinAFBVV95cUxPRHdGdmlWSm5XYmNIODBBdXhhbDVTekM5cEtlbmh4ajAxa3dZZGhGRXdFRGItcUpudUFUUmx2MmJfOEJEYjJGUGUxeUhFM255UkNsaGVpYTRTNmxwSnBQanV1S2JTYk5xT1dMaEs5NXJoRHc5RUNXM3dPSHQ1ZThXOWNZNG1Wb0VhNzlOQ1RyWXNWQlV1SDlLREZ3QmI"
-    },
-    {
-      "title": "Exclusive: US Fed has told big banks not to push back aggressively on new capital rules - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVEZHaEd2Tkt4M01WdFZvMWphSHV1Um9VNm9VY20yZjNGQ2lBVzdXWEpaTGRUWWFYQWlUbm9xUGVwNTdJekk4Z2hLWHpDSHl6V24yc0VWeHViY0E1eWFpQlFSeVBTU1JINlZTWWZzUUVYXzd5Yk8tbXlPeUVyQzVCMFBXNVdjU281cmlTcDBBWF9JVVcxLXNqZ1lJQklMU09yTjQtR1VfaHUwYUw2TEJ2Zk9B?oc=5",
-      "source": "Reuters",
-      "published_at": "Fri, 17 Apr 2026 22:02:07 GMT",
-      "summary": "Exclusive: US Fed has told big banks not to push back aggressively on new capital rules Reuters",
-      "guid": "CBMisgFBVV95cUxPVEZHaEd2Tkt4M01WdFZvMWphSHV1Um9VNm9VY20yZjNGQ2lBVzdXWEpaTGRUWWFYQWlUbm9xUGVwNTdJekk4Z2hLWHpDSHl6V24yc0VWeHViY0E1eWFpQlFSeVBTU1JINlZTWWZzUUVYXzd5Yk8tbXlPeUVyQzVCMFBXNVdjU281cmlTcDBBWF9JVVcxLXNqZ1lJQklMU09yTjQtR1VfaHUwYUw2TEJ2Zk9B"
-    },
-    {
-      "title": "Deutsche Bank Predicts Federal Reserve Will Keep Interest Rates Steady Through 2026 - StockInvest.us",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQajV0NHBpSkpRclVLX0pqZUh0X1pWcFBzSThtODB4bm8yby1IcUJIZjRaT21xX3pfZURSNFdfdlRORnFhaExXQXRjdUpEb1hGMkxfOEFsNkk3UjVWTlhhT0JfUWctYXZvUl9IX09EcGF2YTRydXVyOF9jTUVhM2k5NFhtbFBoRllFclVQc0VsUEtySVpXSkExdWFOTnZ3cnoyX21hb0RFTl9UYmpxdi1DNzVSVQ?oc=5",
-      "source": "StockInvest.us",
-      "published_at": "Fri, 17 Apr 2026 08:57:28 GMT",
-      "summary": "Deutsche Bank Predicts Federal Reserve Will Keep Interest Rates Steady Through 2026 StockInvest.us",
-      "guid": "CBMiswFBVV95cUxQajV0NHBpSkpRclVLX0pqZUh0X1pWcFBzSThtODB4bm8yby1IcUJIZjRaT21xX3pfZURSNFdfdlRORnFhaExXQXRjdUpEb1hGMkxfOEFsNkk3UjVWTlhhT0JfUWctYXZvUl9IX09EcGF2YTRydXVyOF9jTUVhM2k5NFhtbFBoRllFclVQc0VsUEtySVpXSkExdWFOTnZ3cnoyX21hb0RFTl9UYmpxdi1DNzVSVQ"
     }
   ]
 }
