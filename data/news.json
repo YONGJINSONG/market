@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-04-24T22:40:08Z",
+  "generated_at": "2026-04-24T23:24:05Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "The Stock Market Is in La La Land - American Enterprise Institute - AEI",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBfdDlTbUxRaGQ1Y0hYM1pTUVduYTB3WlhaVjJfeWpTYmFnWFFkRnhJVm0zaXdfTlU2RUhvUGhpb25yakQ0eFVHQzYtWE11em9WbTh4Mkt6VlJVREtfcVlJLUY1V2pBX21mZ2Y1bXZOYjJCUQ?oc=5",
+      "source": "American Enterprise Institute - AEI",
+      "published_at": "Fri, 24 Apr 2026 17:06:18 GMT",
+      "summary": "The Stock Market Is in La La Land American Enterprise Institute - AEI",
+      "guid": "CBMickFVX3lxTFBfdDlTbUxRaGQ1Y0hYM1pTUVduYTB3WlhaVjJfeWpTYmFnWFFkRnhJVm0zaXdfTlU2RUhvUGhpb25yakQ0eFVHQzYtWE11em9WbTh4Mkt6VlJVREtfcVlJLUY1V2pBX21mZ2Y1bXZOYjJCUQ"
+    },
     {
       "title": "How Kevin Warsh Could Shrink the Fed’s Footprint in Financial Markets - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSGZpSnlnRnpTY3Jna05kWlNQV1dELU41d1d2X1FBMXZlZnBtck1heTJCdkx3T0pxT2xZYmlhTjZlOTBDUVE4akpnNFM4N0hVeE5ZZ05lUGVTejM5QlZQNVl6YkRscUotMnBLN1FnRFhzVkt1V1JlbnFmVGVIb1phRUV3eVJreThxa2ZsOUpfNHE?oc=5",
@@ -77,14 +85,6 @@
       "published_at": "Fri, 03 Apr 2026 17:47:37 GMT",
       "summary": "Federal Reserve Chairman Jerome Powell Just Delivered Fantastic News for Stock Market Investors AOL.com",
       "guid": "CBMihgFBVV95cUxOcW5SVWs2dTV4QmhsUEhEVWZiODVhOUd3YWNzOHhiZVpzNEtuTGtWdHh5aWNPbkRWZXJfcE9ZbTFVbHU5VFBDOWZXZ3c0bllsNW1JOERhMVNOTE55c3FNVHU0NjYzMnRBSFFWRTBtWnJaakc2YjdockxJYlBBaldHVE05NmU4QQ"
-    },
-    {
-      "title": "The Federal Reserve’s April Inflation Forecast Is In, and It’s Bad News for Stock Market Bulls - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRXktLUpEd2c2QjJia1FiY3lwLXNnTXRJWl85ZG1JcWU1NkxVZjdZUU9BWTlMcC1ydW1hRXZnVFNzLXVvRC1qX3U4Vko1Q3p5LXowcXlUeHdTc0VhaENDNGNaaWZyeHdCUFhvM3ZhMjRIaF9CNnBBZHUxVV9YWDhuX1RrLVFHaHpPbDNOTEdFb1psbHVfc0hvRjFBc01HYkdqcVBPR2d2X053X1pjNlRGTkRWT1loQ3JDTUFNOFRGalR1VmFib1BMTFFkdm5YMmdyM3Qw?oc=5",
-      "source": "24/7 Wall St.",
-      "published_at": "Thu, 16 Apr 2026 15:07:48 GMT",
-      "summary": "The Federal Reserve’s April Inflation Forecast Is In, and It’s Bad News for Stock Market Bulls 24/7 Wall St.",
-      "guid": "CBMi0wFBVV95cUxPRXktLUpEd2c2QjJia1FiY3lwLXNnTXRJWl85ZG1JcWU1NkxVZjdZUU9BWTlMcC1ydW1hRXZnVFNzLXVvRC1qX3U4Vko1Q3p5LXowcXlUeHdTc0VhaENDNGNaaWZyeHdCUFhvM3ZhMjRIaF9CNnBBZHUxVV9YWDhuX1RrLVFHaHpPbDNOTEdFb1psbHVfc0hvRjFBc01HYkdqcVBPR2d2X053X1pjNlRGTkRWT1loQ3JDTUFNOFRGalR1VmFib1BMTFFkdm5YMmdyM3Qw"
     }
   ]
 }
