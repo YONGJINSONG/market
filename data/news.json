@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T11:05:32Z",
+  "generated_at": "2026-04-24T12:03:23Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -31,6 +31,14 @@
       "guid": "CBMiogFBVV95cUxPSU5HQUpJYWhMTkV6RjUwUEpMdlBFNjFNQnI5U1lXcEVPR0hycmsxaTV6a2cwbmUzZ3JnbFFrUnJGNXpUcy1HdFZqRm1xRDd0QTE2SFFsUkozbWF0WUFERjFmcE9tM2hKTFBuc1FoZ3pxX3ItQXU2YTVuQlNjRWh0Zlc0a1lLZGw3ckw1WjVSOTRZLUNPMFBJaG51dzhDd1JWRkE"
     },
     {
+      "title": "The Federal Reserve's April inflation forecast was just updated -- and the outlook for the stock market worsened, yet again - MSN",
+      "url": "https://news.google.com/rss/articles/CBMixANBVV95cUxPazlHNV9kM2JhWXlrNzVSdkVfTUZUbndqNkpPMVV5eTREMU9qWjM3eUxMNGFHMFdWYkM5a3N0SUd6enNyMUdMSTY0TEt6d1RXQTVQcUdMeklNSzZKSlpNb080V0t1b0pJV0hSOTVOQ2JuVkFRRDFnTXpQVTZQR3BhVC1tVENjWmhpdFZWQl9tY2Z3dWVOZHV2Nl9yeUJnSE1wbm9DLXF5cjBzd0QtbkhtUXEzWUVWeWZRclQ4Vk85aUpDaVhXZnNpV01yci01Y2NvMTF2NDdQeGRfVjZQZGpFdExpNllZUzJxTXFHUmlsRlJIczdXdHp3anhYbHdEUHFGcnpZOFlYbjJNLW8wSU84QkZ0bkZRNUFCaE9HTWVSX2VBdkVGNE1CZ0VvWVBQNnU4bFhxVWZCbURrckNsOElKSnhrWVE3NHFabUdDTkhVVVhQSUpxT1FGQno2RkVPRTRqb3N4VW5KazhyOW5PcHY0LTk5RTlEY2JxZGVtY2xCRWVqNlV5bG11M1lxdml0NGpaVzJRa1NoV3pQdExqMS13YVJ5c195N1dmVVpQUnF1X3NiQ1ZxbFBSb28zSEQybXVHLTU3cQ?oc=5",
+      "source": "MSN",
+      "published_at": "Fri, 24 Apr 2026 01:48:38 GMT",
+      "summary": "The Federal Reserve's April inflation forecast was just updated -- and the outlook for the stock market worsened, yet again MSN",
+      "guid": "CBMixANBVV95cUxPazlHNV9kM2JhWXlrNzVSdkVfTUZUbndqNkpPMVV5eTREMU9qWjM3eUxMNGFHMFdWYkM5a3N0SUd6enNyMUdMSTY0TEt6d1RXQTVQcUdMeklNSzZKSlpNb080V0t1b0pJV0hSOTVOQ2JuVkFRRDFnTXpQVTZQR3BhVC1tVENjWmhpdFZWQl9tY2Z3dWVOZHV2Nl9yeUJnSE1wbm9DLXF5cjBzd0QtbkhtUXEzWUVWeWZRclQ4Vk85aUpDaVhXZnNpV01yci01Y2NvMTF2NDdQeGRfVjZQZGpFdExpNllZUzJxTXFHUmlsRlJIczdXdHp3anhYbHdEUHFGcnpZOFlYbjJNLW8wSU84QkZ0bkZRNUFCaE9HTWVSX2VBdkVGNE1CZ0VvWVBQNnU4bFhxVWZCbURrckNsOElKSnhrWVE3NHFabUdDTkhVVVhQSUpxT1FGQno2RkVPRTRqb3N4VW5KazhyOW5PcHY0LTk5RTlEY2JxZGVtY2xCRWVqNlV5bG11M1lxdml0NGpaVzJRa1NoV3pQdExqMS13YVJ5c195N1dmVVpQUnF1X3NiQ1ZxbFBSb28zSEQybXVHLTU3cQ"
+    },
+    {
       "title": "What’s the Fed’s next move? - J.P. Morgan",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE40THNXLUVVeVZoLUE4TmJCX0lSSFZUeXNVUTRCUlRBR0FEWktBNGxzWThLVWY1cms3cTRqbE1qanU1ZDZhbl9zeUp2S0JEQkg3cXh2UE9wVmF4eDlXYkJPalJEeHhmRVN1OUVuT2Jad0o5YlM4RnprOG9yVQ?oc=5",
       "source": "J.P. Morgan",
@@ -45,14 +53,6 @@
       "published_at": "Tue, 07 Apr 2026 07:00:00 GMT",
       "summary": "The Federal Reserve's Nightmare Scenario Is Taking Shape and the Stock Market Should Pay Attention 24/7 Wall St.",
       "guid": "CBMi2AFBVV95cUxOYUo0M25uWWVNa3gwQ29FRUktMWNpQ3pWYVdWT3V5MU1MRjdpZE1NYnkzTWxqS1JXcFVMa0Jjb0xjZ1hZOEJSLTZZWnQxTHpSWlNvbm0xSy1qdDVveURWczdwcGg3NDlfR29Ha25oVG5fbGJwbkdJUTZiMFlhNmctVm1oWldidnd1NWt3YVhJN1Boc2plNDJ2aFhvcGpJdEtqYmtpc1Aybm1YSU91cTR1SDc1TldJTWJpQjk5TzZZMWp2OHduS3hGeTJMbHhWNExUM0FQVmRxMDE"
-    },
-    {
-      "title": "Federal Reserve Chairman Jerome Powell Just Delivered Fantastic News for Stock Market Investors - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcW5SVWs2dTV4QmhsUEhEVWZiODVhOUd3YWNzOHhiZVpzNEtuTGtWdHh5aWNPbkRWZXJfcE9ZbTFVbHU5VFBDOWZXZ3c0bllsNW1JOERhMVNOTE55c3FNVHU0NjYzMnRBSFFWRTBtWnJaakc2YjdockxJYlBBaldHVE05NmU4QQ?oc=5",
-      "source": "AOL.com",
-      "published_at": "Fri, 03 Apr 2026 17:47:37 GMT",
-      "summary": "Federal Reserve Chairman Jerome Powell Just Delivered Fantastic News for Stock Market Investors AOL.com",
-      "guid": "CBMihgFBVV95cUxOcW5SVWs2dTV4QmhsUEhEVWZiODVhOUd3YWNzOHhiZVpzNEtuTGtWdHh5aWNPbkRWZXJfcE9ZbTFVbHU5VFBDOWZXZ3c0bllsNW1JOERhMVNOTE55c3FNVHU0NjYzMnRBSFFWRTBtWnJaakc2YjdockxJYlBBaldHVE05NmU4QQ"
     },
     {
       "title": "Federal Reserve holds interest rates steady, signals one rate cut amid inflation uncertainty - U.S. Bank",
