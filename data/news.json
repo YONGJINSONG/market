@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T15:25:06Z",
+  "generated_at": "2026-04-25T16:00:06Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -23,20 +23,20 @@
       "guid": "CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0"
     },
     {
-      "title": "‘He Has the Market in a Chokehold’: Stocks Swing as Trump Posts - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTWI1WXpOdUxxYlllM2dIUFJfSGtOSkhSNWxBX3JQbEJ6REdtRXhvLVpNcmlQbS1zS3JQVFVlMG9WWGx1d3NOX19lMHh1NkJIdC1zbHI3UERvVFBGMlk4dmZpaFEwUmNOUkgwLTRXcW5nZzBuenRHYk5FQVlTR2dOLVpBeWlhWTZoRWs3bm1EZzEwd2t6M1VyTldQR2tpbjZ0d0FzUFdTV0ZSV3ZRT19CTFJB?oc=5",
-      "source": "Bloomberg.com",
-      "published_at": "Sat, 25 Apr 2026 13:00:00 GMT",
-      "summary": "‘He Has the Market in a Chokehold’: Stocks Swing as Trump Posts Bloomberg.com",
-      "guid": "CBMisgFBVV95cUxOTWI1WXpOdUxxYlllM2dIUFJfSGtOSkhSNWxBX3JQbEJ6REdtRXhvLVpNcmlQbS1zS3JQVFVlMG9WWGx1d3NOX19lMHh1NkJIdC1zbHI3UERvVFBGMlk4dmZpaFEwUmNOUkgwLTRXcW5nZzBuenRHYk5FQVlTR2dOLVpBeWlhWTZoRWs3bm1EZzEwd2t6M1VyTldQR2tpbjZ0d0FzUFdTV0ZSV3ZRT19CTFJB"
-    },
-    {
       "title": "The Stock Market Is in La La Land - American Enterprise Institute - AEI",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBfdDlTbUxRaGQ1Y0hYM1pTUVduYTB3WlhaVjJfeWpTYmFnWFFkRnhJVm0zaXdfTlU2RUhvUGhpb25yakQ0eFVHQzYtWE11em9WbTh4Mkt6VlJVREtfcVlJLUY1V2pBX21mZ2Y1bXZOYjJCUQ?oc=5",
       "source": "American Enterprise Institute - AEI",
       "published_at": "Fri, 24 Apr 2026 17:06:18 GMT",
       "summary": "The Stock Market Is in La La Land American Enterprise Institute - AEI",
       "guid": "CBMickFVX3lxTFBfdDlTbUxRaGQ1Y0hYM1pTUVduYTB3WlhaVjJfeWpTYmFnWFFkRnhJVm0zaXdfTlU2RUhvUGhpb25yakQ0eFVHQzYtWE11em9WbTh4Mkt6VlJVREtfcVlJLUY1V2pBX21mZ2Y1bXZOYjJCUQ"
+    },
+    {
+      "title": "‘He Has the Market in a Chokehold’: Stocks Swing as Trump Posts - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTWI1WXpOdUxxYlllM2dIUFJfSGtOSkhSNWxBX3JQbEJ6REdtRXhvLVpNcmlQbS1zS3JQVFVlMG9WWGx1d3NOX19lMHh1NkJIdC1zbHI3UERvVFBGMlk4dmZpaFEwUmNOUkgwLTRXcW5nZzBuenRHYk5FQVlTR2dOLVpBeWlhWTZoRWs3bm1EZzEwd2t6M1VyTldQR2tpbjZ0d0FzUFdTV0ZSV3ZRT19CTFJB?oc=5",
+      "source": "Bloomberg.com",
+      "published_at": "Sat, 25 Apr 2026 13:00:00 GMT",
+      "summary": "‘He Has the Market in a Chokehold’: Stocks Swing as Trump Posts Bloomberg.com",
+      "guid": "CBMisgFBVV95cUxOTWI1WXpOdUxxYlllM2dIUFJfSGtOSkhSNWxBX3JQbEJ6REdtRXhvLVpNcmlQbS1zS3JQVFVlMG9WWGx1d3NOX19lMHh1NkJIdC1zbHI3UERvVFBGMlk4dmZpaFEwUmNOUkgwLTRXcW5nZzBuenRHYk5FQVlTR2dOLVpBeWlhWTZoRWs3bm1EZzEwd2t6M1VyTldQR2tpbjZ0d0FzUFdTV0ZSV3ZRT19CTFJB"
     },
     {
       "title": "The Federal Reserve's Interest Rate Dilemma Is About to Go From Bad to Warsh -- and the Stock Market May End Up Paying the Price - Yahoo Finance",
@@ -79,12 +79,12 @@
       "guid": "CBMie0FVX3lxTE40THNXLUVVeVZoLUE4TmJCX0lSSFZUeXNVUTRCUlRBR0FEWktBNGxzWThLVWY1cms3cTRqbE1qanU1ZDZhbl9zeUp2S0JEQkg3cXh2UE9wVmF4eDlXYkJPalJEeHhmRVN1OUVuT2Jad0o5YlM4RnprOG9yVQ"
     },
     {
-      "title": "Is stock market closed Good Friday 2026? Is today a federal holiday? - IndyStar",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxObGxoVVk0YnQtd1J5MHZzbGYySXNzS1pObHlYQnMyck05ekxNcVNzdXJIcm9QODFnUVVKUzFFOXJRU1RzOWQ3d2hVVlc3WTEzR3hSRWRhTU1HWHZkZHpPZzBqSGxUY05XamxNYlljbFRzSFpncV9jMjVremw3ZDlodElBVVhHLWJ1RXNSTWZOcFBOX0VUQVUwRFZfMURhbHpmczJPMzQwY09Za3dwQnhnZjZhRW14LTA4cVhwUG5UMFVOS1dsaDk4Nmk4d2w0MFlQWk5uMHl5b3lTcExpN2xuQ19BU1Q?oc=5",
-      "source": "IndyStar",
-      "published_at": "Fri, 03 Apr 2026 07:00:00 GMT",
-      "summary": "Is stock market closed Good Friday 2026? Is today a federal holiday? IndyStar",
-      "guid": "CBMi5AFBVV95cUxObGxoVVk0YnQtd1J5MHZzbGYySXNzS1pObHlYQnMyck05ekxNcVNzdXJIcm9QODFnUVVKUzFFOXJRU1RzOWQ3d2hVVlc3WTEzR3hSRWRhTU1HWHZkZHpPZzBqSGxUY05XamxNYlljbFRzSFpncV9jMjVremw3ZDlodElBVVhHLWJ1RXNSTWZOcFBOX0VUQVUwRFZfMURhbHpmczJPMzQwY09Za3dwQnhnZjZhRW14LTA4cVhwUG5UMFVOS1dsaDk4Nmk4d2w0MFlQWk5uMHl5b3lTcExpN2xuQ19BU1Q"
+      "title": "The ‘Lasting Damage’ of Pirro’s Investigation of the Federal Reserve and Powell - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdzZNVmptOWNnc2QyVXhOSzRkVW1LWGwwNHNzejJvZ2hxRXhZbTNsVW9SMVVHc3Y4ejlsU2NfQUF0YS1yZ1hGdHl1QTYxVVBLSERrNjNIb3VZcXZDTmJHU05OclNQYkhCZm5RSmFWWXhGREkzOEtQWTNvY3JqQlpHRVJFOVhfVnRaWWRaaWFRRUd3bFFWbTJ2Wnhn?oc=5",
+      "source": "The New York Times",
+      "published_at": "Fri, 24 Apr 2026 21:43:17 GMT",
+      "summary": "The ‘Lasting Damage’ of Pirro’s Investigation of the Federal Reserve and Powell The New York Times",
+      "guid": "CBMimgFBVV95cUxNdzZNVmptOWNnc2QyVXhOSzRkVW1LWGwwNHNzejJvZ2hxRXhZbTNsVW9SMVVHc3Y4ejlsU2NfQUF0YS1yZ1hGdHl1QTYxVVBLSERrNjNIb3VZcXZDTmJHU05OclNQYkhCZm5RSmFWWXhGREkzOEtQWTNvY3JqQlpHRVJFOVhfVnRaWWRaaWFRRUd3bFFWbTJ2Wnhn"
     }
   ]
 }
