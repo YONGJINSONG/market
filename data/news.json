@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T11:10:18Z",
+  "generated_at": "2026-04-25T11:52:06Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -13,6 +13,14 @@
       "published_at": "Sat, 25 Apr 2026 10:30:00 GMT",
       "summary": "Stock Market Week Ahead: Hyperscaler Blitz, Federal Reserve Transition Investor's Business Daily",
       "guid": "CBMi0wFBVV95cUxQbVNHb0JHaWxMRU9KRHNWeTdZREcxWkd5Z2ZaeFpxbnNXVGxfcGVYTTlIdlBMaktBY2ZuT1E0Z3paSENvdVFYQ0cwTy10OElPMkF6WmNUWWxaUFk4N1puS2l5X3JhbnpCQ0oxNm5qQWRITFhBallCQnV2TF9VMWdLLXpOb1JxUDZGd1V1cHdQLS11dnFjUmtXNXBwa3pmb3pUN0wtaFhieUdQeDBNN0ZJSXpOOTJUOUt4Y0w3WkcydUROemRuRmpFRU1pSWNzb3BoMTVz"
+    },
+    {
+      "title": "The Federal Reserve's Interest Rate Dilemma Is About to Go From Bad to Warsh -- and the Stock Market May End Up Paying the Price - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbDAtc3dVT3p1bHRkQmE4SEo5U0JqdndOZXRieVp6Sy1iZ25UbDlhWV9iQjIzQ25NLUowVTdtbXo2OUpsV29qLVg0QTFpdjYxSnF4Wk1SWlBhaEVQV21DZ0Y4WWZQTVkyVnJBQXh6eFB6WmpZeWlYSTBjUk5LVEF2LXJpSF95RUd5MHFjTmp1aXNjVE9yRG04Zm93b29KaEdEdnRmWnl3?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Sat, 25 Apr 2026 10:56:00 GMT",
+      "summary": "The Federal Reserve's Interest Rate Dilemma Is About to Go From Bad to Warsh -- and the Stock Market May End Up Paying the Price Yahoo Finance",
+      "guid": "CBMipgFBVV95cUxNbDAtc3dVT3p1bHRkQmE4SEo5U0JqdndOZXRieVp6Sy1iZ25UbDlhWV9iQjIzQ25NLUowVTdtbXo2OUpsV29qLVg0QTFpdjYxSnF4Wk1SWlBhaEVQV21DZ0Y4WWZQTVkyVnJBQXh6eFB6WmpZeWlYSTBjUk5LVEF2LXJpSF95RUd5MHFjTmp1aXNjVE9yRG04Zm93b29KaEdEdnRmWnl3"
     },
     {
       "title": "The Stock Market Is in La La Land - American Enterprise Institute - AEI",
@@ -55,14 +63,6 @@
       "guid": "CBMilwFBVV95cUxQTTh0V2taVE9vNXZpUWtabzhXYWpqMXhtYVI0VlQ5cU9nV00zU2RZa0VacEdOTTQ5M19Ha2NaWmF2VDA3REZvU0NySFdoRjlkSnlNdnpGdnZVcmxCN1VaYTF0ai03QjRISkFLcS1RNnJDMmlGLXIwNTFiV2VxN1B0Z1JlX0Jxblh5VF9wSW5uOU4tMzUzRmJN"
     },
     {
-      "title": "Federal Reserve Chairman Jerome Powell Just Delivered Fantastic News for Stock Market Investors - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSU5HQUpJYWhMTkV6RjUwUEpMdlBFNjFNQnI5U1lXcEVPR0hycmsxaTV6a2cwbmUzZ3JnbFFrUnJGNXpUcy1HdFZqRm1xRDd0QTE2SFFsUkozbWF0WUFERjFmcE9tM2hKTFBuc1FoZ3pxX3ItQXU2YTVuQlNjRWh0Zlc0a1lLZGw3ckw1WjVSOTRZLUNPMFBJaG51dzhDd1JWRkE?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Fri, 03 Apr 2026 07:00:00 GMT",
-      "summary": "Federal Reserve Chairman Jerome Powell Just Delivered Fantastic News for Stock Market Investors Yahoo Finance",
-      "guid": "CBMiogFBVV95cUxPSU5HQUpJYWhMTkV6RjUwUEpMdlBFNjFNQnI5U1lXcEVPR0hycmsxaTV6a2cwbmUzZ3JnbFFrUnJGNXpUcy1HdFZqRm1xRDd0QTE2SFFsUkozbWF0WUFERjFmcE9tM2hKTFBuc1FoZ3pxX3ItQXU2YTVuQlNjRWh0Zlc0a1lLZGw3ckw1WjVSOTRZLUNPMFBJaG51dzhDd1JWRkE"
-    },
-    {
       "title": "What’s the Fed’s next move? - J.P. Morgan",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE40THNXLUVVeVZoLUE4TmJCX0lSSFZUeXNVUTRCUlRBR0FEWktBNGxzWThLVWY1cms3cTRqbE1qanU1ZDZhbl9zeUp2S0JEQkg3cXh2UE9wVmF4eDlXYkJPalJEeHhmRVN1OUVuT2Jad0o5YlM4RnprOG9yVQ?oc=5",
       "source": "J.P. Morgan",
@@ -71,20 +71,20 @@
       "guid": "CBMie0FVX3lxTE40THNXLUVVeVZoLUE4TmJCX0lSSFZUeXNVUTRCUlRBR0FEWktBNGxzWThLVWY1cms3cTRqbE1qanU1ZDZhbl9zeUp2S0JEQkg3cXh2UE9wVmF4eDlXYkJPalJEeHhmRVN1OUVuT2Jad0o5YlM4RnprOG9yVQ"
     },
     {
+      "title": "Is stock market closed Good Friday 2026? Is today a federal holiday? - IndyStar",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxObGxoVVk0YnQtd1J5MHZzbGYySXNzS1pObHlYQnMyck05ekxNcVNzdXJIcm9QODFnUVVKUzFFOXJRU1RzOWQ3d2hVVlc3WTEzR3hSRWRhTU1HWHZkZHpPZzBqSGxUY05XamxNYlljbFRzSFpncV9jMjVremw3ZDlodElBVVhHLWJ1RXNSTWZOcFBOX0VUQVUwRFZfMURhbHpmczJPMzQwY09Za3dwQnhnZjZhRW14LTA4cVhwUG5UMFVOS1dsaDk4Nmk4d2w0MFlQWk5uMHl5b3lTcExpN2xuQ19BU1Q?oc=5",
+      "source": "IndyStar",
+      "published_at": "Fri, 03 Apr 2026 07:00:00 GMT",
+      "summary": "Is stock market closed Good Friday 2026? Is today a federal holiday? IndyStar",
+      "guid": "CBMi5AFBVV95cUxObGxoVVk0YnQtd1J5MHZzbGYySXNzS1pObHlYQnMyck05ekxNcVNzdXJIcm9QODFnUVVKUzFFOXJRU1RzOWQ3d2hVVlc3WTEzR3hSRWRhTU1HWHZkZHpPZzBqSGxUY05XamxNYlljbFRzSFpncV9jMjVremw3ZDlodElBVVhHLWJ1RXNSTWZOcFBOX0VUQVUwRFZfMURhbHpmczJPMzQwY09Za3dwQnhnZjZhRW14LTA4cVhwUG5UMFVOS1dsaDk4Nmk4d2w0MFlQWk5uMHl5b3lTcExpN2xuQ19BU1Q"
+    },
+    {
       "title": "The Federal Reserve's Nightmare Scenario Is Taking Shape and the Stock Market Should Pay Attention - 24/7 Wall St.",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYUo0M25uWWVNa3gwQ29FRUktMWNpQ3pWYVdWT3V5MU1MRjdpZE1NYnkzTWxqS1JXcFVMa0Jjb0xjZ1hZOEJSLTZZWnQxTHpSWlNvbm0xSy1qdDVveURWczdwcGg3NDlfR29Ha25oVG5fbGJwbkdJUTZiMFlhNmctVm1oWldidnd1NWt3YVhJN1Boc2plNDJ2aFhvcGpJdEtqYmtpc1Aybm1YSU91cTR1SDc1TldJTWJpQjk5TzZZMWp2OHduS3hGeTJMbHhWNExUM0FQVmRxMDE?oc=5",
       "source": "24/7 Wall St.",
       "published_at": "Tue, 07 Apr 2026 07:00:00 GMT",
       "summary": "The Federal Reserve's Nightmare Scenario Is Taking Shape and the Stock Market Should Pay Attention 24/7 Wall St.",
       "guid": "CBMi2AFBVV95cUxOYUo0M25uWWVNa3gwQ29FRUktMWNpQ3pWYVdWT3V5MU1MRjdpZE1NYnkzTWxqS1JXcFVMa0Jjb0xjZ1hZOEJSLTZZWnQxTHpSWlNvbm0xSy1qdDVveURWczdwcGg3NDlfR29Ha25oVG5fbGJwbkdJUTZiMFlhNmctVm1oWldidnd1NWt3YVhJN1Boc2plNDJ2aFhvcGpJdEtqYmtpc1Aybm1YSU91cTR1SDc1TldJTWJpQjk5TzZZMWp2OHduS3hGeTJMbHhWNExUM0FQVmRxMDE"
-    },
-    {
-      "title": "Stock Market Gains As Intel Drives Chip Surge; Fed Meeting, Powell On Deck - Investor's Business Daily",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORkdLWWNBTi1Bc2VNMFJjeFk4bFgzR2plSkRPZmxBUGtzWml4UmJfbFBtcDlKMWh6VDZOUi1QNnJYeW1adlZWeHRLeDhqTlJQcVktRkZjVHd6c3pubzkyMjJPNnVDRkNURzJ6ZTBaUlZhUjVXRVMyVzItTFFYVFZWQXZLd3picWdqQ3N0aWRWZWI5M3QyZ1NidnFueE5WaUlnOUdRVDlSTF83VXVXM295SHkxZTVKeGJ2RENIWF9UNUhFTHptTVNfMmNrRzd5RG9aY01wWA?oc=5",
-      "source": "Investor's Business Daily",
-      "published_at": "Fri, 24 Apr 2026 21:34:00 GMT",
-      "summary": "Stock Market Gains As Intel Drives Chip Surge; Fed Meeting, Powell On Deck Investor's Business Daily",
-      "guid": "CBMi1AFBVV95cUxORkdLWWNBTi1Bc2VNMFJjeFk4bFgzR2plSkRPZmxBUGtzWml4UmJfbFBtcDlKMWh6VDZOUi1QNnJYeW1adlZWeHRLeDhqTlJQcVktRkZjVHd6c3pubzkyMjJPNnVDRkNURzJ6ZTBaUlZhUjVXRVMyVzItTFFYVFZWQXZLd3picWdqQ3N0aWRWZWI5M3QyZ1NidnFueE5WaUlnOUdRVDlSTF83VXVXM295SHkxZTVKeGJ2RENIWF9UNUhFTHptTVNfMmNrRzd5RG9aY01wWA"
     }
   ]
 }
