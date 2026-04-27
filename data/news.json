@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-27T20:36:45Z",
+  "generated_at": "2026-04-27T21:37:55Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,20 +7,20 @@
   },
   "items": [
     {
+      "title": "5 Things to Know Before the Stock Market Opens - Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOa09PQTAyRHRwRVV3THRpZUppekRuLWFTT0RMOS05SXRYLUF3UGVfck5wdTFvRzZoUUphNlFxTHc5S3hXMWdhbjZtMWZab2E5MFlYRW9TR2ppQjduV1BRZGpjM3VxLXF0NnFnUVVpV0hISk8xR3FyTlhxTlRKSTctVElQQVA5S1lycDN4eFhFUGV2SFg1OVdtakZPQ0h3ajA?oc=5",
+      "source": "Investopedia",
+      "published_at": "Mon, 27 Apr 2026 12:05:57 GMT",
+      "summary": "5 Things to Know Before the Stock Market Opens Investopedia",
+      "guid": "CBMinwFBVV95cUxOa09PQTAyRHRwRVV3THRpZUppekRuLWFTT0RMOS05SXRYLUF3UGVfck5wdTFvRzZoUUphNlFxTHc5S3hXMWdhbjZtMWZab2E5MFlYRW9TR2ppQjduV1BRZGpjM3VxLXF0NnFnUVVpV0hISk8xR3FyTlhxTlRKSTctVElQQVA5S1lycDN4eFhFUGV2SFg1OVdtakZPQ0h3ajA"
+    },
+    {
       "title": "Stock Market Week Ahead: Hyperscaler Blitz, Federal Reserve Transition - Investor's Business Daily",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbVNHb0JHaWxMRU9KRHNWeTdZREcxWkd5Z2ZaeFpxbnNXVGxfcGVYTTlIdlBMaktBY2ZuT1E0Z3paSENvdVFYQ0cwTy10OElPMkF6WmNUWWxaUFk4N1puS2l5X3JhbnpCQ0oxNm5qQWRITFhBallCQnV2TF9VMWdLLXpOb1JxUDZGd1V1cHdQLS11dnFjUmtXNXBwa3pmb3pUN0wtaFhieUdQeDBNN0ZJSXpOOTJUOUt4Y0w3WkcydUROemRuRmpFRU1pSWNzb3BoMTVz?oc=5",
       "source": "Investor's Business Daily",
       "published_at": "Sat, 25 Apr 2026 10:30:00 GMT",
       "summary": "Stock Market Week Ahead: Hyperscaler Blitz, Federal Reserve Transition Investor's Business Daily",
       "guid": "CBMi0wFBVV95cUxQbVNHb0JHaWxMRU9KRHNWeTdZREcxWkd5Z2ZaeFpxbnNXVGxfcGVYTTlIdlBMaktBY2ZuT1E0Z3paSENvdVFYQ0cwTy10OElPMkF6WmNUWWxaUFk4N1puS2l5X3JhbnpCQ0oxNm5qQWRITFhBallCQnV2TF9VMWdLLXpOb1JxUDZGd1V1cHdQLS11dnFjUmtXNXBwa3pmb3pUN0wtaFhieUdQeDBNN0ZJSXpOOTJUOUt4Y0w3WkcydUROemRuRmpFRU1pSWNzb3BoMTVz"
-    },
-    {
-      "title": "The Federal Reserve's April Inflation Forecast Has Been Updated, and It's a Good News-Bad News Scenario for Wall Street - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSXlnaml0dlc1UW4zaVZHWDB0eWRubVZCOEM4d2NxZWtsOE42TUw2YUh0ZVE0Tmw0MnFzcTBYdUFyZ1MzemdrZGRDOFNVbzBrWEYxa2p3SEhzekluaGVHR3ROeUxsWE50SGd4YVh6RThUdDdmemxER3ZwNkh4alE5ZldvM2xJdU9VSGpQcmhHdmdSa2RGeXNtRg?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Mon, 27 Apr 2026 10:06:00 GMT",
-      "summary": "The Federal Reserve's April Inflation Forecast Has Been Updated, and It's a Good News-Bad News Scenario for Wall Street The Motley Fool",
-      "guid": "CBMimAFBVV95cUxPSXlnaml0dlc1UW4zaVZHWDB0eWRubVZCOEM4d2NxZWtsOE42TUw2YUh0ZVE0Tmw0MnFzcTBYdUFyZ1MzemdrZGRDOFNVbzBrWEYxa2p3SEhzekluaGVHR3ROeUxsWE50SGd4YVh6RThUdDdmemxER3ZwNkh4alE5ZldvM2xJdU9VSGpQcmhHdmdSa2RGeXNtRg"
     },
     {
       "title": "The Federal Reserve's Interest Rate Dilemma Is About to Go From Bad to Warsh -- and the Stock Market May End Up Paying the Price - Yahoo Finance",
@@ -31,28 +31,28 @@
       "guid": "CBMipgFBVV95cUxNbDAtc3dVT3p1bHRkQmE4SEo5U0JqdndOZXRieVp6Sy1iZ25UbDlhWV9iQjIzQ25NLUowVTdtbXo2OUpsV29qLVg0QTFpdjYxSnF4Wk1SWlBhaEVQV21DZ0Y4WWZQTVkyVnJBQXh6eFB6WmpZeWlYSTBjUk5LVEF2LXJpSF95RUd5MHFjTmp1aXNjVE9yRG04Zm93b29KaEdEdnRmWnl3"
     },
     {
+      "title": "The Federal Reserve's April Inflation Forecast Has Been Updated, and It's a Good News-Bad News Scenario for Wall Street - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSXlnaml0dlc1UW4zaVZHWDB0eWRubVZCOEM4d2NxZWtsOE42TUw2YUh0ZVE0Tmw0MnFzcTBYdUFyZ1MzemdrZGRDOFNVbzBrWEYxa2p3SEhzekluaGVHR3ROeUxsWE50SGd4YVh6RThUdDdmemxER3ZwNkh4alE5ZldvM2xJdU9VSGpQcmhHdmdSa2RGeXNtRg?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Mon, 27 Apr 2026 10:06:00 GMT",
+      "summary": "The Federal Reserve's April Inflation Forecast Has Been Updated, and It's a Good News-Bad News Scenario for Wall Street The Motley Fool",
+      "guid": "CBMimAFBVV95cUxPSXlnaml0dlc1UW4zaVZHWDB0eWRubVZCOEM4d2NxZWtsOE42TUw2YUh0ZVE0Tmw0MnFzcTBYdUFyZ1MzemdrZGRDOFNVbzBrWEYxa2p3SEhzekluaGVHR3ROeUxsWE50SGd4YVh6RThUdDdmemxER3ZwNkh4alE5ZldvM2xJdU9VSGpQcmhHdmdSa2RGeXNtRg"
+    },
+    {
+      "title": "Why US stock market indexes S&P 500 and Nasdaq registered gains while Dow Jones crashed today? Full explai - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMijANBVV95cUxOLUxFTWxiMEE3NTgyUHR1ektlN3Awdlg0bmw3em5PRXppakwxa042Szh3aUxZTmJ4ZDVrZG1MYWJEalhRYjFkOENyMFJEV2FyWjhaeGFtbUpab2NuaW45d0l0aDNYcHpudmZUZ0piNVJGNGpDLTNfdzhsWlg2MklIOV9SWWxvVEpvckJ0YndUR0d2M21Ra0lKTW5IMmdxUGR5eVlCRzdzSG84UnV0Wk1FcEg2WDNSNjgyOGRnMzNGc1FuNnZqRTd1MHZ1bVpuY19PVFFvN2hZWnlSN05ZN0pfWlBDUzl2OWpFTmFUang4LWFkcnlNUk9XZHcyejM3SG5SYXg4UmI0UUw2a2lZRFV0WnF4MmZaVi1VYk1kZ2xGeWNuNW16WFQyMWtMbVNqbFVjS250cHRQZ09mR2N1VmJsdS1jQzgzZDJNcUh3bndTdkcwUnNwa2EzcWNyREpMck5ZTURHREtDOFlFQUxwOTBUaVl4VjRIby1LajBWcU9FS2xET1dwWlk5a3lsd0TSAZIDQVVfeXFMUFlFRGkwMWZOU04xQzdBU0lESVBEM2ZJTWR2S2VsN0FPbGlJNi1YbFhMdDdZZGpxcEhQV3dJUGg2aGZrMlBNQ3lVODIzalF6WEEyTUpqMG14Sjl5bHFDUWZzOWR1c1hpUDAyanNkM25RWGlDLUxiTkJRU0t0Z2hsY1NNdTAydXBjVUx4d3FoMFVaNG51VFJNYlNjRjJNWGV2SlJNMG1EdVNuU3lPUDlqeU02VkVrTS1oNXQtQmx2ZEJwMUFuQjVXQnotbHRFbGpJemp3aXNWaGNvLWNOdFJvMzdiSTFCbXVLbGVhV011T3NKOGcxT3k0SE1PUXFPWnQ1Ulc5Nmd3dnRlUV81VGZMMVI0U2JDTXNqY1hNSnB0dkdScVNwN3RqOG1UbHViY1VobGRDbGRFWTFlRVpjQ0U5cDIxaUQ4M1Zmd3M2THU0bTE2NHRkaWlPN24yRG9ZcVp2RExIaDBrOE1qWU96bTlDbUNpQkV4QWtoOFlUS0RLV1VxSlBLcmxtN0lDZ0hYWExqZVpR?oc=5",
+      "source": "The Economic Times",
+      "published_at": "Mon, 27 Apr 2026 20:47:33 GMT",
+      "summary": "Why US stock market indexes S&P 500 and Nasdaq registered gains while Dow Jones crashed today? Full explai The Economic Times",
+      "guid": "CBMijANBVV95cUxOLUxFTWxiMEE3NTgyUHR1ektlN3Awdlg0bmw3em5PRXppakwxa042Szh3aUxZTmJ4ZDVrZG1MYWJEalhRYjFkOENyMFJEV2FyWjhaeGFtbUpab2NuaW45d0l0aDNYcHpudmZUZ0piNVJGNGpDLTNfdzhsWlg2MklIOV9SWWxvVEpvckJ0YndUR0d2M21Ra0lKTW5IMmdxUGR5eVlCRzdzSG84UnV0Wk1FcEg2WDNSNjgyOGRnMzNGc1FuNnZqRTd1MHZ1bVpuY19PVFFvN2hZWnlSN05ZN0pfWlBDUzl2OWpFTmFUang4LWFkcnlNUk9XZHcyejM3SG5SYXg4UmI0UUw2a2lZRFV0WnF4MmZaVi1VYk1kZ2xGeWNuNW16WFQyMWtMbVNqbFVjS250cHRQZ09mR2N1VmJsdS1jQzgzZDJNcUh3bndTdkcwUnNwa2EzcWNyREpMck5ZTURHREtDOFlFQUxwOTBUaVl4VjRIby1LajBWcU9FS2xET1dwWlk5a3lsd0TSAZIDQVVfeXFMUFlFRGkwMWZOU04xQzdBU0lESVBEM2ZJTWR2S2VsN0FPbGlJNi1YbFhMdDdZZGpxcEhQV3dJUGg2aGZrMlBNQ3lVODIzalF6WEEyTUpqMG14Sjl5bHFDUWZzOWR1c1hpUDAyanNkM25RWGlDLUxiTkJRU0t0Z2hsY1NNdTAydXBjVUx4d3FoMFVaNG51VFJNYlNjRjJNWGV2SlJNMG1EdVNuU3lPUDlqeU02VkVrTS1oNXQtQmx2ZEJwMUFuQjVXQnotbHRFbGpJemp3aXNWaGNvLWNOdFJvMzdiSTFCbXVLbGVhV011T3NKOGcxT3k0SE1PUXFPWnQ1Ulc5Nmd3dnRlUV81VGZMMVI0U2JDTXNqY1hNSnB0dkdScVNwN3RqOG1UbHViY1VobGRDbGRFWTFlRVpjQ0U5cDIxaUQ4M1Zmd3M2THU0bTE2NHRkaWlPN24yRG9ZcVp2RExIaDBrOE1qWU96bTlDbUNpQkV4QWtoOFlUS0RLV1VxSlBLcmxtN0lDZ0hYWExqZVpR"
+    },
+    {
       "title": "Tracker: The Federal Reserve’s Balance Sheet Assets - The American Action Forum",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0?oc=5",
       "source": "The American Action Forum",
       "published_at": "Fri, 24 Apr 2026 07:00:00 GMT",
       "summary": "Tracker: The Federal Reserve’s Balance Sheet Assets The American Action Forum",
       "guid": "CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0"
-    },
-    {
-      "title": "Stock Market Today: Dow Jones, S&P 500 Futures Fall As Trump Halts Iran Talks—Organon, SAP, Cheetah Net S - Benzinga",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNcjJtZzd4TzlpUTFhYlNHOUNma1ZxQmROZXdfZC1TVGxYeUhMYUswWVVXbnVNcUswQ2JBNW00SUItQ2VHV1V2ME9KYzdEaHV1eE9NQ2VSV0l3ejl2VXlYeExyZlIyQ2dkY040aVVFVnIyOGR2OUItSUhFU2NMQUI0OFd3TURlbGtZenBSRV84NEtaMU5yZHotaXppY055Vkk1LVU4X3JUVnVVTngyR0xYZTVORlR4MnF1NkJYak1kUThLRk9Mb05ZTlpTcnRibV9KMVdFX0tUZXAyTGNGS0F3Wk1BaENPd3FMbXhEWDlvRnpLSFhfTmp4ZURQQ0ZzZ0cxQzBSd2YyRG9RV0RjYkRsZkRUYw?oc=5",
-      "source": "Benzinga",
-      "published_at": "Mon, 27 Apr 2026 09:00:07 GMT",
-      "summary": "Stock Market Today: Dow Jones, S&P 500 Futures Fall As Trump Halts Iran Talks—Organon, SAP, Cheetah Net S Benzinga",
-      "guid": "CBMikwJBVV95cUxNcjJtZzd4TzlpUTFhYlNHOUNma1ZxQmROZXdfZC1TVGxYeUhMYUswWVVXbnVNcUswQ2JBNW00SUItQ2VHV1V2ME9KYzdEaHV1eE9NQ2VSV0l3ejl2VXlYeExyZlIyQ2dkY040aVVFVnIyOGR2OUItSUhFU2NMQUI0OFd3TURlbGtZenBSRV84NEtaMU5yZHotaXppY055Vkk1LVU4X3JUVnVVTngyR0xYZTVORlR4MnF1NkJYak1kUThLRk9Mb05ZTlpTcnRibV9KMVdFX0tUZXAyTGNGS0F3Wk1BaENPd3FMbXhEWDlvRnpLSFhfTmp4ZURQQ0ZzZ0cxQzBSd2YyRG9RV0RjYkRsZkRUYw"
-    },
-    {
-      "title": "5 Things to Know Before the Stock Market Opens - Investopedia",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOa09PQTAyRHRwRVV3THRpZUppekRuLWFTT0RMOS05SXRYLUF3UGVfck5wdTFvRzZoUUphNlFxTHc5S3hXMWdhbjZtMWZab2E5MFlYRW9TR2ppQjduV1BRZGpjM3VxLXF0NnFnUVVpV0hISk8xR3FyTlhxTlRKSTctVElQQVA5S1lycDN4eFhFUGV2SFg1OVdtakZPQ0h3ajA?oc=5",
-      "source": "Investopedia",
-      "published_at": "Mon, 27 Apr 2026 12:05:57 GMT",
-      "summary": "5 Things to Know Before the Stock Market Opens Investopedia",
-      "guid": "CBMinwFBVV95cUxOa09PQTAyRHRwRVV3THRpZUppekRuLWFTT0RMOS05SXRYLUF3UGVfck5wdTFvRzZoUUphNlFxTHc5S3hXMWdhbjZtMWZab2E5MFlYRW9TR2ppQjduV1BRZGpjM3VxLXF0NnFnUVVpV0hISk8xR3FyTlhxTlRKSTctVElQQVA5S1lycDN4eFhFUGV2SFg1OVdtakZPQ0h3ajA"
     },
     {
       "title": "The Federal Reserve's April Inflation Forecast Has Been Updated, and It's a Good News-Bad News Scenario for Wall Street - Yahoo Finance",
@@ -79,12 +79,12 @@
       "guid": "CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw"
     },
     {
-      "title": "The Federal Reserve's April Inflation Forecast Was Just Updated -- and the Outlook for the Stock Market Worsened, Yet Again - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTTh0V2taVE9vNXZpUWtabzhXYWpqMXhtYVI0VlQ5cU9nV00zU2RZa0VacEdOTTQ5M19Ha2NaWmF2VDA3REZvU0NySFdoRjlkSnlNdnpGdnZVcmxCN1VaYTF0ai03QjRISkFLcS1RNnJDMmlGLXIwNTFiV2VxN1B0Z1JlX0Jxblh5VF9wSW5uOU4tMzUzRmJN?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Mon, 20 Apr 2026 09:06:00 GMT",
-      "summary": "The Federal Reserve's April Inflation Forecast Was Just Updated -- and the Outlook for the Stock Market Worsened, Yet Again The Motley Fool",
-      "guid": "CBMilwFBVV95cUxQTTh0V2taVE9vNXZpUWtabzhXYWpqMXhtYVI0VlQ5cU9nV00zU2RZa0VacEdOTTQ5M19Ha2NaWmF2VDA3REZvU0NySFdoRjlkSnlNdnpGdnZVcmxCN1VaYTF0ai03QjRISkFLcS1RNnJDMmlGLXIwNTFiV2VxN1B0Z1JlX0Jxblh5VF9wSW5uOU4tMzUzRmJN"
+      "title": "What to Expect in Markets This Week: The Fed Meets, and Magnificent 7 Earnings Roll In - Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMFl0OHJldHdqWTU4am9NX1ptcVpsYnVzMDVYbGpHRFZBMmFnOVhwS1dJallLbTl1Y3N0X0M3OXBlNERlblp5bXRuV1VjVmxyUXUxM1liUGVEZ0dlbnFmN3NzY0JMc0tGRjY5WnhTX3NFV2lWaldLeEM2QVVHY1hWT0I0TkY1Z0dxOHprem1qYU1Vell0UTdRRGJjbzRTbmxEbDAwTENNQU14X1o5by1LSWh6ZmtISEJfQ3JiQnJ0VQ?oc=5",
+      "source": "Investopedia",
+      "published_at": "Sun, 26 Apr 2026 10:00:00 GMT",
+      "summary": "What to Expect in Markets This Week: The Fed Meets, and Magnificent 7 Earnings Roll In Investopedia",
+      "guid": "CBMivwFBVV95cUxOMFl0OHJldHdqWTU4am9NX1ptcVpsYnVzMDVYbGpHRFZBMmFnOVhwS1dJallLbTl1Y3N0X0M3OXBlNERlblp5bXRuV1VjVmxyUXUxM1liUGVEZ0dlbnFmN3NzY0JMc0tGRjY5WnhTX3NFV2lWaldLeEM2QVVHY1hWT0I0TkY1Z0dxOHprem1qYU1Vell0UTdRRGJjbzRTbmxEbDAwTENNQU14X1o5by1LSWh6ZmtISEJfQ3JiQnJ0VQ"
     }
   ]
 }
