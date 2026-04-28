@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T11:24:58Z",
+  "generated_at": "2026-04-28T13:07:01Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -31,20 +31,20 @@
       "guid": "CBMimAFBVV95cUxPSXlnaml0dlc1UW4zaVZHWDB0eWRubVZCOEM4d2NxZWtsOE42TUw2YUh0ZVE0Tmw0MnFzcTBYdUFyZ1MzemdrZGRDOFNVbzBrWEYxa2p3SEhzekluaGVHR3ROeUxsWE50SGd4YVh6RThUdDdmemxER3ZwNkh4alE5ZldvM2xJdU9VSGpQcmhHdmdSa2RGeXNtRg"
     },
     {
-      "title": "5 Things to Know Before the Stock Market Opens - Investopedia",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOa09PQTAyRHRwRVV3THRpZUppekRuLWFTT0RMOS05SXRYLUF3UGVfck5wdTFvRzZoUUphNlFxTHc5S3hXMWdhbjZtMWZab2E5MFlYRW9TR2ppQjduV1BRZGpjM3VxLXF0NnFnUVVpV0hISk8xR3FyTlhxTlRKSTctVElQQVA5S1lycDN4eFhFUGV2SFg1OVdtakZPQ0h3ajA?oc=5",
-      "source": "Investopedia",
-      "published_at": "Mon, 27 Apr 2026 12:05:57 GMT",
-      "summary": "5 Things to Know Before the Stock Market Opens Investopedia",
-      "guid": "CBMinwFBVV95cUxOa09PQTAyRHRwRVV3THRpZUppekRuLWFTT0RMOS05SXRYLUF3UGVfck5wdTFvRzZoUUphNlFxTHc5S3hXMWdhbjZtMWZab2E5MFlYRW9TR2ppQjduV1BRZGpjM3VxLXF0NnFnUVVpV0hISk8xR3FyTlhxTlRKSTctVElQQVA5S1lycDN4eFhFUGV2SFg1OVdtakZPQ0h3ajA"
-    },
-    {
       "title": "Tracker: The Federal Reserve’s Balance Sheet Assets - The American Action Forum",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0?oc=5",
       "source": "The American Action Forum",
       "published_at": "Fri, 24 Apr 2026 07:00:00 GMT",
       "summary": "Tracker: The Federal Reserve’s Balance Sheet Assets The American Action Forum",
       "guid": "CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0"
+    },
+    {
+      "title": "US Stock Market Today: Futures Slip as $110 Oil and AI Jitters Test Wall Street’s Record Run - TechStock²",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYjU1dzZBaFVIOHlfLTF0WXVWVTY3bUE1NFhzMTF0blc4WjVsWmJEMXY1ZFZOQzBXSGVONVE3d1RtWFdLOXdLSml4TGs4YXdnM244Rld3QlB5VF80WDRDb0Jaazd0Y1FEOUJseDVTNnktMDhZSXZFNEU3T3IzVVZRaGdfeW54VkdrWk5taWdYTS1nV1V6dWExT1YxRVR1RnBBT2g2TU5WVzV3czVkbFgw?oc=5",
+      "source": "TechStock²",
+      "published_at": "Tue, 28 Apr 2026 11:12:42 GMT",
+      "summary": "US Stock Market Today: Futures Slip as $110 Oil and AI Jitters Test Wall Street’s Record Run TechStock²",
+      "guid": "CBMirwFBVV95cUxOYjU1dzZBaFVIOHlfLTF0WXVWVTY3bUE1NFhzMTF0blc4WjVsWmJEMXY1ZFZOQzBXSGVONVE3d1RtWFdLOXdLSml4TGs4YXdnM244Rld3QlB5VF80WDRDb0Jaazd0Y1FEOUJseDVTNnktMDhZSXZFNEU3T3IzVVZRaGdfeW54VkdrWk5taWdYTS1nV1V6dWExT1YxRVR1RnBBT2g2TU5WVzV3czVkbFgw"
     },
     {
       "title": "Why US stock market indexes S&P 500 and Nasdaq registered gains while Dow Jones crashed today? Full explai - The Economic Times",
@@ -71,12 +71,12 @@
       "guid": "CBMi2wFBVV95cUxNVENSTHhfbU80WWVlSDZUR3Vld0N5a2tMMDBZWEgwVkUweHZmRFo4Xzh0ZXNXRmI5UVNyS3B6YXNFaXRVbWM3VlpJRnNVQzZLVURFZHBURHo2eUY3S0NEdWFpWkt2STdyTkNmOFNPWW1tenRHWVZLVlRWVkxiSTNhaFp4elhnZTM0WVVFVFpEQmVVUUZrdG1RaHZRMno5ZTVSUHl3ZDYyZEY2MEJnN3NsamJkVmpYZVd0eUJZSDlMTDJUUmZXR01ZWGZzZlk0S2pVVHpqbUJPYmd3cEE"
     },
     {
-      "title": "What to Expect in Markets This Week: The Fed Meets, and Magnificent 7 Earnings Roll In - Investopedia",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMFl0OHJldHdqWTU4am9NX1ptcVpsYnVzMDVYbGpHRFZBMmFnOVhwS1dJallLbTl1Y3N0X0M3OXBlNERlblp5bXRuV1VjVmxyUXUxM1liUGVEZ0dlbnFmN3NzY0JMc0tGRjY5WnhTX3NFV2lWaldLeEM2QVVHY1hWT0I0TkY1Z0dxOHprem1qYU1Vell0UTdRRGJjbzRTbmxEbDAwTENNQU14X1o5by1LSWh6ZmtISEJfQ3JiQnJ0VQ?oc=5",
+      "title": "5 Things to Know Before the Stock Market Opens - Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOa09PQTAyRHRwRVV3THRpZUppekRuLWFTT0RMOS05SXRYLUF3UGVfck5wdTFvRzZoUUphNlFxTHc5S3hXMWdhbjZtMWZab2E5MFlYRW9TR2ppQjduV1BRZGpjM3VxLXF0NnFnUVVpV0hISk8xR3FyTlhxTlRKSTctVElQQVA5S1lycDN4eFhFUGV2SFg1OVdtakZPQ0h3ajA?oc=5",
       "source": "Investopedia",
-      "published_at": "Sun, 26 Apr 2026 10:00:00 GMT",
-      "summary": "What to Expect in Markets This Week: The Fed Meets, and Magnificent 7 Earnings Roll In Investopedia",
-      "guid": "CBMivwFBVV95cUxOMFl0OHJldHdqWTU4am9NX1ptcVpsYnVzMDVYbGpHRFZBMmFnOVhwS1dJallLbTl1Y3N0X0M3OXBlNERlblp5bXRuV1VjVmxyUXUxM1liUGVEZ0dlbnFmN3NzY0JMc0tGRjY5WnhTX3NFV2lWaldLeEM2QVVHY1hWT0I0TkY1Z0dxOHprem1qYU1Vell0UTdRRGJjbzRTbmxEbDAwTENNQU14X1o5by1LSWh6ZmtISEJfQ3JiQnJ0VQ"
+      "published_at": "Mon, 27 Apr 2026 12:05:57 GMT",
+      "summary": "5 Things to Know Before the Stock Market Opens Investopedia",
+      "guid": "CBMinwFBVV95cUxOa09PQTAyRHRwRVV3THRpZUppekRuLWFTT0RMOS05SXRYLUF3UGVfck5wdTFvRzZoUUphNlFxTHc5S3hXMWdhbjZtMWZab2E5MFlYRW9TR2ppQjduV1BRZGpjM3VxLXF0NnFnUVVpV0hISk8xR3FyTlhxTlRKSTctVElQQVA5S1lycDN4eFhFUGV2SFg1OVdtakZPQ0h3ajA"
     },
     {
       "title": "The Federal Reserve's April Inflation Forecast Was Just Updated -- and the Outlook for the Stock Market Worsened, Yet Again - The Motley Fool",
