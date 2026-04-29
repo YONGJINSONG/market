@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29T06:35:05Z",
+  "generated_at": "2026-04-29T08:59:19Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,12 +7,28 @@
   },
   "items": [
     {
+      "title": "The Stock Market's Most Important Day of the Quarter Has Arrived - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNU1LX0RlVEJLZ2FhM3RSeEkwTXRvejVEa0p5OG5RQ3RpVnZrUGZfa29NLUp2aUhhUTNtbkVWNElhVVBjbm1IQmpTYkV4ZnBaWVVzc2pmNGVONTVNRUg4cmRRS3hwMFo3UUJEQlRNT1pjZWk3SFRrekRqeVFHRVFYUFZONkM0cmRtcDZFVWNyTjR3OWI4ckxwOA?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Wed, 29 Apr 2026 08:19:44 GMT",
+      "summary": "The Stock Market's Most Important Day of the Quarter Has Arrived The Motley Fool",
+      "guid": "CBMimAFBVV95cUxNNU1LX0RlVEJLZ2FhM3RSeEkwTXRvejVEa0p5OG5RQ3RpVnZrUGZfa29NLUp2aUhhUTNtbkVWNElhVVBjbm1IQmpTYkV4ZnBaWVVzc2pmNGVONTVNRUg4cmRRS3hwMFo3UUJEQlRNT1pjZWk3SFRrekRqeVFHRVFYUFZONkM0cmRtcDZFVWNyTjR3OWI4ckxwOA"
+    },
+    {
       "title": "Federal Reserve's April Meeting Starts Today: What You Need to Know - Investopedia",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPN1o2Z2ZZS2FyY2pLcjlnTjlPWVgtS1RjdW5ucm1jR1YwUlc2X3FHeFRKbWloVWFyRVFzNEc0VlJZZUp4ZndMbnFYRHZsS2VOcVNZai01ODJGU0ZhLTZDNnp0MG1ydEZCOElmNVpSTmxHMi1qU1pLbHVDeFpjQ05RNUh6R2Ezb3UyVFYtSg?oc=5",
       "source": "Investopedia",
       "published_at": "Tue, 28 Apr 2026 15:38:12 GMT",
       "summary": "Federal Reserve's April Meeting Starts Today: What You Need to Know Investopedia",
       "guid": "CBMijAFBVV95cUxPN1o2Z2ZZS2FyY2pLcjlnTjlPWVgtS1RjdW5ucm1jR1YwUlc2X3FHeFRKbWloVWFyRVFzNEc0VlJZZUp4ZndMbnFYRHZsS2VOcVNZai01ODJGU0ZhLTZDNnp0MG1ydEZCOElmNVpSTmxHMi1qU1pLbHVDeFpjQ05RNUh6R2Ezb3UyVFYtSg"
+    },
+    {
+      "title": "The Stock Market's Most Important Day of the Quarter Has Arrived - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQME5CTWNjNGVjblRZMktneV9QMzgzaXlLQTJkZzUwbEZmc1ZJVWFnOTVZZWNjWjdPaFFFb3BHOVdOa0RMX1ByZ2JIM21KYW5QaC1KVmlWT19ETlRGaEVfZ09vU0ZBanQ1R0F4NV95YVJZTnk3TzBUallSX2sxU282bFV0VW5BZ0FnVE13R2ZoWlZsbmdsWHhhNHlnX1U4RWQxNkhaM2lLNGN3ekplYUVYdjRTRVFwMUJ1MzAwUGhhSWd1YlpfLVlwdXR3LUhJNS1rUTRtbXh3Z2NRRGw5Ri1kWTB1NTNMUQ?oc=5",
+      "source": "The Globe and Mail",
+      "published_at": "Wed, 29 Apr 2026 08:09:21 GMT",
+      "summary": "The Stock Market's Most Important Day of the Quarter Has Arrived The Globe and Mail",
+      "guid": "CBMi5gFBVV95cUxQME5CTWNjNGVjblRZMktneV9QMzgzaXlLQTJkZzUwbEZmc1ZJVWFnOTVZZWNjWjdPaFFFb3BHOVdOa0RMX1ByZ2JIM21KYW5QaC1KVmlWT19ETlRGaEVfZ09vU0ZBanQ1R0F4NV95YVJZTnk3TzBUallSX2sxU282bFV0VW5BZ0FnVE13R2ZoWlZsbmdsWHhhNHlnX1U4RWQxNkhaM2lLNGN3ekplYUVYdjRTRVFwMUJ1MzAwUGhhSWd1YlpfLVlwdXR3LUhJNS1rUTRtbXh3Z2NRRGw5Ri1kWTB1NTNMUQ"
     },
     {
       "title": "Stock Market Week Ahead: Hyperscaler Blitz, Federal Reserve Transition - Investor's Business Daily",
@@ -31,6 +47,14 @@
       "guid": "CBMipgFBVV95cUxNbDAtc3dVT3p1bHRkQmE4SEo5U0JqdndOZXRieVp6Sy1iZ25UbDlhWV9iQjIzQ25NLUowVTdtbXo2OUpsV29qLVg0QTFpdjYxSnF4Wk1SWlBhaEVQV21DZ0Y4WWZQTVkyVnJBQXh6eFB6WmpZeWlYSTBjUk5LVEF2LXJpSF95RUd5MHFjTmp1aXNjVE9yRG04Zm93b29KaEdEdnRmWnl3"
     },
     {
+      "title": "Stock Market Today: Dow Jones, Nasdaq Futures Gain Ahead Of Powell's Last Speech As Fed Chair— Robinhood - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOeFF4dXE4S2pSbjhtekRHVUtDVk1sdUlNM2Z6YkZLX2VrU19GdDB1R3E0clhUZWVfYzVnLXlfd2JOQmFQUXNmY3JqZGJxSEJCVldLbGViVlgwNER0LVd0TjIzcmhIeU5jQVBmaU9Ya3Z4d1ZxQWNicTFLam5ZTXBqNmJzeWtfcGE0WXNpdjdVdVU4Q2lQYUhVZlU0Z1BBLXc1dnJWYW5yaWphQkVWVHBWYkxlYldVZEMxMnVzYWg0YmVFakVCNzdIdnRZNTkxUzU0Sm9tUVpiYkJmT0FIanBwTDRGaFBUX3pMZWp4U1gxY3czTjRsdTMtNU9vWk5xaXhEcnExc0M1U3E0RUd4NjRuMUxDTQ?oc=5",
+      "source": "Benzinga",
+      "published_at": "Wed, 29 Apr 2026 08:50:49 GMT",
+      "summary": "Stock Market Today: Dow Jones, Nasdaq Futures Gain Ahead Of Powell's Last Speech As Fed Chair— Robinhood Benzinga",
+      "guid": "CBMikwJBVV95cUxOeFF4dXE4S2pSbjhtekRHVUtDVk1sdUlNM2Z6YkZLX2VrU19GdDB1R3E0clhUZWVfYzVnLXlfd2JOQmFQUXNmY3JqZGJxSEJCVldLbGViVlgwNER0LVd0TjIzcmhIeU5jQVBmaU9Ya3Z4d1ZxQWNicTFLam5ZTXBqNmJzeWtfcGE0WXNpdjdVdVU4Q2lQYUhVZlU0Z1BBLXc1dnJWYW5yaWphQkVWVHBWYkxlYldVZEMxMnVzYWg0YmVFakVCNzdIdnRZNTkxUzU0Sm9tUVpiYkJmT0FIanBwTDRGaFBUX3pMZWp4U1gxY3czTjRsdTMtNU9vWk5xaXhEcnExc0M1U3E0RUd4NjRuMUxDTQ"
+    },
+    {
       "title": "Stocks are back at records, but one CIO says investors are overlooking a major change in the post-Iran-war market - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNXy1RWlJIYUVuLTV2TGMyRUNPV1JkTFhBaDgzY2NHb196NXJRejFyUHlKbWIxOGRCbUt5NU93aklucHpHTU1kWnFwOTBwdnd1NWU3enJGUXg2Q3dZSlZGWjRuQXZjVHB2SWRuTzBlOXFGYWZGQXlCWTFLbHF6b0MyLWplNXVWR3dvLW9uVVlJcFI5Tk5fUVd1Q2tfVzZKdTV0dkE?oc=5",
       "source": "Business Insider",
@@ -39,12 +63,12 @@
       "guid": "CBMiogFBVV95cUxNXy1RWlJIYUVuLTV2TGMyRUNPV1JkTFhBaDgzY2NHb196NXJRejFyUHlKbWIxOGRCbUt5NU93aklucHpHTU1kWnFwOTBwdnd1NWU3enJGUXg2Q3dZSlZGWjRuQXZjVHB2SWRuTzBlOXFGYWZGQXlCWTFLbHF6b0MyLWplNXVWR3dvLW9uVVlJcFI5Tk5fUVd1Q2tfVzZKdTV0dkE"
     },
     {
-      "title": "The Federal Reserve's April Inflation Forecast Has Been Updated, and It's a Good News-Bad News Scenario for Wall Street - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSXlnaml0dlc1UW4zaVZHWDB0eWRubVZCOEM4d2NxZWtsOE42TUw2YUh0ZVE0Tmw0MnFzcTBYdUFyZ1MzemdrZGRDOFNVbzBrWEYxa2p3SEhzekluaGVHR3ROeUxsWE50SGd4YVh6RThUdDdmemxER3ZwNkh4alE5ZldvM2xJdU9VSGpQcmhHdmdSa2RGeXNtRg?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Mon, 27 Apr 2026 10:06:00 GMT",
-      "summary": "The Federal Reserve's April Inflation Forecast Has Been Updated, and It's a Good News-Bad News Scenario for Wall Street The Motley Fool",
-      "guid": "CBMimAFBVV95cUxPSXlnaml0dlc1UW4zaVZHWDB0eWRubVZCOEM4d2NxZWtsOE42TUw2YUh0ZVE0Tmw0MnFzcTBYdUFyZ1MzemdrZGRDOFNVbzBrWEYxa2p3SEhzekluaGVHR3ROeUxsWE50SGd4YVh6RThUdDdmemxER3ZwNkh4alE5ZldvM2xJdU9VSGpQcmhHdmdSa2RGeXNtRg"
+      "title": "Stock market today: Nikkei dips over 1 percent as European markets edge higher, Wall Street eyes Fed, earnings - Economy Middle East",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYjZOOGdJdVJJSVpCUksyZnFNUi1FNFlnYzcwZl9YQkxBM25PUXRnT2J3Tnh6ZDZsUjd0Q3BueW5aa0Z1c2xsaGh2eEZfMnJWOGF0LWxrTkVCdWl2RmRRVENGSXpBOW5oQ1lLcDRxUndZaGtKX0REd2NxZDkwQ1llYUVNRTc5X0FSczVDaUctUHp2SGUtdnp1QXM4OFVqSW5ZT19wTDdBYlJNOUNpSjRkZUhTVXhwNVp3dENWbEM5cmZEaGQtNUNrOGh2SGpndVVfdnpOLXRRYTFfZFE?oc=5",
+      "source": "Economy Middle East",
+      "published_at": "Wed, 29 Apr 2026 08:31:43 GMT",
+      "summary": "Stock market today: Nikkei dips over 1 percent as European markets edge higher, Wall Street eyes Fed, earnings Economy Middle East",
+      "guid": "CBMi2wFBVV95cUxNYjZOOGdJdVJJSVpCUksyZnFNUi1FNFlnYzcwZl9YQkxBM25PUXRnT2J3Tnh6ZDZsUjd0Q3BueW5aa0Z1c2xsaGh2eEZfMnJWOGF0LWxrTkVCdWl2RmRRVENGSXpBOW5oQ1lLcDRxUndZaGtKX0REd2NxZDkwQ1llYUVNRTc5X0FSczVDaUctUHp2SGUtdnp1QXM4OFVqSW5ZT19wTDdBYlJNOUNpSjRkZUhTVXhwNVp3dENWbEM5cmZEaGQtNUNrOGh2SGpndVVfdnpOLXRRYTFfZFE"
     },
     {
       "title": "Tracker: The Federal Reserve’s Balance Sheet Assets - The American Action Forum",
@@ -55,36 +79,12 @@
       "guid": "CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0"
     },
     {
-      "title": "Stock Market Today: S&P 500 Futures Drop, Dow Gains As Trump Floats 'New' Iran Proposal—IBM, Bed Bath & B - Benzinga",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQbXBETktLQU51U1lHam91UVRaRFBjdWVXRm1zV1lqUnNEU0FsVGFyZGR1SDFucTBlWHJZNW5Zak9oZWZOb1RZZGV3YzJmaFNYVGJTUmpIdHFrMDhEdU4zWndESVRFanhhb2Q5a2tUVlpDNXFrVmhSTDBUV2gyNmlwSmpQcXFGNFRUT29faGxwN1FianRpTnE5WWpVd0hCYTNHWVM2aE1uUUxyajdFNU1ua19WLVNfcjNoajJsYnA4LWFDc1B6Qm9NWTd5dV9qZk01LWFSM2VrZjc2YVRkaGdnZnNBVzJsOFJjSWJIdzk4c0ZjeXRkOXRlM1J0bmpRY0hU?oc=5",
-      "source": "Benzinga",
-      "published_at": "Tue, 28 Apr 2026 09:11:28 GMT",
-      "summary": "Stock Market Today: S&P 500 Futures Drop, Dow Gains As Trump Floats 'New' Iran Proposal—IBM, Bed Bath & B Benzinga",
-      "guid": "CBMigAJBVV95cUxQbXBETktLQU51U1lHam91UVRaRFBjdWVXRm1zV1lqUnNEU0FsVGFyZGR1SDFucTBlWHJZNW5Zak9oZWZOb1RZZGV3YzJmaFNYVGJTUmpIdHFrMDhEdU4zWndESVRFanhhb2Q5a2tUVlpDNXFrVmhSTDBUV2gyNmlwSmpQcXFGNFRUT29faGxwN1FianRpTnE5WWpVd0hCYTNHWVM2aE1uUUxyajdFNU1ua19WLVNfcjNoajJsYnA4LWFDc1B6Qm9NWTd5dV9qZk01LWFSM2VrZjc2YVRkaGdnZnNBVzJsOFJjSWJIdzk4c0ZjeXRkOXRlM1J0bmpRY0hU"
-    },
-    {
       "title": "Here's everything to expect when the Fed issues its latest interest rate decision Wednesday - CNBC",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5yQnI1NmxrcUhqX2FpTkF5TjI4VnRXQjNHOERGNHZIeGlqcEZtSXBNejJ5WktXLTVrU3N5eW1ORVBianRvVzRtb2xMcDB3T2l1c2FzQjdBa0dncTMySV82QTN2TEg3dExzMjVLWUozb1VfcDF6c1HSAXtBVV95cUxNTy1pcGhaS0VZdWotRldMYUFHRjB3dFdiSnotQ0lQcWMtc1NtcUpPbVVGWi16NUE3YWVjcGNCcml0UWxxdjQwSE5kVmJDT3A0Q2ZnTTh6WWFOSFhWRWVjZ1V4UEdJaGdSUmwxMnJuSGJhV3RqWXY2bjkzQ0k?oc=5",
       "source": "CNBC",
       "published_at": "Tue, 28 Apr 2026 20:15:32 GMT",
       "summary": "Here's everything to expect when the Fed issues its latest interest rate decision Wednesday CNBC",
       "guid": "CBMidkFVX3lxTE5yQnI1NmxrcUhqX2FpTkF5TjI4VnRXQjNHOERGNHZIeGlqcEZtSXBNejJ5WktXLTVrU3N5eW1ORVBianRvVzRtb2xMcDB3T2l1c2FzQjdBa0dncTMySV82QTN2TEg3dExzMjVLWUozb1VfcDF6c1HSAXtBVV95cUxNTy1pcGhaS0VZdWotRldMYUFHRjB3dFdiSnotQ0lQcWMtc1NtcUpPbVVGWi16NUE3YWVjcGNCcml0UWxxdjQwSE5kVmJDT3A0Q2ZnTTh6WWFOSFhWRWVjZ1V4UEdJaGdSUmwxMnJuSGJhV3RqWXY2bjkzQ0k"
-    },
-    {
-      "title": "US Stock Market Today: Nasdaq Slides as AI Selloff Hits Nvidia, Fed and Oil Risks Loom - TechStock²",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdkhkc3lQWXlsaDROR0lSWWl2MThVWTdZOGRIZmNJOXZDaFRPLVJyQTRZVkQ1b1A3aW9VcTRfVGhNZkFXdmpYTnBJWklGZGZPeTdGS0M3b0toZ3Y3RV9jYUNRaVRMVlZmMWZJUWo0b1FGTzdtTTA5YkZBNXJ4aFFHdzItemxsT2JUUDZUZFFPMGxza2M5WU96Z3dHeUtWbFNOdzVTYV9RMlk?oc=5",
-      "source": "TechStock²",
-      "published_at": "Tue, 28 Apr 2026 17:18:36 GMT",
-      "summary": "US Stock Market Today: Nasdaq Slides as AI Selloff Hits Nvidia, Fed and Oil Risks Loom TechStock²",
-      "guid": "CBMiqAFBVV95cUxQdkhkc3lQWXlsaDROR0lSWWl2MThVWTdZOGRIZmNJOXZDaFRPLVJyQTRZVkQ1b1A3aW9VcTRfVGhNZkFXdmpYTnBJWklGZGZPeTdGS0M3b0toZ3Y3RV9jYUNRaVRMVlZmMWZJUWo0b1FGTzdtTTA5YkZBNXJ4aFFHdzItemxsT2JUUDZUZFFPMGxza2M5WU96Z3dHeUtWbFNOdzVTYV9RMlk"
-    },
-    {
-      "title": "What’s the Fed’s next move? - J.P. Morgan",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE40THNXLUVVeVZoLUE4TmJCX0lSSFZUeXNVUTRCUlRBR0FEWktBNGxzWThLVWY1cms3cTRqbE1qanU1ZDZhbl9zeUp2S0JEQkg3cXh2UE9wVmF4eDlXYkJPalJEeHhmRVN1OUVuT2Jad0o5YlM4RnprOG9yVQ?oc=5",
-      "source": "J.P. Morgan",
-      "published_at": "Fri, 17 Apr 2026 07:00:00 GMT",
-      "summary": "What’s the Fed’s next move? J.P. Morgan",
-      "guid": "CBMie0FVX3lxTE40THNXLUVVeVZoLUE4TmJCX0lSSFZUeXNVUTRCUlRBR0FEWktBNGxzWThLVWY1cms3cTRqbE1qanU1ZDZhbl9zeUp2S0JEQkg3cXh2UE9wVmF4eDlXYkJPalJEeHhmRVN1OUVuT2Jad0o5YlM4RnprOG9yVQ"
     }
   ]
 }
