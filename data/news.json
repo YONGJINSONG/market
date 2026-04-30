@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-04-30T07:22:48Z",
+  "generated_at": "2026-04-30T09:32:01Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "Stock Market Investors Just Got Bad News From Fed Chair Nominee Kevin Warsh - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQLTh0dFBPYm5UQ3g4bGNkSDRKZ1dtVHF4U0hSLUpHY2pGNHczazZ1SGp1RGZvakJMUTZfTTFtdEI0TWNtNE1YVjV1aENBNUdOT19CZ3FxbW1oU2JSNlFGSDIySF8xdHhrT2wydHYwNkZ2R3UySHlwUm4wS21BZUtLaVBjdEhoczZtaHYtNTVNaElZNVRS?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Thu, 30 Apr 2026 08:42:19 GMT",
+      "summary": "Stock Market Investors Just Got Bad News From Fed Chair Nominee Kevin Warsh The Motley Fool",
+      "guid": "CBMilAFBVV95cUxQLTh0dFBPYm5UQ3g4bGNkSDRKZ1dtVHF4U0hSLUpHY2pGNHczazZ1SGp1RGZvakJMUTZfTTFtdEI0TWNtNE1YVjV1aENBNUdOT19CZ3FxbW1oU2JSNlFGSDIySF8xdHhrT2wydHYwNkZ2R3UySHlwUm4wS21BZUtLaVBjdEhoczZtaHYtNTVNaElZNVRS"
+    },
     {
       "title": "The Federal Reserve's April Inflation Forecast Has Been Updated, and It's a Good News-Bad News Scenario for Wall Street - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONDNRem1jQUM4QjlRVzdEV0ZZYmlNbk5JYURFdHowV2drZDk1dDJJNk5aaTFEWkZpTEhyS09fZHlMZFpIVnpGTU9JdUY4Skl5QlNpTTRraDVTU1laMjZuNmZqdTkwRF9VUlZYRmVTRnBVU0o3RjB0YXgtam5aa0NTc3FyTmdYQTlaQ1NSZ1JrUzFmcUp5dTlBdnFNeFNwWjlDemxPcmRHUUpvQQ?oc=5",
@@ -15,12 +23,12 @@
       "guid": "CBMiqgFBVV95cUxONDNRem1jQUM4QjlRVzdEV0ZZYmlNbk5JYURFdHowV2drZDk1dDJJNk5aaTFEWkZpTEhyS09fZHlMZFpIVnpGTU9JdUY4Skl5QlNpTTRraDVTU1laMjZuNmZqdTkwRF9VUlZYRmVTRnBVU0o3RjB0YXgtam5aa0NTc3FyTmdYQTlaQ1NSZ1JrUzFmcUp5dTlBdnFNeFNwWjlDemxPcmRHUUpvQQ"
     },
     {
-      "title": "The Fed, Tech Earnings, and Oil: Why This Is Wall Street’s Most Critical Week - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPenduTG5xQU1nUldKa3lhRFJRSlpxY3E1WVBUOUpYR1BLb1NPc0N3YkY2NU5DaVJqc0xDSnZGVE9rWUZsc0NmQ1N1YjRHN0t2U3ZUcFRFaFdlRTBpcmVuR2lETXg4MGR0SnBwdHlEYzV1X2JiejZITmI4ckJBcE1oSlVR?oc=5",
-      "source": "Barron's",
-      "published_at": "Wed, 29 Apr 2026 12:14:00 GMT",
-      "summary": "The Fed, Tech Earnings, and Oil: Why This Is Wall Street’s Most Critical Week Barron's",
-      "guid": "CBMiggFBVV95cUxPenduTG5xQU1nUldKa3lhRFJRSlpxY3E1WVBUOUpYR1BLb1NPc0N3YkY2NU5DaVJqc0xDSnZGVE9rWUZsc0NmQ1N1YjRHN0t2U3ZUcFRFaFdlRTBpcmVuR2lETXg4MGR0SnBwdHlEYzV1X2JiejZITmI4ckJBcE1oSlVR"
+      "title": "Stock Market Investors Just Got Bad News From Fed Chair Nominee Kevin Warsh - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWkhxdXVVeldSWF82NnhIRGNGTWVfeEV1TDk5WmJIaWdqVW80cFpNeFpySDg3RWoybVhPWTlYenJtVE1rM0ZxOFBzOEt4MzJJdmNjNjRaWGVCLWluWS1Ra2xrd2xGZUVVVGh4VDFPSTBaWEhGRm9XQkJPNVJWY2I2dg?oc=5",
+      "source": "AOL.com",
+      "published_at": "Thu, 30 Apr 2026 08:35:56 GMT",
+      "summary": "Stock Market Investors Just Got Bad News From Fed Chair Nominee Kevin Warsh AOL.com",
+      "guid": "CBMigAFBVV95cUxQWkhxdXVVeldSWF82NnhIRGNGTWVfeEV1TDk5WmJIaWdqVW80cFpNeFpySDg3RWoybVhPWTlYenJtVE1rM0ZxOFBzOEt4MzJJdmNjNjRaWGVCLWluWS1Ra2xrd2xGZUVVVGh4VDFPSTBaWEhGRm9XQkJPNVJWY2I2dg"
     },
     {
       "title": "Stock market today: Japan's Nikkei dips as oil prices surge, Wall Street futures fall ahead of Apple earnings - Economy Middle East",
@@ -31,20 +39,12 @@
       "guid": "CBMi2gFBVV95cUxOWDR2S0pGYTRxNG9MZWFFUV80dGZVY0VXdEVjOHpsZG5DVmlteTRpa1dPaEd4c3B1UDVIcHhyYjZQSjVsNGR2akF0TUpKd0NBR2xpU3lxNTdPeHQtLXQtdGc1ZTJHdjc0d29LeVJmUUZNYm9YQ1NlcWlCRU9yRGVQcUJieGRZWlcyMjBVNmdMdEt3MkVGOGZ3R2NsNEp1M2FWN0R0MGk2N3hrVkktQVVZdjRHcFdDemxEa3hzNUJkY0VJOUpiY1JGWm9sN2pkNURNN1lNQmcwbDQ4UQ"
     },
     {
-      "title": "The Stock Market's Most Important Day of the Quarter Has Arrived - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNU1LX0RlVEJLZ2FhM3RSeEkwTXRvejVEa0p5OG5RQ3RpVnZrUGZfa29NLUp2aUhhUTNtbkVWNElhVVBjbm1IQmpTYkV4ZnBaWVVzc2pmNGVONTVNRUg4cmRRS3hwMFo3UUJEQlRNT1pjZWk3SFRrekRqeVFHRVFYUFZONkM0cmRtcDZFVWNyTjR3OWI4ckxwOA?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Wed, 29 Apr 2026 08:48:00 GMT",
-      "summary": "The Stock Market's Most Important Day of the Quarter Has Arrived The Motley Fool",
-      "guid": "CBMimAFBVV95cUxNNU1LX0RlVEJLZ2FhM3RSeEkwTXRvejVEa0p5OG5RQ3RpVnZrUGZfa29NLUp2aUhhUTNtbkVWNElhVVBjbm1IQmpTYkV4ZnBaWVVzc2pmNGVONTVNRUg4cmRRS3hwMFo3UUJEQlRNT1pjZWk3SFRrekRqeVFHRVFYUFZONkM0cmRtcDZFVWNyTjR3OWI4ckxwOA"
-    },
-    {
-      "title": "Oil spikes while divided Federal Reserve keeps interest rates unchanged - hpenews.com",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORWYwblhZWFEyRXpGem15RFNoMGxieGJkTnpvenQ2RnV0MVZ4eld5dEN3cFprLUVaa0o5amlJNFpjbUlnN2xOLWVPV3RIMVJwOWhBaHJSRlFfVl9ER0FhZ1VVd3o4WFV3REotMWJvYkdKSXN1RlJUM3FjVnpENjJxR093RkYwUzBIUDcxTEVqMDNZeWRxbHVielNGTXhDaE1MbWRCckxucGpNTThlQ210bm5vWTBhT0FJZWM1VGJDSnZXWi1UVlRrV3N2YlczUlZweUF0ZElHZ2hXRkd2eXlXYQ?oc=5",
-      "source": "hpenews.com",
-      "published_at": "Wed, 29 Apr 2026 14:28:09 GMT",
-      "summary": "Oil spikes while divided Federal Reserve keeps interest rates unchanged hpenews.com",
-      "guid": "CBMi4AFBVV95cUxORWYwblhZWFEyRXpGem15RFNoMGxieGJkTnpvenQ2RnV0MVZ4eld5dEN3cFprLUVaa0o5amlJNFpjbUlnN2xOLWVPV3RIMVJwOWhBaHJSRlFfVl9ER0FhZ1VVd3o4WFV3REotMWJvYkdKSXN1RlJUM3FjVnpENjJxR093RkYwUzBIUDcxTEVqMDNZeWRxbHVielNGTXhDaE1MbWRCckxucGpNTThlQ210bm5vWTBhT0FJZWM1VGJDSnZXWi1UVlRrV3N2YlczUlZweUF0ZElHZ2hXRkd2eXlXYQ"
+      "title": "Fed, Tech Earnings, and Oil: Why This Is the Stock Market’s Most Critical Week - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPenduTG5xQU1nUldKa3lhRFJRSlpxY3E1WVBUOUpYR1BLb1NPc0N3YkY2NU5DaVJqc0xDSnZGVE9rWUZsc0NmQ1N1YjRHN0t2U3ZUcFRFaFdlRTBpcmVuR2lETXg4MGR0SnBwdHlEYzV1X2JiejZITmI4ckJBcE1oSlVR?oc=5",
+      "source": "Barron's",
+      "published_at": "Wed, 29 Apr 2026 12:14:00 GMT",
+      "summary": "Fed, Tech Earnings, and Oil: Why This Is the Stock Market’s Most Critical Week Barron's",
+      "guid": "CBMiggFBVV95cUxPenduTG5xQU1nUldKa3lhRFJRSlpxY3E1WVBUOUpYR1BLb1NPc0N3YkY2NU5DaVJqc0xDSnZGVE9rWUZsc0NmQ1N1YjRHN0t2U3ZUcFRFaFdlRTBpcmVuR2lETXg4MGR0SnBwdHlEYzV1X2JiejZITmI4ckJBcE1oSlVR"
     },
     {
       "title": "Fed holds rates steady but with highest level of dissent since 1992 - CNBC",
@@ -71,20 +71,20 @@
       "guid": "CBMijAFBVV95cUxPN1o2Z2ZZS2FyY2pLcjlnTjlPWVgtS1RjdW5ucm1jR1YwUlc2X3FHeFRKbWloVWFyRVFzNEc0VlJZZUp4ZndMbnFYRHZsS2VOcVNZai01ODJGU0ZhLTZDNnp0MG1ydEZCOElmNVpSTmxHMi1qU1pLbHVDeFpjQ05RNUh6R2Ezb3UyVFYtSg"
     },
     {
-      "title": "Ray Dalio says Federal Reserve will \" lose its credibility’ if Trump’s pick for Fed Chair, Kevin Warsh, lowers rates - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeTYwS1RBeXJ0T3lJdDh2YklEYUtTM2poMlluR2lRS3FLaHM4N1gzMVVhVFcwRUticHBzT284ckRuUGgtRTJHZEM3MzlUT09wdlhpN2FyWm85QWZ2YUFEeXpsREFOSlpNNjBRbHNpUVFkUGYxcWFvVGhkdUY1SGgwakJKVjluNDlnT21mb2tvUHpoMFV3M2Iw?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Wed, 29 Apr 2026 17:35:00 GMT",
-      "summary": "Ray Dalio says Federal Reserve will \" lose its credibility’ if Trump’s pick for Fed Chair, Kevin Warsh, lowers rates Yahoo Finance",
-      "guid": "CBMilwFBVV95cUxNeTYwS1RBeXJ0T3lJdDh2YklEYUtTM2poMlluR2lRS3FLaHM4N1gzMVVhVFcwRUticHBzT284ckRuUGgtRTJHZEM3MzlUT09wdlhpN2FyWm85QWZ2YUFEeXpsREFOSlpNNjBRbHNpUVFkUGYxcWFvVGhkdUY1SGgwakJKVjluNDlnT21mb2tvUHpoMFV3M2Iw"
-    },
-    {
       "title": "The Federal Reserve's Interest Rate Dilemma Is About to Go From Bad to Warsh -- and the Stock Market May End Up Paying the Price - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbDAtc3dVT3p1bHRkQmE4SEo5U0JqdndOZXRieVp6Sy1iZ25UbDlhWV9iQjIzQ25NLUowVTdtbXo2OUpsV29qLVg0QTFpdjYxSnF4Wk1SWlBhaEVQV21DZ0Y4WWZQTVkyVnJBQXh6eFB6WmpZeWlYSTBjUk5LVEF2LXJpSF95RUd5MHFjTmp1aXNjVE9yRG04Zm93b29KaEdEdnRmWnl3?oc=5",
       "source": "Yahoo Finance",
       "published_at": "Sat, 25 Apr 2026 10:56:00 GMT",
       "summary": "The Federal Reserve's Interest Rate Dilemma Is About to Go From Bad to Warsh -- and the Stock Market May End Up Paying the Price Yahoo Finance",
       "guid": "CBMipgFBVV95cUxNbDAtc3dVT3p1bHRkQmE4SEo5U0JqdndOZXRieVp6Sy1iZ25UbDlhWV9iQjIzQ25NLUowVTdtbXo2OUpsV29qLVg0QTFpdjYxSnF4Wk1SWlBhaEVQV21DZ0Y4WWZQTVkyVnJBQXh6eFB6WmpZeWlYSTBjUk5LVEF2LXJpSF95RUd5MHFjTmp1aXNjVE9yRG04Zm93b29KaEdEdnRmWnl3"
+    },
+    {
+      "title": "Ray Dalio says Federal Reserve will \" lose its credibility’ if Trump’s pick for Fed Chair, Kevin Warsh, lowers rates - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeTYwS1RBeXJ0T3lJdDh2YklEYUtTM2poMlluR2lRS3FLaHM4N1gzMVVhVFcwRUticHBzT284ckRuUGgtRTJHZEM3MzlUT09wdlhpN2FyWm85QWZ2YUFEeXpsREFOSlpNNjBRbHNpUVFkUGYxcWFvVGhkdUY1SGgwakJKVjluNDlnT21mb2tvUHpoMFV3M2Iw?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Wed, 29 Apr 2026 17:35:00 GMT",
+      "summary": "Ray Dalio says Federal Reserve will \" lose its credibility’ if Trump’s pick for Fed Chair, Kevin Warsh, lowers rates Yahoo Finance",
+      "guid": "CBMilwFBVV95cUxNeTYwS1RBeXJ0T3lJdDh2YklEYUtTM2poMlluR2lRS3FLaHM4N1gzMVVhVFcwRUticHBzT284ckRuUGgtRTJHZEM3MzlUT09wdlhpN2FyWm85QWZ2YUFEeXpsREFOSlpNNjBRbHNpUVFkUGYxcWFvVGhkdUY1SGgwakJKVjluNDlnT21mb2tvUHpoMFV3M2Iw"
     }
   ]
 }
