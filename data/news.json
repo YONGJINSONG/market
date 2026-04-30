@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T01:21:16Z",
+  "generated_at": "2026-04-30T04:48:23Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,20 +7,12 @@
   },
   "items": [
     {
-      "title": "Oil prices keep spurting higher, but U.S. stocks hold near records - Toledo Blade",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOVA0YmQwaWtzMVhCSDFjUEQxR3dtVVU0TWpUWmxSc3k5dF9xaHJiakluWmxjZ05RVHdCS253YVRYbGNMSXo3aEVFTzBnbHgwNUlKOGI4VGFJMXpyeGJPWnpPa3pRMW9yb0RVWEFHN3lYVDV5dWdiUkI3cmpMelR6dTY3SGFJd2pVcHpHaV9qeEJUYm5wTWNaVXF3UlNvTUl4cWdWaG95cUlTdllXMXNZdW1fZDdBRllrMUNGakdMRWZOQjZqOGJjc2J4bmdrS3pjcGsw?oc=5",
-      "source": "Toledo Blade",
-      "published_at": "Wed, 29 Apr 2026 20:54:03 GMT",
-      "summary": "Oil prices keep spurting higher, but U.S. stocks hold near records Toledo Blade",
-      "guid": "CBMi0wFBVV95cUxQOVA0YmQwaWtzMVhCSDFjUEQxR3dtVVU0TWpUWmxSc3k5dF9xaHJiakluWmxjZ05RVHdCS253YVRYbGNMSXo3aEVFTzBnbHgwNUlKOGI4VGFJMXpyeGJPWnpPa3pRMW9yb0RVWEFHN3lYVDV5dWdiUkI3cmpMelR6dTY3SGFJd2pVcHpHaV9qeEJUYm5wTWNaVXF3UlNvTUl4cWdWaG95cUlTdllXMXNZdW1fZDdBRllrMUNGakdMRWZOQjZqOGJjc2J4bmdrS3pjcGsw"
-    },
-    {
-      "title": "The Stock Market's Most Important Day of the Quarter Has Arrived - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNU1LX0RlVEJLZ2FhM3RSeEkwTXRvejVEa0p5OG5RQ3RpVnZrUGZfa29NLUp2aUhhUTNtbkVWNElhVVBjbm1IQmpTYkV4ZnBaWVVzc2pmNGVONTVNRUg4cmRRS3hwMFo3UUJEQlRNT1pjZWk3SFRrekRqeVFHRVFYUFZONkM0cmRtcDZFVWNyTjR3OWI4ckxwOA?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Wed, 29 Apr 2026 08:48:00 GMT",
-      "summary": "The Stock Market's Most Important Day of the Quarter Has Arrived The Motley Fool",
-      "guid": "CBMimAFBVV95cUxNNU1LX0RlVEJLZ2FhM3RSeEkwTXRvejVEa0p5OG5RQ3RpVnZrUGZfa29NLUp2aUhhUTNtbkVWNElhVVBjbm1IQmpTYkV4ZnBaWVVzc2pmNGVONTVNRUg4cmRRS3hwMFo3UUJEQlRNT1pjZWk3SFRrekRqeVFHRVFYUFZONkM0cmRtcDZFVWNyTjR3OWI4ckxwOA"
+      "title": "US Stock Market | US economy shows resilience despite energy shock, growth seen above 2%: Powell - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOdGY5cWJlRzdCWlMxOW1CSFlSTHZZbWRJeVdQdk1hNFVRT2FLLWt0ZzhpUlRIVHpjMkw1Q0E2TllFRVNJc3h2a2o4eEhWS21xanVEdGY5aWo2bG1VV0JPZ2xTd1VFd3JrSXBHbmN2RmFSMjc5UVRDTS14N0NEZlBEVVdzaVlUaVdwMGc2S0ZoRW5DblgweW1ENDNtd1l4MlRDNXpLQVFZa2hlRGhxU0kzQjhVN1FCOHV1NXlPcVAxR0JtQ0VISDNhZ05nYl83REFHMmUwaWlvR29GZmItNW9hMlV5UUtyTEJUSXh0cXpPSnJSQ3JHTjZCaUFuNVXSAYICQVVfeXFMUGlqMHR3STRuSmNHVGx3SWJvcGwtLTB0UkkyQjBRRU01MS14dkNuZGt6Ukg3WWp4XzM3dU1obU5RUUc0enRqcUxfU1lLcHNzY19XdEtKTS1OYlhORXFQd1UzbW9fTkRjYk5VNFpZRGpzTGEwQUpNSEtaMWdZTDNkWDdBQUE3UWVpWWk2Y1U4VGJHRkhlV2w5dUJSLTdJS1lWU1VVR0pWZHRWNjNVa2lJOExaTTBua1NaamZPN3RGN0ZUb2NmWFItaWpfQ0xYcnRCQWt1RFpUQnBuZmo5LVRfZ1d4ZF9OSnFFcWQ3MXB4c2dNSUlrTnRhX0pFT0s1UXpOWXN3?oc=5",
+      "source": "The Economic Times",
+      "published_at": "Thu, 30 Apr 2026 04:17:42 GMT",
+      "summary": "US Stock Market | US economy shows resilience despite energy shock, growth seen above 2%: Powell The Economic Times",
+      "guid": "CBMi_AFBVV95cUxOdGY5cWJlRzdCWlMxOW1CSFlSTHZZbWRJeVdQdk1hNFVRT2FLLWt0ZzhpUlRIVHpjMkw1Q0E2TllFRVNJc3h2a2o4eEhWS21xanVEdGY5aWo2bG1VV0JPZ2xTd1VFd3JrSXBHbmN2RmFSMjc5UVRDTS14N0NEZlBEVVdzaVlUaVdwMGc2S0ZoRW5DblgweW1ENDNtd1l4MlRDNXpLQVFZa2hlRGhxU0kzQjhVN1FCOHV1NXlPcVAxR0JtQ0VISDNhZ05nYl83REFHMmUwaWlvR29GZmItNW9hMlV5UUtyTEJUSXh0cXpPSnJSQ3JHTjZCaUFuNVXSAYICQVVfeXFMUGlqMHR3STRuSmNHVGx3SWJvcGwtLTB0UkkyQjBRRU01MS14dkNuZGt6Ukg3WWp4XzM3dU1obU5RUUc0enRqcUxfU1lLcHNzY19XdEtKTS1OYlhORXFQd1UzbW9fTkRjYk5VNFpZRGpzTGEwQUpNSEtaMWdZTDNkWDdBQUE3UWVpWWk2Y1U4VGJHRkhlV2w5dUJSLTdJS1lWU1VVR0pWZHRWNjNVa2lJOExaTTBua1NaamZPN3RGN0ZUb2NmWFItaWpfQ0xYcnRCQWt1RFpUQnBuZmo5LVRfZ1d4ZF9OSnFFcWQ3MXB4c2dNSUlrTnRhX0pFT0s1UXpOWXN3"
     },
     {
       "title": "The Fed, Tech Earnings, and Oil: Why This Is Wall Street’s Most Critical Week - Barron's",
@@ -31,28 +23,36 @@
       "guid": "CBMiggFBVV95cUxPenduTG5xQU1nUldKa3lhRFJRSlpxY3E1WVBUOUpYR1BLb1NPc0N3YkY2NU5DaVJqc0xDSnZGVE9rWUZsc0NmQ1N1YjRHN0t2U3ZUcFRFaFdlRTBpcmVuR2lETXg4MGR0SnBwdHlEYzV1X2JiejZITmI4ckJBcE1oSlVR"
     },
     {
-      "title": "U.S. Stocks: The Federal Reserve Maintains Interest Rates; Dow Closes 280 Points Lower for Fifth Consecutive Decline, While S&P 500 and Nasdaq Remain Stable - 富途牛牛",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQamVpUWF4Rlk0NVNGVWVZX0hZbkJkMWZZdkw0SWdHX1BOU1ZxR212ZzZ1cGdqa3l6RnpobnJyNnlkaW9CTmVCaG9lRWVhNW1rMXlJOTAtVVY2enJqakZlU29FTTJxV3BLUjdQcC1Tbm5rOUlaYjdtMDJtR29NSVBGV0ZBZ2dMSjJQT2VVemV2YWx4c2w5R1JLUkxZTGx0V012WFBEcVI4XzdFdw?oc=5",
-      "source": "富途牛牛",
-      "published_at": "Wed, 29 Apr 2026 21:15:11 GMT",
-      "summary": "U.S. Stocks: The Federal Reserve Maintains Interest Rates; Dow Closes 280 Points Lower for Fifth Consecutive Decline, While S&P 500 and Nasdaq Remain Stable 富途牛牛",
-      "guid": "CBMiqgFBVV95cUxQamVpUWF4Rlk0NVNGVWVZX0hZbkJkMWZZdkw0SWdHX1BOU1ZxR212ZzZ1cGdqa3l6RnpobnJyNnlkaW9CTmVCaG9lRWVhNW1rMXlJOTAtVVY2enJqakZlU29FTTJxV3BLUjdQcC1Tbm5rOUlaYjdtMDJtR29NSVBGV0ZBZ2dMSjJQT2VVemV2YWx4c2w5R1JLUkxZTGx0V012WFBEcVI4XzdFdw"
+      "title": "The Stock Market's Most Important Day of the Quarter Has Arrived - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNU1LX0RlVEJLZ2FhM3RSeEkwTXRvejVEa0p5OG5RQ3RpVnZrUGZfa29NLUp2aUhhUTNtbkVWNElhVVBjbm1IQmpTYkV4ZnBaWVVzc2pmNGVONTVNRUg4cmRRS3hwMFo3UUJEQlRNT1pjZWk3SFRrekRqeVFHRVFYUFZONkM0cmRtcDZFVWNyTjR3OWI4ckxwOA?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Wed, 29 Apr 2026 08:48:00 GMT",
+      "summary": "The Stock Market's Most Important Day of the Quarter Has Arrived The Motley Fool",
+      "guid": "CBMimAFBVV95cUxNNU1LX0RlVEJLZ2FhM3RSeEkwTXRvejVEa0p5OG5RQ3RpVnZrUGZfa29NLUp2aUhhUTNtbkVWNElhVVBjbm1IQmpTYkV4ZnBaWVVzc2pmNGVONTVNRUg4cmRRS3hwMFo3UUJEQlRNT1pjZWk3SFRrekRqeVFHRVFYUFZONkM0cmRtcDZFVWNyTjR3OWI4ckxwOA"
+    },
+    {
+      "title": "Oil spikes while divided Federal Reserve keeps interest rates unchanged - hpenews.com",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORWYwblhZWFEyRXpGem15RFNoMGxieGJkTnpvenQ2RnV0MVZ4eld5dEN3cFprLUVaa0o5amlJNFpjbUlnN2xOLWVPV3RIMVJwOWhBaHJSRlFfVl9ER0FhZ1VVd3o4WFV3REotMWJvYkdKSXN1RlJUM3FjVnpENjJxR093RkYwUzBIUDcxTEVqMDNZeWRxbHVielNGTXhDaE1MbWRCckxucGpNTThlQ210bm5vWTBhT0FJZWM1VGJDSnZXWi1UVlRrV3N2YlczUlZweUF0ZElHZ2hXRkd2eXlXYQ?oc=5",
+      "source": "hpenews.com",
+      "published_at": "Wed, 29 Apr 2026 14:28:09 GMT",
+      "summary": "Oil spikes while divided Federal Reserve keeps interest rates unchanged hpenews.com",
+      "guid": "CBMi4AFBVV95cUxORWYwblhZWFEyRXpGem15RFNoMGxieGJkTnpvenQ2RnV0MVZ4eld5dEN3cFprLUVaa0o5amlJNFpjbUlnN2xOLWVPV3RIMVJwOWhBaHJSRlFfVl9ER0FhZ1VVd3o4WFV3REotMWJvYkdKSXN1RlJUM3FjVnpENjJxR093RkYwUzBIUDcxTEVqMDNZeWRxbHVielNGTXhDaE1MbWRCckxucGpNTThlQ210bm5vWTBhT0FJZWM1VGJDSnZXWi1UVlRrV3N2YlczUlZweUF0ZElHZ2hXRkd2eXlXYQ"
     },
     {
       "title": "Fed holds rates steady but with highest level of dissent since 1992 - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTWklKY0pZemxlMnNiSkhXZEpUNFVXZk84QjNkM2tWT0pTa3BoSGZZXzVnM3ZoWld5eFJ5VUxkelVSU2s0dzV2SjZfR1VURnNnbFIxSWwzdDgzaEtrU3d5eXdFQUstOVltc1VvZWFvcDVNaUZoLUJMSDJPRjJDV2PSAYQBQVVfeXFMT3JUdkVsMGxZOVpyVXFIS3FCSkdWN1ZZakdEMlRGVTVuR1diSFpGR09TVWtzUmpVUFByS3NzN3VVblVuQnNYbHMzTktsZWVtaXVCS2owaU1nNlhBYzFaNlZEQlNLM2xNdnNWLWJWazZQRnpWcy1tNnZneU15VHB4aWgtTnVG?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTWklKY0pZemxlMnNiSkhXZEpUNFVXZk84QjNkM2tWT0pTa3BoSGZZXzVnM3ZoWld5eFJ5VUxkelVSU2s0dzV2SjZfR1VURnNnbFIxSWwzdDgzaEtrU3d5eXdFQUstOVltc1VvZWFvcDVNaUZoLUJMSDJPRjJDV2M?oc=5",
       "source": "CNBC",
       "published_at": "Wed, 29 Apr 2026 18:00:47 GMT",
       "summary": "Fed holds rates steady but with highest level of dissent since 1992 CNBC",
-      "guid": "CBMif0FVX3lxTFBTWklKY0pZemxlMnNiSkhXZEpUNFVXZk84QjNkM2tWT0pTa3BoSGZZXzVnM3ZoWld5eFJ5VUxkelVSU2s0dzV2SjZfR1VURnNnbFIxSWwzdDgzaEtrU3d5eXdFQUstOVltc1VvZWFvcDVNaUZoLUJMSDJPRjJDV2PSAYQBQVVfeXFMT3JUdkVsMGxZOVpyVXFIS3FCSkdWN1ZZakdEMlRGVTVuR1diSFpGR09TVWtzUmpVUFByS3NzN3VVblVuQnNYbHMzTktsZWVtaXVCS2owaU1nNlhBYzFaNlZEQlNLM2xNdnNWLWJWazZQRnpWcy1tNnZneU15VHB4aWgtTnVG"
+      "guid": "CBMif0FVX3lxTFBTWklKY0pZemxlMnNiSkhXZEpUNFVXZk84QjNkM2tWT0pTa3BoSGZZXzVnM3ZoWld5eFJ5VUxkelVSU2s0dzV2SjZfR1VURnNnbFIxSWwzdDgzaEtrU3d5eXdFQUstOVltc1VvZWFvcDVNaUZoLUJMSDJPRjJDV2M"
     },
     {
-      "title": "Ray Dalio says Federal Reserve will \" lose its credibility’ if Trump’s pick for Fed Chair, Kevin Warsh, lowers rates - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeTYwS1RBeXJ0T3lJdDh2YklEYUtTM2poMlluR2lRS3FLaHM4N1gzMVVhVFcwRUticHBzT284ckRuUGgtRTJHZEM3MzlUT09wdlhpN2FyWm85QWZ2YUFEeXpsREFOSlpNNjBRbHNpUVFkUGYxcWFvVGhkdUY1SGgwakJKVjluNDlnT21mb2tvUHpoMFV3M2Iw?oc=5",
+      "title": "The Federal Reserve's April Inflation Forecast Has Been Updated, and It's a Good News-Bad News Scenario for Wall Street - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONDNRem1jQUM4QjlRVzdEV0ZZYmlNbk5JYURFdHowV2drZDk1dDJJNk5aaTFEWkZpTEhyS09fZHlMZFpIVnpGTU9JdUY4Skl5QlNpTTRraDVTU1laMjZuNmZqdTkwRF9VUlZYRmVTRnBVU0o3RjB0YXgtam5aa0NTc3FyTmdYQTlaQ1NSZ1JrUzFmcUp5dTlBdnFNeFNwWjlDemxPcmRHUUpvQQ?oc=5",
       "source": "Yahoo Finance",
-      "published_at": "Wed, 29 Apr 2026 17:35:00 GMT",
-      "summary": "Ray Dalio says Federal Reserve will \" lose its credibility’ if Trump’s pick for Fed Chair, Kevin Warsh, lowers rates Yahoo Finance",
-      "guid": "CBMilwFBVV95cUxNeTYwS1RBeXJ0T3lJdDh2YklEYUtTM2poMlluR2lRS3FLaHM4N1gzMVVhVFcwRUticHBzT284ckRuUGgtRTJHZEM3MzlUT09wdlhpN2FyWm85QWZ2YUFEeXpsREFOSlpNNjBRbHNpUVFkUGYxcWFvVGhkdUY1SGgwakJKVjluNDlnT21mb2tvUHpoMFV3M2Iw"
+      "published_at": "Mon, 27 Apr 2026 09:26:00 GMT",
+      "summary": "The Federal Reserve's April Inflation Forecast Has Been Updated, and It's a Good News-Bad News Scenario for Wall Street Yahoo Finance",
+      "guid": "CBMiqgFBVV95cUxONDNRem1jQUM4QjlRVzdEV0ZZYmlNbk5JYURFdHowV2drZDk1dDJJNk5aaTFEWkZpTEhyS09fZHlMZFpIVnpGTU9JdUY4Skl5QlNpTTRraDVTU1laMjZuNmZqdTkwRF9VUlZYRmVTRnBVU0o3RjB0YXgtam5aa0NTc3FyTmdYQTlaQ1NSZ1JrUzFmcUp5dTlBdnFNeFNwWjlDemxPcmRHUUpvQQ"
     },
     {
       "title": "Stock Market Week Ahead: Hyperscaler Blitz, Federal Reserve Transition - Investor's Business Daily",
@@ -71,12 +71,12 @@
       "guid": "CBMijAFBVV95cUxPN1o2Z2ZZS2FyY2pLcjlnTjlPWVgtS1RjdW5ucm1jR1YwUlc2X3FHeFRKbWloVWFyRVFzNEc0VlJZZUp4ZndMbnFYRHZsS2VOcVNZai01ODJGU0ZhLTZDNnp0MG1ydEZCOElmNVpSTmxHMi1qU1pLbHVDeFpjQ05RNUh6R2Ezb3UyVFYtSg"
     },
     {
-      "title": "The Federal Reserve's April Inflation Forecast Has Been Updated, and It's a Good News-Bad News Scenario for Wall Street - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONDNRem1jQUM4QjlRVzdEV0ZZYmlNbk5JYURFdHowV2drZDk1dDJJNk5aaTFEWkZpTEhyS09fZHlMZFpIVnpGTU9JdUY4Skl5QlNpTTRraDVTU1laMjZuNmZqdTkwRF9VUlZYRmVTRnBVU0o3RjB0YXgtam5aa0NTc3FyTmdYQTlaQ1NSZ1JrUzFmcUp5dTlBdnFNeFNwWjlDemxPcmRHUUpvQQ?oc=5",
+      "title": "Ray Dalio says Federal Reserve will \" lose its credibility’ if Trump’s pick for Fed Chair, Kevin Warsh, lowers rates - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeTYwS1RBeXJ0T3lJdDh2YklEYUtTM2poMlluR2lRS3FLaHM4N1gzMVVhVFcwRUticHBzT284ckRuUGgtRTJHZEM3MzlUT09wdlhpN2FyWm85QWZ2YUFEeXpsREFOSlpNNjBRbHNpUVFkUGYxcWFvVGhkdUY1SGgwakJKVjluNDlnT21mb2tvUHpoMFV3M2Iw?oc=5",
       "source": "Yahoo Finance",
-      "published_at": "Mon, 27 Apr 2026 09:26:00 GMT",
-      "summary": "The Federal Reserve's April Inflation Forecast Has Been Updated, and It's a Good News-Bad News Scenario for Wall Street Yahoo Finance",
-      "guid": "CBMiqgFBVV95cUxONDNRem1jQUM4QjlRVzdEV0ZZYmlNbk5JYURFdHowV2drZDk1dDJJNk5aaTFEWkZpTEhyS09fZHlMZFpIVnpGTU9JdUY4Skl5QlNpTTRraDVTU1laMjZuNmZqdTkwRF9VUlZYRmVTRnBVU0o3RjB0YXgtam5aa0NTc3FyTmdYQTlaQ1NSZ1JrUzFmcUp5dTlBdnFNeFNwWjlDemxPcmRHUUpvQQ"
+      "published_at": "Wed, 29 Apr 2026 17:35:00 GMT",
+      "summary": "Ray Dalio says Federal Reserve will \" lose its credibility’ if Trump’s pick for Fed Chair, Kevin Warsh, lowers rates Yahoo Finance",
+      "guid": "CBMilwFBVV95cUxNeTYwS1RBeXJ0T3lJdDh2YklEYUtTM2poMlluR2lRS3FLaHM4N1gzMVVhVFcwRUticHBzT284ckRuUGgtRTJHZEM3MzlUT09wdlhpN2FyWm85QWZ2YUFEeXpsREFOSlpNNjBRbHNpUVFkUGYxcWFvVGhkdUY1SGgwakJKVjluNDlnT21mb2tvUHpoMFV3M2Iw"
     },
     {
       "title": "The Federal Reserve's Interest Rate Dilemma Is About to Go From Bad to Warsh -- and the Stock Market May End Up Paying the Price - Yahoo Finance",
