@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T01:25:29Z",
+  "generated_at": "2026-05-01T05:00:38Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,28 +7,12 @@
   },
   "items": [
     {
-      "title": "Stock Market Investors Just Got Bad News From Fed Chair Nominee Kevin Warsh - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQLTh0dFBPYm5UQ3g4bGNkSDRKZ1dtVHF4U0hSLUpHY2pGNHczazZ1SGp1RGZvakJMUTZfTTFtdEI0TWNtNE1YVjV1aENBNUdOT19CZ3FxbW1oU2JSNlFGSDIySF8xdHhrT2wydHYwNkZ2R3UySHlwUm4wS21BZUtLaVBjdEhoczZtaHYtNTVNaElZNVRS?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Thu, 30 Apr 2026 09:08:00 GMT",
-      "summary": "Stock Market Investors Just Got Bad News From Fed Chair Nominee Kevin Warsh The Motley Fool",
-      "guid": "CBMilAFBVV95cUxQLTh0dFBPYm5UQ3g4bGNkSDRKZ1dtVHF4U0hSLUpHY2pGNHczazZ1SGp1RGZvakJMUTZfTTFtdEI0TWNtNE1YVjV1aENBNUdOT19CZ3FxbW1oU2JSNlFGSDIySF8xdHhrT2wydHYwNkZ2R3UySHlwUm4wS21BZUtLaVBjdEhoczZtaHYtNTVNaElZNVRS"
-    },
-    {
-      "title": "Stock Market Week Ahead: Hyperscaler Blitz, Federal Reserve Transition - Investor's Business Daily",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbVNHb0JHaWxMRU9KRHNWeTdZREcxWkd5Z2ZaeFpxbnNXVGxfcGVYTTlIdlBMaktBY2ZuT1E0Z3paSENvdVFYQ0cwTy10OElPMkF6WmNUWWxaUFk4N1puS2l5X3JhbnpCQ0oxNm5qQWRITFhBallCQnV2TF9VMWdLLXpOb1JxUDZGd1V1cHdQLS11dnFjUmtXNXBwa3pmb3pUN0wtaFhieUdQeDBNN0ZJSXpOOTJUOUt4Y0w3WkcydUROemRuRmpFRU1pSWNzb3BoMTVz?oc=5",
-      "source": "Investor's Business Daily",
-      "published_at": "Sat, 25 Apr 2026 10:30:00 GMT",
-      "summary": "Stock Market Week Ahead: Hyperscaler Blitz, Federal Reserve Transition Investor's Business Daily",
-      "guid": "CBMi0wFBVV95cUxQbVNHb0JHaWxMRU9KRHNWeTdZREcxWkd5Z2ZaeFpxbnNXVGxfcGVYTTlIdlBMaktBY2ZuT1E0Z3paSENvdVFYQ0cwTy10OElPMkF6WmNUWWxaUFk4N1puS2l5X3JhbnpCQ0oxNm5qQWRITFhBallCQnV2TF9VMWdLLXpOb1JxUDZGd1V1cHdQLS11dnFjUmtXNXBwa3pmb3pUN0wtaFhieUdQeDBNN0ZJSXpOOTJUOUt4Y0w3WkcydUROemRuRmpFRU1pSWNzb3BoMTVz"
-    },
-    {
-      "title": "Weekly market commentary - blackrock.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
-      "source": "blackrock.com",
-      "published_at": "Mon, 27 Apr 2026 07:00:00 GMT",
-      "summary": "Weekly market commentary blackrock.com",
-      "guid": "CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw"
+      "title": "Stock Market Investors Just Got Bad News From Fed Chair Nominee Kevin Warsh - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOY0w2czBLV24teE0tbXR6aTZnS0VhLXpTTnNCUEQycnpjSmdmSm05Q3pZQlp4WTZJY0xZWUU4Ynp3Q2pYRlhmc2FXTkFUMTVEY0lxbWN5QTM3aXI1NDZvWHpuRkZ1aDdsa3JKMUxDXzdkbTFmTG1EQ3lHbDJrUWw4em9UVW1mbnMwOVRGVG1EWUxtX256WmNPT1h3YVY?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Thu, 30 Apr 2026 08:28:00 GMT",
+      "summary": "Stock Market Investors Just Got Bad News From Fed Chair Nominee Kevin Warsh Yahoo Finance",
+      "guid": "CBMinAFBVV95cUxOY0w2czBLV24teE0tbXR6aTZnS0VhLXpTTnNCUEQycnpjSmdmSm05Q3pZQlp4WTZJY0xZWUU4Ynp3Q2pYRlhmc2FXTkFUMTVEY0lxbWN5QTM3aXI1NDZvWHpuRkZ1aDdsa3JKMUxDXzdkbTFmTG1EQ3lHbDJrUWw4em9UVW1mbnMwOVRGVG1EWUxtX256WmNPT1h3YVY"
     },
     {
       "title": "Dow Jumps 700 Points as US Stock Market Today Shrugs Off Oil Shock and Chases Best Month Since 2020 - TechStock²",
@@ -39,12 +23,12 @@
       "guid": "CBMivAFBVV95cUxQaXlYQkI4eW91ek4tbWVid0lZUVZNZkJjZzV1MUZJZTkySGw2bXBZYlMxcjVSemR2M0E4cV9nUW1tRzFMX0lPaGxjZWhTaFp0Q010Z19RdENGQjNVMngwWkVlZDRWeE5DOFJRZGNvVlIzcTNKa05nNzZYYjlsUmRPb1dTazlxYUNjX0J2X2U1RzM0b3ZSR08xOHpkYWp5c1BaM19RRVlBWVpNbWFwRkhFUjJUUTNqQ1JwLUszUw"
     },
     {
-      "title": "Oil spikes while divided Federal Reserve keeps interest rates unchanged - Nonstop Local News",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNRjNXSWF5M0RlazBtZlRHUC1yc3l0aEpPeWRROWRJWGdiRjRrWEJvUWxvQ29sb19lZDk3OGhZOExXU2FuOGZaNVk4X3FoZmdmTm53RGdESkVLTWRqZVBVQm5kb1c4TXBZOUFWM2MzemUxVkczT09MejYyUjFXQkstOGppWEhHWHpDS3RfXzVnakNFZ1V3NmJteHJseXRjQko5WkpIcUh0bDFXNzdwUjIxdkY1LWpSOWtaOGRjR2huUHV3ZFI0aHN2VVI0cFhpTm1WaXN6ZVh4MnFuQkZkYzhaemdCZFpwLS1xQlBvbEN2Zw?oc=5",
-      "source": "Nonstop Local News",
-      "published_at": "Wed, 29 Apr 2026 20:47:49 GMT",
-      "summary": "Oil spikes while divided Federal Reserve keeps interest rates unchanged Nonstop Local News",
-      "guid": "CBMi7wFBVV95cUxNRjNXSWF5M0RlazBtZlRHUC1yc3l0aEpPeWRROWRJWGdiRjRrWEJvUWxvQ29sb19lZDk3OGhZOExXU2FuOGZaNVk4X3FoZmdmTm53RGdESkVLTWRqZVBVQm5kb1c4TXBZOUFWM2MzemUxVkczT09MejYyUjFXQkstOGppWEhHWHpDS3RfXzVnakNFZ1V3NmJteHJseXRjQko5WkpIcUh0bDFXNzdwUjIxdkY1LWpSOWtaOGRjR2huUHV3ZFI0aHN2VVI0cFhpTm1WaXN6ZVh4MnFuQkZkYzhaemdCZFpwLS1xQlBvbEN2Zw"
+      "title": "Stock Market Today: Dow Jones Futures Drop, Nasdaq Gains As Trump Weighs 'Short And Powerful' Iran Strike - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQTkNpb0FFTWJsNjE3Q3RfdjBZbWFNTmhqR3pGZFowU1g4NHhqbGFqZ3VpclBqaDZxYjc0TU5UblZjN2RCeUxmeTJ2WmttanJWanprUXVkaWUtMG0zb1lkRks4RHRibXZ3NzNKNHFwVzlPV2FmeUtBOEdfTTV4TmhyTmFYNlFSVXhEWWI2RUdUN2pDLUhFVGh0Y1NYcnZ1c3JWMHJkSHl5ZmhBaG1sYklTUG8xbXljNGlSMjcwU1E2V21LV3VRUzhZa0lQU1psTW92LUJqUDZESlBrcnZVMmxla0had0VOX3Bqcjd1SnhkNS12NnNuME50dERpejNzaTBKT1UxalFOM21KWGFpNW9VUU0tX19Tcm5U?oc=5",
+      "source": "Benzinga",
+      "published_at": "Thu, 30 Apr 2026 09:30:03 GMT",
+      "summary": "Stock Market Today: Dow Jones Futures Drop, Nasdaq Gains As Trump Weighs 'Short And Powerful' Iran Strike Benzinga",
+      "guid": "CBMimAJBVV95cUxQTkNpb0FFTWJsNjE3Q3RfdjBZbWFNTmhqR3pGZFowU1g4NHhqbGFqZ3VpclBqaDZxYjc0TU5UblZjN2RCeUxmeTJ2WmttanJWanprUXVkaWUtMG0zb1lkRks4RHRibXZ3NzNKNHFwVzlPV2FmeUtBOEdfTTV4TmhyTmFYNlFSVXhEWWI2RUdUN2pDLUhFVGh0Y1NYcnZ1c3JWMHJkSHl5ZmhBaG1sYklTUG8xbXljNGlSMjcwU1E2V21LV3VRUzhZa0lQU1psTW92LUJqUDZESlBrcnZVMmxla0had0VOX3Bqcjd1SnhkNS12NnNuME50dERpejNzaTBKT1UxalFOM21KWGFpNW9VUU0tX19Tcm5U"
     },
     {
       "title": "The Federal Reserve's April Inflation Forecast Has Been Updated, and It's a Good News-Bad News Scenario for Wall Street - Yahoo Finance",
@@ -53,6 +37,14 @@
       "published_at": "Mon, 27 Apr 2026 09:26:00 GMT",
       "summary": "The Federal Reserve's April Inflation Forecast Has Been Updated, and It's a Good News-Bad News Scenario for Wall Street Yahoo Finance",
       "guid": "CBMiqgFBVV95cUxONDNRem1jQUM4QjlRVzdEV0ZZYmlNbk5JYURFdHowV2drZDk1dDJJNk5aaTFEWkZpTEhyS09fZHlMZFpIVnpGTU9JdUY4Skl5QlNpTTRraDVTU1laMjZuNmZqdTkwRF9VUlZYRmVTRnBVU0o3RjB0YXgtam5aa0NTc3FyTmdYQTlaQ1NSZ1JrUzFmcUp5dTlBdnFNeFNwWjlDemxPcmRHUUpvQQ"
+    },
+    {
+      "title": "Stock Market Week Ahead: Hyperscaler Blitz, Federal Reserve Transition - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbVNHb0JHaWxMRU9KRHNWeTdZREcxWkd5Z2ZaeFpxbnNXVGxfcGVYTTlIdlBMaktBY2ZuT1E0Z3paSENvdVFYQ0cwTy10OElPMkF6WmNUWWxaUFk4N1puS2l5X3JhbnpCQ0oxNm5qQWRITFhBallCQnV2TF9VMWdLLXpOb1JxUDZGd1V1cHdQLS11dnFjUmtXNXBwa3pmb3pUN0wtaFhieUdQeDBNN0ZJSXpOOTJUOUt4Y0w3WkcydUROemRuRmpFRU1pSWNzb3BoMTVz?oc=5",
+      "source": "Investor's Business Daily",
+      "published_at": "Sat, 25 Apr 2026 10:30:00 GMT",
+      "summary": "Stock Market Week Ahead: Hyperscaler Blitz, Federal Reserve Transition Investor's Business Daily",
+      "guid": "CBMi0wFBVV95cUxQbVNHb0JHaWxMRU9KRHNWeTdZREcxWkd5Z2ZaeFpxbnNXVGxfcGVYTTlIdlBMaktBY2ZuT1E0Z3paSENvdVFYQ0cwTy10OElPMkF6WmNUWWxaUFk4N1puS2l5X3JhbnpCQ0oxNm5qQWRITFhBallCQnV2TF9VMWdLLXpOb1JxUDZGd1V1cHdQLS11dnFjUmtXNXBwa3pmb3pUN0wtaFhieUdQeDBNN0ZJSXpOOTJUOUt4Y0w3WkcydUROemRuRmpFRU1pSWNzb3BoMTVz"
     },
     {
       "title": "Federal Reserve's April Meeting Starts Today: What You Need to Know - Investopedia",
@@ -79,12 +71,20 @@
       "guid": "CBMimAFBVV95cUxNNU1LX0RlVEJLZ2FhM3RSeEkwTXRvejVEa0p5OG5RQ3RpVnZrUGZfa29NLUp2aUhhUTNtbkVWNElhVVBjbm1IQmpTYkV4ZnBaWVVzc2pmNGVONTVNRUg4cmRRS3hwMFo3UUJEQlRNT1pjZWk3SFRrekRqeVFHRVFYUFZONkM0cmRtcDZFVWNyTjR3OWI4ckxwOA"
     },
     {
-      "title": "Ray Dalio says Federal Reserve will \" lose its credibility’ if Trump’s pick for Fed Chair, Kevin Warsh, lowers rates - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeTYwS1RBeXJ0T3lJdDh2YklEYUtTM2poMlluR2lRS3FLaHM4N1gzMVVhVFcwRUticHBzT284ckRuUGgtRTJHZEM3MzlUT09wdlhpN2FyWm85QWZ2YUFEeXpsREFOSlpNNjBRbHNpUVFkUGYxcWFvVGhkdUY1SGgwakJKVjluNDlnT21mb2tvUHpoMFV3M2Iw?oc=5",
+      "title": "The Federal Reserve's Interest Rate Dilemma Is About to Go From Bad to Warsh -- and the Stock Market May End Up Paying the Price - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbDAtc3dVT3p1bHRkQmE4SEo5U0JqdndOZXRieVp6Sy1iZ25UbDlhWV9iQjIzQ25NLUowVTdtbXo2OUpsV29qLVg0QTFpdjYxSnF4Wk1SWlBhaEVQV21DZ0Y4WWZQTVkyVnJBQXh6eFB6WmpZeWlYSTBjUk5LVEF2LXJpSF95RUd5MHFjTmp1aXNjVE9yRG04Zm93b29KaEdEdnRmWnl3?oc=5",
       "source": "Yahoo Finance",
-      "published_at": "Wed, 29 Apr 2026 17:35:00 GMT",
-      "summary": "Ray Dalio says Federal Reserve will \" lose its credibility’ if Trump’s pick for Fed Chair, Kevin Warsh, lowers rates Yahoo Finance",
-      "guid": "CBMilwFBVV95cUxNeTYwS1RBeXJ0T3lJdDh2YklEYUtTM2poMlluR2lRS3FLaHM4N1gzMVVhVFcwRUticHBzT284ckRuUGgtRTJHZEM3MzlUT09wdlhpN2FyWm85QWZ2YUFEeXpsREFOSlpNNjBRbHNpUVFkUGYxcWFvVGhkdUY1SGgwakJKVjluNDlnT21mb2tvUHpoMFV3M2Iw"
+      "published_at": "Sat, 25 Apr 2026 10:56:00 GMT",
+      "summary": "The Federal Reserve's Interest Rate Dilemma Is About to Go From Bad to Warsh -- and the Stock Market May End Up Paying the Price Yahoo Finance",
+      "guid": "CBMipgFBVV95cUxNbDAtc3dVT3p1bHRkQmE4SEo5U0JqdndOZXRieVp6Sy1iZ25UbDlhWV9iQjIzQ25NLUowVTdtbXo2OUpsV29qLVg0QTFpdjYxSnF4Wk1SWlBhaEVQV21DZ0Y4WWZQTVkyVnJBQXh6eFB6WmpZeWlYSTBjUk5LVEF2LXJpSF95RUd5MHFjTmp1aXNjVE9yRG04Zm93b29KaEdEdnRmWnl3"
+    },
+    {
+      "title": "The Federal Reserve's April Inflation Forecast Has Been Updated, and It's a Good News-Bad News Scenario for Wall Street - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSXlnaml0dlc1UW4zaVZHWDB0eWRubVZCOEM4d2NxZWtsOE42TUw2YUh0ZVE0Tmw0MnFzcTBYdUFyZ1MzemdrZGRDOFNVbzBrWEYxa2p3SEhzekluaGVHR3ROeUxsWE50SGd4YVh6RThUdDdmemxER3ZwNkh4alE5ZldvM2xJdU9VSGpQcmhHdmdSa2RGeXNtRg?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Mon, 27 Apr 2026 10:06:00 GMT",
+      "summary": "The Federal Reserve's April Inflation Forecast Has Been Updated, and It's a Good News-Bad News Scenario for Wall Street The Motley Fool",
+      "guid": "CBMimAFBVV95cUxPSXlnaml0dlc1UW4zaVZHWDB0eWRubVZCOEM4d2NxZWtsOE42TUw2YUh0ZVE0Tmw0MnFzcTBYdUFyZ1MzemdrZGRDOFNVbzBrWEYxa2p3SEhzekluaGVHR3ROeUxsWE50SGd4YVh6RThUdDdmemxER3ZwNkh4alE5ZldvM2xJdU9VSGpQcmhHdmdSa2RGeXNtRg"
     }
   ]
 }
