@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T18:09:14Z",
+  "generated_at": "2026-05-01T19:35:50Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -10,7 +10,7 @@
       "title": "Fed Officials Cite Inflation Concerns in Defending Dissents - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWnppcEhreWdOeU1aaFEtc3ZlbE5PLUJ3U0JuRGJOU0xhd2VfUDZ3V2VicXR1YmVxeUI1akFfTWgwV1lCM08xQ05Keld5ZWdfTUFWS2J6bTdUcHY1YXcxblJHTExkbWFCYWZZdDlfUkg2Q2dHOG1zdlVkbEZvbmJoU2dFQi1XRUcwQThxSVNDb1o0MzI4YXlZVA?oc=5",
       "source": "The New York Times",
-      "published_at": "Fri, 01 May 2026 14:07:35 GMT",
+      "published_at": "Fri, 01 May 2026 12:05:40 GMT",
       "summary": "Fed Officials Cite Inflation Concerns in Defending Dissents The New York Times",
       "guid": "CBMimAFBVV95cUxNWnppcEhreWdOeU1aaFEtc3ZlbE5PLUJ3U0JuRGJOU0xhd2VfUDZ3V2VicXR1YmVxeUI1akFfTWgwV1lCM08xQ05Keld5ZWdfTUFWS2J6bTdUcHY1YXcxblJHTExkbWFCYWZZdDlfUkg2Q2dHOG1zdlVkbEZvbmJoU2dFQi1XRUcwQThxSVNDb1o0MzI4YXlZVA"
     },
@@ -23,14 +23,6 @@
       "guid": "CBMiqgFBVV95cUxONDNRem1jQUM4QjlRVzdEV0ZZYmlNbk5JYURFdHowV2drZDk1dDJJNk5aaTFEWkZpTEhyS09fZHlMZFpIVnpGTU9JdUY4Skl5QlNpTTRraDVTU1laMjZuNmZqdTkwRF9VUlZYRmVTRnBVU0o3RjB0YXgtam5aa0NTc3FyTmdYQTlaQ1NSZ1JrUzFmcUp5dTlBdnFNeFNwWjlDemxPcmRHUUpvQQ"
     },
     {
-      "title": "Federal Reserve's April Meeting Starts Today: What You Need to Know - Investopedia",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPN1o2Z2ZZS2FyY2pLcjlnTjlPWVgtS1RjdW5ucm1jR1YwUlc2X3FHeFRKbWloVWFyRVFzNEc0VlJZZUp4ZndMbnFYRHZsS2VOcVNZai01ODJGU0ZhLTZDNnp0MG1ydEZCOElmNVpSTmxHMi1qU1pLbHVDeFpjQ05RNUh6R2Ezb3UyVFYtSg?oc=5",
-      "source": "Investopedia",
-      "published_at": "Tue, 28 Apr 2026 15:38:12 GMT",
-      "summary": "Federal Reserve's April Meeting Starts Today: What You Need to Know Investopedia",
-      "guid": "CBMijAFBVV95cUxPN1o2Z2ZZS2FyY2pLcjlnTjlPWVgtS1RjdW5ucm1jR1YwUlc2X3FHeFRKbWloVWFyRVFzNEc0VlJZZUp4ZndMbnFYRHZsS2VOcVNZai01ODJGU0ZhLTZDNnp0MG1ydEZCOElmNVpSTmxHMi1qU1pLbHVDeFpjQ05RNUh6R2Ezb3UyVFYtSg"
-    },
-    {
       "title": "Stock Market Investors Just Got Bad News From Fed Chair Nominee Kevin Warsh - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQLTh0dFBPYm5UQ3g4bGNkSDRKZ1dtVHF4U0hSLUpHY2pGNHczazZ1SGp1RGZvakJMUTZfTTFtdEI0TWNtNE1YVjV1aENBNUdOT19CZ3FxbW1oU2JSNlFGSDIySF8xdHhrT2wydHYwNkZ2R3UySHlwUm4wS21BZUtLaVBjdEhoczZtaHYtNTVNaElZNVRS?oc=5",
       "source": "The Motley Fool",
@@ -39,20 +31,20 @@
       "guid": "CBMilAFBVV95cUxQLTh0dFBPYm5UQ3g4bGNkSDRKZ1dtVHF4U0hSLUpHY2pGNHczazZ1SGp1RGZvakJMUTZfTTFtdEI0TWNtNE1YVjV1aENBNUdOT19CZ3FxbW1oU2JSNlFGSDIySF8xdHhrT2wydHYwNkZ2R3UySHlwUm4wS21BZUtLaVBjdEhoczZtaHYtNTVNaElZNVRS"
     },
     {
-      "title": "Jerome Powell Is Doing Something No Fed Chair Has Done Since 1948 - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVjU1aEJCUzAxd3RCMnJTdUljb3YwMk1sQUhkZXdGVnBWc2dpN0pOMWZGVTVSaUhSWExya0xhRjNWa3RBVFRjSXliTlEybWl4U0cySnAtVXBxN2hkZFpiczVDNlRTOG5vSDFMM0xPRHlNemVCOUpWQVNwWVVzdUViLVhFUUZxalBpdXpzUEVXOU5VWXlENEpFbFRlSkFiZWh1blVNQmo1Z1V0X1JwZVE?oc=5",
-      "source": "24/7 Wall St.",
-      "published_at": "Fri, 01 May 2026 11:30:36 GMT",
-      "summary": "Jerome Powell Is Doing Something No Fed Chair Has Done Since 1948 24/7 Wall St.",
-      "guid": "CBMirgFBVV95cUxNVjU1aEJCUzAxd3RCMnJTdUljb3YwMk1sQUhkZXdGVnBWc2dpN0pOMWZGVTVSaUhSWExya0xhRjNWa3RBVFRjSXliTlEybWl4U0cySnAtVXBxN2hkZFpiczVDNlRTOG5vSDFMM0xPRHlNemVCOUpWQVNwWVVzdUViLVhFUUZxalBpdXpzUEVXOU5VWXlENEpFbFRlSkFiZWh1blVNQmo1Z1V0X1JwZVE"
-    },
-    {
       "title": "Oil spikes while divided Federal Reserve keeps interest rates unchanged - Nonstop Local News",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNRjNXSWF5M0RlazBtZlRHUC1yc3l0aEpPeWRROWRJWGdiRjRrWEJvUWxvQ29sb19lZDk3OGhZOExXU2FuOGZaNVk4X3FoZmdmTm53RGdESkVLTWRqZVBVQm5kb1c4TXBZOUFWM2MzemUxVkczT09MejYyUjFXQkstOGppWEhHWHpDS3RfXzVnakNFZ1V3NmJteHJseXRjQko5WkpIcUh0bDFXNzdwUjIxdkY1LWpSOWtaOGRjR2huUHV3ZFI0aHN2VVI0cFhpTm1WaXN6ZVh4MnFuQkZkYzhaemdCZFpwLS1xQlBvbEN2Zw?oc=5",
       "source": "Nonstop Local News",
       "published_at": "Wed, 29 Apr 2026 20:47:49 GMT",
       "summary": "Oil spikes while divided Federal Reserve keeps interest rates unchanged Nonstop Local News",
       "guid": "CBMi7wFBVV95cUxNRjNXSWF5M0RlazBtZlRHUC1yc3l0aEpPeWRROWRJWGdiRjRrWEJvUWxvQ29sb19lZDk3OGhZOExXU2FuOGZaNVk4X3FoZmdmTm53RGdESkVLTWRqZVBVQm5kb1c4TXBZOUFWM2MzemUxVkczT09MejYyUjFXQkstOGppWEhHWHpDS3RfXzVnakNFZ1V3NmJteHJseXRjQko5WkpIcUh0bDFXNzdwUjIxdkY1LWpSOWtaOGRjR2huUHV3ZFI0aHN2VVI0cFhpTm1WaXN6ZVh4MnFuQkZkYzhaemdCZFpwLS1xQlBvbEN2Zw"
+    },
+    {
+      "title": "Jerome Powell Is Doing Something No Fed Chair Has Done Since 1948 - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVjU1aEJCUzAxd3RCMnJTdUljb3YwMk1sQUhkZXdGVnBWc2dpN0pOMWZGVTVSaUhSWExya0xhRjNWa3RBVFRjSXliTlEybWl4U0cySnAtVXBxN2hkZFpiczVDNlRTOG5vSDFMM0xPRHlNemVCOUpWQVNwWVVzdUViLVhFUUZxalBpdXpzUEVXOU5VWXlENEpFbFRlSkFiZWh1blVNQmo1Z1V0X1JwZVE?oc=5",
+      "source": "24/7 Wall St.",
+      "published_at": "Fri, 01 May 2026 11:30:36 GMT",
+      "summary": "Jerome Powell Is Doing Something No Fed Chair Has Done Since 1948 24/7 Wall St.",
+      "guid": "CBMirgFBVV95cUxNVjU1aEJCUzAxd3RCMnJTdUljb3YwMk1sQUhkZXdGVnBWc2dpN0pOMWZGVTVSaUhSWExya0xhRjNWa3RBVFRjSXliTlEybWl4U0cySnAtVXBxN2hkZFpiczVDNlRTOG5vSDFMM0xPRHlNemVCOUpWQVNwWVVzdUViLVhFUUZxalBpdXpzUEVXOU5VWXlENEpFbFRlSkFiZWh1blVNQmo1Z1V0X1JwZVE"
     },
     {
       "title": "Fed's Beth Hammack says no longer appropriate to signal rate cut bias - The Economic Times",
@@ -69,6 +61,14 @@
       "published_at": "Thu, 30 Apr 2026 23:44:44 GMT",
       "summary": "Fed Meeting Underscores Tough Task Ahead for Warsh The New York Times",
       "guid": "CBMirAFBVV95cUxNajVYQkdKM1JiYUxVRnFyaVpueTlyYl9TWU1xUDdxXzNGdWZUQzBLWEJwVG1rU3lXc0UwWTdKWV9icUNWMW1lQUZVanpjSk94Z09SVXJaeklUUmRpX2swMDJqdS05QlFWdjRramdqRUFZVzFjTXBobWlXTHJrRV90QTU4RDVNTWJYZEZjT01pWmJnYzk1aC10SHU3dElCRnpXWmpqZ2J3RTJhSUxo"
+    },
+    {
+      "title": "Federal Reserve's April Meeting Starts Today: What You Need to Know - Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPN1o2Z2ZZS2FyY2pLcjlnTjlPWVgtS1RjdW5ucm1jR1YwUlc2X3FHeFRKbWloVWFyRVFzNEc0VlJZZUp4ZndMbnFYRHZsS2VOcVNZai01ODJGU0ZhLTZDNnp0MG1ydEZCOElmNVpSTmxHMi1qU1pLbHVDeFpjQ05RNUh6R2Ezb3UyVFYtSg?oc=5",
+      "source": "Investopedia",
+      "published_at": "Tue, 28 Apr 2026 15:38:12 GMT",
+      "summary": "Federal Reserve's April Meeting Starts Today: What You Need to Know Investopedia",
+      "guid": "CBMijAFBVV95cUxPN1o2Z2ZZS2FyY2pLcjlnTjlPWVgtS1RjdW5ucm1jR1YwUlc2X3FHeFRKbWloVWFyRVFzNEc0VlJZZUp4ZndMbnFYRHZsS2VOcVNZai01ODJGU0ZhLTZDNnp0MG1ydEZCOElmNVpSTmxHMi1qU1pLbHVDeFpjQ05RNUh6R2Ezb3UyVFYtSg"
     },
     {
       "title": "Stock Market Week Ahead: Hyperscaler Blitz, Federal Reserve Transition - Investor's Business Daily",
