@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-05-01T07:35:03Z",
+  "generated_at": "2026-05-01T09:19:21Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "The Federal Reserve's April Inflation Forecast Has Been Updated, and It's a Good News-Bad News Scenario for Wall Street - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONDNRem1jQUM4QjlRVzdEV0ZZYmlNbk5JYURFdHowV2drZDk1dDJJNk5aaTFEWkZpTEhyS09fZHlMZFpIVnpGTU9JdUY4Skl5QlNpTTRraDVTU1laMjZuNmZqdTkwRF9VUlZYRmVTRnBVU0o3RjB0YXgtam5aa0NTc3FyTmdYQTlaQ1NSZ1JrUzFmcUp5dTlBdnFNeFNwWjlDemxPcmRHUUpvQQ?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Mon, 27 Apr 2026 09:26:00 GMT",
+      "summary": "The Federal Reserve's April Inflation Forecast Has Been Updated, and It's a Good News-Bad News Scenario for Wall Street Yahoo Finance",
+      "guid": "CBMiqgFBVV95cUxONDNRem1jQUM4QjlRVzdEV0ZZYmlNbk5JYURFdHowV2drZDk1dDJJNk5aaTFEWkZpTEhyS09fZHlMZFpIVnpGTU9JdUY4Skl5QlNpTTRraDVTU1laMjZuNmZqdTkwRF9VUlZYRmVTRnBVU0o3RjB0YXgtam5aa0NTc3FyTmdYQTlaQ1NSZ1JrUzFmcUp5dTlBdnFNeFNwWjlDemxPcmRHUUpvQQ"
+    },
     {
       "title": "Stock Market Investors Just Got Bad News From Fed Chair Nominee Kevin Warsh - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQLTh0dFBPYm5UQ3g4bGNkSDRKZ1dtVHF4U0hSLUpHY2pGNHczazZ1SGp1RGZvakJMUTZfTTFtdEI0TWNtNE1YVjV1aENBNUdOT19CZ3FxbW1oU2JSNlFGSDIySF8xdHhrT2wydHYwNkZ2R3UySHlwUm4wS21BZUtLaVBjdEhoczZtaHYtNTVNaElZNVRS?oc=5",
@@ -15,20 +23,12 @@
       "guid": "CBMilAFBVV95cUxQLTh0dFBPYm5UQ3g4bGNkSDRKZ1dtVHF4U0hSLUpHY2pGNHczazZ1SGp1RGZvakJMUTZfTTFtdEI0TWNtNE1YVjV1aENBNUdOT19CZ3FxbW1oU2JSNlFGSDIySF8xdHhrT2wydHYwNkZ2R3UySHlwUm4wS21BZUtLaVBjdEhoczZtaHYtNTVNaElZNVRS"
     },
     {
-      "title": "Weekly market commentary - blackrock.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
-      "source": "blackrock.com",
-      "published_at": "Mon, 27 Apr 2026 07:00:00 GMT",
-      "summary": "Weekly market commentary blackrock.com",
-      "guid": "CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw"
-    },
-    {
-      "title": "Oil spikes while divided Federal Reserve keeps interest rates unchanged - Nonstop Local News",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNRjNXSWF5M0RlazBtZlRHUC1yc3l0aEpPeWRROWRJWGdiRjRrWEJvUWxvQ29sb19lZDk3OGhZOExXU2FuOGZaNVk4X3FoZmdmTm53RGdESkVLTWRqZVBVQm5kb1c4TXBZOUFWM2MzemUxVkczT09MejYyUjFXQkstOGppWEhHWHpDS3RfXzVnakNFZ1V3NmJteHJseXRjQko5WkpIcUh0bDFXNzdwUjIxdkY1LWpSOWtaOGRjR2huUHV3ZFI0aHN2VVI0cFhpTm1WaXN6ZVh4MnFuQkZkYzhaemdCZFpwLS1xQlBvbEN2Zw?oc=5",
-      "source": "Nonstop Local News",
-      "published_at": "Wed, 29 Apr 2026 20:47:49 GMT",
-      "summary": "Oil spikes while divided Federal Reserve keeps interest rates unchanged Nonstop Local News",
-      "guid": "CBMi7wFBVV95cUxNRjNXSWF5M0RlazBtZlRHUC1yc3l0aEpPeWRROWRJWGdiRjRrWEJvUWxvQ29sb19lZDk3OGhZOExXU2FuOGZaNVk4X3FoZmdmTm53RGdESkVLTWRqZVBVQm5kb1c4TXBZOUFWM2MzemUxVkczT09MejYyUjFXQkstOGppWEhHWHpDS3RfXzVnakNFZ1V3NmJteHJseXRjQko5WkpIcUh0bDFXNzdwUjIxdkY1LWpSOWtaOGRjR2huUHV3ZFI0aHN2VVI0cFhpTm1WaXN6ZVh4MnFuQkZkYzhaemdCZFpwLS1xQlBvbEN2Zw"
+      "title": "Fed, Tech Earnings, and Oil: Why This Is the Stock Market’s Most Critical Week - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPenduTG5xQU1nUldKa3lhRFJRSlpxY3E1WVBUOUpYR1BLb1NPc0N3YkY2NU5DaVJqc0xDSnZGVE9rWUZsc0NmQ1N1YjRHN0t2U3ZUcFRFaFdlRTBpcmVuR2lETXg4MGR0SnBwdHlEYzV1X2JiejZITmI4ckJBcE1oSlVR?oc=5",
+      "source": "Barron's",
+      "published_at": "Wed, 29 Apr 2026 12:14:00 GMT",
+      "summary": "Fed, Tech Earnings, and Oil: Why This Is the Stock Market’s Most Critical Week Barron's",
+      "guid": "CBMiggFBVV95cUxPenduTG5xQU1nUldKa3lhRFJRSlpxY3E1WVBUOUpYR1BLb1NPc0N3YkY2NU5DaVJqc0xDSnZGVE9rWUZsc0NmQ1N1YjRHN0t2U3ZUcFRFaFdlRTBpcmVuR2lETXg4MGR0SnBwdHlEYzV1X2JiejZITmI4ckJBcE1oSlVR"
     },
     {
       "title": "Dow Jumps 700 Points as US Stock Market Today Shrugs Off Oil Shock and Chases Best Month Since 2020 - TechStock²",
@@ -39,12 +39,12 @@
       "guid": "CBMivAFBVV95cUxQaXlYQkI4eW91ek4tbWVid0lZUVZNZkJjZzV1MUZJZTkySGw2bXBZYlMxcjVSemR2M0E4cV9nUW1tRzFMX0lPaGxjZWhTaFp0Q010Z19RdENGQjNVMngwWkVlZDRWeE5DOFJRZGNvVlIzcTNKa05nNzZYYjlsUmRPb1dTazlxYUNjX0J2X2U1RzM0b3ZSR08xOHpkYWp5c1BaM19RRVlBWVpNbWFwRkhFUjJUUTNqQ1JwLUszUw"
     },
     {
-      "title": "The Federal Reserve's April Inflation Forecast Has Been Updated, and It's a Good News-Bad News Scenario for Wall Street - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONDNRem1jQUM4QjlRVzdEV0ZZYmlNbk5JYURFdHowV2drZDk1dDJJNk5aaTFEWkZpTEhyS09fZHlMZFpIVnpGTU9JdUY4Skl5QlNpTTRraDVTU1laMjZuNmZqdTkwRF9VUlZYRmVTRnBVU0o3RjB0YXgtam5aa0NTc3FyTmdYQTlaQ1NSZ1JrUzFmcUp5dTlBdnFNeFNwWjlDemxPcmRHUUpvQQ?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Mon, 27 Apr 2026 09:26:00 GMT",
-      "summary": "The Federal Reserve's April Inflation Forecast Has Been Updated, and It's a Good News-Bad News Scenario for Wall Street Yahoo Finance",
-      "guid": "CBMiqgFBVV95cUxONDNRem1jQUM4QjlRVzdEV0ZZYmlNbk5JYURFdHowV2drZDk1dDJJNk5aaTFEWkZpTEhyS09fZHlMZFpIVnpGTU9JdUY4Skl5QlNpTTRraDVTU1laMjZuNmZqdTkwRF9VUlZYRmVTRnBVU0o3RjB0YXgtam5aa0NTc3FyTmdYQTlaQ1NSZ1JrUzFmcUp5dTlBdnFNeFNwWjlDemxPcmRHUUpvQQ"
+      "title": "Opinion | Why the Stock Market Makes No Sense Right Now - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPc2hQSUk4Zkh2N1lfRkR1bWdwTjl6UE1WWXlzRlBpYkhaY2dVUVY2SXl1OXI4aWdYVTI2MkY4Rmt0RXZBaktuTjdBM2ZtZGk3b0Y5T3ZuUlF6ZzV5bDFjMnI0VVBGOVhFcDVvV3dxR21aTVNMY2NHYzNZNjhPUE5kNA?oc=5",
+      "source": "The New York Times",
+      "published_at": "Sat, 18 Apr 2026 07:00:00 GMT",
+      "summary": "Opinion | Why the Stock Market Makes No Sense Right Now The New York Times",
+      "guid": "CBMigAFBVV95cUxPc2hQSUk4Zkh2N1lfRkR1bWdwTjl6UE1WWXlzRlBpYkhaY2dVUVY2SXl1OXI4aWdYVTI2MkY4Rmt0RXZBaktuTjdBM2ZtZGk3b0Y5T3ZuUlF6ZzV5bDFjMnI0VVBGOVhFcDVvV3dxR21aTVNMY2NHYzNZNjhPUE5kNA"
     },
     {
       "title": "Stock Market Week Ahead: Hyperscaler Blitz, Federal Reserve Transition - Investor's Business Daily",
