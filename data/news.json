@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T20:30:36Z",
+  "generated_at": "2026-05-01T21:34:32Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -23,20 +23,20 @@
       "guid": "CBMiqgFBVV95cUxONDNRem1jQUM4QjlRVzdEV0ZZYmlNbk5JYURFdHowV2drZDk1dDJJNk5aaTFEWkZpTEhyS09fZHlMZFpIVnpGTU9JdUY4Skl5QlNpTTRraDVTU1laMjZuNmZqdTkwRF9VUlZYRmVTRnBVU0o3RjB0YXgtam5aa0NTc3FyTmdYQTlaQ1NSZ1JrUzFmcUp5dTlBdnFNeFNwWjlDemxPcmRHUUpvQQ"
     },
     {
-      "title": "Federal Reserve's April Meeting Starts Today: What You Need to Know - Investopedia",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPN1o2Z2ZZS2FyY2pLcjlnTjlPWVgtS1RjdW5ucm1jR1YwUlc2X3FHeFRKbWloVWFyRVFzNEc0VlJZZUp4ZndMbnFYRHZsS2VOcVNZai01ODJGU0ZhLTZDNnp0MG1ydEZCOElmNVpSTmxHMi1qU1pLbHVDeFpjQ05RNUh6R2Ezb3UyVFYtSg?oc=5",
-      "source": "Investopedia",
-      "published_at": "Tue, 28 Apr 2026 15:38:12 GMT",
-      "summary": "Federal Reserve's April Meeting Starts Today: What You Need to Know Investopedia",
-      "guid": "CBMijAFBVV95cUxPN1o2Z2ZZS2FyY2pLcjlnTjlPWVgtS1RjdW5ucm1jR1YwUlc2X3FHeFRKbWloVWFyRVFzNEc0VlJZZUp4ZndMbnFYRHZsS2VOcVNZai01ODJGU0ZhLTZDNnp0MG1ydEZCOElmNVpSTmxHMi1qU1pLbHVDeFpjQ05RNUh6R2Ezb3UyVFYtSg"
-    },
-    {
       "title": "Stock Market Investors Just Got Bad News From Fed Chair Nominee Kevin Warsh - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQLTh0dFBPYm5UQ3g4bGNkSDRKZ1dtVHF4U0hSLUpHY2pGNHczazZ1SGp1RGZvakJMUTZfTTFtdEI0TWNtNE1YVjV1aENBNUdOT19CZ3FxbW1oU2JSNlFGSDIySF8xdHhrT2wydHYwNkZ2R3UySHlwUm4wS21BZUtLaVBjdEhoczZtaHYtNTVNaElZNVRS?oc=5",
       "source": "The Motley Fool",
       "published_at": "Thu, 30 Apr 2026 09:08:00 GMT",
       "summary": "Stock Market Investors Just Got Bad News From Fed Chair Nominee Kevin Warsh The Motley Fool",
       "guid": "CBMilAFBVV95cUxQLTh0dFBPYm5UQ3g4bGNkSDRKZ1dtVHF4U0hSLUpHY2pGNHczazZ1SGp1RGZvakJMUTZfTTFtdEI0TWNtNE1YVjV1aENBNUdOT19CZ3FxbW1oU2JSNlFGSDIySF8xdHhrT2wydHYwNkZ2R3UySHlwUm4wS21BZUtLaVBjdEhoczZtaHYtNTVNaElZNVRS"
+    },
+    {
+      "title": "Federal Reserve's April Meeting Starts Today: What You Need to Know - Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPN1o2Z2ZZS2FyY2pLcjlnTjlPWVgtS1RjdW5ucm1jR1YwUlc2X3FHeFRKbWloVWFyRVFzNEc0VlJZZUp4ZndMbnFYRHZsS2VOcVNZai01ODJGU0ZhLTZDNnp0MG1ydEZCOElmNVpSTmxHMi1qU1pLbHVDeFpjQ05RNUh6R2Ezb3UyVFYtSg?oc=5",
+      "source": "Investopedia",
+      "published_at": "Tue, 28 Apr 2026 15:38:12 GMT",
+      "summary": "Federal Reserve's April Meeting Starts Today: What You Need to Know Investopedia",
+      "guid": "CBMijAFBVV95cUxPN1o2Z2ZZS2FyY2pLcjlnTjlPWVgtS1RjdW5ucm1jR1YwUlc2X3FHeFRKbWloVWFyRVFzNEc0VlJZZUp4ZndMbnFYRHZsS2VOcVNZai01ODJGU0ZhLTZDNnp0MG1ydEZCOElmNVpSTmxHMi1qU1pLbHVDeFpjQ05RNUh6R2Ezb3UyVFYtSg"
     },
     {
       "title": "Oil spikes while divided Federal Reserve keeps interest rates unchanged - Nonstop Local News",
@@ -63,14 +63,6 @@
       "guid": "CBMi3gFBVV95cUxQcTBaUnVLWW5wc0d2RjJpb2ktS3p5SjF0ckhXNkEwWUdzbEZxY2VJSnNlaHEySFpGbHRrREdtUVpPcWN3eTl1WXMzOUl0cUhyV1d1V2luWW1tTEVyMVYtbTVJTmtzb2VuN3REQ2d6M0JlU2VhUGVDZF9tNi1aaHV5enpwNWFzZnNKZFJUZ2pkTXpzY29jNHc2aktxMkoxWnVTUDljczF0akk2bUhpM0MzZng1bXd3WUpTZHUzX000YWRxbEoxZkFNcVAwVWgtYk16d3dVQ1Iyc0lNUy1jSWfSAeMBQVVfeXFMT2N6Z19mVU1Zam9GOUFaVXpTZThvUFgtSWZtbGpCenkyRG14ZVJXM2RycTk1SnlyNVBGcmMzcnAxWGgyNGhuemc3NmNiby0tbzNwTy1BNDlDZmo0SVpZX09wYUtwX0pJNTMxS2VrZEdVNVJTZFRmTmFqRFBVb2JWdUs1SzZZbUFyZVdKNWFjd2FaSGZnREVrYjI1Z3NRSVJxY0RzR0VCUjVnMGNQbXZvMTlIc1VqV1E5S1JIeDNlUF9vT1E1YXB0T2VaVTlNNzR3QXlJVXVqUnRaSXdBVlNVOHBYbkU"
     },
     {
-      "title": "Fed Meeting Underscores Tough Task Ahead for Warsh - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNajVYQkdKM1JiYUxVRnFyaVpueTlyYl9TWU1xUDdxXzNGdWZUQzBLWEJwVG1rU3lXc0UwWTdKWV9icUNWMW1lQUZVanpjSk94Z09SVXJaeklUUmRpX2swMDJqdS05QlFWdjRramdqRUFZVzFjTXBobWlXTHJrRV90QTU4RDVNTWJYZEZjT01pWmJnYzk1aC10SHU3dElCRnpXWmpqZ2J3RTJhSUxo?oc=5",
-      "source": "The New York Times",
-      "published_at": "Thu, 30 Apr 2026 23:44:44 GMT",
-      "summary": "Fed Meeting Underscores Tough Task Ahead for Warsh The New York Times",
-      "guid": "CBMirAFBVV95cUxNajVYQkdKM1JiYUxVRnFyaVpueTlyYl9TWU1xUDdxXzNGdWZUQzBLWEJwVG1rU3lXc0UwWTdKWV9icUNWMW1lQUZVanpjSk94Z09SVXJaeklUUmRpX2swMDJqdS05QlFWdjRramdqRUFZVzFjTXBobWlXTHJrRV90QTU4RDVNTWJYZEZjT01pWmJnYzk1aC10SHU3dElCRnpXWmpqZ2J3RTJhSUxo"
-    },
-    {
       "title": "Stock Market Week Ahead: Hyperscaler Blitz, Federal Reserve Transition - Investor's Business Daily",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbVNHb0JHaWxMRU9KRHNWeTdZREcxWkd5Z2ZaeFpxbnNXVGxfcGVYTTlIdlBMaktBY2ZuT1E0Z3paSENvdVFYQ0cwTy10OElPMkF6WmNUWWxaUFk4N1puS2l5X3JhbnpCQ0oxNm5qQWRITFhBallCQnV2TF9VMWdLLXpOb1JxUDZGd1V1cHdQLS11dnFjUmtXNXBwa3pmb3pUN0wtaFhieUdQeDBNN0ZJSXpOOTJUOUt4Y0w3WkcydUROemRuRmpFRU1pSWNzb3BoMTVz?oc=5",
       "source": "Investor's Business Daily",
@@ -85,6 +77,14 @@
       "published_at": "Wed, 29 Apr 2026 18:00:47 GMT",
       "summary": "Fed holds rates steady but with highest level of dissent since 1992 CNBC",
       "guid": "CBMif0FVX3lxTFBTWklKY0pZemxlMnNiSkhXZEpUNFVXZk84QjNkM2tWT0pTa3BoSGZZXzVnM3ZoWld5eFJ5VUxkelVSU2s0dzV2SjZfR1VURnNnbFIxSWwzdDgzaEtrU3d5eXdFQUstOVltc1VvZWFvcDVNaUZoLUJMSDJPRjJDV2PSAYQBQVVfeXFMT3JUdkVsMGxZOVpyVXFIS3FCSkdWN1ZZakdEMlRGVTVuR1diSFpGR09TVWtzUmpVUFByS3NzN3VVblVuQnNYbHMzTktsZWVtaXVCS2owaU1nNlhBYzFaNlZEQlNLM2xNdnNWLWJWazZQRnpWcy1tNnZneU15VHB4aWgtTnVG"
+    },
+    {
+      "title": "Fed Meeting Underscores Tough Task Ahead for Warsh - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNajVYQkdKM1JiYUxVRnFyaVpueTlyYl9TWU1xUDdxXzNGdWZUQzBLWEJwVG1rU3lXc0UwWTdKWV9icUNWMW1lQUZVanpjSk94Z09SVXJaeklUUmRpX2swMDJqdS05QlFWdjRramdqRUFZVzFjTXBobWlXTHJrRV90QTU4RDVNTWJYZEZjT01pWmJnYzk1aC10SHU3dElCRnpXWmpqZ2J3RTJhSUxo?oc=5",
+      "source": "The New York Times",
+      "published_at": "Thu, 30 Apr 2026 13:51:00 GMT",
+      "summary": "Fed Meeting Underscores Tough Task Ahead for Warsh The New York Times",
+      "guid": "CBMirAFBVV95cUxNajVYQkdKM1JiYUxVRnFyaVpueTlyYl9TWU1xUDdxXzNGdWZUQzBLWEJwVG1rU3lXc0UwWTdKWV9icUNWMW1lQUZVanpjSk94Z09SVXJaeklUUmRpX2swMDJqdS05QlFWdjRramdqRUFZVzFjTXBobWlXTHJrRV90QTU4RDVNTWJYZEZjT01pWmJnYzk1aC10SHU3dElCRnpXWmpqZ2J3RTJhSUxo"
     }
   ]
 }
