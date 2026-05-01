@@ -1,19 +1,11 @@
 {
-  "generated_at": "2026-05-01T15:14:39Z",
+  "generated_at": "2026-05-01T16:09:01Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
-    {
-      "title": "The Federal Reserve's April Inflation Forecast Has Been Updated, and It's a Good News-Bad News Scenario for Wall Street - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONDNRem1jQUM4QjlRVzdEV0ZZYmlNbk5JYURFdHowV2drZDk1dDJJNk5aaTFEWkZpTEhyS09fZHlMZFpIVnpGTU9JdUY4Skl5QlNpTTRraDVTU1laMjZuNmZqdTkwRF9VUlZYRmVTRnBVU0o3RjB0YXgtam5aa0NTc3FyTmdYQTlaQ1NSZ1JrUzFmcUp5dTlBdnFNeFNwWjlDemxPcmRHUUpvQQ?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Mon, 27 Apr 2026 09:26:00 GMT",
-      "summary": "The Federal Reserve's April Inflation Forecast Has Been Updated, and It's a Good News-Bad News Scenario for Wall Street Yahoo Finance",
-      "guid": "CBMiqgFBVV95cUxONDNRem1jQUM4QjlRVzdEV0ZZYmlNbk5JYURFdHowV2drZDk1dDJJNk5aaTFEWkZpTEhyS09fZHlMZFpIVnpGTU9JdUY4Skl5QlNpTTRraDVTU1laMjZuNmZqdTkwRF9VUlZYRmVTRnBVU0o3RjB0YXgtam5aa0NTc3FyTmdYQTlaQ1NSZ1JrUzFmcUp5dTlBdnFNeFNwWjlDemxPcmRHUUpvQQ"
-    },
     {
       "title": "Federal Reserve's April Meeting Starts Today: What You Need to Know - Investopedia",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPN1o2Z2ZZS2FyY2pLcjlnTjlPWVgtS1RjdW5ucm1jR1YwUlc2X3FHeFRKbWloVWFyRVFzNEc0VlJZZUp4ZndMbnFYRHZsS2VOcVNZai01ODJGU0ZhLTZDNnp0MG1ydEZCOElmNVpSTmxHMi1qU1pLbHVDeFpjQ05RNUh6R2Ezb3UyVFYtSg?oc=5",
@@ -47,28 +39,12 @@
       "guid": "CBMi7wFBVV95cUxNRjNXSWF5M0RlazBtZlRHUC1yc3l0aEpPeWRROWRJWGdiRjRrWEJvUWxvQ29sb19lZDk3OGhZOExXU2FuOGZaNVk4X3FoZmdmTm53RGdESkVLTWRqZVBVQm5kb1c4TXBZOUFWM2MzemUxVkczT09MejYyUjFXQkstOGppWEhHWHpDS3RfXzVnakNFZ1V3NmJteHJseXRjQko5WkpIcUh0bDFXNzdwUjIxdkY1LWpSOWtaOGRjR2huUHV3ZFI0aHN2VVI0cFhpTm1WaXN6ZVh4MnFuQkZkYzhaemdCZFpwLS1xQlBvbEN2Zw"
     },
     {
-      "title": "President Trump quietly bought up to $337 million in bonds - moneywise.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaGVYWkJSYU5wcFhyQUo1UmFBLUQzdHhWSkRaQ3puSHJOU3pZRFhkU3dMblhldDVLTXktVzkxanZyR1I1c1NYVnZRMHg0Q05Lc3pfM1E4SDY4NVhMTmpWWHVFcWd0MnJ0RktBMEgzeGN5RTQ2ZzU2RnNjZFFSWXgxbnQ5SzJ1am5xT0pTRUNORTRpYW80?oc=5",
-      "source": "moneywise.com",
-      "published_at": "Fri, 01 May 2026 11:06:11 GMT",
-      "summary": "President Trump quietly bought up to $337 million in bonds moneywise.com",
-      "guid": "CBMilAFBVV95cUxQaGVYWkJSYU5wcFhyQUo1UmFBLUQzdHhWSkRaQ3puSHJOU3pZRFhkU3dMblhldDVLTXktVzkxanZyR1I1c1NYVnZRMHg0Q05Lc3pfM1E4SDY4NVhMTmpWWHVFcWd0MnJ0RktBMEgzeGN5RTQ2ZzU2RnNjZFFSWXgxbnQ5SzJ1am5xT0pTRUNORTRpYW80"
-    },
-    {
       "title": "Fed's Beth Hammack says no longer appropriate to signal rate cut bias - The Economic Times",
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcTBaUnVLWW5wc0d2RjJpb2ktS3p5SjF0ckhXNkEwWUdzbEZxY2VJSnNlaHEySFpGbHRrREdtUVpPcWN3eTl1WXMzOUl0cUhyV1d1V2luWW1tTEVyMVYtbTVJTmtzb2VuN3REQ2d6M0JlU2VhUGVDZF9tNi1aaHV5enpwNWFzZnNKZFJUZ2pkTXpzY29jNHc2aktxMkoxWnVTUDljczF0akk2bUhpM0MzZng1bXd3WUpTZHUzX000YWRxbEoxZkFNcVAwVWgtYk16d3dVQ1Iyc0lNUy1jSWfSAeMBQVVfeXFMT2N6Z19mVU1Zam9GOUFaVXpTZThvUFgtSWZtbGpCenkyRG14ZVJXM2RycTk1SnlyNVBGcmMzcnAxWGgyNGhuemc3NmNiby0tbzNwTy1BNDlDZmo0SVpZX09wYUtwX0pJNTMxS2VrZEdVNVJTZFRmTmFqRFBVb2JWdUs1SzZZbUFyZVdKNWFjd2FaSGZnREVrYjI1Z3NRSVJxY0RzR0VCUjVnMGNQbXZvMTlIc1VqV1E5S1JIeDNlUF9vT1E1YXB0T2VaVTlNNzR3QXlJVXVqUnRaSXdBVlNVOHBYbkU?oc=5",
       "source": "The Economic Times",
       "published_at": "Fri, 01 May 2026 13:07:10 GMT",
       "summary": "Fed's Beth Hammack says no longer appropriate to signal rate cut bias The Economic Times",
       "guid": "CBMi3gFBVV95cUxQcTBaUnVLWW5wc0d2RjJpb2ktS3p5SjF0ckhXNkEwWUdzbEZxY2VJSnNlaHEySFpGbHRrREdtUVpPcWN3eTl1WXMzOUl0cUhyV1d1V2luWW1tTEVyMVYtbTVJTmtzb2VuN3REQ2d6M0JlU2VhUGVDZF9tNi1aaHV5enpwNWFzZnNKZFJUZ2pkTXpzY29jNHc2aktxMkoxWnVTUDljczF0akk2bUhpM0MzZng1bXd3WUpTZHUzX000YWRxbEoxZkFNcVAwVWgtYk16d3dVQ1Iyc0lNUy1jSWfSAeMBQVVfeXFMT2N6Z19mVU1Zam9GOUFaVXpTZThvUFgtSWZtbGpCenkyRG14ZVJXM2RycTk1SnlyNVBGcmMzcnAxWGgyNGhuemc3NmNiby0tbzNwTy1BNDlDZmo0SVpZX09wYUtwX0pJNTMxS2VrZEdVNVJTZFRmTmFqRFBVb2JWdUs1SzZZbUFyZVdKNWFjd2FaSGZnREVrYjI1Z3NRSVJxY0RzR0VCUjVnMGNQbXZvMTlIc1VqV1E5S1JIeDNlUF9vT1E1YXB0T2VaVTlNNzR3QXlJVXVqUnRaSXdBVlNVOHBYbkU"
-    },
-    {
-      "title": "Opinion | Why the Stock Market Makes No Sense Right Now - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPc2hQSUk4Zkh2N1lfRkR1bWdwTjl6UE1WWXlzRlBpYkhaY2dVUVY2SXl1OXI4aWdYVTI2MkY4Rmt0RXZBaktuTjdBM2ZtZGk3b0Y5T3ZuUlF6ZzV5bDFjMnI0VVBGOVhFcDVvV3dxR21aTVNMY2NHYzNZNjhPUE5kNA?oc=5",
-      "source": "The New York Times",
-      "published_at": "Sat, 18 Apr 2026 07:00:00 GMT",
-      "summary": "Opinion | Why the Stock Market Makes No Sense Right Now The New York Times",
-      "guid": "CBMigAFBVV95cUxPc2hQSUk4Zkh2N1lfRkR1bWdwTjl6UE1WWXlzRlBpYkhaY2dVUVY2SXl1OXI4aWdYVTI2MkY4Rmt0RXZBaktuTjdBM2ZtZGk3b0Y5T3ZuUlF6ZzV5bDFjMnI0VVBGOVhFcDVvV3dxR21aTVNMY2NHYzNZNjhPUE5kNA"
     },
     {
       "title": "Stock Market Week Ahead: Hyperscaler Blitz, Federal Reserve Transition - Investor's Business Daily",
@@ -85,6 +61,30 @@
       "published_at": "Wed, 29 Apr 2026 18:00:47 GMT",
       "summary": "Fed holds rates steady but with highest level of dissent since 1992 CNBC",
       "guid": "CBMif0FVX3lxTFBTWklKY0pZemxlMnNiSkhXZEpUNFVXZk84QjNkM2tWT0pTa3BoSGZZXzVnM3ZoWld5eFJ5VUxkelVSU2s0dzV2SjZfR1VURnNnbFIxSWwzdDgzaEtrU3d5eXdFQUstOVltc1VvZWFvcDVNaUZoLUJMSDJPRjJDV2PSAYQBQVVfeXFMT3JUdkVsMGxZOVpyVXFIS3FCSkdWN1ZZakdEMlRGVTVuR1diSFpGR09TVWtzUmpVUFByS3NzN3VVblVuQnNYbHMzTktsZWVtaXVCS2owaU1nNlhBYzFaNlZEQlNLM2xNdnNWLWJWazZQRnpWcy1tNnZneU15VHB4aWgtTnVG"
+    },
+    {
+      "title": "The Federal Reserve's April Inflation Forecast Has Been Updated, and It's a Good News-Bad News Scenario for Wall Street - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSXlnaml0dlc1UW4zaVZHWDB0eWRubVZCOEM4d2NxZWtsOE42TUw2YUh0ZVE0Tmw0MnFzcTBYdUFyZ1MzemdrZGRDOFNVbzBrWEYxa2p3SEhzekluaGVHR3ROeUxsWE50SGd4YVh6RThUdDdmemxER3ZwNkh4alE5ZldvM2xJdU9VSGpQcmhHdmdSa2RGeXNtRg?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Mon, 27 Apr 2026 10:06:00 GMT",
+      "summary": "The Federal Reserve's April Inflation Forecast Has Been Updated, and It's a Good News-Bad News Scenario for Wall Street The Motley Fool",
+      "guid": "CBMimAFBVV95cUxPSXlnaml0dlc1UW4zaVZHWDB0eWRubVZCOEM4d2NxZWtsOE42TUw2YUh0ZVE0Tmw0MnFzcTBYdUFyZ1MzemdrZGRDOFNVbzBrWEYxa2p3SEhzekluaGVHR3ROeUxsWE50SGd4YVh6RThUdDdmemxER3ZwNkh4alE5ZldvM2xJdU9VSGpQcmhHdmdSa2RGeXNtRg"
+    },
+    {
+      "title": "Ray Dalio says Federal Reserve will \" lose its credibility’ if Trump’s pick for Fed Chair, Kevin Warsh, lowers rates - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeTYwS1RBeXJ0T3lJdDh2YklEYUtTM2poMlluR2lRS3FLaHM4N1gzMVVhVFcwRUticHBzT284ckRuUGgtRTJHZEM3MzlUT09wdlhpN2FyWm85QWZ2YUFEeXpsREFOSlpNNjBRbHNpUVFkUGYxcWFvVGhkdUY1SGgwakJKVjluNDlnT21mb2tvUHpoMFV3M2Iw?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Wed, 29 Apr 2026 17:35:00 GMT",
+      "summary": "Ray Dalio says Federal Reserve will \" lose its credibility’ if Trump’s pick for Fed Chair, Kevin Warsh, lowers rates Yahoo Finance",
+      "guid": "CBMilwFBVV95cUxNeTYwS1RBeXJ0T3lJdDh2YklEYUtTM2poMlluR2lRS3FLaHM4N1gzMVVhVFcwRUticHBzT284ckRuUGgtRTJHZEM3MzlUT09wdlhpN2FyWm85QWZ2YUFEeXpsREFOSlpNNjBRbHNpUVFkUGYxcWFvVGhkdUY1SGgwakJKVjluNDlnT21mb2tvUHpoMFV3M2Iw"
+    },
+    {
+      "title": "The Federal Reserve's April Inflation Forecast Was Just Updated -- and the Outlook for the Stock Market Worsened, Yet Again - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTTh0V2taVE9vNXZpUWtabzhXYWpqMXhtYVI0VlQ5cU9nV00zU2RZa0VacEdOTTQ5M19Ha2NaWmF2VDA3REZvU0NySFdoRjlkSnlNdnpGdnZVcmxCN1VaYTF0ai03QjRISkFLcS1RNnJDMmlGLXIwNTFiV2VxN1B0Z1JlX0Jxblh5VF9wSW5uOU4tMzUzRmJN?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Mon, 20 Apr 2026 07:00:00 GMT",
+      "summary": "The Federal Reserve's April Inflation Forecast Was Just Updated -- and the Outlook for the Stock Market Worsened, Yet Again The Motley Fool",
+      "guid": "CBMilwFBVV95cUxQTTh0V2taVE9vNXZpUWtabzhXYWpqMXhtYVI0VlQ5cU9nV00zU2RZa0VacEdOTTQ5M19Ha2NaWmF2VDA3REZvU0NySFdoRjlkSnlNdnpGdnZVcmxCN1VaYTF0ai03QjRISkFLcS1RNnJDMmlGLXIwNTFiV2VxN1B0Z1JlX0Jxblh5VF9wSW5uOU4tMzUzRmJN"
     }
   ]
 }
