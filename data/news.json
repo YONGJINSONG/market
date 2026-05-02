@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T06:28:47Z",
+  "generated_at": "2026-05-02T08:07:02Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,12 +7,12 @@
   },
   "items": [
     {
-      "title": "Top Stock Market Highlights of the Week: US Federal Reserve, Boustead Singapore, Nanofilm Technologies and CapitaLand Integrated Commercial Trust - Yahoo Finance Singapore",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTkZ4dW9TMlhwQkpWQy0zbDNvTElsRHU4QVoyUk9uZ3Zic1VTNEhRQUFLVTFnNl9ldnlWdlVWeTRBWmYzcjBFaW5JTlhGQ1BrdkVzQlJYSkRDWDgxaFl6Q1ZyZ1lfU21OUVViOURqU2FDbGNpRmlESXZ0R0pmdEQ5WDMzY09oaFpx?oc=5",
-      "source": "Yahoo Finance Singapore",
-      "published_at": "Fri, 01 May 2026 23:30:00 GMT",
-      "summary": "Top Stock Market Highlights of the Week: US Federal Reserve, Boustead Singapore, Nanofilm Technologies and CapitaLand Integrated Commercial Trust Yahoo Finance Singapore",
-      "guid": "CBMiiAFBVV95cUxQTkZ4dW9TMlhwQkpWQy0zbDNvTElsRHU4QVoyUk9uZ3Zic1VTNEhRQUFLVTFnNl9ldnlWdlVWeTRBWmYzcjBFaW5JTlhGQ1BrdkVzQlJYSkRDWDgxaFl6Q1ZyZ1lfU21OUVViOURqU2FDbGNpRmlESXZ0R0pmdEQ5WDMzY09oaFpx"
+      "title": "The Federal Reserve's April Inflation Forecast Has Been Updated, and It's a Good News-Bad News Scenario for Wall Street - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONDNRem1jQUM4QjlRVzdEV0ZZYmlNbk5JYURFdHowV2drZDk1dDJJNk5aaTFEWkZpTEhyS09fZHlMZFpIVnpGTU9JdUY4Skl5QlNpTTRraDVTU1laMjZuNmZqdTkwRF9VUlZYRmVTRnBVU0o3RjB0YXgtam5aa0NTc3FyTmdYQTlaQ1NSZ1JrUzFmcUp5dTlBdnFNeFNwWjlDemxPcmRHUUpvQQ?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Mon, 27 Apr 2026 09:26:00 GMT",
+      "summary": "The Federal Reserve's April Inflation Forecast Has Been Updated, and It's a Good News-Bad News Scenario for Wall Street Yahoo Finance",
+      "guid": "CBMiqgFBVV95cUxONDNRem1jQUM4QjlRVzdEV0ZZYmlNbk5JYURFdHowV2drZDk1dDJJNk5aaTFEWkZpTEhyS09fZHlMZFpIVnpGTU9JdUY4Skl5QlNpTTRraDVTU1laMjZuNmZqdTkwRF9VUlZYRmVTRnBVU0o3RjB0YXgtam5aa0NTc3FyTmdYQTlaQ1NSZ1JrUzFmcUp5dTlBdnFNeFNwWjlDemxPcmRHUUpvQQ"
     },
     {
       "title": "Fed Officials Cite Inflation Concerns in Defending Dissents - The New York Times",
@@ -39,28 +39,12 @@
       "guid": "CBMioAFBVV95cUxOcGNyWnBVU0o1Ql9jY2w0djNLZlB6Wkt4d3NlRmkta19xRWpia250Rl9uMUU5RzF1Qzd3UmMza0liOXB3RzRPZE45YllmZHdyeVp0eFdyZ2ZaUVlWMS1xcE9oalRDZlRjYWgwN3BLb1Aybk1NSFVRRzJkakxWZFItdkJ4LTBEckpuZEwzb3BHQkxkaEFkRHlLZzdjMkVTdC1p"
     },
     {
-      "title": "Stocks are back at records, but one CIO says investors are overlooking a major change in the post-Iran-war market - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNXy1RWlJIYUVuLTV2TGMyRUNPV1JkTFhBaDgzY2NHb196NXJRejFyUHlKbWIxOGRCbUt5NU93aklucHpHTU1kWnFwOTBwdnd1NWU3enJGUXg2Q3dZSlZGWjRuQXZjVHB2SWRuTzBlOXFGYWZGQXlCWTFLbHF6b0MyLWplNXVWR3dvLW9uVVlJcFI5Tk5fUVd1Q2tfVzZKdTV0dkE?oc=5",
-      "source": "Business Insider",
-      "published_at": "Mon, 27 Apr 2026 15:52:00 GMT",
-      "summary": "Stocks are back at records, but one CIO says investors are overlooking a major change in the post-Iran-war market Business Insider",
-      "guid": "CBMiogFBVV95cUxNXy1RWlJIYUVuLTV2TGMyRUNPV1JkTFhBaDgzY2NHb196NXJRejFyUHlKbWIxOGRCbUt5NU93aklucHpHTU1kWnFwOTBwdnd1NWU3enJGUXg2Q3dZSlZGWjRuQXZjVHB2SWRuTzBlOXFGYWZGQXlCWTFLbHF6b0MyLWplNXVWR3dvLW9uVVlJcFI5Tk5fUVd1Q2tfVzZKdTV0dkE"
-    },
-    {
       "title": "Oil spikes while divided Federal Reserve keeps interest rates unchanged - Nonstop Local News",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNRjNXSWF5M0RlazBtZlRHUC1yc3l0aEpPeWRROWRJWGdiRjRrWEJvUWxvQ29sb19lZDk3OGhZOExXU2FuOGZaNVk4X3FoZmdmTm53RGdESkVLTWRqZVBVQm5kb1c4TXBZOUFWM2MzemUxVkczT09MejYyUjFXQkstOGppWEhHWHpDS3RfXzVnakNFZ1V3NmJteHJseXRjQko5WkpIcUh0bDFXNzdwUjIxdkY1LWpSOWtaOGRjR2huUHV3ZFI0aHN2VVI0cFhpTm1WaXN6ZVh4MnFuQkZkYzhaemdCZFpwLS1xQlBvbEN2Zw?oc=5",
       "source": "Nonstop Local News",
       "published_at": "Wed, 29 Apr 2026 20:47:49 GMT",
       "summary": "Oil spikes while divided Federal Reserve keeps interest rates unchanged Nonstop Local News",
       "guid": "CBMi7wFBVV95cUxNRjNXSWF5M0RlazBtZlRHUC1yc3l0aEpPeWRROWRJWGdiRjRrWEJvUWxvQ29sb19lZDk3OGhZOExXU2FuOGZaNVk4X3FoZmdmTm53RGdESkVLTWRqZVBVQm5kb1c4TXBZOUFWM2MzemUxVkczT09MejYyUjFXQkstOGppWEhHWHpDS3RfXzVnakNFZ1V3NmJteHJseXRjQko5WkpIcUh0bDFXNzdwUjIxdkY1LWpSOWtaOGRjR2huUHV3ZFI0aHN2VVI0cFhpTm1WaXN6ZVh4MnFuQkZkYzhaemdCZFpwLS1xQlBvbEN2Zw"
-    },
-    {
-      "title": "The Federal Reserve's April Inflation Forecast Has Been Updated, and It's a Good News-Bad News Scenario for Wall Street - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONDNRem1jQUM4QjlRVzdEV0ZZYmlNbk5JYURFdHowV2drZDk1dDJJNk5aaTFEWkZpTEhyS09fZHlMZFpIVnpGTU9JdUY4Skl5QlNpTTRraDVTU1laMjZuNmZqdTkwRF9VUlZYRmVTRnBVU0o3RjB0YXgtam5aa0NTc3FyTmdYQTlaQ1NSZ1JrUzFmcUp5dTlBdnFNeFNwWjlDemxPcmRHUUpvQQ?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Mon, 27 Apr 2026 09:26:00 GMT",
-      "summary": "The Federal Reserve's April Inflation Forecast Has Been Updated, and It's a Good News-Bad News Scenario for Wall Street Yahoo Finance",
-      "guid": "CBMiqgFBVV95cUxONDNRem1jQUM4QjlRVzdEV0ZZYmlNbk5JYURFdHowV2drZDk1dDJJNk5aaTFEWkZpTEhyS09fZHlMZFpIVnpGTU9JdUY4Skl5QlNpTTRraDVTU1laMjZuNmZqdTkwRF9VUlZYRmVTRnBVU0o3RjB0YXgtam5aa0NTc3FyTmdYQTlaQ1NSZ1JrUzFmcUp5dTlBdnFNeFNwWjlDemxPcmRHUUpvQQ"
     },
     {
       "title": "Federal Reserve's April Meeting Starts Today: What You Need to Know - Investopedia",
@@ -85,6 +69,22 @@
       "published_at": "Wed, 29 Apr 2026 18:00:47 GMT",
       "summary": "Fed holds rates steady but with highest level of dissent since 1992 CNBC",
       "guid": "CBMif0FVX3lxTFBTWklKY0pZemxlMnNiSkhXZEpUNFVXZk84QjNkM2tWT0pTa3BoSGZZXzVnM3ZoWld5eFJ5VUxkelVSU2s0dzV2SjZfR1VURnNnbFIxSWwzdDgzaEtrU3d5eXdFQUstOVltc1VvZWFvcDVNaUZoLUJMSDJPRjJDV2PSAYQBQVVfeXFMT3JUdkVsMGxZOVpyVXFIS3FCSkdWN1ZZakdEMlRGVTVuR1diSFpGR09TVWtzUmpVUFByS3NzN3VVblVuQnNYbHMzTktsZWVtaXVCS2owaU1nNlhBYzFaNlZEQlNLM2xNdnNWLWJWazZQRnpWcy1tNnZneU15VHB4aWgtTnVG"
+    },
+    {
+      "title": "Stock Market Week Ahead: Hyperscaler Blitz, Federal Reserve Transition - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbVNHb0JHaWxMRU9KRHNWeTdZREcxWkd5Z2ZaeFpxbnNXVGxfcGVYTTlIdlBMaktBY2ZuT1E0Z3paSENvdVFYQ0cwTy10OElPMkF6WmNUWWxaUFk4N1puS2l5X3JhbnpCQ0oxNm5qQWRITFhBallCQnV2TF9VMWdLLXpOb1JxUDZGd1V1cHdQLS11dnFjUmtXNXBwa3pmb3pUN0wtaFhieUdQeDBNN0ZJSXpOOTJUOUt4Y0w3WkcydUROemRuRmpFRU1pSWNzb3BoMTVz?oc=5",
+      "source": "Investor's Business Daily",
+      "published_at": "Sat, 25 Apr 2026 10:30:00 GMT",
+      "summary": "Stock Market Week Ahead: Hyperscaler Blitz, Federal Reserve Transition Investor's Business Daily",
+      "guid": "CBMi0wFBVV95cUxQbVNHb0JHaWxMRU9KRHNWeTdZREcxWkd5Z2ZaeFpxbnNXVGxfcGVYTTlIdlBMaktBY2ZuT1E0Z3paSENvdVFYQ0cwTy10OElPMkF6WmNUWWxaUFk4N1puS2l5X3JhbnpCQ0oxNm5qQWRITFhBallCQnV2TF9VMWdLLXpOb1JxUDZGd1V1cHdQLS11dnFjUmtXNXBwa3pmb3pUN0wtaFhieUdQeDBNN0ZJSXpOOTJUOUt4Y0w3WkcydUROemRuRmpFRU1pSWNzb3BoMTVz"
+    },
+    {
+      "title": "The Federal Reserve's April Inflation Forecast Has Been Updated, and It's a Good News-Bad News Scenario for Wall Street - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSXlnaml0dlc1UW4zaVZHWDB0eWRubVZCOEM4d2NxZWtsOE42TUw2YUh0ZVE0Tmw0MnFzcTBYdUFyZ1MzemdrZGRDOFNVbzBrWEYxa2p3SEhzekluaGVHR3ROeUxsWE50SGd4YVh6RThUdDdmemxER3ZwNkh4alE5ZldvM2xJdU9VSGpQcmhHdmdSa2RGeXNtRg?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Mon, 27 Apr 2026 10:06:00 GMT",
+      "summary": "The Federal Reserve's April Inflation Forecast Has Been Updated, and It's a Good News-Bad News Scenario for Wall Street The Motley Fool",
+      "guid": "CBMimAFBVV95cUxPSXlnaml0dlc1UW4zaVZHWDB0eWRubVZCOEM4d2NxZWtsOE42TUw2YUh0ZVE0Tmw0MnFzcTBYdUFyZ1MzemdrZGRDOFNVbzBrWEYxa2p3SEhzekluaGVHR3ROeUxsWE50SGd4YVh6RThUdDdmemxER3ZwNkh4alE5ZldvM2xJdU9VSGpQcmhHdmdSa2RGeXNtRg"
     }
   ]
 }
