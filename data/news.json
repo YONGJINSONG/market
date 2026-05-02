@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T23:34:30Z",
+  "generated_at": "2026-05-02T01:16:29Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -13,22 +13,6 @@
       "published_at": "Fri, 01 May 2026 14:07:35 GMT",
       "summary": "Fed Officials Cite Inflation Concerns in Defending Dissents The New York Times",
       "guid": "CBMimAFBVV95cUxNWnppcEhreWdOeU1aaFEtc3ZlbE5PLUJ3U0JuRGJOU0xhd2VfUDZ3V2VicXR1YmVxeUI1akFfTWgwV1lCM08xQ05Keld5ZWdfTUFWS2J6bTdUcHY1YXcxblJHTExkbWFCYWZZdDlfUkg2Q2dHOG1zdlVkbEZvbmJoU2dFQi1XRUcwQThxSVNDb1o0MzI4YXlZVA"
-    },
-    {
-      "title": "The Federal Reserve's April Inflation Forecast Has Been Updated, and It's a Good News-Bad News Scenario for Wall Street - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONDNRem1jQUM4QjlRVzdEV0ZZYmlNbk5JYURFdHowV2drZDk1dDJJNk5aaTFEWkZpTEhyS09fZHlMZFpIVnpGTU9JdUY4Skl5QlNpTTRraDVTU1laMjZuNmZqdTkwRF9VUlZYRmVTRnBVU0o3RjB0YXgtam5aa0NTc3FyTmdYQTlaQ1NSZ1JrUzFmcUp5dTlBdnFNeFNwWjlDemxPcmRHUUpvQQ?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Mon, 27 Apr 2026 09:26:00 GMT",
-      "summary": "The Federal Reserve's April Inflation Forecast Has Been Updated, and It's a Good News-Bad News Scenario for Wall Street Yahoo Finance",
-      "guid": "CBMiqgFBVV95cUxONDNRem1jQUM4QjlRVzdEV0ZZYmlNbk5JYURFdHowV2drZDk1dDJJNk5aaTFEWkZpTEhyS09fZHlMZFpIVnpGTU9JdUY4Skl5QlNpTTRraDVTU1laMjZuNmZqdTkwRF9VUlZYRmVTRnBVU0o3RjB0YXgtam5aa0NTc3FyTmdYQTlaQ1NSZ1JrUzFmcUp5dTlBdnFNeFNwWjlDemxPcmRHUUpvQQ"
-    },
-    {
-      "title": "Weekly market commentary - blackrock.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
-      "source": "blackrock.com",
-      "published_at": "Mon, 27 Apr 2026 07:00:00 GMT",
-      "summary": "Weekly market commentary blackrock.com",
-      "guid": "CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw"
     },
     {
       "title": "Stock Market Investors Just Got Bad News From Fed Chair Nominee Kevin Warsh - The Motley Fool",
@@ -63,12 +47,20 @@
       "guid": "CBMi7wFBVV95cUxNRjNXSWF5M0RlazBtZlRHUC1yc3l0aEpPeWRROWRJWGdiRjRrWEJvUWxvQ29sb19lZDk3OGhZOExXU2FuOGZaNVk4X3FoZmdmTm53RGdESkVLTWRqZVBVQm5kb1c4TXBZOUFWM2MzemUxVkczT09MejYyUjFXQkstOGppWEhHWHpDS3RfXzVnakNFZ1V3NmJteHJseXRjQko5WkpIcUh0bDFXNzdwUjIxdkY1LWpSOWtaOGRjR2huUHV3ZFI0aHN2VVI0cFhpTm1WaXN6ZVh4MnFuQkZkYzhaemdCZFpwLS1xQlBvbEN2Zw"
     },
     {
-      "title": "Fed's Beth Hammack says no longer appropriate to signal rate cut bias - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcTBaUnVLWW5wc0d2RjJpb2ktS3p5SjF0ckhXNkEwWUdzbEZxY2VJSnNlaHEySFpGbHRrREdtUVpPcWN3eTl1WXMzOUl0cUhyV1d1V2luWW1tTEVyMVYtbTVJTmtzb2VuN3REQ2d6M0JlU2VhUGVDZF9tNi1aaHV5enpwNWFzZnNKZFJUZ2pkTXpzY29jNHc2aktxMkoxWnVTUDljczF0akk2bUhpM0MzZng1bXd3WUpTZHUzX000YWRxbEoxZkFNcVAwVWgtYk16d3dVQ1Iyc0lNUy1jSWfSAeMBQVVfeXFMT2N6Z19mVU1Zam9GOUFaVXpTZThvUFgtSWZtbGpCenkyRG14ZVJXM2RycTk1SnlyNVBGcmMzcnAxWGgyNGhuemc3NmNiby0tbzNwTy1BNDlDZmo0SVpZX09wYUtwX0pJNTMxS2VrZEdVNVJTZFRmTmFqRFBVb2JWdUs1SzZZbUFyZVdKNWFjd2FaSGZnREVrYjI1Z3NRSVJxY0RzR0VCUjVnMGNQbXZvMTlIc1VqV1E5S1JIeDNlUF9vT1E1YXB0T2VaVTlNNzR3QXlJVXVqUnRaSXdBVlNVOHBYbkU?oc=5",
-      "source": "The Economic Times",
-      "published_at": "Fri, 01 May 2026 13:07:10 GMT",
-      "summary": "Fed's Beth Hammack says no longer appropriate to signal rate cut bias The Economic Times",
-      "guid": "CBMi3gFBVV95cUxQcTBaUnVLWW5wc0d2RjJpb2ktS3p5SjF0ckhXNkEwWUdzbEZxY2VJSnNlaHEySFpGbHRrREdtUVpPcWN3eTl1WXMzOUl0cUhyV1d1V2luWW1tTEVyMVYtbTVJTmtzb2VuN3REQ2d6M0JlU2VhUGVDZF9tNi1aaHV5enpwNWFzZnNKZFJUZ2pkTXpzY29jNHc2aktxMkoxWnVTUDljczF0akk2bUhpM0MzZng1bXd3WUpTZHUzX000YWRxbEoxZkFNcVAwVWgtYk16d3dVQ1Iyc0lNUy1jSWfSAeMBQVVfeXFMT2N6Z19mVU1Zam9GOUFaVXpTZThvUFgtSWZtbGpCenkyRG14ZVJXM2RycTk1SnlyNVBGcmMzcnAxWGgyNGhuemc3NmNiby0tbzNwTy1BNDlDZmo0SVpZX09wYUtwX0pJNTMxS2VrZEdVNVJTZFRmTmFqRFBVb2JWdUs1SzZZbUFyZVdKNWFjd2FaSGZnREVrYjI1Z3NRSVJxY0RzR0VCUjVnMGNQbXZvMTlIc1VqV1E5S1JIeDNlUF9vT1E1YXB0T2VaVTlNNzR3QXlJVXVqUnRaSXdBVlNVOHBYbkU"
+      "title": "Top Stock Market Highlights of the Week: US Federal Reserve, Boustead Singapore, Nanofilm Technologies and CapitaLand Integrated Commercial Trust - The Smart Investor",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQNVFMV2ZOdjVhdkF5SW92NV83a2NjRUlQMjBCS2FCaU9udHl0TUE1QW9EblRtd2NfSko4RzNGNFNuZTNMTmllencySk1hZU9NSEhsZ1NOWHMtYXRLQklBNXJGUjlaMlFoaFU3VVp5eHJWR0RMbUpxd2NXX2hCRFVzbXNQMnRmaU13OFViVkZleTdGbGJfX0tibnNVLTdIeE1HSUp0aFJYU1RmNnhWUkMzTmFUOWpzUFp0ZFQybExvSVR5VVVMRFJtVTBKUmI0VWxzQ3ZfbzllVlpVWlZVcXJZN0E1VXQ4ZzJSVDhGbDBEMTRadjVTNFpLQkdEb0szbnJOdlBXeHV3?oc=5",
+      "source": "The Smart Investor",
+      "published_at": "Fri, 01 May 2026 23:30:00 GMT",
+      "summary": "Top Stock Market Highlights of the Week: US Federal Reserve, Boustead Singapore, Nanofilm Technologies and CapitaLand Integrated Commercial Trust The Smart Investor",
+      "guid": "CBMihgJBVV95cUxQNVFMV2ZOdjVhdkF5SW92NV83a2NjRUlQMjBCS2FCaU9udHl0TUE1QW9EblRtd2NfSko4RzNGNFNuZTNMTmllencySk1hZU9NSEhsZ1NOWHMtYXRLQklBNXJGUjlaMlFoaFU3VVp5eHJWR0RMbUpxd2NXX2hCRFVzbXNQMnRmaU13OFViVkZleTdGbGJfX0tibnNVLTdIeE1HSUp0aFJYU1RmNnhWUkMzTmFUOWpzUFp0ZFQybExvSVR5VVVMRFJtVTBKUmI0VWxzQ3ZfbzllVlpVWlZVcXJZN0E1VXQ4ZzJSVDhGbDBEMTRadjVTNFpLQkdEb0szbnJOdlBXeHV3"
+    },
+    {
+      "title": "Behind Powell’s High-Stakes Decision to Stay at the Fed - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ySHBaQnAwZ0Jwa2txSWlZMU5wU0swWUtXejY5WlA2eHFvTFgwaUlxLXRJRC1FUlY5LThEY2pwNF9rZ2dzTURPNFFReWxpaE84UUV3NW8xV044TUJOT3Jzb0gxOC1YcXIzWjZ6bm5zNUE4MWc?oc=5",
+      "source": "The New York Times",
+      "published_at": "Fri, 01 May 2026 12:33:00 GMT",
+      "summary": "Behind Powell’s High-Stakes Decision to Stay at the Fed The New York Times",
+      "guid": "CBMic0FVX3lxTE5ySHBaQnAwZ0Jwa2txSWlZMU5wU0swWUtXejY5WlA2eHFvTFgwaUlxLXRJRC1FUlY5LThEY2pwNF9rZ2dzTURPNFFReWxpaE84UUV3NW8xV044TUJOT3Jzb0gxOC1YcXIzWjZ6bm5zNUE4MWc"
     },
     {
       "title": "Stock Market Week Ahead: Hyperscaler Blitz, Federal Reserve Transition - Investor's Business Daily",
@@ -85,6 +77,14 @@
       "published_at": "Wed, 29 Apr 2026 18:00:47 GMT",
       "summary": "Fed holds rates steady but with highest level of dissent since 1992 CNBC",
       "guid": "CBMif0FVX3lxTFBTWklKY0pZemxlMnNiSkhXZEpUNFVXZk84QjNkM2tWT0pTa3BoSGZZXzVnM3ZoWld5eFJ5VUxkelVSU2s0dzV2SjZfR1VURnNnbFIxSWwzdDgzaEtrU3d5eXdFQUstOVltc1VvZWFvcDVNaUZoLUJMSDJPRjJDV2PSAYQBQVVfeXFMT3JUdkVsMGxZOVpyVXFIS3FCSkdWN1ZZakdEMlRGVTVuR1diSFpGR09TVWtzUmpVUFByS3NzN3VVblVuQnNYbHMzTktsZWVtaXVCS2owaU1nNlhBYzFaNlZEQlNLM2xNdnNWLWJWazZQRnpWcy1tNnZneU15VHB4aWgtTnVG"
+    },
+    {
+      "title": "Ray Dalio says Federal Reserve will \" lose its credibility’ if Trump’s pick for Fed Chair, Kevin Warsh, lowers rates - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeTYwS1RBeXJ0T3lJdDh2YklEYUtTM2poMlluR2lRS3FLaHM4N1gzMVVhVFcwRUticHBzT284ckRuUGgtRTJHZEM3MzlUT09wdlhpN2FyWm85QWZ2YUFEeXpsREFOSlpNNjBRbHNpUVFkUGYxcWFvVGhkdUY1SGgwakJKVjluNDlnT21mb2tvUHpoMFV3M2Iw?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Wed, 29 Apr 2026 17:35:00 GMT",
+      "summary": "Ray Dalio says Federal Reserve will \" lose its credibility’ if Trump’s pick for Fed Chair, Kevin Warsh, lowers rates Yahoo Finance",
+      "guid": "CBMilwFBVV95cUxNeTYwS1RBeXJ0T3lJdDh2YklEYUtTM2poMlluR2lRS3FLaHM4N1gzMVVhVFcwRUticHBzT284ckRuUGgtRTJHZEM3MzlUT09wdlhpN2FyWm85QWZ2YUFEeXpsREFOSlpNNjBRbHNpUVFkUGYxcWFvVGhkdUY1SGgwakJKVjluNDlnT21mb2tvUHpoMFV3M2Iw"
     }
   ]
 }
