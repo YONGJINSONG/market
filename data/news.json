@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-03T12:01:31Z",
+  "generated_at": "2026-05-03T13:46:12Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -15,12 +15,20 @@
       "guid": "CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw"
     },
     {
-      "title": "Stock Market Investors Just Got an Urgent Warning From Fed Chair Jerome Powell - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV1MtQzh3aEFhdkx5ZDlnM2RjalBQMVJXZl9KN2lfbnNJR1IxVzR2Z0V6cVJBZ0NaUDVaM2lPTjhwZkljZXFPSVlHQWdhMVRMbmFIVFk3Vy11cmlMcUc2amdvVzF3YU5fQUhuRGZBQ1g0RXh1UUYwejlsOHhibXM0dDdBVmg3WmdKQ241ZlZManRiZ09ma0E?oc=5",
+      "title": "The Stock Market Is Facing a Historic Federal Reserve Double Whammy on May 15 - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeFQ3WWNOUU42RU90dHdpcldvYk1jX3ZCaG50SjAxbkpuZ3h0YmRhbWNKUVRmZFdJMW5aZV94a2J6ejdQdDlkY1gzVmR5YWVTVG90UWE0cnZkSVo3TW5ZSXBUdVhZT3Biczh1OFphQWxNeDRiNkNTVEJnVTFhdU1WVHhZakU4TkU?oc=5",
+      "source": "AOL.com",
+      "published_at": "Sun, 03 May 2026 13:40:43 GMT",
+      "summary": "The Stock Market Is Facing a Historic Federal Reserve Double Whammy on May 15 AOL.com",
+      "guid": "CBMihwFBVV95cUxPeFQ3WWNOUU42RU90dHdpcldvYk1jX3ZCaG50SjAxbkpuZ3h0YmRhbWNKUVRmZFdJMW5aZV94a2J6ejdQdDlkY1gzVmR5YWVTVG90UWE0cnZkSVo3TW5ZSXBUdVhZT3Biczh1OFphQWxNeDRiNkNTVEJnVTFhdU1WVHhZakU4TkU"
+    },
+    {
+      "title": "The Stock Market Is Facing a Historic Federal Reserve Double Whammy on May 15 - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdnlQRHZneHhZYlBDNGV2NUJtMHFyejZCSmJhX3FrbHJfMlU2dkxPWnl1NEl2YWo0aFFQMEdIUXJuZUVhYUFaSm9hUzdhb0lfNXo0Um9NOVl6cFFTZTZFNGEtQlJiQ291UUNMTzFnOVBkZ0Q0YTFrTUZjTDJiQ096SHpocEZkdHhZTjZkdmtWSTVPYXZqZHo3YQ?oc=5",
       "source": "The Motley Fool",
-      "published_at": "Sun, 03 May 2026 08:22:06 GMT",
-      "summary": "Stock Market Investors Just Got an Urgent Warning From Fed Chair Jerome Powell The Motley Fool",
-      "guid": "CBMilgFBVV95cUxPV1MtQzh3aEFhdkx5ZDlnM2RjalBQMVJXZl9KN2lfbnNJR1IxVzR2Z0V6cVJBZ0NaUDVaM2lPTjhwZkljZXFPSVlHQWdhMVRMbmFIVFk3Vy11cmlMcUc2amdvVzF3YU5fQUhuRGZBQ1g0RXh1UUYwejlsOHhibXM0dDdBVmg3WmdKQ241ZlZManRiZ09ma0E"
+      "published_at": "Sun, 03 May 2026 13:38:24 GMT",
+      "summary": "The Stock Market Is Facing a Historic Federal Reserve Double Whammy on May 15 The Motley Fool",
+      "guid": "CBMimAFBVV95cUxQdnlQRHZneHhZYlBDNGV2NUJtMHFyejZCSmJhX3FrbHJfMlU2dkxPWnl1NEl2YWo0aFFQMEdIUXJuZUVhYUFaSm9hUzdhb0lfNXo0Um9NOVl6cFFTZTZFNGEtQlJiQ291UUNMTzFnOVBkZ0Q0YTFrTUZjTDJiQ096SHpocEZkdHhZTjZkdmtWSTVPYXZqZHo3YQ"
     },
     {
       "title": "Stock Market Investors Just Got an Urgent Warning From Fed Chair Jerome Powell - The Globe and Mail",
@@ -31,6 +39,14 @@
       "guid": "CBMi7gFBVV95cUxPdHctbFlYcnhqSDlIOVBzaXZtdHk3ZzFtTUJ5dnMtMnlzVUdZTThwTTRvZDZ6S0VHRnFQTzVUbXZaZkRjSGtzTXoyM0NNOTlobkltQUFEUXRMUm9TNXhiWl9jYW8xb3hyUnpMd2ZrZDE2cXNVNVkzd0hEQ1I1VXdrUEJSeHB0ZjB1UDVnM2RYY3F5emxMdWd6Um9Rd3dUdTlPRHFjbnVKd1pYOUtBckhFVnFRWmwxejN3TWF4TElMQ1UzUS00WXowT0dLeVdLR3BjYldLaEd2Z25RNG4ybGR0N2hqcTV6eGFWb0lvTjNn"
     },
     {
+      "title": "Tracker: The Federal Reserve’s Balance Sheet Assets - The American Action Forum",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0?oc=5",
+      "source": "The American Action Forum",
+      "published_at": "Sat, 02 May 2026 09:28:12 GMT",
+      "summary": "Tracker: The Federal Reserve’s Balance Sheet Assets The American Action Forum",
+      "guid": "CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0"
+    },
+    {
       "title": "Two harsh realities are keeping lower earners stuck while the wealthy pull ahead - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRENGRjRuUlZwdmliZDhiWU83VWozYmNHLU1qNUI4clBtNlRzeVNkSmFOTnRvSGV1NnV6ZTA5Y2szSlRqUTBUVnJJU2dRLWVIUWhQNnpYTjdMc1d6RWwxS2tSNWx4Q0VTeUR4bktYYV9GaVV4MHdkNlRnZ21qeUZFdHdtVXp2djduMXdpSXdkWGo1bFE?oc=5",
       "source": "Business Insider",
@@ -39,20 +55,12 @@
       "guid": "CBMikwFBVV95cUxPRENGRjRuUlZwdmliZDhiWU83VWozYmNHLU1qNUI4clBtNlRzeVNkSmFOTnRvSGV1NnV6ZTA5Y2szSlRqUTBUVnJJU2dRLWVIUWhQNnpYTjdMc1d6RWwxS2tSNWx4Q0VTeUR4bktYYV9GaVV4MHdkNlRnZ21qeUZFdHdtVXp2djduMXdpSXdkWGo1bFE"
     },
     {
-      "title": "Ray Dalio says Federal Reserve will \" lose its credibility’ if Trump’s pick for Fed Chair, Kevin Warsh, lowers rates - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeTYwS1RBeXJ0T3lJdDh2YklEYUtTM2poMlluR2lRS3FLaHM4N1gzMVVhVFcwRUticHBzT284ckRuUGgtRTJHZEM3MzlUT09wdlhpN2FyWm85QWZ2YUFEeXpsREFOSlpNNjBRbHNpUVFkUGYxcWFvVGhkdUY1SGgwakJKVjluNDlnT21mb2tvUHpoMFV3M2Iw?oc=5",
+      "title": "The Federal Reserve's April Inflation Forecast Has Been Updated, and It's a Good News-Bad News Scenario for Wall Street - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONDNRem1jQUM4QjlRVzdEV0ZZYmlNbk5JYURFdHowV2drZDk1dDJJNk5aaTFEWkZpTEhyS09fZHlMZFpIVnpGTU9JdUY4Skl5QlNpTTRraDVTU1laMjZuNmZqdTkwRF9VUlZYRmVTRnBVU0o3RjB0YXgtam5aa0NTc3FyTmdYQTlaQ1NSZ1JrUzFmcUp5dTlBdnFNeFNwWjlDemxPcmRHUUpvQQ?oc=5",
       "source": "Yahoo Finance",
-      "published_at": "Wed, 29 Apr 2026 17:35:00 GMT",
-      "summary": "Ray Dalio says Federal Reserve will \" lose its credibility’ if Trump’s pick for Fed Chair, Kevin Warsh, lowers rates Yahoo Finance",
-      "guid": "CBMilwFBVV95cUxNeTYwS1RBeXJ0T3lJdDh2YklEYUtTM2poMlluR2lRS3FLaHM4N1gzMVVhVFcwRUticHBzT284ckRuUGgtRTJHZEM3MzlUT09wdlhpN2FyWm85QWZ2YUFEeXpsREFOSlpNNjBRbHNpUVFkUGYxcWFvVGhkdUY1SGgwakJKVjluNDlnT21mb2tvUHpoMFV3M2Iw"
-    },
-    {
-      "title": "Oil spikes while divided Federal Reserve keeps interest rates unchanged - Nonstop Local News",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNRjNXSWF5M0RlazBtZlRHUC1yc3l0aEpPeWRROWRJWGdiRjRrWEJvUWxvQ29sb19lZDk3OGhZOExXU2FuOGZaNVk4X3FoZmdmTm53RGdESkVLTWRqZVBVQm5kb1c4TXBZOUFWM2MzemUxVkczT09MejYyUjFXQkstOGppWEhHWHpDS3RfXzVnakNFZ1V3NmJteHJseXRjQko5WkpIcUh0bDFXNzdwUjIxdkY1LWpSOWtaOGRjR2huUHV3ZFI0aHN2VVI0cFhpTm1WaXN6ZVh4MnFuQkZkYzhaemdCZFpwLS1xQlBvbEN2Zw?oc=5",
-      "source": "Nonstop Local News",
-      "published_at": "Wed, 29 Apr 2026 20:47:49 GMT",
-      "summary": "Oil spikes while divided Federal Reserve keeps interest rates unchanged Nonstop Local News",
-      "guid": "CBMi7wFBVV95cUxNRjNXSWF5M0RlazBtZlRHUC1yc3l0aEpPeWRROWRJWGdiRjRrWEJvUWxvQ29sb19lZDk3OGhZOExXU2FuOGZaNVk4X3FoZmdmTm53RGdESkVLTWRqZVBVQm5kb1c4TXBZOUFWM2MzemUxVkczT09MejYyUjFXQkstOGppWEhHWHpDS3RfXzVnakNFZ1V3NmJteHJseXRjQko5WkpIcUh0bDFXNzdwUjIxdkY1LWpSOWtaOGRjR2huUHV3ZFI0aHN2VVI0cFhpTm1WaXN6ZVh4MnFuQkZkYzhaemdCZFpwLS1xQlBvbEN2Zw"
+      "published_at": "Mon, 27 Apr 2026 09:26:00 GMT",
+      "summary": "The Federal Reserve's April Inflation Forecast Has Been Updated, and It's a Good News-Bad News Scenario for Wall Street Yahoo Finance",
+      "guid": "CBMiqgFBVV95cUxONDNRem1jQUM4QjlRVzdEV0ZZYmlNbk5JYURFdHowV2drZDk1dDJJNk5aaTFEWkZpTEhyS09fZHlMZFpIVnpGTU9JdUY4Skl5QlNpTTRraDVTU1laMjZuNmZqdTkwRF9VUlZYRmVTRnBVU0o3RjB0YXgtam5aa0NTc3FyTmdYQTlaQ1NSZ1JrUzFmcUp5dTlBdnFNeFNwWjlDemxPcmRHUUpvQQ"
     },
     {
       "title": "Fed Officials Cite Inflation Concerns in Defending Dissents - The New York Times",
@@ -63,28 +71,20 @@
       "guid": "CBMimAFBVV95cUxNWnppcEhreWdOeU1aaFEtc3ZlbE5PLUJ3U0JuRGJOU0xhd2VfUDZ3V2VicXR1YmVxeUI1akFfTWgwV1lCM08xQ05Keld5ZWdfTUFWS2J6bTdUcHY1YXcxblJHTExkbWFCYWZZdDlfUkg2Q2dHOG1zdlVkbEZvbmJoU2dFQi1XRUcwQThxSVNDb1o0MzI4YXlZVA"
     },
     {
+      "title": "Stock Market Investors Just Got an Urgent Warning From Fed Chair Jerome Powell - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV1MtQzh3aEFhdkx5ZDlnM2RjalBQMVJXZl9KN2lfbnNJR1IxVzR2Z0V6cVJBZ0NaUDVaM2lPTjhwZkljZXFPSVlHQWdhMVRMbmFIVFk3Vy11cmlMcUc2amdvVzF3YU5fQUhuRGZBQ1g0RXh1UUYwejlsOHhibXM0dDdBVmg3WmdKQ241ZlZManRiZ09ma0E?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Sun, 03 May 2026 08:22:06 GMT",
+      "summary": "Stock Market Investors Just Got an Urgent Warning From Fed Chair Jerome Powell The Motley Fool",
+      "guid": "CBMilgFBVV95cUxPV1MtQzh3aEFhdkx5ZDlnM2RjalBQMVJXZl9KN2lfbnNJR1IxVzR2Z0V6cVJBZ0NaUDVaM2lPTjhwZkljZXFPSVlHQWdhMVRMbmFIVFk3Vy11cmlMcUc2amdvVzF3YU5fQUhuRGZBQ1g0RXh1UUYwejlsOHhibXM0dDdBVmg3WmdKQ241ZlZManRiZ09ma0E"
+    },
+    {
       "title": "Despite change atop the Fed, investor hopes for rate cuts hit hurdles - Reuters",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYkNhTDhnbzBqQW50QV84ZE1VRnF1Y0l2VV8wYTdLTFVYbVdUTzlpY0paQ0IyM2REa2NmMWd3R2k1alB2OWFObmdIYkV3cjhiWl8wejk5T1FoTklBVS1uUThuQ0RJdUx4a0d2T1cwbEFDRXh4QnNZUTc5blBqRHNla0NOVU9nZkJmVi1IRXAwOUl1TVpRVS0tSm9PbnZPNHVYMHhTNnlaNWRscEFDM1FrTQ?oc=5",
       "source": "Reuters",
       "published_at": "Thu, 30 Apr 2026 10:22:23 GMT",
       "summary": "Despite change atop the Fed, investor hopes for rate cuts hit hurdles Reuters",
       "guid": "CBMisAFBVV95cUxOYkNhTDhnbzBqQW50QV84ZE1VRnF1Y0l2VV8wYTdLTFVYbVdUTzlpY0paQ0IyM2REa2NmMWd3R2k1alB2OWFObmdIYkV3cjhiWl8wejk5T1FoTklBVS1uUThuQ0RJdUx4a0d2T1cwbEFDRXh4QnNZUTc5blBqRHNla0NOVU9nZkJmVi1IRXAwOUl1TVpRVS0tSm9PbnZPNHVYMHhTNnlaNWRscEFDM1FrTQ"
-    },
-    {
-      "title": "Even With a New Leader, the Fed Won't Likely Cut Interest Rates Any Time Soon - Investopedia",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeEs3eDNrZWFpRm5nY3l2eHdFQ085QUtCcDJRRV9WMWU5V2drTEJJQ1FiNWtDem5vMUNSRnR3SnVVcW82TGx5NERuaGcweTZrd09SRXVKN3Y4eERhdDFqeGI0d1dOTTRseW1jUUlpeW5yR1RsTzBXeEFCZUJ2NkJ0QmNHR3FHQ0c5cmtvRVNOOXZwSmFEblJXZTc1aW1kblJaalF3eFJ4bWdiT2xQLW9GQ2ktWG8?oc=5",
-      "source": "Investopedia",
-      "published_at": "Fri, 01 May 2026 16:03:18 GMT",
-      "summary": "Even With a New Leader, the Fed Won't Likely Cut Interest Rates Any Time Soon Investopedia",
-      "guid": "CBMitAFBVV95cUxPeEs3eDNrZWFpRm5nY3l2eHdFQ085QUtCcDJRRV9WMWU5V2drTEJJQ1FiNWtDem5vMUNSRnR3SnVVcW82TGx5NERuaGcweTZrd09SRXVKN3Y4eERhdDFqeGI0d1dOTTRseW1jUUlpeW5yR1RsTzBXeEFCZUJ2NkJ0QmNHR3FHQ0c5cmtvRVNOOXZwSmFEblJXZTc1aW1kblJaalF3eFJ4bWdiT2xQLW9GQ2ktWG8"
-    },
-    {
-      "title": "Fed Chair Nominee Kevin Warsh Disagrees With Jerome Powell on This Key Fed Policy Supporting the Stock Market (Hint: Not Rate Cuts) - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNb1pBQ3hnVVgzV1JOT2N0RmpKRGJPM1pYeWNuZWtkc3hpRkF2SWQyMkRWcTRISEJhNVp0S083SmpNZXJwQ0twMjdXLTRlaHJSY2tBZ2NPYlM3U3JJdzl6OHhGRzdJemNRT1BaOUExV19QRDRhR2xhRlFVV0xtMFRtTmFSQ1ZPel9hYU1tZWljZw?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Sat, 02 May 2026 19:04:00 GMT",
-      "summary": "Fed Chair Nominee Kevin Warsh Disagrees With Jerome Powell on This Key Fed Policy Supporting the Stock Market (Hint: Not Rate Cuts) The Motley Fool",
-      "guid": "CBMijwFBVV95cUxNb1pBQ3hnVVgzV1JOT2N0RmpKRGJPM1pYeWNuZWtkc3hpRkF2SWQyMkRWcTRISEJhNVp0S083SmpNZXJwQ0twMjdXLTRlaHJSY2tBZ2NPYlM3U3JJdzl6OHhGRzdJemNRT1BaOUExV19QRDRhR2xhRlFVV0xtMFRtTmFSQ1ZPel9hYU1tZWljZw"
     }
   ]
 }
