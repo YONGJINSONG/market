@@ -1,19 +1,11 @@
 {
-  "generated_at": "2026-05-03T13:46:12Z",
+  "generated_at": "2026-05-03T14:40:09Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
-    {
-      "title": "Federal Reserve keeps interest rates steady as inflation uncertainty rises - U.S. Bank",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw?oc=5",
-      "source": "U.S. Bank",
-      "published_at": "Wed, 29 Apr 2026 07:00:00 GMT",
-      "summary": "Federal Reserve keeps interest rates steady as inflation uncertainty rises U.S. Bank",
-      "guid": "CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw"
-    },
     {
       "title": "The Stock Market Is Facing a Historic Federal Reserve Double Whammy on May 15 - AOL.com",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeFQ3WWNOUU42RU90dHdpcldvYk1jX3ZCaG50SjAxbkpuZ3h0YmRhbWNKUVRmZFdJMW5aZV94a2J6ejdQdDlkY1gzVmR5YWVTVG90UWE0cnZkSVo3TW5ZSXBUdVhZT3Biczh1OFphQWxNeDRiNkNTVEJnVTFhdU1WVHhZakU4TkU?oc=5",
@@ -23,12 +15,20 @@
       "guid": "CBMihwFBVV95cUxPeFQ3WWNOUU42RU90dHdpcldvYk1jX3ZCaG50SjAxbkpuZ3h0YmRhbWNKUVRmZFdJMW5aZV94a2J6ejdQdDlkY1gzVmR5YWVTVG90UWE0cnZkSVo3TW5ZSXBUdVhZT3Biczh1OFphQWxNeDRiNkNTVEJnVTFhdU1WVHhZakU4TkU"
     },
     {
-      "title": "The Stock Market Is Facing a Historic Federal Reserve Double Whammy on May 15 - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdnlQRHZneHhZYlBDNGV2NUJtMHFyejZCSmJhX3FrbHJfMlU2dkxPWnl1NEl2YWo0aFFQMEdIUXJuZUVhYUFaSm9hUzdhb0lfNXo0Um9NOVl6cFFTZTZFNGEtQlJiQ291UUNMTzFnOVBkZ0Q0YTFrTUZjTDJiQ096SHpocEZkdHhZTjZkdmtWSTVPYXZqZHo3YQ?oc=5",
+      "title": "Federal Reserve keeps interest rates steady as inflation uncertainty rises - U.S. Bank",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw?oc=5",
+      "source": "U.S. Bank",
+      "published_at": "Wed, 29 Apr 2026 07:00:00 GMT",
+      "summary": "Federal Reserve keeps interest rates steady as inflation uncertainty rises U.S. Bank",
+      "guid": "CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw"
+    },
+    {
+      "title": "Stock Market Investors Just Got an Urgent Warning From Fed Chair Jerome Powell - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV1MtQzh3aEFhdkx5ZDlnM2RjalBQMVJXZl9KN2lfbnNJR1IxVzR2Z0V6cVJBZ0NaUDVaM2lPTjhwZkljZXFPSVlHQWdhMVRMbmFIVFk3Vy11cmlMcUc2amdvVzF3YU5fQUhuRGZBQ1g0RXh1UUYwejlsOHhibXM0dDdBVmg3WmdKQ241ZlZManRiZ09ma0E?oc=5",
       "source": "The Motley Fool",
-      "published_at": "Sun, 03 May 2026 13:38:24 GMT",
-      "summary": "The Stock Market Is Facing a Historic Federal Reserve Double Whammy on May 15 The Motley Fool",
-      "guid": "CBMimAFBVV95cUxQdnlQRHZneHhZYlBDNGV2NUJtMHFyejZCSmJhX3FrbHJfMlU2dkxPWnl1NEl2YWo0aFFQMEdIUXJuZUVhYUFaSm9hUzdhb0lfNXo0Um9NOVl6cFFTZTZFNGEtQlJiQ291UUNMTzFnOVBkZ0Q0YTFrTUZjTDJiQ096SHpocEZkdHhZTjZkdmtWSTVPYXZqZHo3YQ"
+      "published_at": "Sun, 03 May 2026 09:12:00 GMT",
+      "summary": "Stock Market Investors Just Got an Urgent Warning From Fed Chair Jerome Powell The Motley Fool",
+      "guid": "CBMilgFBVV95cUxPV1MtQzh3aEFhdkx5ZDlnM2RjalBQMVJXZl9KN2lfbnNJR1IxVzR2Z0V6cVJBZ0NaUDVaM2lPTjhwZkljZXFPSVlHQWdhMVRMbmFIVFk3Vy11cmlMcUc2amdvVzF3YU5fQUhuRGZBQ1g0RXh1UUYwejlsOHhibXM0dDdBVmg3WmdKQ241ZlZManRiZ09ma0E"
     },
     {
       "title": "Stock Market Investors Just Got an Urgent Warning From Fed Chair Jerome Powell - The Globe and Mail",
@@ -39,20 +39,28 @@
       "guid": "CBMi7gFBVV95cUxPdHctbFlYcnhqSDlIOVBzaXZtdHk3ZzFtTUJ5dnMtMnlzVUdZTThwTTRvZDZ6S0VHRnFQTzVUbXZaZkRjSGtzTXoyM0NNOTlobkltQUFEUXRMUm9TNXhiWl9jYW8xb3hyUnpMd2ZrZDE2cXNVNVkzd0hEQ1I1VXdrUEJSeHB0ZjB1UDVnM2RYY3F5emxMdWd6Um9Rd3dUdTlPRHFjbnVKd1pYOUtBckhFVnFRWmwxejN3TWF4TElMQ1UzUS00WXowT0dLeVdLR3BjYldLaEd2Z25RNG4ybGR0N2hqcTV6eGFWb0lvTjNn"
     },
     {
-      "title": "Tracker: The Federal Reserve’s Balance Sheet Assets - The American Action Forum",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0?oc=5",
-      "source": "The American Action Forum",
-      "published_at": "Sat, 02 May 2026 09:28:12 GMT",
-      "summary": "Tracker: The Federal Reserve’s Balance Sheet Assets The American Action Forum",
-      "guid": "CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0"
-    },
-    {
       "title": "Two harsh realities are keeping lower earners stuck while the wealthy pull ahead - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRENGRjRuUlZwdmliZDhiWU83VWozYmNHLU1qNUI4clBtNlRzeVNkSmFOTnRvSGV1NnV6ZTA5Y2szSlRqUTBUVnJJU2dRLWVIUWhQNnpYTjdMc1d6RWwxS2tSNWx4Q0VTeUR4bktYYV9GaVV4MHdkNlRnZ21qeUZFdHdtVXp2djduMXdpSXdkWGo1bFE?oc=5",
       "source": "Business Insider",
       "published_at": "Sat, 02 May 2026 09:01:00 GMT",
       "summary": "Two harsh realities are keeping lower earners stuck while the wealthy pull ahead Business Insider",
       "guid": "CBMikwFBVV95cUxPRENGRjRuUlZwdmliZDhiWU83VWozYmNHLU1qNUI4clBtNlRzeVNkSmFOTnRvSGV1NnV6ZTA5Y2szSlRqUTBUVnJJU2dRLWVIUWhQNnpYTjdMc1d6RWwxS2tSNWx4Q0VTeUR4bktYYV9GaVV4MHdkNlRnZ21qeUZFdHdtVXp2djduMXdpSXdkWGo1bFE"
+    },
+    {
+      "title": "Tracker: The Federal Reserve’s Balance Sheet Assets - The American Action Forum",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0?oc=5",
+      "source": "The American Action Forum",
+      "published_at": "Fri, 01 May 2026 07:00:00 GMT",
+      "summary": "Tracker: The Federal Reserve’s Balance Sheet Assets The American Action Forum",
+      "guid": "CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0"
+    },
+    {
+      "title": "The stock market is facing a historic Federal Reserve double whammy on May 15 - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQLXNCTDJyQ1RIT0syZUlrb2hfSUF2WWpQSlBxWEhQRk5JdGFyOUNMdUpKTGtzMGQzc1VrMWNVUnV1UTQyX2RZV0FEbjRHNzRtVnF4eVVId051RG9DUHVwOEhUdHlWTUQ5S3Q3R21Pcm1HS3lBbzZUWlRQSlVXM1R0MXE1NHl3VFNGT0N0NmQ5Z1RIR05nS0txS01oVmlWdWNfS09GQzdrNC10b0djY1g3YnhJLU5FSExDS1hYN2VpNlFCZGl2NXpBQnpjM1hRSExyR3FhMVU0RVNQNWpNT0NlZjk3OUlmZkhLcDVF?oc=5",
+      "source": "MSN",
+      "published_at": "Sun, 03 May 2026 14:28:32 GMT",
+      "summary": "The stock market is facing a historic Federal Reserve double whammy on May 15 MSN",
+      "guid": "CBMi6wFBVV95cUxQLXNCTDJyQ1RIT0syZUlrb2hfSUF2WWpQSlBxWEhQRk5JdGFyOUNMdUpKTGtzMGQzc1VrMWNVUnV1UTQyX2RZV0FEbjRHNzRtVnF4eVVId051RG9DUHVwOEhUdHlWTUQ5S3Q3R21Pcm1HS3lBbzZUWlRQSlVXM1R0MXE1NHl3VFNGT0N0NmQ5Z1RIR05nS0txS01oVmlWdWNfS09GQzdrNC10b0djY1g3YnhJLU5FSExDS1hYN2VpNlFCZGl2NXpBQnpjM1hRSExyR3FhMVU0RVNQNWpNT0NlZjk3OUlmZkhLcDVF"
     },
     {
       "title": "The Federal Reserve's April Inflation Forecast Has Been Updated, and It's a Good News-Bad News Scenario for Wall Street - Yahoo Finance",
@@ -69,14 +77,6 @@
       "published_at": "Fri, 01 May 2026 12:05:40 GMT",
       "summary": "Fed Officials Cite Inflation Concerns in Defending Dissents The New York Times",
       "guid": "CBMimAFBVV95cUxNWnppcEhreWdOeU1aaFEtc3ZlbE5PLUJ3U0JuRGJOU0xhd2VfUDZ3V2VicXR1YmVxeUI1akFfTWgwV1lCM08xQ05Keld5ZWdfTUFWS2J6bTdUcHY1YXcxblJHTExkbWFCYWZZdDlfUkg2Q2dHOG1zdlVkbEZvbmJoU2dFQi1XRUcwQThxSVNDb1o0MzI4YXlZVA"
-    },
-    {
-      "title": "Stock Market Investors Just Got an Urgent Warning From Fed Chair Jerome Powell - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV1MtQzh3aEFhdkx5ZDlnM2RjalBQMVJXZl9KN2lfbnNJR1IxVzR2Z0V6cVJBZ0NaUDVaM2lPTjhwZkljZXFPSVlHQWdhMVRMbmFIVFk3Vy11cmlMcUc2amdvVzF3YU5fQUhuRGZBQ1g0RXh1UUYwejlsOHhibXM0dDdBVmg3WmdKQ241ZlZManRiZ09ma0E?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Sun, 03 May 2026 08:22:06 GMT",
-      "summary": "Stock Market Investors Just Got an Urgent Warning From Fed Chair Jerome Powell The Motley Fool",
-      "guid": "CBMilgFBVV95cUxPV1MtQzh3aEFhdkx5ZDlnM2RjalBQMVJXZl9KN2lfbnNJR1IxVzR2Z0V6cVJBZ0NaUDVaM2lPTjhwZkljZXFPSVlHQWdhMVRMbmFIVFk3Vy11cmlMcUc2amdvVzF3YU5fQUhuRGZBQ1g0RXh1UUYwejlsOHhibXM0dDdBVmg3WmdKQ241ZlZManRiZ09ma0E"
     },
     {
       "title": "Despite change atop the Fed, investor hopes for rate cuts hit hurdles - Reuters",
