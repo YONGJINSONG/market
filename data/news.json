@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-03T04:07:56Z",
+  "generated_at": "2026-05-03T06:36:49Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -47,12 +47,12 @@
       "guid": "CBMiqgFBVV95cUxONDNRem1jQUM4QjlRVzdEV0ZZYmlNbk5JYURFdHowV2drZDk1dDJJNk5aaTFEWkZpTEhyS09fZHlMZFpIVnpGTU9JdUY4Skl5QlNpTTRraDVTU1laMjZuNmZqdTkwRF9VUlZYRmVTRnBVU0o3RjB0YXgtam5aa0NTc3FyTmdYQTlaQ1NSZ1JrUzFmcUp5dTlBdnFNeFNwWjlDemxPcmRHUUpvQQ"
     },
     {
-      "title": "Weekly market commentary - blackrock.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
-      "source": "blackrock.com",
-      "published_at": "Mon, 27 Apr 2026 07:00:00 GMT",
-      "summary": "Weekly market commentary blackrock.com",
-      "guid": "CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw"
+      "title": "Fed Meeting Underscores Tough Task Ahead for Warsh - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNajVYQkdKM1JiYUxVRnFyaVpueTlyYl9TWU1xUDdxXzNGdWZUQzBLWEJwVG1rU3lXc0UwWTdKWV9icUNWMW1lQUZVanpjSk94Z09SVXJaeklUUmRpX2swMDJqdS05QlFWdjRramdqRUFZVzFjTXBobWlXTHJrRV90QTU4RDVNTWJYZEZjT01pWmJnYzk1aC10SHU3dElCRnpXWmpqZ2J3RTJhSUxo?oc=5",
+      "source": "The New York Times",
+      "published_at": "Thu, 30 Apr 2026 23:44:44 GMT",
+      "summary": "Fed Meeting Underscores Tough Task Ahead for Warsh The New York Times",
+      "guid": "CBMirAFBVV95cUxNajVYQkdKM1JiYUxVRnFyaVpueTlyYl9TWU1xUDdxXzNGdWZUQzBLWEJwVG1rU3lXc0UwWTdKWV9icUNWMW1lQUZVanpjSk94Z09SVXJaeklUUmRpX2swMDJqdS05QlFWdjRramdqRUFZVzFjTXBobWlXTHJrRV90QTU4RDVNTWJYZEZjT01pWmJnYzk1aC10SHU3dElCRnpXWmpqZ2J3RTJhSUxo"
     },
     {
       "title": "Fed holds rates steady but with highest level of dissent since 1992 - CNBC",
@@ -61,14 +61,6 @@
       "published_at": "Wed, 29 Apr 2026 18:00:47 GMT",
       "summary": "Fed holds rates steady but with highest level of dissent since 1992 CNBC",
       "guid": "CBMif0FVX3lxTFBTWklKY0pZemxlMnNiSkhXZEpUNFVXZk84QjNkM2tWT0pTa3BoSGZZXzVnM3ZoWld5eFJ5VUxkelVSU2s0dzV2SjZfR1VURnNnbFIxSWwzdDgzaEtrU3d5eXdFQUstOVltc1VvZWFvcDVNaUZoLUJMSDJPRjJDV2PSAYQBQVVfeXFMT3JUdkVsMGxZOVpyVXFIS3FCSkdWN1ZZakdEMlRGVTVuR1diSFpGR09TVWtzUmpVUFByS3NzN3VVblVuQnNYbHMzTktsZWVtaXVCS2owaU1nNlhBYzFaNlZEQlNLM2xNdnNWLWJWazZQRnpWcy1tNnZneU15VHB4aWgtTnVG"
-    },
-    {
-      "title": "Fed Meeting Underscores Tough Task Ahead for Warsh - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNajVYQkdKM1JiYUxVRnFyaVpueTlyYl9TWU1xUDdxXzNGdWZUQzBLWEJwVG1rU3lXc0UwWTdKWV9icUNWMW1lQUZVanpjSk94Z09SVXJaeklUUmRpX2swMDJqdS05QlFWdjRramdqRUFZVzFjTXBobWlXTHJrRV90QTU4RDVNTWJYZEZjT01pWmJnYzk1aC10SHU3dElCRnpXWmpqZ2J3RTJhSUxo?oc=5",
-      "source": "The New York Times",
-      "published_at": "Thu, 30 Apr 2026 23:44:44 GMT",
-      "summary": "Fed Meeting Underscores Tough Task Ahead for Warsh The New York Times",
-      "guid": "CBMirAFBVV95cUxNajVYQkdKM1JiYUxVRnFyaVpueTlyYl9TWU1xUDdxXzNGdWZUQzBLWEJwVG1rU3lXc0UwWTdKWV9icUNWMW1lQUZVanpjSk94Z09SVXJaeklUUmRpX2swMDJqdS05QlFWdjRramdqRUFZVzFjTXBobWlXTHJrRV90QTU4RDVNTWJYZEZjT01pWmJnYzk1aC10SHU3dElCRnpXWmpqZ2J3RTJhSUxo"
     },
     {
       "title": "Oil spikes while divided Federal Reserve keeps interest rates unchanged - Nonstop Local News",
@@ -85,6 +77,14 @@
       "published_at": "Sat, 02 May 2026 08:39:07 GMT",
       "summary": "The Likelihood of a Stock Market Crash Under President Donald Trump Is Rapidly Rising -- and There's One Undeniable Catalyst to Blame The Globe and Mail",
       "guid": "CBMivAJBVV95cUxNaElQTjNNWjFsa05jQXJjaDNsQ2k4clQtNmN5ZEhuc1pfdnYyRlRMdlhNN1RfS1o5MEhzdGhzdndzOVNoMXVnNzZqN1l2aURxWHU1XzlrcVAwcHFQS2V6SV9ZZ1JOYllCZkVCV3RyZk5Kcmh5M19ndi1WS2tFNjFTemFJTmFQU21vREs4OXRUbVlyX3o4ZFRCQU5xTUpyX0dOdnlsUTVMNjFMRjNzNWc5T3ZJME9sVHV4Z2dJMWdFczhvclNiajExeGw0dVZORTdaYVlKSk40SE16aF80TWEwUUNFaTdqdGRQNlJtSnpNakhkZ3hJakJnb2ZYdDdoSFRGOUtyLXRsbmZPbW50SEthai01Uzk5UENMd2pZZU9lLWhCeVdPdF9sTWlETGktdWNEVzBINkNhM0owMlIw"
+    },
+    {
+      "title": "Even With a New Leader, the Fed Won't Likely Cut Interest Rates Any Time Soon - Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeEs3eDNrZWFpRm5nY3l2eHdFQ085QUtCcDJRRV9WMWU5V2drTEJJQ1FiNWtDem5vMUNSRnR3SnVVcW82TGx5NERuaGcweTZrd09SRXVKN3Y4eERhdDFqeGI0d1dOTTRseW1jUUlpeW5yR1RsTzBXeEFCZUJ2NkJ0QmNHR3FHQ0c5cmtvRVNOOXZwSmFEblJXZTc1aW1kblJaalF3eFJ4bWdiT2xQLW9GQ2ktWG8?oc=5",
+      "source": "Investopedia",
+      "published_at": "Fri, 01 May 2026 16:03:18 GMT",
+      "summary": "Even With a New Leader, the Fed Won't Likely Cut Interest Rates Any Time Soon Investopedia",
+      "guid": "CBMitAFBVV95cUxPeEs3eDNrZWFpRm5nY3l2eHdFQ085QUtCcDJRRV9WMWU5V2drTEJJQ1FiNWtDem5vMUNSRnR3SnVVcW82TGx5NERuaGcweTZrd09SRXVKN3Y4eERhdDFqeGI0d1dOTTRseW1jUUlpeW5yR1RsTzBXeEFCZUJ2NkJ0QmNHR3FHQ0c5cmtvRVNOOXZwSmFEblJXZTc1aW1kblJaalF3eFJ4bWdiT2xQLW9GQ2ktWG8"
     }
   ]
 }
