@@ -1,19 +1,11 @@
 {
-  "generated_at": "2026-05-04T17:08:04Z",
+  "generated_at": "2026-05-04T18:52:29Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
-    {
-      "title": "The Fed Could Crush Trump’s Bull Market — Here’s the Warning Wall Street Is Missing - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV3BaOXFTYnptc2xjVlpKZkpEdnJiRnBtT2Z4VXNCbjY4cTlmVC1ITE9uNk1ULVhsZU8wc0c3dTh1cFhOMVZqNDh4TkQ1a2o2VWplbnlfX2QwQ05MaGVpZW9EZUhkdnE1blM4N29ZYzFHMWx2UUpQcnQyR2Y4OTlhbGJxSXA1bVN1ZlBFMUlwZktZRkVndzBic0xyXzFkekgxamxKbl9IUnNpSmtwRk9IRThrYjBCMlJ2Qi1MMUFDcjc?oc=5",
-      "source": "24/7 Wall St.",
-      "published_at": "Mon, 04 May 2026 12:54:43 GMT",
-      "summary": "The Fed Could Crush Trump’s Bull Market — Here’s the Warning Wall Street Is Missing 24/7 Wall St.",
-      "guid": "CBMiwAFBVV95cUxNV3BaOXFTYnptc2xjVlpKZkpEdnJiRnBtT2Z4VXNCbjY4cTlmVC1ITE9uNk1ULVhsZU8wc0c3dTh1cFhOMVZqNDh4TkQ1a2o2VWplbnlfX2QwQ05MaGVpZW9EZUhkdnE1blM4N29ZYzFHMWx2UUpQcnQyR2Y4OTlhbGJxSXA1bVN1ZlBFMUlwZktZRkVndzBic0xyXzFkekgxamxKbl9IUnNpSmtwRk9IRThrYjBCMlJ2Qi1MMUFDcjc"
-    },
     {
       "title": "Federal Reserve keeps interest rates steady as inflation uncertainty rises - U.S. Bank",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw?oc=5",
@@ -23,12 +15,12 @@
       "guid": "CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw"
     },
     {
-      "title": "Two harsh realities are keeping lower earners stuck while the wealthy pull ahead - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRENGRjRuUlZwdmliZDhiWU83VWozYmNHLU1qNUI4clBtNlRzeVNkSmFOTnRvSGV1NnV6ZTA5Y2szSlRqUTBUVnJJU2dRLWVIUWhQNnpYTjdMc1d6RWwxS2tSNWx4Q0VTeUR4bktYYV9GaVV4MHdkNlRnZ21qeUZFdHdtVXp2djduMXdpSXdkWGo1bFE?oc=5",
-      "source": "Business Insider",
-      "published_at": "Sat, 02 May 2026 09:01:00 GMT",
-      "summary": "Two harsh realities are keeping lower earners stuck while the wealthy pull ahead Business Insider",
-      "guid": "CBMikwFBVV95cUxPRENGRjRuUlZwdmliZDhiWU83VWozYmNHLU1qNUI4clBtNlRzeVNkSmFOTnRvSGV1NnV6ZTA5Y2szSlRqUTBUVnJJU2dRLWVIUWhQNnpYTjdMc1d6RWwxS2tSNWx4Q0VTeUR4bktYYV9GaVV4MHdkNlRnZ21qeUZFdHdtVXp2djduMXdpSXdkWGo1bFE"
+      "title": "The Fed Could Crush Trump’s Bull Market — Here’s the Warning Wall Street Is Missing - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV3BaOXFTYnptc2xjVlpKZkpEdnJiRnBtT2Z4VXNCbjY4cTlmVC1ITE9uNk1ULVhsZU8wc0c3dTh1cFhOMVZqNDh4TkQ1a2o2VWplbnlfX2QwQ05MaGVpZW9EZUhkdnE1blM4N29ZYzFHMWx2UUpQcnQyR2Y4OTlhbGJxSXA1bVN1ZlBFMUlwZktZRkVndzBic0xyXzFkekgxamxKbl9IUnNpSmtwRk9IRThrYjBCMlJ2Qi1MMUFDcjc?oc=5",
+      "source": "24/7 Wall St.",
+      "published_at": "Mon, 04 May 2026 12:54:43 GMT",
+      "summary": "The Fed Could Crush Trump’s Bull Market — Here’s the Warning Wall Street Is Missing 24/7 Wall St.",
+      "guid": "CBMiwAFBVV95cUxNV3BaOXFTYnptc2xjVlpKZkpEdnJiRnBtT2Z4VXNCbjY4cTlmVC1ITE9uNk1ULVhsZU8wc0c3dTh1cFhOMVZqNDh4TkQ1a2o2VWplbnlfX2QwQ05MaGVpZW9EZUhkdnE1blM4N29ZYzFHMWx2UUpQcnQyR2Y4OTlhbGJxSXA1bVN1ZlBFMUlwZktZRkVndzBic0xyXzFkekgxamxKbl9IUnNpSmtwRk9IRThrYjBCMlJ2Qi1MMUFDcjc"
     },
     {
       "title": "The Stock Market Is Facing a Historic Federal Reserve Double Whammy on May 15 - AOL.com",
@@ -37,6 +29,14 @@
       "published_at": "Sun, 03 May 2026 13:40:43 GMT",
       "summary": "The Stock Market Is Facing a Historic Federal Reserve Double Whammy on May 15 AOL.com",
       "guid": "CBMihwFBVV95cUxPeFQ3WWNOUU42RU90dHdpcldvYk1jX3ZCaG50SjAxbkpuZ3h0YmRhbWNKUVRmZFdJMW5aZV94a2J6ejdQdDlkY1gzVmR5YWVTVG90UWE0cnZkSVo3TW5ZSXBUdVhZT3Biczh1OFphQWxNeDRiNkNTVEJnVTFhdU1WVHhZakU4TkU"
+    },
+    {
+      "title": "Two harsh realities are keeping lower earners stuck while the wealthy pull ahead - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRENGRjRuUlZwdmliZDhiWU83VWozYmNHLU1qNUI4clBtNlRzeVNkSmFOTnRvSGV1NnV6ZTA5Y2szSlRqUTBUVnJJU2dRLWVIUWhQNnpYTjdMc1d6RWwxS2tSNWx4Q0VTeUR4bktYYV9GaVV4MHdkNlRnZ21qeUZFdHdtVXp2djduMXdpSXdkWGo1bFE?oc=5",
+      "source": "Business Insider",
+      "published_at": "Sat, 02 May 2026 09:01:00 GMT",
+      "summary": "Two harsh realities are keeping lower earners stuck while the wealthy pull ahead Business Insider",
+      "guid": "CBMikwFBVV95cUxPRENGRjRuUlZwdmliZDhiWU83VWozYmNHLU1qNUI4clBtNlRzeVNkSmFOTnRvSGV1NnV6ZTA5Y2szSlRqUTBUVnJJU2dRLWVIUWhQNnpYTjdMc1d6RWwxS2tSNWx4Q0VTeUR4bktYYV9GaVV4MHdkNlRnZ21qeUZFdHdtVXp2djduMXdpSXdkWGo1bFE"
     },
     {
       "title": "Fed Chair Nominee Kevin Warsh Disagrees With Jerome Powell on This Key Fed Policy Supporting the Stock Market (Hint: Not Rate Cuts) - The Motley Fool",
@@ -63,14 +63,6 @@
       "guid": "CBMizwFBVV95cUxNRE5FbG5kODQySDh2SnJ5bnYzME55NWRQNmNlNUNIRmczR1BLOEZYbks4UkZZWGZqQWJlTUdJbnFzTEQ4WndxYjNMeTluZU1GUklWVHNGS0dqbUgza1VueW1QXzEzWHhPeW1wWkFSaXpTbWthejV0elh1TFEwU1Zhb0JrSktFUDhoemJLQWVtNTE1cWVYX2lnTWhUd1Q4NVYxb21NeWN5YjdsVkkxeXJmaWhJZlEwM1hIZXNwaHlCOFdmTE1NZ0QxbVViWnMyYjQ"
     },
     {
-      "title": "JPMorgan's Jamie Dimon issued vague credit recession warning, but the bond market has more pressing issues - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPODVjcGVvTXlSTDl6SHVvUkVHTnBodEtUOHRqS0YyMWRGMWIyRE4xM1V1Q3ZXNkdQSUctUDZ5Z3JXLWw1elZTQTcyT2RUVTN3UFNrZUxEdFdEVFhSVUJOOWNnWm1yM2x4aTh6UnZfYTYyNGJ2V2VybUZuMHJwd2loN2E0b3ZKVU9POXFSX3BPczVuX1lCeUd5WDd5dng4SjTSAaQBQVVfeXFMT1Qydk5ZWVo4WlhzNjc5aGFXaF9aWldsUEYtNThjeUJSUDZzZ3NQTjNJT2NnZ2JCeEthSzNrUF9OVFB0dTRnSUtjX0M0ckFVT3I2SW12ZWRTSDlaRlFjU2dkVllwUl9ZN2V1ZXM5SnVnYWZya3NSRm16M1hTUUJGbzQwaXozOVJxTlQwM3JUckVqNmdMR2M3VmxqSW1YVjMyRUVwenQ?oc=5",
-      "source": "CNBC",
-      "published_at": "Sat, 02 May 2026 14:23:12 GMT",
-      "summary": "JPMorgan's Jamie Dimon issued vague credit recession warning, but the bond market has more pressing issues CNBC",
-      "guid": "CBMinwFBVV95cUxPODVjcGVvTXlSTDl6SHVvUkVHTnBodEtUOHRqS0YyMWRGMWIyRE4xM1V1Q3ZXNkdQSUctUDZ5Z3JXLWw1elZTQTcyT2RUVTN3UFNrZUxEdFdEVFhSVUJOOWNnWm1yM2x4aTh6UnZfYTYyNGJ2V2VybUZuMHJwd2loN2E0b3ZKVU9POXFSX3BPczVuX1lCeUd5WDd5dng4SjTSAaQBQVVfeXFMT1Qydk5ZWVo4WlhzNjc5aGFXaF9aWldsUEYtNThjeUJSUDZzZ3NQTjNJT2NnZ2JCeEthSzNrUF9OVFB0dTRnSUtjX0M0ckFVT3I2SW12ZWRTSDlaRlFjU2dkVllwUl9ZN2V1ZXM5SnVnYWZya3NSRm16M1hTUUJGbzQwaXozOVJxTlQwM3JUckVqNmdMR2M3VmxqSW1YVjMyRUVwenQ"
-    },
-    {
       "title": "Stock Market Week Ahead: Hyperscaler Blitz, Federal Reserve Transition - Investor's Business Daily",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbVNHb0JHaWxMRU9KRHNWeTdZREcxWkd5Z2ZaeFpxbnNXVGxfcGVYTTlIdlBMaktBY2ZuT1E0Z3paSENvdVFYQ0cwTy10OElPMkF6WmNUWWxaUFk4N1puS2l5X3JhbnpCQ0oxNm5qQWRITFhBallCQnV2TF9VMWdLLXpOb1JxUDZGd1V1cHdQLS11dnFjUmtXNXBwa3pmb3pUN0wtaFhieUdQeDBNN0ZJSXpOOTJUOUt4Y0w3WkcydUROemRuRmpFRU1pSWNzb3BoMTVz?oc=5",
       "source": "Investor's Business Daily",
@@ -85,6 +77,14 @@
       "published_at": "Mon, 04 May 2026 11:27:01 GMT",
       "summary": "NCLH Stock Slips Pre-Market: Cruise Giant Flags Booking Weakness – Retail Slams Guidance Cut As ‘Terrible’ Stocktwits",
       "guid": "CBMitAFBVV95cUxPUTZhZ2VlS2t2ZGRsWDhfQlJnWHhsdVFiQkVtZzdkUmtSaS1kajRJN0JTMG54MDBSelBoTFN3dUVSeEhURHNJU1NWZWZxemNmRUQwV2x4OTBhWGg5LWZIbmxnYmV5Nk5uQ2hFcURuRnVCVHJzazZYVUlpc2xldDFlX2FzWmpCcjl5WFdjN004SzBZZ19DNElUZVhRTHNOcDdBNTFjdnYzMm5XU1NQQnZ0N09UOGk"
+    },
+    {
+      "title": "Ray Dalio says Federal Reserve will \" lose its credibility’ if Trump’s pick for Fed Chair, Kevin Warsh, lowers rates - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeTYwS1RBeXJ0T3lJdDh2YklEYUtTM2poMlluR2lRS3FLaHM4N1gzMVVhVFcwRUticHBzT284ckRuUGgtRTJHZEM3MzlUT09wdlhpN2FyWm85QWZ2YUFEeXpsREFOSlpNNjBRbHNpUVFkUGYxcWFvVGhkdUY1SGgwakJKVjluNDlnT21mb2tvUHpoMFV3M2Iw?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Wed, 29 Apr 2026 17:35:00 GMT",
+      "summary": "Ray Dalio says Federal Reserve will \" lose its credibility’ if Trump’s pick for Fed Chair, Kevin Warsh, lowers rates Yahoo Finance",
+      "guid": "CBMilwFBVV95cUxNeTYwS1RBeXJ0T3lJdDh2YklEYUtTM2poMlluR2lRS3FLaHM4N1gzMVVhVFcwRUticHBzT284ckRuUGgtRTJHZEM3MzlUT09wdlhpN2FyWm85QWZ2YUFEeXpsREFOSlpNNjBRbHNpUVFkUGYxcWFvVGhkdUY1SGgwakJKVjluNDlnT21mb2tvUHpoMFV3M2Iw"
     }
   ]
 }
