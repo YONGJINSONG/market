@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-04T06:52:31Z",
+  "generated_at": "2026-05-04T09:10:42Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -23,20 +23,20 @@
       "guid": "CBMihwFBVV95cUxPeFQ3WWNOUU42RU90dHdpcldvYk1jX3ZCaG50SjAxbkpuZ3h0YmRhbWNKUVRmZFdJMW5aZV94a2J6ejdQdDlkY1gzVmR5YWVTVG90UWE0cnZkSVo3TW5ZSXBUdVhZT3Biczh1OFphQWxNeDRiNkNTVEJnVTFhdU1WVHhZakU4TkU"
     },
     {
-      "title": "Fed Chair Nominee Kevin Warsh Disagrees With Jerome Powell on This Key Fed Policy Supporting the Stock Market (Hint: Not Rate Cuts) - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNb1pBQ3hnVVgzV1JOT2N0RmpKRGJPM1pYeWNuZWtkc3hpRkF2SWQyMkRWcTRISEJhNVp0S083SmpNZXJwQ0twMjdXLTRlaHJSY2tBZ2NPYlM3U3JJdzl6OHhGRzdJemNRT1BaOUExV19QRDRhR2xhRlFVV0xtMFRtTmFSQ1ZPel9hYU1tZWljZw?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Sat, 02 May 2026 19:04:00 GMT",
-      "summary": "Fed Chair Nominee Kevin Warsh Disagrees With Jerome Powell on This Key Fed Policy Supporting the Stock Market (Hint: Not Rate Cuts) The Motley Fool",
-      "guid": "CBMijwFBVV95cUxNb1pBQ3hnVVgzV1JOT2N0RmpKRGJPM1pYeWNuZWtkc3hpRkF2SWQyMkRWcTRISEJhNVp0S083SmpNZXJwQ0twMjdXLTRlaHJSY2tBZ2NPYlM3U3JJdzl6OHhGRzdJemNRT1BaOUExV19QRDRhR2xhRlFVV0xtMFRtTmFSQ1ZPel9hYU1tZWljZw"
-    },
-    {
       "title": "Two harsh realities are keeping lower earners stuck while the wealthy pull ahead - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRENGRjRuUlZwdmliZDhiWU83VWozYmNHLU1qNUI4clBtNlRzeVNkSmFOTnRvSGV1NnV6ZTA5Y2szSlRqUTBUVnJJU2dRLWVIUWhQNnpYTjdMc1d6RWwxS2tSNWx4Q0VTeUR4bktYYV9GaVV4MHdkNlRnZ21qeUZFdHdtVXp2djduMXdpSXdkWGo1bFE?oc=5",
       "source": "Business Insider",
       "published_at": "Sat, 02 May 2026 09:01:00 GMT",
       "summary": "Two harsh realities are keeping lower earners stuck while the wealthy pull ahead Business Insider",
       "guid": "CBMikwFBVV95cUxPRENGRjRuUlZwdmliZDhiWU83VWozYmNHLU1qNUI4clBtNlRzeVNkSmFOTnRvSGV1NnV6ZTA5Y2szSlRqUTBUVnJJU2dRLWVIUWhQNnpYTjdMc1d6RWwxS2tSNWx4Q0VTeUR4bktYYV9GaVV4MHdkNlRnZ21qeUZFdHdtVXp2djduMXdpSXdkWGo1bFE"
+    },
+    {
+      "title": "Fed Chair Nominee Kevin Warsh Disagrees With Jerome Powell on This Key Fed Policy Supporting the Stock Market (Hint: Not Rate Cuts) - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNb1pBQ3hnVVgzV1JOT2N0RmpKRGJPM1pYeWNuZWtkc3hpRkF2SWQyMkRWcTRISEJhNVp0S083SmpNZXJwQ0twMjdXLTRlaHJSY2tBZ2NPYlM3U3JJdzl6OHhGRzdJemNRT1BaOUExV19QRDRhR2xhRlFVV0xtMFRtTmFSQ1ZPel9hYU1tZWljZw?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Sat, 02 May 2026 19:04:00 GMT",
+      "summary": "Fed Chair Nominee Kevin Warsh Disagrees With Jerome Powell on This Key Fed Policy Supporting the Stock Market (Hint: Not Rate Cuts) The Motley Fool",
+      "guid": "CBMijwFBVV95cUxNb1pBQ3hnVVgzV1JOT2N0RmpKRGJPM1pYeWNuZWtkc3hpRkF2SWQyMkRWcTRISEJhNVp0S083SmpNZXJwQ0twMjdXLTRlaHJSY2tBZ2NPYlM3U3JJdzl6OHhGRzdJemNRT1BaOUExV19QRDRhR2xhRlFVV0xtMFRtTmFSQ1ZPel9hYU1tZWljZw"
     },
     {
       "title": "Tracker: The Federal Reserve’s Balance Sheet Assets - The American Action Forum",
@@ -63,14 +63,6 @@
       "guid": "CBMinwFBVV95cUxPODVjcGVvTXlSTDl6SHVvUkVHTnBodEtUOHRqS0YyMWRGMWIyRE4xM1V1Q3ZXNkdQSUctUDZ5Z3JXLWw1elZTQTcyT2RUVTN3UFNrZUxEdFdEVFhSVUJOOWNnWm1yM2x4aTh6UnZfYTYyNGJ2V2VybUZuMHJwd2loN2E0b3ZKVU9POXFSX3BPczVuX1lCeUd5WDd5dng4SjTSAaQBQVVfeXFMT1Qydk5ZWVo4WlhzNjc5aGFXaF9aWldsUEYtNThjeUJSUDZzZ3NQTjNJT2NnZ2JCeEthSzNrUF9OVFB0dTRnSUtjX0M0ckFVT3I2SW12ZWRTSDlaRlFjU2dkVllwUl9ZN2V1ZXM5SnVnYWZya3NSRm16M1hTUUJGbzQwaXozOVJxTlQwM3JUckVqNmdMR2M3VmxqSW1YVjMyRUVwenQ"
     },
     {
-      "title": "Stock Market Investors Just Got an Urgent Warning From Fed Chair Jerome Powell - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOZEJkSFd3cFh6V3ZsTnE3ZlRwbVg1bUVZZHN1RTdyeTlWREFXM25UX3JjLW9mc3RQNWEyMUN1ZlZrX0ttU0cwOGx3VU9aVllfMDFHTERKWVdxaWhCSDFfUFJJNDBDNWU3UkxMQ2NsdXZQanFva0hSYXZsX3pNMTU0dXlLcHhKSmVVbVpVcE03anZPOGRjOWx0blVWNjRYc0g5dllWZVpoTy05bVEyb29DTEpseDBPYnJPX1B5eDRjRGpGdVR3NkwzdlJKU1UwU0xabWh6MWhndFJSNkVEWlhuUm5HdW1telVSNl9obUFrYjJMZGt3?oc=5",
-      "source": "The Globe and Mail",
-      "published_at": "Sun, 03 May 2026 08:58:24 GMT",
-      "summary": "Stock Market Investors Just Got an Urgent Warning From Fed Chair Jerome Powell The Globe and Mail",
-      "guid": "CBMi9AFBVV95cUxOZEJkSFd3cFh6V3ZsTnE3ZlRwbVg1bUVZZHN1RTdyeTlWREFXM25UX3JjLW9mc3RQNWEyMUN1ZlZrX0ttU0cwOGx3VU9aVllfMDFHTERKWVdxaWhCSDFfUFJJNDBDNWU3UkxMQ2NsdXZQanFva0hSYXZsX3pNMTU0dXlLcHhKSmVVbVpVcE03anZPOGRjOWx0blVWNjRYc0g5dllWZVpoTy05bVEyb29DTEpseDBPYnJPX1B5eDRjRGpGdVR3NkwzdlJKU1UwU0xabWh6MWhndFJSNkVEWlhuUm5HdW1telVSNl9obUFrYjJMZGt3"
-    },
-    {
       "title": "U.S. Stock Market Week Ahead: Jobs Report, Fed Split and Earnings Could Test Wall Street’s Record Run - TechStock²",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOM29PeEYyand1UHdkTDRFZXVuUjBOejBCSHc0SXY5dzB6MERaSGVuc2VPSy1uckpLMTlPV1NJTUc1WHZqMFU5dTZlZTJIU1VpNm90MmYzaEY3OTEtUGpBVTg3MkRZMWtVczMtVndZcjlveGNrWi1jdkZWTG9XbW1aS085bXpuQ3RPOUlpX0NkZHEzckNxRFNCSFpjMlMyaTNFTmR0MHhLaVdqejBXUWlnUzRWdHFXWjB4Q0E?oc=5",
       "source": "TechStock²",
@@ -79,12 +71,20 @@
       "guid": "CBMiugFBVV95cUxOM29PeEYyand1UHdkTDRFZXVuUjBOejBCSHc0SXY5dzB6MERaSGVuc2VPSy1uckpLMTlPV1NJTUc1WHZqMFU5dTZlZTJIU1VpNm90MmYzaEY3OTEtUGpBVTg3MkRZMWtVczMtVndZcjlveGNrWi1jdkZWTG9XbW1aS085bXpuQ3RPOUlpX0NkZHEzckNxRFNCSFpjMlMyaTNFTmR0MHhLaVdqejBXUWlnUzRWdHFXWjB4Q0E"
     },
     {
-      "title": "Ray Dalio says Federal Reserve will \" lose its credibility’ if Trump’s pick for Fed Chair, Kevin Warsh, lowers rates - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeTYwS1RBeXJ0T3lJdDh2YklEYUtTM2poMlluR2lRS3FLaHM4N1gzMVVhVFcwRUticHBzT284ckRuUGgtRTJHZEM3MzlUT09wdlhpN2FyWm85QWZ2YUFEeXpsREFOSlpNNjBRbHNpUVFkUGYxcWFvVGhkdUY1SGgwakJKVjluNDlnT21mb2tvUHpoMFV3M2Iw?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Wed, 29 Apr 2026 17:35:00 GMT",
-      "summary": "Ray Dalio says Federal Reserve will \" lose its credibility’ if Trump’s pick for Fed Chair, Kevin Warsh, lowers rates Yahoo Finance",
-      "guid": "CBMilwFBVV95cUxNeTYwS1RBeXJ0T3lJdDh2YklEYUtTM2poMlluR2lRS3FLaHM4N1gzMVVhVFcwRUticHBzT284ckRuUGgtRTJHZEM3MzlUT09wdlhpN2FyWm85QWZ2YUFEeXpsREFOSlpNNjBRbHNpUVFkUGYxcWFvVGhkdUY1SGgwakJKVjluNDlnT21mb2tvUHpoMFV3M2Iw"
+      "title": "Stock Market Investors Just Got an Urgent Warning From Fed Chair Jerome Powell - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOZEJkSFd3cFh6V3ZsTnE3ZlRwbVg1bUVZZHN1RTdyeTlWREFXM25UX3JjLW9mc3RQNWEyMUN1ZlZrX0ttU0cwOGx3VU9aVllfMDFHTERKWVdxaWhCSDFfUFJJNDBDNWU3UkxMQ2NsdXZQanFva0hSYXZsX3pNMTU0dXlLcHhKSmVVbVpVcE03anZPOGRjOWx0blVWNjRYc0g5dllWZVpoTy05bVEyb29DTEpseDBPYnJPX1B5eDRjRGpGdVR3NkwzdlJKU1UwU0xabWh6MWhndFJSNkVEWlhuUm5HdW1telVSNl9obUFrYjJMZGt3?oc=5",
+      "source": "The Globe and Mail",
+      "published_at": "Sun, 03 May 2026 08:58:24 GMT",
+      "summary": "Stock Market Investors Just Got an Urgent Warning From Fed Chair Jerome Powell The Globe and Mail",
+      "guid": "CBMi9AFBVV95cUxOZEJkSFd3cFh6V3ZsTnE3ZlRwbVg1bUVZZHN1RTdyeTlWREFXM25UX3JjLW9mc3RQNWEyMUN1ZlZrX0ttU0cwOGx3VU9aVllfMDFHTERKWVdxaWhCSDFfUFJJNDBDNWU3UkxMQ2NsdXZQanFva0hSYXZsX3pNMTU0dXlLcHhKSmVVbVpVcE03anZPOGRjOWx0blVWNjRYc0g5dllWZVpoTy05bVEyb29DTEpseDBPYnJPX1B5eDRjRGpGdVR3NkwzdlJKU1UwU0xabWh6MWhndFJSNkVEWlhuUm5HdW1telVSNl9obUFrYjJMZGt3"
+    },
+    {
+      "title": "Fed Officials Cite Inflation Concerns in Defending Dissents - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWnppcEhreWdOeU1aaFEtc3ZlbE5PLUJ3U0JuRGJOU0xhd2VfUDZ3V2VicXR1YmVxeUI1akFfTWgwV1lCM08xQ05Keld5ZWdfTUFWS2J6bTdUcHY1YXcxblJHTExkbWFCYWZZdDlfUkg2Q2dHOG1zdlVkbEZvbmJoU2dFQi1XRUcwQThxSVNDb1o0MzI4YXlZVA?oc=5",
+      "source": "The New York Times",
+      "published_at": "Fri, 01 May 2026 12:05:40 GMT",
+      "summary": "Fed Officials Cite Inflation Concerns in Defending Dissents The New York Times",
+      "guid": "CBMimAFBVV95cUxNWnppcEhreWdOeU1aaFEtc3ZlbE5PLUJ3U0JuRGJOU0xhd2VfUDZ3V2VicXR1YmVxeUI1akFfTWgwV1lCM08xQ05Keld5ZWdfTUFWS2J6bTdUcHY1YXcxblJHTExkbWFCYWZZdDlfUkg2Q2dHOG1zdlVkbEZvbmJoU2dFQi1XRUcwQThxSVNDb1o0MzI4YXlZVA"
     }
   ]
 }
