@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T10:43:50Z",
+  "generated_at": "2026-05-05T11:50:21Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -31,14 +31,6 @@
       "guid": "CBMingJBVV95cUxQY0FUQ2dvYVRPRVkwQnByTlRJV3BzZG5fT0Z5MnhTaWc4TzVaWDRpZUk5XzU3R2xkajM0ZjFmbUdWdWVqcGJ0MU9kZVBuYk5hbWxvNDVYUDdNSDJ2UXBWQW5ZX29BSGFFcXVISmNoYlY0dml1c2htbVdPUDJYRDhSUndna3Vsa3ZveklyN0xWajMyVUdoanRoNlFBUlhzMFRzdG9sMEQ5WmtVbWR5RkVJeHJ1TmZMM0w4aHF5YkZxMW5LeWU5LXJxcGx2aW43eHlVbXdkTzMtWllDZWtJZ3dhdzVVOXJ3RFN5bnREbExXQzQ1d0kwU3R6SVkyeVpyTTY5aExfYzdqM21yQ2M4OUlLdWxmeEpiYnd2Y2MxOF9B"
     },
     {
-      "title": "Two harsh realities are keeping lower earners stuck while the wealthy pull ahead - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRENGRjRuUlZwdmliZDhiWU83VWozYmNHLU1qNUI4clBtNlRzeVNkSmFOTnRvSGV1NnV6ZTA5Y2szSlRqUTBUVnJJU2dRLWVIUWhQNnpYTjdMc1d6RWwxS2tSNWx4Q0VTeUR4bktYYV9GaVV4MHdkNlRnZ21qeUZFdHdtVXp2djduMXdpSXdkWGo1bFE?oc=5",
-      "source": "Business Insider",
-      "published_at": "Sat, 02 May 2026 09:01:00 GMT",
-      "summary": "Two harsh realities are keeping lower earners stuck while the wealthy pull ahead Business Insider",
-      "guid": "CBMikwFBVV95cUxPRENGRjRuUlZwdmliZDhiWU83VWozYmNHLU1qNUI4clBtNlRzeVNkSmFOTnRvSGV1NnV6ZTA5Y2szSlRqUTBUVnJJU2dRLWVIUWhQNnpYTjdMc1d6RWwxS2tSNWx4Q0VTeUR4bktYYV9GaVV4MHdkNlRnZ21qeUZFdHdtVXp2djduMXdpSXdkWGo1bFE"
-    },
-    {
       "title": "Scatterplot of Inflation and the Share of Relative Price Increases - Federal Reserve Bank of Richmond",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWGswa3NHUE5OV2tzVVZESy1kUVVEdWstQllDb3VHNmZEaHE3aG5XLUFDR0p5NTM1T0tZQjRTUG43dVlwYXJXRENjNS1kUnBoTzZUaTJtQ1A3WnVZbGVxOVhuWEd5SzNJLXNNRTdZbmVhSGZ4SEhIdlNnTWtXaFl6RmdXelFtMVBVaEZFRGFSa3ZzN3JsQWRKY05tdWFzZw?oc=5",
       "source": "Federal Reserve Bank of Richmond",
@@ -55,20 +47,20 @@
       "guid": "CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0"
     },
     {
-      "title": "The Fed Could Crush Trump’s Bull Market — Here’s the Warning Wall Street Is Missing - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV3BaOXFTYnptc2xjVlpKZkpEdnJiRnBtT2Z4VXNCbjY4cTlmVC1ITE9uNk1ULVhsZU8wc0c3dTh1cFhOMVZqNDh4TkQ1a2o2VWplbnlfX2QwQ05MaGVpZW9EZUhkdnE1blM4N29ZYzFHMWx2UUpQcnQyR2Y4OTlhbGJxSXA1bVN1ZlBFMUlwZktZRkVndzBic0xyXzFkekgxamxKbl9IUnNpSmtwRk9IRThrYjBCMlJ2Qi1MMUFDcjc?oc=5",
-      "source": "24/7 Wall St.",
-      "published_at": "Mon, 04 May 2026 12:54:43 GMT",
-      "summary": "The Fed Could Crush Trump’s Bull Market — Here’s the Warning Wall Street Is Missing 24/7 Wall St.",
-      "guid": "CBMiwAFBVV95cUxNV3BaOXFTYnptc2xjVlpKZkpEdnJiRnBtT2Z4VXNCbjY4cTlmVC1ITE9uNk1ULVhsZU8wc0c3dTh1cFhOMVZqNDh4TkQ1a2o2VWplbnlfX2QwQ05MaGVpZW9EZUhkdnE1blM4N29ZYzFHMWx2UUpQcnQyR2Y4OTlhbGJxSXA1bVN1ZlBFMUlwZktZRkVndzBic0xyXzFkekgxamxKbl9IUnNpSmtwRk9IRThrYjBCMlJ2Qi1MMUFDcjc"
-    },
-    {
       "title": "The Stock Market Is Facing a Historic Federal Reserve Double Whammy on May 15 - AOL.com",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeFQ3WWNOUU42RU90dHdpcldvYk1jX3ZCaG50SjAxbkpuZ3h0YmRhbWNKUVRmZFdJMW5aZV94a2J6ejdQdDlkY1gzVmR5YWVTVG90UWE0cnZkSVo3TW5ZSXBUdVhZT3Biczh1OFphQWxNeDRiNkNTVEJnVTFhdU1WVHhZakU4TkU?oc=5",
       "source": "AOL.com",
       "published_at": "Sun, 03 May 2026 13:45:28 GMT",
       "summary": "The Stock Market Is Facing a Historic Federal Reserve Double Whammy on May 15 AOL.com",
       "guid": "CBMihwFBVV95cUxPeFQ3WWNOUU42RU90dHdpcldvYk1jX3ZCaG50SjAxbkpuZ3h0YmRhbWNKUVRmZFdJMW5aZV94a2J6ejdQdDlkY1gzVmR5YWVTVG90UWE0cnZkSVo3TW5ZSXBUdVhZT3Biczh1OFphQWxNeDRiNkNTVEJnVTFhdU1WVHhZakU4TkU"
+    },
+    {
+      "title": "The Fed Could Crush Trump’s Bull Market — Here’s the Warning Wall Street Is Missing - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV3BaOXFTYnptc2xjVlpKZkpEdnJiRnBtT2Z4VXNCbjY4cTlmVC1ITE9uNk1ULVhsZU8wc0c3dTh1cFhOMVZqNDh4TkQ1a2o2VWplbnlfX2QwQ05MaGVpZW9EZUhkdnE1blM4N29ZYzFHMWx2UUpQcnQyR2Y4OTlhbGJxSXA1bVN1ZlBFMUlwZktZRkVndzBic0xyXzFkekgxamxKbl9IUnNpSmtwRk9IRThrYjBCMlJ2Qi1MMUFDcjc?oc=5",
+      "source": "24/7 Wall St.",
+      "published_at": "Mon, 04 May 2026 12:54:43 GMT",
+      "summary": "The Fed Could Crush Trump’s Bull Market — Here’s the Warning Wall Street Is Missing 24/7 Wall St.",
+      "guid": "CBMiwAFBVV95cUxNV3BaOXFTYnptc2xjVlpKZkpEdnJiRnBtT2Z4VXNCbjY4cTlmVC1ITE9uNk1ULVhsZU8wc0c3dTh1cFhOMVZqNDh4TkQ1a2o2VWplbnlfX2QwQ05MaGVpZW9EZUhkdnE1blM4N29ZYzFHMWx2UUpQcnQyR2Y4OTlhbGJxSXA1bVN1ZlBFMUlwZktZRkVndzBic0xyXzFkekgxamxKbl9IUnNpSmtwRk9IRThrYjBCMlJ2Qi1MMUFDcjc"
     },
     {
       "title": "Stock Market Week Ahead: Hyperscaler Blitz, Federal Reserve Transition - Investor's Business Daily",
@@ -85,6 +77,14 @@
       "published_at": "Sat, 02 May 2026 19:04:00 GMT",
       "summary": "Fed Chair Nominee Kevin Warsh Disagrees With Jerome Powell on This Key Fed Policy Supporting the Stock Market (Hint: Not Rate Cuts) The Motley Fool",
       "guid": "CBMijwFBVV95cUxNb1pBQ3hnVVgzV1JOT2N0RmpKRGJPM1pYeWNuZWtkc3hpRkF2SWQyMkRWcTRISEJhNVp0S083SmpNZXJwQ0twMjdXLTRlaHJSY2tBZ2NPYlM3U3JJdzl6OHhGRzdJemNRT1BaOUExV19QRDRhR2xhRlFVV0xtMFRtTmFSQ1ZPel9hYU1tZWljZw"
+    },
+    {
+      "title": "The Federal Reserve Is Raising Red Flags, and the Stock Market Isn't Listening - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRjJsN0JkeGxvWlM2R2dFenRqOHZqRFlreGZsYjZHbTBtUVh4VGdDMHVQeS1IcGJZZXNHUFFSbFFJWHZmZDRtVG9XMURsOFJ4RmpnUHU3Q19fRlN4STBab1d2RXBNMVdoWGFUcVlmNzVYNG9LTG94VWVCdHpXUTJ1NF9yMzNPa2szdTV3UXM0ejB0NFE4UHVneFh0Rko?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Sun, 22 Mar 2026 07:00:00 GMT",
+      "summary": "The Federal Reserve Is Raising Red Flags, and the Stock Market Isn't Listening Yahoo Finance",
+      "guid": "CBMinAFBVV95cUxQRjJsN0JkeGxvWlM2R2dFenRqOHZqRFlreGZsYjZHbTBtUVh4VGdDMHVQeS1IcGJZZXNHUFFSbFFJWHZmZDRtVG9XMURsOFJ4RmpnUHU3Q19fRlN4STBab1d2RXBNMVdoWGFUcVlmNzVYNG9LTG94VWVCdHpXUTJ1NF9yMzNPa2szdTV3UXM0ejB0NFE4UHVneFh0Rko"
     }
   ]
 }
