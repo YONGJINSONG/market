@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T08:58:23Z",
+  "generated_at": "2026-05-05T10:43:50Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -24,11 +24,11 @@
     },
     {
       "title": "Yikes! The Federal Reserve's April and Quarterly Annualized Inflation Forecast Was Just Updated -- and It Isn't Pretty - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNWXI1QXJUclk5U1ZPRlkxeGMyMEgyOUQwX2NDZ2tqOHE5THZvNlBTTXVVMGlEMEhza1RZbklOV2dJU2FWNFlnLWxIeDNTMWk4cnkzaTZ5VHBDZmlrdU1pSVoyeGZYNGNRVWc5Z000aW9wcjZNQ3RLM29FS0JNMFRCcnlyU2lQdnVYMUdZSmdWdTFhLUdmU1dTNlVwZEJjbV9hdjVTUTdRMXFGaEctU1VXZXZNOGhDdXp6aW1tQXlrSW9TMGFIQVpfejdjWi1zX3ZGOXVzMU1aU2FSX2Nhclo0M3JVbWNyR0t1bjkzVE83dnNTMVhqU3dOMTdvdXJ0TUpXSk0zMVhBZlRKWFdPN0F2aGhnQnhiaTVhQWdtVVdHa19PYmtCT2VqeA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQY0FUQ2dvYVRPRVkwQnByTlRJV3BzZG5fT0Z5MnhTaWc4TzVaWDRpZUk5XzU3R2xkajM0ZjFmbUdWdWVqcGJ0MU9kZVBuYk5hbWxvNDVYUDdNSDJ2UXBWQW5ZX29BSGFFcXVISmNoYlY0dml1c2htbVdPUDJYRDhSUndna3Vsa3ZveklyN0xWajMyVUdoanRoNlFBUlhzMFRzdG9sMEQ5WmtVbWR5RkVJeHJ1TmZMM0w4aHF5YkZxMW5LeWU5LXJxcGx2aW43eHlVbXdkTzMtWllDZWtJZ3dhdzVVOXJ3RFN5bnREbExXQzQ1d0kwU3R6SVkyeVpyTTY5aExfYzdqM21yQ2M4OUlLdWxmeEpiYnd2Y2MxOF9B?oc=5",
       "source": "The Globe and Mail",
-      "published_at": "Tue, 05 May 2026 08:26:25 GMT",
+      "published_at": "Tue, 05 May 2026 08:38:33 GMT",
       "summary": "Yikes! The Federal Reserve's April and Quarterly Annualized Inflation Forecast Was Just Updated -- and It Isn't Pretty The Globe and Mail",
-      "guid": "CBMiqAJBVV95cUxNWXI1QXJUclk5U1ZPRlkxeGMyMEgyOUQwX2NDZ2tqOHE5THZvNlBTTXVVMGlEMEhza1RZbklOV2dJU2FWNFlnLWxIeDNTMWk4cnkzaTZ5VHBDZmlrdU1pSVoyeGZYNGNRVWc5Z000aW9wcjZNQ3RLM29FS0JNMFRCcnlyU2lQdnVYMUdZSmdWdTFhLUdmU1dTNlVwZEJjbV9hdjVTUTdRMXFGaEctU1VXZXZNOGhDdXp6aW1tQXlrSW9TMGFIQVpfejdjWi1zX3ZGOXVzMU1aU2FSX2Nhclo0M3JVbWNyR0t1bjkzVE83dnNTMVhqU3dOMTdvdXJ0TUpXSk0zMVhBZlRKWFdPN0F2aGhnQnhiaTVhQWdtVVdHa19PYmtCT2VqeA"
+      "guid": "CBMingJBVV95cUxQY0FUQ2dvYVRPRVkwQnByTlRJV3BzZG5fT0Z5MnhTaWc4TzVaWDRpZUk5XzU3R2xkajM0ZjFmbUdWdWVqcGJ0MU9kZVBuYk5hbWxvNDVYUDdNSDJ2UXBWQW5ZX29BSGFFcXVISmNoYlY0dml1c2htbVdPUDJYRDhSUndna3Vsa3ZveklyN0xWajMyVUdoanRoNlFBUlhzMFRzdG9sMEQ5WmtVbWR5RkVJeHJ1TmZMM0w4aHF5YkZxMW5LeWU5LXJxcGx2aW43eHlVbXdkTzMtWllDZWtJZ3dhdzVVOXJ3RFN5bnREbExXQzQ1d0kwU3R6SVkyeVpyTTY5aExfYzdqM21yQ2M4OUlLdWxmeEpiYnd2Y2MxOF9B"
     },
     {
       "title": "Two harsh realities are keeping lower earners stuck while the wealthy pull ahead - Business Insider",
@@ -37,14 +37,6 @@
       "published_at": "Sat, 02 May 2026 09:01:00 GMT",
       "summary": "Two harsh realities are keeping lower earners stuck while the wealthy pull ahead Business Insider",
       "guid": "CBMikwFBVV95cUxPRENGRjRuUlZwdmliZDhiWU83VWozYmNHLU1qNUI4clBtNlRzeVNkSmFOTnRvSGV1NnV6ZTA5Y2szSlRqUTBUVnJJU2dRLWVIUWhQNnpYTjdMc1d6RWwxS2tSNWx4Q0VTeUR4bktYYV9GaVV4MHdkNlRnZ21qeUZFdHdtVXp2djduMXdpSXdkWGo1bFE"
-    },
-    {
-      "title": "The Fed Could Crush Trump’s Bull Market — Here’s the Warning Wall Street Is Missing - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV3BaOXFTYnptc2xjVlpKZkpEdnJiRnBtT2Z4VXNCbjY4cTlmVC1ITE9uNk1ULVhsZU8wc0c3dTh1cFhOMVZqNDh4TkQ1a2o2VWplbnlfX2QwQ05MaGVpZW9EZUhkdnE1blM4N29ZYzFHMWx2UUpQcnQyR2Y4OTlhbGJxSXA1bVN1ZlBFMUlwZktZRkVndzBic0xyXzFkekgxamxKbl9IUnNpSmtwRk9IRThrYjBCMlJ2Qi1MMUFDcjc?oc=5",
-      "source": "24/7 Wall St.",
-      "published_at": "Mon, 04 May 2026 12:54:43 GMT",
-      "summary": "The Fed Could Crush Trump’s Bull Market — Here’s the Warning Wall Street Is Missing 24/7 Wall St.",
-      "guid": "CBMiwAFBVV95cUxNV3BaOXFTYnptc2xjVlpKZkpEdnJiRnBtT2Z4VXNCbjY4cTlmVC1ITE9uNk1ULVhsZU8wc0c3dTh1cFhOMVZqNDh4TkQ1a2o2VWplbnlfX2QwQ05MaGVpZW9EZUhkdnE1blM4N29ZYzFHMWx2UUpQcnQyR2Y4OTlhbGJxSXA1bVN1ZlBFMUlwZktZRkVndzBic0xyXzFkekgxamxKbl9IUnNpSmtwRk9IRThrYjBCMlJ2Qi1MMUFDcjc"
     },
     {
       "title": "Scatterplot of Inflation and the Share of Relative Price Increases - Federal Reserve Bank of Richmond",
@@ -63,6 +55,14 @@
       "guid": "CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0"
     },
     {
+      "title": "The Fed Could Crush Trump’s Bull Market — Here’s the Warning Wall Street Is Missing - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV3BaOXFTYnptc2xjVlpKZkpEdnJiRnBtT2Z4VXNCbjY4cTlmVC1ITE9uNk1ULVhsZU8wc0c3dTh1cFhOMVZqNDh4TkQ1a2o2VWplbnlfX2QwQ05MaGVpZW9EZUhkdnE1blM4N29ZYzFHMWx2UUpQcnQyR2Y4OTlhbGJxSXA1bVN1ZlBFMUlwZktZRkVndzBic0xyXzFkekgxamxKbl9IUnNpSmtwRk9IRThrYjBCMlJ2Qi1MMUFDcjc?oc=5",
+      "source": "24/7 Wall St.",
+      "published_at": "Mon, 04 May 2026 12:54:43 GMT",
+      "summary": "The Fed Could Crush Trump’s Bull Market — Here’s the Warning Wall Street Is Missing 24/7 Wall St.",
+      "guid": "CBMiwAFBVV95cUxNV3BaOXFTYnptc2xjVlpKZkpEdnJiRnBtT2Z4VXNCbjY4cTlmVC1ITE9uNk1ULVhsZU8wc0c3dTh1cFhOMVZqNDh4TkQ1a2o2VWplbnlfX2QwQ05MaGVpZW9EZUhkdnE1blM4N29ZYzFHMWx2UUpQcnQyR2Y4OTlhbGJxSXA1bVN1ZlBFMUlwZktZRkVndzBic0xyXzFkekgxamxKbl9IUnNpSmtwRk9IRThrYjBCMlJ2Qi1MMUFDcjc"
+    },
+    {
       "title": "The Stock Market Is Facing a Historic Federal Reserve Double Whammy on May 15 - AOL.com",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeFQ3WWNOUU42RU90dHdpcldvYk1jX3ZCaG50SjAxbkpuZ3h0YmRhbWNKUVRmZFdJMW5aZV94a2J6ejdQdDlkY1gzVmR5YWVTVG90UWE0cnZkSVo3TW5ZSXBUdVhZT3Biczh1OFphQWxNeDRiNkNTVEJnVTFhdU1WVHhZakU4TkU?oc=5",
       "source": "AOL.com",
@@ -71,20 +71,20 @@
       "guid": "CBMihwFBVV95cUxPeFQ3WWNOUU42RU90dHdpcldvYk1jX3ZCaG50SjAxbkpuZ3h0YmRhbWNKUVRmZFdJMW5aZV94a2J6ejdQdDlkY1gzVmR5YWVTVG90UWE0cnZkSVo3TW5ZSXBUdVhZT3Biczh1OFphQWxNeDRiNkNTVEJnVTFhdU1WVHhZakU4TkU"
     },
     {
-      "title": "JPMorgan's Jamie Dimon issued vague credit recession warning, but the bond market has more pressing issues - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPODVjcGVvTXlSTDl6SHVvUkVHTnBodEtUOHRqS0YyMWRGMWIyRE4xM1V1Q3ZXNkdQSUctUDZ5Z3JXLWw1elZTQTcyT2RUVTN3UFNrZUxEdFdEVFhSVUJOOWNnWm1yM2x4aTh6UnZfYTYyNGJ2V2VybUZuMHJwd2loN2E0b3ZKVU9POXFSX3BPczVuX1lCeUd5WDd5dng4SjTSAaQBQVVfeXFMT1Qydk5ZWVo4WlhzNjc5aGFXaF9aWldsUEYtNThjeUJSUDZzZ3NQTjNJT2NnZ2JCeEthSzNrUF9OVFB0dTRnSUtjX0M0ckFVT3I2SW12ZWRTSDlaRlFjU2dkVllwUl9ZN2V1ZXM5SnVnYWZya3NSRm16M1hTUUJGbzQwaXozOVJxTlQwM3JUckVqNmdMR2M3VmxqSW1YVjMyRUVwenQ?oc=5",
-      "source": "CNBC",
-      "published_at": "Sat, 02 May 2026 14:23:12 GMT",
-      "summary": "JPMorgan's Jamie Dimon issued vague credit recession warning, but the bond market has more pressing issues CNBC",
-      "guid": "CBMinwFBVV95cUxPODVjcGVvTXlSTDl6SHVvUkVHTnBodEtUOHRqS0YyMWRGMWIyRE4xM1V1Q3ZXNkdQSUctUDZ5Z3JXLWw1elZTQTcyT2RUVTN3UFNrZUxEdFdEVFhSVUJOOWNnWm1yM2x4aTh6UnZfYTYyNGJ2V2VybUZuMHJwd2loN2E0b3ZKVU9POXFSX3BPczVuX1lCeUd5WDd5dng4SjTSAaQBQVVfeXFMT1Qydk5ZWVo4WlhzNjc5aGFXaF9aWldsUEYtNThjeUJSUDZzZ3NQTjNJT2NnZ2JCeEthSzNrUF9OVFB0dTRnSUtjX0M0ckFVT3I2SW12ZWRTSDlaRlFjU2dkVllwUl9ZN2V1ZXM5SnVnYWZya3NSRm16M1hTUUJGbzQwaXozOVJxTlQwM3JUckVqNmdMR2M3VmxqSW1YVjMyRUVwenQ"
-    },
-    {
       "title": "Stock Market Week Ahead: Hyperscaler Blitz, Federal Reserve Transition - Investor's Business Daily",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbVNHb0JHaWxMRU9KRHNWeTdZREcxWkd5Z2ZaeFpxbnNXVGxfcGVYTTlIdlBMaktBY2ZuT1E0Z3paSENvdVFYQ0cwTy10OElPMkF6WmNUWWxaUFk4N1puS2l5X3JhbnpCQ0oxNm5qQWRITFhBallCQnV2TF9VMWdLLXpOb1JxUDZGd1V1cHdQLS11dnFjUmtXNXBwa3pmb3pUN0wtaFhieUdQeDBNN0ZJSXpOOTJUOUt4Y0w3WkcydUROemRuRmpFRU1pSWNzb3BoMTVz?oc=5",
       "source": "Investor's Business Daily",
       "published_at": "Sat, 25 Apr 2026 10:30:00 GMT",
       "summary": "Stock Market Week Ahead: Hyperscaler Blitz, Federal Reserve Transition Investor's Business Daily",
       "guid": "CBMi0wFBVV95cUxQbVNHb0JHaWxMRU9KRHNWeTdZREcxWkd5Z2ZaeFpxbnNXVGxfcGVYTTlIdlBMaktBY2ZuT1E0Z3paSENvdVFYQ0cwTy10OElPMkF6WmNUWWxaUFk4N1puS2l5X3JhbnpCQ0oxNm5qQWRITFhBallCQnV2TF9VMWdLLXpOb1JxUDZGd1V1cHdQLS11dnFjUmtXNXBwa3pmb3pUN0wtaFhieUdQeDBNN0ZJSXpOOTJUOUt4Y0w3WkcydUROemRuRmpFRU1pSWNzb3BoMTVz"
+    },
+    {
+      "title": "Fed Chair Nominee Kevin Warsh Disagrees With Jerome Powell on This Key Fed Policy Supporting the Stock Market (Hint: Not Rate Cuts) - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNb1pBQ3hnVVgzV1JOT2N0RmpKRGJPM1pYeWNuZWtkc3hpRkF2SWQyMkRWcTRISEJhNVp0S083SmpNZXJwQ0twMjdXLTRlaHJSY2tBZ2NPYlM3U3JJdzl6OHhGRzdJemNRT1BaOUExV19QRDRhR2xhRlFVV0xtMFRtTmFSQ1ZPel9hYU1tZWljZw?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Sat, 02 May 2026 19:04:00 GMT",
+      "summary": "Fed Chair Nominee Kevin Warsh Disagrees With Jerome Powell on This Key Fed Policy Supporting the Stock Market (Hint: Not Rate Cuts) The Motley Fool",
+      "guid": "CBMijwFBVV95cUxNb1pBQ3hnVVgzV1JOT2N0RmpKRGJPM1pYeWNuZWtkc3hpRkF2SWQyMkRWcTRISEJhNVp0S083SmpNZXJwQ0twMjdXLTRlaHJSY2tBZ2NPYlM3U3JJdzl6OHhGRzdJemNRT1BaOUExV19QRDRhR2xhRlFVV0xtMFRtTmFSQ1ZPel9hYU1tZWljZw"
     }
   ]
 }
