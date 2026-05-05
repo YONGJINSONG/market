@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T22:44:08Z",
+  "generated_at": "2026-05-05T23:32:47Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -55,22 +55,6 @@
       "guid": "CBMifkFVX3lxTE9iVklVUFZNMEYxT3puQnMxYy0zYU5vX29CUEVMUmNmWG5UMG1jalJIRjJELVVHQktycGZWaGRtdmtkTVN2elgxNlJzNGRqYy1naHQ5cURaYVlsYUZieVFlMzJWN0pjb2RnUWpCREgzcGNBTkNjbnpmT3JwM2ttZw"
     },
     {
-      "title": "Scatterplot of Inflation and the Share of Relative Price Increases - Federal Reserve Bank of Richmond",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWGswa3NHUE5OV2tzVVZESy1kUVVEdWstQllDb3VHNmZEaHE3aG5XLUFDR0p5NTM1T0tZQjRTUG43dVlwYXJXRENjNS1kUnBoTzZUaTJtQ1A3WnVZbGVxOVhuWEd5SzNJLXNNRTdZbmVhSGZ4SEhIdlNnTWtXaFl6RmdXelFtMVBVaEZFRGFSa3ZzN3JsQWRKY05tdWFzZw?oc=5",
-      "source": "Federal Reserve Bank of Richmond",
-      "published_at": "Fri, 01 May 2026 07:00:00 GMT",
-      "summary": "Scatterplot of Inflation and the Share of Relative Price Increases Federal Reserve Bank of Richmond",
-      "guid": "CBMingFBVV95cUxQWGswa3NHUE5OV2tzVVZESy1kUVVEdWstQllDb3VHNmZEaHE3aG5XLUFDR0p5NTM1T0tZQjRTUG43dVlwYXJXRENjNS1kUnBoTzZUaTJtQ1A3WnVZbGVxOVhuWEd5SzNJLXNNRTdZbmVhSGZ4SEhIdlNnTWtXaFl6RmdXelFtMVBVaEZFRGFSa3ZzN3JsQWRKY05tdWFzZw"
-    },
-    {
-      "title": "Tracker: The Federal Reserve’s Balance Sheet Assets - The American Action Forum",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0?oc=5",
-      "source": "The American Action Forum",
-      "published_at": "Fri, 01 May 2026 07:00:00 GMT",
-      "summary": "Tracker: The Federal Reserve’s Balance Sheet Assets The American Action Forum",
-      "guid": "CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0"
-    },
-    {
       "title": "US Stock Market Today: Nasdaq Hits Record as Oil Retreats and Earnings Lift Wall Street - TechStock²",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRVFEY3d6d0lYQ0RZS19PRGVzN2dVZ1N0cmNFMTA1Q3lGMklPM3g0d0swa1hqOUwyNUFSU191aTZKblVZeEYxbWlOR20wT2c0MGF3a0ZjMVlFTC1NU1pXX0ZGY1NET2lTa0E4a0trUEFSZWxnejNFdW9UMS0ydlpXTDBiX3dQejd3bHR5S1hwZVo4R0Vldk9HRnowOGctOTNtUWkzQnBuNUNZWjg?oc=5",
       "source": "TechStock²",
@@ -79,12 +63,28 @@
       "guid": "CBMiqwFBVV95cUxPRVFEY3d6d0lYQ0RZS19PRGVzN2dVZ1N0cmNFMTA1Q3lGMklPM3g0d0swa1hqOUwyNUFSU191aTZKblVZeEYxbWlOR20wT2c0MGF3a0ZjMVlFTC1NU1pXX0ZGY1NET2lTa0E4a0trUEFSZWxnejNFdW9UMS0ydlpXTDBiX3dQejd3bHR5S1hwZVo4R0Vldk9HRnowOGctOTNtUWkzQnBuNUNZWjg"
     },
     {
-      "title": "Yikes! The Federal Reserve's April and Quarterly Annualized Inflation Forecast Was Just Updated -- and It Isn't Pretty - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQY0FUQ2dvYVRPRVkwQnByTlRJV3BzZG5fT0Z5MnhTaWc4TzVaWDRpZUk5XzU3R2xkajM0ZjFmbUdWdWVqcGJ0MU9kZVBuYk5hbWxvNDVYUDdNSDJ2UXBWQW5ZX29BSGFFcXVISmNoYlY0dml1c2htbVdPUDJYRDhSUndna3Vsa3ZveklyN0xWajMyVUdoanRoNlFBUlhzMFRzdG9sMEQ5WmtVbWR5RkVJeHJ1TmZMM0w4aHF5YkZxMW5LeWU5LXJxcGx2aW43eHlVbXdkTzMtWllDZWtJZ3dhdzVVOXJ3RFN5bnREbExXQzQ1d0kwU3R6SVkyeVpyTTY5aExfYzdqM21yQ2M4OUlLdWxmeEpiYnd2Y2MxOF9B?oc=5",
-      "source": "The Globe and Mail",
-      "published_at": "Tue, 05 May 2026 08:38:33 GMT",
-      "summary": "Yikes! The Federal Reserve's April and Quarterly Annualized Inflation Forecast Was Just Updated -- and It Isn't Pretty The Globe and Mail",
-      "guid": "CBMingJBVV95cUxQY0FUQ2dvYVRPRVkwQnByTlRJV3BzZG5fT0Z5MnhTaWc4TzVaWDRpZUk5XzU3R2xkajM0ZjFmbUdWdWVqcGJ0MU9kZVBuYk5hbWxvNDVYUDdNSDJ2UXBWQW5ZX29BSGFFcXVISmNoYlY0dml1c2htbVdPUDJYRDhSUndna3Vsa3ZveklyN0xWajMyVUdoanRoNlFBUlhzMFRzdG9sMEQ5WmtVbWR5RkVJeHJ1TmZMM0w4aHF5YkZxMW5LeWU5LXJxcGx2aW43eHlVbXdkTzMtWllDZWtJZ3dhdzVVOXJ3RFN5bnREbExXQzQ1d0kwU3R6SVkyeVpyTTY5aExfYzdqM21yQ2M4OUlLdWxmeEpiYnd2Y2MxOF9B"
+      "title": "Market Reactions to Tariff Announcements - Federal Reserve Bank of San Francisco",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM1dfLWVxeDJGbVNDYU9vWU8xOW5Fbk9rWk5KREtjbWFDcWFfdzAyVE5WMDhINUpWbWVDVWZmRHBSSlN3blk5alBHd3B1RE5JSmVMRTd3SXhNQmZWdDllUDFCU1lwTk9zcmpBSmhmazM5OEhIWEVHMlhHTDY4M1luNXJ5TExQbi1RMjBLbmpZd3BqLU1zanlvM0hvVWhVcWtiSWZBOV9ENTJmTWUtQzIxdmprYlpGNnJzQk11T1ZfWQ?oc=5",
+      "source": "Federal Reserve Bank of San Francisco",
+      "published_at": "Mon, 06 Oct 2025 07:00:00 GMT",
+      "summary": "Market Reactions to Tariff Announcements Federal Reserve Bank of San Francisco",
+      "guid": "CBMivwFBVV95cUxOM1dfLWVxeDJGbVNDYU9vWU8xOW5Fbk9rWk5KREtjbWFDcWFfdzAyVE5WMDhINUpWbWVDVWZmRHBSSlN3blk5alBHd3B1RE5JSmVMRTd3SXhNQmZWdDllUDFCU1lwTk9zcmpBSmhmazM5OEhIWEVHMlhHTDY4M1luNXJ5TExQbi1RMjBLbmpZd3BqLU1zanlvM0hvVWhVcWtiSWZBOV9ENTJmTWUtQzIxdmprYlpGNnJzQk11T1ZfWQ"
+    },
+    {
+      "title": "The Federal Reserve's April Inflation Forecast Was Just Updated -- and the Outlook for the Stock Market Worsened, Yet Again - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTTh0V2taVE9vNXZpUWtabzhXYWpqMXhtYVI0VlQ5cU9nV00zU2RZa0VacEdOTTQ5M19Ha2NaWmF2VDA3REZvU0NySFdoRjlkSnlNdnpGdnZVcmxCN1VaYTF0ai03QjRISkFLcS1RNnJDMmlGLXIwNTFiV2VxN1B0Z1JlX0Jxblh5VF9wSW5uOU4tMzUzRmJN?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Mon, 20 Apr 2026 07:00:00 GMT",
+      "summary": "The Federal Reserve's April Inflation Forecast Was Just Updated -- and the Outlook for the Stock Market Worsened, Yet Again The Motley Fool",
+      "guid": "CBMilwFBVV95cUxQTTh0V2taVE9vNXZpUWtabzhXYWpqMXhtYVI0VlQ5cU9nV00zU2RZa0VacEdOTTQ5M19Ha2NaWmF2VDA3REZvU0NySFdoRjlkSnlNdnpGdnZVcmxCN1VaYTF0ai03QjRISkFLcS1RNnJDMmlGLXIwNTFiV2VxN1B0Z1JlX0Jxblh5VF9wSW5uOU4tMzUzRmJN"
+    },
+    {
+      "title": "The Fed Could Crush Trump’s Bull Market — Here’s the Warning Wall Street Is Missing - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV3BaOXFTYnptc2xjVlpKZkpEdnJiRnBtT2Z4VXNCbjY4cTlmVC1ITE9uNk1ULVhsZU8wc0c3dTh1cFhOMVZqNDh4TkQ1a2o2VWplbnlfX2QwQ05MaGVpZW9EZUhkdnE1blM4N29ZYzFHMWx2UUpQcnQyR2Y4OTlhbGJxSXA1bVN1ZlBFMUlwZktZRkVndzBic0xyXzFkekgxamxKbl9IUnNpSmtwRk9IRThrYjBCMlJ2Qi1MMUFDcjc?oc=5",
+      "source": "24/7 Wall St.",
+      "published_at": "Mon, 04 May 2026 12:54:43 GMT",
+      "summary": "The Fed Could Crush Trump’s Bull Market — Here’s the Warning Wall Street Is Missing 24/7 Wall St.",
+      "guid": "CBMiwAFBVV95cUxNV3BaOXFTYnptc2xjVlpKZkpEdnJiRnBtT2Z4VXNCbjY4cTlmVC1ITE9uNk1ULVhsZU8wc0c3dTh1cFhOMVZqNDh4TkQ1a2o2VWplbnlfX2QwQ05MaGVpZW9EZUhkdnE1blM4N29ZYzFHMWx2UUpQcnQyR2Y4OTlhbGJxSXA1bVN1ZlBFMUlwZktZRkVndzBic0xyXzFkekgxamxKbl9IUnNpSmtwRk9IRThrYjBCMlJ2Qi1MMUFDcjc"
     }
   ]
 }
