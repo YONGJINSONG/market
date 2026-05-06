@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-05-06T04:44:04Z",
+  "generated_at": "2026-05-06T07:20:53Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "US Stock Market: Jobs data to test Fed’s rate outlook amid resilient economy and inflation risks - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOVDhfT3VqMllwNmtwV1pVeTEwb1EyR2x3WVVKd3NWZ29mWWhEaDIwM09sZ3RUYnRORDlVcTRTcUNCTlNlTnJfZUJXbFI0dFA1bHJ5WHNDUTN5TV9WRXhlLWVuRU1SRFBwUDQ2YW9XMnNQZHZUdlZwWTV6ekhnYUFkcHlSajEwb2w1Z3hzNFgzTHRpbVI4VTl1eThPcHc3eC0taVk4T2tWdUxja1hXZXlvTmRLVm1peHFoSHhlekQxSXY5MjQwUm40NXZVN1JwNUVjcnN2c3FpSkh1Nm1BUWdmZWtGaGJiVnhuZG5aOVZCQ1RRYjNKSWVwWjNXV3JQMk5P0gGGAkFVX3lxTFAtT1cwRXNMbWItOTF5aXZxR3dnNTJfNVkyTXg2dEp2S0d3TU5NNXlIU2sxQU1GVGZIUGtIR2lDVDhubHFXN2cyQ2tRUzk0VFA4MUp2V281Wm1xQlJoRkJ4M0JBMDFZaUZ4UHZWUDQ1NEF3RnpUbHdXNXBudktDRGVaT1FfSDdJVVNWV3FHOGlxVGc4VlpxV0FvWDktTC1kZHJwdDBOeWg0VlBmNDlPb2Fycl9vUGYtc2JJZTdxRnJicmZUcm1JUnoxT2JMdG01X2d6aUtFZ2xSTW40MzR4aDlvSkxNYWtDWFk2ampCYmhUUjdDbEhuSHNaM21tNE9TMjA2V0tmX2c?oc=5",
+      "source": "The Economic Times",
+      "published_at": "Wed, 06 May 2026 04:22:05 GMT",
+      "summary": "US Stock Market: Jobs data to test Fed’s rate outlook amid resilient economy and inflation risks The Economic Times",
+      "guid": "CBMigAJBVV95cUxOVDhfT3VqMllwNmtwV1pVeTEwb1EyR2x3WVVKd3NWZ29mWWhEaDIwM09sZ3RUYnRORDlVcTRTcUNCTlNlTnJfZUJXbFI0dFA1bHJ5WHNDUTN5TV9WRXhlLWVuRU1SRFBwUDQ2YW9XMnNQZHZUdlZwWTV6ekhnYUFkcHlSajEwb2w1Z3hzNFgzTHRpbVI4VTl1eThPcHc3eC0taVk4T2tWdUxja1hXZXlvTmRLVm1peHFoSHhlekQxSXY5MjQwUm40NXZVN1JwNUVjcnN2c3FpSkh1Nm1BUWdmZWtGaGJiVnhuZG5aOVZCQ1RRYjNKSWVwWjNXV3JQMk5P0gGGAkFVX3lxTFAtT1cwRXNMbWItOTF5aXZxR3dnNTJfNVkyTXg2dEp2S0d3TU5NNXlIU2sxQU1GVGZIUGtIR2lDVDhubHFXN2cyQ2tRUzk0VFA4MUp2V281Wm1xQlJoRkJ4M0JBMDFZaUZ4UHZWUDQ1NEF3RnpUbHdXNXBudktDRGVaT1FfSDdJVVNWV3FHOGlxVGc4VlpxV0FvWDktTC1kZHJwdDBOeWg0VlBmNDlPb2Fycl9vUGYtc2JJZTdxRnJicmZUcm1JUnoxT2JMdG01X2d6aUtFZ2xSTW40MzR4aDlvSkxNYWtDWFk2ampCYmhUUjdDbEhuSHNaM21tNE9TMjA2V0tmX2c"
+    },
     {
       "title": "The Stock Market Is Facing a Historic Federal Reserve Double Whammy on May 15 - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTzA3QllQNkpRNDU4UHBGelU2QTRyUkFVVklPX1JHNG5NTFNZTE04eGdrcDhkaUdid3RYclJ5NWlCOUNieVR0Nm8tMDJXREFyZ3NneTBVWkkwZzFiT0dUODFQVzNORmZDTExoN1h5UklfNHBsM1pvakRLVWtFV2dKR3FPREZwQnVPUno0SmhJajdqbVBMT1Y4dnVuMzl2NEdPamRv?oc=5",
@@ -55,14 +63,6 @@
       "guid": "CBMingFBVV95cUxQWGswa3NHUE5OV2tzVVZESy1kUVVEdWstQllDb3VHNmZEaHE3aG5XLUFDR0p5NTM1T0tZQjRTUG43dVlwYXJXRENjNS1kUnBoTzZUaTJtQ1A3WnVZbGVxOVhuWEd5SzNJLXNNRTdZbmVhSGZ4SEhIdlNnTWtXaFl6RmdXelFtMVBVaEZFRGFSa3ZzN3JsQWRKY05tdWFzZw"
     },
     {
-      "title": "Yikes! The Federal Reserve's April and Quarterly Annualized Inflation Forecast Was Just Updated -- and It Isn't Pretty - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9iVklVUFZNMEYxT3puQnMxYy0zYU5vX29CUEVMUmNmWG5UMG1jalJIRjJELVVHQktycGZWaGRtdmtkTVN2elgxNlJzNGRqYy1naHQ5cURaYVlsYUZieVFlMzJWN0pjb2RnUWpCREgzcGNBTkNjbnpmT3JwM2ttZw?oc=5",
-      "source": "AOL.com",
-      "published_at": "Tue, 05 May 2026 10:33:11 GMT",
-      "summary": "Yikes! The Federal Reserve's April and Quarterly Annualized Inflation Forecast Was Just Updated -- and It Isn't Pretty AOL.com",
-      "guid": "CBMifkFVX3lxTE9iVklVUFZNMEYxT3puQnMxYy0zYU5vX29CUEVMUmNmWG5UMG1jalJIRjJELVVHQktycGZWaGRtdmtkTVN2elgxNlJzNGRqYy1naHQ5cURaYVlsYUZieVFlMzJWN0pjb2RnUWpCREgzcGNBTkNjbnpmT3JwM2ttZw"
-    },
-    {
       "title": "Tracker: The Federal Reserve’s Balance Sheet Assets - The American Action Forum",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0?oc=5",
       "source": "The American Action Forum",
@@ -71,20 +71,20 @@
       "guid": "CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0"
     },
     {
+      "title": "Yikes! The Federal Reserve's April and Quarterly Annualized Inflation Forecast Was Just Updated -- and It Isn't Pretty - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9iVklVUFZNMEYxT3puQnMxYy0zYU5vX29CUEVMUmNmWG5UMG1jalJIRjJELVVHQktycGZWaGRtdmtkTVN2elgxNlJzNGRqYy1naHQ5cURaYVlsYUZieVFlMzJWN0pjb2RnUWpCREgzcGNBTkNjbnpmT3JwM2ttZw?oc=5",
+      "source": "AOL.com",
+      "published_at": "Tue, 05 May 2026 10:33:11 GMT",
+      "summary": "Yikes! The Federal Reserve's April and Quarterly Annualized Inflation Forecast Was Just Updated -- and It Isn't Pretty AOL.com",
+      "guid": "CBMifkFVX3lxTE9iVklVUFZNMEYxT3puQnMxYy0zYU5vX29CUEVMUmNmWG5UMG1jalJIRjJELVVHQktycGZWaGRtdmtkTVN2elgxNlJzNGRqYy1naHQ5cURaYVlsYUZieVFlMzJWN0pjb2RnUWpCREgzcGNBTkNjbnpmT3JwM2ttZw"
+    },
+    {
       "title": "Stock Market Week Ahead: Hyperscaler Blitz, Federal Reserve Transition - Investor's Business Daily",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbVNHb0JHaWxMRU9KRHNWeTdZREcxWkd5Z2ZaeFpxbnNXVGxfcGVYTTlIdlBMaktBY2ZuT1E0Z3paSENvdVFYQ0cwTy10OElPMkF6WmNUWWxaUFk4N1puS2l5X3JhbnpCQ0oxNm5qQWRITFhBallCQnV2TF9VMWdLLXpOb1JxUDZGd1V1cHdQLS11dnFjUmtXNXBwa3pmb3pUN0wtaFhieUdQeDBNN0ZJSXpOOTJUOUt4Y0w3WkcydUROemRuRmpFRU1pSWNzb3BoMTVz?oc=5",
       "source": "Investor's Business Daily",
       "published_at": "Sat, 25 Apr 2026 10:30:00 GMT",
       "summary": "Stock Market Week Ahead: Hyperscaler Blitz, Federal Reserve Transition Investor's Business Daily",
       "guid": "CBMi0wFBVV95cUxQbVNHb0JHaWxMRU9KRHNWeTdZREcxWkd5Z2ZaeFpxbnNXVGxfcGVYTTlIdlBMaktBY2ZuT1E0Z3paSENvdVFYQ0cwTy10OElPMkF6WmNUWWxaUFk4N1puS2l5X3JhbnpCQ0oxNm5qQWRITFhBallCQnV2TF9VMWdLLXpOb1JxUDZGd1V1cHdQLS11dnFjUmtXNXBwa3pmb3pUN0wtaFhieUdQeDBNN0ZJSXpOOTJUOUt4Y0w3WkcydUROemRuRmpFRU1pSWNzb3BoMTVz"
-    },
-    {
-      "title": "US Stock Market Today: Nasdaq Hits Record as Oil Retreats and Earnings Lift Wall Street - TechStock²",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRVFEY3d6d0lYQ0RZS19PRGVzN2dVZ1N0cmNFMTA1Q3lGMklPM3g0d0swa1hqOUwyNUFSU191aTZKblVZeEYxbWlOR20wT2c0MGF3a0ZjMVlFTC1NU1pXX0ZGY1NET2lTa0E4a0trUEFSZWxnejNFdW9UMS0ydlpXTDBiX3dQejd3bHR5S1hwZVo4R0Vldk9HRnowOGctOTNtUWkzQnBuNUNZWjg?oc=5",
-      "source": "TechStock²",
-      "published_at": "Tue, 05 May 2026 17:16:52 GMT",
-      "summary": "US Stock Market Today: Nasdaq Hits Record as Oil Retreats and Earnings Lift Wall Street TechStock²",
-      "guid": "CBMiqwFBVV95cUxPRVFEY3d6d0lYQ0RZS19PRGVzN2dVZ1N0cmNFMTA1Q3lGMklPM3g0d0swa1hqOUwyNUFSU191aTZKblVZeEYxbWlOR20wT2c0MGF3a0ZjMVlFTC1NU1pXX0ZGY1NET2lTa0E4a0trUEFSZWxnejNFdW9UMS0ydlpXTDBiX3dQejd3bHR5S1hwZVo4R0Vldk9HRnowOGctOTNtUWkzQnBuNUNZWjg"
     }
   ]
 }
