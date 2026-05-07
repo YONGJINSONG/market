@@ -1,19 +1,11 @@
 {
-  "generated_at": "2026-05-07T09:24:46Z",
+  "generated_at": "2026-05-07T11:23:18Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
-    {
-      "title": "The Stock Market Is Facing a Historic Federal Reserve Double Whammy on May 15 - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTzA3QllQNkpRNDU4UHBGelU2QTRyUkFVVklPX1JHNG5NTFNZTE04eGdrcDhkaUdid3RYclJ5NWlCOUNieVR0Nm8tMDJXREFyZ3NneTBVWkkwZzFiT0dUODFQVzNORmZDTExoN1h5UklfNHBsM1pvakRLVWtFV2dKR3FPREZwQnVPUno0SmhJajdqbVBMT1Y4dnVuMzl2NEdPamRv?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Sun, 03 May 2026 13:26:00 GMT",
-      "summary": "The Stock Market Is Facing a Historic Federal Reserve Double Whammy on May 15 Yahoo Finance",
-      "guid": "CBMiowFBVV95cUxOTzA3QllQNkpRNDU4UHBGelU2QTRyUkFVVklPX1JHNG5NTFNZTE04eGdrcDhkaUdid3RYclJ5NWlCOUNieVR0Nm8tMDJXREFyZ3NneTBVWkkwZzFiT0dUODFQVzNORmZDTExoN1h5UklfNHBsM1pvakRLVWtFV2dKR3FPREZwQnVPUno0SmhJajdqbVBMT1Y4dnVuMzl2NEdPamRv"
-    },
     {
       "title": "The Stock Market May Have a Federal Reserve Problem with Kevin Warsh Replacing Jerome Powell - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWm9Va3JMU1V0blE1S2xaRDFqNmYtdWc2UVZIRUR6eUVodF9mRnM0VTg4UGxpSDdySEo2YjdzWmVMeGhHRXlpMjlQSDVONGVkTi03MG9qY2ZXSXF6bldHSGk3LTZxYVR6bGhRWlA3OXZGblRpRW41VFRRWHdBTm5BbFkyRTZ4N1R5dWJYMlFfNm9mWDdHZnc?oc=5",
@@ -23,12 +15,12 @@
       "guid": "CBMilgFBVV95cUxQWm9Va3JMU1V0blE1S2xaRDFqNmYtdWc2UVZIRUR6eUVodF9mRnM0VTg4UGxpSDdySEo2YjdzWmVMeGhHRXlpMjlQSDVONGVkTi03MG9qY2ZXSXF6bldHSGk3LTZxYVR6bGhRWlA3OXZGblRpRW41VFRRWHdBTm5BbFkyRTZ4N1R5dWJYMlFfNm9mWDdHZnc"
     },
     {
-      "title": "US Stock Market: Fed officials warn Iran War could trigger prolonged inflation shock - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNN1huNEM2eTd1STlQR0xBcTBMRHBEWWFXOXVOYzZaTDZvMWFfeUVHUG9LR1pGcUVUTWR6d3BRajhsZFJfMXF0bTZMbUhzelJZdDRGUTZ2T0lydDhNRzZZUTZoWDVPajhMOE5hem9iX3ItTFFvQ2U0TkFiY0lYM21KRDgwYXBDeU5FM1JHZnAzVmVELWwyeTR1b2tTbXFzTzR1X21XbE85TUV5Y2VIekRNUnhZVVU0ZlQtaFJMMGtGRDNOb3FWYTktMGUwYVByQXllXzU4UnNUWDdqclRrby16dF91ZUJpOFhRTVY1ZEtZV0NHQdIB9wFBVV95cUxNYU95bHJTdFFJT2hnVWtadGVlNmRsQmlENU5qbURUX0s2Y1RJQ3Y4MG1FMlBpTkYxZVUtdlJuSlNWRDRjYWl1dmY0Tkt6eUhHaWlXNU1RTl9IeV9MaU1PcXNMU2JjTjBhVnZZVVhjVlQ2aldleGpsRFFrc09GTHNGLWJjTjJCVFVMWXh5ZlhzQ3BnMmxTWlZCcjE5ZFQxVGJIRzY4TjVsdVBTa1pPOHo3aElCSUVxRWI4c1QzMU1UZkhESlE5OWp4a0VmQ2hsVGpSb05mV0FyYWdrcGdjR2FMc0ZwXzg1MVhLcjY5UVVlSl9aem5EZU00?oc=5",
-      "source": "The Economic Times",
-      "published_at": "Thu, 07 May 2026 04:05:09 GMT",
-      "summary": "US Stock Market: Fed officials warn Iran War could trigger prolonged inflation shock The Economic Times",
-      "guid": "CBMi8gFBVV95cUxNN1huNEM2eTd1STlQR0xBcTBMRHBEWWFXOXVOYzZaTDZvMWFfeUVHUG9LR1pGcUVUTWR6d3BRajhsZFJfMXF0bTZMbUhzelJZdDRGUTZ2T0lydDhNRzZZUTZoWDVPajhMOE5hem9iX3ItTFFvQ2U0TkFiY0lYM21KRDgwYXBDeU5FM1JHZnAzVmVELWwyeTR1b2tTbXFzTzR1X21XbE85TUV5Y2VIekRNUnhZVVU0ZlQtaFJMMGtGRDNOb3FWYTktMGUwYVByQXllXzU4UnNUWDdqclRrby16dF91ZUJpOFhRTVY1ZEtZV0NHQdIB9wFBVV95cUxNYU95bHJTdFFJT2hnVWtadGVlNmRsQmlENU5qbURUX0s2Y1RJQ3Y4MG1FMlBpTkYxZVUtdlJuSlNWRDRjYWl1dmY0Tkt6eUhHaWlXNU1RTl9IeV9MaU1PcXNMU2JjTjBhVnZZVVhjVlQ2aldleGpsRFFrc09GTHNGLWJjTjJCVFVMWXh5ZlhzQ3BnMmxTWlZCcjE5ZFQxVGJIRzY4TjVsdVBTa1pPOHo3aElCSUVxRWI4c1QzMU1UZkhESlE5OWp4a0VmQ2hsVGpSb05mV0FyYWdrcGdjR2FMc0ZwXzg1MVhLcjY5UVVlSl9aem5EZU00"
+      "title": "Yikes! The Federal Reserve's April and Quarterly Annualized Inflation Forecast Was Just Updated -- and It Isn't Pretty - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLUhUZ3AtTjBCVHhzUmFZcW5laEhGbVBtY2w4dWhPVVl5NDJkcU1hQU5ZS1hvaUMwdFVZMXQ1MXZ1b0lYT3o5QllJb0NvVHVrOVYyOFl4SWRUZ0tCTUI0OTJQMFREQ2lwaE9XV3ZfQ0JJdV9lUVJmVTRBZ25tT0xNcmU1MjVEbjktOHM2SlhaUVB2R1ljLWpoc1NFU1pTVXZBQXhMdnJn?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Tue, 05 May 2026 08:26:00 GMT",
+      "summary": "Yikes! The Federal Reserve's April and Quarterly Annualized Inflation Forecast Was Just Updated -- and It Isn't Pretty Yahoo Finance",
+      "guid": "CBMipgFBVV95cUxOLUhUZ3AtTjBCVHhzUmFZcW5laEhGbVBtY2w4dWhPVVl5NDJkcU1hQU5ZS1hvaUMwdFVZMXQ1MXZ1b0lYT3o5QllJb0NvVHVrOVYyOFl4SWRUZ0tCTUI0OTJQMFREQ2lwaE9XV3ZfQ0JJdV9lUVJmVTRBZ25tT0xNcmU1MjVEbjktOHM2SlhaUVB2R1ljLWpoc1NFU1pTVXZBQXhMdnJn"
     },
     {
       "title": "Federal Reserve keeps interest rates steady as inflation uncertainty rises - U.S. Bank",
@@ -37,6 +29,14 @@
       "published_at": "Wed, 29 Apr 2026 07:00:00 GMT",
       "summary": "Federal Reserve keeps interest rates steady as inflation uncertainty rises U.S. Bank",
       "guid": "CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw"
+    },
+    {
+      "title": "US Stock Market: Fed officials warn Iran War could trigger prolonged inflation shock - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNN1huNEM2eTd1STlQR0xBcTBMRHBEWWFXOXVOYzZaTDZvMWFfeUVHUG9LR1pGcUVUTWR6d3BRajhsZFJfMXF0bTZMbUhzelJZdDRGUTZ2T0lydDhNRzZZUTZoWDVPajhMOE5hem9iX3ItTFFvQ2U0TkFiY0lYM21KRDgwYXBDeU5FM1JHZnAzVmVELWwyeTR1b2tTbXFzTzR1X21XbE85TUV5Y2VIekRNUnhZVVU0ZlQtaFJMMGtGRDNOb3FWYTktMGUwYVByQXllXzU4UnNUWDdqclRrby16dF91ZUJpOFhRTVY1ZEtZV0NHQdIB9wFBVV95cUxNYU95bHJTdFFJT2hnVWtadGVlNmRsQmlENU5qbURUX0s2Y1RJQ3Y4MG1FMlBpTkYxZVUtdlJuSlNWRDRjYWl1dmY0Tkt6eUhHaWlXNU1RTl9IeV9MaU1PcXNMU2JjTjBhVnZZVVhjVlQ2aldleGpsRFFrc09GTHNGLWJjTjJCVFVMWXh5ZlhzQ3BnMmxTWlZCcjE5ZFQxVGJIRzY4TjVsdVBTa1pPOHo3aElCSUVxRWI4c1QzMU1UZkhESlE5OWp4a0VmQ2hsVGpSb05mV0FyYWdrcGdjR2FMc0ZwXzg1MVhLcjY5UVVlSl9aem5EZU00?oc=5",
+      "source": "The Economic Times",
+      "published_at": "Thu, 07 May 2026 04:05:09 GMT",
+      "summary": "US Stock Market: Fed officials warn Iran War could trigger prolonged inflation shock The Economic Times",
+      "guid": "CBMi8gFBVV95cUxNN1huNEM2eTd1STlQR0xBcTBMRHBEWWFXOXVOYzZaTDZvMWFfeUVHUG9LR1pGcUVUTWR6d3BRajhsZFJfMXF0bTZMbUhzelJZdDRGUTZ2T0lydDhNRzZZUTZoWDVPajhMOE5hem9iX3ItTFFvQ2U0TkFiY0lYM21KRDgwYXBDeU5FM1JHZnAzVmVELWwyeTR1b2tTbXFzTzR1X21XbE85TUV5Y2VIekRNUnhZVVU0ZlQtaFJMMGtGRDNOb3FWYTktMGUwYVByQXllXzU4UnNUWDdqclRrby16dF91ZUJpOFhRTVY1ZEtZV0NHQdIB9wFBVV95cUxNYU95bHJTdFFJT2hnVWtadGVlNmRsQmlENU5qbURUX0s2Y1RJQ3Y4MG1FMlBpTkYxZVUtdlJuSlNWRDRjYWl1dmY0Tkt6eUhHaWlXNU1RTl9IeV9MaU1PcXNMU2JjTjBhVnZZVVhjVlQ2aldleGpsRFFrc09GTHNGLWJjTjJCVFVMWXh5ZlhzQ3BnMmxTWlZCcjE5ZFQxVGJIRzY4TjVsdVBTa1pPOHo3aElCSUVxRWI4c1QzMU1UZkhESlE5OWp4a0VmQ2hsVGpSb05mV0FyYWdrcGdjR2FMc0ZwXzg1MVhLcjY5UVVlSl9aem5EZU00"
     },
     {
       "title": "Stock Market Week Ahead: Hyperscaler Blitz, Federal Reserve Transition - Investor's Business Daily",
@@ -63,20 +63,20 @@
       "guid": "CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0"
     },
     {
+      "title": "The Stock Market Is Facing a Historic Federal Reserve Double Whammy on May 15 - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTzA3QllQNkpRNDU4UHBGelU2QTRyUkFVVklPX1JHNG5NTFNZTE04eGdrcDhkaUdid3RYclJ5NWlCOUNieVR0Nm8tMDJXREFyZ3NneTBVWkkwZzFiT0dUODFQVzNORmZDTExoN1h5UklfNHBsM1pvakRLVWtFV2dKR3FPREZwQnVPUno0SmhJajdqbVBMT1Y4dnVuMzl2NEdPamRv?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Sun, 03 May 2026 13:26:00 GMT",
+      "summary": "The Stock Market Is Facing a Historic Federal Reserve Double Whammy on May 15 Yahoo Finance",
+      "guid": "CBMiowFBVV95cUxOTzA3QllQNkpRNDU4UHBGelU2QTRyUkFVVklPX1JHNG5NTFNZTE04eGdrcDhkaUdid3RYclJ5NWlCOUNieVR0Nm8tMDJXREFyZ3NneTBVWkkwZzFiT0dUODFQVzNORmZDTExoN1h5UklfNHBsM1pvakRLVWtFV2dKR3FPREZwQnVPUno0SmhJajdqbVBMT1Y4dnVuMzl2NEdPamRv"
+    },
+    {
       "title": "Stock Market Today: S&P 500, Dow, Nasdaq Futures Rise As Trump Pauses 'Project Freedom'— Super Micro Comp - Benzinga",
       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPcXN1ZmdmUmlrRXBNMW1HNXhscktLdm9hVHpMc0NjSVhLMjdHMTJkTF9PbjYwbTM3TFh4bDNnNllQRzg0MDNfbFUxMTVvUzJHWWYybWxzY3N6b2FwSTBNbjh6cVBXU1I0ZEpHdlZ3WFVBVDZLYTNHY0o0akZQQ0JERGtOd3pqcU42aWJHcF91MjBJRnRkYkRLdG9sWG9yNUpHRkNmQTh5ay1PSjdFUUJHaUpZS2VQWHo2bzQyamx0cV9iYkt1QkxhLVlHc3J3bUpaVGhVTWJGRkJ3dHpHYmdhQzMzbHhhd1NKSTlwaEdGVmpEdk9GMDhqc0VBaDEycTJlYmlBWg?oc=5",
       "source": "Benzinga",
       "published_at": "Wed, 06 May 2026 13:09:00 GMT",
       "summary": "Stock Market Today: S&P 500, Dow, Nasdaq Futures Rise As Trump Pauses 'Project Freedom'— Super Micro Comp Benzinga",
       "guid": "CBMihAJBVV95cUxPcXN1ZmdmUmlrRXBNMW1HNXhscktLdm9hVHpMc0NjSVhLMjdHMTJkTF9PbjYwbTM3TFh4bDNnNllQRzg0MDNfbFUxMTVvUzJHWWYybWxzY3N6b2FwSTBNbjh6cVBXU1I0ZEpHdlZ3WFVBVDZLYTNHY0o0akZQQ0JERGtOd3pqcU42aWJHcF91MjBJRnRkYkRLdG9sWG9yNUpHRkNmQTh5ay1PSjdFUUJHaUpZS2VQWHo2bzQyamx0cV9iYkt1QkxhLVlHc3J3bUpaVGhVTWJGRkJ3dHpHYmdhQzMzbHhhd1NKSTlwaEdGVmpEdk9GMDhqc0VBaDEycTJlYmlBWg"
-    },
-    {
-      "title": "Yikes! The Federal Reserve's April and quarterly annualized inflation forecast was just updated -- and it isn't pretty - MSN",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNSVY0NHVvLTdSeW12MXJQd1VvMExyeUFlMTgxaWJhNGZTQnBDRDZzQVpENmw3TkRmYS0wZkJfelk4U1RrUlZYMjVwSE9BT1lPd05sMHdCd3U4b0M0MXNlOHAzeDdEVjhXZVBYdEp4LW9OcmE0eFlpaXplVnFab0VpSWktRzNRR016aEJhdnh6MkMtdHd5YWFFVVdOWTBPUEgyT0gxcWk5OW1Pam02bDNmcnpqX2R5UjRMVmFnTWVFUUpfbHZ5Y0FGNm5GOF90U0U3YXM1ZkxubVNWYm9Nel9jMW44TnRBRWdOZ1pnb0hIcnJvMkItV0ttMmhSdFh3WHVzMkROOVFMMTg?oc=5",
-      "source": "MSN",
-      "published_at": "Wed, 06 May 2026 17:58:07 GMT",
-      "summary": "Yikes! The Federal Reserve's April and quarterly annualized inflation forecast was just updated -- and it isn't pretty MSN",
-      "guid": "CBMiiAJBVV95cUxNSVY0NHVvLTdSeW12MXJQd1VvMExyeUFlMTgxaWJhNGZTQnBDRDZzQVpENmw3TkRmYS0wZkJfelk4U1RrUlZYMjVwSE9BT1lPd05sMHdCd3U4b0M0MXNlOHAzeDdEVjhXZVBYdEp4LW9OcmE0eFlpaXplVnFab0VpSWktRzNRR016aEJhdnh6MkMtdHd5YWFFVVdOWTBPUEgyT0gxcWk5OW1Pam02bDNmcnpqX2R5UjRMVmFnTWVFUUpfbHZ5Y0FGNm5GOF90U0U3YXM1ZkxubVNWYm9Nel9jMW44TnRBRWdOZ1pnb0hIcnJvMkItV0ttMmhSdFh3WHVzMkROOVFMMTg"
     },
     {
       "title": "Trump Promised Lower Inflation. Instead, Gas Prices May Get Worse Than Under Biden - 24/7 Wall St.",
