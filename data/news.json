@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-10T19:20:41Z",
+  "generated_at": "2026-05-10T20:07:30Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -13,6 +13,14 @@
       "published_at": "Sun, 10 May 2026 10:43:07 GMT",
       "summary": "Remember, the Federal Reserve could spook your stock portfolio soon Yahoo Finance",
       "guid": "CBMisgFBVV95cUxQSkRxMGZRaWItRXBzMXhMaW9WVHl2U3d4SU1GT09tLUJITW1QWXgzN3BnUGtrdFNtUEJwaG5uRVRhSTZhbDJ1NVpXMW9PR2dHVW1Nb2dxTElqOUxCVFVLdjQ2d2NPNGZJTlc0RVJfTkxpdm9JRk9yU0FYTEN5TTlORTVSVmxwLUFad3Q0VkR6Y3hibmZKX1JnTnFNMU9LMWMtemttWFZoQjN1cTdZMElLT3dn"
+    },
+    {
+      "title": "The New York Stock Exchange | NYSE - NYSE",
+      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE93UWVlU3g1TVNpdTNEcjI2Yk9kSHU2Tnh5Y0stVFBGRWVkLW9wbU1EbHhQaHdIOE56d2V5NXVhSQ?oc=5",
+      "source": "NYSE",
+      "published_at": "Fri, 08 May 2026 22:00:00 GMT",
+      "summary": "The New York Stock Exchange | NYSE NYSE",
+      "guid": "CBMiP0FVX3lxTE93UWVlU3g1TVNpdTNEcjI2Yk9kSHU2Tnh5Y0stVFBGRWVkLW9wbU1EbHhQaHdIOE56d2V5NXVhSQ"
     },
     {
       "title": "Fed Chair Jerome Powell Just Broke 75 Years of Precedent With a Move That's Likely to Frustrate President Trump. How Will This Impact the Stock Market? - The Motley Fool",
@@ -77,14 +85,6 @@
       "published_at": "Fri, 08 May 2026 21:07:28 GMT",
       "summary": "U.S. Stock Market Today – Friday, May 8, 2026 stl.news",
       "guid": "CBMib0FVX3lxTE11NlBraVhld1dqVmFrQk8tTTdUQ2s2SzROZllIX0ZlYnJlVlZMbVI1VmRjYmF1blpURjBhQzVjTjg2RFlyR0RXRjFnczZ2OWc0RHJiNlZsMC1ZMlZ2S3pyMkVoOTlPaVJLWUc3enkzZw"
-    },
-    {
-      "title": "Bitcoin Price Dives Below $80,000. This Jobs Report Could End the Crypto Slump. - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE14MkE1VlBvdHF3bFg3RHZjNE9Fek1oazh0SHI1d29UM21WcmNEM3M3bmtGSEFibU5aMndGWUFrVjljTkw1cEtsNjhDR0M4NDItZzVIQnZtMU1FT2hiU1FZVHYxR29YX1pOOEtvYUVDc2FuNXhjUTJyR0FQaTJ3TlE?oc=5",
-      "source": "Barron's",
-      "published_at": "Fri, 08 May 2026 12:19:00 GMT",
-      "summary": "Bitcoin Price Dives Below $80,000. This Jobs Report Could End the Crypto Slump. Barron's",
-      "guid": "CBMif0FVX3lxTE14MkE1VlBvdHF3bFg3RHZjNE9Fek1oazh0SHI1d29UM21WcmNEM3M3bmtGSEFibU5aMndGWUFrVjljTkw1cEtsNjhDR0M4NDItZzVIQnZtMU1FT2hiU1FZVHYxR29YX1pOOEtvYUVDc2FuNXhjUTJyR0FQaTJ3TlE"
     }
   ]
 }
