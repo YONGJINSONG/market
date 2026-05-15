@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T10:43:33Z",
+  "generated_at": "2026-05-15T12:24:21Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -23,12 +23,36 @@
       "guid": "CBMisgFBVV95cUxQSkRxMGZRaWItRXBzMXhMaW9WVHl2U3d4SU1GT09tLUJITW1QWXgzN3BnUGtrdFNtUEJwaG5uRVRhSTZhbDJ1NVpXMW9PR2dHVW1Nb2dxTElqOUxCVFVLdjQ2d2NPNGZJTlc0RVJfTkxpdm9JRk9yU0FYTEN5TTlORTVSVmxwLUFad3Q0VkR6Y3hibmZKX1JnTnFNMU9LMWMtemttWFZoQjN1cTdZMElLT3dn"
     },
     {
+      "title": "The Federal Reserve’s independence is hanging by a thread in the age of Trump - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYmJuUUdUVjZPQWI1Y1otQ2hPUTFaRGttSVFnUzR5VFg1OWd0S3NWUVRXd2tsR2dYbGpMclhsZTVYTWFXdmxXZ0ZpVmJwUGVQWU9oSjdvcGFWNldXUWVwLUR0S0VYWkttaWRzN01rSl9tVkhJUlpmWDl0RzRkdUZpWHhPcVVjMGh2eThr?oc=5",
+      "source": "The Guardian",
+      "published_at": "Fri, 15 May 2026 11:02:00 GMT",
+      "summary": "The Federal Reserve’s independence is hanging by a thread in the age of Trump The Guardian",
+      "guid": "CBMiiwFBVV95cUxPYmJuUUdUVjZPQWI1Y1otQ2hPUTFaRGttSVFnUzR5VFg1OWd0S3NWUVRXd2tsR2dYbGpMclhsZTVYTWFXdmxXZ0ZpVmJwUGVQWU9oSjdvcGFWNldXUWVwLUR0S0VYWkttaWRzN01rSl9tVkhJUlpmWDl0RzRkdUZpWHhPcVVjMGh2eThr"
+    },
+    {
       "title": "How has the US stock market performed during previous Federal Reserve transitions? - 富途牛牛",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOXdGLVBiVDFsVW9rY1ptRnJXMTFON2YxNFdBeTZPQlZUSGFsS2xlUW4wby1QQ0lqOWZ6ZEsxQnNEa29HRHpTc0dUbWlHRlBFNXhiNkdlOEhuSTFCSnd2Um9oRDlFeDRlM1FKLTA0RjYwYkRsdy1ZNkF0OWdya25xYUtYT29uYkFQUW5ZM3JCVzVMN2NLTWN1bnhmX1BOTnVkUmNObw?oc=5",
       "source": "富途牛牛",
       "published_at": "Fri, 15 May 2026 10:34:11 GMT",
       "summary": "How has the US stock market performed during previous Federal Reserve transitions? 富途牛牛",
       "guid": "CBMipAFBVV95cUxOOXdGLVBiVDFsVW9rY1ptRnJXMTFON2YxNFdBeTZPQlZUSGFsS2xlUW4wby1QQ0lqOWZ6ZEsxQnNEa29HRHpTc0dUbWlHRlBFNXhiNkdlOEhuSTFCSnd2Um9oRDlFeDRlM1FKLTA0RjYwYkRsdy1ZNkF0OWdya25xYUtYT29uYkFQUW5ZM3JCVzVMN2NLTWN1bnhmX1BOTnVkUmNObw"
+    },
+    {
+      "title": "Statement from Federal Reserve Chair Jerome H. Powell - Federal Reserve (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9zZ2pBTG55X21Fc195NVNzTkxQUnVJWHNRNmdmaFRuV0R2VWRsSzhpS29RTHhfang4VmFUQlExVHpYTmZzTWJqaDZFbkRza2RBWEVHZEk5UUpVS2hIUEtKN1VXbU1HUkI1TUtLRXo4LURfaDlXdDRB?oc=5",
+      "source": "Federal Reserve (.gov)",
+      "published_at": "Sun, 11 Jan 2026 08:00:00 GMT",
+      "summary": "Statement from Federal Reserve Chair Jerome H. Powell Federal Reserve (.gov)",
+      "guid": "CBMid0FVX3lxTE9zZ2pBTG55X21Fc195NVNzTkxQUnVJWHNRNmdmaFRuV0R2VWRsSzhpS29RTHhfang4VmFUQlExVHpYTmZzTWJqaDZFbkRza2RBWEVHZEk5UUpVS2hIUEtKN1VXbU1HUkI1TUtLRXo4LURfaDlXdDRB"
+    },
+    {
+      "title": "What’s in the inbox for new Federal Reserve chair Kevin Warsh? - The Times",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU1otWmRod2xpa1ptcVhuNWxhQ0hFWnVSLUJFS3pjOEYxMnhlZndVWGM5bVVrZG0wa1R6R1E3cFBDd19zWjlBdW80SGRtYUIxUjN1YmRZQUpMMV9jdGFUV3JOTHZzR3hLbHF6MUc1ZGRkMnh5dEY4SGZMbzNNUFZDQzRFdVBtRjhsaWxadVZLOU0yYUQzM0NUeURmZUhxSkFMX1ItM0FLOU8?oc=5",
+      "source": "The Times",
+      "published_at": "Fri, 15 May 2026 11:49:46 GMT",
+      "summary": "What’s in the inbox for new Federal Reserve chair Kevin Warsh? The Times",
+      "guid": "CBMiqAFBVV95cUxOU1otWmRod2xpa1ptcVhuNWxhQ0hFWnVSLUJFS3pjOEYxMnhlZndVWGM5bVVrZG0wa1R6R1E3cFBDd19zWjlBdW80SGRtYUIxUjN1YmRZQUpMMV9jdGFUV3JOTHZzR3hLbHF6MUc1ZGRkMnh5dEY4SGZMbzNNUFZDQzRFdVBtRjhsaWxadVZLOU0yYUQzM0NUeURmZUhxSkFMX1ItM0FLOU8"
     },
     {
       "title": "Senate confirms Trump pick Warsh as chairman of the Federal Reserve, following Powell - PBS",
@@ -61,30 +85,6 @@
       "published_at": "Fri, 15 May 2026 04:19:07 GMT",
       "summary": "The 'Warsh era' of the Federal Reserve begins! The combination of 'quantitative tightening and new inflation framework' poses a significant challenge, putting the U.S. stock bull market to the test. Moomoo",
       "guid": "CBMiowFBVV95cUxOS3pDRGtFWG4xSVVObTBXdzN2ZGU1Z3BheEtPemU3a0lXbTFkcmZRM3BDcXduMEFXM2Y5QWVxZS1uUkZ6OC1QNzhEVkV3T1J0T19fOFJidkVTM1RDdGY4MDc3Z2RWdDhGX1VZVzFiSzZqai1FQWx6LXA1MnVXWl9Nbkh1bWExdUpVZjlrOGFEX1hQcjJOV3RZSlRwRnNoMG1qanhZ"
-    },
-    {
-      "title": "Is the Federal Reserve Quietly Fueling a Bubble? U.S. Money Supply Just Hit $22.7 Trillion - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcURFTkhDbW14NTZKbUNQeW9rVVhoRV9YaEJXZXdNR1U1TDVyWFFYTVBSTmtoM2c0VFZ1eU5YSy00aE9QMWx1X0pIeVZSb04wbzV5a2RlTEFVLTRiUW1QcUlMSk4xWXdJeTRCaFdJWG10Zl9faUZoZFJLVDhUU3hoazJtODh3YjctbC03LW80a1U1ZlpoRHJTU1dOV3ZEUXoyazYwQVRqbkJtd2FSV3B6dmNmemtvYlFVUUExUGxudV9SOTZvbFkwODdpQQ?oc=5",
-      "source": "24/7 Wall St.",
-      "published_at": "Thu, 14 May 2026 14:55:18 GMT",
-      "summary": "Is the Federal Reserve Quietly Fueling a Bubble? U.S. Money Supply Just Hit $22.7 Trillion 24/7 Wall St.",
-      "guid": "CBMiywFBVV95cUxQcURFTkhDbW14NTZKbUNQeW9rVVhoRV9YaEJXZXdNR1U1TDVyWFFYTVBSTmtoM2c0VFZ1eU5YSy00aE9QMWx1X0pIeVZSb04wbzV5a2RlTEFVLTRiUW1QcUlMSk4xWXdJeTRCaFdJWG10Zl9faUZoZFJLVDhUU3hoazJtODh3YjctbC03LW80a1U1ZlpoRHJTU1dOV3ZEUXoyazYwQVRqbkJtd2FSV3B6dmNmemtvYlFVUUExUGxudV9SOTZvbFkwODdpQQ"
-    },
-    {
-      "title": "Oof! The Federal Reserve's May Inflation Forecast Is In, and Things Just Got Uglier for Wall Street. - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYWtUVjEzZm92N09pamVFLVJBZmpiLUNqYWc1bVpOZkJLSGdNNFZfemtHenJraERIbzVhV3hKNEdVZW9nTmFiNl9taEtaU290R1FrX3NtNE5zWnBzLWJYTHlqTldWZFZNS0RoM2N6MGtDYkVzdmhKWl9ZbXliZ1phYWhocmJSelFLejdDUnVXVGN5QjhKWGstRm85T2JKZE9I?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Sat, 09 May 2026 13:26:00 GMT",
-      "summary": "Oof! The Federal Reserve's May Inflation Forecast Is In, and Things Just Got Uglier for Wall Street. Yahoo Finance",
-      "guid": "CBMioAFBVV95cUxPYWtUVjEzZm92N09pamVFLVJBZmpiLUNqYWc1bVpOZkJLSGdNNFZfemtHenJraERIbzVhV3hKNEdVZW9nTmFiNl9taEtaU290R1FrX3NtNE5zWnBzLWJYTHlqTldWZFZNS0RoM2N6MGtDYkVzdmhKWl9ZbXliZ1phYWhocmJSelFLejdDUnVXVGN5QjhKWGstRm85T2JKZE9I"
-    },
-    {
-      "title": "The Stock Market Sounds an Alarm as Investors Get a Warning From the Federal Reserve. History Says This Will Happen Next. - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd2R6Z0JISngydTZPOWtYUTlEUWVOb0w3VFJDZ21WRWV0NEs3QXB4ZGZHcG1zNzNOa3RZTmgwdWc2R0hIVnBMcXpKdl9hcjVSeVd5bkRtc3BRRnlpaWFPdzk0cTBWV1FycHFxdEZLcms5dVN5S1RoQThRQ2JaR1JRZmFTNzVTSlYzaVJDZHVpckk3QVRX?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Wed, 13 May 2026 09:48:00 GMT",
-      "summary": "The Stock Market Sounds an Alarm as Investors Get a Warning From the Federal Reserve. History Says This Will Happen Next. The Motley Fool",
-      "guid": "CBMilAFBVV95cUxNd2R6Z0JISngydTZPOWtYUTlEUWVOb0w3VFJDZ21WRWV0NEs3QXB4ZGZHcG1zNzNOa3RZTmgwdWc2R0hIVnBMcXpKdl9hcjVSeVd5bkRtc3BRRnlpaWFPdzk0cTBWV1FycHFxdEZLcms5dVN5S1RoQThRQ2JaR1JRZmFTNzVTSlYzaVJDZHVpckk3QVRX"
     }
   ]
 }
