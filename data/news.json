@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T12:11:13Z",
+  "generated_at": "2026-05-16T13:57:29Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -55,6 +55,14 @@
       "guid": "CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw"
     },
     {
+      "title": "Bonds, stocks and precious metals slump as inflation fears mount, silver falls 7% - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdHk5NS1weGp1d1dYVE5vWC1OMFVNckgxRjItTFVFQTYwWWtwZTg3ZEtaR1JMYjE5X0J5VjFlZkZrVENKVG9GajRYaVFKRE1LX2c1WGtrYUFyZkF4R1lZV0ZjY2FMWW5VNmZtWjlYZFFFYjZfclZQVnItbDRQcW9oQ0pWNGV3ZFZLWUJqUHp4R0wzSC14M0Jn0gGcAUFVX3lxTE5xREJ1Uy1wRlF1TVU0YnpyUERhM2ljT01WekNBNFJxa0kxazlaWHU0WkI4TVp3cHN4VlkwWTh6UnhEb2tKeVhNU29JNXRMNW9YQW5ieFhLajRsTG1URDVZWFB6TnI4ajhqWXBnT3poYUtvVGlNWHMzUnZhQVphM2RLLVh6akx3VlV0TWx3WklSSGZ5SWtIMU9HSkhCVg?oc=5",
+      "source": "CNBC",
+      "published_at": "Fri, 15 May 2026 10:47:42 GMT",
+      "summary": "Bonds, stocks and precious metals slump as inflation fears mount, silver falls 7% CNBC",
+      "guid": "CBMilwFBVV95cUxQdHk5NS1weGp1d1dYVE5vWC1OMFVNckgxRjItTFVFQTYwWWtwZTg3ZEtaR1JMYjE5X0J5VjFlZkZrVENKVG9GajRYaVFKRE1LX2c1WGtrYUFyZkF4R1lZV0ZjY2FMWW5VNmZtWjlYZFFFYjZfclZQVnItbDRQcW9oQ0pWNGV3ZFZLWUJqUHp4R0wzSC14M0Jn0gGcAUFVX3lxTE5xREJ1Uy1wRlF1TVU0YnpyUERhM2ljT01WekNBNFJxa0kxazlaWHU0WkI4TVp3cHN4VlkwWTh6UnhEb2tKeVhNU29JNXRMNW9YQW5ieFhLajRsTG1URDVZWFB6TnI4ajhqWXBnT3poYUtvVGlNWHMzUnZhQVphM2RLLVh6akx3VlV0TWx3WklSSGZ5SWtIMU9HSkhCVg"
+    },
+    {
       "title": "The Stock Market Sounds an Alarm as Investors Get a Warning From the Federal Reserve. History Says This Will Happen Next. - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd2R6Z0JISngydTZPOWtYUTlEUWVOb0w3VFJDZ21WRWV0NEs3QXB4ZGZHcG1zNzNOa3RZTmgwdWc2R0hIVnBMcXpKdl9hcjVSeVd5bkRtc3BRRnlpaWFPdzk0cTBWV1FycHFxdEZLcms5dVN5S1RoQThRQ2JaR1JRZmFTNzVTSlYzaVJDZHVpckk3QVRX?oc=5",
       "source": "The Motley Fool",
@@ -77,14 +85,6 @@
       "published_at": "Thu, 14 May 2026 12:00:00 GMT",
       "summary": "Big Changes Are Coming to the Federal Reserve Tomorrow, and It Could Spell Trouble for Wall Street The Motley Fool",
       "guid": "CBMimAFBVV95cUxQUy1aZ2tMbFJCWFB5LWg4Z3ZTeHNuLVZ4eldMU20yVzd0b1FvQmZXUzJxT2hROE9DeDFKRWloSTI3eXB2Q3BWeTdBSVNjNGRGdk5sN1l2aV90S1BZWUJRaU9ZNmFraHU1bmJZOUw1bnZSQUlIblBXVTFPZ0dGOVJVcWhHa1BXZGR1MDFReEpqRmlvTHdsc3dfNA"
-    },
-    {
-      "title": "Stock Market Investors Just Got Bad News About President Trump's Economy. History Says a Domino Effect Could Follow. - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWlhyaWJhMnU1R2IzUGpkQ1FYRkJpTjFEbE5Fa2hRZFFETlEzd2lzdlFpNV9Td1pQZm8zV0tjQ2xCWFV4OGRxbnVybVJqc29hbEdmdHNvakZmRlRQbmVZSDI3MC1vdElVamVLRS1lXzF2WHlkTi1yd0hxOEV2TFNoa0lSQVBlOFFxLWJVRTVoT3pub1RHd2JEaA?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Thu, 14 May 2026 09:48:00 GMT",
-      "summary": "Stock Market Investors Just Got Bad News About President Trump's Economy. History Says a Domino Effect Could Follow. The Motley Fool",
-      "guid": "CBMimAFBVV95cUxNWlhyaWJhMnU1R2IzUGpkQ1FYRkJpTjFEbE5Fa2hRZFFETlEzd2lzdlFpNV9Td1pQZm8zV0tjQ2xCWFV4OGRxbnVybVJqc29hbEdmdHNvakZmRlRQbmVZSDI3MC1vdElVamVLRS1lXzF2WHlkTi1yd0hxOEV2TFNoa0lSQVBlOFFxLWJVRTVoT3pub1RHd2JEaA"
     }
   ]
 }
