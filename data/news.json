@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T07:05:42Z",
+  "generated_at": "2026-05-16T08:58:15Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -39,14 +39,6 @@
       "guid": "CBMinAFBVV95cUxOdGkzQUI2NjRkbmRSUkVDUzBoS19vTk56V1RWRGk4TXhnc0U3UVZwLUFJaGtxUG0ydC13bk0tajU5aWdPdWxiQ0RlZGFNeDhpZVZUVW52aC13aXZNRmswNjRnZUZnd0J6alFDZzlXZ3VzOWUxdVlTTnlsbk5vd3lFMmlQRmxUVnhNZjVLSF9HWjF2SWJVaWxKdUNZRXQ"
     },
     {
-      "title": "The Federal Reserve’s independence is hanging by a thread in the age of Trump - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYmJuUUdUVjZPQWI1Y1otQ2hPUTFaRGttSVFnUzR5VFg1OWd0S3NWUVRXd2tsR2dYbGpMclhsZTVYTWFXdmxXZ0ZpVmJwUGVQWU9oSjdvcGFWNldXUWVwLUR0S0VYWkttaWRzN01rSl9tVkhJUlpmWDl0RzRkdUZpWHhPcVVjMGh2eThr?oc=5",
-      "source": "The Guardian",
-      "published_at": "Fri, 15 May 2026 11:02:00 GMT",
-      "summary": "The Federal Reserve’s independence is hanging by a thread in the age of Trump The Guardian",
-      "guid": "CBMiiwFBVV95cUxPYmJuUUdUVjZPQWI1Y1otQ2hPUTFaRGttSVFnUzR5VFg1OWd0S3NWUVRXd2tsR2dYbGpMclhsZTVYTWFXdmxXZ0ZpVmJwUGVQWU9oSjdvcGFWNldXUWVwLUR0S0VYWkttaWRzN01rSl9tVkhJUlpmWDl0RzRkdUZpWHhPcVVjMGh2eThr"
-    },
-    {
       "title": "Senate confirms Trump pick Warsh as chairman of the Federal Reserve, following Powell - PBS",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUHJhaFNqMlh2ams0cVpsNDhCMUw4RDRsM3UxbzdHVDVkRmh0THVncWhMbWMxTDBMaUl0dDhlZjdBQTdDV0VOS01CTUtvb2JuTkdMcWt2Z3IwYlBfbG1teDIwRlZkRlEtZUtJVUFUem96TjI0ZGFySEl1eFFQSDA1YkM5b1hFejVKZzlhV0Y0VjNGTmQwbG9nTVN5UDdwUDNWNUZZUjJDbUxVSFllNUVrY0hlckgwenJIcnNHdTBqWdIBxAFBVV95cUxQVjVINGt0Y2R6b1cwSU54cGhjNFJMVXdiNTFTT0FHZTRsNW9uOHJqcTA2RDJOeFRlOE10dlE2UlhNeG5kbEt2T1h4dnJIcUcxWURSak03TGo1MlZYTE9aSkx4T2xaXzBmNFl3dWx1c2Y3SEVfUV91cjRLY2NTb0MtcDV5SmVucEhXTlV0aE1HdDJVV3dneFdhM3FLX0JwWEVkV05xVUFzNW5rRkFoWlE4RWVGUW5NV0dKVnBJTlVwQWhmX3B2?oc=5",
       "source": "PBS",
@@ -61,6 +53,14 @@
       "published_at": "Wed, 29 Apr 2026 07:00:00 GMT",
       "summary": "Federal Reserve keeps interest rates steady as inflation uncertainty rises U.S. Bank",
       "guid": "CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw"
+    },
+    {
+      "title": "The Federal Reserve’s independence is hanging by a thread in the age of Trump - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYmJuUUdUVjZPQWI1Y1otQ2hPUTFaRGttSVFnUzR5VFg1OWd0S3NWUVRXd2tsR2dYbGpMclhsZTVYTWFXdmxXZ0ZpVmJwUGVQWU9oSjdvcGFWNldXUWVwLUR0S0VYWkttaWRzN01rSl9tVkhJUlpmWDl0RzRkdUZpWHhPcVVjMGh2eThr?oc=5",
+      "source": "The Guardian",
+      "published_at": "Fri, 15 May 2026 11:02:00 GMT",
+      "summary": "The Federal Reserve’s independence is hanging by a thread in the age of Trump The Guardian",
+      "guid": "CBMiiwFBVV95cUxPYmJuUUdUVjZPQWI1Y1otQ2hPUTFaRGttSVFnUzR5VFg1OWd0S3NWUVRXd2tsR2dYbGpMclhsZTVYTWFXdmxXZ0ZpVmJwUGVQWU9oSjdvcGFWNldXUWVwLUR0S0VYWkttaWRzN01rSl9tVkhJUlpmWDl0RzRkdUZpWHhPcVVjMGh2eThr"
     },
     {
       "title": "The Stock Market Sounds an Alarm as Investors Get a Warning From the Federal Reserve. History Says This Will Happen Next. - The Motley Fool",
@@ -79,12 +79,12 @@
       "guid": "CBMipAFBVV95cUxOOXdGLVBiVDFsVW9rY1ptRnJXMTFON2YxNFdBeTZPQlZUSGFsS2xlUW4wby1QQ0lqOWZ6ZEsxQnNEa29HRHpTc0dUbWlHRlBFNXhiNkdlOEhuSTFCSnd2Um9oRDlFeDRlM1FKLTA0RjYwYkRsdy1ZNkF0OWdya25xYUtYT29uYkFQUW5ZM3JCVzVMN2NLTWN1bnhmX1BOTnVkUmNObw"
     },
     {
-      "title": "Oof! The Federal Reserve's May Inflation Forecast Is In, and Things Just Got Uglier for Wall Street. - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYWtUVjEzZm92N09pamVFLVJBZmpiLUNqYWc1bVpOZkJLSGdNNFZfemtHenJraERIbzVhV3hKNEdVZW9nTmFiNl9taEtaU290R1FrX3NtNE5zWnBzLWJYTHlqTldWZFZNS0RoM2N6MGtDYkVzdmhKWl9ZbXliZ1phYWhocmJSelFLejdDUnVXVGN5QjhKWGstRm85T2JKZE9I?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Sat, 09 May 2026 13:26:00 GMT",
-      "summary": "Oof! The Federal Reserve's May Inflation Forecast Is In, and Things Just Got Uglier for Wall Street. Yahoo Finance",
-      "guid": "CBMioAFBVV95cUxPYWtUVjEzZm92N09pamVFLVJBZmpiLUNqYWc1bVpOZkJLSGdNNFZfemtHenJraERIbzVhV3hKNEdVZW9nTmFiNl9taEtaU290R1FrX3NtNE5zWnBzLWJYTHlqTldWZFZNS0RoM2N6MGtDYkVzdmhKWl9ZbXliZ1phYWhocmJSelFLejdDUnVXVGN5QjhKWGstRm85T2JKZE9I"
+      "title": "Big Changes Are Coming to the Federal Reserve Tomorrow, and It Could Spell Trouble for Wall Street - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUy1aZ2tMbFJCWFB5LWg4Z3ZTeHNuLVZ4eldMU20yVzd0b1FvQmZXUzJxT2hROE9DeDFKRWloSTI3eXB2Q3BWeTdBSVNjNGRGdk5sN1l2aV90S1BZWUJRaU9ZNmFraHU1bmJZOUw1bnZSQUlIblBXVTFPZ0dGOVJVcWhHa1BXZGR1MDFReEpqRmlvTHdsc3dfNA?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Thu, 14 May 2026 12:00:00 GMT",
+      "summary": "Big Changes Are Coming to the Federal Reserve Tomorrow, and It Could Spell Trouble for Wall Street The Motley Fool",
+      "guid": "CBMimAFBVV95cUxQUy1aZ2tMbFJCWFB5LWg4Z3ZTeHNuLVZ4eldMU20yVzd0b1FvQmZXUzJxT2hROE9DeDFKRWloSTI3eXB2Q3BWeTdBSVNjNGRGdk5sN1l2aV90S1BZWUJRaU9ZNmFraHU1bmJZOUw1bnZSQUlIblBXVTFPZ0dGOVJVcWhHa1BXZGR1MDFReEpqRmlvTHdsc3dfNA"
     }
   ]
 }
