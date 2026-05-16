@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T23:34:44Z",
+  "generated_at": "2026-05-16T01:22:18Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -47,6 +47,14 @@
       "guid": "CBMiiwFBVV95cUxPYmJuUUdUVjZPQWI1Y1otQ2hPUTFaRGttSVFnUzR5VFg1OWd0S3NWUVRXd2tsR2dYbGpMclhsZTVYTWFXdmxXZ0ZpVmJwUGVQWU9oSjdvcGFWNldXUWVwLUR0S0VYWkttaWRzN01rSl9tVkhJUlpmWDl0RzRkdUZpWHhPcVVjMGh2eThr"
     },
     {
+      "title": "Job Market’s Effect on the Economy - U.S. Bank",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNGNEeGZ1Y3pqbjJEdDBQYk8wZVJDb0twSUFQc055SmN3TXIxMGFSTk5hZXRKT1dZUGxGMzdPajFIcmcwc3FSZkROdEdjQ19KQl9pMjR3WHhDR3ppMHB0ZS1kMC0tUmY1ZUk5bHJ1YkRmYlc4ZFNSWkg0bG9FWGo3cTNnazJGbUtmZFZNdnpCcjY3cnB6MTdnMmVFYzhaS2NFN3R5N0F0ek5aX1hF?oc=5",
+      "source": "U.S. Bank",
+      "published_at": "Tue, 12 May 2026 07:00:00 GMT",
+      "summary": "Job Market’s Effect on the Economy U.S. Bank",
+      "guid": "CBMirAFBVV95cUxPNGNEeGZ1Y3pqbjJEdDBQYk8wZVJDb0twSUFQc055SmN3TXIxMGFSTk5hZXRKT1dZUGxGMzdPajFIcmcwc3FSZkROdEdjQ19KQl9pMjR3WHhDR3ppMHB0ZS1kMC0tUmY1ZUk5bHJ1YkRmYlc4ZFNSWkg0bG9FWGo3cTNnazJGbUtmZFZNdnpCcjY3cnB6MTdnMmVFYzhaS2NFN3R5N0F0ek5aX1hF"
+    },
+    {
       "title": "How has the US stock market performed during previous Federal Reserve transitions? - 富途牛牛",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOXdGLVBiVDFsVW9rY1ptRnJXMTFON2YxNFdBeTZPQlZUSGFsS2xlUW4wby1QQ0lqOWZ6ZEsxQnNEa29HRHpTc0dUbWlHRlBFNXhiNkdlOEhuSTFCSnd2Um9oRDlFeDRlM1FKLTA0RjYwYkRsdy1ZNkF0OWdya25xYUtYT29uYkFQUW5ZM3JCVzVMN2NLTWN1bnhmX1BOTnVkUmNObw?oc=5",
       "source": "富途牛牛",
@@ -63,14 +71,6 @@
       "guid": "CBMivwFBVV95cUxNUHJhaFNqMlh2ams0cVpsNDhCMUw4RDRsM3UxbzdHVDVkRmh0THVncWhMbWMxTDBMaUl0dDhlZjdBQTdDV0VOS01CTUtvb2JuTkdMcWt2Z3IwYlBfbG1teDIwRlZkRlEtZUtJVUFUem96TjI0ZGFySEl1eFFQSDA1YkM5b1hFejVKZzlhV0Y0VjNGTmQwbG9nTVN5UDdwUDNWNUZZUjJDbUxVSFllNUVrY0hlckgwenJIcnNHdTBqWdIBxAFBVV95cUxQVjVINGt0Y2R6b1cwSU54cGhjNFJMVXdiNTFTT0FHZTRsNW9uOHJqcTA2RDJOeFRlOE10dlE2UlhNeG5kbEt2T1h4dnJIcUcxWURSak03TGo1MlZYTE9aSkx4T2xaXzBmNFl3dWx1c2Y3SEVfUV91cjRLY2NTb0MtcDV5SmVucEhXTlV0aE1HdDJVV3dneFdhM3FLX0JwWEVkV05xVUFzNW5rRkFoWlE4RWVGUW5NV0dKVnBJTlVwQWhmX3B2"
     },
     {
-      "title": "Federal Reserve keeps interest rates steady as inflation uncertainty rises - U.S. Bank",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw?oc=5",
-      "source": "U.S. Bank",
-      "published_at": "Wed, 29 Apr 2026 07:00:00 GMT",
-      "summary": "Federal Reserve keeps interest rates steady as inflation uncertainty rises U.S. Bank",
-      "guid": "CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw"
-    },
-    {
       "title": "The Stock Market Sounds an Alarm as Investors Get a Warning From the Federal Reserve. History Says This Will Happen Next. - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd2R6Z0JISngydTZPOWtYUTlEUWVOb0w3VFJDZ21WRWV0NEs3QXB4ZGZHcG1zNzNOa3RZTmgwdWc2R0hIVnBMcXpKdl9hcjVSeVd5bkRtc3BRRnlpaWFPdzk0cTBWV1FycHFxdEZLcms5dVN5S1RoQThRQ2JaR1JRZmFTNzVTSlYzaVJDZHVpckk3QVRX?oc=5",
       "source": "The Motley Fool",
@@ -79,12 +79,12 @@
       "guid": "CBMilAFBVV95cUxNd2R6Z0JISngydTZPOWtYUTlEUWVOb0w3VFJDZ21WRWV0NEs3QXB4ZGZHcG1zNzNOa3RZTmgwdWc2R0hIVnBMcXpKdl9hcjVSeVd5bkRtc3BRRnlpaWFPdzk0cTBWV1FycHFxdEZLcms5dVN5S1RoQThRQ2JaR1JRZmFTNzVTSlYzaVJDZHVpckk3QVRX"
     },
     {
-      "title": "Dow futures fell 462 points as concerns over inflation and expectations of an interest rate hike by the Federal Reserve resurfaced in the U.S. stock market. - Moomoo",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZXcwM1l4WUxGY2hzSjUwQmZjMlRjWmZabDIzanpRd3I5YmtaRUtiUlZ5TDhMV3VPZzlXTjdUTUtMREV2QnhHQ3Vva2pwSS1UTks1elhUVnhfRGJWbWtmLWI2azU3UDVtdHZmMTJwTEhmRW01MmZFNUxVYlo5M1dxaE8tdDNleU1La2ExVUVYdTkzbUFaTFZlLXFLd0t5a0tPNFE?oc=5",
-      "source": "Moomoo",
-      "published_at": "Fri, 15 May 2026 14:48:20 GMT",
-      "summary": "Dow futures fell 462 points as concerns over inflation and expectations of an interest rate hike by the Federal Reserve resurfaced in the U.S. stock market. Moomoo",
-      "guid": "CBMiogFBVV95cUxPZXcwM1l4WUxGY2hzSjUwQmZjMlRjWmZabDIzanpRd3I5YmtaRUtiUlZ5TDhMV3VPZzlXTjdUTUtMREV2QnhHQ3Vva2pwSS1UTks1elhUVnhfRGJWbWtmLWI2azU3UDVtdHZmMTJwTEhmRW01MmZFNUxVYlo5M1dxaE8tdDNleU1La2ExVUVYdTkzbUFaTFZlLXFLd0t5a0tPNFE"
+      "title": "Jerome Powell's 17 most memorable moments after leading the Federal Reserve for 8 eventful years - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOSnNQZWk2YWpPZHNVU3JqZXlWWkY3eVN3Q3o3ZlVQWWdnSFQzVVJqWVdnZ05RZlBjeDNCZHBicXZseEdub1otU2NGdXVKRlh4WnRLdWpBN2lRSUg3QW5OVzNaZFNINjJpV1l5bjRyQ1hTNy01dnZRbW8ybWxvTVdDTVdtUFFOSnFxMG9TVXh3T2dhN1lsYWZXU1dnb1VPWUdFcExLWmVhTnRaNzVQTFhOWXZSMGhudDJJWVU1SW1uYVdXX0FNTXBrel9WYTduZ3RxeWJJdkdzdXpzbkhSTFpvQkdNVUFXNTk0czRfdHoxMGs?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Fri, 15 May 2026 12:29:47 GMT",
+      "summary": "Jerome Powell's 17 most memorable moments after leading the Federal Reserve for 8 eventful years Yahoo Finance",
+      "guid": "CBMi8AFBVV95cUxOSnNQZWk2YWpPZHNVU3JqZXlWWkY3eVN3Q3o3ZlVQWWdnSFQzVVJqWVdnZ05RZlBjeDNCZHBicXZseEdub1otU2NGdXVKRlh4WnRLdWpBN2lRSUg3QW5OVzNaZFNINjJpV1l5bjRyQ1hTNy01dnZRbW8ybWxvTVdDTVdtUFFOSnFxMG9TVXh3T2dhN1lsYWZXU1dnb1VPWUdFcExLWmVhTnRaNzVQTFhOWXZSMGhudDJJWVU1SW1uYVdXX0FNTXBrel9WYTduZ3RxeWJJdkdzdXpzbkhSTFpvQkdNVUFXNTk0czRfdHoxMGs"
     }
   ]
 }
