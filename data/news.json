@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-05-17T07:19:17Z",
+  "generated_at": "2026-05-17T09:16:42Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "The Stock Market Sounds an Alarm as Investors Get a Warning From the Federal Reserve. History Says This Will Happen Next. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVTJiWEdWcGlORUlRTXZwQXg1dHRmY3VzNkdTQ2FzNlBmMVZ0bGNJbDEyNURaWW1yc3VCenU5SnFFOXFqV3VFMTl0S3dRakFSWTEtUE4xRjVWdWdDd2MwTlNGZzhCdFp5VXVSZGZndUljSkpodGU5M2RtSVlnY0ZTaGs3b3dfcnMy?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Wed, 13 May 2026 09:08:00 GMT",
+      "summary": "The Stock Market Sounds an Alarm as Investors Get a Warning From the Federal Reserve. History Says This Will Happen Next. Yahoo Finance",
+      "guid": "CBMiiAFBVV95cUxNVTJiWEdWcGlORUlRTXZwQXg1dHRmY3VzNkdTQ2FzNlBmMVZ0bGNJbDEyNURaWW1yc3VCenU5SnFFOXFqV3VFMTl0S3dRakFSWTEtUE4xRjVWdWdDd2MwTlNGZzhCdFp5VXVSZGZndUljSkpodGU5M2RtSVlnY0ZTaGs3b3dfcnMy"
+    },
     {
       "title": "Will the Federal Reserve Crash the Stock Market? 3 Reasons to Watch Trump's Nominee, Kevin Warsh, on May 15 - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONGxNVVF0ZTdOOGNaQlhJQTM0WGRRQ0hLaHRVTHl3eXI4ZFRSeDRNUkV1ZHFXNTVoQ1EtY3ZtS2pUTXFHMEVEZ3o3THVhR3I3dGdhRnhrVVgyR1QxX0Y3SFh5c2x4YWRWYlQ3VHgtSDRqWWFwcmJkMWUzRUdFRjVKY015VnFreWhnOWVPbWtHRG8yZktCQ1hj?oc=5",
@@ -31,28 +39,12 @@
       "guid": "CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0"
     },
     {
-      "title": "Remember, the Federal Reserve could spook your stock portfolio soon - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSkRxMGZRaWItRXBzMXhMaW9WVHl2U3d4SU1GT09tLUJITW1QWXgzN3BnUGtrdFNtUEJwaG5uRVRhSTZhbDJ1NVpXMW9PR2dHVW1Nb2dxTElqOUxCVFVLdjQ2d2NPNGZJTlc0RVJfTkxpdm9JRk9yU0FYTEN5TTlORTVSVmxwLUFad3Q0VkR6Y3hibmZKX1JnTnFNMU9LMWMtemttWFZoQjN1cTdZMElLT3dn?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Sun, 10 May 2026 10:43:07 GMT",
-      "summary": "Remember, the Federal Reserve could spook your stock portfolio soon Yahoo Finance",
-      "guid": "CBMisgFBVV95cUxQSkRxMGZRaWItRXBzMXhMaW9WVHl2U3d4SU1GT09tLUJITW1QWXgzN3BnUGtrdFNtUEJwaG5uRVRhSTZhbDJ1NVpXMW9PR2dHVW1Nb2dxTElqOUxCVFVLdjQ2d2NPNGZJTlc0RVJfTkxpdm9JRk9yU0FYTEN5TTlORTVSVmxwLUFad3Q0VkR6Y3hibmZKX1JnTnFNMU9LMWMtemttWFZoQjN1cTdZMElLT3dn"
-    },
-    {
       "title": "5 Things to Know Before the Stock Market Opens - Investopedia",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdGkzQUI2NjRkbmRSUkVDUzBoS19vTk56V1RWRGk4TXhnc0U3UVZwLUFJaGtxUG0ydC13bk0tajU5aWdPdWxiQ0RlZGFNeDhpZVZUVW52aC13aXZNRmswNjRnZUZnd0J6alFDZzlXZ3VzOWUxdVlTTnlsbk5vd3lFMmlQRmxUVnhNZjVLSF9HWjF2SWJVaWxKdUNZRXQ?oc=5",
       "source": "Investopedia",
       "published_at": "Fri, 15 May 2026 12:23:30 GMT",
       "summary": "5 Things to Know Before the Stock Market Opens Investopedia",
       "guid": "CBMinAFBVV95cUxOdGkzQUI2NjRkbmRSUkVDUzBoS19vTk56V1RWRGk4TXhnc0U3UVZwLUFJaGtxUG0ydC13bk0tajU5aWdPdWxiQ0RlZGFNeDhpZVZUVW52aC13aXZNRmswNjRnZUZnd0J6alFDZzlXZ3VzOWUxdVlTTnlsbk5vd3lFMmlQRmxUVnhNZjVLSF9HWjF2SWJVaWxKdUNZRXQ"
-    },
-    {
-      "title": "Federal Reserve Monetary Policy - U.S. Bank",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa2V2OFo4WjFPclRZRGtjZXJvb3dsaDVUM3FjRnVCTkxfX184eHRyQjJ2NFlDc09TUlZrUDZGUzQzTjgyV1drNG9PSnc2Y0RELWZ5LVktLTlFcGFFa2s0Qm04RzRoYjNRSE9aSGw3aDljNFEyUEZJS1RNa203WlBLdmxxS2lWNmNXT0pRZGdDcGdqdEZ1YmMxN2lhci1RdVRMTEJtWE5wM3RJSFhGMXJjMjdqZw?oc=5",
-      "source": "U.S. Bank",
-      "published_at": "Fri, 01 May 2026 07:00:00 GMT",
-      "summary": "Federal Reserve Monetary Policy U.S. Bank",
-      "guid": "CBMiswFBVV95cUxOa2V2OFo4WjFPclRZRGtjZXJvb3dsaDVUM3FjRnVCTkxfX184eHRyQjJ2NFlDc09TUlZrUDZGUzQzTjgyV1drNG9PSnc2Y0RELWZ5LVktLTlFcGFFa2s0Qm04RzRoYjNRSE9aSGw3aDljNFEyUEZJS1RNa203WlBLdmxxS2lWNmNXT0pRZGdDcGdqdEZ1YmMxN2lhci1RdVRMTEJtWE5wM3RJSFhGMXJjMjdqZw"
     },
     {
       "title": "Incoming Federal Reserve Chair Kevin Warsh Sells Coupang Shares Over Ethics Rules - 조선일보",
@@ -71,12 +63,12 @@
       "guid": "CBMikAFBVV95cUxNTUhkTTA2Sm54eHpGVDVjNF9QUHdoem50bTdhR0Y4Z3c1dER3aEVMYlYxOG1NdlE5djdTUXBHcHFTaUhRWDdxeDF4TzBLbHZqdjM2YlFwb0RldFNwbVFvWVRXbUFmODRzMkgwanViQUxxNW9EZmVSSFUtY1Bmem45NHUyeE5PZ2hndlJTMDhIWmY"
     },
     {
-      "title": "Senate confirms Trump pick Warsh as chairman of the Federal Reserve, following Powell - PBS",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUHJhaFNqMlh2ams0cVpsNDhCMUw4RDRsM3UxbzdHVDVkRmh0THVncWhMbWMxTDBMaUl0dDhlZjdBQTdDV0VOS01CTUtvb2JuTkdMcWt2Z3IwYlBfbG1teDIwRlZkRlEtZUtJVUFUem96TjI0ZGFySEl1eFFQSDA1YkM5b1hFejVKZzlhV0Y0VjNGTmQwbG9nTVN5UDdwUDNWNUZZUjJDbUxVSFllNUVrY0hlckgwenJIcnNHdTBqWdIBxAFBVV95cUxQVjVINGt0Y2R6b1cwSU54cGhjNFJMVXdiNTFTT0FHZTRsNW9uOHJqcTA2RDJOeFRlOE10dlE2UlhNeG5kbEt2T1h4dnJIcUcxWURSak03TGo1MlZYTE9aSkx4T2xaXzBmNFl3dWx1c2Y3SEVfUV91cjRLY2NTb0MtcDV5SmVucEhXTlV0aE1HdDJVV3dneFdhM3FLX0JwWEVkV05xVUFzNW5rRkFoWlE4RWVGUW5NV0dKVnBJTlVwQWhmX3B2?oc=5",
-      "source": "PBS",
-      "published_at": "Wed, 13 May 2026 19:20:15 GMT",
-      "summary": "Senate confirms Trump pick Warsh as chairman of the Federal Reserve, following Powell PBS",
-      "guid": "CBMivwFBVV95cUxNUHJhaFNqMlh2ams0cVpsNDhCMUw4RDRsM3UxbzdHVDVkRmh0THVncWhMbWMxTDBMaUl0dDhlZjdBQTdDV0VOS01CTUtvb2JuTkdMcWt2Z3IwYlBfbG1teDIwRlZkRlEtZUtJVUFUem96TjI0ZGFySEl1eFFQSDA1YkM5b1hFejVKZzlhV0Y0VjNGTmQwbG9nTVN5UDdwUDNWNUZZUjJDbUxVSFllNUVrY0hlckgwenJIcnNHdTBqWdIBxAFBVV95cUxQVjVINGt0Y2R6b1cwSU54cGhjNFJMVXdiNTFTT0FHZTRsNW9uOHJqcTA2RDJOeFRlOE10dlE2UlhNeG5kbEt2T1h4dnJIcUcxWURSak03TGo1MlZYTE9aSkx4T2xaXzBmNFl3dWx1c2Y3SEVfUV91cjRLY2NTb0MtcDV5SmVucEhXTlV0aE1HdDJVV3dneFdhM3FLX0JwWEVkV05xVUFzNW5rRkFoWlE4RWVGUW5NV0dKVnBJTlVwQWhmX3B2"
+      "title": "Federal Reserve keeps interest rates steady as inflation uncertainty rises - U.S. Bank",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw?oc=5",
+      "source": "U.S. Bank",
+      "published_at": "Wed, 29 Apr 2026 07:00:00 GMT",
+      "summary": "Federal Reserve keeps interest rates steady as inflation uncertainty rises U.S. Bank",
+      "guid": "CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw"
     },
     {
       "title": "Global Market Highlights for Next Week: NVIDIA Earnings and Federal Reserve Meeting Minutes to Test US Stock Market - 富途牛牛",
@@ -85,6 +77,14 @@
       "published_at": "Sat, 16 May 2026 21:33:16 GMT",
       "summary": "Global Market Highlights for Next Week: NVIDIA Earnings and Federal Reserve Meeting Minutes to Test US Stock Market 富途牛牛",
       "guid": "CBMiqwFBVV95cUxNemZyYkNXQU5ya3h4dW84ZkV3Q2hwYVI4c0JnTEZKeWFwR0I0M21qOHA5ZnRULUp4RnhsemZjQ1ZEMHlKSTBCeXhmZGF5cGtjMjhyanJBWUpDRmJfNjdEWEVNTE1LeFBiNUk4R1o4OUN3TGlEOUpVNnc5djgyRE5kX1dXWjZOZ3JKUkdhYVRDMk9EMUVCSHFSRGxQZVNUUk5GWlZ2amZucmNIQUk"
+    },
+    {
+      "title": "The Federal Reserve’s independence is hanging by a thread in the age of Trump - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYmJuUUdUVjZPQWI1Y1otQ2hPUTFaRGttSVFnUzR5VFg1OWd0S3NWUVRXd2tsR2dYbGpMclhsZTVYTWFXdmxXZ0ZpVmJwUGVQWU9oSjdvcGFWNldXUWVwLUR0S0VYWkttaWRzN01rSl9tVkhJUlpmWDl0RzRkdUZpWHhPcVVjMGh2eThr?oc=5",
+      "source": "The Guardian",
+      "published_at": "Fri, 15 May 2026 11:02:00 GMT",
+      "summary": "The Federal Reserve’s independence is hanging by a thread in the age of Trump The Guardian",
+      "guid": "CBMiiwFBVV95cUxPYmJuUUdUVjZPQWI1Y1otQ2hPUTFaRGttSVFnUzR5VFg1OWd0S3NWUVRXd2tsR2dYbGpMclhsZTVYTWFXdmxXZ0ZpVmJwUGVQWU9oSjdvcGFWNldXUWVwLUR0S0VYWkttaWRzN01rSl9tVkhJUlpmWDl0RzRkdUZpWHhPcVVjMGh2eThr"
     }
   ]
 }
