@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-05-18T05:54:13Z",
+  "generated_at": "2026-05-18T09:36:45Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "Wow! The Federal Reserve's May Inflation Forecast Was Just Updated, and Things Are Looking Worse for Wall Street. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcE5qRGhwRkdCdk5xOUxJa3B3QUVFNjdiREw5WlpxQ0l2OTFzVEp5Q2RsN19iUGF5SVMzWmR5a0FjcnZ5Si1JVXdrdEN5TGl2NWhJSUFfMFU4YjlkQnVxdXZESTM2d0k5V1NCSkU4RzFobTFSeU9VWkNXYWpycXlUVmxxVTllS3cxOGFWdkRmMEpPcEFsWlFrLXBoanduUWhQ?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Mon, 18 May 2026 08:26:00 GMT",
+      "summary": "Wow! The Federal Reserve's May Inflation Forecast Was Just Updated, and Things Are Looking Worse for Wall Street. Yahoo Finance",
+      "guid": "CBMioAFBVV95cUxNcE5qRGhwRkdCdk5xOUxJa3B3QUVFNjdiREw5WlpxQ0l2OTFzVEp5Q2RsN19iUGF5SVMzWmR5a0FjcnZ5Si1JVXdrdEN5TGl2NWhJSUFfMFU4YjlkQnVxdXZESTM2d0k5V1NCSkU4RzFobTFSeU9VWkNXYWpycXlUVmxxVTllS3cxOGFWdkRmMEpPcEFsWlFrLXBoanduUWhQ"
+    },
     {
       "title": "From Bad to Worse: The Federal Reserve's May Inflation Forecast Is Terrible News for Stock Investors - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNejhEY1lEY082RGFLbTN1TUQtZlZxM2lyM0VDdDZFZTN6bjE5NkJNLU14TmdydkktMnhiR2pEcnlEYjN5R3pucVBZd0R5ZDFBdDJZRHpKV1V0S2Y0Zm1qeXBNMmRZLTFadTBlRU1ZbEwxV0lHTXFlTGxrVXJUdlZGd09CeC1aelgtR3dDOUZZNGpOXy1KX1Vjcg?oc=5",
@@ -21,14 +29,6 @@
       "published_at": "Fri, 15 May 2026 22:00:00 GMT",
       "summary": "The New York Stock Exchange | NYSE NYSE",
       "guid": "CBMiP0FVX3lxTE93UWVlU3g1TVNpdTNEcjI2Yk9kSHU2Tnh5Y0stVFBGRWVkLW9wbU1EbHhQaHdIOE56d2V5NXVhSQ"
-    },
-    {
-      "title": "President Trump Threw a Wrench in Kevin Warsh's Plans as Federal Reserve Chairman, and It Could Be the Undoing of the Current Bull Market - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSkZMdlg2WmRvN2Q5NjIzUm9Ncm81WkNwcmNnNHRHUkgyT3A1eTlnYS0xR2NZXzZ2UUd2UFdaNk5mOUtOQnpIQmlUUlQta1VfVDhRU1NmVjFkMFctckpXLXc3MGJoakxFRlhyT05fdFBFbWw3TWFpOVdQR1U3aVpNNUVZTGVrZXZ1NjJjeFljY0pld2NuNkM0aU1kemw2clFG?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Sun, 17 May 2026 21:20:00 GMT",
-      "summary": "President Trump Threw a Wrench in Kevin Warsh's Plans as Federal Reserve Chairman, and It Could Be the Undoing of the Current Bull Market Yahoo Finance",
-      "guid": "CBMioAFBVV95cUxNSkZMdlg2WmRvN2Q5NjIzUm9Ncm81WkNwcmNnNHRHUkgyT3A1eTlnYS0xR2NZXzZ2UUd2UFdaNk5mOUtOQnpIQmlUUlQta1VfVDhRU1NmVjFkMFctckpXLXc3MGJoakxFRlhyT05fdFBFbWw3TWFpOVdQR1U3aVpNNUVZTGVrZXZ1NjJjeFljY0pld2NuNkM0aU1kemw2clFG"
     },
     {
       "title": "Gundlach says it’s ‘just not possible’ for the Fed to cut rates - Fortune",
@@ -63,6 +63,14 @@
       "guid": "CBMinAFBVV95cUxOdGkzQUI2NjRkbmRSUkVDUzBoS19vTk56V1RWRGk4TXhnc0U3UVZwLUFJaGtxUG0ydC13bk0tajU5aWdPdWxiQ0RlZGFNeDhpZVZUVW52aC13aXZNRmswNjRnZUZnd0J6alFDZzlXZ3VzOWUxdVlTTnlsbk5vd3lFMmlQRmxUVnhNZjVLSF9HWjF2SWJVaWxKdUNZRXQ"
     },
     {
+      "title": "Incoming U.S. Federal Reserve Chair Kevin Warsh in process of selling $1.68M worth of Coupang shares - Korea JoongAng Daily",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQZkQ3UzlLaEYwaVM0anVCRkRHclhPOUtieHJfSVBBWGUycGF5QU9tODZISkxKTDRUUDdOUmNXZnRhMGM3Rl9PTDk2R2xqYm11aGVIYXdIRUtTdEJPcHlWMUlfTjAtS1FjQkpFZktMNzNOX3o5WjdPeGRtMGNlOTVvV1lmTEY0ekVuQ3dwMDlLUnZqTGdKUWJXZU5LV2dmQlN6WF9keTJRQ1ZhVkp2b0hNQWJIVHRveFJ6SXB0R0VHNjlmNUkybkRhekx5WVIwZWZVU3JzcWJoekVNQi14Y0R4TXNNZEJkTE5lZWliNndvd3c1Tjc1RTJ3VmlkczNvVl94YjZ3Sw?oc=5",
+      "source": "Korea JoongAng Daily",
+      "published_at": "Mon, 18 May 2026 02:42:44 GMT",
+      "summary": "Incoming U.S. Federal Reserve Chair Kevin Warsh in process of selling $1.68M worth of Coupang shares Korea JoongAng Daily",
+      "guid": "CBMihAJBVV95cUxQZkQ3UzlLaEYwaVM0anVCRkRHclhPOUtieHJfSVBBWGUycGF5QU9tODZISkxKTDRUUDdOUmNXZnRhMGM3Rl9PTDk2R2xqYm11aGVIYXdIRUtTdEJPcHlWMUlfTjAtS1FjQkpFZktMNzNOX3o5WjdPeGRtMGNlOTVvV1lmTEY0ekVuQ3dwMDlLUnZqTGdKUWJXZU5LV2dmQlN6WF9keTJRQ1ZhVkp2b0hNQWJIVHRveFJ6SXB0R0VHNjlmNUkybkRhekx5WVIwZWZVU3JzcWJoekVNQi14Y0R4TXNNZEJkTE5lZWliNndvd3c1Tjc1RTJ3VmlkczNvVl94YjZ3Sw"
+    },
+    {
       "title": "Why Soaring Treasury Yields Are Spooking the Stock Market - Barron's",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTUhkTTA2Sm54eHpGVDVjNF9QUHdoem50bTdhR0Y4Z3c1dER3aEVMYlYxOG1NdlE5djdTUXBHcHFTaUhRWDdxeDF4TzBLbHZqdjM2YlFwb0RldFNwbVFvWVRXbUFmODRzMkgwanViQUxxNW9EZmVSSFUtY1Bmem45NHUyeE5PZ2hndlJTMDhIWmY?oc=5",
       "source": "Barron's",
@@ -77,14 +85,6 @@
       "published_at": "Sat, 16 May 2026 21:36:35 GMT",
       "summary": "Global Market Highlights for Next Week: NVIDIA Earnings and Federal Reserve Meeting Minutes to Test US Stock Market Moomoo",
       "guid": "CBMirAFBVV95cUxQbUZyMnRucGVnaFprd0J1dEc2aHMwNjR5d0Q1bmdVanVLTktCSHdhNUw4WC1lSmVFZFpvcHdKbTI1bzRsUFZLQ1lNb05iT3hqQnNKdUlxTnV6Y01oWHpROXZQUUtBeDlNMVhaeHJJNTRLLVUzMGRSTGVkZmFmeUxOd2lrVUJBVWhCSGtaOVFwbFNSanpYRVZvZ0JOclFyZkRCTWxGcWZLRVc2bTZW"
-    },
-    {
-      "title": "The Stock Market Sounds an Alarm as Investors Get a Warning From the Federal Reserve. History Says This Will Happen Next. - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd2R6Z0JISngydTZPOWtYUTlEUWVOb0w3VFJDZ21WRWV0NEs3QXB4ZGZHcG1zNzNOa3RZTmgwdWc2R0hIVnBMcXpKdl9hcjVSeVd5bkRtc3BRRnlpaWFPdzk0cTBWV1FycHFxdEZLcms5dVN5S1RoQThRQ2JaR1JRZmFTNzVTSlYzaVJDZHVpckk3QVRX?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Wed, 13 May 2026 09:48:00 GMT",
-      "summary": "The Stock Market Sounds an Alarm as Investors Get a Warning From the Federal Reserve. History Says This Will Happen Next. The Motley Fool",
-      "guid": "CBMilAFBVV95cUxNd2R6Z0JISngydTZPOWtYUTlEUWVOb0w3VFJDZ21WRWV0NEs3QXB4ZGZHcG1zNzNOa3RZTmgwdWc2R0hIVnBMcXpKdl9hcjVSeVd5bkRtc3BRRnlpaWFPdzk0cTBWV1FycHFxdEZLcms5dVN5S1RoQThRQ2JaR1JRZmFTNzVTSlYzaVJDZHVpckk3QVRX"
     }
   ]
 }
