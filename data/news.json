@@ -1,19 +1,11 @@
 {
-  "generated_at": "2026-05-19T19:24:45Z",
+  "generated_at": "2026-05-19T20:56:18Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
-    {
-      "title": "From Bad to Worse: The Federal Reserve's May Inflation Forecast Is Terrible News for Stock Investors - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNejhEY1lEY082RGFLbTN1TUQtZlZxM2lyM0VDdDZFZTN6bjE5NkJNLU14TmdydkktMnhiR2pEcnlEYjN5R3pucVBZd0R5ZDFBdDJZRHpKV1V0S2Y0Zm1qeXBNMmRZLTFadTBlRU1ZbEwxV0lHTXFlTGxrVXJUdlZGd09CeC1aelgtR3dDOUZZNGpOXy1KX1Vjcg?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Fri, 15 May 2026 05:01:00 GMT",
-      "summary": "From Bad to Worse: The Federal Reserve's May Inflation Forecast Is Terrible News for Stock Investors The Motley Fool",
-      "guid": "CBMimAFBVV95cUxNejhEY1lEY082RGFLbTN1TUQtZlZxM2lyM0VDdDZFZTN6bjE5NkJNLU14TmdydkktMnhiR2pEcnlEYjN5R3pucVBZd0R5ZDFBdDJZRHpKV1V0S2Y0Zm1qeXBNMmRZLTFadTBlRU1ZbEwxV0lHTXFlTGxrVXJUdlZGd09CeC1aelgtR3dDOUZZNGpOXy1KX1Vjcg"
-    },
     {
       "title": "Wow! The Federal Reserve's May Inflation Forecast Was Just Updated, and Things Are Looking Worse for Wall Street. - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcE5qRGhwRkdCdk5xOUxJa3B3QUVFNjdiREw5WlpxQ0l2OTFzVEp5Q2RsN19iUGF5SVMzWmR5a0FjcnZ5Si1JVXdrdEN5TGl2NWhJSUFfMFU4YjlkQnVxdXZESTM2d0k5V1NCSkU4RzFobTFSeU9VWkNXYWpycXlUVmxxVTllS3cxOGFWdkRmMEpPcEFsWlFrLXBoanduUWhQ?oc=5",
@@ -23,20 +15,20 @@
       "guid": "CBMioAFBVV95cUxNcE5qRGhwRkdCdk5xOUxJa3B3QUVFNjdiREw5WlpxQ0l2OTFzVEp5Q2RsN19iUGF5SVMzWmR5a0FjcnZ5Si1JVXdrdEN5TGl2NWhJSUFfMFU4YjlkQnVxdXZESTM2d0k5V1NCSkU4RzFobTFSeU9VWkNXYWpycXlUVmxxVTllS3cxOGFWdkRmMEpPcEFsWlFrLXBoanduUWhQ"
     },
     {
-      "title": "Federal Reserve rate hike fears impact market confidence as Nvidia earnings loom - Fox Business",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6NDlXdmhjMXdSWHFBZnREUlRwMkhFQk9obllYQ3RmeHd3ZU9pbU0zZk9JV05MSTFBN21HMkJObkJaZHVTS3hvN3dXdWNVWmpiN3pkZ0EwWTVhMW8?oc=5",
-      "source": "Fox Business",
-      "published_at": "Tue, 19 May 2026 13:55:34 GMT",
-      "summary": "Federal Reserve rate hike fears impact market confidence as Nvidia earnings loom Fox Business",
-      "guid": "CBMiW0FVX3lxTFB6NDlXdmhjMXdSWHFBZnREUlRwMkhFQk9obllYQ3RmeHd3ZU9pbU0zZk9JV05MSTFBN21HMkJObkJaZHVTS3hvN3dXdWNVWmpiN3pkZ0EwWTVhMW8"
-    },
-    {
       "title": "Interest rates are going up in July as the Fed grapples with inflation, Ed Yardeni says - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORDN5RElrX1k2WDZiZjZoVEUyRWFvUjNTNWM3NzVtSlRUd2ozNWpCZ0R2M3B0QXlPWnVfSUh5UFExSG9SeU10NlVvOHowbGN4MmRYdHFHUmFhVFYtTzhRRW1WNUd5WlIwdUNZXzlPSHYzRUh3ZGZpU2VVc1Zoa0RnMzgxRGtyWkdIclU5SVFQUGE4WkZlc2xXdURTM2tFZGkwaXh1MlVn?oc=5",
       "source": "Business Insider",
       "published_at": "Tue, 19 May 2026 14:26:00 GMT",
       "summary": "Interest rates are going up in July as the Fed grapples with inflation, Ed Yardeni says Business Insider",
       "guid": "CBMipgFBVV95cUxORDN5RElrX1k2WDZiZjZoVEUyRWFvUjNTNWM3NzVtSlRUd2ozNWpCZ0R2M3B0QXlPWnVfSUh5UFExSG9SeU10NlVvOHowbGN4MmRYdHFHUmFhVFYtTzhRRW1WNUd5WlIwdUNZXzlPSHYzRUh3ZGZpU2VVc1Zoa0RnMzgxRGtyWkdIclU5SVFQUGE4WkZlc2xXdURTM2tFZGkwaXh1MlVn"
+    },
+    {
+      "title": "Federal Reserve rate hike fears impact market confidence as Nvidia earnings loom - Fox Business",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6NDlXdmhjMXdSWHFBZnREUlRwMkhFQk9obllYQ3RmeHd3ZU9pbU0zZk9JV05MSTFBN21HMkJObkJaZHVTS3hvN3dXdWNVWmpiN3pkZ0EwWTVhMW8?oc=5",
+      "source": "Fox Business",
+      "published_at": "Tue, 19 May 2026 13:55:34 GMT",
+      "summary": "Federal Reserve rate hike fears impact market confidence as Nvidia earnings loom Fox Business",
+      "guid": "CBMiW0FVX3lxTFB6NDlXdmhjMXdSWHFBZnREUlRwMkhFQk9obllYQ3RmeHd3ZU9pbU0zZk9JV05MSTFBN21HMkJObkJaZHVTS3hvN3dXdWNVWmpiN3pkZ0EwWTVhMW8"
     },
     {
       "title": "Tracker: The Federal Reserve’s Balance Sheet Assets - The American Action Forum",
@@ -55,14 +47,6 @@
       "guid": "CBMiswFBVV95cUxOa2V2OFo4WjFPclRZRGtjZXJvb3dsaDVUM3FjRnVCTkxfX184eHRyQjJ2NFlDc09TUlZrUDZGUzQzTjgyV1drNG9PSnc2Y0RELWZ5LVktLTlFcGFFa2s0Qm04RzRoYjNRSE9aSGw3aDljNFEyUEZJS1RNa203WlBLdmxxS2lWNmNXT0pRZGdDcGdqdEZ1YmMxN2lhci1RdVRMTEJtWE5wM3RJSFhGMXJjMjdqZw"
     },
     {
-      "title": "New York Fed warns about $69 trillion foreign investment ‘burden’ on U.S. economy - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNMk8yQm1FbFVIY2VXSlV4MG1ZdmRDLVJrNDVvR2d6UjNPX0l4OE9XVHdEalRfTW8tUkE2QXcxajJMemUydnQ5aEtaOVdoN25Mb2sxbXJRZjlCVFdlWmZhdTRYdjZKNHB4cEhqNG16cEtQX3BhMUh6VkdBSW1wM0Q0OWZhQWxTQ19FMDZpV2hnaGhUbl9USTFacEQ5N0VSN2VBT3VSN24yanFjZFV6Q3hXRm53ZzdCNWw5VEpLRlk0cVVwOEp2TnF0WGFBMzB5VVhNYVVJYzZySS03d2hfY29fTw?oc=5",
-      "source": "Fortune",
-      "published_at": "Mon, 18 May 2026 19:31:00 GMT",
-      "summary": "New York Fed warns about $69 trillion foreign investment ‘burden’ on U.S. economy Fortune",
-      "guid": "CBMi4AFBVV95cUxNMk8yQm1FbFVIY2VXSlV4MG1ZdmRDLVJrNDVvR2d6UjNPX0l4OE9XVHdEalRfTW8tUkE2QXcxajJMemUydnQ5aEtaOVdoN25Mb2sxbXJRZjlCVFdlWmZhdTRYdjZKNHB4cEhqNG16cEtQX3BhMUh6VkdBSW1wM0Q0OWZhQWxTQ19FMDZpV2hnaGhUbl9USTFacEQ5N0VSN2VBT3VSN24yanFjZFV6Q3hXRm53ZzdCNWw5VEpLRlk0cVVwOEp2TnF0WGFBMzB5VVhNYVVJYzZySS03d2hfY29fTw"
-    },
-    {
       "title": "The Stock Market Sounds an Alarm as Investors Get a Warning From the Federal Reserve. History Says This Will Happen Next. - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd2R6Z0JISngydTZPOWtYUTlEUWVOb0w3VFJDZ21WRWV0NEs3QXB4ZGZHcG1zNzNOa3RZTmgwdWc2R0hIVnBMcXpKdl9hcjVSeVd5bkRtc3BRRnlpaWFPdzk0cTBWV1FycHFxdEZLcms5dVN5S1RoQThRQ2JaR1JRZmFTNzVTSlYzaVJDZHVpckk3QVRX?oc=5",
       "source": "The Motley Fool",
@@ -71,12 +55,28 @@
       "guid": "CBMilAFBVV95cUxNd2R6Z0JISngydTZPOWtYUTlEUWVOb0w3VFJDZ21WRWV0NEs3QXB4ZGZHcG1zNzNOa3RZTmgwdWc2R0hIVnBMcXpKdl9hcjVSeVd5bkRtc3BRRnlpaWFPdzk0cTBWV1FycHFxdEZLcms5dVN5S1RoQThRQ2JaR1JRZmFTNzVTSlYzaVJDZHVpckk3QVRX"
     },
     {
+      "title": "New York Fed warns about $69 trillion foreign investment ‘burden’ on U.S. economy - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNMk8yQm1FbFVIY2VXSlV4MG1ZdmRDLVJrNDVvR2d6UjNPX0l4OE9XVHdEalRfTW8tUkE2QXcxajJMemUydnQ5aEtaOVdoN25Mb2sxbXJRZjlCVFdlWmZhdTRYdjZKNHB4cEhqNG16cEtQX3BhMUh6VkdBSW1wM0Q0OWZhQWxTQ19FMDZpV2hnaGhUbl9USTFacEQ5N0VSN2VBT3VSN24yanFjZFV6Q3hXRm53ZzdCNWw5VEpLRlk0cVVwOEp2TnF0WGFBMzB5VVhNYVVJYzZySS03d2hfY29fTw?oc=5",
+      "source": "Fortune",
+      "published_at": "Mon, 18 May 2026 19:31:00 GMT",
+      "summary": "New York Fed warns about $69 trillion foreign investment ‘burden’ on U.S. economy Fortune",
+      "guid": "CBMi4AFBVV95cUxNMk8yQm1FbFVIY2VXSlV4MG1ZdmRDLVJrNDVvR2d6UjNPX0l4OE9XVHdEalRfTW8tUkE2QXcxajJMemUydnQ5aEtaOVdoN25Mb2sxbXJRZjlCVFdlWmZhdTRYdjZKNHB4cEhqNG16cEtQX3BhMUh6VkdBSW1wM0Q0OWZhQWxTQ19FMDZpV2hnaGhUbl9USTFacEQ5N0VSN2VBT3VSN24yanFjZFV6Q3hXRm53ZzdCNWw5VEpLRlk0cVVwOEp2TnF0WGFBMzB5VVhNYVVJYzZySS03d2hfY29fTw"
+    },
+    {
       "title": "Remember, the Federal Reserve could spook your stock portfolio soon - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSkRxMGZRaWItRXBzMXhMaW9WVHl2U3d4SU1GT09tLUJITW1QWXgzN3BnUGtrdFNtUEJwaG5uRVRhSTZhbDJ1NVpXMW9PR2dHVW1Nb2dxTElqOUxCVFVLdjQ2d2NPNGZJTlc0RVJfTkxpdm9JRk9yU0FYTEN5TTlORTVSVmxwLUFad3Q0VkR6Y3hibmZKX1JnTnFNMU9LMWMtemttWFZoQjN1cTdZMElLT3dn?oc=5",
       "source": "Yahoo Finance",
       "published_at": "Sun, 10 May 2026 07:00:00 GMT",
       "summary": "Remember, the Federal Reserve could spook your stock portfolio soon Yahoo Finance",
       "guid": "CBMisgFBVV95cUxQSkRxMGZRaWItRXBzMXhMaW9WVHl2U3d4SU1GT09tLUJITW1QWXgzN3BnUGtrdFNtUEJwaG5uRVRhSTZhbDJ1NVpXMW9PR2dHVW1Nb2dxTElqOUxCVFVLdjQ2d2NPNGZJTlc0RVJfTkxpdm9JRk9yU0FYTEN5TTlORTVSVmxwLUFad3Q0VkR6Y3hibmZKX1JnTnFNMU9LMWMtemttWFZoQjN1cTdZMElLT3dn"
+    },
+    {
+      "title": "Will the Federal Reserve Crash the Stock Market? 3 Reasons to Watch Trump's Nominee, Kevin Warsh, on May 15 - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONGxNVVF0ZTdOOGNaQlhJQTM0WGRRQ0hLaHRVTHl3eXI4ZFRSeDRNUkV1ZHFXNTVoQ1EtY3ZtS2pUTXFHMEVEZ3o3THVhR3I3dGdhRnhrVVgyR1QxX0Y3SFh5c2x4YWRWYlQ3VHgtSDRqWWFwcmJkMWUzRUdFRjVKY015VnFreWhnOWVPbWtHRG8yZktCQ1hj?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Tue, 12 May 2026 13:00:00 GMT",
+      "summary": "Will the Federal Reserve Crash the Stock Market? 3 Reasons to Watch Trump's Nominee, Kevin Warsh, on May 15 The Motley Fool",
+      "guid": "CBMilwFBVV95cUxONGxNVVF0ZTdOOGNaQlhJQTM0WGRRQ0hLaHRVTHl3eXI4ZFRSeDRNUkV1ZHFXNTVoQ1EtY3ZtS2pUTXFHMEVEZ3o3THVhR3I3dGdhRnhrVVgyR1QxX0Y3SFh5c2x4YWRWYlQ3VHgtSDRqWWFwcmJkMWUzRUdFRjVKY015VnFreWhnOWVPbWtHRG8yZktCQ1hj"
     },
     {
       "title": "Federal Reserve keeps interest rates steady as inflation uncertainty rises - U.S. Bank",
