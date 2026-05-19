@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-19T01:33:20Z",
+  "generated_at": "2026-05-19T05:49:17Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -23,12 +23,12 @@
       "guid": "CBMimAFBVV95cUxNejhEY1lEY082RGFLbTN1TUQtZlZxM2lyM0VDdDZFZTN6bjE5NkJNLU14TmdydkktMnhiR2pEcnlEYjN5R3pucVBZd0R5ZDFBdDJZRHpKV1V0S2Y0Zm1qeXBNMmRZLTFadTBlRU1ZbEwxV0lHTXFlTGxrVXJUdlZGd09CeC1aelgtR3dDOUZZNGpOXy1KX1Vjcg"
     },
     {
-      "title": "The New Federal Reserve Chair Can Cause This Small-Cap Stock ETF to Surge - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYTNVM0l4MWVFSkNpX0paNGJaV2tHTm84MnhDOGlNcnhfV0ZzdHZGQTI4RnR3TzdBRnFWYm9KNXVLaEcwUmxGb2pqQmYxQVdaNWYxV3puRkpDVFFiUHRER0xhRGJ5THR1MFdwc3ZIX01XSnFVU0NZcmNIdk5UOVZjSHZCRm04YnVuZHRlU0c2VHF3bkI2R0phRWxESzJmR0ZUREV6eGs5V001bWoyVHZVMFd2bDc0cXhS?oc=5",
-      "source": "24/7 Wall St.",
-      "published_at": "Mon, 18 May 2026 16:11:55 GMT",
-      "summary": "The New Federal Reserve Chair Can Cause This Small-Cap Stock ETF to Surge 24/7 Wall St.",
-      "guid": "CBMiuAFBVV95cUxPYTNVM0l4MWVFSkNpX0paNGJaV2tHTm84MnhDOGlNcnhfV0ZzdHZGQTI4RnR3TzdBRnFWYm9KNXVLaEcwUmxGb2pqQmYxQVdaNWYxV3puRkpDVFFiUHRER0xhRGJ5THR1MFdwc3ZIX01XSnFVU0NZcmNIdk5UOVZjSHZCRm04YnVuZHRlU0c2VHF3bkI2R0phRWxESzJmR0ZUREV6eGs5V001bWoyVHZVMFd2bDc0cXhS"
+      "title": "Dallas Fed Survey: Bank Loan Demand Accelerates in March as CRE Activity Strengthens - Fort Worth Inc.",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNS1DX2RlZ3BTTWlONkszQlRPRGt0dHJqQ3lodS1ucm85SHZsOU9vdzJKcEJVMll2aldjTFdRVmYtSWd1VExaekVLcWw4cF9RRzBCWk5EMHpRck92WDQzckhjMW1CRU9QSG12VmhKVTRuLWJZYzc1NDlweWV4RnYya2t3VDdEdGF3emMzaGpwd2RybjdXVXc?oc=5",
+      "source": "Fort Worth Inc.",
+      "published_at": "Mon, 18 May 2026 19:59:54 GMT",
+      "summary": "Dallas Fed Survey: Bank Loan Demand Accelerates in March as CRE Activity Strengthens Fort Worth Inc.",
+      "guid": "CBMilgFBVV95cUxQNS1DX2RlZ3BTTWlONkszQlRPRGt0dHJqQ3lodS1ucm85SHZsOU9vdzJKcEJVMll2aldjTFdRVmYtSWd1VExaekVLcWw4cF9RRzBCWk5EMHpRck92WDQzckhjMW1CRU9QSG12VmhKVTRuLWJZYzc1NDlweWV4RnYya2t3VDdEdGF3emMzaGpwd2RybjdXVXc"
     },
     {
       "title": "Tracker: The Federal Reserve’s Balance Sheet Assets - The American Action Forum",
@@ -37,6 +37,14 @@
       "published_at": "Fri, 15 May 2026 07:00:00 GMT",
       "summary": "Tracker: The Federal Reserve’s Balance Sheet Assets The American Action Forum",
       "guid": "CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0"
+    },
+    {
+      "title": "The New Federal Reserve Chair Can Cause This Small-Cap Stock ETF to Surge - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYTNVM0l4MWVFSkNpX0paNGJaV2tHTm84MnhDOGlNcnhfV0ZzdHZGQTI4RnR3TzdBRnFWYm9KNXVLaEcwUmxGb2pqQmYxQVdaNWYxV3puRkpDVFFiUHRER0xhRGJ5THR1MFdwc3ZIX01XSnFVU0NZcmNIdk5UOVZjSHZCRm04YnVuZHRlU0c2VHF3bkI2R0phRWxESzJmR0ZUREV6eGs5V001bWoyVHZVMFd2bDc0cXhS?oc=5",
+      "source": "24/7 Wall St.",
+      "published_at": "Mon, 18 May 2026 16:11:55 GMT",
+      "summary": "The New Federal Reserve Chair Can Cause This Small-Cap Stock ETF to Surge 24/7 Wall St.",
+      "guid": "CBMiuAFBVV95cUxPYTNVM0l4MWVFSkNpX0paNGJaV2tHTm84MnhDOGlNcnhfV0ZzdHZGQTI4RnR3TzdBRnFWYm9KNXVLaEcwUmxGb2pqQmYxQVdaNWYxV3puRkpDVFFiUHRER0xhRGJ5THR1MFdwc3ZIX01XSnFVU0NZcmNIdk5UOVZjSHZCRm04YnVuZHRlU0c2VHF3bkI2R0phRWxESzJmR0ZUREV6eGs5V001bWoyVHZVMFd2bDc0cXhS"
     },
     {
       "title": "Federal Reserve Monetary Policy - U.S. Bank",
@@ -77,14 +85,6 @@
       "published_at": "Wed, 29 Apr 2026 07:00:00 GMT",
       "summary": "Federal Reserve keeps interest rates steady as inflation uncertainty rises U.S. Bank",
       "guid": "CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw"
-    },
-    {
-      "title": "Will the Federal Reserve Crash the Stock Market? 3 Reasons to Watch Trump's Nominee, Kevin Warsh, on May 15 - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONGxNVVF0ZTdOOGNaQlhJQTM0WGRRQ0hLaHRVTHl3eXI4ZFRSeDRNUkV1ZHFXNTVoQ1EtY3ZtS2pUTXFHMEVEZ3o3THVhR3I3dGdhRnhrVVgyR1QxX0Y3SFh5c2x4YWRWYlQ3VHgtSDRqWWFwcmJkMWUzRUdFRjVKY015VnFreWhnOWVPbWtHRG8yZktCQ1hj?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Tue, 12 May 2026 13:00:00 GMT",
-      "summary": "Will the Federal Reserve Crash the Stock Market? 3 Reasons to Watch Trump's Nominee, Kevin Warsh, on May 15 The Motley Fool",
-      "guid": "CBMilwFBVV95cUxONGxNVVF0ZTdOOGNaQlhJQTM0WGRRQ0hLaHRVTHl3eXI4ZFRSeDRNUkV1ZHFXNTVoQ1EtY3ZtS2pUTXFHMEVEZ3o3THVhR3I3dGdhRnhrVVgyR1QxX0Y3SFh5c2x4YWRWYlQ3VHgtSDRqWWFwcmJkMWUzRUdFRjVKY015VnFreWhnOWVPbWtHRG8yZktCQ1hj"
     }
   ]
 }
