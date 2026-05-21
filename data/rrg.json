@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T20:22:49Z",
+  "generated_at": "2026-05-21T23:03:12Z",
   "benchmark": "SPY",
   "sectors": [
     {
@@ -24,7 +24,7 @@
         },
         {
           "rsRatio": 100.86,
-          "rsMomentum": 100.26
+          "rsMomentum": 100.27
         }
       ]
     },
@@ -50,7 +50,7 @@
         },
         {
           "rsRatio": 101.17,
-          "rsMomentum": 100.4
+          "rsMomentum": 100.41
         }
       ]
     },
@@ -101,7 +101,7 @@
           "rsMomentum": 96.21
         },
         {
-          "rsRatio": 100.47,
+          "rsRatio": 100.48,
           "rsMomentum": 98.29
         }
       ]
@@ -127,8 +127,8 @@
           "rsMomentum": 101.76
         },
         {
-          "rsRatio": 100.25,
-          "rsMomentum": 100.69
+          "rsRatio": 100.26,
+          "rsMomentum": 100.7
         }
       ]
     },
@@ -154,7 +154,7 @@
         },
         {
           "rsRatio": 99.42,
-          "rsMomentum": 98.86
+          "rsMomentum": 98.87
         }
       ]
     },
@@ -180,7 +180,7 @@
         },
         {
           "rsRatio": 98.63,
-          "rsMomentum": 100.03
+          "rsMomentum": 100.04
         }
       ]
     },
@@ -206,7 +206,7 @@
         },
         {
           "rsRatio": 97.92,
-          "rsMomentum": 100.82
+          "rsMomentum": 100.83
         }
       ]
     },
@@ -231,7 +231,7 @@
           "rsMomentum": 99.73
         },
         {
-          "rsRatio": 100.47,
+          "rsRatio": 100.48,
           "rsMomentum": 101.08
         }
       ]
@@ -257,8 +257,8 @@
           "rsMomentum": 100.26
         },
         {
-          "rsRatio": 100.42,
-          "rsMomentum": 100.08
+          "rsRatio": 100.43,
+          "rsMomentum": 100.09
         }
       ]
     },
@@ -283,11 +283,11 @@
           "rsMomentum": 99.41
         },
         {
-          "rsRatio": 99.44,
+          "rsRatio": 99.45,
           "rsMomentum": 100.06
         }
       ]
     }
   ],
-  "lastUpdated": "2026-05-21T20:22:49Z"
+  "lastUpdated": "2026-05-21T23:03:12Z"
 }
