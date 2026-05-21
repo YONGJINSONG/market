@@ -1,19 +1,11 @@
 {
-  "generated_at": "2026-05-21T18:25:15Z",
+  "generated_at": "2026-05-21T20:16:32Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
-    {
-      "title": "Stock Market News for May 21, 2026 - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTmIxYUMzX3UtRW9SX1Eyb3d2UEl4WjBxbTlORlUzblBfeXB6OFctb1pwek5YdzRoSm4xcy1yX2dYRnp4clUwcWRfWThkWjE1bDhlN3dTNE9DV01FRzhnakNOYkNZdGxKVF9Fa0gxNnliMmd6NmxfMmVsUkNxTGZIeXdfVDlDUnNfMjdvUUxFcVdZYTRLSVlqN1VSaGQwbVZsOUxheFBlVFVvd2RQQ0tGN05RN2pGYjA?oc=5",
-      "source": "The Globe and Mail",
-      "published_at": "Thu, 21 May 2026 11:50:31 GMT",
-      "summary": "Stock Market News for May 21, 2026 The Globe and Mail",
-      "guid": "CBMitwFBVV95cUxNTmIxYUMzX3UtRW9SX1Eyb3d2UEl4WjBxbTlORlUzblBfeXB6OFctb1pwek5YdzRoSm4xcy1yX2dYRnp4clUwcWRfWThkWjE1bDhlN3dTNE9DV01FRzhnakNOYkNZdGxKVF9Fa0gxNnliMmd6NmxfMmVsUkNxTGZIeXdfVDlDUnNfMjdvUUxFcVdZYTRLSVlqN1VSaGQwbVZsOUxheFBlVFVvd2RQQ0tGN05RN2pGYjA"
-    },
     {
       "title": "Wow! The Federal Reserve's May Inflation Forecast Was Just Updated, and Things Are Looking Worse for Wall Street. - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcE5qRGhwRkdCdk5xOUxJa3B3QUVFNjdiREw5WlpxQ0l2OTFzVEp5Q2RsN19iUGF5SVMzWmR5a0FjcnZ5Si1JVXdrdEN5TGl2NWhJSUFfMFU4YjlkQnVxdXZESTM2d0k5V1NCSkU4RzFobTFSeU9VWkNXYWpycXlUVmxxVTllS3cxOGFWdkRmMEpPcEFsWlFrLXBoanduUWhQ?oc=5",
@@ -61,6 +53,14 @@
       "published_at": "Sat, 25 Apr 2026 07:00:00 GMT",
       "summary": "Stock Market Week Ahead: Hyperscaler Blitz, Federal Reserve Transition Investor's Business Daily",
       "guid": "CBMi0wFBVV95cUxQbVNHb0JHaWxMRU9KRHNWeTdZREcxWkd5Z2ZaeFpxbnNXVGxfcGVYTTlIdlBMaktBY2ZuT1E0Z3paSENvdVFYQ0cwTy10OElPMkF6WmNUWWxaUFk4N1puS2l5X3JhbnpCQ0oxNm5qQWRITFhBallCQnV2TF9VMWdLLXpOb1JxUDZGd1V1cHdQLS11dnFjUmtXNXBwa3pmb3pUN0wtaFhieUdQeDBNN0ZJSXpOOTJUOUt4Y0w3WkcydUROemRuRmpFRU1pSWNzb3BoMTVz"
+    },
+    {
+      "title": "The Bond Market Just Handed U.S. Taxpayers $2 Trillion in Bad News - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTlh5ZGxwNlRFb3FpVlAyQi1UOHpsbUVLRnV6eHRpQWtLYUdFa21sOUlfa0l6U3pXZTVnUzV5bU9UQUJ0X2VfZGJhWFlaVmZaM29SdUlGZzNfN1UxSUhGdXVXSTcyXzhBQWRiWEhmUVIxZmoxZV9SeXZ0RmhQUVEwTTZwVTZ3ak1ha3NTT0Uxcy1kRGptQUwyUmxDYlJ1SUlwdTYzbDlSVTZPcHRq?oc=5",
+      "source": "24/7 Wall St.",
+      "published_at": "Wed, 20 May 2026 16:07:27 GMT",
+      "summary": "The Bond Market Just Handed U.S. Taxpayers $2 Trillion in Bad News 24/7 Wall St.",
+      "guid": "CBMirAFBVV95cUxOTlh5ZGxwNlRFb3FpVlAyQi1UOHpsbUVLRnV6eHRpQWtLYUdFa21sOUlfa0l6U3pXZTVnUzV5bU9UQUJ0X2VfZGJhWFlaVmZaM29SdUlGZzNfN1UxSUhGdXVXSTcyXzhBQWRiWEhmUVIxZmoxZV9SeXZ0RmhQUVEwTTZwVTZ3ak1ha3NTT0Uxcy1kRGptQUwyUmxDYlJ1SUlwdTYzbDlSVTZPcHRq"
     },
     {
       "title": "The Stock Market Sounds an Alarm as Investors Get a Warning From the Federal Reserve. History Says This Will Happen Next. - Yahoo Finance",
