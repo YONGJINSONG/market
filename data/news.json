@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-05-22T20:45:41Z",
+  "generated_at": "2026-05-22T21:56:09Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "Turkey's markets rebound after politics-driven tumble - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa21iRWZqcS1HQ2dBV2g2bUdYcXJZdmhySl9nQjZCdjZJZEQ1REdGRDNRZ1JMQXMzb0tjQ05KM2k2Nm9ub2UyTXhOUGV3SFpqOEFEM2t6elRSODFUVUNrbldjR3hxWExIV19PVVBSTHp0MWNreXZ1SjF4VkZyejR6c0pMazNGd3dqU3NjODByb2M0WkQxY0hRTElHS21PZXN3WkhnUmdmQWpUQlhzbWFUMQ?oc=5",
+      "source": "Reuters",
+      "published_at": "Fri, 22 May 2026 14:52:04 GMT",
+      "summary": "Turkey's markets rebound after politics-driven tumble Reuters",
+      "guid": "CBMisAFBVV95cUxNa21iRWZqcS1HQ2dBV2g2bUdYcXJZdmhySl9nQjZCdjZJZEQ1REdGRDNRZ1JMQXMzb0tjQ05KM2k2Nm9ub2UyTXhOUGV3SFpqOEFEM2t6elRSODFUVUNrbldjR3hxWExIV19PVVBSTHp0MWNreXZ1SjF4VkZyejR6c0pMazNGd3dqU3NjODByb2M0WkQxY0hRTElHS21PZXN3WkhnUmdmQWpUQlhzbWFUMQ"
+    },
     {
       "title": "Opinion: The oil shock meets the Fed ‘curse’: What Kevin Warsh means for your portfolio - MarketWatch",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPY2dldFZLLXoydFdIbG93NnA2YWxtbk41S2hBNDhhMjVDZmI2bmV6d0s2QW1sX0VoZ1NOVC1uYml3b2RCdFNiR0tjaE1rWWI4c0xfQXNuNF9RN2kxQk42S01YS0FIRnBRb3Y0QjFxNU5HbFNLN0V3YkNaaTNRVDVPUEhtb2NzTXlGZjF4SG9RU2poVVNlODl1WVBzdmZCREF5Z05JekpKakVlVXAySVBsUDBYNlhfUy1kQkJZYzEwZHBYelRJakdITUtyRGlocEJ1QWc?oc=5",
@@ -15,12 +23,12 @@
       "guid": "CBMi0gFBVV95cUxPY2dldFZLLXoydFdIbG93NnA2YWxtbk41S2hBNDhhMjVDZmI2bmV6d0s2QW1sX0VoZ1NOVC1uYml3b2RCdFNiR0tjaE1rWWI4c0xfQXNuNF9RN2kxQk42S01YS0FIRnBRb3Y0QjFxNU5HbFNLN0V3YkNaaTNRVDVPUEhtb2NzTXlGZjF4SG9RU2poVVNlODl1WVBzdmZCREF5Z05JekpKakVlVXAySVBsUDBYNlhfUy1kQkJZYzEwZHBYelRJakdITUtyRGlocEJ1QWc"
     },
     {
-      "title": "Remember, the Federal Reserve could spook your stock portfolio soon - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSkRxMGZRaWItRXBzMXhMaW9WVHl2U3d4SU1GT09tLUJITW1QWXgzN3BnUGtrdFNtUEJwaG5uRVRhSTZhbDJ1NVpXMW9PR2dHVW1Nb2dxTElqOUxCVFVLdjQ2d2NPNGZJTlc0RVJfTkxpdm9JRk9yU0FYTEN5TTlORTVSVmxwLUFad3Q0VkR6Y3hibmZKX1JnTnFNMU9LMWMtemttWFZoQjN1cTdZMElLT3dn?oc=5",
+      "title": "The Stock Market Sounds an Alarm as Investors Get a Warning From the Federal Reserve. History Says This Will Happen Next. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVTJiWEdWcGlORUlRTXZwQXg1dHRmY3VzNkdTQ2FzNlBmMVZ0bGNJbDEyNURaWW1yc3VCenU5SnFFOXFqV3VFMTl0S3dRakFSWTEtUE4xRjVWdWdDd2MwTlNGZzhCdFp5VXVSZGZndUljSkpodGU5M2RtSVlnY0ZTaGs3b3dfcnMy?oc=5",
       "source": "Yahoo Finance",
-      "published_at": "Sun, 10 May 2026 07:00:00 GMT",
-      "summary": "Remember, the Federal Reserve could spook your stock portfolio soon Yahoo Finance",
-      "guid": "CBMisgFBVV95cUxQSkRxMGZRaWItRXBzMXhMaW9WVHl2U3d4SU1GT09tLUJITW1QWXgzN3BnUGtrdFNtUEJwaG5uRVRhSTZhbDJ1NVpXMW9PR2dHVW1Nb2dxTElqOUxCVFVLdjQ2d2NPNGZJTlc0RVJfTkxpdm9JRk9yU0FYTEN5TTlORTVSVmxwLUFad3Q0VkR6Y3hibmZKX1JnTnFNMU9LMWMtemttWFZoQjN1cTdZMElLT3dn"
+      "published_at": "Wed, 13 May 2026 07:00:00 GMT",
+      "summary": "The Stock Market Sounds an Alarm as Investors Get a Warning From the Federal Reserve. History Says This Will Happen Next. Yahoo Finance",
+      "guid": "CBMiiAFBVV95cUxNVTJiWEdWcGlORUlRTXZwQXg1dHRmY3VzNkdTQ2FzNlBmMVZ0bGNJbDEyNURaWW1yc3VCenU5SnFFOXFqV3VFMTl0S3dRakFSWTEtUE4xRjVWdWdDd2MwTlNGZzhCdFp5VXVSZGZndUljSkpodGU5M2RtSVlnY0ZTaGs3b3dfcnMy"
     },
     {
       "title": "Federal Reserve Monetary Policy - U.S. Bank",
@@ -55,14 +63,6 @@
       "guid": "CBMiiwJBVV95cUxQQ09uekViU0l1NG1hMTdCaVVuTUFVQWJsVU5QUnprakUwMHkxNkpXeE02bUczR0syeGYwZWxXUlJmM3puNDZFSlVNdnJxcXFVeXJLSUJkbVByQ01QZVJvZmtyT3lLUlF3MklMWFUwV0lJQ0YybjNhTmZ2dThMRC1PNjFOWkxpclNwRTRDdmxkNVVuOGFJeV9CZ3FYd1JVWHRiMGhSMk9hWVJEVmRmS3diQWtPekFHUTM1Y1pOYjhHNEZTTE51RkpJdUhYbjI4WGwyNHJHZnBpamhIUzgzeURaQkZWeWgtOG9mcHlMMFpjMUlfZXM3SUE3VGRYeWdMRnNtWTdRS0d1dTIyQVnSAZACQVVfeXFMT1kzOHV1dVdLcjNqV1pSTkpHdkQ1VnBNWGcxcEZDakNFdkc2WmIxVlNHVEYwN3BKRVJxM3dNWVhGRlBQaXNoRnliSXZLbElNcUY0cW9fQzExNEVqaENGb25UWE1HZ0dMZzlVR3pUbkVXYjZHbFkxZi12d0Y0VGxfamdvY2V4SlhjTFpTREI3Szd6RE5wbWNBNXF2WWtDZ1hzWU9TUkpLSFZ3b1lhemU4WEN0Y1VJaUpOVXo3TTFyUzJ1RDVoakxBd1g1TmFkTGtVcFBXXzBNcTV6WGJjZXNBSkxRck9hMHdMY2wwLXdza1RQV2NldWN5dGs2X09CeHlfU0ItTl9tdHQ4ZzVVMC1kMGg"
     },
     {
-      "title": "Global Market Highlights for Next Week: NVIDIA Earnings and Federal Reserve Meeting Minutes to Test US Stock Market - Moomoo",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbUZyMnRucGVnaFprd0J1dEc2aHMwNjR5d0Q1bmdVanVLTktCSHdhNUw4WC1lSmVFZFpvcHdKbTI1bzRsUFZLQ1lNb05iT3hqQnNKdUlxTnV6Y01oWHpROXZQUUtBeDlNMVhaeHJJNTRLLVUzMGRSTGVkZmFmeUxOd2lrVUJBVWhCSGtaOVFwbFNSanpYRVZvZ0JOclFyZkRCTWxGcWZLRVc2bTZW?oc=5",
-      "source": "Moomoo",
-      "published_at": "Sat, 16 May 2026 21:33:16 GMT",
-      "summary": "Global Market Highlights for Next Week: NVIDIA Earnings and Federal Reserve Meeting Minutes to Test US Stock Market Moomoo",
-      "guid": "CBMirAFBVV95cUxQbUZyMnRucGVnaFprd0J1dEc2aHMwNjR5d0Q1bmdVanVLTktCSHdhNUw4WC1lSmVFZFpvcHdKbTI1bzRsUFZLQ1lNb05iT3hqQnNKdUlxTnV6Y01oWHpROXZQUUtBeDlNMVhaeHJJNTRLLVUzMGRSTGVkZmFmeUxOd2lrVUJBVWhCSGtaOVFwbFNSanpYRVZvZ0JOclFyZkRCTWxGcWZLRVc2bTZW"
-    },
-    {
       "title": "Stock Market Week Ahead: Hyperscaler Blitz, Federal Reserve Transition - Investor's Business Daily",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbVNHb0JHaWxMRU9KRHNWeTdZREcxWkd5Z2ZaeFpxbnNXVGxfcGVYTTlIdlBMaktBY2ZuT1E0Z3paSENvdVFYQ0cwTy10OElPMkF6WmNUWWxaUFk4N1puS2l5X3JhbnpCQ0oxNm5qQWRITFhBallCQnV2TF9VMWdLLXpOb1JxUDZGd1V1cHdQLS11dnFjUmtXNXBwa3pmb3pUN0wtaFhieUdQeDBNN0ZJSXpOOTJUOUt4Y0w3WkcydUROemRuRmpFRU1pSWNzb3BoMTVz?oc=5",
       "source": "Investor's Business Daily",
@@ -71,20 +71,20 @@
       "guid": "CBMi0wFBVV95cUxQbVNHb0JHaWxMRU9KRHNWeTdZREcxWkd5Z2ZaeFpxbnNXVGxfcGVYTTlIdlBMaktBY2ZuT1E0Z3paSENvdVFYQ0cwTy10OElPMkF6WmNUWWxaUFk4N1puS2l5X3JhbnpCQ0oxNm5qQWRITFhBallCQnV2TF9VMWdLLXpOb1JxUDZGd1V1cHdQLS11dnFjUmtXNXBwa3pmb3pUN0wtaFhieUdQeDBNN0ZJSXpOOTJUOUt4Y0w3WkcydUROemRuRmpFRU1pSWNzb3BoMTVz"
     },
     {
-      "title": "Wow! The Federal Reserve's May Inflation Forecast Was Just Updated, and Things Are Looking Worse for Wall Street. - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcE5qRGhwRkdCdk5xOUxJa3B3QUVFNjdiREw5WlpxQ0l2OTFzVEp5Q2RsN19iUGF5SVMzWmR5a0FjcnZ5Si1JVXdrdEN5TGl2NWhJSUFfMFU4YjlkQnVxdXZESTM2d0k5V1NCSkU4RzFobTFSeU9VWkNXYWpycXlUVmxxVTllS3cxOGFWdkRmMEpPcEFsWlFrLXBoanduUWhQ?oc=5",
+      "title": "Remember, the Federal Reserve could spook your stock portfolio soon - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSkRxMGZRaWItRXBzMXhMaW9WVHl2U3d4SU1GT09tLUJITW1QWXgzN3BnUGtrdFNtUEJwaG5uRVRhSTZhbDJ1NVpXMW9PR2dHVW1Nb2dxTElqOUxCVFVLdjQ2d2NPNGZJTlc0RVJfTkxpdm9JRk9yU0FYTEN5TTlORTVSVmxwLUFad3Q0VkR6Y3hibmZKX1JnTnFNMU9LMWMtemttWFZoQjN1cTdZMElLT3dn?oc=5",
       "source": "Yahoo Finance",
-      "published_at": "Mon, 18 May 2026 08:26:00 GMT",
-      "summary": "Wow! The Federal Reserve's May Inflation Forecast Was Just Updated, and Things Are Looking Worse for Wall Street. Yahoo Finance",
-      "guid": "CBMioAFBVV95cUxNcE5qRGhwRkdCdk5xOUxJa3B3QUVFNjdiREw5WlpxQ0l2OTFzVEp5Q2RsN19iUGF5SVMzWmR5a0FjcnZ5Si1JVXdrdEN5TGl2NWhJSUFfMFU4YjlkQnVxdXZESTM2d0k5V1NCSkU4RzFobTFSeU9VWkNXYWpycXlUVmxxVTllS3cxOGFWdkRmMEpPcEFsWlFrLXBoanduUWhQ"
+      "published_at": "Sun, 10 May 2026 07:00:00 GMT",
+      "summary": "Remember, the Federal Reserve could spook your stock portfolio soon Yahoo Finance",
+      "guid": "CBMisgFBVV95cUxQSkRxMGZRaWItRXBzMXhMaW9WVHl2U3d4SU1GT09tLUJITW1QWXgzN3BnUGtrdFNtUEJwaG5uRVRhSTZhbDJ1NVpXMW9PR2dHVW1Nb2dxTElqOUxCVFVLdjQ2d2NPNGZJTlc0RVJfTkxpdm9JRk9yU0FYTEN5TTlORTVSVmxwLUFad3Q0VkR6Y3hibmZKX1JnTnFNMU9LMWMtemttWFZoQjN1cTdZMElLT3dn"
     },
     {
-      "title": "Fed Leaves Interest Rates Unchanged: How Stocks, Bonds, and Gold Are Impacted - MarketWise",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1RejlFaWV1R1JqMG1tb2ZRV0FnQl9CY1Z5VktEUWh3ZUxjamRCbUhtSWNzSGFmVnpzSksxb0VHblVsNTJOb2Z6MWZGTExtQ2xWUGg1eVhRNFVaRDRrUUhYanpSNE9ibjJiR1pFaHRCQUZBMUVIRWc?oc=5",
-      "source": "MarketWise",
-      "published_at": "Wed, 29 Apr 2026 07:00:00 GMT",
-      "summary": "Fed Leaves Interest Rates Unchanged: How Stocks, Bonds, and Gold Are Impacted MarketWise",
-      "guid": "CBMidkFVX3lxTE1RejlFaWV1R1JqMG1tb2ZRV0FnQl9CY1Z5VktEUWh3ZUxjamRCbUhtSWNzSGFmVnpzSksxb0VHblVsNTJOb2Z6MWZGTExtQ2xWUGg1eVhRNFVaRDRrUUhYanpSNE9ibjJiR1pFaHRCQUZBMUVIRWc"
+      "title": "Scatterplot of Inflation and the Share of Relative Price Increases - Federal Reserve Bank of Richmond",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWGswa3NHUE5OV2tzVVZESy1kUVVEdWstQllDb3VHNmZEaHE3aG5XLUFDR0p5NTM1T0tZQjRTUG43dVlwYXJXRENjNS1kUnBoTzZUaTJtQ1A3WnVZbGVxOVhuWEd5SzNJLXNNRTdZbmVhSGZ4SEhIdlNnTWtXaFl6RmdXelFtMVBVaEZFRGFSa3ZzN3JsQWRKY05tdWFzZw?oc=5",
+      "source": "Federal Reserve Bank of Richmond",
+      "published_at": "Fri, 01 May 2026 07:00:00 GMT",
+      "summary": "Scatterplot of Inflation and the Share of Relative Price Increases Federal Reserve Bank of Richmond",
+      "guid": "CBMingFBVV95cUxQWGswa3NHUE5OV2tzVVZESy1kUVVEdWstQllDb3VHNmZEaHE3aG5XLUFDR0p5NTM1T0tZQjRTUG43dVlwYXJXRENjNS1kUnBoTzZUaTJtQ1A3WnVZbGVxOVhuWEd5SzNJLXNNRTdZbmVhSGZ4SEhIdlNnTWtXaFl6RmdXelFtMVBVaEZFRGFSa3ZzN3JsQWRKY05tdWFzZw"
     }
   ]
 }
