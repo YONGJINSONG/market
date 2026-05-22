@@ -1,19 +1,11 @@
 {
-  "generated_at": "2026-05-22T02:14:56Z",
+  "generated_at": "2026-05-22T06:19:33Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
-    {
-      "title": "Stock Market News for May 21, 2026 - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQ3ZUTGxXVEs5ek5CYzBvb1pNb1RtVVFOb3o5VXFsbWJEVnR3MTRvZFBzNGFIcTFzcTRBazZJaXRYN1UxVnN6enlBcUJoMFlfNDBvNGJualJZb3JzTGVmQ0VaaTlxNjc1X1NNSDFVXzhYYXMyQ1d3OGk5U1lBV0Z0M1RtbTZOelFLaXRYZjRrVXZLZE1JMzJ1OTU3bjRlanEzU19pLW5yd1JMQ0RrWk10YjdtWTBRNmNrMkE?oc=5",
-      "source": "The Globe and Mail",
-      "published_at": "Thu, 21 May 2026 11:50:00 GMT",
-      "summary": "Stock Market News for May 21, 2026 The Globe and Mail",
-      "guid": "CBMiugFBVV95cUxNQ3ZUTGxXVEs5ek5CYzBvb1pNb1RtVVFOb3o5VXFsbWJEVnR3MTRvZFBzNGFIcTFzcTRBazZJaXRYN1UxVnN6enlBcUJoMFlfNDBvNGJualJZb3JzTGVmQ0VaaTlxNjc1X1NNSDFVXzhYYXMyQ1d3OGk5U1lBV0Z0M1RtbTZOelFLaXRYZjRrVXZLZE1JMzJ1OTU3bjRlanEzU19pLW5yd1JMQ0RrWk10YjdtWTBRNmNrMkE"
-    },
     {
       "title": "Wow! The Federal Reserve's May Inflation Forecast Was Just Updated, and Things Are Looking Worse for Wall Street. - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcE5qRGhwRkdCdk5xOUxJa3B3QUVFNjdiREw5WlpxQ0l2OTFzVEp5Q2RsN19iUGF5SVMzWmR5a0FjcnZ5Si1JVXdrdEN5TGl2NWhJSUFfMFU4YjlkQnVxdXZESTM2d0k5V1NCSkU4RzFobTFSeU9VWkNXYWpycXlUVmxxVTllS3cxOGFWdkRmMEpPcEFsWlFrLXBoanduUWhQ?oc=5",
@@ -39,6 +31,14 @@
       "guid": "CBMilwFBVV95cUxONGxNVVF0ZTdOOGNaQlhJQTM0WGRRQ0hLaHRVTHl3eXI4ZFRSeDRNUkV1ZHFXNTVoQ1EtY3ZtS2pUTXFHMEVEZ3o3THVhR3I3dGdhRnhrVVgyR1QxX0Y3SFh5c2x4YWRWYlQ3VHgtSDRqWWFwcmJkMWUzRUdFRjVKY015VnFreWhnOWVPbWtHRG8yZktCQ1hj"
     },
     {
+      "title": "US Stock Market: Treasury yield surge sparks mortgage hedging frenzy, deepens bond selloff - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQY3p6RV9GTVZjS3dGVEJLNjdINWVlQjdvcmdtcFFmVmhIUkdmN0FHSUo3NWFXTm9QTTdwMmlzdzZvb1lxaHR2TEZmMUd4eWxhYXlTQzA2N2U2VUN2TmxDREJrTHFhVzkzU0l4WERaRmRnd01HdV9FazcyNFJsS0pXWURpUDVnZzh0UDBoelVtb2QyNUFCTFVhTnBEbmFVdmhhbHJFNmY0UWJybWVQX3VGNkZpZ1BuNDB6YjFSLTVyblZSa0tVX0RIcG95dU1YaU1jSFJZV1AxYlhXbVpPcXpIRDhWTXNJUmY3V2I3UnJYYzFqY0dMWjRQbNIB_gFBVV95cUxQWl9ETHIwaFFpc005c05WazAxWFhVZy10SHZ4RGhCZzJYaTMxMzZIT1J0UW4xcVREdjZsZ0FwdEpXQ0NtYjlRQ2ctTUVTM0hfazZ2QWVxU0xQWEpuWnZwM2w5XzVLUjF6d2xfLWhHVkZOWTdHeWIxcnl3SHRVVjFBbzJXb21VMEJhMjVfRnN6YUh0b20xMEk4eG9tdmV3alBwaXUwdHYyUFA1ZllFLXFxcDVvZ2pTaC1YbW1rOElWS1ppRWxodjRzZER1RERPTXRvXzFsVDBVdzUzYWpTLW5yNjVnczhfeU1xLXE3RU5XZDBINFgza05PZ3NEYnNrQQ?oc=5",
+      "source": "The Economic Times",
+      "published_at": "Fri, 22 May 2026 04:47:36 GMT",
+      "summary": "US Stock Market: Treasury yield surge sparks mortgage hedging frenzy, deepens bond selloff The Economic Times",
+      "guid": "CBMi-AFBVV95cUxQY3p6RV9GTVZjS3dGVEJLNjdINWVlQjdvcmdtcFFmVmhIUkdmN0FHSUo3NWFXTm9QTTdwMmlzdzZvb1lxaHR2TEZmMUd4eWxhYXlTQzA2N2U2VUN2TmxDREJrTHFhVzkzU0l4WERaRmRnd01HdV9FazcyNFJsS0pXWURpUDVnZzh0UDBoelVtb2QyNUFCTFVhTnBEbmFVdmhhbHJFNmY0UWJybWVQX3VGNkZpZ1BuNDB6YjFSLTVyblZSa0tVX0RIcG95dU1YaU1jSFJZV1AxYlhXbVpPcXpIRDhWTXNJUmY3V2I3UnJYYzFqY0dMWjRQbNIB_gFBVV95cUxQWl9ETHIwaFFpc005c05WazAxWFhVZy10SHZ4RGhCZzJYaTMxMzZIT1J0UW4xcVREdjZsZ0FwdEpXQ0NtYjlRQ2ctTUVTM0hfazZ2QWVxU0xQWEpuWnZwM2w5XzVLUjF6d2xfLWhHVkZOWTdHeWIxcnl3SHRVVjFBbzJXb21VMEJhMjVfRnN6YUh0b20xMEk4eG9tdmV3alBwaXUwdHYyUFA1ZllFLXFxcDVvZ2pTaC1YbW1rOElWS1ppRWxodjRzZER1RERPTXRvXzFsVDBVdzUzYWpTLW5yNjVnczhfeU1xLXE3RU5XZDBINFgza05PZ3NEYnNrQQ"
+    },
+    {
       "title": "Interest rates are going up in July as the Fed grapples with inflation, Ed Yardeni says - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORDN5RElrX1k2WDZiZjZoVEUyRWFvUjNTNWM3NzVtSlRUd2ozNWpCZ0R2M3B0QXlPWnVfSUh5UFExSG9SeU10NlVvOHowbGN4MmRYdHFHUmFhVFYtTzhRRW1WNUd5WlIwdUNZXzlPSHYzRUh3ZGZpU2VVc1Zoa0RnMzgxRGtyWkdIclU5SVFQUGE4WkZlc2xXdURTM2tFZGkwaXh1MlVn?oc=5",
       "source": "Business Insider",
@@ -53,14 +53,6 @@
       "published_at": "Fri, 15 May 2026 07:00:00 GMT",
       "summary": "Tracker: The Federal Reserve’s Balance Sheet Assets The American Action Forum",
       "guid": "CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0"
-    },
-    {
-      "title": "Trump’s Midterm Nightmare: Fed Chair Kevin Warsh May Soon Raise Interest Rates, Not Cut Them - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcER4cTJNVk1hUlpuV0JMS2xZRTRPYUNzd2dyTDE0bTMxbjhNT0U0dFZLbENDam5iVlVuS3N0bExuNnRJZlUwVnBmQS1HVnBPSkhQSjEyVHdtU3dtMFpoSlFqaFVZUl9qaGh0VEFLRjlnRlBJWkFiZHpGWXBUUWtTdmlPWVpGVVNrSWJ5aENiZ1BSMXdxRGhXV3EyXzZrZ3BKVFVqTEVPZ0ppNWJWWHF5WlE1V3VUWjV4M0l4dGpza21rbG5TRXhTZnZPQWN5UQ?oc=5",
-      "source": "24/7 Wall St.",
-      "published_at": "Wed, 20 May 2026 14:39:39 GMT",
-      "summary": "Trump’s Midterm Nightmare: Fed Chair Kevin Warsh May Soon Raise Interest Rates, Not Cut Them 24/7 Wall St.",
-      "guid": "CBMizgFBVV95cUxPcER4cTJNVk1hUlpuV0JMS2xZRTRPYUNzd2dyTDE0bTMxbjhNT0U0dFZLbENDam5iVlVuS3N0bExuNnRJZlUwVnBmQS1HVnBPSkhQSjEyVHdtU3dtMFpoSlFqaFVZUl9qaGh0VEFLRjlnRlBJWkFiZHpGWXBUUWtTdmlPWVpGVVNrSWJ5aENiZ1BSMXdxRGhXV3EyXzZrZ3BKVFVqTEVPZ0ppNWJWWHF5WlE1V3VUWjV4M0l4dGpza21rbG5TRXhTZnZPQWN5UQ"
     },
     {
       "title": "Stock Market Week Ahead: Hyperscaler Blitz, Federal Reserve Transition - Investor's Business Daily",
@@ -85,6 +77,14 @@
       "published_at": "Sun, 10 May 2026 07:00:00 GMT",
       "summary": "Remember, the Federal Reserve could spook your stock portfolio soon Yahoo Finance",
       "guid": "CBMisgFBVV95cUxQSkRxMGZRaWItRXBzMXhMaW9WVHl2U3d4SU1GT09tLUJITW1QWXgzN3BnUGtrdFNtUEJwaG5uRVRhSTZhbDJ1NVpXMW9PR2dHVW1Nb2dxTElqOUxCVFVLdjQ2d2NPNGZJTlc0RVJfTkxpdm9JRk9yU0FYTEN5TTlORTVSVmxwLUFad3Q0VkR6Y3hibmZKX1JnTnFNMU9LMWMtemttWFZoQjN1cTdZMElLT3dn"
+    },
+    {
+      "title": "Federal Reserve keeps interest rates steady as inflation uncertainty rises - U.S. Bank",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw?oc=5",
+      "source": "U.S. Bank",
+      "published_at": "Wed, 29 Apr 2026 07:00:00 GMT",
+      "summary": "Federal Reserve keeps interest rates steady as inflation uncertainty rises U.S. Bank",
+      "guid": "CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw"
     }
   ]
 }
