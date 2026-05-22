@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-05-21T23:55:43Z",
+  "generated_at": "2026-05-22T02:14:56Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "Stock Market News for May 21, 2026 - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQ3ZUTGxXVEs5ek5CYzBvb1pNb1RtVVFOb3o5VXFsbWJEVnR3MTRvZFBzNGFIcTFzcTRBazZJaXRYN1UxVnN6enlBcUJoMFlfNDBvNGJualJZb3JzTGVmQ0VaaTlxNjc1X1NNSDFVXzhYYXMyQ1d3OGk5U1lBV0Z0M1RtbTZOelFLaXRYZjRrVXZLZE1JMzJ1OTU3bjRlanEzU19pLW5yd1JMQ0RrWk10YjdtWTBRNmNrMkE?oc=5",
+      "source": "The Globe and Mail",
+      "published_at": "Thu, 21 May 2026 11:50:00 GMT",
+      "summary": "Stock Market News for May 21, 2026 The Globe and Mail",
+      "guid": "CBMiugFBVV95cUxNQ3ZUTGxXVEs5ek5CYzBvb1pNb1RtVVFOb3o5VXFsbWJEVnR3MTRvZFBzNGFIcTFzcTRBazZJaXRYN1UxVnN6enlBcUJoMFlfNDBvNGJualJZb3JzTGVmQ0VaaTlxNjc1X1NNSDFVXzhYYXMyQ1d3OGk5U1lBV0Z0M1RtbTZOelFLaXRYZjRrVXZLZE1JMzJ1OTU3bjRlanEzU19pLW5yd1JMQ0RrWk10YjdtWTBRNmNrMkE"
+    },
     {
       "title": "Wow! The Federal Reserve's May Inflation Forecast Was Just Updated, and Things Are Looking Worse for Wall Street. - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcE5qRGhwRkdCdk5xOUxJa3B3QUVFNjdiREw5WlpxQ0l2OTFzVEp5Q2RsN19iUGF5SVMzWmR5a0FjcnZ5Si1JVXdrdEN5TGl2NWhJSUFfMFU4YjlkQnVxdXZESTM2d0k5V1NCSkU4RzFobTFSeU9VWkNXYWpycXlUVmxxVTllS3cxOGFWdkRmMEpPcEFsWlFrLXBoanduUWhQ?oc=5",
@@ -31,12 +39,28 @@
       "guid": "CBMilwFBVV95cUxONGxNVVF0ZTdOOGNaQlhJQTM0WGRRQ0hLaHRVTHl3eXI4ZFRSeDRNUkV1ZHFXNTVoQ1EtY3ZtS2pUTXFHMEVEZ3o3THVhR3I3dGdhRnhrVVgyR1QxX0Y3SFh5c2x4YWRWYlQ3VHgtSDRqWWFwcmJkMWUzRUdFRjVKY015VnFreWhnOWVPbWtHRG8yZktCQ1hj"
     },
     {
+      "title": "Interest rates are going up in July as the Fed grapples with inflation, Ed Yardeni says - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORDN5RElrX1k2WDZiZjZoVEUyRWFvUjNTNWM3NzVtSlRUd2ozNWpCZ0R2M3B0QXlPWnVfSUh5UFExSG9SeU10NlVvOHowbGN4MmRYdHFHUmFhVFYtTzhRRW1WNUd5WlIwdUNZXzlPSHYzRUh3ZGZpU2VVc1Zoa0RnMzgxRGtyWkdIclU5SVFQUGE4WkZlc2xXdURTM2tFZGkwaXh1MlVn?oc=5",
+      "source": "Business Insider",
+      "published_at": "Tue, 19 May 2026 14:26:00 GMT",
+      "summary": "Interest rates are going up in July as the Fed grapples with inflation, Ed Yardeni says Business Insider",
+      "guid": "CBMipgFBVV95cUxORDN5RElrX1k2WDZiZjZoVEUyRWFvUjNTNWM3NzVtSlRUd2ozNWpCZ0R2M3B0QXlPWnVfSUh5UFExSG9SeU10NlVvOHowbGN4MmRYdHFHUmFhVFYtTzhRRW1WNUd5WlIwdUNZXzlPSHYzRUh3ZGZpU2VVc1Zoa0RnMzgxRGtyWkdIclU5SVFQUGE4WkZlc2xXdURTM2tFZGkwaXh1MlVn"
+    },
+    {
       "title": "Tracker: The Federal Reserve’s Balance Sheet Assets - The American Action Forum",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0?oc=5",
       "source": "The American Action Forum",
       "published_at": "Fri, 15 May 2026 07:00:00 GMT",
       "summary": "Tracker: The Federal Reserve’s Balance Sheet Assets The American Action Forum",
       "guid": "CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0"
+    },
+    {
+      "title": "Trump’s Midterm Nightmare: Fed Chair Kevin Warsh May Soon Raise Interest Rates, Not Cut Them - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcER4cTJNVk1hUlpuV0JMS2xZRTRPYUNzd2dyTDE0bTMxbjhNT0U0dFZLbENDam5iVlVuS3N0bExuNnRJZlUwVnBmQS1HVnBPSkhQSjEyVHdtU3dtMFpoSlFqaFVZUl9qaGh0VEFLRjlnRlBJWkFiZHpGWXBUUWtTdmlPWVpGVVNrSWJ5aENiZ1BSMXdxRGhXV3EyXzZrZ3BKVFVqTEVPZ0ppNWJWWHF5WlE1V3VUWjV4M0l4dGpza21rbG5TRXhTZnZPQWN5UQ?oc=5",
+      "source": "24/7 Wall St.",
+      "published_at": "Wed, 20 May 2026 14:39:39 GMT",
+      "summary": "Trump’s Midterm Nightmare: Fed Chair Kevin Warsh May Soon Raise Interest Rates, Not Cut Them 24/7 Wall St.",
+      "guid": "CBMizgFBVV95cUxPcER4cTJNVk1hUlpuV0JMS2xZRTRPYUNzd2dyTDE0bTMxbjhNT0U0dFZLbENDam5iVlVuS3N0bExuNnRJZlUwVnBmQS1HVnBPSkhQSjEyVHdtU3dtMFpoSlFqaFVZUl9qaGh0VEFLRjlnRlBJWkFiZHpGWXBUUWtTdmlPWVpGVVNrSWJ5aENiZ1BSMXdxRGhXV3EyXzZrZ3BKVFVqTEVPZ0ppNWJWWHF5WlE1V3VUWjV4M0l4dGpza21rbG5TRXhTZnZPQWN5UQ"
     },
     {
       "title": "Stock Market Week Ahead: Hyperscaler Blitz, Federal Reserve Transition - Investor's Business Daily",
@@ -61,30 +85,6 @@
       "published_at": "Sun, 10 May 2026 07:00:00 GMT",
       "summary": "Remember, the Federal Reserve could spook your stock portfolio soon Yahoo Finance",
       "guid": "CBMisgFBVV95cUxQSkRxMGZRaWItRXBzMXhMaW9WVHl2U3d4SU1GT09tLUJITW1QWXgzN3BnUGtrdFNtUEJwaG5uRVRhSTZhbDJ1NVpXMW9PR2dHVW1Nb2dxTElqOUxCVFVLdjQ2d2NPNGZJTlc0RVJfTkxpdm9JRk9yU0FYTEN5TTlORTVSVmxwLUFad3Q0VkR6Y3hibmZKX1JnTnFNMU9LMWMtemttWFZoQjN1cTdZMElLT3dn"
-    },
-    {
-      "title": "From Bad to Worse: The Federal Reserve's May Inflation Forecast Is Terrible News for Stock Investors - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNejhEY1lEY082RGFLbTN1TUQtZlZxM2lyM0VDdDZFZTN6bjE5NkJNLU14TmdydkktMnhiR2pEcnlEYjN5R3pucVBZd0R5ZDFBdDJZRHpKV1V0S2Y0Zm1qeXBNMmRZLTFadTBlRU1ZbEwxV0lHTXFlTGxrVXJUdlZGd09CeC1aelgtR3dDOUZZNGpOXy1KX1Vjcg?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Fri, 15 May 2026 05:01:00 GMT",
-      "summary": "From Bad to Worse: The Federal Reserve's May Inflation Forecast Is Terrible News for Stock Investors The Motley Fool",
-      "guid": "CBMimAFBVV95cUxNejhEY1lEY082RGFLbTN1TUQtZlZxM2lyM0VDdDZFZTN6bjE5NkJNLU14TmdydkktMnhiR2pEcnlEYjN5R3pucVBZd0R5ZDFBdDJZRHpKV1V0S2Y0Zm1qeXBNMmRZLTFadTBlRU1ZbEwxV0lHTXFlTGxrVXJUdlZGd09CeC1aelgtR3dDOUZZNGpOXy1KX1Vjcg"
-    },
-    {
-      "title": "Federal Reserve keeps interest rates steady as inflation uncertainty rises - U.S. Bank",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw?oc=5",
-      "source": "U.S. Bank",
-      "published_at": "Wed, 29 Apr 2026 07:00:00 GMT",
-      "summary": "Federal Reserve keeps interest rates steady as inflation uncertainty rises U.S. Bank",
-      "guid": "CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw"
-    },
-    {
-      "title": "The Stock Market Is Facing a Historic Federal Reserve Double Whammy on May 15 - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTzA3QllQNkpRNDU4UHBGelU2QTRyUkFVVklPX1JHNG5NTFNZTE04eGdrcDhkaUdid3RYclJ5NWlCOUNieVR0Nm8tMDJXREFyZ3NneTBVWkkwZzFiT0dUODFQVzNORmZDTExoN1h5UklfNHBsM1pvakRLVWtFV2dKR3FPREZwQnVPUno0SmhJajdqbVBMT1Y4dnVuMzl2NEdPamRv?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Sun, 03 May 2026 07:00:00 GMT",
-      "summary": "The Stock Market Is Facing a Historic Federal Reserve Double Whammy on May 15 Yahoo Finance",
-      "guid": "CBMiowFBVV95cUxOTzA3QllQNkpRNDU4UHBGelU2QTRyUkFVVklPX1JHNG5NTFNZTE04eGdrcDhkaUdid3RYclJ5NWlCOUNieVR0Nm8tMDJXREFyZ3NneTBVWkkwZzFiT0dUODFQVzNORmZDTExoN1h5UklfNHBsM1pvakRLVWtFV2dKR3FPREZwQnVPUno0SmhJajdqbVBMT1Y4dnVuMzl2NEdPamRv"
     }
   ]
 }
