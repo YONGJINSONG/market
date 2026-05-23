@@ -1,19 +1,11 @@
 {
-  "generated_at": "2026-05-22T22:50:47Z",
+  "generated_at": "2026-05-22T23:56:16Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
-    {
-      "title": "Turkey's markets rebound after politics-driven tumble - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa21iRWZqcS1HQ2dBV2g2bUdYcXJZdmhySl9nQjZCdjZJZEQ1REdGRDNRZ1JMQXMzb0tjQ05KM2k2Nm9ub2UyTXhOUGV3SFpqOEFEM2t6elRSODFUVUNrbldjR3hxWExIV19PVVBSTHp0MWNreXZ1SjF4VkZyejR6c0pMazNGd3dqU3NjODByb2M0WkQxY0hRTElHS21PZXN3WkhnUmdmQWpUQlhzbWFUMQ?oc=5",
-      "source": "Reuters",
-      "published_at": "Fri, 22 May 2026 14:52:04 GMT",
-      "summary": "Turkey's markets rebound after politics-driven tumble Reuters",
-      "guid": "CBMisAFBVV95cUxNa21iRWZqcS1HQ2dBV2g2bUdYcXJZdmhySl9nQjZCdjZJZEQ1REdGRDNRZ1JMQXMzb0tjQ05KM2k2Nm9ub2UyTXhOUGV3SFpqOEFEM2t6elRSODFUVUNrbldjR3hxWExIV19PVVBSTHp0MWNreXZ1SjF4VkZyejR6c0pMazNGd3dqU3NjODByb2M0WkQxY0hRTElHS21PZXN3WkhnUmdmQWpUQlhzbWFUMQ"
-    },
     {
       "title": "Opinion: The oil shock meets the Fed ‘curse’: What Kevin Warsh means for your portfolio - MarketWatch",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPY2dldFZLLXoydFdIbG93NnA2YWxtbk41S2hBNDhhMjVDZmI2bmV6d0s2QW1sX0VoZ1NOVC1uYml3b2RCdFNiR0tjaE1rWWI4c0xfQXNuNF9RN2kxQk42S01YS0FIRnBRb3Y0QjFxNU5HbFNLN0V3YkNaaTNRVDVPUEhtb2NzTXlGZjF4SG9RU2poVVNlODl1WVBzdmZCREF5Z05JekpKakVlVXAySVBsUDBYNlhfUy1kQkJZYzEwZHBYelRJakdITUtyRGlocEJ1QWc?oc=5",
@@ -85,6 +77,14 @@
       "published_at": "Mon, 18 May 2026 08:26:00 GMT",
       "summary": "Wow! The Federal Reserve's May Inflation Forecast Was Just Updated, and Things Are Looking Worse for Wall Street. Yahoo Finance",
       "guid": "CBMioAFBVV95cUxNcE5qRGhwRkdCdk5xOUxJa3B3QUVFNjdiREw5WlpxQ0l2OTFzVEp5Q2RsN19iUGF5SVMzWmR5a0FjcnZ5Si1JVXdrdEN5TGl2NWhJSUFfMFU4YjlkQnVxdXZESTM2d0k5V1NCSkU4RzFobTFSeU9VWkNXYWpycXlUVmxxVTllS3cxOGFWdkRmMEpPcEFsWlFrLXBoanduUWhQ"
+    },
+    {
+      "title": "Federal Reserve keeps interest rates steady as inflation uncertainty rises - U.S. Bank",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw?oc=5",
+      "source": "U.S. Bank",
+      "published_at": "Wed, 29 Apr 2026 07:00:00 GMT",
+      "summary": "Federal Reserve keeps interest rates steady as inflation uncertainty rises U.S. Bank",
+      "guid": "CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw"
     }
   ]
 }
