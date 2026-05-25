@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T22:00:18Z",
+  "generated_at": "2026-05-25T23:19:33Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,20 +7,20 @@
   },
   "items": [
     {
-      "title": "Inflation Just Soared at the Fastest Pace Since 2023, and It Could Spell Trouble for Stock Market Investors - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbmJlQVpkUERxcTBoQm81WEgxT2plVGcyQzZPVEhVU2tqRjRod21NdnlLVDFUTTgzNmgtTnRfSTNtcE01UGRIT3ZTNkhaSEVBa1RvYmdyMndYenU0SVZfTGtaY0ZfNlBEVHA5SDZfa1l0cldxWVl5Q2Fvd19qdGExa0gxdENvMmMtRHNtVXJCcHgzbGhmVmc?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Mon, 25 May 2026 19:48:23 GMT",
-      "summary": "Inflation Just Soared at the Fastest Pace Since 2023, and It Could Spell Trouble for Stock Market Investors The Motley Fool",
-      "guid": "CBMilgFBVV95cUxQbmJlQVpkUERxcTBoQm81WEgxT2plVGcyQzZPVEhVU2tqRjRod21NdnlLVDFUTTgzNmgtTnRfSTNtcE01UGRIT3ZTNkhaSEVBa1RvYmdyMndYenU0SVZfTGtaY0ZfNlBEVHA5SDZfa1l0cldxWVl5Q2Fvd19qdGExa0gxdENvMmMtRHNtVXJCcHgzbGhmVmc"
-    },
-    {
       "title": "The New York Stock Exchange | NYSE - NYSE",
       "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE93UWVlU3g1TVNpdTNEcjI2Yk9kSHU2Tnh5Y0stVFBGRWVkLW9wbU1EbHhQaHdIOE56d2V5NXVhSQ?oc=5",
       "source": "NYSE",
       "published_at": "Fri, 22 May 2026 22:00:00 GMT",
       "summary": "The New York Stock Exchange | NYSE NYSE",
       "guid": "CBMiP0FVX3lxTE93UWVlU3g1TVNpdTNEcjI2Yk9kSHU2Tnh5Y0stVFBGRWVkLW9wbU1EbHhQaHdIOE56d2V5NXVhSQ"
+    },
+    {
+      "title": "Inflation Just Soared at the Fastest Pace Since 2023, and It Could Spell Trouble for Stock Market Investors - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbmJlQVpkUERxcTBoQm81WEgxT2plVGcyQzZPVEhVU2tqRjRod21NdnlLVDFUTTgzNmgtTnRfSTNtcE01UGRIT3ZTNkhaSEVBa1RvYmdyMndYenU0SVZfTGtaY0ZfNlBEVHA5SDZfa1l0cldxWVl5Q2Fvd19qdGExa0gxdENvMmMtRHNtVXJCcHgzbGhmVmc?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Mon, 25 May 2026 19:48:23 GMT",
+      "summary": "Inflation Just Soared at the Fastest Pace Since 2023, and It Could Spell Trouble for Stock Market Investors The Motley Fool",
+      "guid": "CBMilgFBVV95cUxQbmJlQVpkUERxcTBoQm81WEgxT2plVGcyQzZPVEhVU2tqRjRod21NdnlLVDFUTTgzNmgtTnRfSTNtcE01UGRIT3ZTNkhaSEVBa1RvYmdyMndYenU0SVZfTGtaY0ZfNlBEVHA5SDZfa1l0cldxWVl5Q2Fvd19qdGExa0gxdENvMmMtRHNtVXJCcHgzbGhmVmc"
     },
     {
       "title": "Tracker: The Federal Reserve’s Balance Sheet Assets - The American Action Forum",
