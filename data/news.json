@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-05-26T17:46:24Z",
+  "generated_at": "2026-05-26T19:53:16Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "Weekly market commentary - blackrock.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
+      "source": "blackrock.com",
+      "published_at": "Tue, 26 May 2026 17:10:37 GMT",
+      "summary": "Weekly market commentary blackrock.com",
+      "guid": "CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw"
+    },
     {
       "title": "The Bond Market Is Sounding an Alarm -- It Could Mean Big Trouble for the Stock Market - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNU1BhX1ZRdEVpaVh4ZFhfNHdHbjJKOFZjaTVlekxwa292ZE52bGo5N1pxVHl3VjJfSXFxcFI1NUZPRjZLUXBKV29TOUkxQzJLMmtRdWJoblRsRFkxRmw3dTBhVVZmN1NGTmNGZHM5aXNpRm94TUhoOWYtWVlxc1QtQm9wLU4xYUxLdFpITHhTMDBqWWxw?oc=5",
@@ -77,14 +85,6 @@
       "published_at": "Wed, 29 Apr 2026 07:00:00 GMT",
       "summary": "Federal Reserve keeps interest rates steady as inflation uncertainty rises U.S. Bank",
       "guid": "CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw"
-    },
-    {
-      "title": "Inflation Just Soared at the Fastest Pace Since 2023, and It Could Spell Trouble for Stock Market Investors - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbmJlQVpkUERxcTBoQm81WEgxT2plVGcyQzZPVEhVU2tqRjRod21NdnlLVDFUTTgzNmgtTnRfSTNtcE01UGRIT3ZTNkhaSEVBa1RvYmdyMndYenU0SVZfTGtaY0ZfNlBEVHA5SDZfa1l0cldxWVl5Q2Fvd19qdGExa0gxdENvMmMtRHNtVXJCcHgzbGhmVmc?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Mon, 25 May 2026 20:45:00 GMT",
-      "summary": "Inflation Just Soared at the Fastest Pace Since 2023, and It Could Spell Trouble for Stock Market Investors The Motley Fool",
-      "guid": "CBMilgFBVV95cUxQbmJlQVpkUERxcTBoQm81WEgxT2plVGcyQzZPVEhVU2tqRjRod21NdnlLVDFUTTgzNmgtTnRfSTNtcE01UGRIT3ZTNkhaSEVBa1RvYmdyMndYenU0SVZfTGtaY0ZfNlBEVHA5SDZfa1l0cldxWVl5Q2Fvd19qdGExa0gxdENvMmMtRHNtVXJCcHgzbGhmVmc"
     }
   ]
 }
