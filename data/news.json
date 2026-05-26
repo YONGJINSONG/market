@@ -1,19 +1,11 @@
 {
-  "generated_at": "2026-05-26T01:23:39Z",
+  "generated_at": "2026-05-26T05:15:25Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
-    {
-      "title": "The New York Stock Exchange | NYSE - NYSE",
-      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE93UWVlU3g1TVNpdTNEcjI2Yk9kSHU2Tnh5Y0stVFBGRWVkLW9wbU1EbHhQaHdIOE56d2V5NXVhSQ?oc=5",
-      "source": "NYSE",
-      "published_at": "Fri, 22 May 2026 22:00:00 GMT",
-      "summary": "The New York Stock Exchange | NYSE NYSE",
-      "guid": "CBMiP0FVX3lxTE93UWVlU3g1TVNpdTNEcjI2Yk9kSHU2Tnh5Y0stVFBGRWVkLW9wbU1EbHhQaHdIOE56d2V5NXVhSQ"
-    },
     {
       "title": "Inflation Just Soared at the Fastest Pace Since 2023, and It Could Spell Trouble for Stock Market Investors - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbmJlQVpkUERxcTBoQm81WEgxT2plVGcyQzZPVEhVU2tqRjRod21NdnlLVDFUTTgzNmgtTnRfSTNtcE01UGRIT3ZTNkhaSEVBa1RvYmdyMndYenU0SVZfTGtaY0ZfNlBEVHA5SDZfa1l0cldxWVl5Q2Fvd19qdGExa0gxdENvMmMtRHNtVXJCcHgzbGhmVmc?oc=5",
@@ -29,6 +21,22 @@
       "published_at": "Fri, 22 May 2026 07:00:00 GMT",
       "summary": "Tracker: The Federal Reserve’s Balance Sheet Assets The American Action Forum",
       "guid": "CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0"
+    },
+    {
+      "title": "Stock Market Volatility May 2026: Navigating Record Highs Amid Global Uncertainty - Intellectia AI",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1QS1M4T1NWMGVxR291R05EYi02X08yYXFFejQ5ZFVXWTlwTlZiU1lSOFJXaG9rV2RDUGxVeEVzQVViUGF0U3d3UUd5LTBiMDBNTkgyUU1MdkdVY2ZvYlZYWWlGNXZ0U2FuNXFWdQ?oc=5",
+      "source": "Intellectia AI",
+      "published_at": "Tue, 26 May 2026 00:11:48 GMT",
+      "summary": "Stock Market Volatility May 2026: Navigating Record Highs Amid Global Uncertainty Intellectia AI",
+      "guid": "CBMibEFVX3lxTE1QS1M4T1NWMGVxR291R05EYi02X08yYXFFejQ5ZFVXWTlwTlZiU1lSOFJXaG9rV2RDUGxVeEVzQVViUGF0U3d3UUd5LTBiMDBNTkgyUU1MdkdVY2ZvYlZYWWlGNXZ0U2FuNXFWdQ"
+    },
+    {
+      "title": "US Stock Market: Kevin Warsh’s Fed debut signals major shift in US monetary policy landscape - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPT3FDVG1tdTVfRWNMSERBNVlUbjJRVW5vWTRmQlJqSkQ2OXdVQUJTMnVQb2F4Q3hKaDFMR2lUalBRdW1ndmRxYmU0b3hTWnRONllwUFpvMmhJNEFGaTBXVEhrLU5zY3lwU052RFNhZDRVUUV6Q2tacVFldDJBd3FvdngwMGgtTjhZQWJhZ2xMUk51RDNyd0N6LUdWRUxaSjlBdmMxX3NpNG1BQ1p6UW9KaE1nTmlDSERjQlNVSUdxb0lxR1JrRjBvZk5La1Q5Wi0xS1RIckFIeDI1aldkSm1HZFh6d0dQU2FndmExSzdZVXRxY3VyaE83cktLRdIBgAJBVV95cUxOSklna0syTkxpV1RHMjU3V0h5a1c4OU5yYnlZcVNxWFBZVFgzVzlpUmw5bXNoVjhZck5fWmcwT3ZBQkszVHk5Ul9zak5Qd2tqTkVULW5QT2RwcHRjY19UUHN4VGtyYzA1UGp1TTdiaFY0T0VTSWNRMGVjMFJKUDlKc3dKN2J6LW1jMzd2WlBBZHZtX29JWWw3NUtEVlA1SDg0bXBTY2pLN0QzUHpEeUFOMHJNa05iSkFqa0tMd2tYX0JQcmdVX0xKV2hPUmt1TGNQamFkVDBZamdneUhCMWNIUmtXYll6VDE2VEkzVDhRUmdNYUdVV21Jbk9SWVgzYjZw?oc=5",
+      "source": "The Economic Times",
+      "published_at": "Tue, 26 May 2026 04:11:14 GMT",
+      "summary": "US Stock Market: Kevin Warsh’s Fed debut signals major shift in US monetary policy landscape The Economic Times",
+      "guid": "CBMi-wFBVV95cUxPT3FDVG1tdTVfRWNMSERBNVlUbjJRVW5vWTRmQlJqSkQ2OXdVQUJTMnVQb2F4Q3hKaDFMR2lUalBRdW1ndmRxYmU0b3hTWnRONllwUFpvMmhJNEFGaTBXVEhrLU5zY3lwU052RFNhZDRVUUV6Q2tacVFldDJBd3FvdngwMGgtTjhZQWJhZ2xMUk51RDNyd0N6LUdWRUxaSjlBdmMxX3NpNG1BQ1p6UW9KaE1nTmlDSERjQlNVSUdxb0lxR1JrRjBvZk5La1Q5Wi0xS1RIckFIeDI1aldkSm1HZFh6d0dQU2FndmExSzdZVXRxY3VyaE83cktLRdIBgAJBVV95cUxOSklna0syTkxpV1RHMjU3V0h5a1c4OU5yYnlZcVNxWFBZVFgzVzlpUmw5bXNoVjhZck5fWmcwT3ZBQkszVHk5Ul9zak5Qd2tqTkVULW5QT2RwcHRjY19UUHN4VGtyYzA1UGp1TTdiaFY0T0VTSWNRMGVjMFJKUDlKc3dKN2J6LW1jMzd2WlBBZHZtX29JWWw3NUtEVlA1SDg0bXBTY2pLN0QzUHpEeUFOMHJNa05iSkFqa0tMd2tYX0JQcmdVX0xKV2hPUmt1TGNQamFkVDBZamdneUhCMWNIUmtXYll6VDE2VEkzVDhRUmdNYUdVV21Jbk9SWVgzYjZw"
     },
     {
       "title": "Remember, the Federal Reserve could spook your stock portfolio soon - Yahoo Finance",
@@ -47,6 +55,14 @@
       "guid": "CBMiswFBVV95cUxOa2V2OFo4WjFPclRZRGtjZXJvb3dsaDVUM3FjRnVCTkxfX184eHRyQjJ2NFlDc09TUlZrUDZGUzQzTjgyV1drNG9PSnc2Y0RELWZ5LVktLTlFcGFFa2s0Qm04RzRoYjNRSE9aSGw3aDljNFEyUEZJS1RNa203WlBLdmxxS2lWNmNXT0pRZGdDcGdqdEZ1YmMxN2lhci1RdVRMTEJtWE5wM3RJSFhGMXJjMjdqZw"
     },
     {
+      "title": "After Powell: How a New Fed Chair Could Impact Stocks | Investing - U.S. News Money",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOY2NaNkJjZFkxbjJqUnotWDNkM3FpOTZOQUtFM2RhX3FqY1NFc0JTSXhuVDhpQ1BUMmxOOHk1SXZKaGdvYUZ4OElJMVRVR0hSV2s4NzZ0MFJsNC1KQ0RvNVJtY09ha2IySldMX212dUxFNVBSY0lqcVNhUVRFOE9hZWtGcHFfdkxWX2ow?oc=5",
+      "source": "U.S. News Money",
+      "published_at": "Thu, 14 May 2026 07:00:00 GMT",
+      "summary": "After Powell: How a New Fed Chair Could Impact Stocks | Investing U.S. News Money",
+      "guid": "CBMiiwFBVV95cUxOY2NaNkJjZFkxbjJqUnotWDNkM3FpOTZOQUtFM2RhX3FqY1NFc0JTSXhuVDhpQ1BUMmxOOHk1SXZKaGdvYUZ4OElJMVRVR0hSV2s4NzZ0MFJsNC1KQ0RvNVJtY09ha2IySldMX212dUxFNVBSY0lqcVNhUVRFOE9hZWtGcHFfdkxWX2ow"
+    },
+    {
       "title": "Kevin Warsh vows to lead ‘reform-oriented Federal Reserve’ during White House ceremony - Scotsman Guide",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNb1FPQUdNd00zNDdWY1h0OUdHaHRhYmplQUhqSGt4aVNtZWxkQ3ZDaWZlTEN1MDJYeThuRlRFcTNHemI5R3FfanlUVWlhMGVVVXZHc1NBaHVhcUJBWFBZazlXUEVKbDE0TlpIeV9CcWkxd2xmemFzR3JkYTRucXRtVVQxWGhZWkZhVEc1Tk9BWmFsdnZrSjFR?oc=5",
       "source": "Scotsman Guide",
@@ -55,36 +71,20 @@
       "guid": "CBMilwFBVV95cUxNb1FPQUdNd00zNDdWY1h0OUdHaHRhYmplQUhqSGt4aVNtZWxkQ3ZDaWZlTEN1MDJYeThuRlRFcTNHemI5R3FfanlUVWlhMGVVVXZHc1NBaHVhcUJBWFBZazlXUEVKbDE0TlpIeV9CcWkxd2xmemFzR3JkYTRucXRtVVQxWGhZWkZhVEc1Tk9BWmFsdnZrSjFR"
     },
     {
+      "title": "Kevin Warsh sworn in as Fed chair as Trump faces backlash over economy | Donald Trump - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUXltMFREb2psa3laMHJ0VUs3SUo5OWs4aWJmck5jSjJxZUlGMHFESVdKYlhPMVJ0cEkxNTBhcHFwc0t1eXh4YVhDbTFFMFhhTXZLZjcyNUNWclJYeWFzcU5tM1g1ekt1M3NwTEdfUUN4WG1ETWQtU2JkZldlRlhLTnU5cEpXcWZl?oc=5",
+      "source": "The Guardian",
+      "published_at": "Fri, 22 May 2026 19:53:56 GMT",
+      "summary": "Kevin Warsh sworn in as Fed chair as Trump faces backlash over economy | Donald Trump The Guardian",
+      "guid": "CBMiiAFBVV95cUxNUXltMFREb2psa3laMHJ0VUs3SUo5OWs4aWJmck5jSjJxZUlGMHFESVdKYlhPMVJ0cEkxNTBhcHFwc0t1eXh4YVhDbTFFMFhhTXZLZjcyNUNWclJYeWFzcU5tM1g1ekt1M3NwTEdfUUN4WG1ETWQtU2JkZldlRlhLTnU5cEpXcWZl"
+    },
+    {
       "title": "New Fed Chair Kevin Warsh's First Test Arrives June 17 -- and the Stock Market May Not Like the Answer - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSERFeV9menZKcUcyY1NhTm5EOGZCaUpLUFVsSXNXcEw5aWFYc1otVGxHSDlPeG9tVXdBSFZZc1BYakVWaEo0T2xSY3NtMGhFdmMzbEVfczV6bnhvMk10MWNYSG03V291Rm85SUUwX09oNkN4aGV1OEF3RUwxS25JQ0Q1QnNFQ1c5MFk5NmxVMWZzNGNQdUd4eA?oc=5",
       "source": "The Motley Fool",
       "published_at": "Mon, 25 May 2026 08:45:00 GMT",
       "summary": "New Fed Chair Kevin Warsh's First Test Arrives June 17 -- and the Stock Market May Not Like the Answer The Motley Fool",
       "guid": "CBMimAFBVV95cUxPSERFeV9menZKcUcyY1NhTm5EOGZCaUpLUFVsSXNXcEw5aWFYc1otVGxHSDlPeG9tVXdBSFZZc1BYakVWaEo0T2xSY3NtMGhFdmMzbEVfczV6bnhvMk10MWNYSG03V291Rm85SUUwX09oNkN4aGV1OEF3RUwxS25JQ0Q1QnNFQ1c5MFk5NmxVMWZzNGNQdUd4eA"
-    },
-    {
-      "title": "Federal Reserve keeps interest rates steady as inflation uncertainty rises - U.S. Bank",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw?oc=5",
-      "source": "U.S. Bank",
-      "published_at": "Wed, 29 Apr 2026 07:00:00 GMT",
-      "summary": "Federal Reserve keeps interest rates steady as inflation uncertainty rises U.S. Bank",
-      "guid": "CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw"
-    },
-    {
-      "title": "Will the Federal Reserve Crash the Stock Market? 3 Reasons to Watch Trump's Nominee, Kevin Warsh, on May 15 - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONGxNVVF0ZTdOOGNaQlhJQTM0WGRRQ0hLaHRVTHl3eXI4ZFRSeDRNUkV1ZHFXNTVoQ1EtY3ZtS2pUTXFHMEVEZ3o3THVhR3I3dGdhRnhrVVgyR1QxX0Y3SFh5c2x4YWRWYlQ3VHgtSDRqWWFwcmJkMWUzRUdFRjVKY015VnFreWhnOWVPbWtHRG8yZktCQ1hj?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Tue, 12 May 2026 07:00:00 GMT",
-      "summary": "Will the Federal Reserve Crash the Stock Market? 3 Reasons to Watch Trump's Nominee, Kevin Warsh, on May 15 The Motley Fool",
-      "guid": "CBMilwFBVV95cUxONGxNVVF0ZTdOOGNaQlhJQTM0WGRRQ0hLaHRVTHl3eXI4ZFRSeDRNUkV1ZHFXNTVoQ1EtY3ZtS2pUTXFHMEVEZ3o3THVhR3I3dGdhRnhrVVgyR1QxX0Y3SFh5c2x4YWRWYlQ3VHgtSDRqWWFwcmJkMWUzRUdFRjVKY015VnFreWhnOWVPbWtHRG8yZktCQ1hj"
-    },
-    {
-      "title": "Oof! The Federal Reserve's May Inflation Forecast Is In, and Things Just Got Uglier for Wall Street. - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYWtUVjEzZm92N09pamVFLVJBZmpiLUNqYWc1bVpOZkJLSGdNNFZfemtHenJraERIbzVhV3hKNEdVZW9nTmFiNl9taEtaU290R1FrX3NtNE5zWnBzLWJYTHlqTldWZFZNS0RoM2N6MGtDYkVzdmhKWl9ZbXliZ1phYWhocmJSelFLejdDUnVXVGN5QjhKWGstRm85T2JKZE9I?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Sat, 09 May 2026 07:00:00 GMT",
-      "summary": "Oof! The Federal Reserve's May Inflation Forecast Is In, and Things Just Got Uglier for Wall Street. Yahoo Finance",
-      "guid": "CBMioAFBVV95cUxPYWtUVjEzZm92N09pamVFLVJBZmpiLUNqYWc1bVpOZkJLSGdNNFZfemtHenJraERIbzVhV3hKNEdVZW9nTmFiNl9taEtaU290R1FrX3NtNE5zWnBzLWJYTHlqTldWZFZNS0RoM2N6MGtDYkVzdmhKWl9ZbXliZ1phYWhocmJSelFLejdDUnVXVGN5QjhKWGstRm85T2JKZE9I"
     }
   ]
 }
