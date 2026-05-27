@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-05-27T17:31:49Z",
+  "generated_at": "2026-05-27T19:46:14Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "Weekly market commentary - blackrock.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
+      "source": "blackrock.com",
+      "published_at": "Wed, 27 May 2026 08:46:25 GMT",
+      "summary": "Weekly market commentary blackrock.com",
+      "guid": "CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw"
+    },
     {
       "title": "Fed Chair Kevin Warsh Was Just Sworn In at the White House. The Last Time This Happened, the Stock Market Crashed - 24/7 Wall St.",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORHNQdWNDYkZodDZuUGNjamMwaEY2TUFjaHEyUXQ5T1N3ajdYRDRCWjVnSTRUVFFuaFFjeVo1MjZhbVlmc2VlaXA3QklYZ1FhVHhZUWJPYlNOZHVUMi11WDg4YUViMWt3el9KYzhRbGFfYmdSLWN3S2tkWFRVc0QzTmgzRmVacnZKdnJrd081NjBGWnBkb3NnS3QtUmZOWU5PcDhLbFBRVTkyVnJFNDdzbEpzNHQxRmRVcXdQWFpvTlRxRXZuUHNFNGtpRWU3RjhRYlU5cHFCdkJQV0NfMXlYcE5MWV85aTktbVNN?oc=5",
@@ -15,12 +23,12 @@
       "guid": "CBMi6wFBVV95cUxORHNQdWNDYkZodDZuUGNjamMwaEY2TUFjaHEyUXQ5T1N3ajdYRDRCWjVnSTRUVFFuaFFjeVo1MjZhbVlmc2VlaXA3QklYZ1FhVHhZUWJPYlNOZHVUMi11WDg4YUViMWt3el9KYzhRbGFfYmdSLWN3S2tkWFRVc0QzTmgzRmVacnZKdnJrd081NjBGWnBkb3NnS3QtUmZOWU5PcDhLbFBRVTkyVnJFNDdzbEpzNHQxRmRVcXdQWFpvTlRxRXZuUHNFNGtpRWU3RjhRYlU5cHFCdkJQV0NfMXlYcE5MWV85aTktbVNN"
     },
     {
-      "title": "Stock Market Investors Got a Final Warning From Fed Chair Jerome Powell. History Says This Will Happen Next. - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWWtscWN2RWVhVEhtTl9PN1M5UjJSazI5QnRmRTB3aklOZDdBc3NkaWFKTnMtWWdORFkwX1VRUWE2VTlKMGJKRW9nY1kyb3N0QmN5ZWhUQllDWWNxYlFnYThJcFI0MWh2NDBzTTlMbVhMUkJKaXdzNjBVVjNMT0NaQl9BRnFMeGlaVFY0T3hJVDJuRlc4RVRr?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Wed, 27 May 2026 09:53:00 GMT",
-      "summary": "Stock Market Investors Got a Final Warning From Fed Chair Jerome Powell. History Says This Will Happen Next. The Motley Fool",
-      "guid": "CBMilwFBVV95cUxPWWtscWN2RWVhVEhtTl9PN1M5UjJSazI5QnRmRTB3aklOZDdBc3NkaWFKTnMtWWdORFkwX1VRUWE2VTlKMGJKRW9nY1kyb3N0QmN5ZWhUQllDWWNxYlFnYThJcFI0MWh2NDBzTTlMbVhMUkJKaXdzNjBVVjNMT0NaQl9BRnFMeGlaVFY0T3hJVDJuRlc4RVRr"
+      "title": "Stock Market Investors Got a Final Warning From Fed Chair Jerome Powell. History Says This Will Happen Next. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOd0dmQlpLajk0WjhkMW9lN3hjdTdiSUxDYnpkbkwteTI2SHozbE5JN21tdzA0QnU0TlhTanBSb1RPYnJxRGVtQUlMWjUyck5PaGFyM2FzT2NnckZVa3FJV2pTY2tfREpTdXVBWDVqcV9HcXVlTEI5bkZtN2tveVV6VFNzNXRSdFpuNHdjTGpIWkpjRjZGNzNzRk84ZHlxQQ?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Wed, 27 May 2026 09:13:00 GMT",
+      "summary": "Stock Market Investors Got a Final Warning From Fed Chair Jerome Powell. History Says This Will Happen Next. Yahoo Finance",
+      "guid": "CBMingFBVV95cUxOd0dmQlpLajk0WjhkMW9lN3hjdTdiSUxDYnpkbkwteTI2SHozbE5JN21tdzA0QnU0TlhTanBSb1RPYnJxRGVtQUlMWjUyck5PaGFyM2FzT2NnckZVa3FJV2pTY2tfREpTdXVBWDVqcV9HcXVlTEI5bkZtN2tveVV6VFNzNXRSdFpuNHdjTGpIWkpjRjZGNzNzRk84ZHlxQQ"
     },
     {
       "title": "New fed chair Kevin Warsh: What it means for your money - Inside INdiana Business",
@@ -47,12 +55,12 @@
       "guid": "CBMiswFBVV95cUxOa2V2OFo4WjFPclRZRGtjZXJvb3dsaDVUM3FjRnVCTkxfX184eHRyQjJ2NFlDc09TUlZrUDZGUzQzTjgyV1drNG9PSnc2Y0RELWZ5LVktLTlFcGFFa2s0Qm04RzRoYjNRSE9aSGw3aDljNFEyUEZJS1RNa203WlBLdmxxS2lWNmNXT0pRZGdDcGdqdEZ1YmMxN2lhci1RdVRMTEJtWE5wM3RJSFhGMXJjMjdqZw"
     },
     {
-      "title": "Short Sellers Are Betting Record Amounts Against Stocks. But the Market is Rallying On a Potential Deal Between Trump and Iran. - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNcUYwYWFVZkFZTm9vSGxyWGxBNzIyV0wxLXdGNndZUDltTW1sN2pneW5YV0xPLXh3cW0zdHk4ODk5SUNDczZWLXJYa2FMSThVUWVTSHFQQWpTUHVnSmthN2p2UVIxaHZna2Uxb2VNOHNONEJsZEQzN3JDX1A1LW1zTWNGX3JNWC1VbmtiT2JKR1N1eTF5NWZ6YWJIOXRYdDBkZW5adzQxaHJCZEhHTmtJV1ctdjJnMUNJT3A4bnh1RS1vMGVvbGVBRXl1Tkl6TlFEck9pLWxFVm9hMGFObm1VZkk1QVFwT2VTdFNVa3dXaHllZE5SV0ZGRWVOcjBqWmMt?oc=5",
+      "title": "The Stock Market Just Had One of Its Strongest 8-Week Runs Ever. History Says It May Not Be Done Yet - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOG9jUTBTbzNVR1phOFBXU3J4QzYwYVJ3aHByajIxWDE0QXdELVdYNDhoQ2M2Rkg0bXhTZGpyb2tQNGExYWszR29VRGN0ZkVpVUdDVXhpdFk4dVp6VXE5NnBSdk5SVkVWcXZMQWp0TDFDLWUxOEdGTzJtdERPN0VqaHcxc1IzaE5hTktHcTFNeDRNdkxGLUVIcFFCRzdLZnY0QVpKdXFnMmZLa1ZNc3BDZEx6Njdmb2Z1NTBSNXRvcDU2STJFY0ZhLVRmdmc1NnVJVU5UY2dfTlgzUTg?oc=5",
       "source": "24/7 Wall St.",
-      "published_at": "Wed, 27 May 2026 16:15:16 GMT",
-      "summary": "Short Sellers Are Betting Record Amounts Against Stocks. But the Market is Rallying On a Potential Deal Between Trump and Iran. 24/7 Wall St.",
-      "guid": "CBMigAJBVV95cUxNcUYwYWFVZkFZTm9vSGxyWGxBNzIyV0wxLXdGNndZUDltTW1sN2pneW5YV0xPLXh3cW0zdHk4ODk5SUNDczZWLXJYa2FMSThVUWVTSHFQQWpTUHVnSmthN2p2UVIxaHZna2Uxb2VNOHNONEJsZEQzN3JDX1A1LW1zTWNGX3JNWC1VbmtiT2JKR1N1eTF5NWZ6YWJIOXRYdDBkZW5adzQxaHJCZEhHTmtJV1ctdjJnMUNJT3A4bnh1RS1vMGVvbGVBRXl1Tkl6TlFEck9pLWxFVm9hMGFObm1VZkk1QVFwT2VTdFNVa3dXaHllZE5SV0ZGRWVOcjBqWmMt"
+      "published_at": "Wed, 27 May 2026 18:17:01 GMT",
+      "summary": "The Stock Market Just Had One of Its Strongest 8-Week Runs Ever. History Says It May Not Be Done Yet 24/7 Wall St.",
+      "guid": "CBMi2wFBVV95cUxPOG9jUTBTbzNVR1phOFBXU3J4QzYwYVJ3aHByajIxWDE0QXdELVdYNDhoQ2M2Rkg0bXhTZGpyb2tQNGExYWszR29VRGN0ZkVpVUdDVXhpdFk4dVp6VXE5NnBSdk5SVkVWcXZMQWp0TDFDLWUxOEdGTzJtdERPN0VqaHcxc1IzaE5hTktHcTFNeDRNdkxGLUVIcFFCRzdLZnY0QVpKdXFnMmZLa1ZNc3BDZEx6Njdmb2Z1NTBSNXRvcDU2STJFY0ZhLVRmdmc1NnVJVU5UY2dfTlgzUTg"
     },
     {
       "title": "The Latest Fed May Inflation Update Is In -- and It's a Good News-Bad News Scenario for Wall Street - Yahoo Finance",
@@ -63,12 +71,12 @@
       "guid": "CBMimgFBVV95cUxORnM0RWpQXzhQa2R6Q0tVN0JTQTNJM09XemtEZmRJTC1ZdEljUFpoV3Z3QVZqRlJDTllRblBfOWpkQUpjbTJTb1p4M2Y2LVJSN3NiamtDblhBZ2JsdGo2eTU4X2NWbmNUODNSWmIwWTMxRmQ0dFViTXlzOWUxVVZ2TmZrNEFOVGNjbHBsMjlXbFRtRHljRWFjclNn"
     },
     {
-      "title": "The Bond Market Is Sounding an Alarm -- It Could Mean Big Trouble for the Stock Market - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNU1BhX1ZRdEVpaVh4ZFhfNHdHbjJKOFZjaTVlekxwa292ZE52bGo5N1pxVHl3VjJfSXFxcFI1NUZPRjZLUXBKV29TOUkxQzJLMmtRdWJoblRsRFkxRmw3dTBhVVZmN1NGTmNGZHM5aXNpRm94TUhoOWYtWVlxc1QtQm9wLU4xYUxLdFpITHhTMDBqWWxw?oc=5",
+      "title": "Will the Federal Reserve Crash the Stock Market? 3 Reasons to Watch Trump's Nominee, Kevin Warsh, on May 15 - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONGxNVVF0ZTdOOGNaQlhJQTM0WGRRQ0hLaHRVTHl3eXI4ZFRSeDRNUkV1ZHFXNTVoQ1EtY3ZtS2pUTXFHMEVEZ3o3THVhR3I3dGdhRnhrVVgyR1QxX0Y3SFh5c2x4YWRWYlQ3VHgtSDRqWWFwcmJkMWUzRUdFRjVKY015VnFreWhnOWVPbWtHRG8yZktCQ1hj?oc=5",
       "source": "The Motley Fool",
-      "published_at": "Tue, 26 May 2026 09:48:00 GMT",
-      "summary": "The Bond Market Is Sounding an Alarm -- It Could Mean Big Trouble for the Stock Market The Motley Fool",
-      "guid": "CBMilAFBVV95cUxNU1BhX1ZRdEVpaVh4ZFhfNHdHbjJKOFZjaTVlekxwa292ZE52bGo5N1pxVHl3VjJfSXFxcFI1NUZPRjZLUXBKV29TOUkxQzJLMmtRdWJoblRsRFkxRmw3dTBhVVZmN1NGTmNGZHM5aXNpRm94TUhoOWYtWVlxc1QtQm9wLU4xYUxLdFpITHhTMDBqWWxw"
+      "published_at": "Tue, 12 May 2026 07:00:00 GMT",
+      "summary": "Will the Federal Reserve Crash the Stock Market? 3 Reasons to Watch Trump's Nominee, Kevin Warsh, on May 15 The Motley Fool",
+      "guid": "CBMilwFBVV95cUxONGxNVVF0ZTdOOGNaQlhJQTM0WGRRQ0hLaHRVTHl3eXI4ZFRSeDRNUkV1ZHFXNTVoQ1EtY3ZtS2pUTXFHMEVEZ3o3THVhR3I3dGdhRnhrVVgyR1QxX0Y3SFh5c2x4YWRWYlQ3VHgtSDRqWWFwcmJkMWUzRUdFRjVKY015VnFreWhnOWVPbWtHRG8yZktCQ1hj"
     },
     {
       "title": "Federal Reserve keeps interest rates steady as inflation uncertainty rises - U.S. Bank",
@@ -77,14 +85,6 @@
       "published_at": "Wed, 29 Apr 2026 07:00:00 GMT",
       "summary": "Federal Reserve keeps interest rates steady as inflation uncertainty rises U.S. Bank",
       "guid": "CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw"
-    },
-    {
-      "title": "Remember, the Federal Reserve could spook your stock portfolio soon - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSkRxMGZRaWItRXBzMXhMaW9WVHl2U3d4SU1GT09tLUJITW1QWXgzN3BnUGtrdFNtUEJwaG5uRVRhSTZhbDJ1NVpXMW9PR2dHVW1Nb2dxTElqOUxCVFVLdjQ2d2NPNGZJTlc0RVJfTkxpdm9JRk9yU0FYTEN5TTlORTVSVmxwLUFad3Q0VkR6Y3hibmZKX1JnTnFNMU9LMWMtemttWFZoQjN1cTdZMElLT3dn?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Sun, 10 May 2026 07:00:00 GMT",
-      "summary": "Remember, the Federal Reserve could spook your stock portfolio soon Yahoo Finance",
-      "guid": "CBMisgFBVV95cUxQSkRxMGZRaWItRXBzMXhMaW9WVHl2U3d4SU1GT09tLUJITW1QWXgzN3BnUGtrdFNtUEJwaG5uRVRhSTZhbDJ1NVpXMW9PR2dHVW1Nb2dxTElqOUxCVFVLdjQ2d2NPNGZJTlc0RVJfTkxpdm9JRk9yU0FYTEN5TTlORTVSVmxwLUFad3Q0VkR6Y3hibmZKX1JnTnFNMU9LMWMtemttWFZoQjN1cTdZMElLT3dn"
     }
   ]
 }
