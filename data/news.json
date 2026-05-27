@@ -1,19 +1,11 @@
 {
-  "generated_at": "2026-05-26T23:55:37Z",
+  "generated_at": "2026-05-27T02:29:05Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
-    {
-      "title": "Weekly market commentary - blackrock.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
-      "source": "blackrock.com",
-      "published_at": "Tue, 26 May 2026 17:10:37 GMT",
-      "summary": "Weekly market commentary blackrock.com",
-      "guid": "CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw"
-    },
     {
       "title": "The Bond Market Is Sounding an Alarm -- It Could Mean Big Trouble for the Stock Market - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNU1BhX1ZRdEVpaVh4ZFhfNHdHbjJKOFZjaTVlekxwa292ZE52bGo5N1pxVHl3VjJfSXFxcFI1NUZPRjZLUXBKV29TOUkxQzJLMmtRdWJoblRsRFkxRmw3dTBhVVZmN1NGTmNGZHM5aXNpRm94TUhoOWYtWVlxc1QtQm9wLU4xYUxLdFpITHhTMDBqWWxw?oc=5",
@@ -31,20 +23,20 @@
       "guid": "CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0"
     },
     {
-      "title": "Remember, the Federal Reserve could spook your stock portfolio soon - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSkRxMGZRaWItRXBzMXhMaW9WVHl2U3d4SU1GT09tLUJITW1QWXgzN3BnUGtrdFNtUEJwaG5uRVRhSTZhbDJ1NVpXMW9PR2dHVW1Nb2dxTElqOUxCVFVLdjQ2d2NPNGZJTlc0RVJfTkxpdm9JRk9yU0FYTEN5TTlORTVSVmxwLUFad3Q0VkR6Y3hibmZKX1JnTnFNMU9LMWMtemttWFZoQjN1cTdZMElLT3dn?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Sun, 10 May 2026 07:00:00 GMT",
-      "summary": "Remember, the Federal Reserve could spook your stock portfolio soon Yahoo Finance",
-      "guid": "CBMisgFBVV95cUxQSkRxMGZRaWItRXBzMXhMaW9WVHl2U3d4SU1GT09tLUJITW1QWXgzN3BnUGtrdFNtUEJwaG5uRVRhSTZhbDJ1NVpXMW9PR2dHVW1Nb2dxTElqOUxCVFVLdjQ2d2NPNGZJTlc0RVJfTkxpdm9JRk9yU0FYTEN5TTlORTVSVmxwLUFad3Q0VkR6Y3hibmZKX1JnTnFNMU9LMWMtemttWFZoQjN1cTdZMElLT3dn"
-    },
-    {
       "title": "Federal Reserve Monetary Policy - U.S. Bank",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa2V2OFo4WjFPclRZRGtjZXJvb3dsaDVUM3FjRnVCTkxfX184eHRyQjJ2NFlDc09TUlZrUDZGUzQzTjgyV1drNG9PSnc2Y0RELWZ5LVktLTlFcGFFa2s0Qm04RzRoYjNRSE9aSGw3aDljNFEyUEZJS1RNa203WlBLdmxxS2lWNmNXT0pRZGdDcGdqdEZ1YmMxN2lhci1RdVRMTEJtWE5wM3RJSFhGMXJjMjdqZw?oc=5",
       "source": "U.S. Bank",
       "published_at": "Fri, 01 May 2026 07:00:00 GMT",
       "summary": "Federal Reserve Monetary Policy U.S. Bank",
       "guid": "CBMiswFBVV95cUxOa2V2OFo4WjFPclRZRGtjZXJvb3dsaDVUM3FjRnVCTkxfX184eHRyQjJ2NFlDc09TUlZrUDZGUzQzTjgyV1drNG9PSnc2Y0RELWZ5LVktLTlFcGFFa2s0Qm04RzRoYjNRSE9aSGw3aDljNFEyUEZJS1RNa203WlBLdmxxS2lWNmNXT0pRZGdDcGdqdEZ1YmMxN2lhci1RdVRMTEJtWE5wM3RJSFhGMXJjMjdqZw"
+    },
+    {
+      "title": "Oof! The Federal Reserve's May Inflation Forecast Is In, and Things Just Got Uglier for Wall Street. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYWtUVjEzZm92N09pamVFLVJBZmpiLUNqYWc1bVpOZkJLSGdNNFZfemtHenJraERIbzVhV3hKNEdVZW9nTmFiNl9taEtaU290R1FrX3NtNE5zWnBzLWJYTHlqTldWZFZNS0RoM2N6MGtDYkVzdmhKWl9ZbXliZ1phYWhocmJSelFLejdDUnVXVGN5QjhKWGstRm85T2JKZE9I?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Sat, 09 May 2026 07:00:00 GMT",
+      "summary": "Oof! The Federal Reserve's May Inflation Forecast Is In, and Things Just Got Uglier for Wall Street. Yahoo Finance",
+      "guid": "CBMioAFBVV95cUxPYWtUVjEzZm92N09pamVFLVJBZmpiLUNqYWc1bVpOZkJLSGdNNFZfemtHenJraERIbzVhV3hKNEdVZW9nTmFiNl9taEtaU290R1FrX3NtNE5zWnBzLWJYTHlqTldWZFZNS0RoM2N6MGtDYkVzdmhKWl9ZbXliZ1phYWhocmJSelFLejdDUnVXVGN5QjhKWGstRm85T2JKZE9I"
     },
     {
       "title": "Stock market futures rise Monday as oil prices strengthen, S&P 500 up 0.9% - eciks.org",
@@ -55,20 +47,20 @@
       "guid": "CBMiowFBVV95cUxPWXFmX0VXRDhfTU02V3JPSlFCYXQwMzJIUWpfTTZaZ2xpQUNMOW94ZU1zaFZkMWpCNnpteVlURnpyVHBoRHAzZmRvUjNqd1hRck9YNEpSelhEV0wwekdxUlJJRFl5dlRFTHpuQkc1OUc2T3Y1d2ZZaG9WTUQxUUNWQzE2c3FZTHlVQjdCWlBiSm5LckN6TUpiSy1mcTJkX2hqbUZF"
     },
     {
+      "title": "Market Reactions to Tariff Announcements - Federal Reserve Bank of San Francisco",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM1dfLWVxeDJGbVNDYU9vWU8xOW5Fbk9rWk5KREtjbWFDcWFfdzAyVE5WMDhINUpWbWVDVWZmRHBSSlN3blk5alBHd3B1RE5JSmVMRTd3SXhNQmZWdDllUDFCU1lwTk9zcmpBSmhmazM5OEhIWEVHMlhHTDY4M1luNXJ5TExQbi1RMjBLbmpZd3BqLU1zanlvM0hvVWhVcWtiSWZBOV9ENTJmTWUtQzIxdmprYlpGNnJzQk11T1ZfWQ?oc=5",
+      "source": "Federal Reserve Bank of San Francisco",
+      "published_at": "Mon, 06 Oct 2025 07:00:00 GMT",
+      "summary": "Market Reactions to Tariff Announcements Federal Reserve Bank of San Francisco",
+      "guid": "CBMivwFBVV95cUxOM1dfLWVxeDJGbVNDYU9vWU8xOW5Fbk9rWk5KREtjbWFDcWFfdzAyVE5WMDhINUpWbWVDVWZmRHBSSlN3blk5alBHd3B1RE5JSmVMRTd3SXhNQmZWdDllUDFCU1lwTk9zcmpBSmhmazM5OEhIWEVHMlhHTDY4M1luNXJ5TExQbi1RMjBLbmpZd3BqLU1zanlvM0hvVWhVcWtiSWZBOV9ENTJmTWUtQzIxdmprYlpGNnJzQk11T1ZfWQ"
+    },
+    {
       "title": "New Fed Chairman Kevin Warsh Wants to Break 2 FOMC Practices From the Last 15 Years, and It Could Be Bad News for Stock Investors - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTkxDUEFDZ1JqMzU0YWxWblcwakh6RldXbWlKNWtTekRtVjVfQUtfT3hSZ1RXOXRIZW1za2R5bUpHRFcxamJhajYyYl9HSUd6YnFSV0dHSHJURjZ5SmxUWHc2Zm1BRk9BZENCRE5NQ0ZrQWdOeS1lcnprOHRYSnNiQUdlNXM2cW9vYXBCNlNLWnlnODYyM0M1cQ?oc=5",
       "source": "The Motley Fool",
       "published_at": "Tue, 26 May 2026 13:25:00 GMT",
       "summary": "New Fed Chairman Kevin Warsh Wants to Break 2 FOMC Practices From the Last 15 Years, and It Could Be Bad News for Stock Investors The Motley Fool",
       "guid": "CBMimAFBVV95cUxQTkxDUEFDZ1JqMzU0YWxWblcwakh6RldXbWlKNWtTekRtVjVfQUtfT3hSZ1RXOXRIZW1za2R5bUpHRFcxamJhajYyYl9HSUd6YnFSV0dHSHJURjZ5SmxUWHc2Zm1BRk9BZENCRE5NQ0ZrQWdOeS1lcnprOHRYSnNiQUdlNXM2cW9vYXBCNlNLWnlnODYyM0M1cQ"
-    },
-    {
-      "title": "Uh-Oh! The Fed Meeting Minutes Point to a Big Shift in Monetary Policy That May Upend a Historically Pricey Stock Market. - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNGtuVWFJaEhKeXc3R2Y4MmE2NWY2SFI2b19IQk9DR2ZQLWs0Q2hBTzdHM1N6aVdUSmxYdTZzYUVRZEJEam9IUjNjZ0NvUXJGUFBKSGxNSEhZNGRuTzhRZXF2em1mRGlqcTZfMWs5MTRSZHNIbG4yNERaTWZiU3pKalpJaVdQbG1UR3F4RTk5TEYzeGNB?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Mon, 25 May 2026 08:26:00 GMT",
-      "summary": "Uh-Oh! The Fed Meeting Minutes Point to a Big Shift in Monetary Policy That May Upend a Historically Pricey Stock Market. Yahoo Finance",
-      "guid": "CBMilAFBVV95cUxNNGtuVWFJaEhKeXc3R2Y4MmE2NWY2SFI2b19IQk9DR2ZQLWs0Q2hBTzdHM1N6aVdUSmxYdTZzYUVRZEJEam9IUjNjZ0NvUXJGUFBKSGxNSEhZNGRuTzhRZXF2em1mRGlqcTZfMWs5MTRSZHNIbG4yNERaTWZiU3pKalpJaVdQbG1UR3F4RTk5TEYzeGNB"
     },
     {
       "title": "Federal Reserve keeps interest rates steady as inflation uncertainty rises - U.S. Bank",
@@ -85,6 +77,14 @@
       "published_at": "Mon, 25 May 2026 20:45:00 GMT",
       "summary": "Inflation Just Soared at the Fastest Pace Since 2023, and It Could Spell Trouble for Stock Market Investors The Motley Fool",
       "guid": "CBMilgFBVV95cUxQbmJlQVpkUERxcTBoQm81WEgxT2plVGcyQzZPVEhVU2tqRjRod21NdnlLVDFUTTgzNmgtTnRfSTNtcE01UGRIT3ZTNkhaSEVBa1RvYmdyMndYenU0SVZfTGtaY0ZfNlBEVHA5SDZfa1l0cldxWVl5Q2Fvd19qdGExa0gxdENvMmMtRHNtVXJCcHgzbGhmVmc"
+    },
+    {
+      "title": "The Stock Market Is Facing a Historic Federal Reserve Double Whammy on May 15 - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTzA3QllQNkpRNDU4UHBGelU2QTRyUkFVVklPX1JHNG5NTFNZTE04eGdrcDhkaUdid3RYclJ5NWlCOUNieVR0Nm8tMDJXREFyZ3NneTBVWkkwZzFiT0dUODFQVzNORmZDTExoN1h5UklfNHBsM1pvakRLVWtFV2dKR3FPREZwQnVPUno0SmhJajdqbVBMT1Y4dnVuMzl2NEdPamRv?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Sun, 03 May 2026 07:00:00 GMT",
+      "summary": "The Stock Market Is Facing a Historic Federal Reserve Double Whammy on May 15 Yahoo Finance",
+      "guid": "CBMiowFBVV95cUxOTzA3QllQNkpRNDU4UHBGelU2QTRyUkFVVklPX1JHNG5NTFNZTE04eGdrcDhkaUdid3RYclJ5NWlCOUNieVR0Nm8tMDJXREFyZ3NneTBVWkkwZzFiT0dUODFQVzNORmZDTExoN1h5UklfNHBsM1pvakRLVWtFV2dKR3FPREZwQnVPUno0SmhJajdqbVBMT1Y4dnVuMzl2NEdPamRv"
     }
   ]
 }
