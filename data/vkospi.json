@@ -1,25 +1,9 @@
 {
-  "generated_at": "2026-05-27T14:07:39Z",
+  "generated_at": "2026-05-27T17:38:09Z",
   "sourceUrl": "https://eindex.krx.co.kr/contents/GLB/05/0502/0502030101/GLB0502030101T2.jsp?upmidCd=0202&idxCd=1300&idxId=O2901P",
-  "fromdate": "20250527",
-  "todate": "20260527",
+  "fromdate": "20250528",
+  "todate": "20260528",
   "output": [
-    {
-      "trd_dd": "2025/05/27",
-      "clsprc_idx": "20.01",
-      "fluc_tp_cd": "1",
-      "cmpprevdd_idx": "0.38",
-      "fluc_rt": "1.94",
-      "div_yd": "0.00",
-      "wt_per": "0.00",
-      "wt_stkprc_netasst_rto": "0.00",
-      "opnprc_idx": "19.86",
-      "hgprc_idx": "20.05",
-      "lwprc_idx": "19.82",
-      "acc_trdvol": "0",
-      "acc_trdval": "0",
-      "mktcap": "0"
-    },
     {
       "trd_dd": "2025/05/28",
       "clsprc_idx": "20.67",
@@ -3888,6 +3872,22 @@
       "opnprc_idx": "69.82",
       "hgprc_idx": "70.29",
       "lwprc_idx": "68.08",
+      "acc_trdvol": "0",
+      "acc_trdval": "0",
+      "mktcap": "0"
+    },
+    {
+      "trd_dd": "2026/05/27",
+      "clsprc_idx": "70.78",
+      "fluc_tp_cd": "1",
+      "cmpprevdd_idx": "2.69",
+      "fluc_rt": "3.95",
+      "div_yd": "0.00",
+      "wt_per": "0.00",
+      "wt_stkprc_netasst_rto": "0.00",
+      "opnprc_idx": "67.75",
+      "hgprc_idx": "74.06",
+      "lwprc_idx": "67.75",
       "acc_trdvol": "0",
       "acc_trdval": "0",
       "mktcap": "0"
