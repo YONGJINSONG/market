@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T22:19:50Z",
+  "generated_at": "2026-05-28T23:46:10Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -13,14 +13,6 @@
       "published_at": "Thu, 28 May 2026 05:00:00 GMT",
       "summary": "Jerome Powell Stepped Down as Federal Reserve Chairman With a 7-Word Warning That Speaks Volumes for Stock Investors The Motley Fool",
       "guid": "CBMimAFBVV95cUxPdTE1dXZhXzNXRVk1bllwSHJIWHRfdHJENExxby12UE9QRFFOV0EyS29wT2dNcEdQWFcySzBkS0JqRmRZa2VmNm5mQ19CU1NMSmV6VkhQZV90YUp2Y2cyX2dxVmhYNzlDS0ZBWF8xcW9HRllQS0gxTFg4djV1NXl6UGVCMzRkdXdZb1pfSmZrUnFTemNxSC1xcQ"
-    },
-    {
-      "title": "Weekly market commentary - blackrock.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
-      "source": "blackrock.com",
-      "published_at": "Tue, 26 May 2026 07:00:00 GMT",
-      "summary": "Weekly market commentary blackrock.com",
-      "guid": "CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw"
     },
     {
       "title": "Stock Market Investors Got a Final Warning From Fed Chair Jerome Powell. History Says This Will Happen Next. - Yahoo Finance",
@@ -85,6 +77,14 @@
       "published_at": "Sat, 09 May 2026 07:00:00 GMT",
       "summary": "Oof! The Federal Reserve's May Inflation Forecast Is In, and Things Just Got Uglier for Wall Street. Yahoo Finance",
       "guid": "CBMioAFBVV95cUxPYWtUVjEzZm92N09pamVFLVJBZmpiLUNqYWc1bVpOZkJLSGdNNFZfemtHenJraERIbzVhV3hKNEdVZW9nTmFiNl9taEtaU290R1FrX3NtNE5zWnBzLWJYTHlqTldWZFZNS0RoM2N6MGtDYkVzdmhKWl9ZbXliZ1phYWhocmJSelFLejdDUnVXVGN5QjhKWGstRm85T2JKZE9I"
+    },
+    {
+      "title": "The Stock Market Just Had One of Its Strongest 8-Week Runs Ever. History Says It May Not Be Done Yet - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOG9jUTBTbzNVR1phOFBXU3J4QzYwYVJ3aHByajIxWDE0QXdELVdYNDhoQ2M2Rkg0bXhTZGpyb2tQNGExYWszR29VRGN0ZkVpVUdDVXhpdFk4dVp6VXE5NnBSdk5SVkVWcXZMQWp0TDFDLWUxOEdGTzJtdERPN0VqaHcxc1IzaE5hTktHcTFNeDRNdkxGLUVIcFFCRzdLZnY0QVpKdXFnMmZLa1ZNc3BDZEx6Njdmb2Z1NTBSNXRvcDU2STJFY0ZhLVRmdmc1NnVJVU5UY2dfTlgzUTg?oc=5",
+      "source": "24/7 Wall St.",
+      "published_at": "Wed, 27 May 2026 20:49:04 GMT",
+      "summary": "The Stock Market Just Had One of Its Strongest 8-Week Runs Ever. History Says It May Not Be Done Yet 24/7 Wall St.",
+      "guid": "CBMi2wFBVV95cUxPOG9jUTBTbzNVR1phOFBXU3J4QzYwYVJ3aHByajIxWDE0QXdELVdYNDhoQ2M2Rkg0bXhTZGpyb2tQNGExYWszR29VRGN0ZkVpVUdDVXhpdFk4dVp6VXE5NnBSdk5SVkVWcXZMQWp0TDFDLWUxOEdGTzJtdERPN0VqaHcxc1IzaE5hTktHcTFNeDRNdkxGLUVIcFFCRzdLZnY0QVpKdXFnMmZLa1ZNc3BDZEx6Njdmb2Z1NTBSNXRvcDU2STJFY0ZhLVRmdmc1NnVJVU5UY2dfTlgzUTg"
     }
   ]
 }
