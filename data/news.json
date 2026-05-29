@@ -1,11 +1,27 @@
 {
-  "generated_at": "2026-05-29T02:02:08Z",
+  "generated_at": "2026-05-29T06:31:23Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "Weekly market commentary - blackrock.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
+      "source": "blackrock.com",
+      "published_at": "Tue, 26 May 2026 07:00:00 GMT",
+      "summary": "Weekly market commentary blackrock.com",
+      "guid": "CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw"
+    },
+    {
+      "title": "Stock Market Investors Got a Final Warning From Fed Chair Jerome Powell. History Says This Will Happen Next. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWWtscWN2RWVhVEhtTl9PN1M5UjJSazI5QnRmRTB3aklOZDdBc3NkaWFKTnMtWWdORFkwX1VRUWE2VTlKMGJKRW9nY1kyb3N0QmN5ZWhUQllDWWNxYlFnYThJcFI0MWh2NDBzTTlMbVhMUkJKaXdzNjBVVjNMT0NaQl9BRnFMeGlaVFY0T3hJVDJuRlc4RVRr?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Wed, 27 May 2026 09:53:00 GMT",
+      "summary": "Stock Market Investors Got a Final Warning From Fed Chair Jerome Powell. History Says This Will Happen Next. The Motley Fool",
+      "guid": "CBMilwFBVV95cUxPWWtscWN2RWVhVEhtTl9PN1M5UjJSazI5QnRmRTB3aklOZDdBc3NkaWFKTnMtWWdORFkwX1VRUWE2VTlKMGJKRW9nY1kyb3N0QmN5ZWhUQllDWWNxYlFnYThJcFI0MWh2NDBzTTlMbVhMUkJKaXdzNjBVVjNMT0NaQl9BRnFMeGlaVFY0T3hJVDJuRlc4RVRr"
+    },
     {
       "title": "Core inflation hit an annual rate of 3.3% in April, as expected, Fed’s preferred gauge shows - CNBC",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMnh3U0JFaU9RMnV2MlpRbjFXUGJkTTZOZkRLRk1QZjBSOWRpS2RSb1otb0tUOTNaTGh0WDktS092ek1wNmo4R2xSaTFkUEFLYi1mRC1obzk2UHVfU2gtc250bHY0UUtmN3Z2OGpMa25VYmpBcHVnX2lyaEo1VVFVOGs1R3dZUFZBemRESk9hWU1hOXBic0ZieVF5NjE1SThMeXVDeE5CcFFtWXJFdkMxRmNWNVN5dnFmWmozS2JFN25mMHMxQkNsSEdCLUxGSzF1MTY00gHYAUFVX3lxTE5NdHpLcS1GZjUyLTNaRDF6WWRlanltMFU0UElJTFY2UlVvc29vX0RFbWk2RG15M3cxRHJoNE84TjZOdmF4dDZmeHFKdXIxaGprUDhzRG5nSkx3WW9CX0poVFNUa0RyZ3ctVG9XWS05aEtlSXJBSEtyMGNraWxqYm5OWUJlcWhpaXA4QXh3TWJsMzhKN2NhWGhaZWsxb2NGd054NWUxSUxMN1hqTzZLU2dDa1Zqa3BUdGlNWUlxaUxyTWFlWEY0THVVQ0JvV1NsRzJGVmdQdVkxLQ?oc=5",
@@ -15,20 +31,12 @@
       "guid": "CBMi0wFBVV95cUxPMnh3U0JFaU9RMnV2MlpRbjFXUGJkTTZOZkRLRk1QZjBSOWRpS2RSb1otb0tUOTNaTGh0WDktS092ek1wNmo4R2xSaTFkUEFLYi1mRC1obzk2UHVfU2gtc250bHY0UUtmN3Z2OGpMa25VYmpBcHVnX2lyaEo1VVFVOGs1R3dZUFZBemRESk9hWU1hOXBic0ZieVF5NjE1SThMeXVDeE5CcFFtWXJFdkMxRmNWNVN5dnFmWmozS2JFN25mMHMxQkNsSEdCLUxGSzF1MTY00gHYAUFVX3lxTE5NdHpLcS1GZjUyLTNaRDF6WWRlanltMFU0UElJTFY2UlVvc29vX0RFbWk2RG15M3cxRHJoNE84TjZOdmF4dDZmeHFKdXIxaGprUDhzRG5nSkx3WW9CX0poVFNUa0RyZ3ctVG9XWS05aEtlSXJBSEtyMGNraWxqYm5OWUJlcWhpaXA4QXh3TWJsMzhKN2NhWGhaZWsxb2NGd054NWUxSUxMN1hqTzZLU2dDa1Zqa3BUdGlNWUlxaUxyTWFlWEY0THVVQ0JvV1NsRzJGVmdQdVkxLQ"
     },
     {
-      "title": "Jerome Powell Stepped Down as Federal Reserve Chairman With a 7-Word Warning That Speaks Volumes for Stock Investors - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdTE1dXZhXzNXRVk1bllwSHJIWHRfdHJENExxby12UE9QRFFOV0EyS29wT2dNcEdQWFcySzBkS0JqRmRZa2VmNm5mQ19CU1NMSmV6VkhQZV90YUp2Y2cyX2dxVmhYNzlDS0ZBWF8xcW9HRllQS0gxTFg4djV1NXl6UGVCMzRkdXdZb1pfSmZrUnFTemNxSC1xcQ?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Thu, 28 May 2026 05:00:00 GMT",
-      "summary": "Jerome Powell Stepped Down as Federal Reserve Chairman With a 7-Word Warning That Speaks Volumes for Stock Investors The Motley Fool",
-      "guid": "CBMimAFBVV95cUxPdTE1dXZhXzNXRVk1bllwSHJIWHRfdHJENExxby12UE9QRFFOV0EyS29wT2dNcEdQWFcySzBkS0JqRmRZa2VmNm5mQ19CU1NMSmV6VkhQZV90YUp2Y2cyX2dxVmhYNzlDS0ZBWF8xcW9HRllQS0gxTFg4djV1NXl6UGVCMzRkdXdZb1pfSmZrUnFTemNxSC1xcQ"
-    },
-    {
-      "title": "Stock Market Investors Got a Final Warning From Fed Chair Jerome Powell. History Says This Will Happen Next. - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOd0dmQlpLajk0WjhkMW9lN3hjdTdiSUxDYnpkbkwteTI2SHozbE5JN21tdzA0QnU0TlhTanBSb1RPYnJxRGVtQUlMWjUyck5PaGFyM2FzT2NnckZVa3FJV2pTY2tfREpTdXVBWDVqcV9HcXVlTEI5bkZtN2tveVV6VFNzNXRSdFpuNHdjTGpIWkpjRjZGNzNzRk84ZHlxQQ?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Wed, 27 May 2026 09:13:00 GMT",
-      "summary": "Stock Market Investors Got a Final Warning From Fed Chair Jerome Powell. History Says This Will Happen Next. Yahoo Finance",
-      "guid": "CBMingFBVV95cUxOd0dmQlpLajk0WjhkMW9lN3hjdTdiSUxDYnpkbkwteTI2SHozbE5JN21tdzA0QnU0TlhTanBSb1RPYnJxRGVtQUlMWjUyck5PaGFyM2FzT2NnckZVa3FJV2pTY2tfREpTdXVBWDVqcV9HcXVlTEI5bkZtN2tveVV6VFNzNXRSdFpuNHdjTGpIWkpjRjZGNzNzRk84ZHlxQQ"
+      "title": "The Federal Reserve has signaled a one-off inflation shock, leaving gold to navigate amid triple expectations. - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTnkxSDBzeUpqUVVCeW5udzEwOF9NSEVnX3lnUURNd3F6WnViaDJzbEItOThPRm5STW5Ebzh4ZVZfSTRXdXBkZTc5YXhQRGpYRHZZajBUSjZZTzdmZ2t6XzZsR1llYUFBZ3F4QlczWHp1NHprNHRtRGZvYkxOZUlaZldTRnNzc2pjRmdzT0J0d0hINE5ERW9iWjQ1LWlLZ19fb0E?oc=5",
+      "source": "Moomoo",
+      "published_at": "Thu, 28 May 2026 13:48:08 GMT",
+      "summary": "The Federal Reserve has signaled a one-off inflation shock, leaving gold to navigate amid triple expectations. Moomoo",
+      "guid": "CBMiogFBVV95cUxQTnkxSDBzeUpqUVVCeW5udzEwOF9NSEVnX3lnUURNd3F6WnViaDJzbEItOThPRm5STW5Ebzh4ZVZfSTRXdXBkZTc5YXhQRGpYRHZZajBUSjZZTzdmZ2t6XzZsR1llYUFBZ3F4QlczWHp1NHprNHRtRGZvYkxOZUlaZldTRnNzc2pjRmdzT0J0d0hINE5ERW9iWjQ1LWlLZ19fb0E"
     },
     {
       "title": "Fed Chair Kevin Warsh Was Just Sworn In at the White House. The Last Time This Happened, the Stock Market Crashed - 24/7 Wall St.",
@@ -39,20 +47,20 @@
       "guid": "CBMi6wFBVV95cUxORHNQdWNDYkZodDZuUGNjamMwaEY2TUFjaHEyUXQ5T1N3ajdYRDRCWjVnSTRUVFFuaFFjeVo1MjZhbVlmc2VlaXA3QklYZ1FhVHhZUWJPYlNOZHVUMi11WDg4YUViMWt3el9KYzhRbGFfYmdSLWN3S2tkWFRVc0QzTmgzRmVacnZKdnJrd081NjBGWnBkb3NnS3QtUmZOWU5PcDhLbFBRVTkyVnJFNDdzbEpzNHQxRmRVcXdQWFpvTlRxRXZuUHNFNGtpRWU3RjhRYlU5cHFCdkJQV0NfMXlYcE5MWV85aTktbVNN"
     },
     {
-      "title": "Tracker: The Federal Reserve’s Balance Sheet Assets - The American Action Forum",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0?oc=5",
-      "source": "The American Action Forum",
-      "published_at": "Fri, 22 May 2026 07:00:00 GMT",
-      "summary": "Tracker: The Federal Reserve’s Balance Sheet Assets The American Action Forum",
-      "guid": "CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0"
-    },
-    {
       "title": "NY Fed finds 'remarkable increase' in food insecurity for many Americans - Reuters",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbjV2b1hTV1FiQ2FiUVpDSlY4Z1RMVjFuMjhOYWxySXFLZGZUZlh3Zllyb3VOV3djYTJ0U2htaENwQlo4Mko4cEI5al81Tm0tN3VydmdqS2h5bjRoUjBYUllhY1dzYXlZckdWU3VoU1JuOWlMQ0F4d3ZyLWVWcWNPYno1R1RNa1l2Sm4zS2g2Z2p5R3dfT0FqdHkxMkNaVzhvUi1jbFFBZTZ2UnVBVUJLbm1yU2I?oc=5",
       "source": "Reuters",
       "published_at": "Wed, 27 May 2026 14:45:36 GMT",
       "summary": "NY Fed finds 'remarkable increase' in food insecurity for many Americans Reuters",
       "guid": "CBMitAFBVV95cUxNbjV2b1hTV1FiQ2FiUVpDSlY4Z1RMVjFuMjhOYWxySXFLZGZUZlh3Zllyb3VOV3djYTJ0U2htaENwQlo4Mko4cEI5al81Tm0tN3VydmdqS2h5bjRoUjBYUllhY1dzYXlZckdWU3VoU1JuOWlMQ0F4d3ZyLWVWcWNPYno1R1RNa1l2Sm4zS2g2Z2p5R3dfT0FqdHkxMkNaVzhvUi1jbFFBZTZ2UnVBVUJLbm1yU2I"
+    },
+    {
+      "title": "Tracker: The Federal Reserve’s Balance Sheet Assets - The American Action Forum",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0?oc=5",
+      "source": "The American Action Forum",
+      "published_at": "Fri, 22 May 2026 07:00:00 GMT",
+      "summary": "Tracker: The Federal Reserve’s Balance Sheet Assets The American Action Forum",
+      "guid": "CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0"
     },
     {
       "title": "Federal Reserve Monetary Policy - U.S. Bank",
@@ -71,20 +79,12 @@
       "guid": "CBMiowFBVV95cUxPOS1qRHRXakJuWVJSLUVtN1M5M2tjMU9OOEtGdWw2d2VIYVphYmpxd3hxMWdQb2lBbFdCdzFSZFJ4OVRDOGZPNVFOZFpDcHctVzZfV19xcXZfMWhIS0dFZURIT1dpWjhTOVdOWkR1UEtUSXIzNFBqU1lGQXA4a1o1V0JmZk9qNzJwaFNnbkRoUXdNZTNPa0tXSGJDcVNHZGdMaHRv"
     },
     {
-      "title": "Oof! The Federal Reserve's May Inflation Forecast Is In, and Things Just Got Uglier for Wall Street. - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYWtUVjEzZm92N09pamVFLVJBZmpiLUNqYWc1bVpOZkJLSGdNNFZfemtHenJraERIbzVhV3hKNEdVZW9nTmFiNl9taEtaU290R1FrX3NtNE5zWnBzLWJYTHlqTldWZFZNS0RoM2N6MGtDYkVzdmhKWl9ZbXliZ1phYWhocmJSelFLejdDUnVXVGN5QjhKWGstRm85T2JKZE9I?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Sat, 09 May 2026 07:00:00 GMT",
-      "summary": "Oof! The Federal Reserve's May Inflation Forecast Is In, and Things Just Got Uglier for Wall Street. Yahoo Finance",
-      "guid": "CBMioAFBVV95cUxPYWtUVjEzZm92N09pamVFLVJBZmpiLUNqYWc1bVpOZkJLSGdNNFZfemtHenJraERIbzVhV3hKNEdVZW9nTmFiNl9taEtaU290R1FrX3NtNE5zWnBzLWJYTHlqTldWZFZNS0RoM2N6MGtDYkVzdmhKWl9ZbXliZ1phYWhocmJSelFLejdDUnVXVGN5QjhKWGstRm85T2JKZE9I"
-    },
-    {
-      "title": "Trump’s Rate Cuts Could Light a Fire Under This Vanguard ETF - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPc0FzeExfTER3V0NpMkNETlVITEtHT01SLTNtZU0xcXFJV1oxQjAtS2MzajFCeVh1TGxuQzFhYzRVek1RSXNIZjlXOTFxQU5mcXc4XzQ4SzBHcDNGdEVjd2lkSzBlWUhDNVhTY1hzWUdmSUIxQ1B3X2xfVGZtZmZRb0JCczUzWFZWWTc2SmdIdDR0c1VRbjFGTFJWdlkwc1ZOZFFGMEhn?oc=5",
-      "source": "24/7 Wall St.",
-      "published_at": "Thu, 28 May 2026 20:23:31 GMT",
-      "summary": "Trump’s Rate Cuts Could Light a Fire Under This Vanguard ETF 24/7 Wall St.",
-      "guid": "CBMipgFBVV95cUxPc0FzeExfTER3V0NpMkNETlVITEtHT01SLTNtZU0xcXFJV1oxQjAtS2MzajFCeVh1TGxuQzFhYzRVek1RSXNIZjlXOTFxQU5mcXc4XzQ4SzBHcDNGdEVjd2lkSzBlWUhDNVhTY1hzWUdmSUIxQ1B3X2xfVGZtZmZRb0JCczUzWFZWWTc2SmdIdDR0c1VRbjFGTFJWdlkwc1ZOZFFGMEhn"
+      "title": "Jerome Powell Stepped Down as Federal Reserve Chairman With a 7-Word Warning That Speaks Volumes for Stock Investors - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdTE1dXZhXzNXRVk1bllwSHJIWHRfdHJENExxby12UE9QRFFOV0EyS29wT2dNcEdQWFcySzBkS0JqRmRZa2VmNm5mQ19CU1NMSmV6VkhQZV90YUp2Y2cyX2dxVmhYNzlDS0ZBWF8xcW9HRllQS0gxTFg4djV1NXl6UGVCMzRkdXdZb1pfSmZrUnFTemNxSC1xcQ?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Thu, 28 May 2026 05:00:00 GMT",
+      "summary": "Jerome Powell Stepped Down as Federal Reserve Chairman With a 7-Word Warning That Speaks Volumes for Stock Investors The Motley Fool",
+      "guid": "CBMimAFBVV95cUxPdTE1dXZhXzNXRVk1bllwSHJIWHRfdHJENExxby12UE9QRFFOV0EyS29wT2dNcEdQWFcySzBkS0JqRmRZa2VmNm5mQ19CU1NMSmV6VkhQZV90YUp2Y2cyX2dxVmhYNzlDS0ZBWF8xcW9HRllQS0gxTFg4djV1NXl6UGVCMzRkdXdZb1pfSmZrUnFTemNxSC1xcQ"
     }
   ]
 }
