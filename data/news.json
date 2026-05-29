@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-05-28T23:46:10Z",
+  "generated_at": "2026-05-29T02:02:08Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "Core inflation hit an annual rate of 3.3% in April, as expected, Fed’s preferred gauge shows - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMnh3U0JFaU9RMnV2MlpRbjFXUGJkTTZOZkRLRk1QZjBSOWRpS2RSb1otb0tUOTNaTGh0WDktS092ek1wNmo4R2xSaTFkUEFLYi1mRC1obzk2UHVfU2gtc250bHY0UUtmN3Z2OGpMa25VYmpBcHVnX2lyaEo1VVFVOGs1R3dZUFZBemRESk9hWU1hOXBic0ZieVF5NjE1SThMeXVDeE5CcFFtWXJFdkMxRmNWNVN5dnFmWmozS2JFN25mMHMxQkNsSEdCLUxGSzF1MTY00gHYAUFVX3lxTE5NdHpLcS1GZjUyLTNaRDF6WWRlanltMFU0UElJTFY2UlVvc29vX0RFbWk2RG15M3cxRHJoNE84TjZOdmF4dDZmeHFKdXIxaGprUDhzRG5nSkx3WW9CX0poVFNUa0RyZ3ctVG9XWS05aEtlSXJBSEtyMGNraWxqYm5OWUJlcWhpaXA4QXh3TWJsMzhKN2NhWGhaZWsxb2NGd054NWUxSUxMN1hqTzZLU2dDa1Zqa3BUdGlNWUlxaUxyTWFlWEY0THVVQ0JvV1NsRzJGVmdQdVkxLQ?oc=5",
+      "source": "CNBC",
+      "published_at": "Thu, 28 May 2026 12:32:44 GMT",
+      "summary": "Core inflation hit an annual rate of 3.3% in April, as expected, Fed’s preferred gauge shows CNBC",
+      "guid": "CBMi0wFBVV95cUxPMnh3U0JFaU9RMnV2MlpRbjFXUGJkTTZOZkRLRk1QZjBSOWRpS2RSb1otb0tUOTNaTGh0WDktS092ek1wNmo4R2xSaTFkUEFLYi1mRC1obzk2UHVfU2gtc250bHY0UUtmN3Z2OGpMa25VYmpBcHVnX2lyaEo1VVFVOGs1R3dZUFZBemRESk9hWU1hOXBic0ZieVF5NjE1SThMeXVDeE5CcFFtWXJFdkMxRmNWNVN5dnFmWmozS2JFN25mMHMxQkNsSEdCLUxGSzF1MTY00gHYAUFVX3lxTE5NdHpLcS1GZjUyLTNaRDF6WWRlanltMFU0UElJTFY2UlVvc29vX0RFbWk2RG15M3cxRHJoNE84TjZOdmF4dDZmeHFKdXIxaGprUDhzRG5nSkx3WW9CX0poVFNUa0RyZ3ctVG9XWS05aEtlSXJBSEtyMGNraWxqYm5OWUJlcWhpaXA4QXh3TWJsMzhKN2NhWGhaZWsxb2NGd054NWUxSUxMN1hqTzZLU2dDa1Zqa3BUdGlNWUlxaUxyTWFlWEY0THVVQ0JvV1NsRzJGVmdQdVkxLQ"
+    },
     {
       "title": "Jerome Powell Stepped Down as Federal Reserve Chairman With a 7-Word Warning That Speaks Volumes for Stock Investors - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdTE1dXZhXzNXRVk1bllwSHJIWHRfdHJENExxby12UE9QRFFOV0EyS29wT2dNcEdQWFcySzBkS0JqRmRZa2VmNm5mQ19CU1NMSmV6VkhQZV90YUp2Y2cyX2dxVmhYNzlDS0ZBWF8xcW9HRllQS0gxTFg4djV1NXl6UGVCMzRkdXdZb1pfSmZrUnFTemNxSC1xcQ?oc=5",
@@ -63,14 +71,6 @@
       "guid": "CBMiowFBVV95cUxPOS1qRHRXakJuWVJSLUVtN1M5M2tjMU9OOEtGdWw2d2VIYVphYmpxd3hxMWdQb2lBbFdCdzFSZFJ4OVRDOGZPNVFOZFpDcHctVzZfV19xcXZfMWhIS0dFZURIT1dpWjhTOVdOWkR1UEtUSXIzNFBqU1lGQXA4a1o1V0JmZk9qNzJwaFNnbkRoUXdNZTNPa0tXSGJDcVNHZGdMaHRv"
     },
     {
-      "title": "Jerome Powell Stepped Down as Federal Reserve Chairman With a 7-Word Warning That Speaks Volumes for Stock Investors - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTlZLaVJ4NUZ4aTdxTnZGUVl4cnI0YUNGakVnZTNrWEd6Vkc0ZFVfV0p0UUR5dFNsS3BIOEt0X2x4YmhBVWZzZWRyNmxHN0pKX25Cbzd0RFRuaklwa0taUzV2U3VVSEt0TERRbjJXMG5MYlhpMXBQakVxX0pIMVZPVm5HUTQ?oc=5",
-      "source": "AOL.com",
-      "published_at": "Thu, 28 May 2026 08:58:46 GMT",
-      "summary": "Jerome Powell Stepped Down as Federal Reserve Chairman With a 7-Word Warning That Speaks Volumes for Stock Investors AOL.com",
-      "guid": "CBMihAFBVV95cUxOTlZLaVJ4NUZ4aTdxTnZGUVl4cnI0YUNGakVnZTNrWEd6Vkc0ZFVfV0p0UUR5dFNsS3BIOEt0X2x4YmhBVWZzZWRyNmxHN0pKX25Cbzd0RFRuaklwa0taUzV2U3VVSEt0TERRbjJXMG5MYlhpMXBQakVxX0pIMVZPVm5HUTQ"
-    },
-    {
       "title": "Oof! The Federal Reserve's May Inflation Forecast Is In, and Things Just Got Uglier for Wall Street. - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYWtUVjEzZm92N09pamVFLVJBZmpiLUNqYWc1bVpOZkJLSGdNNFZfemtHenJraERIbzVhV3hKNEdVZW9nTmFiNl9taEtaU290R1FrX3NtNE5zWnBzLWJYTHlqTldWZFZNS0RoM2N6MGtDYkVzdmhKWl9ZbXliZ1phYWhocmJSelFLejdDUnVXVGN5QjhKWGstRm85T2JKZE9I?oc=5",
       "source": "Yahoo Finance",
@@ -79,12 +79,12 @@
       "guid": "CBMioAFBVV95cUxPYWtUVjEzZm92N09pamVFLVJBZmpiLUNqYWc1bVpOZkJLSGdNNFZfemtHenJraERIbzVhV3hKNEdVZW9nTmFiNl9taEtaU290R1FrX3NtNE5zWnBzLWJYTHlqTldWZFZNS0RoM2N6MGtDYkVzdmhKWl9ZbXliZ1phYWhocmJSelFLejdDUnVXVGN5QjhKWGstRm85T2JKZE9I"
     },
     {
-      "title": "The Stock Market Just Had One of Its Strongest 8-Week Runs Ever. History Says It May Not Be Done Yet - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPOG9jUTBTbzNVR1phOFBXU3J4QzYwYVJ3aHByajIxWDE0QXdELVdYNDhoQ2M2Rkg0bXhTZGpyb2tQNGExYWszR29VRGN0ZkVpVUdDVXhpdFk4dVp6VXE5NnBSdk5SVkVWcXZMQWp0TDFDLWUxOEdGTzJtdERPN0VqaHcxc1IzaE5hTktHcTFNeDRNdkxGLUVIcFFCRzdLZnY0QVpKdXFnMmZLa1ZNc3BDZEx6Njdmb2Z1NTBSNXRvcDU2STJFY0ZhLVRmdmc1NnVJVU5UY2dfTlgzUTg?oc=5",
+      "title": "Trump’s Rate Cuts Could Light a Fire Under This Vanguard ETF - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPc0FzeExfTER3V0NpMkNETlVITEtHT01SLTNtZU0xcXFJV1oxQjAtS2MzajFCeVh1TGxuQzFhYzRVek1RSXNIZjlXOTFxQU5mcXc4XzQ4SzBHcDNGdEVjd2lkSzBlWUhDNVhTY1hzWUdmSUIxQ1B3X2xfVGZtZmZRb0JCczUzWFZWWTc2SmdIdDR0c1VRbjFGTFJWdlkwc1ZOZFFGMEhn?oc=5",
       "source": "24/7 Wall St.",
-      "published_at": "Wed, 27 May 2026 20:49:04 GMT",
-      "summary": "The Stock Market Just Had One of Its Strongest 8-Week Runs Ever. History Says It May Not Be Done Yet 24/7 Wall St.",
-      "guid": "CBMi2wFBVV95cUxPOG9jUTBTbzNVR1phOFBXU3J4QzYwYVJ3aHByajIxWDE0QXdELVdYNDhoQ2M2Rkg0bXhTZGpyb2tQNGExYWszR29VRGN0ZkVpVUdDVXhpdFk4dVp6VXE5NnBSdk5SVkVWcXZMQWp0TDFDLWUxOEdGTzJtdERPN0VqaHcxc1IzaE5hTktHcTFNeDRNdkxGLUVIcFFCRzdLZnY0QVpKdXFnMmZLa1ZNc3BDZEx6Njdmb2Z1NTBSNXRvcDU2STJFY0ZhLVRmdmc1NnVJVU5UY2dfTlgzUTg"
+      "published_at": "Thu, 28 May 2026 20:23:31 GMT",
+      "summary": "Trump’s Rate Cuts Could Light a Fire Under This Vanguard ETF 24/7 Wall St.",
+      "guid": "CBMipgFBVV95cUxPc0FzeExfTER3V0NpMkNETlVITEtHT01SLTNtZU0xcXFJV1oxQjAtS2MzajFCeVh1TGxuQzFhYzRVek1RSXNIZjlXOTFxQU5mcXc4XzQ4SzBHcDNGdEVjd2lkSzBlWUhDNVhTY1hzWUdmSUIxQ1B3X2xfVGZtZmZRb0JCczUzWFZWWTc2SmdIdDR0c1VRbjFGTFJWdlkwc1ZOZFFGMEhn"
     }
   ]
 }
