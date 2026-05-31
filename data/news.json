@@ -1,11 +1,27 @@
 {
-  "generated_at": "2026-05-31T13:09:33Z",
+  "generated_at": "2026-05-31T14:54:12Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "Inflation Is Soaring, and the Federal Reserve Could Do Something It Hasn't Done Since 2023. Here's What It Means for Stocks. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSXA4SWZMUmNycUgxTkZVMjM3Sy10ZlIzSWs2ekRiQ0M2NzJOTnE1MmxDeWxHMjZDeE5jS3pjMlhfelNxOGkxbV8zbVg1ajV2X3Y0dzlZLTdfelY1SG5DSVA4MTBHa1ZxN1JMVUpkc0FBb0JTWWdwOGVLQ2tKMlFDeHVKenJ6aUxIOGd5UG5jMktiaHZfRkR3UA?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Sun, 31 May 2026 14:25:15 GMT",
+      "summary": "Inflation Is Soaring, and the Federal Reserve Could Do Something It Hasn't Done Since 2023. Here's What It Means for Stocks. The Motley Fool",
+      "guid": "CBMimAFBVV95cUxPSXA4SWZMUmNycUgxTkZVMjM3Sy10ZlIzSWs2ekRiQ0M2NzJOTnE1MmxDeWxHMjZDeE5jS3pjMlhfelNxOGkxbV8zbVg1ajV2X3Y0dzlZLTdfelY1SG5DSVA4MTBHa1ZxN1JMVUpkc0FBb0JTWWdwOGVLQ2tKMlFDeHVKenJ6aUxIOGd5UG5jMktiaHZfRkR3UA"
+    },
+    {
+      "title": "The New York Stock Exchange | NYSE - NYSE",
+      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE93UWVlU3g1TVNpdTNEcjI2Yk9kSHU2Tnh5Y0stVFBGRWVkLW9wbU1EbHhQaHdIOE56d2V5NXVhSQ?oc=5",
+      "source": "NYSE",
+      "published_at": "Fri, 29 May 2026 22:00:00 GMT",
+      "summary": "The New York Stock Exchange | NYSE NYSE",
+      "guid": "CBMiP0FVX3lxTE93UWVlU3g1TVNpdTNEcjI2Yk9kSHU2Tnh5Y0stVFBGRWVkLW9wbU1EbHhQaHdIOE56d2V5NXVhSQ"
+    },
     {
       "title": "18 Words From Fed Chair Kevin Warsh That Could Keep Interest Rates Higher for Years - 24/7 Wall St.",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcDBNSUNSTzVqZ0JHdV8tVW5TNThVYmVHbzU1WG5USVZsRDJlRDh4N0tFdzQxQmFOUWpJZ0ljX3ljNHREWlVQU251d3o4cnlLOE9laWRvbnBoaEF6aUtCZVpxd2F1c25maXM0dDVZYXpvTk1USW1yVm85YnM1M2hFODdvbkFpVXRhcWxlMXpTcXF2Qnh1Z1NOQklId3VRX2hkalZVdUd0cDd3S0xibC14d2dtNk5kM1VoQ1NOLXROamljVUEycWc?oc=5",
@@ -23,12 +39,12 @@
       "guid": "CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0"
     },
     {
-      "title": "The Stock Market May Be in Trouble: President Trump Put Fed Chair Kevin Warsh in a Tough Spot - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORWFId3l2VmdicjNrTGpJZ25yN1N5bGhHY3B1bm1sWmxuNzFKLVdxTHNmR1VwenQ1aGw0WS1RU18xa3doaVRyZ3g0eklMS2FISE9uYzItZk9GbkNrOVVvZVZPMEt5djdMVGc0VXo2WWF5WTloRm9iWEQtU0s4TVZ4MmNXcjNzd3BpeDY4RmhBWHBRQ0NxQUtYTjlRN3pHajVQ?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Fri, 29 May 2026 09:08:00 GMT",
-      "summary": "The Stock Market May Be in Trouble: President Trump Put Fed Chair Kevin Warsh in a Tough Spot Yahoo Finance",
-      "guid": "CBMioAFBVV95cUxORWFId3l2VmdicjNrTGpJZ25yN1N5bGhHY3B1bm1sWmxuNzFKLVdxTHNmR1VwenQ1aGw0WS1RU18xa3doaVRyZ3g0eklMS2FISE9uYzItZk9GbkNrOVVvZVZPMEt5djdMVGc0VXo2WWF5WTloRm9iWEQtU0s4TVZ4MmNXcjNzd3BpeDY4RmhBWHBRQ0NxQUtYTjlRN3pHajVQ"
+      "title": "Scatterplot of Inflation and the Share of Relative Price Increases - Federal Reserve Bank of Richmond",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWGswa3NHUE5OV2tzVVZESy1kUVVEdWstQllDb3VHNmZEaHE3aG5XLUFDR0p5NTM1T0tZQjRTUG43dVlwYXJXRENjNS1kUnBoTzZUaTJtQ1A3WnVZbGVxOVhuWEd5SzNJLXNNRTdZbmVhSGZ4SEhIdlNnTWtXaFl6RmdXelFtMVBVaEZFRGFSa3ZzN3JsQWRKY05tdWFzZw?oc=5",
+      "source": "Federal Reserve Bank of Richmond",
+      "published_at": "Thu, 28 May 2026 07:00:00 GMT",
+      "summary": "Scatterplot of Inflation and the Share of Relative Price Increases Federal Reserve Bank of Richmond",
+      "guid": "CBMingFBVV95cUxQWGswa3NHUE5OV2tzVVZESy1kUVVEdWstQllDb3VHNmZEaHE3aG5XLUFDR0p5NTM1T0tZQjRTUG43dVlwYXJXRENjNS1kUnBoTzZUaTJtQ1A3WnVZbGVxOVhuWEd5SzNJLXNNRTdZbmVhSGZ4SEhIdlNnTWtXaFl6RmdXelFtMVBVaEZFRGFSa3ZzN3JsQWRKY05tdWFzZw"
     },
     {
       "title": "Weekly market commentary - blackrock.com",
@@ -39,52 +55,36 @@
       "guid": "CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw"
     },
     {
+      "title": "Federal Reserve Monetary Policy - U.S. Bank",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa2V2OFo4WjFPclRZRGtjZXJvb3dsaDVUM3FjRnVCTkxfX184eHRyQjJ2NFlDc09TUlZrUDZGUzQzTjgyV1drNG9PSnc2Y0RELWZ5LVktLTlFcGFFa2s0Qm04RzRoYjNRSE9aSGw3aDljNFEyUEZJS1RNa203WlBLdmxxS2lWNmNXT0pRZGdDcGdqdEZ1YmMxN2lhci1RdVRMTEJtWE5wM3RJSFhGMXJjMjdqZw?oc=5",
+      "source": "U.S. Bank",
+      "published_at": "Fri, 01 May 2026 07:00:00 GMT",
+      "summary": "Federal Reserve Monetary Policy U.S. Bank",
+      "guid": "CBMiswFBVV95cUxOa2V2OFo4WjFPclRZRGtjZXJvb3dsaDVUM3FjRnVCTkxfX184eHRyQjJ2NFlDc09TUlZrUDZGUzQzTjgyV1drNG9PSnc2Y0RELWZ5LVktLTlFcGFFa2s0Qm04RzRoYjNRSE9aSGw3aDljNFEyUEZJS1RNa203WlBLdmxxS2lWNmNXT0pRZGdDcGdqdEZ1YmMxN2lhci1RdVRMTEJtWE5wM3RJSFhGMXJjMjdqZw"
+    },
+    {
+      "title": "The Stock Market May Be in Trouble: President Trump Put Fed Chair Kevin Warsh in a Tough Spot - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORWFId3l2VmdicjNrTGpJZ25yN1N5bGhHY3B1bm1sWmxuNzFKLVdxTHNmR1VwenQ1aGw0WS1RU18xa3doaVRyZ3g0eklMS2FISE9uYzItZk9GbkNrOVVvZVZPMEt5djdMVGc0VXo2WWF5WTloRm9iWEQtU0s4TVZ4MmNXcjNzd3BpeDY4RmhBWHBRQ0NxQUtYTjlRN3pHajVQ?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Fri, 29 May 2026 09:08:00 GMT",
+      "summary": "The Stock Market May Be in Trouble: President Trump Put Fed Chair Kevin Warsh in a Tough Spot Yahoo Finance",
+      "guid": "CBMioAFBVV95cUxORWFId3l2VmdicjNrTGpJZ25yN1N5bGhHY3B1bm1sWmxuNzFKLVdxTHNmR1VwenQ1aGw0WS1RU18xa3doaVRyZ3g0eklMS2FISE9uYzItZk9GbkNrOVVvZVZPMEt5djdMVGc0VXo2WWF5WTloRm9iWEQtU0s4TVZ4MmNXcjNzd3BpeDY4RmhBWHBRQ0NxQUtYTjlRN3pHajVQ"
+    },
+    {
+      "title": "3 Ways Kevin Warsh Aims to Reshape the Federal Reserve -- and They Can All Decimate Wall Street - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPLUJzZGFRa2tuaVgzRVU4T01PRW9lbThDNGtXV2V2a0dWM1ZvblpPaWhfa3lRbWNoU2RIaExjWUswWF9mYzJWdzdRSmJDMVBvNE5lM1RRNnBkbnlKNi1ZTDBzLW4xV3ctRlpaTGZwbGZ0QXl2V0VYVGlQbVZrN3RmdUR4T2N3anFhcVRwWVF6RG1Ia0xk?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Sun, 31 May 2026 13:41:18 GMT",
+      "summary": "3 Ways Kevin Warsh Aims to Reshape the Federal Reserve -- and They Can All Decimate Wall Street The Motley Fool",
+      "guid": "CBMilAFBVV95cUxPLUJzZGFRa2tuaVgzRVU4T01PRW9lbThDNGtXV2V2a0dWM1ZvblpPaWhfa3lRbWNoU2RIaExjWUswWF9mYzJWdzdRSmJDMVBvNE5lM1RRNnBkbnlKNi1ZTDBzLW4xV3ctRlpaTGZwbGZ0QXl2V0VYVGlQbVZrN3RmdUR4T2N3anFhcVRwWVF6RG1Ia0xk"
+    },
+    {
       "title": "Opinion: The Stock Market May Have Dodged a Bullet With Jerome Powell Staying at the Fed - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdm43OTN4QXV2THMzZVJuRWVra2hmUkU5NnpQRG5HWUNnQldYX1hwNHNuYmlVQV9hWklrVzFGSVJhUTVVVkc0VVVqeU83R1ExcXVKcHhXd0hMN0pGYlBxUnpfbGN0U3haTXVxa0hyd1FabDkyeXQ5bFEzc0dyNjlPVlFfNW9pdm5LZ3Y5cnRHMW1pNUFGTm5r?oc=5",
       "source": "The Motley Fool",
       "published_at": "Fri, 29 May 2026 09:44:00 GMT",
       "summary": "Opinion: The Stock Market May Have Dodged a Bullet With Jerome Powell Staying at the Fed The Motley Fool",
       "guid": "CBMilwFBVV95cUxOdm43OTN4QXV2THMzZVJuRWVra2hmUkU5NnpQRG5HWUNnQldYX1hwNHNuYmlVQV9hWklrVzFGSVJhUTVVVkc0VVVqeU83R1ExcXVKcHhXd0hMN0pGYlBxUnpfbGN0U3haTXVxa0hyd1FabDkyeXQ5bFEzc0dyNjlPVlFfNW9pdm5LZ3Y5cnRHMW1pNUFGTm5r"
-    },
-    {
-      "title": "Fed's Schmid warns against viewing oil shock as transitory - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVGtUZExfTVVUZVRXYVZPd3QzcEs4OVZFcDFvNm1BTGhMTWd3SEVPNTZnWVhJYU0zNGRxRzA2QnZ1cHFhRGxPbVJFcWxVR2d0WUdpcUdkOUhFNVVUb05qSGNCREYyRS1kRmVsQldDYjhCbnNVcy13bmVKc2NURDRteVl5X1lGQjl1NnpSZnJzQ3Q5MmNveE1BejJyN1hONDg3?oc=5",
-      "source": "Reuters",
-      "published_at": "Fri, 29 May 2026 11:36:08 GMT",
-      "summary": "Fed's Schmid warns against viewing oil shock as transitory Reuters",
-      "guid": "CBMioAFBVV95cUxOVGtUZExfTVVUZVRXYVZPd3QzcEs4OVZFcDFvNm1BTGhMTWd3SEVPNTZnWVhJYU0zNGRxRzA2QnZ1cHFhRGxPbVJFcWxVR2d0WUdpcUdkOUhFNVVUb05qSGNCREYyRS1kRmVsQldDYjhCbnNVcy13bmVKc2NURDRteVl5X1lGQjl1NnpSZnJzQ3Q5MmNveE1BejJyN1hONDg3"
-    },
-    {
-      "title": "What Might The Federal Reserve Decide After May 2026’s Job Report? (NYSEARCA:IVV) - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOc2VMN1J0Q3RnVDJHWEM3SW1VNW9fUjAxVUFLVXYtM0VOOUt4WHhoajVKWHBKZ1FXb1VFaUkzWFBzYU1GVlRIbzFTS1czRWdPR2JXY3dmSGtEQ2tXNjVaYjJvdDBXX1R2UWN5M29Ya3Q0c1dkR1pPb2x2UTRpR0IxNEdBdmxEZEYtMDM2WTdEUTg3dFlhaF9sdTU2NFMwQ3lScnc?oc=5",
-      "source": "Seeking Alpha",
-      "published_at": "Sat, 30 May 2026 11:00:00 GMT",
-      "summary": "What Might The Federal Reserve Decide After May 2026’s Job Report? (NYSEARCA:IVV) Seeking Alpha",
-      "guid": "CBMiogFBVV95cUxOc2VMN1J0Q3RnVDJHWEM3SW1VNW9fUjAxVUFLVXYtM0VOOUt4WHhoajVKWHBKZ1FXb1VFaUkzWFBzYU1GVlRIbzFTS1czRWdPR2JXY3dmSGtEQ2tXNjVaYjJvdDBXX1R2UWN5M29Ya3Q0c1dkR1pPb2x2UTRpR0IxNEdBdmxEZEYtMDM2WTdEUTg3dFlhaF9sdTU2NFMwQ3lScnc"
-    },
-    {
-      "title": "A Stock Market Indicator Flashes a Warning Last Seen in 2007. Warren Buffett Explains Why It Matters. - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRC1OTHUzMy1oX1NVc0NSS1JyVHE4ckE5cElGNTU5ZmJKckZfRl9UR0d1MXpuS05Rd21FQ2lOZnhGbm1jWUVENWVFM2xCWTBBQjQyR28tVFE3bTY4bmhQeF95TDFkMXV3V0UzTGhpazdjcmtkSzhjcUFCRkhYem9yc3dpNEN2U0VNRlhvMkVBemo2ZVZWMVFVYmVUVWtEc1N6SGRFWUdB?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Sat, 30 May 2026 09:08:00 GMT",
-      "summary": "A Stock Market Indicator Flashes a Warning Last Seen in 2007. Warren Buffett Explains Why It Matters. Yahoo Finance",
-      "guid": "CBMipgFBVV95cUxNRC1OTHUzMy1oX1NVc0NSS1JyVHE4ckE5cElGNTU5ZmJKckZfRl9UR0d1MXpuS05Rd21FQ2lOZnhGbm1jWUVENWVFM2xCWTBBQjQyR28tVFE3bTY4bmhQeF95TDFkMXV3V0UzTGhpazdjcmtkSzhjcUFCRkhYem9yc3dpNEN2U0VNRlhvMkVBemo2ZVZWMVFVYmVUVWtEc1N6SGRFWUdB"
-    },
-    {
-      "title": "Jerome Powell Stepped Down as Federal Reserve Chairman With a 7-Word Warning That Speaks Volumes for Stock Investors - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdTE1dXZhXzNXRVk1bllwSHJIWHRfdHJENExxby12UE9QRFFOV0EyS29wT2dNcEdQWFcySzBkS0JqRmRZa2VmNm5mQ19CU1NMSmV6VkhQZV90YUp2Y2cyX2dxVmhYNzlDS0ZBWF8xcW9HRllQS0gxTFg4djV1NXl6UGVCMzRkdXdZb1pfSmZrUnFTemNxSC1xcQ?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Thu, 28 May 2026 05:00:00 GMT",
-      "summary": "Jerome Powell Stepped Down as Federal Reserve Chairman With a 7-Word Warning That Speaks Volumes for Stock Investors The Motley Fool",
-      "guid": "CBMimAFBVV95cUxPdTE1dXZhXzNXRVk1bllwSHJIWHRfdHJENExxby12UE9QRFFOV0EyS29wT2dNcEdQWFcySzBkS0JqRmRZa2VmNm5mQ19CU1NMSmV6VkhQZV90YUp2Y2cyX2dxVmhYNzlDS0ZBWF8xcW9HRllQS0gxTFg4djV1NXl6UGVCMzRkdXdZb1pfSmZrUnFTemNxSC1xcQ"
-    },
-    {
-      "title": "This Just-Released Economic Indicator Spells Doom for President Trump’s Economy - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWlJwalFOM3I5RFo3eC1pdjhCOWNrTVlCNlZib1EyQ2FfcWxJQWxYVzVrVEVXeUcyNWZqMGoxZW9saXM1a2pGN0RvVGlRQmtBY2tYSmdzOFJMVnZnYlJ1TUVTZVJqcGhqRXBOM1Mxcm5GZDJZOEtPV0t0N0hjODVnVU5wanpMQl9rdEVOWTVGZDNOczRFZHp3bmJRdTJ4d1l3Qm5lUy1TMVpGMHdGVENVWE9Xd0V4YzNaNlRzR0xHTQ?oc=5",
-      "source": "24/7 Wall St.",
-      "published_at": "Sat, 30 May 2026 16:19:45 GMT",
-      "summary": "This Just-Released Economic Indicator Spells Doom for President Trump’s Economy 24/7 Wall St.",
-      "guid": "CBMivwFBVV95cUxNWlJwalFOM3I5RFo3eC1pdjhCOWNrTVlCNlZib1EyQ2FfcWxJQWxYVzVrVEVXeUcyNWZqMGoxZW9saXM1a2pGN0RvVGlRQmtBY2tYSmdzOFJMVnZnYlJ1TUVTZVJqcGhqRXBOM1Mxcm5GZDJZOEtPV0t0N0hjODVnVU5wanpMQl9rdEVOWTVGZDNOczRFZHp3bmJRdTJ4d1l3Qm5lUy1TMVpGMHdGVENVWE9Xd0V4YzNaNlRzR0xHTQ"
     }
   ]
 }
