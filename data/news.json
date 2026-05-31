@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T17:04:22Z",
+  "generated_at": "2026-05-31T18:15:37Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,20 +7,12 @@
   },
   "items": [
     {
-      "title": "Inflation Is Soaring, and the Federal Reserve Could Do Something It Hasn't Done Since 2023. Here's What It Means for Stocks. - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSXA4SWZMUmNycUgxTkZVMjM3Sy10ZlIzSWs2ekRiQ0M2NzJOTnE1MmxDeWxHMjZDeE5jS3pjMlhfelNxOGkxbV8zbVg1ajV2X3Y0dzlZLTdfelY1SG5DSVA4MTBHa1ZxN1JMVUpkc0FBb0JTWWdwOGVLQ2tKMlFDeHVKenJ6aUxIOGd5UG5jMktiaHZfRkR3UA?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Sun, 31 May 2026 14:25:15 GMT",
-      "summary": "Inflation Is Soaring, and the Federal Reserve Could Do Something It Hasn't Done Since 2023. Here's What It Means for Stocks. The Motley Fool",
-      "guid": "CBMimAFBVV95cUxPSXA4SWZMUmNycUgxTkZVMjM3Sy10ZlIzSWs2ekRiQ0M2NzJOTnE1MmxDeWxHMjZDeE5jS3pjMlhfelNxOGkxbV8zbVg1ajV2X3Y0dzlZLTdfelY1SG5DSVA4MTBHa1ZxN1JMVUpkc0FBb0JTWWdwOGVLQ2tKMlFDeHVKenJ6aUxIOGd5UG5jMktiaHZfRkR3UA"
-    },
-    {
-      "title": "The New York Stock Exchange | NYSE - NYSE",
-      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE93UWVlU3g1TVNpdTNEcjI2Yk9kSHU2Tnh5Y0stVFBGRWVkLW9wbU1EbHhQaHdIOE56d2V5NXVhSQ?oc=5",
-      "source": "NYSE",
-      "published_at": "Fri, 29 May 2026 22:00:00 GMT",
-      "summary": "The New York Stock Exchange | NYSE NYSE",
-      "guid": "CBMiP0FVX3lxTE93UWVlU3g1TVNpdTNEcjI2Yk9kSHU2Tnh5Y0stVFBGRWVkLW9wbU1EbHhQaHdIOE56d2V5NXVhSQ"
+      "title": "Inflation Is Soaring, and the Federal Reserve Could Do Something It Hasn't Done Since 2023. Here's What It Means for Stocks. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSVJ0bEpxSDhZUmJOc1JVR0ZoRDFNRmRYNmlOanpfVkQ2MmJ6UXJmLWtkOEZvVW53ZGxkNl92SHpab1RBbnhkZERfWnY2OWl6bGU5UUVKbVV5bVk5eklGLXR6cFNfUGVKc3p6dmNMLWQyNWtHZEdRY1N1cEtTX0k1WDBjLTVJOXVLQkRvMThWUFpEeDZEbm1tSDhlaDZlcTREc1plRTAxWlc4QQ?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Sun, 31 May 2026 14:14:00 GMT",
+      "summary": "Inflation Is Soaring, and the Federal Reserve Could Do Something It Hasn't Done Since 2023. Here's What It Means for Stocks. Yahoo Finance",
+      "guid": "CBMiqgFBVV95cUxPSVJ0bEpxSDhZUmJOc1JVR0ZoRDFNRmRYNmlOanpfVkQ2MmJ6UXJmLWtkOEZvVW53ZGxkNl92SHpab1RBbnhkZERfWnY2OWl6bGU5UUVKbVV5bVk5eklGLXR6cFNfUGVKc3p6dmNMLWQyNWtHZEdRY1N1cEtTX0k1WDBjLTVJOXVLQkRvMThWUFpEeDZEbm1tSDhlaDZlcTREc1plRTAxWlc4QQ"
     },
     {
       "title": "18 Words From Fed Chair Kevin Warsh That Could Keep Interest Rates Higher for Years - 24/7 Wall St.",
@@ -37,14 +29,6 @@
       "published_at": "Fri, 29 May 2026 07:00:00 GMT",
       "summary": "Tracker: The Federal Reserve’s Balance Sheet Assets The American Action Forum",
       "guid": "CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0"
-    },
-    {
-      "title": "Weekly market commentary - blackrock.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
-      "source": "blackrock.com",
-      "published_at": "Tue, 26 May 2026 07:00:00 GMT",
-      "summary": "Weekly market commentary blackrock.com",
-      "guid": "CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw"
     },
     {
       "title": "Jerome Powell Stepped Down as Federal Reserve Chairman With a 7-Word Warning That Speaks Volumes for Stock Investors - AOL.com",
@@ -85,6 +69,22 @@
       "published_at": "Sun, 31 May 2026 13:26:34 GMT",
       "summary": "3 Ways Kevin Warsh Aims to Reshape the Federal Reserve -- and They Can All Decimate Wall Street The Motley Fool",
       "guid": "CBMilAFBVV95cUxPLUJzZGFRa2tuaVgzRVU4T01PRW9lbThDNGtXV2V2a0dWM1ZvblpPaWhfa3lRbWNoU2RIaExjWUswWF9mYzJWdzdRSmJDMVBvNE5lM1RRNnBkbnlKNi1ZTDBzLW4xV3ctRlpaTGZwbGZ0QXl2V0VYVGlQbVZrN3RmdUR4T2N3anFhcVRwWVF6RG1Ia0xk"
+    },
+    {
+      "title": "Federal Reserve keeps interest rates steady as inflation uncertainty rises - U.S. Bank",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw?oc=5",
+      "source": "U.S. Bank",
+      "published_at": "Wed, 29 Apr 2026 07:00:00 GMT",
+      "summary": "Federal Reserve keeps interest rates steady as inflation uncertainty rises U.S. Bank",
+      "guid": "CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw"
+    },
+    {
+      "title": "Opinion: The Stock Market May Have Dodged a Bullet With Jerome Powell Staying at the Fed - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdm43OTN4QXV2THMzZVJuRWVra2hmUkU5NnpQRG5HWUNnQldYX1hwNHNuYmlVQV9hWklrVzFGSVJhUTVVVkc0VVVqeU83R1ExcXVKcHhXd0hMN0pGYlBxUnpfbGN0U3haTXVxa0hyd1FabDkyeXQ5bFEzc0dyNjlPVlFfNW9pdm5LZ3Y5cnRHMW1pNUFGTm5r?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Fri, 29 May 2026 09:44:00 GMT",
+      "summary": "Opinion: The Stock Market May Have Dodged a Bullet With Jerome Powell Staying at the Fed The Motley Fool",
+      "guid": "CBMilwFBVV95cUxOdm43OTN4QXV2THMzZVJuRWVra2hmUkU5NnpQRG5HWUNnQldYX1hwNHNuYmlVQV9hWklrVzFGSVJhUTVVVkc0VVVqeU83R1ExcXVKcHhXd0hMN0pGYlBxUnpfbGN0U3haTXVxa0hyd1FabDkyeXQ5bFEzc0dyNjlPVlFfNW9pdm5LZ3Y5cnRHMW1pNUFGTm5r"
     }
   ]
 }
