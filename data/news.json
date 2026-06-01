@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T22:46:21Z",
+  "generated_at": "2026-05-31T23:54:55Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -13,14 +13,6 @@
       "published_at": "Sun, 31 May 2026 14:14:00 GMT",
       "summary": "Inflation Is Soaring, and the Federal Reserve Could Do Something It Hasn't Done Since 2023. Here's What It Means for Stocks. Yahoo Finance",
       "guid": "CBMiqgFBVV95cUxPSVJ0bEpxSDhZUmJOc1JVR0ZoRDFNRmRYNmlOanpfVkQ2MmJ6UXJmLWtkOEZvVW53ZGxkNl92SHpab1RBbnhkZERfWnY2OWl6bGU5UUVKbVV5bVk5eklGLXR6cFNfUGVKc3p6dmNMLWQyNWtHZEdRY1N1cEtTX0k1WDBjLTVJOXVLQkRvMThWUFpEeDZEbm1tSDhlaDZlcTREc1plRTAxWlc4QQ"
-    },
-    {
-      "title": "The New York Stock Exchange | NYSE - NYSE",
-      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE93UWVlU3g1TVNpdTNEcjI2Yk9kSHU2Tnh5Y0stVFBGRWVkLW9wbU1EbHhQaHdIOE56d2V5NXVhSQ?oc=5",
-      "source": "NYSE",
-      "published_at": "Fri, 29 May 2026 22:00:00 GMT",
-      "summary": "The New York Stock Exchange | NYSE NYSE",
-      "guid": "CBMiP0FVX3lxTE93UWVlU3g1TVNpdTNEcjI2Yk9kSHU2Tnh5Y0stVFBGRWVkLW9wbU1EbHhQaHdIOE56d2V5NXVhSQ"
     },
     {
       "title": "Tracker: The Federal Reserve’s Balance Sheet Assets - The American Action Forum",
@@ -71,6 +63,14 @@
       "guid": "CBMioAFBVV95cUxOVGtUZExfTVVUZVRXYVZPd3QzcEs4OVZFcDFvNm1BTGhMTWd3SEVPNTZnWVhJYU0zNGRxRzA2QnZ1cHFhRGxPbVJFcWxVR2d0WUdpcUdkOUhFNVVUb05qSGNCREYyRS1kRmVsQldDYjhCbnNVcy13bmVKc2NURDRteVl5X1lGQjl1NnpSZnJzQ3Q5MmNveE1BejJyN1hONDg3"
     },
     {
+      "title": "Jerome Powell Stepped Down as Federal Reserve Chairman With a 7-Word Warning That Speaks Volumes for Stock Investors - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTlZLaVJ4NUZ4aTdxTnZGUVl4cnI0YUNGakVnZTNrWEd6Vkc0ZFVfV0p0UUR5dFNsS3BIOEt0X2x4YmhBVWZzZWRyNmxHN0pKX25Cbzd0RFRuaklwa0taUzV2U3VVSEt0TERRbjJXMG5MYlhpMXBQakVxX0pIMVZPVm5HUTQ?oc=5",
+      "source": "AOL.com",
+      "published_at": "Sun, 31 May 2026 13:01:13 GMT",
+      "summary": "Jerome Powell Stepped Down as Federal Reserve Chairman With a 7-Word Warning That Speaks Volumes for Stock Investors AOL.com",
+      "guid": "CBMihAFBVV95cUxOTlZLaVJ4NUZ4aTdxTnZGUVl4cnI0YUNGakVnZTNrWEd6Vkc0ZFVfV0p0UUR5dFNsS3BIOEt0X2x4YmhBVWZzZWRyNmxHN0pKX25Cbzd0RFRuaklwa0taUzV2U3VVSEt0TERRbjJXMG5MYlhpMXBQakVxX0pIMVZPVm5HUTQ"
+    },
+    {
       "title": "The Stock Market May Be in Trouble: President Trump Put Fed Chair Kevin Warsh in a Tough Spot - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORWFId3l2VmdicjNrTGpJZ25yN1N5bGhHY3B1bm1sWmxuNzFKLVdxTHNmR1VwenQ1aGw0WS1RU18xa3doaVRyZ3g0eklMS2FISE9uYzItZk9GbkNrOVVvZVZPMEt5djdMVGc0VXo2WWF5WTloRm9iWEQtU0s4TVZ4MmNXcjNzd3BpeDY4RmhBWHBRQ0NxQUtYTjlRN3pHajVQ?oc=5",
       "source": "Yahoo Finance",
@@ -79,12 +79,12 @@
       "guid": "CBMioAFBVV95cUxORWFId3l2VmdicjNrTGpJZ25yN1N5bGhHY3B1bm1sWmxuNzFKLVdxTHNmR1VwenQ1aGw0WS1RU18xa3doaVRyZ3g0eklMS2FISE9uYzItZk9GbkNrOVVvZVZPMEt5djdMVGc0VXo2WWF5WTloRm9iWEQtU0s4TVZ4MmNXcjNzd3BpeDY4RmhBWHBRQ0NxQUtYTjlRN3pHajVQ"
     },
     {
-      "title": "3 Ways Kevin Warsh Aims to Reshape the Federal Reserve -- and They Can All Decimate Wall Street - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPLUJzZGFRa2tuaVgzRVU4T01PRW9lbThDNGtXV2V2a0dWM1ZvblpPaWhfa3lRbWNoU2RIaExjWUswWF9mYzJWdzdRSmJDMVBvNE5lM1RRNnBkbnlKNi1ZTDBzLW4xV3ctRlpaTGZwbGZ0QXl2V0VYVGlQbVZrN3RmdUR4T2N3anFhcVRwWVF6RG1Ia0xk?oc=5",
+      "title": "Opinion: The Stock Market May Have Dodged a Bullet With Jerome Powell Staying at the Fed - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdm43OTN4QXV2THMzZVJuRWVra2hmUkU5NnpQRG5HWUNnQldYX1hwNHNuYmlVQV9hWklrVzFGSVJhUTVVVkc0VVVqeU83R1ExcXVKcHhXd0hMN0pGYlBxUnpfbGN0U3haTXVxa0hyd1FabDkyeXQ5bFEzc0dyNjlPVlFfNW9pdm5LZ3Y5cnRHMW1pNUFGTm5r?oc=5",
       "source": "The Motley Fool",
-      "published_at": "Sun, 31 May 2026 14:06:00 GMT",
-      "summary": "3 Ways Kevin Warsh Aims to Reshape the Federal Reserve -- and They Can All Decimate Wall Street The Motley Fool",
-      "guid": "CBMilAFBVV95cUxPLUJzZGFRa2tuaVgzRVU4T01PRW9lbThDNGtXV2V2a0dWM1ZvblpPaWhfa3lRbWNoU2RIaExjWUswWF9mYzJWdzdRSmJDMVBvNE5lM1RRNnBkbnlKNi1ZTDBzLW4xV3ctRlpaTGZwbGZ0QXl2V0VYVGlQbVZrN3RmdUR4T2N3anFhcVRwWVF6RG1Ia0xk"
+      "published_at": "Fri, 29 May 2026 09:44:00 GMT",
+      "summary": "Opinion: The Stock Market May Have Dodged a Bullet With Jerome Powell Staying at the Fed The Motley Fool",
+      "guid": "CBMilwFBVV95cUxOdm43OTN4QXV2THMzZVJuRWVra2hmUkU5NnpQRG5HWUNnQldYX1hwNHNuYmlVQV9hWklrVzFGSVJhUTVVVkc0VVVqeU83R1ExcXVKcHhXd0hMN0pGYlBxUnpfbGN0U3haTXVxa0hyd1FabDkyeXQ5bFEzc0dyNjlPVlFfNW9pdm5LZ3Y5cnRHMW1pNUFGTm5r"
     }
   ]
 }
