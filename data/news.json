@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T07:30:57Z",
+  "generated_at": "2026-06-01T13:16:16Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,20 +7,20 @@
   },
   "items": [
     {
+      "title": "Buckle Up! The Federal Reserve's May Inflation Forecast Points to Fireworks on Wall Street. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOTdIMkF4c3pIVC14X1NuVE13aDl0cXg3RmJvMWxHY1h6ZFlzQ3k2ejNNLUVMbm5Kc0VEbU1WbW9iQVFONm1XbUxpTlV5WlZTU0ZTc2RiUnlSZmZMWEhvcDFRNFBuMk5ZeXJaOGRCNnI1STg5a2pvWHA1eE9jWEwyX0dIdlR4UllZR1JvamNtUlJsSXh1OXg1YW5tQWpTbFBWaktwQg?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Mon, 01 Jun 2026 08:26:00 GMT",
+      "summary": "Buckle Up! The Federal Reserve's May Inflation Forecast Points to Fireworks on Wall Street. Yahoo Finance",
+      "guid": "CBMipAFBVV95cUxOOTdIMkF4c3pIVC14X1NuVE13aDl0cXg3RmJvMWxHY1h6ZFlzQ3k2ejNNLUVMbm5Kc0VEbU1WbW9iQVFONm1XbUxpTlV5WlZTU0ZTc2RiUnlSZmZMWEhvcDFRNFBuMk5ZeXJaOGRCNnI1STg5a2pvWHA1eE9jWEwyX0dIdlR4UllZR1JvamNtUlJsSXh1OXg1YW5tQWpTbFBWaktwQg"
+    },
+    {
       "title": "The New York Stock Exchange | NYSE - NYSE",
       "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE93UWVlU3g1TVNpdTNEcjI2Yk9kSHU2Tnh5Y0stVFBGRWVkLW9wbU1EbHhQaHdIOE56d2V5NXVhSQ?oc=5",
       "source": "NYSE",
       "published_at": "Fri, 29 May 2026 22:00:00 GMT",
       "summary": "The New York Stock Exchange | NYSE NYSE",
       "guid": "CBMiP0FVX3lxTE93UWVlU3g1TVNpdTNEcjI2Yk9kSHU2Tnh5Y0stVFBGRWVkLW9wbU1EbHhQaHdIOE56d2V5NXVhSQ"
-    },
-    {
-      "title": "Inflation Is Soaring, and the Federal Reserve Could Do Something It Hasn't Done Since 2023. Here's What It Means for Stocks. - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSVJ0bEpxSDhZUmJOc1JVR0ZoRDFNRmRYNmlOanpfVkQ2MmJ6UXJmLWtkOEZvVW53ZGxkNl92SHpab1RBbnhkZERfWnY2OWl6bGU5UUVKbVV5bVk5eklGLXR6cFNfUGVKc3p6dmNMLWQyNWtHZEdRY1N1cEtTX0k1WDBjLTVJOXVLQkRvMThWUFpEeDZEbm1tSDhlaDZlcTREc1plRTAxWlc4QQ?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Sun, 31 May 2026 14:14:00 GMT",
-      "summary": "Inflation Is Soaring, and the Federal Reserve Could Do Something It Hasn't Done Since 2023. Here's What It Means for Stocks. Yahoo Finance",
-      "guid": "CBMiqgFBVV95cUxPSVJ0bEpxSDhZUmJOc1JVR0ZoRDFNRmRYNmlOanpfVkQ2MmJ6UXJmLWtkOEZvVW53ZGxkNl92SHpab1RBbnhkZERfWnY2OWl6bGU5UUVKbVV5bVk5eklGLXR6cFNfUGVKc3p6dmNMLWQyNWtHZEdRY1N1cEtTX0k1WDBjLTVJOXVLQkRvMThWUFpEeDZEbm1tSDhlaDZlcTREc1plRTAxWlc4QQ"
     },
     {
       "title": "Tracker: The Federal Reserve’s Balance Sheet Assets - The American Action Forum",
@@ -31,6 +31,14 @@
       "guid": "CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0"
     },
     {
+      "title": "Inflation Is Soaring, and the Federal Reserve Could Do Something It Hasn't Done Since 2023. Here's What It Means for Stocks. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSXA4SWZMUmNycUgxTkZVMjM3Sy10ZlIzSWs2ekRiQ0M2NzJOTnE1MmxDeWxHMjZDeE5jS3pjMlhfelNxOGkxbV8zbVg1ajV2X3Y0dzlZLTdfelY1SG5DSVA4MTBHa1ZxN1JMVUpkc0FBb0JTWWdwOGVLQ2tKMlFDeHVKenJ6aUxIOGd5UG5jMktiaHZfRkR3UA?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Sun, 31 May 2026 14:54:00 GMT",
+      "summary": "Inflation Is Soaring, and the Federal Reserve Could Do Something It Hasn't Done Since 2023. Here's What It Means for Stocks. The Motley Fool",
+      "guid": "CBMimAFBVV95cUxPSXA4SWZMUmNycUgxTkZVMjM3Sy10ZlIzSWs2ekRiQ0M2NzJOTnE1MmxDeWxHMjZDeE5jS3pjMlhfelNxOGkxbV8zbVg1ajV2X3Y0dzlZLTdfelY1SG5DSVA4MTBHa1ZxN1JMVUpkc0FBb0JTWWdwOGVLQ2tKMlFDeHVKenJ6aUxIOGd5UG5jMktiaHZfRkR3UA"
+    },
+    {
       "title": "Scatterplot of Inflation and the Share of Relative Price Increases - Federal Reserve Bank of Richmond",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWGswa3NHUE5OV2tzVVZESy1kUVVEdWstQllDb3VHNmZEaHE3aG5XLUFDR0p5NTM1T0tZQjRTUG43dVlwYXJXRENjNS1kUnBoTzZUaTJtQ1A3WnVZbGVxOVhuWEd5SzNJLXNNRTdZbmVhSGZ4SEhIdlNnTWtXaFl6RmdXelFtMVBVaEZFRGFSa3ZzN3JsQWRKY05tdWFzZw?oc=5",
       "source": "Federal Reserve Bank of Richmond",
@@ -39,12 +47,20 @@
       "guid": "CBMingFBVV95cUxQWGswa3NHUE5OV2tzVVZESy1kUVVEdWstQllDb3VHNmZEaHE3aG5XLUFDR0p5NTM1T0tZQjRTUG43dVlwYXJXRENjNS1kUnBoTzZUaTJtQ1A3WnVZbGVxOVhuWEd5SzNJLXNNRTdZbmVhSGZ4SEhIdlNnTWtXaFl6RmdXelFtMVBVaEZFRGFSa3ZzN3JsQWRKY05tdWFzZw"
     },
     {
-      "title": "18 Words From Fed Chair Kevin Warsh That Could Keep Interest Rates Higher for Years - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcDBNSUNSTzVqZ0JHdV8tVW5TNThVYmVHbzU1WG5USVZsRDJlRDh4N0tFdzQxQmFOUWpJZ0ljX3ljNHREWlVQU251d3o4cnlLOE9laWRvbnBoaEF6aUtCZVpxd2F1c25maXM0dDVZYXpvTk1USW1yVm85YnM1M2hFODdvbkFpVXRhcWxlMXpTcXF2Qnh1Z1NOQklId3VRX2hkalZVdUd0cDd3S0xibC14d2dtNk5kM1VoQ1NOLXROamljVUEycWc?oc=5",
-      "source": "24/7 Wall St.",
-      "published_at": "Sun, 31 May 2026 12:17:28 GMT",
-      "summary": "18 Words From Fed Chair Kevin Warsh That Could Keep Interest Rates Higher for Years 24/7 Wall St.",
-      "guid": "CBMixgFBVV95cUxQcDBNSUNSTzVqZ0JHdV8tVW5TNThVYmVHbzU1WG5USVZsRDJlRDh4N0tFdzQxQmFOUWpJZ0ljX3ljNHREWlVQU251d3o4cnlLOE9laWRvbnBoaEF6aUtCZVpxd2F1c25maXM0dDVZYXpvTk1USW1yVm85YnM1M2hFODdvbkFpVXRhcWxlMXpTcXF2Qnh1Z1NOQklId3VRX2hkalZVdUd0cDd3S0xibC14d2dtNk5kM1VoQ1NOLXROamljVUEycWc"
+      "title": "Stock Market Today: Dow Jones, S&P 500 Futures Rise As US Undertakes 'Self-Defense' Strikes Against Iran - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOMmFFYU1GTWl3VWFVYWFEZWtUVlBVVU5nSEJOeXVmaS1FcXhhRHIzdkk1eW13d0w3V3k3WGtFZW1IUkUyczdLVGdRRm05VHhKbFROdEl6YVVuNHg1dERlWVVJQUxDTlFFQW9SLTNGZGV6bURnbTZPUGlPRlNmcU9zUEdyVUY3WGNqcU1rZ2J3MUFHZzFOUmc2WVdXdnJqSkxwb2NZNFpwOVIzYXlULVlWWjB1WFFSNm5QWksxaF8yWjRkVXpQOHNCbUJiSERINVh6ajF5RTJvVFIxTFcwbDZObk1Bb2x2WTFjM3Zyd04xeVBBSG0yU2lNUFpCQXB0R2NIcUJ2UUd5ems4djZfT19Mb3FrR0gydjA4SkFiaElB?oc=5",
+      "source": "Benzinga",
+      "published_at": "Mon, 01 Jun 2026 10:00:40 GMT",
+      "summary": "Stock Market Today: Dow Jones, S&P 500 Futures Rise As US Undertakes 'Self-Defense' Strikes Against Iran Benzinga",
+      "guid": "CBMingJBVV95cUxOMmFFYU1GTWl3VWFVYWFEZWtUVlBVVU5nSEJOeXVmaS1FcXhhRHIzdkk1eW13d0w3V3k3WGtFZW1IUkUyczdLVGdRRm05VHhKbFROdEl6YVVuNHg1dERlWVVJQUxDTlFFQW9SLTNGZGV6bURnbTZPUGlPRlNmcU9zUEdyVUY3WGNqcU1rZ2J3MUFHZzFOUmc2WVdXdnJqSkxwb2NZNFpwOVIzYXlULVlWWjB1WFFSNm5QWksxaF8yWjRkVXpQOHNCbUJiSERINVh6ajF5RTJvVFIxTFcwbDZObk1Bb2x2WTFjM3Zyd04xeVBBSG0yU2lNUFpCQXB0R2NIcUJ2UUd5ems4djZfT19Mb3FrR0gydjA4SkFiaElB"
+    },
+    {
+      "title": "US Stock Market: Powell defends Fed autonomy as political pressure reaches new highs - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNT0hZQXRDVFRiR3dUSlhodUI2Z3ZzeUNJWVFzWDB3cHdYUHc0bGcwclFDNUp0eTNRQWlXcHR5eU9hbnluNE5TbEFvYVYtbXVGUzNaZ3RFTFZpYTNXOVNXbkwyYzlpY2g0UDJvRjRLS2Ezc3R1cWlyU1lvNnRCRFEteFowVEM5TzRweHVMTE9jMzVWdkJUVHRWeUhKdnJ2YXNPRG0wSVVaN2pEcjktc18xczV6T2tPc3JydC1YV1FlWjVQMkN1eENGX3RDSXFCMUw2UjRpbWRHTmRGV21LUDZrWWJIbXM5ZEdCbXVnU3EySXdEQdIB9wFBVV95cUxObWNHWUpvdTZXdmc0X1cxYXEzMzF0RjNHZ1gwV1ZOamhfVzkySG51eTduOVpiSEc0dS03REduSmJjT3VoR0xtTTJhUjVxWmRqbmU5RWhKdzdCOEFJenRMeDN2allZaFBCZmt2N1BBbmg5WExETWU0aFpzbGlScExnVTJFVDRfRlhpdFRZQXRzWm5nVjFuLWpwNW8xbTEyVDdJNGhnSVJCOTJxNUUyeklXMlk2Zmt0QUZKMXFmM2w4Z0FuX2xxMG4teTBfYW9iUzV6V21RRzd1Q0tSUGZybEs3dHBkU01GSTAtM3huXzBsVVF6RGZHMkIw?oc=5",
+      "source": "The Economic Times",
+      "published_at": "Mon, 01 Jun 2026 04:39:13 GMT",
+      "summary": "US Stock Market: Powell defends Fed autonomy as political pressure reaches new highs The Economic Times",
+      "guid": "CBMi8gFBVV95cUxNT0hZQXRDVFRiR3dUSlhodUI2Z3ZzeUNJWVFzWDB3cHdYUHc0bGcwclFDNUp0eTNRQWlXcHR5eU9hbnluNE5TbEFvYVYtbXVGUzNaZ3RFTFZpYTNXOVNXbkwyYzlpY2g0UDJvRjRLS2Ezc3R1cWlyU1lvNnRCRFEteFowVEM5TzRweHVMTE9jMzVWdkJUVHRWeUhKdnJ2YXNPRG0wSVVaN2pEcjktc18xczV6T2tPc3JydC1YV1FlWjVQMkN1eENGX3RDSXFCMUw2UjRpbWRHTmRGV21LUDZrWWJIbXM5ZEdCbXVnU3EySXdEQdIB9wFBVV95cUxObWNHWUpvdTZXdmc0X1cxYXEzMzF0RjNHZ1gwV1ZOamhfVzkySG51eTduOVpiSEc0dS03REduSmJjT3VoR0xtTTJhUjVxWmRqbmU5RWhKdzdCOEFJenRMeDN2allZaFBCZmt2N1BBbmg5WExETWU0aFpzbGlScExnVTJFVDRfRlhpdFRZQXRzWm5nVjFuLWpwNW8xbTEyVDdJNGhnSVJCOTJxNUUyeklXMlk2Zmt0QUZKMXFmM2w4Z0FuX2xxMG4teTBfYW9iUzV6V21RRzd1Q0tSUGZybEs3dHBkU01GSTAtM3huXzBsVVF6RGZHMkIw"
     },
     {
       "title": "Weekly market commentary - blackrock.com",
@@ -63,28 +79,12 @@
       "guid": "CBMiswFBVV95cUxOa2V2OFo4WjFPclRZRGtjZXJvb3dsaDVUM3FjRnVCTkxfX184eHRyQjJ2NFlDc09TUlZrUDZGUzQzTjgyV1drNG9PSnc2Y0RELWZ5LVktLTlFcGFFa2s0Qm04RzRoYjNRSE9aSGw3aDljNFEyUEZJS1RNa203WlBLdmxxS2lWNmNXT0pRZGdDcGdqdEZ1YmMxN2lhci1RdVRMTEJtWE5wM3RJSFhGMXJjMjdqZw"
     },
     {
-      "title": "The Stock Market May Be in Trouble: President Trump Put Fed Chair Kevin Warsh in a Tough Spot - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORWFId3l2VmdicjNrTGpJZ25yN1N5bGhHY3B1bm1sWmxuNzFKLVdxTHNmR1VwenQ1aGw0WS1RU18xa3doaVRyZ3g0eklMS2FISE9uYzItZk9GbkNrOVVvZVZPMEt5djdMVGc0VXo2WWF5WTloRm9iWEQtU0s4TVZ4MmNXcjNzd3BpeDY4RmhBWHBRQ0NxQUtYTjlRN3pHajVQ?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Fri, 29 May 2026 09:08:00 GMT",
-      "summary": "The Stock Market May Be in Trouble: President Trump Put Fed Chair Kevin Warsh in a Tough Spot Yahoo Finance",
-      "guid": "CBMioAFBVV95cUxORWFId3l2VmdicjNrTGpJZ25yN1N5bGhHY3B1bm1sWmxuNzFKLVdxTHNmR1VwenQ1aGw0WS1RU18xa3doaVRyZ3g0eklMS2FISE9uYzItZk9GbkNrOVVvZVZPMEt5djdMVGc0VXo2WWF5WTloRm9iWEQtU0s4TVZ4MmNXcjNzd3BpeDY4RmhBWHBRQ0NxQUtYTjlRN3pHajVQ"
-    },
-    {
-      "title": "Opinion: The Stock Market May Have Dodged a Bullet With Jerome Powell Staying at the Fed - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdm43OTN4QXV2THMzZVJuRWVra2hmUkU5NnpQRG5HWUNnQldYX1hwNHNuYmlVQV9hWklrVzFGSVJhUTVVVkc0VVVqeU83R1ExcXVKcHhXd0hMN0pGYlBxUnpfbGN0U3haTXVxa0hyd1FabDkyeXQ5bFEzc0dyNjlPVlFfNW9pdm5LZ3Y5cnRHMW1pNUFGTm5r?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Fri, 29 May 2026 09:44:00 GMT",
-      "summary": "Opinion: The Stock Market May Have Dodged a Bullet With Jerome Powell Staying at the Fed The Motley Fool",
-      "guid": "CBMilwFBVV95cUxOdm43OTN4QXV2THMzZVJuRWVra2hmUkU5NnpQRG5HWUNnQldYX1hwNHNuYmlVQV9hWklrVzFGSVJhUTVVVkc0VVVqeU83R1ExcXVKcHhXd0hMN0pGYlBxUnpfbGN0U3haTXVxa0hyd1FabDkyeXQ5bFEzc0dyNjlPVlFfNW9pdm5LZ3Y5cnRHMW1pNUFGTm5r"
-    },
-    {
-      "title": "Federal Reserve keeps interest rates steady as inflation uncertainty rises - U.S. Bank",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw?oc=5",
-      "source": "U.S. Bank",
-      "published_at": "Wed, 29 Apr 2026 07:00:00 GMT",
-      "summary": "Federal Reserve keeps interest rates steady as inflation uncertainty rises U.S. Bank",
-      "guid": "CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw"
+      "title": "Understanding the Gold Standard: History, Collapse, and Impact on the U.S. Dollar - Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBmMFVrNXhWX2ZIbGg0SFJsS28wQWJKOU9oQ3YtajNDZE1JQnRjSEZCSERUamNKWEQyRm81WFl0aDV3TXdSbnM0U1JfeVBrWDNwcXA0WlBFd21EUXJNb3lieTFzN0ZIY1FqVTE3NE9B?oc=5",
+      "source": "Investopedia",
+      "published_at": "Fri, 29 May 2026 07:00:00 GMT",
+      "summary": "Understanding the Gold Standard: History, Collapse, and Impact on the U.S. Dollar Investopedia",
+      "guid": "CBMibkFVX3lxTFBmMFVrNXhWX2ZIbGg0SFJsS28wQWJKOU9oQ3YtajNDZE1JQnRjSEZCSERUamNKWEQyRm81WFl0aDV3TXdSbnM0U1JfeVBrWDNwcXA0WlBFd21EUXJNb3lieTFzN0ZIY1FqVTE3NE9B"
     }
   ]
 }
