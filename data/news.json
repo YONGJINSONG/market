@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T06:53:51Z",
+  "generated_at": "2026-06-02T11:10:20Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,20 +7,20 @@
   },
   "items": [
     {
+      "title": "The Stock Market Will Drop Sharply If History Repeats. Warren Buffett Explains Why. - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxObjBycnZsQWNteDRIX05VMFZsUk9KTzkyNUdfd0RWVDFKWU5MbGxXUUFrTE5XSGMyU0kyX1RWendiMmlJRmVxQ1FwdVh4VXZnUHZISVpGb2lLX2NzV2hYZnU4RkM3SVYyc1QzTmJZQmdWTGk0R2h1NFlLakFKZlRzS2hTblJVb0w4N2VYSHdFeW5SOWlUZVRNSldYRkFBVzJHR2o5N1htd3lFQWZidktyRVpkRlk5anJnZnVVb243a3FxMmlsQVV4bXI3RFN5SWE2TmZDSl9BeDNUN1VST0ZwRzhpSWktTzlSZWZubWUwRmYySmhTWHNsblln?oc=5",
+      "source": "The Globe and Mail",
+      "published_at": "Tue, 02 Jun 2026 09:02:56 GMT",
+      "summary": "The Stock Market Will Drop Sharply If History Repeats. Warren Buffett Explains Why. The Globe and Mail",
+      "guid": "CBMi-gFBVV95cUxObjBycnZsQWNteDRIX05VMFZsUk9KTzkyNUdfd0RWVDFKWU5MbGxXUUFrTE5XSGMyU0kyX1RWendiMmlJRmVxQ1FwdVh4VXZnUHZISVpGb2lLX2NzV2hYZnU4RkM3SVYyc1QzTmJZQmdWTGk0R2h1NFlLakFKZlRzS2hTblJVb0w4N2VYSHdFeW5SOWlUZVRNSldYRkFBVzJHR2o5N1htd3lFQWZidktyRVpkRlk5anJnZnVVb243a3FxMmlsQVV4bXI3RFN5SWE2TmZDSl9BeDNUN1VST0ZwRzhpSWktTzlSZWZubWUwRmYySmhTWHNsblln"
+    },
+    {
       "title": "Buckle Up! The Federal Reserve's May Inflation Forecast Points to Fireworks on Wall Street. - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOTdIMkF4c3pIVC14X1NuVE13aDl0cXg3RmJvMWxHY1h6ZFlzQ3k2ejNNLUVMbm5Kc0VEbU1WbW9iQVFONm1XbUxpTlV5WlZTU0ZTc2RiUnlSZmZMWEhvcDFRNFBuMk5ZeXJaOGRCNnI1STg5a2pvWHA1eE9jWEwyX0dIdlR4UllZR1JvamNtUlJsSXh1OXg1YW5tQWpTbFBWaktwQg?oc=5",
       "source": "Yahoo Finance",
       "published_at": "Mon, 01 Jun 2026 08:26:00 GMT",
       "summary": "Buckle Up! The Federal Reserve's May Inflation Forecast Points to Fireworks on Wall Street. Yahoo Finance",
       "guid": "CBMipAFBVV95cUxOOTdIMkF4c3pIVC14X1NuVE13aDl0cXg3RmJvMWxHY1h6ZFlzQ3k2ejNNLUVMbm5Kc0VEbU1WbW9iQVFONm1XbUxpTlV5WlZTU0ZTc2RiUnlSZmZMWEhvcDFRNFBuMk5ZeXJaOGRCNnI1STg5a2pvWHA1eE9jWEwyX0dIdlR4UllZR1JvamNtUlJsSXh1OXg1YW5tQWpTbFBWaktwQg"
-    },
-    {
-      "title": "Tracker: The Federal Reserve’s Balance Sheet Assets - The American Action Forum",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0?oc=5",
-      "source": "The American Action Forum",
-      "published_at": "Fri, 29 May 2026 07:00:00 GMT",
-      "summary": "Tracker: The Federal Reserve’s Balance Sheet Assets The American Action Forum",
-      "guid": "CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0"
     },
     {
       "title": "Inflation Is Soaring, and the Federal Reserve Could Do Something It Hasn't Done Since 2023. Here's What It Means for Stocks. - The Motley Fool",
@@ -39,14 +39,6 @@
       "guid": "CBMijgFBVV95cUxPRjhPcGNXQmF2cGgtc0dQS2w3eExxMlZoR3lCWHU1am1vZjIxM21RaWswazQtVGhZZjYwM096Sk1YRFBsOHFxbGo5NjZkMzNDdU94bDVUX05PbE5uVlU3VjFTVTlJdnliTXBadWhDQXRaOVZmODRlSXIwQnJSaDBYcGlkTFp4X3VzdTI3SDZn"
     },
     {
-      "title": "Understanding the Gold Standard: History, Collapse, and Impact on the U.S. Dollar - Investopedia",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBmMFVrNXhWX2ZIbGg0SFJsS28wQWJKOU9oQ3YtajNDZE1JQnRjSEZCSERUamNKWEQyRm81WFl0aDV3TXdSbnM0U1JfeVBrWDNwcXA0WlBFd21EUXJNb3lieTFzN0ZIY1FqVTE3NE9B?oc=5",
-      "source": "Investopedia",
-      "published_at": "Fri, 29 May 2026 07:00:00 GMT",
-      "summary": "Understanding the Gold Standard: History, Collapse, and Impact on the U.S. Dollar Investopedia",
-      "guid": "CBMibkFVX3lxTFBmMFVrNXhWX2ZIbGg0SFJsS28wQWJKOU9oQ3YtajNDZE1JQnRjSEZCSERUamNKWEQyRm81WFl0aDV3TXdSbnM0U1JfeVBrWDNwcXA0WlBFd21EUXJNb3lieTFzN0ZIY1FqVTE3NE9B"
-    },
-    {
       "title": "18 Words From Fed Chair Kevin Warsh That Could Keep Interest Rates Higher for Years - 24/7 Wall St.",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcDBNSUNSTzVqZ0JHdV8tVW5TNThVYmVHbzU1WG5USVZsRDJlRDh4N0tFdzQxQmFOUWpJZ0ljX3ljNHREWlVQU251d3o4cnlLOE9laWRvbnBoaEF6aUtCZVpxd2F1c25maXM0dDVZYXpvTk1USW1yVm85YnM1M2hFODdvbkFpVXRhcWxlMXpTcXF2Qnh1Z1NOQklId3VRX2hkalZVdUd0cDd3S0xibC14d2dtNk5kM1VoQ1NOLXROamljVUEycWc?oc=5",
       "source": "24/7 Wall St.",
@@ -63,28 +55,36 @@
       "guid": "CBMiogFBVV95cUxOc2VMN1J0Q3RnVDJHWEM3SW1VNW9fUjAxVUFLVXYtM0VOOUt4WHhoajVKWHBKZ1FXb1VFaUkzWFBzYU1GVlRIbzFTS1czRWdPR2JXY3dmSGtEQ2tXNjVaYjJvdDBXX1R2UWN5M29Ya3Q0c1dkR1pPb2x2UTRpR0IxNEdBdmxEZEYtMDM2WTdEUTg3dFlhaF9sdTU2NFMwQ3lScnc"
     },
     {
-      "title": "Stock Market Today: Dow Jones, S&P 500 Futures Rise As US Undertakes 'Self-Defense' Strikes Against Iran - Benzinga",
+      "title": "Stock Market Today: S&P 500, Dow, Nasdaq Futures Rise As US Undertakes 'Self-Defense' Strikes Against Ira - Benzinga",
       "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOMmFFYU1GTWl3VWFVYWFEZWtUVlBVVU5nSEJOeXVmaS1FcXhhRHIzdkk1eW13d0w3V3k3WGtFZW1IUkUyczdLVGdRRm05VHhKbFROdEl6YVVuNHg1dERlWVVJQUxDTlFFQW9SLTNGZGV6bURnbTZPUGlPRlNmcU9zUEdyVUY3WGNqcU1rZ2J3MUFHZzFOUmc2WVdXdnJqSkxwb2NZNFpwOVIzYXlULVlWWjB1WFFSNm5QWksxaF8yWjRkVXpQOHNCbUJiSERINVh6ajF5RTJvVFIxTFcwbDZObk1Bb2x2WTFjM3Zyd04xeVBBSG0yU2lNUFpCQXB0R2NIcUJ2UUd5ems4djZfT19Mb3FrR0gydjA4SkFiaElB?oc=5",
       "source": "Benzinga",
-      "published_at": "Mon, 01 Jun 2026 10:00:40 GMT",
-      "summary": "Stock Market Today: Dow Jones, S&P 500 Futures Rise As US Undertakes 'Self-Defense' Strikes Against Iran Benzinga",
+      "published_at": "Mon, 01 Jun 2026 12:52:00 GMT",
+      "summary": "Stock Market Today: S&P 500, Dow, Nasdaq Futures Rise As US Undertakes 'Self-Defense' Strikes Against Ira Benzinga",
       "guid": "CBMingJBVV95cUxOMmFFYU1GTWl3VWFVYWFEZWtUVlBVVU5nSEJOeXVmaS1FcXhhRHIzdkk1eW13d0w3V3k3WGtFZW1IUkUyczdLVGdRRm05VHhKbFROdEl6YVVuNHg1dERlWVVJQUxDTlFFQW9SLTNGZGV6bURnbTZPUGlPRlNmcU9zUEdyVUY3WGNqcU1rZ2J3MUFHZzFOUmc2WVdXdnJqSkxwb2NZNFpwOVIzYXlULVlWWjB1WFFSNm5QWksxaF8yWjRkVXpQOHNCbUJiSERINVh6ajF5RTJvVFIxTFcwbDZObk1Bb2x2WTFjM3Zyd04xeVBBSG0yU2lNUFpCQXB0R2NIcUJ2UUd5ems4djZfT19Mb3FrR0gydjA4SkFiaElB"
     },
     {
-      "title": "Will the Federal Reserve Crash the Stock Market? 3 Reasons to Watch Trump's Nominee, Kevin Warsh, on May 15 - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONGxNVVF0ZTdOOGNaQlhJQTM0WGRRQ0hLaHRVTHl3eXI4ZFRSeDRNUkV1ZHFXNTVoQ1EtY3ZtS2pUTXFHMEVEZ3o3THVhR3I3dGdhRnhrVVgyR1QxX0Y3SFh5c2x4YWRWYlQ3VHgtSDRqWWFwcmJkMWUzRUdFRjVKY015VnFreWhnOWVPbWtHRG8yZktCQ1hj?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Tue, 12 May 2026 07:00:00 GMT",
-      "summary": "Will the Federal Reserve Crash the Stock Market? 3 Reasons to Watch Trump's Nominee, Kevin Warsh, on May 15 The Motley Fool",
-      "guid": "CBMilwFBVV95cUxONGxNVVF0ZTdOOGNaQlhJQTM0WGRRQ0hLaHRVTHl3eXI4ZFRSeDRNUkV1ZHFXNTVoQ1EtY3ZtS2pUTXFHMEVEZ3o3THVhR3I3dGdhRnhrVVgyR1QxX0Y3SFh5c2x4YWRWYlQ3VHgtSDRqWWFwcmJkMWUzRUdFRjVKY015VnFreWhnOWVPbWtHRG8yZktCQ1hj"
+      "title": "Iran Says the Strait of Hormuz Will Stay Closed. What Happens to the US Economy Next? - Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOY0o0VVdsbDk5MHc5QTBfWE41WDRJaXVQREF3ejhTenFJaFNRdEdhWFItSlM0Y1BFV05sbTBacGFfOHJQcHUtcFdzWUhKNml0LUs5SlhBOFUyS2UybU1zZGN5YmFxUml6OTBMREtqcEE2U05SUE5LVkZwdXZtTUxXZW10WmVhRDlESmdxY25Qa1B5QTA?oc=5",
+      "source": "Investopedia",
+      "published_at": "Mon, 01 Jun 2026 15:32:11 GMT",
+      "summary": "Iran Says the Strait of Hormuz Will Stay Closed. What Happens to the US Economy Next? Investopedia",
+      "guid": "CBMikwFBVV95cUxOY0o0VVdsbDk5MHc5QTBfWE41WDRJaXVQREF3ejhTenFJaFNRdEdhWFItSlM0Y1BFV05sbTBacGFfOHJQcHUtcFdzWUhKNml0LUs5SlhBOFUyS2UybU1zZGN5YmFxUml6OTBMREtqcEE2U05SUE5LVkZwdXZtTUxXZW10WmVhRDlESmdxY25Qa1B5QTA"
     },
     {
-      "title": "Oof! The Federal Reserve's May Inflation Forecast Is In, and Things Just Got Uglier for Wall Street. - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYWtUVjEzZm92N09pamVFLVJBZmpiLUNqYWc1bVpOZkJLSGdNNFZfemtHenJraERIbzVhV3hKNEdVZW9nTmFiNl9taEtaU290R1FrX3NtNE5zWnBzLWJYTHlqTldWZFZNS0RoM2N6MGtDYkVzdmhKWl9ZbXliZ1phYWhocmJSelFLejdDUnVXVGN5QjhKWGstRm85T2JKZE9I?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Sat, 09 May 2026 07:00:00 GMT",
-      "summary": "Oof! The Federal Reserve's May Inflation Forecast Is In, and Things Just Got Uglier for Wall Street. Yahoo Finance",
-      "guid": "CBMioAFBVV95cUxPYWtUVjEzZm92N09pamVFLVJBZmpiLUNqYWc1bVpOZkJLSGdNNFZfemtHenJraERIbzVhV3hKNEdVZW9nTmFiNl9taEtaU290R1FrX3NtNE5zWnBzLWJYTHlqTldWZFZNS0RoM2N6MGtDYkVzdmhKWl9ZbXliZ1phYWhocmJSelFLejdDUnVXVGN5QjhKWGstRm85T2JKZE9I"
+      "title": "Federal Reserve Monetary Policy - U.S. Bank",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa2V2OFo4WjFPclRZRGtjZXJvb3dsaDVUM3FjRnVCTkxfX184eHRyQjJ2NFlDc09TUlZrUDZGUzQzTjgyV1drNG9PSnc2Y0RELWZ5LVktLTlFcGFFa2s0Qm04RzRoYjNRSE9aSGw3aDljNFEyUEZJS1RNa203WlBLdmxxS2lWNmNXT0pRZGdDcGdqdEZ1YmMxN2lhci1RdVRMTEJtWE5wM3RJSFhGMXJjMjdqZw?oc=5",
+      "source": "U.S. Bank",
+      "published_at": "Fri, 01 May 2026 07:00:00 GMT",
+      "summary": "Federal Reserve Monetary Policy U.S. Bank",
+      "guid": "CBMiswFBVV95cUxOa2V2OFo4WjFPclRZRGtjZXJvb3dsaDVUM3FjRnVCTkxfX184eHRyQjJ2NFlDc09TUlZrUDZGUzQzTjgyV1drNG9PSnc2Y0RELWZ5LVktLTlFcGFFa2s0Qm04RzRoYjNRSE9aSGw3aDljNFEyUEZJS1RNa203WlBLdmxxS2lWNmNXT0pRZGdDcGdqdEZ1YmMxN2lhci1RdVRMTEJtWE5wM3RJSFhGMXJjMjdqZw"
+    },
+    {
+      "title": "A Stock Market Indicator Flashes a Warning Last Seen in 2007. Warren Buffett Explains Why It Matters. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTVRtQ2dNd3FlV3pWZHlKUjFlZDM3S2hGcTMzZkt0MG1qN3BtbzVhNk1nZzRxR0hXQWhWR1M0U2NUNFg5NEdGMW9WdDg2THRJcElCMmlScnNib2o5X0Q5Vk5IWFFNY2pQcXZkNmdFcVkwb2RKdHI1aFBHQWF2YVFEeTYwU0dxd3k1YU4xZDBHQ1hQa1kzN3Q1Qw?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Sat, 30 May 2026 09:48:00 GMT",
+      "summary": "A Stock Market Indicator Flashes a Warning Last Seen in 2007. Warren Buffett Explains Why It Matters. The Motley Fool",
+      "guid": "CBMimAFBVV95cUxQTVRtQ2dNd3FlV3pWZHlKUjFlZDM3S2hGcTMzZkt0MG1qN3BtbzVhNk1nZzRxR0hXQWhWR1M0U2NUNFg5NEdGMW9WdDg2THRJcElCMmlScnNib2o5X0Q5Vk5IWFFNY2pQcXZkNmdFcVkwb2RKdHI1aFBHQWF2YVFEeTYwU0dxd3k1YU4xZDBHQ1hQa1kzN3Q1Qw"
     }
   ]
 }
