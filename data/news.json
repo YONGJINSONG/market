@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T18:28:52Z",
+  "generated_at": "2026-06-05T20:23:56Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,19 +7,11 @@
   },
   "items": [
     {
-      "title": "Stocks drive record share of American wealth - Axios",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tREZqZEtISDliRTZVeFV4MkhkbW9ueER2Z25YRDRuNXBDaGVGLTlKMC1JUUVfWXFYT2h3YWtwemRuVU9NLVg0Qi03bEdoQlBfcVBmckN6anZtZVVTakstVlVZWWU0bm5YSmUwaQ?oc=5",
-      "source": "Axios",
-      "published_at": "Fri, 05 Jun 2026 02:22:20 GMT",
-      "summary": "Stocks drive record share of American wealth Axios",
-      "guid": "CBMibEFVX3lxTE4tREZqZEtISDliRTZVeFV4MkhkbW9ueER2Z25YRDRuNXBDaGVGLTlKMC1JUUVfWXFYT2h3YWtwemRuVU9NLVg0Qi03bEdoQlBfcVBmckN6anZtZVVTakstVlVZWWU0bm5YSmUwaQ"
-    },
-    {
-      "title": "Stocks sink as interest rate hike worries rattle tech amid nonstop AI spending - NBC News",
+      "title": "Stocks sink as worries about an interest rate hike rattle tech investors - NBC News",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBWSkFNXzRXTVY3dlhsQzJ6WFB6ZWFIVmcxZHdrR0dNOUpnd1FFZVlDSnJxUmZNZlBoQWVtdWI4NHpzdDJOZVhhcUtvXzZubmJvV1djRVhUMHhLaERvYkxaSnlKZ0c2RTNsQlBGR09LcGh1VzdsVUlr?oc=5",
       "source": "NBC News",
-      "published_at": "Fri, 05 Jun 2026 17:06:47 GMT",
-      "summary": "Stocks sink as interest rate hike worries rattle tech amid nonstop AI spending NBC News",
+      "published_at": "Fri, 05 Jun 2026 20:08:31 GMT",
+      "summary": "Stocks sink as worries about an interest rate hike rattle tech investors NBC News",
       "guid": "CBMid0FVX3lxTFBWSkFNXzRXTVY3dlhsQzJ6WFB6ZWFIVmcxZHdrR0dNOUpnd1FFZVlDSnJxUmZNZlBoQWVtdWI4NHpzdDJOZVhhcUtvXzZubmJvV1djRVhUMHhLaERvYkxaSnlKZ0c2RTNsQlBGR09LcGh1VzdsVUlr"
     },
     {
@@ -31,6 +23,22 @@
       "guid": "CBMimAFBVV95cUxPUXRYajZuYmxteWI1ck52UVc1YkROY1dWNmZPak5FdUltVm5KU3IyY2ZjWmpHSHdiVXEwR3FObXF2S3FPZnZfRDF6TVo1UGh0dXljV2V6a0E2N1RmdnJzR0N5UHlvekpQcjlKTm9BRVFZbjJiQWJ6dW0wRjlmMVM3c3RFTnI4N1VFUUdKdWpCWjRsVmY5VXZXTg"
     },
     {
+      "title": "Stocks drive record share of American wealth - Axios",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tREZqZEtISDliRTZVeFV4MkhkbW9ueER2Z25YRDRuNXBDaGVGLTlKMC1JUUVfWXFYT2h3YWtwemRuVU9NLVg0Qi03bEdoQlBfcVBmckN6anZtZVVTakstVlVZWWU0bm5YSmUwaQ?oc=5",
+      "source": "Axios",
+      "published_at": "Thu, 04 Jun 2026 09:30:43 GMT",
+      "summary": "Stocks drive record share of American wealth Axios",
+      "guid": "CBMibEFVX3lxTE4tREZqZEtISDliRTZVeFV4MkhkbW9ueER2Z25YRDRuNXBDaGVGLTlKMC1JUUVfWXFYT2h3YWtwemRuVU9NLVg0Qi03bEdoQlBfcVBmckN6anZtZVVTakstVlVZWWU0bm5YSmUwaQ"
+    },
+    {
+      "title": "Why are stocks down today? Some key stats - Bergen Record",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbU5WbFNuVko5Q2FnMHpFc2JVNG5NbHVRUUY0RmdGVTVkMlRsX2FHSmlfcEJod2hrcEQ4bmticmFkVGZQd0VVaVRkR2RnMzE3QXpkRnJodUd6RFlRTEc2VU9DYmhBQ1pIUnlOTWxZSzVxaWhHMTRYWXV4Q2dDekNWTVdLWDFpQmdEZjJuTy1RMWF0ZGRSb3U5SU82TDFMX3ZGRl9laE53clRnU3J1aTB0SUVfb0w?oc=5",
+      "source": "Bergen Record",
+      "published_at": "Fri, 05 Jun 2026 18:53:00 GMT",
+      "summary": "Why are stocks down today? Some key stats Bergen Record",
+      "guid": "CBMitAFBVV95cUxPbU5WbFNuVko5Q2FnMHpFc2JVNG5NbHVRUUY0RmdGVTVkMlRsX2FHSmlfcEJod2hrcEQ4bmticmFkVGZQd0VVaVRkR2RnMzE3QXpkRnJodUd6RFlRTEc2VU9DYmhBQ1pIUnlOTWxZSzVxaWhHMTRYWXV4Q2dDekNWTVdLWDFpQmdEZjJuTy1RMWF0ZGRSb3U5SU82TDFMX3ZGRl9laE53clRnU3J1aTB0SUVfb0w"
+    },
+    {
       "title": "Stock Market Today: S&P 500, Nasdaq Fall as Strong Jobs Data Fuels Rate Hike Fears - CryptoRank",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTnZ5eXBYTERYaWNDQkVFRGhuY3FMazNYZnFnSjRONEdRQTNDelN3RkUwMk1NbHlnXzh6c1dObHpXNlROcnc5cHhRTUpDMHUwWUxSRGQxanYyUU5JOXYyTFhEeUxFSEttZktxZ3RGY3RpSzF1eU5PYWNUU0JRd3NULVdETGJpOEFaU19jVHlkclVNQlJIUVVRUk9IdFlQSUJWTF9uakZoeGpyNUNPaEg3bVQtei1xSFdPNVlmdFhGYw?oc=5",
       "source": "CryptoRank",
@@ -39,11 +47,11 @@
       "guid": "CBMivwFBVV95cUxOTnZ5eXBYTERYaWNDQkVFRGhuY3FMazNYZnFnSjRONEdRQTNDelN3RkUwMk1NbHlnXzh6c1dObHpXNlROcnc5cHhRTUpDMHUwWUxSRGQxanYyUU5JOXYyTFhEeUxFSEttZktxZ3RGY3RpSzF1eU5PYWNUU0JRd3NULVdETGJpOEFaU19jVHlkclVNQlJIUVVRUk9IdFlQSUJWTF9uakZoeGpyNUNPaEg3bVQtei1xSFdPNVlmdFhGYw"
     },
     {
-      "title": "Stocks slump as Big Tech sinks and a strong May jobs report boosts odds for higher interest rates - BNN Bloomberg",
+      "title": "U.S. stocks slump as Big Tech sinks and a strong May jobs report boosts odds for higher interest rates - BNN Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObmlKSjVxR0UtN0U3QW53Z3NxUUVBMzFNZ0tzVjUtSVdMTWRSRG1WVDU1VkxMWEc3cFQtMTlOOTVUVnJqeG9YY3JpczgyZk9tUzJHUW9OYTF4blZzbHF1eFMxMWl1UV82dTFWcllZencySlJzMHpzSWRoTF8wTS1XM3M0eExCeWdtMEt4N3F0Q1FNZWM?oc=5",
       "source": "BNN Bloomberg",
-      "published_at": "Fri, 05 Jun 2026 17:19:48 GMT",
-      "summary": "Stocks slump as Big Tech sinks and a strong May jobs report boosts odds for higher interest rates BNN Bloomberg",
+      "published_at": "Fri, 05 Jun 2026 20:11:20 GMT",
+      "summary": "U.S. stocks slump as Big Tech sinks and a strong May jobs report boosts odds for higher interest rates BNN Bloomberg",
       "guid": "CBMikwFBVV95cUxObmlKSjVxR0UtN0U3QW53Z3NxUUVBMzFNZ0tzVjUtSVdMTWRSRG1WVDU1VkxMWEc3cFQtMTlOOTVUVnJqeG9YY3JpczgyZk9tUzJHUW9OYTF4blZzbHF1eFMxMWl1UV82dTFWcllZencySlJzMHpzSWRoTF8wTS1XM3M0eExCeWdtMEt4N3F0Q1FNZWM"
     },
     {
@@ -55,20 +63,12 @@
       "guid": "CBMikgFBVV95cUxPM3lScVlLSzZldVhlX2NRM3ViUlhDU2NRNGs0c2Q0ZEFaQXhmeWVQbU1ZWF9lVFBEMjFyY2JieHhBS18wYkM1alkyUVBMSEVSLUlZTmsyZ1RMV1Q4WUUzQUk5MTU1OHhFQ3A4TGE4QnUxT2R2aEZUQUlidnpJUktwSXpvM3RVUktGRHFESi1lMVZvUQ"
     },
     {
-      "title": "The Stock Market Has Been Here Precisely Once Before. Buckle Up as Kevin Warsh Tries to Land the Plane - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPODVtOEhaU29yR0d2c2l0RGJQUnBSTnBaVk9YUC11MWdiUTJvTVlXOG16RnhwR3pacDBGQWpSZXBMZlpJbEpXQVZFUTZ5U2ZuR3FzSjNEa2M3VEp4LUthSk1xUlI4UjJFWFhEbzNtUm4wRjdTUTNfTi1HWWpDc201M2J4ZzZFUVFXRlROR0tOVXdFUmg1czdsd2xEdkpfWFVxV05UMDVYckRuZjVXTkJ3MEl0d1ZuQmhkNGppdlpJWGtzNF92RUhhSWxBM3JHSkF5TEdZZWIxSTV0UUdqSmc?oc=5",
+      "title": "Kevin Warsh Just Pulled Off a Stock Market First — But History Says a Bigger Test Is Coming - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaEowbFRXcDJlVExxUGcyNlJ0eWQtX3Jqa3poSF90ZnRUSlpBczQzZXE0ZmE2Q2QzVXpmNzhqS0VydGVDTWNQR3dTNFFiVkNfR3BMZlZKQjMxMVVsMHF3ZDZaV0F3RlQ2QWlQUHlNaGdxUmpxbTJla3NQV2JZRV9lOXF5S3ZqdlRqLU1MWHFkZ1pyQ240V1o5TE04bGI2d0hiMlBFQUxCeDhqTlVaTkZaby1OaDhoU0hac3Baempsa0hxaGVJV1JzT2VrZnMzQQ?oc=5",
       "source": "24/7 Wall St.",
-      "published_at": "Thu, 04 Jun 2026 17:07:29 GMT",
-      "summary": "The Stock Market Has Been Here Precisely Once Before. Buckle Up as Kevin Warsh Tries to Land the Plane 24/7 Wall St.",
-      "guid": "CBMi3gFBVV95cUxPODVtOEhaU29yR0d2c2l0RGJQUnBSTnBaVk9YUC11MWdiUTJvTVlXOG16RnhwR3pacDBGQWpSZXBMZlpJbEpXQVZFUTZ5U2ZuR3FzSjNEa2M3VEp4LUthSk1xUlI4UjJFWFhEbzNtUm4wRjdTUTNfTi1HWWpDc201M2J4ZzZFUVFXRlROR0tOVXdFUmg1czdsd2xEdkpfWFVxV05UMDVYckRuZjVXTkJ3MEl0d1ZuQmhkNGppdlpJWGtzNF92RUhhSWxBM3JHSkF5TEdZZWIxSTV0UUdqSmc"
-    },
-    {
-      "title": "Inflation Is Soaring, and the Federal Reserve Could Do Something It Hasn't Done Since 2023. Here's What It Means for Stocks. - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRjhPcGNXQmF2cGgtc0dQS2w3eExxMlZoR3lCWHU1am1vZjIxM21RaWswazQtVGhZZjYwM096Sk1YRFBsOHFxbGo5NjZkMzNDdU94bDVUX05PbE5uVlU3VjFTVTlJdnliTXBadWhDQXRaOVZmODRlSXIwQnJSaDBYcGlkTFp4X3VzdTI3SDZn?oc=5",
-      "source": "AOL.com",
-      "published_at": "Fri, 05 Jun 2026 01:10:36 GMT",
-      "summary": "Inflation Is Soaring, and the Federal Reserve Could Do Something It Hasn't Done Since 2023. Here's What It Means for Stocks. AOL.com",
-      "guid": "CBMijgFBVV95cUxPRjhPcGNXQmF2cGgtc0dQS2w3eExxMlZoR3lCWHU1am1vZjIxM21RaWswazQtVGhZZjYwM096Sk1YRFBsOHFxbGo5NjZkMzNDdU94bDVUX05PbE5uVlU3VjFTVTlJdnliTXBadWhDQXRaOVZmODRlSXIwQnJSaDBYcGlkTFp4X3VzdTI3SDZn"
+      "published_at": "Thu, 04 Jun 2026 14:20:58 GMT",
+      "summary": "Kevin Warsh Just Pulled Off a Stock Market First — But History Says a Bigger Test Is Coming 24/7 Wall St.",
+      "guid": "CBMizgFBVV95cUxPaEowbFRXcDJlVExxUGcyNlJ0eWQtX3Jqa3poSF90ZnRUSlpBczQzZXE0ZmE2Q2QzVXpmNzhqS0VydGVDTWNQR3dTNFFiVkNfR3BMZlZKQjMxMVVsMHF3ZDZaV0F3RlQ2QWlQUHlNaGdxUmpxbTJla3NQV2JZRV9lOXF5S3ZqdlRqLU1MWHFkZ1pyQ240V1o5TE04bGI2d0hiMlBFQUxCeDhqTlVaTkZaby1OaDhoU0hac3Baempsa0hxaGVJV1JzT2VrZnMzQQ"
     },
     {
       "title": "Stock market falls as chip stocks slide; Treasury yields jump - eciks.org",
@@ -79,12 +79,12 @@
       "guid": "CBMieEFVX3lxTFB3MEM4Vy1DUmE4Uk9fb1c0YnNnWnhGSEFZeUV1THk3cnNWejliODQ0SEhBS2RxQmtGcDlZYWZQRlVtRFZQNU43UXcwNjZhMS1wVGh2TnBhZ1A1cmhwazhhVUZGaXBHbWR2V1lMRjNyckdaTmJEVGVDUA"
     },
     {
-      "title": "Navigating the Federal Reserve’s Rate Cuts: What Investors Need to Know - Nasdaq",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQTk1OGpVZl9PNDBuNjlEVjFpaml5WmQ4NUdGU1N6TUFNWTVDVWI1bDM2UU8zVlpmNHROX2tqZElwSHRlUXUwV3g5RXdZN29sQlZ4eDc2b1hZb1d3cXhNYlJkb2NySXpReUpfZDg4ak8xWHNZaFZVZTYyYk5mQnVwcEhJM2J3ZGNHalRyQXZ6U2NOUWpObFg4ZS15dnc3SzVBeUtv?oc=5",
-      "source": "Nasdaq",
-      "published_at": "Tue, 02 Jun 2026 00:39:13 GMT",
-      "summary": "Navigating the Federal Reserve’s Rate Cuts: What Investors Need to Know Nasdaq",
-      "guid": "CBMiowFBVV95cUxQQTk1OGpVZl9PNDBuNjlEVjFpaml5WmQ4NUdGU1N6TUFNWTVDVWI1bDM2UU8zVlpmNHROX2tqZElwSHRlUXUwV3g5RXdZN29sQlZ4eDc2b1hZb1d3cXhNYlJkb2NySXpReUpfZDg4ak8xWHNZaFZVZTYyYk5mQnVwcEhJM2J3ZGNHalRyQXZ6U2NOUWpObFg4ZS15dnc3SzVBeUtv"
+      "title": "Federal Reserve Monetary Policy - U.S. Bank",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa2V2OFo4WjFPclRZRGtjZXJvb3dsaDVUM3FjRnVCTkxfX184eHRyQjJ2NFlDc09TUlZrUDZGUzQzTjgyV1drNG9PSnc2Y0RELWZ5LVktLTlFcGFFa2s0Qm04RzRoYjNRSE9aSGw3aDljNFEyUEZJS1RNa203WlBLdmxxS2lWNmNXT0pRZGdDcGdqdEZ1YmMxN2lhci1RdVRMTEJtWE5wM3RJSFhGMXJjMjdqZw?oc=5",
+      "source": "U.S. Bank",
+      "published_at": "Fri, 01 May 2026 07:00:00 GMT",
+      "summary": "Federal Reserve Monetary Policy U.S. Bank",
+      "guid": "CBMiswFBVV95cUxOa2V2OFo4WjFPclRZRGtjZXJvb3dsaDVUM3FjRnVCTkxfX184eHRyQjJ2NFlDc09TUlZrUDZGUzQzTjgyV1drNG9PSnc2Y0RELWZ5LVktLTlFcGFFa2s0Qm04RzRoYjNRSE9aSGw3aDljNFEyUEZJS1RNa203WlBLdmxxS2lWNmNXT0pRZGdDcGdqdEZ1YmMxN2lhci1RdVRMTEJtWE5wM3RJSFhGMXJjMjdqZw"
     }
   ]
 }
