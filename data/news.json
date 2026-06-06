@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T10:58:48Z",
+  "generated_at": "2026-06-06T12:04:49Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -15,20 +15,20 @@
       "guid": "CBMid0FVX3lxTFBWSkFNXzRXTVY3dlhsQzJ6WFB6ZWFIVmcxZHdrR0dNOUpnd1FFZVlDSnJxUmZNZlBoQWVtdWI4NHpzdDJOZVhhcUtvXzZubmJvV1djRVhUMHhLaERvYkxaSnlKZ0c2RTNsQlBGR09LcGh1VzdsVUlr"
     },
     {
-      "title": "Tracker: The Federal Reserve’s Balance Sheet Assets - The American Action Forum",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0?oc=5",
-      "source": "The American Action Forum",
-      "published_at": "Fri, 05 Jun 2026 17:06:58 GMT",
-      "summary": "Tracker: The Federal Reserve’s Balance Sheet Assets The American Action Forum",
-      "guid": "CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0"
-    },
-    {
       "title": "Stocks drive record share of American wealth - Axios",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tREZqZEtISDliRTZVeFV4MkhkbW9ueER2Z25YRDRuNXBDaGVGLTlKMC1JUUVfWXFYT2h3YWtwemRuVU9NLVg0Qi03bEdoQlBfcVBmckN6anZtZVVTakstVlVZWWU0bm5YSmUwaQ?oc=5",
       "source": "Axios",
       "published_at": "Fri, 05 Jun 2026 05:24:34 GMT",
       "summary": "Stocks drive record share of American wealth Axios",
       "guid": "CBMibEFVX3lxTE4tREZqZEtISDliRTZVeFV4MkhkbW9ueER2Z25YRDRuNXBDaGVGLTlKMC1JUUVfWXFYT2h3YWtwemRuVU9NLVg0Qi03bEdoQlBfcVBmckN6anZtZVVTakstVlVZWWU0bm5YSmUwaQ"
+    },
+    {
+      "title": "Nasdaq, S&P 500 suffer worst day of year as AI stocks tumble and Fed rate-hike odds rise - CNN",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1qZ1JvYUtaNTZFYjUyTEVzZzlJMzBUTmFGOHVCYzNrS2o3ZHYyR2RPOFp3c1oybEJTNS1tQXJmZGhENGtJR3V3YV90YnRmM0R3SnZMRHozLV82am42ZGo1dmY0djRSLWJ1TzhGZ0JSeGNpQQ?oc=5",
+      "source": "CNN",
+      "published_at": "Fri, 05 Jun 2026 17:08:55 GMT",
+      "summary": "Nasdaq, S&P 500 suffer worst day of year as AI stocks tumble and Fed rate-hike odds rise CNN",
+      "guid": "CBMickFVX3lxTE1qZ1JvYUtaNTZFYjUyTEVzZzlJMzBUTmFGOHVCYzNrS2o3ZHYyR2RPOFp3c1oybEJTNS1tQXJmZGhENGtJR3V3YV90YnRmM0R3SnZMRHozLV82am42ZGo1dmY0djRSLWJ1TzhGZ0JSeGNpQQ"
     },
     {
       "title": "US stocks slump as fears over Big Tech shake Wall Street - BBC",
@@ -79,12 +79,12 @@
       "guid": "CBMimAFBVV95cUxPUXRYajZuYmxteWI1ck52UVc1YkROY1dWNmZPak5FdUltVm5KU3IyY2ZjWmpHSHdiVXEwR3FObXF2S3FPZnZfRDF6TVo1UGh0dXljV2V6a0E2N1RmdnJzR0N5UHlvekpQcjlKTm9BRVFZbjJiQWJ6dW0wRjlmMVM3c3RFTnI4N1VFUUdKdWpCWjRsVmY5VXZXTg"
     },
     {
-      "title": "U.S. stocks slump as Big Tech sinks and a strong May jobs report boosts odds for higher interest rates - BNN Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObmlKSjVxR0UtN0U3QW53Z3NxUUVBMzFNZ0tzVjUtSVdMTWRSRG1WVDU1VkxMWEc3cFQtMTlOOTVUVnJqeG9YY3JpczgyZk9tUzJHUW9OYTF4blZzbHF1eFMxMWl1UV82dTFWcllZencySlJzMHpzSWRoTF8wTS1XM3M0eExCeWdtMEt4N3F0Q1FNZWM?oc=5",
-      "source": "BNN Bloomberg",
-      "published_at": "Fri, 05 Jun 2026 20:41:25 GMT",
-      "summary": "U.S. stocks slump as Big Tech sinks and a strong May jobs report boosts odds for higher interest rates BNN Bloomberg",
-      "guid": "CBMikwFBVV95cUxObmlKSjVxR0UtN0U3QW53Z3NxUUVBMzFNZ0tzVjUtSVdMTWRSRG1WVDU1VkxMWEc3cFQtMTlOOTVUVnJqeG9YY3JpczgyZk9tUzJHUW9OYTF4blZzbHF1eFMxMWl1UV82dTFWcllZencySlJzMHpzSWRoTF8wTS1XM3M0eExCeWdtMEt4N3F0Q1FNZWM"
+      "title": "Stock Market Today: S&P 500, Nasdaq Fall as Strong Jobs Data Fuels Rate Hike Fears - CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTnZ5eXBYTERYaWNDQkVFRGhuY3FMazNYZnFnSjRONEdRQTNDelN3RkUwMk1NbHlnXzh6c1dObHpXNlROcnc5cHhRTUpDMHUwWUxSRGQxanYyUU5JOXYyTFhEeUxFSEttZktxZ3RGY3RpSzF1eU5PYWNUU0JRd3NULVdETGJpOEFaU19jVHlkclVNQlJIUVVRUk9IdFlQSUJWTF9uakZoeGpyNUNPaEg3bVQtei1xSFdPNVlmdFhGYw?oc=5",
+      "source": "CryptoRank",
+      "published_at": "Fri, 05 Jun 2026 15:25:30 GMT",
+      "summary": "Stock Market Today: S&P 500, Nasdaq Fall as Strong Jobs Data Fuels Rate Hike Fears CryptoRank",
+      "guid": "CBMivwFBVV95cUxOTnZ5eXBYTERYaWNDQkVFRGhuY3FMazNYZnFnSjRONEdRQTNDelN3RkUwMk1NbHlnXzh6c1dObHpXNlROcnc5cHhRTUpDMHUwWUxSRGQxanYyUU5JOXYyTFhEeUxFSEttZktxZ3RGY3RpSzF1eU5PYWNUU0JRd3NULVdETGJpOEFaU19jVHlkclVNQlJIUVVRUk9IdFlQSUJWTF9uakZoeGpyNUNPaEg3bVQtei1xSFdPNVlmdFhGYw"
     }
   ]
 }
