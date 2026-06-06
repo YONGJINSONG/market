@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-06-06T15:37:53Z",
+  "generated_at": "2026-06-06T16:44:06Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "Tech stocks lead market bloodbath as fears of Fed rate hikes add to worries about the AI-fueled chip boom petering out - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNm5QYUt3cVo5V0VEWGRwcHBzWFV2RVRHWENkRzE1N1AyeU5odGxIQ0RKc1R3Mmx5TFRLZklxN1ozTW1xZmloMDlsR2FKcEx1NnZVREgtUjd1dmhSMFZUa1pIZTVjS1hwZjh2TFpFUkphdzV5Y3ZhYjJTUnRfUTJsN2J4WjlWcFpOM09QTHI3U1hzYmxMbl83Q0xvMTJ0bHlWRmFCR0wtOG92NHM?oc=5",
+      "source": "Fortune",
+      "published_at": "Fri, 05 Jun 2026 22:33:00 GMT",
+      "summary": "Tech stocks lead market bloodbath as fears of Fed rate hikes add to worries about the AI-fueled chip boom petering out Fortune",
+      "guid": "CBMiqwFBVV95cUxNNm5QYUt3cVo5V0VEWGRwcHBzWFV2RVRHWENkRzE1N1AyeU5odGxIQ0RKc1R3Mmx5TFRLZklxN1ozTW1xZmloMDlsR2FKcEx1NnZVREgtUjd1dmhSMFZUa1pIZTVjS1hwZjh2TFpFUkphdzV5Y3ZhYjJTUnRfUTJsN2J4WjlWcFpOM09QTHI3U1hzYmxMbl83Q0xvMTJ0bHlWRmFCR0wtOG92NHM"
+    },
     {
       "title": "Stocks sink as worries about an interest rate hike rattle tech investors - NBC News",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBWSkFNXzRXTVY3dlhsQzJ6WFB6ZWFIVmcxZHdrR0dNOUpnd1FFZVlDSnJxUmZNZlBoQWVtdWI4NHpzdDJOZVhhcUtvXzZubmJvV1djRVhUMHhLaERvYkxaSnlKZ0c2RTNsQlBGR09LcGh1VzdsVUlr?oc=5",
@@ -45,14 +53,6 @@
       "published_at": "Fri, 05 Jun 2026 18:25:45 GMT",
       "summary": "U.S. Indexes Are Dropping After a Strong Jobs Report. Is the Labor Market a Problem for the Stock Market? Investopedia",
       "guid": "CBMihgFBVV95cUxObUdUb1B1RTg3RjFxR1RjTGZGMFJ2TC1McHFyUEQ5TXFWSDZ4aDVrd0thWU9VN3VuR2Z2WkEyUlc0U2hna0lIMmZIbEhMeDBPbUJ1cUpTQUNOMFJzUmFmeUNFY1VBUEhEeHJNSjRoZ0lfRXpHeHpnUGV3QlRLNldvckhJYmNSUQ"
-    },
-    {
-      "title": "Tech stocks lead market bloodbath as fears of Fed rate hikes add to worries about the AI-fueled chip boom petering out - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNm5QYUt3cVo5V0VEWGRwcHBzWFV2RVRHWENkRzE1N1AyeU5odGxIQ0RKc1R3Mmx5TFRLZklxN1ozTW1xZmloMDlsR2FKcEx1NnZVREgtUjd1dmhSMFZUa1pIZTVjS1hwZjh2TFpFUkphdzV5Y3ZhYjJTUnRfUTJsN2J4WjlWcFpOM09QTHI3U1hzYmxMbl83Q0xvMTJ0bHlWRmFCR0wtOG92NHM?oc=5",
-      "source": "Fortune",
-      "published_at": "Fri, 05 Jun 2026 22:33:00 GMT",
-      "summary": "Tech stocks lead market bloodbath as fears of Fed rate hikes add to worries about the AI-fueled chip boom petering out Fortune",
-      "guid": "CBMiqwFBVV95cUxNNm5QYUt3cVo5V0VEWGRwcHBzWFV2RVRHWENkRzE1N1AyeU5odGxIQ0RKc1R3Mmx5TFRLZklxN1ozTW1xZmloMDlsR2FKcEx1NnZVREgtUjd1dmhSMFZUa1pIZTVjS1hwZjh2TFpFUkphdzV5Y3ZhYjJTUnRfUTJsN2J4WjlWcFpOM09QTHI3U1hzYmxMbl83Q0xvMTJ0bHlWRmFCR0wtOG92NHM"
     },
     {
       "title": "Stock Market News: AI Stocks Now Make Up 40% of the U.S. Market - Cryptonews.net",
