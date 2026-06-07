@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T12:54:53Z",
+  "generated_at": "2026-06-07T14:45:10Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -21,14 +21,6 @@
       "published_at": "Fri, 05 Jun 2026 22:00:00 GMT",
       "summary": "The New York Stock Exchange | NYSE NYSE",
       "guid": "CBMiP0FVX3lxTE93UWVlU3g1TVNpdTNEcjI2Yk9kSHU2Tnh5Y0stVFBGRWVkLW9wbU1EbHhQaHdIOE56d2V5NXVhSQ"
-    },
-    {
-      "title": "Stock Market Under the Trump Administration: What is Driving Markets in 2026? - U.S. Bank",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcUowVHR1VXAzd0Zfamw1MkVSejFsRGo1bkdGdHhjNVBZVFdwU3VpcE5neGJOeWl6RmdQVkFsYlcxNEVTRGg3WHNYSGR1d1BpTjV4T2NqdWdER3ZtQ0RVbU40WTcyRXRaTEM5bFZteVlYNE5EYkM1M1BaR0lYTGlUeFlTeDhVMzRaWFFqZEZhcGc3RFJoZy1qZy1mTGViQQ?oc=5",
-      "source": "U.S. Bank",
-      "published_at": "Thu, 04 Jun 2026 07:00:00 GMT",
-      "summary": "Stock Market Under the Trump Administration: What is Driving Markets in 2026? U.S. Bank",
-      "guid": "CBMingFBVV95cUxPcUowVHR1VXAzd0Zfamw1MkVSejFsRGo1bkdGdHhjNVBZVFdwU3VpcE5neGJOeWl6RmdQVkFsYlcxNEVTRGg3WHNYSGR1d1BpTjV4T2NqdWdER3ZtQ0RVbU40WTcyRXRaTEM5bFZteVlYNE5EYkM1M1BaR0lYTGlUeFlTeDhVMzRaWFFqZEZhcGc3RFJoZy1qZy1mTGViQQ"
     },
     {
       "title": "Tech stocks lead market bloodbath as fears of Fed rate hikes add to worries about the AI-fueled chip boom petering out - Fortune",
@@ -55,14 +47,6 @@
       "guid": "CBMickFVX3lxTE1qZ1JvYUtaNTZFYjUyTEVzZzlJMzBUTmFGOHVCYzNrS2o3ZHYyR2RPOFp3c1oybEJTNS1tQXJmZGhENGtJR3V3YV90YnRmM0R3SnZMRHozLV82am42ZGo1dmY0djRSLWJ1TzhGZ0JSeGNpQQ"
     },
     {
-      "title": "Tracker: The Federal Reserve’s Balance Sheet Assets - The American Action Forum",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0?oc=5",
-      "source": "The American Action Forum",
-      "published_at": "Fri, 05 Jun 2026 07:00:00 GMT",
-      "summary": "Tracker: The Federal Reserve’s Balance Sheet Assets The American Action Forum",
-      "guid": "CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0"
-    },
-    {
       "title": "US stocks slump as fears over Big Tech shake Wall Street - BBC",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Md0VwQTBZMkZhcmhKQ1phZFhwVUJMcGxHVW5wMkU3YUFoY2thZnJTb1FoaWkweV9wTllaZU1WQ0ZTX1ZaR2FPdExEUnJjM1ptN2hiV3l4Tk9qZw?oc=5",
       "source": "BBC",
@@ -79,12 +63,28 @@
       "guid": "CBMi3gFBVV95cUxPODVtOEhaU29yR0d2c2l0RGJQUnBSTnBaVk9YUC11MWdiUTJvTVlXOG16RnhwR3pacDBGQWpSZXBMZlpJbEpXQVZFUTZ5U2ZuR3FzSjNEa2M3VEp4LUthSk1xUlI4UjJFWFhEbzNtUm4wRjdTUTNfTi1HWWpDc201M2J4ZzZFUVFXRlROR0tOVXdFUmg1czdsd2xEdkpfWFVxV05UMDVYckRuZjVXTkJ3MEl0d1ZuQmhkNGppdlpJWGtzNF92RUhhSWxBM3JHSkF5TEdZZWIxSTV0UUdqSmc"
     },
     {
+      "title": "Wall Street ends sharply lower as chips slide, jobs data fuels rate hike fears - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZzdPM20tT2tIYkJrWFRJSmRaUDk5M1Z0ZHJRbEZ0dFpmSkpFWVAtTEZGdjFwa1YyN2hhU2NEbkx5NVJ2c0JCYzlZclV6NVh6SHhqbVk3V2h5V2J5azlCQ3MyN0ZsUmhvd1RYLXo1Ti1qNlJUOVhBaHVRQkNWckRJQ000UEZIWk9SLVk5QmZ6ZmpDUzhxbWRDZ2JSVER5VDZEbmtSWg?oc=5",
+      "source": "Reuters",
+      "published_at": "Fri, 05 Jun 2026 10:05:00 GMT",
+      "summary": "Wall Street ends sharply lower as chips slide, jobs data fuels rate hike fears Reuters",
+      "guid": "CBMipAFBVV95cUxQZzdPM20tT2tIYkJrWFRJSmRaUDk5M1Z0ZHJRbEZ0dFpmSkpFWVAtTEZGdjFwa1YyN2hhU2NEbkx5NVJ2c0JCYzlZclV6NVh6SHhqbVk3V2h5V2J5azlCQ3MyN0ZsUmhvd1RYLXo1Ti1qNlJUOVhBaHVRQkNWckRJQ000UEZIWk9SLVk5QmZ6ZmpDUzhxbWRDZ2JSVER5VDZEbmtSWg"
+    },
+    {
       "title": "Hot Jobs Report May Seal Hawkish Fed Pivot (Live) - Investor's Business Daily",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPM3lScVlLSzZldVhlX2NRM3ViUlhDU2NRNGs0c2Q0ZEFaQXhmeWVQbU1ZWF9lVFBEMjFyY2JieHhBS18wYkM1alkyUVBMSEVSLUlZTmsyZ1RMV1Q4WUUzQUk5MTU1OHhFQ3A4TGE4QnUxT2R2aEZUQUlidnpJUktwSXpvM3RVUktGRHFESi1lMVZvUQ?oc=5",
       "source": "Investor's Business Daily",
       "published_at": "Fri, 05 Jun 2026 15:57:00 GMT",
       "summary": "Hot Jobs Report May Seal Hawkish Fed Pivot (Live) Investor's Business Daily",
       "guid": "CBMikgFBVV95cUxPM3lScVlLSzZldVhlX2NRM3ViUlhDU2NRNGs0c2Q0ZEFaQXhmeWVQbU1ZWF9lVFBEMjFyY2JieHhBS18wYkM1alkyUVBMSEVSLUlZTmsyZ1RMV1Q4WUUzQUk5MTU1OHhFQ3A4TGE4QnUxT2R2aEZUQUlidnpJUktwSXpvM3RVUktGRHFESi1lMVZvUQ"
+    },
+    {
+      "title": "Why are stocks down today? Some key stats - Bergen Record",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbU5WbFNuVko5Q2FnMHpFc2JVNG5NbHVRUUY0RmdGVTVkMlRsX2FHSmlfcEJod2hrcEQ4bmticmFkVGZQd0VVaVRkR2RnMzE3QXpkRnJodUd6RFlRTEc2VU9DYmhBQ1pIUnlOTWxZSzVxaWhHMTRYWXV4Q2dDekNWTVdLWDFpQmdEZjJuTy1RMWF0ZGRSb3U5SU82TDFMX3ZGRl9laE53clRnU3J1aTB0SUVfb0w?oc=5",
+      "source": "Bergen Record",
+      "published_at": "Fri, 05 Jun 2026 18:53:00 GMT",
+      "summary": "Why are stocks down today? Some key stats Bergen Record",
+      "guid": "CBMitAFBVV95cUxPbU5WbFNuVko5Q2FnMHpFc2JVNG5NbHVRUUY0RmdGVTVkMlRsX2FHSmlfcEJod2hrcEQ4bmticmFkVGZQd0VVaVRkR2RnMzE3QXpkRnJodUd6RFlRTEc2VU9DYmhBQ1pIUnlOTWxZSzVxaWhHMTRYWXV4Q2dDekNWTVdLWDFpQmdEZjJuTy1RMWF0ZGRSb3U5SU82TDFMX3ZGRl9laE53clRnU3J1aTB0SUVfb0w"
     }
   ]
 }
