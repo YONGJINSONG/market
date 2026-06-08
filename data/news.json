@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T06:46:15Z",
+  "generated_at": "2026-06-08T11:47:51Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -31,11 +31,19 @@
       "guid": "CBMickFVX3lxTE1qZ1JvYUtaNTZFYjUyTEVzZzlJMzBUTmFGOHVCYzNrS2o3ZHYyR2RPOFp3c1oybEJTNS1tQXJmZGhENGtJR3V3YV90YnRmM0R3SnZMRHozLV82am42ZGo1dmY0djRSLWJ1TzhGZ0JSeGNpQQ"
     },
     {
-      "title": "Japan’s Stocks Set to Sink on Tech Selloff, Middle East Worries - Bloomberg.com",
+      "title": "The Federal Reserve's June Inflation Forecast Is In, and It's Not Nightmare Fuel for Wall Street for the First Time in Several Months - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQLXFJMDBJREVaTmpqVUhlYjV4cWVfdVotV2Q3d0lGeHF5VVcySkM2ajItRDNTYUpIRGZ6THYyajhCaGlEa0JlY095RTBKQnRVUkNsdVlDeWhDTEs0TXRBbGNRNXB6dUhKWUFla2pJcno4VXdCOVozbklyR29ic19MZmtiUEg5cnBRNVFwRE9aeXZjMFRPMl80UlZObWNtcTYzR2ZRb0VvQUI2Mk4zemt6czF1ekZOSXByX2hwdFItWTVtZ1M4Y196XzBMSzFnT1RFTmhBSWVIU1A4Y25WNTAzS0IzVVRxZk14N2g3R0NQS09reUU2X0Y3SzZ5VUJNRUJ0OEhWR2g0UFl4dFdQLWxDZnIxc0NIeEplbVBFbTN5UlFEdjZVQTk5X0VPLWVScVNrRHpKU01fOVk2TUk?oc=5",
+      "source": "The Globe and Mail",
+      "published_at": "Mon, 08 Jun 2026 08:36:23 GMT",
+      "summary": "The Federal Reserve's June Inflation Forecast Is In, and It's Not Nightmare Fuel for Wall Street for the First Time in Several Months The Globe and Mail",
+      "guid": "CBMiuwJBVV95cUxQLXFJMDBJREVaTmpqVUhlYjV4cWVfdVotV2Q3d0lGeHF5VVcySkM2ajItRDNTYUpIRGZ6THYyajhCaGlEa0JlY095RTBKQnRVUkNsdVlDeWhDTEs0TXRBbGNRNXB6dUhKWUFla2pJcno4VXdCOVozbklyR29ic19MZmtiUEg5cnBRNVFwRE9aeXZjMFRPMl80UlZObWNtcTYzR2ZRb0VvQUI2Mk4zemt6czF1ekZOSXByX2hwdFItWTVtZ1M4Y196XzBMSzFnT1RFTmhBSWVIU1A4Y25WNTAzS0IzVVRxZk14N2g3R0NQS09reUU2X0Y3SzZ5VUJNRUJ0OEhWR2g0UFl4dFdQLWxDZnIxc0NIeEplbVBFbTN5UlFEdjZVQTk5X0VPLWVScVNrRHpKU01fOVk2TUk"
+    },
+    {
+      "title": "Japan’s Stocks Set to Sink on Tech Selloff, Middle East Worries - Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUGRlSFo5eUZvZlBYcFVQeGkxZEt3clBWZ2RvVmtITWtjM24xVEMtR3dJU3Zwb2lObzZlSEd4QnMzRWR3bVdOR1lqb0M2UDJqcFVuX3Y3cm50bWVhQV8tcXYxd2ZXTjVSaU9YTkk5bUo4TGVpcFZlcUgwei1rSVB6MW5mc2hGcmZvVHhvaFp0VG5yOERzZUVQVDBHNDZzSHEyZzJLY0RnWDUxbmQyQmI2cXR6VQ?oc=5",
-      "source": "Bloomberg.com",
-      "published_at": "Mon, 08 Jun 2026 01:58:00 GMT",
-      "summary": "Japan’s Stocks Set to Sink on Tech Selloff, Middle East Worries Bloomberg.com",
+      "source": "Bloomberg",
+      "published_at": "Mon, 08 Jun 2026 06:53:00 GMT",
+      "summary": "Japan’s Stocks Set to Sink on Tech Selloff, Middle East Worries Bloomberg",
       "guid": "CBMiswFBVV95cUxOUGRlSFo5eUZvZlBYcFVQeGkxZEt3clBWZ2RvVmtITWtjM24xVEMtR3dJU3Zwb2lObzZlSEd4QnMzRWR3bVdOR1lqb0M2UDJqcFVuX3Y3cm50bWVhQV8tcXYxd2ZXTjVSaU9YTkk5bUo4TGVpcFZlcUgwei1rSVB6MW5mc2hGcmZvVHhvaFp0VG5yOERzZUVQVDBHNDZzSHEyZzJLY0RnWDUxbmQyQmI2cXR6VQ"
     },
     {
@@ -71,20 +79,12 @@
       "guid": "CBMitAFBVV95cUxPbU5WbFNuVko5Q2FnMHpFc2JVNG5NbHVRUUY0RmdGVTVkMlRsX2FHSmlfcEJod2hrcEQ4bmticmFkVGZQd0VVaVRkR2RnMzE3QXpkRnJodUd6RFlRTEc2VU9DYmhBQ1pIUnlOTWxZSzVxaWhHMTRYWXV4Q2dDekNWTVdLWDFpQmdEZjJuTy1RMWF0ZGRSb3U5SU82TDFMX3ZGRl9laE53clRnU3J1aTB0SUVfb0w"
     },
     {
-      "title": "From Bad to Worse: The Federal Reserve's May Inflation Forecast Is Terrible News for Stock Investors - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNejhEY1lEY082RGFLbTN1TUQtZlZxM2lyM0VDdDZFZTN6bjE5NkJNLU14TmdydkktMnhiR2pEcnlEYjN5R3pucVBZd0R5ZDFBdDJZRHpKV1V0S2Y0Zm1qeXBNMmRZLTFadTBlRU1ZbEwxV0lHTXFlTGxrVXJUdlZGd09CeC1aelgtR3dDOUZZNGpOXy1KX1Vjcg?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Fri, 15 May 2026 07:00:00 GMT",
-      "summary": "From Bad to Worse: The Federal Reserve's May Inflation Forecast Is Terrible News for Stock Investors The Motley Fool",
-      "guid": "CBMimAFBVV95cUxNejhEY1lEY082RGFLbTN1TUQtZlZxM2lyM0VDdDZFZTN6bjE5NkJNLU14TmdydkktMnhiR2pEcnlEYjN5R3pucVBZd0R5ZDFBdDJZRHpKV1V0S2Y0Zm1qeXBNMmRZLTFadTBlRU1ZbEwxV0lHTXFlTGxrVXJUdlZGd09CeC1aelgtR3dDOUZZNGpOXy1KX1Vjcg"
-    },
-    {
-      "title": "Navigating the Federal Reserve’s Rate Cuts: What Investors Need to Know - Nasdaq",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQTk1OGpVZl9PNDBuNjlEVjFpaml5WmQ4NUdGU1N6TUFNWTVDVWI1bDM2UU8zVlpmNHROX2tqZElwSHRlUXUwV3g5RXdZN29sQlZ4eDc2b1hZb1d3cXhNYlJkb2NySXpReUpfZDg4ak8xWHNZaFZVZTYyYk5mQnVwcEhJM2J3ZGNHalRyQXZ6U2NOUWpObFg4ZS15dnc3SzVBeUtv?oc=5",
-      "source": "Nasdaq",
-      "published_at": "Tue, 02 Jun 2026 00:39:13 GMT",
-      "summary": "Navigating the Federal Reserve’s Rate Cuts: What Investors Need to Know Nasdaq",
-      "guid": "CBMiowFBVV95cUxQQTk1OGpVZl9PNDBuNjlEVjFpaml5WmQ4NUdGU1N6TUFNWTVDVWI1bDM2UU8zVlpmNHROX2tqZElwSHRlUXUwV3g5RXdZN29sQlZ4eDc2b1hZb1d3cXhNYlJkb2NySXpReUpfZDg4ak8xWHNZaFZVZTYyYk5mQnVwcEhJM2J3ZGNHalRyQXZ6U2NOUWpObFg4ZS15dnc3SzVBeUtv"
+      "title": "The Need for Federal Reserve Flexibility - American Enterprise Institute - AEI",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9rSE5TczdmcTBkeEhqVjJLVi13NmxkU09iQ0NmRFk5MktXMV96TnFLM2x2azgzSmNENVBpbWd0Y04wS2NRd1JmRzJRa2tIMk9vVXVLWnIyNkRETG5FeGRTTXEwWFIzdWM1U0tsZEwzVzZsNXVjeHFDS0xZUQ?oc=5",
+      "source": "American Enterprise Institute - AEI",
+      "published_at": "Fri, 10 Apr 2026 07:00:00 GMT",
+      "summary": "The Need for Federal Reserve Flexibility American Enterprise Institute - AEI",
+      "guid": "CBMie0FVX3lxTE9rSE5TczdmcTBkeEhqVjJLVi13NmxkU09iQ0NmRFk5MktXMV96TnFLM2x2azgzSmNENVBpbWd0Y04wS2NRd1JmRzJRa2tIMk9vVXVLWnIyNkRETG5FeGRTTXEwWFIzdWM1U0tsZEwzVzZsNXVjeHFDS0xZUQ"
     }
   ]
 }
