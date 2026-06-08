@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T20:30:27Z",
+  "generated_at": "2026-06-08T22:13:52Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,20 +7,20 @@
   },
   "items": [
     {
+      "title": "Last week's stock plunge was a 'healthy reset' that sets up a fresh rally, Morgan Stanley says - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcGN2bjVXRENhWEVuMmxCUjhzMUNqSm9iMFFJVWRvUDlZTnBIMGUwdW1lZDRtc0RhNS03Z0t4aXMza2tCNklCdEdXMHVoYndlUl9Lb0Fia3g3dUFpTkZsRFg3V2hmci05N0RoREktMWZrMTNIOTJCTnZOVGNNZEhCMkdpZ0VnMVc0TmxxaVpfT2U3dTdsV0RRSXVxUVhoOXZzN3hMOWVn?oc=5",
+      "source": "Business Insider",
+      "published_at": "Mon, 08 Jun 2026 15:18:00 GMT",
+      "summary": "Last week's stock plunge was a 'healthy reset' that sets up a fresh rally, Morgan Stanley says Business Insider",
+      "guid": "CBMipgFBVV95cUxPcGN2bjVXRENhWEVuMmxCUjhzMUNqSm9iMFFJVWRvUDlZTnBIMGUwdW1lZDRtc0RhNS03Z0t4aXMza2tCNklCdEdXMHVoYndlUl9Lb0Fia3g3dUFpTkZsRFg3V2hmci05N0RoREktMWZrMTNIOTJCTnZOVGNNZEhCMkdpZ0VnMVc0TmxxaVpfT2U3dTdsV0RRSXVxUVhoOXZzN3hMOWVn"
+    },
+    {
       "title": "Does President Trump’s Bull Market Start Up Again on Wednesday? - 24/7 Wall St.",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZVI5WEV0UGYzUDRZRzF0NWE3R0M2ejFrTXQzdFU2Rmd1NEtSZmNXbDgySE5jelJHbnFqcW9xaWVKdFc0NkJXbG5SbzQ5RXQzajU1aXVoTGpBSDRrRG0yWXBfamhVbVlSODY5NHBiQnRtZjJyaGZEUHhPZXRvcmIwZHhxc2lKZkE4TnBTRWNYUjJYN25rN0FRdTdQdzNvMmFmbXB5TlR0WG4?oc=5",
       "source": "24/7 Wall St.",
       "published_at": "Mon, 08 Jun 2026 14:16:46 GMT",
       "summary": "Does President Trump’s Bull Market Start Up Again on Wednesday? 24/7 Wall St.",
       "guid": "CBMiqAFBVV95cUxPZVI5WEV0UGYzUDRZRzF0NWE3R0M2ejFrTXQzdFU2Rmd1NEtSZmNXbDgySE5jelJHbnFqcW9xaWVKdFc0NkJXbG5SbzQ5RXQzajU1aXVoTGpBSDRrRG0yWXBfamhVbVlSODY5NHBiQnRtZjJyaGZEUHhPZXRvcmIwZHhxc2lKZkE4TnBTRWNYUjJYN25rN0FRdTdQdzNvMmFmbXB5TlR0WG4"
-    },
-    {
-      "title": "The Federal Reserve's June Inflation Forecast Is In, and It's Not Nightmare Fuel for Wall Street for the First Time in Several Months - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNXhLdTAtS1FpanZYeFlLQl9ZeVdHeWlzdER3djNsYi0yNjQ1R3M0dGdSdXFKVnVKY1huNUN3N21lbkVBTGcyMGNFMkk3RXYtRWVzQ0pINXZzdzVfSHNWcUhjd3k1RkpYaHpmWVdyMU10TWxpSjlEeFVQZFZKcHlabkt4a0JxZUdvWVhhbFdVTm1aaFhncGpiRUlvN0JqS3pHRGtqRk92TW4?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Mon, 08 Jun 2026 08:26:00 GMT",
-      "summary": "The Federal Reserve's June Inflation Forecast Is In, and It's Not Nightmare Fuel for Wall Street for the First Time in Several Months Yahoo Finance",
-      "guid": "CBMiqAFBVV95cUxQNXhLdTAtS1FpanZYeFlLQl9ZeVdHeWlzdER3djNsYi0yNjQ1R3M0dGdSdXFKVnVKY1huNUN3N21lbkVBTGcyMGNFMkk3RXYtRWVzQ0pINXZzdzVfSHNWcUhjd3k1RkpYaHpmWVdyMU10TWxpSjlEeFVQZFZKcHlabkt4a0JxZUdvWVhhbFdVTm1aaFhncGpiRUlvN0JqS3pHRGtqRk92TW4"
     },
     {
       "title": "Stock Market Under the Trump Administration: What is Driving Markets in 2026? - U.S. Bank",
@@ -39,12 +39,12 @@
       "guid": "CBMickFVX3lxTE1qZ1JvYUtaNTZFYjUyTEVzZzlJMzBUTmFGOHVCYzNrS2o3ZHYyR2RPOFp3c1oybEJTNS1tQXJmZGhENGtJR3V3YV90YnRmM0R3SnZMRHozLV82am42ZGo1dmY0djRSLWJ1TzhGZ0JSeGNpQQ"
     },
     {
-      "title": "Tracker: The Federal Reserve’s Balance Sheet Assets - The American Action Forum",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0?oc=5",
-      "source": "The American Action Forum",
-      "published_at": "Fri, 05 Jun 2026 07:00:00 GMT",
-      "summary": "Tracker: The Federal Reserve’s Balance Sheet Assets The American Action Forum",
-      "guid": "CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0"
+      "title": "An alchemy of assets: Understanding the Federal Reserve’s balance sheet - Britannica",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE92Y05QTFlqQ0tQTlptdVpHSTdfY3d2Rm1TVU1jXzc4OFBqMnd0VHZ2THN1OHNHM1pXNUZfWWdBXzYtZUZqck9OQmhONGxqSFRKczlsMXBUNkFhbFVTUHZwU0I4T29HVVBfN2Zlbi12R1lGX0NCV1Q0RTQ4Skg?oc=5",
+      "source": "Britannica",
+      "published_at": "Sat, 06 Jun 2026 07:00:00 GMT",
+      "summary": "An alchemy of assets: Understanding the Federal Reserve’s balance sheet Britannica",
+      "guid": "CBMifEFVX3lxTE92Y05QTFlqQ0tQTlptdVpHSTdfY3d2Rm1TVU1jXzc4OFBqMnd0VHZ2THN1OHNHM1pXNUZfWWdBXzYtZUZqck9OQmhONGxqSFRKczlsMXBUNkFhbFVTUHZwU0I4T29HVVBfN2Zlbi12R1lGX0NCV1Q0RTQ4Skg"
     },
     {
       "title": "The Federal Reserve's June Inflation Forecast Is In, and It's Not Nightmare Fuel for Wall Street for the First Time in Several Months - The Globe and Mail",
