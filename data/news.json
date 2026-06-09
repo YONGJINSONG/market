@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T05:44:36Z",
+  "generated_at": "2026-06-09T08:49:29Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,12 +7,28 @@
   },
   "items": [
     {
-      "title": "Stock Market Under the Trump Administration: What is Driving Markets in 2026? - U.S. Bank",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcUowVHR1VXAzd0Zfamw1MkVSejFsRGo1bkdGdHhjNVBZVFdwU3VpcE5neGJOeWl6RmdQVkFsYlcxNEVTRGg3WHNYSGR1d1BpTjV4T2NqdWdER3ZtQ0RVbU40WTcyRXRaTEM5bFZteVlYNE5EYkM1M1BaR0lYTGlUeFlTeDhVMzRaWFFqZEZhcGc3RFJoZy1qZy1mTGViQQ?oc=5",
-      "source": "U.S. Bank",
-      "published_at": "Thu, 04 Jun 2026 07:00:00 GMT",
-      "summary": "Stock Market Under the Trump Administration: What is Driving Markets in 2026? U.S. Bank",
-      "guid": "CBMingFBVV95cUxPcUowVHR1VXAzd0Zfamw1MkVSejFsRGo1bkdGdHhjNVBZVFdwU3VpcE5neGJOeWl6RmdQVkFsYlcxNEVTRGg3WHNYSGR1d1BpTjV4T2NqdWdER3ZtQ0RVbU40WTcyRXRaTEM5bFZteVlYNE5EYkM1M1BaR0lYTGlUeFlTeDhVMzRaWFFqZEZhcGc3RFJoZy1qZy1mTGViQQ"
+      "title": "Will the Stock Market Crash if the Federal Reserve Raises Interest Rates? Soaring Bond Yields Portend Trouble. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeWF2bFg3aW80eWxCZlV5bGZSbi03dmdjZE1uXzVFeEJGTVBDZDlrT0tPSGQtbk5Cd05GZnpsZXhiUlJwOFhHNG1QUEZJNlRBQ1diVjdVRzhuMWZCMFRVRmNiTFBrdjdMczhjRDB6eW5BM3JlYXpLRDJqdU1XdzBwc2NFZEFmcjFlZXhkWjVQNjhjTkU?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Tue, 09 Jun 2026 08:15:35 GMT",
+      "summary": "Will the Stock Market Crash if the Federal Reserve Raises Interest Rates? Soaring Bond Yields Portend Trouble. The Motley Fool",
+      "guid": "CBMikwFBVV95cUxQeWF2bFg3aW80eWxCZlV5bGZSbi03dmdjZE1uXzVFeEJGTVBDZDlrT0tPSGQtbk5Cd05GZnpsZXhiUlJwOFhHNG1QUEZJNlRBQ1diVjdVRzhuMWZCMFRVRmNiTFBrdjdMczhjRDB6eW5BM3JlYXpLRDJqdU1XdzBwc2NFZEFmcjFlZXhkWjVQNjhjTkU"
+    },
+    {
+      "title": "Will the Stock Market Crash if the Federal Reserve Raises Interest Rates? Soaring Bond Yields Portend Trouble. - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOdHlvbG1hSEluRURjNFlEQ05ieUdRM0c1aC1sdU85TWpJS1Q2eW4wNWxvZktKcGNCYnZoZGF1NC1KUDZWeGxQVmFEZkQ5UFZiTmM2R1FGWk9HTjVZSkxtOVVBeTYyOG9EM2dFTG1Za2hSTVo1dXNSY1dsbWc5aW9YazF0Z1lLTDIxWThIVDljM0ZqV2kxYnVSMkowLXdmNmFjb2ZLQVJsZjF4OFdBZXUtV2x1cU85b1pfMXA1SWVla2VZbHpQTk9kaTN2cHVyUTZ1SzB0QVQ1Z1lOV21aRDg5d1k3ZTVBSU5PWlYzX3lidzNiUTBaZ3ZqZUxPdmpMaGZDeERBVFF2SjFHZzFrOWVRTTdyQk9WcVJ3X2RtV2RQb0k?oc=5",
+      "source": "The Globe and Mail",
+      "published_at": "Tue, 09 Jun 2026 08:35:02 GMT",
+      "summary": "Will the Stock Market Crash if the Federal Reserve Raises Interest Rates? Soaring Bond Yields Portend Trouble. The Globe and Mail",
+      "guid": "CBMioAJBVV95cUxOdHlvbG1hSEluRURjNFlEQ05ieUdRM0c1aC1sdU85TWpJS1Q2eW4wNWxvZktKcGNCYnZoZGF1NC1KUDZWeGxQVmFEZkQ5UFZiTmM2R1FGWk9HTjVZSkxtOVVBeTYyOG9EM2dFTG1Za2hSTVo1dXNSY1dsbWc5aW9YazF0Z1lLTDIxWThIVDljM0ZqV2kxYnVSMkowLXdmNmFjb2ZLQVJsZjF4OFdBZXUtV2x1cU85b1pfMXA1SWVla2VZbHpQTk9kaTN2cHVyUTZ1SzB0QVQ1Z1lOV21aRDg5d1k3ZTVBSU5PWlYzX3lidzNiUTBaZ3ZqZUxPdmpMaGZDeERBVFF2SjFHZzFrOWVRTTdyQk9WcVJ3X2RtV2RQb0k"
+    },
+    {
+      "title": "Stocks sink as worries about an interest rate hike rattle tech investors - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBWSkFNXzRXTVY3dlhsQzJ6WFB6ZWFIVmcxZHdrR0dNOUpnd1FFZVlDSnJxUmZNZlBoQWVtdWI4NHpzdDJOZVhhcUtvXzZubmJvV1djRVhUMHhLaERvYkxaSnlKZ0c2RTNsQlBGR09LcGh1VzdsVUlr?oc=5",
+      "source": "NBC News",
+      "published_at": "Fri, 05 Jun 2026 20:13:40 GMT",
+      "summary": "Stocks sink as worries about an interest rate hike rattle tech investors NBC News",
+      "guid": "CBMid0FVX3lxTFBWSkFNXzRXTVY3dlhsQzJ6WFB6ZWFIVmcxZHdrR0dNOUpnd1FFZVlDSnJxUmZNZlBoQWVtdWI4NHpzdDJOZVhhcUtvXzZubmJvV1djRVhUMHhLaERvYkxaSnlKZ0c2RTNsQlBGR09LcGh1VzdsVUlr"
     },
     {
       "title": "Nasdaq, S&P 500 suffer worst day of year as AI stocks tumble and Fed rate-hike odds rise - CNN",
@@ -39,12 +55,12 @@
       "guid": "CBMiqAFBVV95cUxPZVI5WEV0UGYzUDRZRzF0NWE3R0M2ejFrTXQzdFU2Rmd1NEtSZmNXbDgySE5jelJHbnFqcW9xaWVKdFc0NkJXbG5SbzQ5RXQzajU1aXVoTGpBSDRrRG0yWXBfamhVbVlSODY5NHBiQnRtZjJyaGZEUHhPZXRvcmIwZHhxc2lKZkE4TnBTRWNYUjJYN25rN0FRdTdQdzNvMmFmbXB5TlR0WG4"
     },
     {
-      "title": "Tracker: The Federal Reserve’s Balance Sheet Assets - The American Action Forum",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0?oc=5",
-      "source": "The American Action Forum",
-      "published_at": "Fri, 05 Jun 2026 07:00:00 GMT",
-      "summary": "Tracker: The Federal Reserve’s Balance Sheet Assets The American Action Forum",
-      "guid": "CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0"
+      "title": "What to Look Out for in Economic Data This Week (June 8-12) - Kiplinger",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ?oc=5",
+      "source": "Kiplinger",
+      "published_at": "Fri, 05 Jun 2026 18:29:22 GMT",
+      "summary": "What to Look Out for in Economic Data This Week (June 8-12) Kiplinger",
+      "guid": "CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ"
     },
     {
       "title": "US stocks slump as fears over Big Tech shake Wall Street - BBC",
@@ -55,36 +71,20 @@
       "guid": "CBMiWkFVX3lxTE1Md0VwQTBZMkZhcmhKQ1phZFhwVUJMcGxHVW5wMkU3YUFoY2thZnJTb1FoaWkweV9wTllaZU1WQ0ZTX1ZaR2FPdExEUnJjM1ptN2hiV3l4Tk9qZw"
     },
     {
-      "title": "Stocks sink as worries about an interest rate hike rattle tech investors - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBWSkFNXzRXTVY3dlhsQzJ6WFB6ZWFIVmcxZHdrR0dNOUpnd1FFZVlDSnJxUmZNZlBoQWVtdWI4NHpzdDJOZVhhcUtvXzZubmJvV1djRVhUMHhLaERvYkxaSnlKZ0c2RTNsQlBGR09LcGh1VzdsVUlr?oc=5",
-      "source": "NBC News",
-      "published_at": "Fri, 05 Jun 2026 20:13:40 GMT",
-      "summary": "Stocks sink as worries about an interest rate hike rattle tech investors NBC News",
-      "guid": "CBMid0FVX3lxTFBWSkFNXzRXTVY3dlhsQzJ6WFB6ZWFIVmcxZHdrR0dNOUpnd1FFZVlDSnJxUmZNZlBoQWVtdWI4NHpzdDJOZVhhcUtvXzZubmJvV1djRVhUMHhLaERvYkxaSnlKZ0c2RTNsQlBGR09LcGh1VzdsVUlr"
+      "title": "Why are stocks down today? Some key stats - Bergen Record",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbU5WbFNuVko5Q2FnMHpFc2JVNG5NbHVRUUY0RmdGVTVkMlRsX2FHSmlfcEJod2hrcEQ4bmticmFkVGZQd0VVaVRkR2RnMzE3QXpkRnJodUd6RFlRTEc2VU9DYmhBQ1pIUnlOTWxZSzVxaWhHMTRYWXV4Q2dDekNWTVdLWDFpQmdEZjJuTy1RMWF0ZGRSb3U5SU82TDFMX3ZGRl9laE53clRnU3J1aTB0SUVfb0w?oc=5",
+      "source": "Bergen Record",
+      "published_at": "Fri, 05 Jun 2026 18:53:00 GMT",
+      "summary": "Why are stocks down today? Some key stats Bergen Record",
+      "guid": "CBMitAFBVV95cUxPbU5WbFNuVko5Q2FnMHpFc2JVNG5NbHVRUUY0RmdGVTVkMlRsX2FHSmlfcEJod2hrcEQ4bmticmFkVGZQd0VVaVRkR2RnMzE3QXpkRnJodUd6RFlRTEc2VU9DYmhBQ1pIUnlOTWxZSzVxaWhHMTRYWXV4Q2dDekNWTVdLWDFpQmdEZjJuTy1RMWF0ZGRSb3U5SU82TDFMX3ZGRl9laE53clRnU3J1aTB0SUVfb0w"
     },
     {
-      "title": "The Federal Reserve's June Inflation Forecast Is In, and It's Not Nightmare Fuel for Wall Street for the First Time in Several Months - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQLXFJMDBJREVaTmpqVUhlYjV4cWVfdVotV2Q3d0lGeHF5VVcySkM2ajItRDNTYUpIRGZ6THYyajhCaGlEa0JlY095RTBKQnRVUkNsdVlDeWhDTEs0TXRBbGNRNXB6dUhKWUFla2pJcno4VXdCOVozbklyR29ic19MZmtiUEg5cnBRNVFwRE9aeXZjMFRPMl80UlZObWNtcTYzR2ZRb0VvQUI2Mk4zemt6czF1ekZOSXByX2hwdFItWTVtZ1M4Y196XzBMSzFnT1RFTmhBSWVIU1A4Y25WNTAzS0IzVVRxZk14N2g3R0NQS09reUU2X0Y3SzZ5VUJNRUJ0OEhWR2g0UFl4dFdQLWxDZnIxc0NIeEplbVBFbTN5UlFEdjZVQTk5X0VPLWVScVNrRHpKU01fOVk2TUk?oc=5",
-      "source": "The Globe and Mail",
-      "published_at": "Mon, 08 Jun 2026 08:36:23 GMT",
-      "summary": "The Federal Reserve's June Inflation Forecast Is In, and It's Not Nightmare Fuel for Wall Street for the First Time in Several Months The Globe and Mail",
-      "guid": "CBMiuwJBVV95cUxQLXFJMDBJREVaTmpqVUhlYjV4cWVfdVotV2Q3d0lGeHF5VVcySkM2ajItRDNTYUpIRGZ6THYyajhCaGlEa0JlY095RTBKQnRVUkNsdVlDeWhDTEs0TXRBbGNRNXB6dUhKWUFla2pJcno4VXdCOVozbklyR29ic19MZmtiUEg5cnBRNVFwRE9aeXZjMFRPMl80UlZObWNtcTYzR2ZRb0VvQUI2Mk4zemt6czF1ekZOSXByX2hwdFItWTVtZ1M4Y196XzBMSzFnT1RFTmhBSWVIU1A4Y25WNTAzS0IzVVRxZk14N2g3R0NQS09reUU2X0Y3SzZ5VUJNRUJ0OEhWR2g0UFl4dFdQLWxDZnIxc0NIeEplbVBFbTN5UlFEdjZVQTk5X0VPLWVScVNrRHpKU01fOVk2TUk"
-    },
-    {
-      "title": "Market Reactions to Tariff Announcements - Federal Reserve Bank of San Francisco",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM1dfLWVxeDJGbVNDYU9vWU8xOW5Fbk9rWk5KREtjbWFDcWFfdzAyVE5WMDhINUpWbWVDVWZmRHBSSlN3blk5alBHd3B1RE5JSmVMRTd3SXhNQmZWdDllUDFCU1lwTk9zcmpBSmhmazM5OEhIWEVHMlhHTDY4M1luNXJ5TExQbi1RMjBLbmpZd3BqLU1zanlvM0hvVWhVcWtiSWZBOV9ENTJmTWUtQzIxdmprYlpGNnJzQk11T1ZfWQ?oc=5",
-      "source": "Federal Reserve Bank of San Francisco",
-      "published_at": "Mon, 06 Oct 2025 07:00:00 GMT",
-      "summary": "Market Reactions to Tariff Announcements Federal Reserve Bank of San Francisco",
-      "guid": "CBMivwFBVV95cUxOM1dfLWVxeDJGbVNDYU9vWU8xOW5Fbk9rWk5KREtjbWFDcWFfdzAyVE5WMDhINUpWbWVDVWZmRHBSSlN3blk5alBHd3B1RE5JSmVMRTd3SXhNQmZWdDllUDFCU1lwTk9zcmpBSmhmazM5OEhIWEVHMlhHTDY4M1luNXJ5TExQbi1RMjBLbmpZd3BqLU1zanlvM0hvVWhVcWtiSWZBOV9ENTJmTWUtQzIxdmprYlpGNnJzQk11T1ZfWQ"
-    },
-    {
-      "title": "The Warsh-Trump Honeymoon Is Officially Over. No Matter What Happens Next, the Stock Market Will Probably Lose - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQOVViVWZRLVdvTmFOYTZzTmFVb1lJemY4OEk1Tzh6Ujd4NEFRQjRrS2haOWJUOWVjdDlvekV2dUlPMENYN1plVk9BRTVMeUJCb2k4Ymg3OXdXTzBob1l4UWZSNnRSUVNlWEk4ZGI3eHg1djVlbnl1QlFvS1lwSElBaHp1M1RNTnoyZGJGeWNlVGZ1bXdneHNsY1h4Q1luSmVaOElFdTRCc1RtbGJNaGRlcmE3VTZhSUtUcjZ4X1pMQV8xMTFNcUpBUWMxcWVpV09kSEU3c0hGa2E3a1VjLWdnb1lONnFpTW8?oc=5",
-      "source": "24/7 Wall St.",
-      "published_at": "Mon, 08 Jun 2026 15:48:04 GMT",
-      "summary": "The Warsh-Trump Honeymoon Is Officially Over. No Matter What Happens Next, the Stock Market Will Probably Lose 24/7 Wall St.",
-      "guid": "CBMi5wFBVV95cUxQOVViVWZRLVdvTmFOYTZzTmFVb1lJemY4OEk1Tzh6Ujd4NEFRQjRrS2haOWJUOWVjdDlvekV2dUlPMENYN1plVk9BRTVMeUJCb2k4Ymg3OXdXTzBob1l4UWZSNnRSUVNlWEk4ZGI3eHg1djVlbnl1QlFvS1lwSElBaHp1M1RNTnoyZGJGeWNlVGZ1bXdneHNsY1h4Q1luSmVaOElFdTRCc1RtbGJNaGRlcmE3VTZhSUtUcjZ4X1pMQV8xMTFNcUpBUWMxcWVpV09kSEU3c0hGa2E3a1VjLWdnb1lONnFpTW8"
+      "title": "The Need for Federal Reserve Flexibility - American Enterprise Institute - AEI",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9rSE5TczdmcTBkeEhqVjJLVi13NmxkU09iQ0NmRFk5MktXMV96TnFLM2x2azgzSmNENVBpbWd0Y04wS2NRd1JmRzJRa2tIMk9vVXVLWnIyNkRETG5FeGRTTXEwWFIzdWM1U0tsZEwzVzZsNXVjeHFDS0xZUQ?oc=5",
+      "source": "American Enterprise Institute - AEI",
+      "published_at": "Fri, 10 Apr 2026 07:00:00 GMT",
+      "summary": "The Need for Federal Reserve Flexibility American Enterprise Institute - AEI",
+      "guid": "CBMie0FVX3lxTE9rSE5TczdmcTBkeEhqVjJLVi13NmxkU09iQ0NmRFk5MktXMV96TnFLM2x2azgzSmNENVBpbWd0Y04wS2NRd1JmRzJRa2tIMk9vVXVLWnIyNkRETG5FeGRTTXEwWFIzdWM1U0tsZEwzVzZsNXVjeHFDS0xZUQ"
     }
   ]
 }
