@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T23:36:17Z",
+  "generated_at": "2026-06-09T01:30:06Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,12 +7,12 @@
   },
   "items": [
     {
-      "title": "Stock Market Under the Trump Administration: What is Driving Markets in 2026? - U.S. Bank",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcUowVHR1VXAzd0Zfamw1MkVSejFsRGo1bkdGdHhjNVBZVFdwU3VpcE5neGJOeWl6RmdQVkFsYlcxNEVTRGg3WHNYSGR1d1BpTjV4T2NqdWdER3ZtQ0RVbU40WTcyRXRaTEM5bFZteVlYNE5EYkM1M1BaR0lYTGlUeFlTeDhVMzRaWFFqZEZhcGc3RFJoZy1qZy1mTGViQQ?oc=5",
-      "source": "U.S. Bank",
-      "published_at": "Thu, 04 Jun 2026 07:00:00 GMT",
-      "summary": "Stock Market Under the Trump Administration: What is Driving Markets in 2026? U.S. Bank",
-      "guid": "CBMingFBVV95cUxPcUowVHR1VXAzd0Zfamw1MkVSejFsRGo1bkdGdHhjNVBZVFdwU3VpcE5neGJOeWl6RmdQVkFsYlcxNEVTRGg3WHNYSGR1d1BpTjV4T2NqdWdER3ZtQ0RVbU40WTcyRXRaTEM5bFZteVlYNE5EYkM1M1BaR0lYTGlUeFlTeDhVMzRaWFFqZEZhcGc3RFJoZy1qZy1mTGViQQ"
+      "title": "Stocks drive record share of American wealth - Axios",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tREZqZEtISDliRTZVeFV4MkhkbW9ueER2Z25YRDRuNXBDaGVGLTlKMC1JUUVfWXFYT2h3YWtwemRuVU9NLVg0Qi03bEdoQlBfcVBmckN6anZtZVVTakstVlVZWWU0bm5YSmUwaQ?oc=5",
+      "source": "Axios",
+      "published_at": "Thu, 04 Jun 2026 09:30:43 GMT",
+      "summary": "Stocks drive record share of American wealth Axios",
+      "guid": "CBMibEFVX3lxTE4tREZqZEtISDliRTZVeFV4MkhkbW9ueER2Z25YRDRuNXBDaGVGLTlKMC1JUUVfWXFYT2h3YWtwemRuVU9NLVg0Qi03bEdoQlBfcVBmckN6anZtZVVTakstVlVZWWU0bm5YSmUwaQ"
     },
     {
       "title": "Last week's stock plunge was a 'healthy reset' that sets up a fresh rally, Morgan Stanley says - Business Insider",
@@ -63,6 +63,14 @@
       "guid": "CBMikgFBVV95cUxPM3lScVlLSzZldVhlX2NRM3ViUlhDU2NRNGs0c2Q0ZEFaQXhmeWVQbU1ZWF9lVFBEMjFyY2JieHhBS18wYkM1alkyUVBMSEVSLUlZTmsyZ1RMV1Q4WUUzQUk5MTU1OHhFQ3A4TGE4QnUxT2R2aEZUQUlidnpJUktwSXpvM3RVUktGRHFESi1lMVZvUQ"
     },
     {
+      "title": "Why are stocks down today? Some key stats - Bergen Record",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbU5WbFNuVko5Q2FnMHpFc2JVNG5NbHVRUUY0RmdGVTVkMlRsX2FHSmlfcEJod2hrcEQ4bmticmFkVGZQd0VVaVRkR2RnMzE3QXpkRnJodUd6RFlRTEc2VU9DYmhBQ1pIUnlOTWxZSzVxaWhHMTRYWXV4Q2dDekNWTVdLWDFpQmdEZjJuTy1RMWF0ZGRSb3U5SU82TDFMX3ZGRl9laE53clRnU3J1aTB0SUVfb0w?oc=5",
+      "source": "Bergen Record",
+      "published_at": "Fri, 05 Jun 2026 18:53:00 GMT",
+      "summary": "Why are stocks down today? Some key stats Bergen Record",
+      "guid": "CBMitAFBVV95cUxPbU5WbFNuVko5Q2FnMHpFc2JVNG5NbHVRUUY0RmdGVTVkMlRsX2FHSmlfcEJod2hrcEQ4bmticmFkVGZQd0VVaVRkR2RnMzE3QXpkRnJodUd6RFlRTEc2VU9DYmhBQ1pIUnlOTWxZSzVxaWhHMTRYWXV4Q2dDekNWTVdLWDFpQmdEZjJuTy1RMWF0ZGRSb3U5SU82TDFMX3ZGRl9laE53clRnU3J1aTB0SUVfb0w"
+    },
+    {
       "title": "The real 'rival' to the AI boom might be the Federal Reserve! - 富途牛牛",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRmNJamZzc01qbzYxYks0eXZzb0toNEFaVUVvajRnc0dSUDdjb1N3ekY5Skc1akVRVENPbGo2RWZfLVJJeGUyVnB6RmRUcXlCY2szZTZFUG02QTFLamJmSXAtRkl5ODFHcUFzWV9IZ0R4WWFtQnJHeFI2cE5UTFBTZ2psYW55LXd4U3hn?oc=5",
       "source": "富途牛牛",
@@ -77,14 +85,6 @@
       "published_at": "Mon, 08 Jun 2026 12:00:29 GMT",
       "summary": "US Pre-Market: Chip Stocks Rebound Leads Nasdaq Futures, Marvell Surges Nearly 9% Pre-Market to Be Added to S&P 500 TradingKey",
       "guid": "CBMi7AFBVV95cUxPOWFpbWNocFo3aHY1aE1ZMVEzMHBtTG1SRFdMTGJ3b2hQNDM1MlozeDlTUmZtZmFQNUpqZldRZFU1Y2pLMFFpVGI5OHJRZzZKeWswMmNVQVk5OTZLTDdKX2w4MFprUHZ4UXp6V29sUkVBajRNYkpqUGtRVmR2QTFsWkxJNVM0WXBPZVNYdzh3ek80S0dXZGhyYVFjVVoyVmo0TVpiRUQ2ZFNaa01XOFI5WlRKdzQxWmVVMGxVY0J6RmlSaGY3YUFURnZNbjhHU05zRVdjZ0E4N0Z1MXJJOTJrM1ZBN3pGaEtSM2QtMQ"
-    },
-    {
-      "title": "The Warsh-Trump Honeymoon Is Officially Over. No Matter What Happens Next, the Stock Market Will Probably Lose - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQOVViVWZRLVdvTmFOYTZzTmFVb1lJemY4OEk1Tzh6Ujd4NEFRQjRrS2haOWJUOWVjdDlvekV2dUlPMENYN1plVk9BRTVMeUJCb2k4Ymg3OXdXTzBob1l4UWZSNnRSUVNlWEk4ZGI3eHg1djVlbnl1QlFvS1lwSElBaHp1M1RNTnoyZGJGeWNlVGZ1bXdneHNsY1h4Q1luSmVaOElFdTRCc1RtbGJNaGRlcmE3VTZhSUtUcjZ4X1pMQV8xMTFNcUpBUWMxcWVpV09kSEU3c0hGa2E3a1VjLWdnb1lONnFpTW8?oc=5",
-      "source": "24/7 Wall St.",
-      "published_at": "Mon, 08 Jun 2026 15:48:04 GMT",
-      "summary": "The Warsh-Trump Honeymoon Is Officially Over. No Matter What Happens Next, the Stock Market Will Probably Lose 24/7 Wall St.",
-      "guid": "CBMi5wFBVV95cUxQOVViVWZRLVdvTmFOYTZzTmFVb1lJemY4OEk1Tzh6Ujd4NEFRQjRrS2haOWJUOWVjdDlvekV2dUlPMENYN1plVk9BRTVMeUJCb2k4Ymg3OXdXTzBob1l4UWZSNnRSUVNlWEk4ZGI3eHg1djVlbnl1QlFvS1lwSElBaHp1M1RNTnoyZGJGeWNlVGZ1bXdneHNsY1h4Q1luSmVaOElFdTRCc1RtbGJNaGRlcmE3VTZhSUtUcjZ4X1pMQV8xMTFNcUpBUWMxcWVpV09kSEU3c0hGa2E3a1VjLWdnb1lONnFpTW8"
     }
   ]
 }
