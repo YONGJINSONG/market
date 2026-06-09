@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T19:28:19Z",
+  "generated_at": "2026-06-09T21:17:03Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -31,20 +31,20 @@
       "guid": "CBMiowFBVV95cUxNTy1WQTRZTDV0OFNPZTlQcTRKX2dxRWhMN285OXRFME1DS2xQSzZ5eUY0eTRVMDdoMTV5eHphYmFKcXZqa0VTSmwwaUthX3otR05XU2kyWW0wdTlvNVd4YzhxUnN3T2lQalBWdmV1Tkp1MS1aWG1QU0lrM291NzRQX1h1b0k1UWNvejlIbmg5aTVMT05oX2p6dFVHcGM2UGNmcUo4"
     },
     {
-      "title": "Jim Cramer warns key pillars of the bull market are beginning to crumble - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOUlJWkl0ejZsRW83bmVSWnRPSmpqajZuNm9wVkhxSlByQ3VJc041UDQzeHA5Q1BpNC1hVkdjbEZzWG15TnZmWjZoMjcyX1NZYlZPQkR5SnNhS2FZelBsOEtMNHBoeTJHVkJQZHVseE1zaEwyU1h5eWFNMDVCcGt5VHpuenU3TW1pWWdCQTk4dF9Fa0xhaklHTk9Rc9IBoAFBVV95cUxPX2NJc3VmanR5RjI2MEpRcE9sQVViOFZDTXAxQktxTzJxSWtjZTc5QnZEY0EzRGlnOGl5MWk0Q1cyXzc5bEFYbWpGMzJRdW5YLU9GZnFadlNQX2JIb18wZ1JGaExJZmhJdWdTbzEtQndiNnNoWXpSQkk2YmpaZjh1dVRKOFlkTVI4TGZKZWdWYUY3VmZUb2l5OUk2SV85SFhp?oc=5",
-      "source": "CNBC",
-      "published_at": "Mon, 08 Jun 2026 22:18:39 GMT",
-      "summary": "Jim Cramer warns key pillars of the bull market are beginning to crumble CNBC",
-      "guid": "CBMimwFBVV95cUxNOUlJWkl0ejZsRW83bmVSWnRPSmpqajZuNm9wVkhxSlByQ3VJc041UDQzeHA5Q1BpNC1hVkdjbEZzWG15TnZmWjZoMjcyX1NZYlZPQkR5SnNhS2FZelBsOEtMNHBoeTJHVkJQZHVseE1zaEwyU1h5eWFNMDVCcGt5VHpuenU3TW1pWWdCQTk4dF9Fa0xhaklHTk9Rc9IBoAFBVV95cUxPX2NJc3VmanR5RjI2MEpRcE9sQVViOFZDTXAxQktxTzJxSWtjZTc5QnZEY0EzRGlnOGl5MWk0Q1cyXzc5bEFYbWpGMzJRdW5YLU9GZnFadlNQX2JIb18wZ1JGaExJZmhJdWdTbzEtQndiNnNoWXpSQkk2YmpaZjh1dVRKOFlkTVI4TGZKZWdWYUY3VmZUb2l5OUk2SV85SFhp"
-    },
-    {
       "title": "Nasdaq, S&P 500 suffer worst day of year as AI stocks tumble and Fed rate-hike odds rise - CNN",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1qZ1JvYUtaNTZFYjUyTEVzZzlJMzBUTmFGOHVCYzNrS2o3ZHYyR2RPOFp3c1oybEJTNS1tQXJmZGhENGtJR3V3YV90YnRmM0R3SnZMRHozLV82am42ZGo1dmY0djRSLWJ1TzhGZ0JSeGNpQQ?oc=5",
       "source": "CNN",
       "published_at": "Fri, 05 Jun 2026 17:08:55 GMT",
       "summary": "Nasdaq, S&P 500 suffer worst day of year as AI stocks tumble and Fed rate-hike odds rise CNN",
       "guid": "CBMickFVX3lxTE1qZ1JvYUtaNTZFYjUyTEVzZzlJMzBUTmFGOHVCYzNrS2o3ZHYyR2RPOFp3c1oybEJTNS1tQXJmZGhENGtJR3V3YV90YnRmM0R3SnZMRHozLV82am42ZGo1dmY0djRSLWJ1TzhGZ0JSeGNpQQ"
+    },
+    {
+      "title": "Jim Cramer warns key pillars of the bull market are beginning to crumble - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOUlJWkl0ejZsRW83bmVSWnRPSmpqajZuNm9wVkhxSlByQ3VJc041UDQzeHA5Q1BpNC1hVkdjbEZzWG15TnZmWjZoMjcyX1NZYlZPQkR5SnNhS2FZelBsOEtMNHBoeTJHVkJQZHVseE1zaEwyU1h5eWFNMDVCcGt5VHpuenU3TW1pWWdCQTk4dF9Fa0xhaklHTk9Rc9IBoAFBVV95cUxPX2NJc3VmanR5RjI2MEpRcE9sQVViOFZDTXAxQktxTzJxSWtjZTc5QnZEY0EzRGlnOGl5MWk0Q1cyXzc5bEFYbWpGMzJRdW5YLU9GZnFadlNQX2JIb18wZ1JGaExJZmhJdWdTbzEtQndiNnNoWXpSQkk2YmpaZjh1dVRKOFlkTVI4TGZKZWdWYUY3VmZUb2l5OUk2SV85SFhp?oc=5",
+      "source": "CNBC",
+      "published_at": "Mon, 08 Jun 2026 22:18:39 GMT",
+      "summary": "Jim Cramer warns key pillars of the bull market are beginning to crumble CNBC",
+      "guid": "CBMimwFBVV95cUxNOUlJWkl0ejZsRW83bmVSWnRPSmpqajZuNm9wVkhxSlByQ3VJc041UDQzeHA5Q1BpNC1hVkdjbEZzWG15TnZmWjZoMjcyX1NZYlZPQkR5SnNhS2FZelBsOEtMNHBoeTJHVkJQZHVseE1zaEwyU1h5eWFNMDVCcGt5VHpuenU3TW1pWWdCQTk4dF9Fa0xhaklHTk9Rc9IBoAFBVV95cUxPX2NJc3VmanR5RjI2MEpRcE9sQVViOFZDTXAxQktxTzJxSWtjZTc5QnZEY0EzRGlnOGl5MWk0Q1cyXzc5bEFYbWpGMzJRdW5YLU9GZnFadlNQX2JIb18wZ1JGaExJZmhJdWdTbzEtQndiNnNoWXpSQkk2YmpaZjh1dVRKOFlkTVI4TGZKZWdWYUY3VmZUb2l5OUk2SV85SFhp"
     },
     {
       "title": "What to Look Out for in Economic Data This Week (June 8-12) - Kiplinger",
