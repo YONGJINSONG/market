@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T23:53:12Z",
+  "generated_at": "2026-06-11T02:32:01Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -47,20 +47,20 @@
       "guid": "CBMi0gFBVV95cUxQOC1DUVM4RmRsdTZLMnQ0UG5NbTBCUGJuclFZNkRSaFc2R1lsd2xvTDFaR0QxQTQyeVp6U1V1N0ZfUTJnOUI2c3g2QkJiNjMxZzgwMzRndUtpSEFFYVQ3Z3hJbGNRMy0xbUVCUEIxS0g4dFR4ZzdYTWh6WF9zMnA5SjM3VFFsSDBHVGc4YnQxMXVNWkZPX09nLXZRQUZ1S0NXbmdSMGJkdXYtaXNFZVhvNW9oWF9tU1lxMWI2Sm9JY3pfODVfX0o5X0VYNWV1Nmt1Nnc"
     },
     {
-      "title": "U.S. emergency oil supplies are lower now than at any time since Reagan—and heading toward panic levels - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQV3Y4X1Y4UDQ2NjJ6V3ZEV05jeTFOZHc4OExPZ3N2NXFxWk1xRzM2YjBhTW5fb01zMDNnd0FCMnJpTGFpd1dfRnlvYVNaQ3lwaVRtOURRdVduZlpsLTFmUGVRc1FjRE10TEpyVnY0QkpsSXJ6dzZRUVNCRXVZNXpkc2xvRUFhdw?oc=5",
-      "source": "Fortune",
-      "published_at": "Wed, 10 Jun 2026 10:20:00 GMT",
-      "summary": "U.S. emergency oil supplies are lower now than at any time since Reagan—and heading toward panic levels Fortune",
-      "guid": "CBMihgFBVV95cUxQV3Y4X1Y4UDQ2NjJ6V3ZEV05jeTFOZHc4OExPZ3N2NXFxWk1xRzM2YjBhTW5fb01zMDNnd0FCMnJpTGFpd1dfRnlvYVNaQ3lwaVRtOURRdVduZlpsLTFmUGVRc1FjRE10TEpyVnY0QkpsSXJ6dzZRUVNCRXVZNXpkc2xvRUFhdw"
-    },
-    {
       "title": "Jim Cramer warns key pillars of the bull market are beginning to crumble - CNBC",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOUlJWkl0ejZsRW83bmVSWnRPSmpqajZuNm9wVkhxSlByQ3VJc041UDQzeHA5Q1BpNC1hVkdjbEZzWG15TnZmWjZoMjcyX1NZYlZPQkR5SnNhS2FZelBsOEtMNHBoeTJHVkJQZHVseE1zaEwyU1h5eWFNMDVCcGt5VHpuenU3TW1pWWdCQTk4dF9Fa0xhaklHTk9Rc9IBoAFBVV95cUxPX2NJc3VmanR5RjI2MEpRcE9sQVViOFZDTXAxQktxTzJxSWtjZTc5QnZEY0EzRGlnOGl5MWk0Q1cyXzc5bEFYbWpGMzJRdW5YLU9GZnFadlNQX2JIb18wZ1JGaExJZmhJdWdTbzEtQndiNnNoWXpSQkk2YmpaZjh1dVRKOFlkTVI4TGZKZWdWYUY3VmZUb2l5OUk2SV85SFhp?oc=5",
       "source": "CNBC",
       "published_at": "Mon, 08 Jun 2026 22:18:39 GMT",
       "summary": "Jim Cramer warns key pillars of the bull market are beginning to crumble CNBC",
       "guid": "CBMimwFBVV95cUxNOUlJWkl0ejZsRW83bmVSWnRPSmpqajZuNm9wVkhxSlByQ3VJc041UDQzeHA5Q1BpNC1hVkdjbEZzWG15TnZmWjZoMjcyX1NZYlZPQkR5SnNhS2FZelBsOEtMNHBoeTJHVkJQZHVseE1zaEwyU1h5eWFNMDVCcGt5VHpuenU3TW1pWWdCQTk4dF9Fa0xhaklHTk9Rc9IBoAFBVV95cUxPX2NJc3VmanR5RjI2MEpRcE9sQVViOFZDTXAxQktxTzJxSWtjZTc5QnZEY0EzRGlnOGl5MWk0Q1cyXzc5bEFYbWpGMzJRdW5YLU9GZnFadlNQX2JIb18wZ1JGaExJZmhJdWdTbzEtQndiNnNoWXpSQkk2YmpaZjh1dVRKOFlkTVI4TGZKZWdWYUY3VmZUb2l5OUk2SV85SFhp"
+    },
+    {
+      "title": "U.S. emergency oil supplies are lower now than at any time since Reagan—and heading toward panic levels - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQV3Y4X1Y4UDQ2NjJ6V3ZEV05jeTFOZHc4OExPZ3N2NXFxWk1xRzM2YjBhTW5fb01zMDNnd0FCMnJpTGFpd1dfRnlvYVNaQ3lwaVRtOURRdVduZlpsLTFmUGVRc1FjRE10TEpyVnY0QkpsSXJ6dzZRUVNCRXVZNXpkc2xvRUFhdw?oc=5",
+      "source": "Fortune",
+      "published_at": "Wed, 10 Jun 2026 10:20:00 GMT",
+      "summary": "U.S. emergency oil supplies are lower now than at any time since Reagan—and heading toward panic levels Fortune",
+      "guid": "CBMihgFBVV95cUxQV3Y4X1Y4UDQ2NjJ6V3ZEV05jeTFOZHc4OExPZ3N2NXFxWk1xRzM2YjBhTW5fb01zMDNnd0FCMnJpTGFpd1dfRnlvYVNaQ3lwaVRtOURRdVduZlpsLTFmUGVRc1FjRE10TEpyVnY0QkpsSXJ6dzZRUVNCRXVZNXpkc2xvRUFhdw"
     },
     {
       "title": "The Federal Reserve must soon give Donald Trump bad news - The Economist",
@@ -79,12 +79,12 @@
       "guid": "CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0"
     },
     {
-      "title": "Market Reactions to Tariff Announcements - Federal Reserve Bank of San Francisco",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM1dfLWVxeDJGbVNDYU9vWU8xOW5Fbk9rWk5KREtjbWFDcWFfdzAyVE5WMDhINUpWbWVDVWZmRHBSSlN3blk5alBHd3B1RE5JSmVMRTd3SXhNQmZWdDllUDFCU1lwTk9zcmpBSmhmazM5OEhIWEVHMlhHTDY4M1luNXJ5TExQbi1RMjBLbmpZd3BqLU1zanlvM0hvVWhVcWtiSWZBOV9ENTJmTWUtQzIxdmprYlpGNnJzQk11T1ZfWQ?oc=5",
-      "source": "Federal Reserve Bank of San Francisco",
-      "published_at": "Mon, 06 Oct 2025 07:00:00 GMT",
-      "summary": "Market Reactions to Tariff Announcements Federal Reserve Bank of San Francisco",
-      "guid": "CBMivwFBVV95cUxOM1dfLWVxeDJGbVNDYU9vWU8xOW5Fbk9rWk5KREtjbWFDcWFfdzAyVE5WMDhINUpWbWVDVWZmRHBSSlN3blk5alBHd3B1RE5JSmVMRTd3SXhNQmZWdDllUDFCU1lwTk9zcmpBSmhmazM5OEhIWEVHMlhHTDY4M1luNXJ5TExQbi1RMjBLbmpZd3BqLU1zanlvM0hvVWhVcWtiSWZBOV9ENTJmTWUtQzIxdmprYlpGNnJzQk11T1ZfWQ"
+      "title": "Kevin Warsh's Fed \"Regime Change\" Could Sink the Stock Market, and the Blame Lies With President Trump - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSWYyc1BaYzY0N3RubWdSbXZGcEQ1R1Y5S1c3bG85THRFSHdHWkVmVl9lZmtlZkR1MkdkeUpjdHFuV010aU5yczJEekNMa295X0d5cmd1ZldpVjZ1UW5TSFNWRVE3ZUdWdzVjcS1SbHJLZXNtcTJSOFpZS2lob1ktRVo0bU5LOVBLUnFwZkZGdFhKbjhud0lVRDR1TQ?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Wed, 10 Jun 2026 08:32:00 GMT",
+      "summary": "Kevin Warsh's Fed \"Regime Change\" Could Sink the Stock Market, and the Blame Lies With President Trump Yahoo Finance",
+      "guid": "CBMimwFBVV95cUxPSWYyc1BaYzY0N3RubWdSbXZGcEQ1R1Y5S1c3bG85THRFSHdHWkVmVl9lZmtlZkR1MkdkeUpjdHFuV010aU5yczJEekNMa295X0d5cmd1ZldpVjZ1UW5TSFNWRVE3ZUdWdzVjcS1SbHJLZXNtcTJSOFpZS2lob1ktRVo0bU5LOVBLUnFwZkZGdFhKbjhud0lVRDR1TQ"
     }
   ]
 }
