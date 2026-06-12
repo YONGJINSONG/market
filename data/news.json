@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T21:59:23Z",
+  "generated_at": "2026-06-12T23:16:38Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -26,7 +26,7 @@
       "title": "SpaceX's arrival heralds a wave of new stock - Axios",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9WeEwwOEFWWmFuR1dNbzdsdXYzeE9zUVVOckYzNWliWTBvQVBQT250OG1tci1mT3ppbHJVSmN4ZExDdy1XRFoyRmY0MEdqUGdLaEdPTDZkUV9TemRRZHczb3htZm9ESjZKY0VydnpHS2FrRWdX?oc=5",
       "source": "Axios",
-      "published_at": "Fri, 12 Jun 2026 11:34:33 GMT",
+      "published_at": "Fri, 12 Jun 2026 11:00:31 GMT",
       "summary": "SpaceX's arrival heralds a wave of new stock Axios",
       "guid": "CBMidEFVX3lxTE9WeEwwOEFWWmFuR1dNbzdsdXYzeE9zUVVOckYzNWliWTBvQVBQT250OG1tci1mT3ppbHJVSmN4ZExDdy1XRFoyRmY0MEdqUGdLaEdPTDZkUV9TemRRZHczb3htZm9ESjZKY0VydnpHS2FrRWdX"
     },
@@ -39,20 +39,20 @@
       "guid": "CBMifEFVX3lxTE9NaEtyaFozSlhWVzRaMzRUaUFWM3FDMFlERklvUFpHMUNOVmpoNnBOYW1QRFltNng0dG13TVZtckM5SUxEMmpJQXdHS0pxNTBURGNuakhGc1RpQU1YMlZEU0FyTmU4b05RdU9FRmF2YllGM3lTQ1hDeV9jWXI"
     },
     {
-      "title": "Federal Reserve Policy Risks AI-Fueled Stock Bubble, Wall Street Warns - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYkIyNWowV1NVREh1RFA5QVlVS2ljTFdJYW11QjYxVUdwTEdRajR3bTVlUTRJZG9aSnBNdTZBalI5djJjNWVRU0p4bHVNaUJidzdCSG0temxsN0ttNi1oZm5zSkdiMWxSQTN3LV9YNGkzRDBfYVlNaFk1c1hPbnF2ekNmTUNMcldyakxHUmxDa1JZb3NqSExYLWxFMUJLYzVWSmgyTGN4eGZScEN3dVFCejlhRQ?oc=5",
-      "source": "24/7 Wall St.",
-      "published_at": "Tue, 09 Jun 2026 13:30:57 GMT",
-      "summary": "Federal Reserve Policy Risks AI-Fueled Stock Bubble, Wall Street Warns 24/7 Wall St.",
-      "guid": "CBMiswFBVV95cUxPYkIyNWowV1NVREh1RFA5QVlVS2ljTFdJYW11QjYxVUdwTEdRajR3bTVlUTRJZG9aSnBNdTZBalI5djJjNWVRU0p4bHVNaUJidzdCSG0temxsN0ttNi1oZm5zSkdiMWxSQTN3LV9YNGkzRDBfYVlNaFk1c1hPbnF2ekNmTUNMcldyakxHUmxDa1JZb3NqSExYLWxFMUJLYzVWSmgyTGN4eGZScEN3dVFCejlhRQ"
-    },
-    {
       "title": "Markets Brace for an Inflation Surprise - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbVdxTUUzSmZLcW9qN1FzUlNOaDJ4YTk3cXp3REpfUnI4dHdYN0NkMklTRjEwMV82SnNMdU5rWVF4bm1FdkMwUDZ5S1hpLVZGQ016STZfZ2pOdkxrZUI0LXdzby1jMC0yWjJlV2Njd1FNcGt4UTJUdGk4ejNEdDFNU1o1ZDJEWDg?oc=5",
       "source": "The New York Times",
       "published_at": "Wed, 10 Jun 2026 11:27:09 GMT",
       "summary": "Markets Brace for an Inflation Surprise The New York Times",
       "guid": "CBMihwFBVV95cUxQbVdxTUUzSmZLcW9qN1FzUlNOaDJ4YTk3cXp3REpfUnI4dHdYN0NkMklTRjEwMV82SnNMdU5rWVF4bm1FdkMwUDZ5S1hpLVZGQ016STZfZ2pOdkxrZUI0LXdzby1jMC0yWjJlV2Njd1FNcGt4UTJUdGk4ejNEdDFNU1o1ZDJEWDg"
+    },
+    {
+      "title": "Federal Reserve Policy Risks AI-Fueled Stock Bubble, Wall Street Warns - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYkIyNWowV1NVREh1RFA5QVlVS2ljTFdJYW11QjYxVUdwTEdRajR3bTVlUTRJZG9aSnBNdTZBalI5djJjNWVRU0p4bHVNaUJidzdCSG0temxsN0ttNi1oZm5zSkdiMWxSQTN3LV9YNGkzRDBfYVlNaFk1c1hPbnF2ekNmTUNMcldyakxHUmxDa1JZb3NqSExYLWxFMUJLYzVWSmgyTGN4eGZScEN3dVFCejlhRQ?oc=5",
+      "source": "24/7 Wall St.",
+      "published_at": "Tue, 09 Jun 2026 13:30:57 GMT",
+      "summary": "Federal Reserve Policy Risks AI-Fueled Stock Bubble, Wall Street Warns 24/7 Wall St.",
+      "guid": "CBMiswFBVV95cUxPYkIyNWowV1NVREh1RFA5QVlVS2ljTFdJYW11QjYxVUdwTEdRajR3bTVlUTRJZG9aSnBNdTZBalI5djJjNWVRU0p4bHVNaUJidzdCSG0temxsN0ttNi1oZm5zSkdiMWxSQTN3LV9YNGkzRDBfYVlNaFk1c1hPbnF2ekNmTUNMcldyakxHUmxDa1JZb3NqSExYLWxFMUJLYzVWSmgyTGN4eGZScEN3dVFCejlhRQ"
     },
     {
       "title": "The Federal Reserve must soon give Donald Trump bad news - The Economist",
