@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T17:57:17Z",
+  "generated_at": "2026-06-12T20:01:53Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -26,17 +26,9 @@
       "title": "SpaceX's arrival heralds a wave of new stock - Axios",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9WeEwwOEFWWmFuR1dNbzdsdXYzeE9zUVVOckYzNWliWTBvQVBQT250OG1tci1mT3ppbHJVSmN4ZExDdy1XRFoyRmY0MEdqUGdLaEdPTDZkUV9TemRRZHczb3htZm9ESjZKY0VydnpHS2FrRWdX?oc=5",
       "source": "Axios",
-      "published_at": "Fri, 12 Jun 2026 11:33:55 GMT",
+      "published_at": "Fri, 12 Jun 2026 12:51:15 GMT",
       "summary": "SpaceX's arrival heralds a wave of new stock Axios",
       "guid": "CBMidEFVX3lxTE9WeEwwOEFWWmFuR1dNbzdsdXYzeE9zUVVOckYzNWliWTBvQVBQT250OG1tci1mT3ppbHJVSmN4ZExDdy1XRFoyRmY0MEdqUGdLaEdPTDZkUV9TemRRZHczb3htZm9ESjZKY0VydnpHS2FrRWdX"
-    },
-    {
-      "title": "What to Look Out for in Economic Data This Week (June 15-19) - Kiplinger",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ?oc=5",
-      "source": "Kiplinger",
-      "published_at": "Wed, 10 Jun 2026 21:25:13 GMT",
-      "summary": "What to Look Out for in Economic Data This Week (June 15-19) Kiplinger",
-      "guid": "CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ"
     },
     {
       "title": "Federal Reserve Policy Risks AI-Fueled Stock Bubble, Wall Street Warns - 24/7 Wall St.",
@@ -45,6 +37,14 @@
       "published_at": "Tue, 09 Jun 2026 13:30:57 GMT",
       "summary": "Federal Reserve Policy Risks AI-Fueled Stock Bubble, Wall Street Warns 24/7 Wall St.",
       "guid": "CBMiswFBVV95cUxPYkIyNWowV1NVREh1RFA5QVlVS2ljTFdJYW11QjYxVUdwTEdRajR3bTVlUTRJZG9aSnBNdTZBalI5djJjNWVRU0p4bHVNaUJidzdCSG0temxsN0ttNi1oZm5zSkdiMWxSQTN3LV9YNGkzRDBfYVlNaFk1c1hPbnF2ekNmTUNMcldyakxHUmxDa1JZb3NqSExYLWxFMUJLYzVWSmgyTGN4eGZScEN3dVFCejlhRQ"
+    },
+    {
+      "title": "Markets Brace for an Inflation Surprise - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbVdxTUUzSmZLcW9qN1FzUlNOaDJ4YTk3cXp3REpfUnI4dHdYN0NkMklTRjEwMV82SnNMdU5rWVF4bm1FdkMwUDZ5S1hpLVZGQ016STZfZ2pOdkxrZUI0LXdzby1jMC0yWjJlV2Njd1FNcGt4UTJUdGk4ejNEdDFNU1o1ZDJEWDg?oc=5",
+      "source": "The New York Times",
+      "published_at": "Wed, 10 Jun 2026 11:27:09 GMT",
+      "summary": "Markets Brace for an Inflation Surprise The New York Times",
+      "guid": "CBMihwFBVV95cUxQbVdxTUUzSmZLcW9qN1FzUlNOaDJ4YTk3cXp3REpfUnI4dHdYN0NkMklTRjEwMV82SnNMdU5rWVF4bm1FdkMwUDZ5S1hpLVZGQ016STZfZ2pOdkxrZUI0LXdzby1jMC0yWjJlV2Njd1FNcGt4UTJUdGk4ejNEdDFNU1o1ZDJEWDg"
     },
     {
       "title": "The Federal Reserve must soon give Donald Trump bad news - The Economist",
@@ -63,20 +63,20 @@
       "guid": "CBMipwFBVV95cUxOWGVnS2FfQlNLaUxCWkx1VzloT2dOOHFrVThlblpZQllQS1hBb2xJY01lcWFpNjRDcHRmZDJZeWQyckxfYWw1d2lETGlpY2VxQXV5ZTFpWlVSSE91eHBSNTFWVWlNZW1JcGNrN3hwNklLYkVmTktKdFRyc1hrOHh0NFR0U2Q2T0hLQWlveVp4S2hEazBMcW9jZ3FiR2k5V0VBLXNHOFJna9IBrAFBVV95cUxPTDgyS2pVWXhFVEZPcXAtaThuVnJ1QVNqcW11cFpycWJ5Q01neFp6WkZrTTMzR3FCNGp4dUtBZ3gxeVhXVjhONmpIVFVXcHlKS2ZMeWlpRWNITzFMc0t4aDhTTXJaMGd4anJidjA3aDVSYjRKNTBDcmstbTByQzd1RkFrTmw4dEFSZWRobVJIZnpXM3ZXeWNtMGlCZUN4bHNIbHJtMWd3RTBtbDV2"
     },
     {
-      "title": "U.S. Stock Market Today – Thursday, June 11, 2026 - stl.news",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBBSzVTVEtYVHRJN0V3NEFSS1BROE5jbVBuV19yRkdGeEpmaXVoWW9zQ3VCOWVjS2ZQcENYZ0ZBTFhkNEEtOTk3c2NKejlZQi1NZ1VfYkhyVGVQY3p4Z0VQREFfcDFyLVZjRnFPVk1MRVZ3ZnBC?oc=5",
-      "source": "stl.news",
-      "published_at": "Fri, 12 Jun 2026 00:41:39 GMT",
-      "summary": "U.S. Stock Market Today – Thursday, June 11, 2026 stl.news",
-      "guid": "CBMidEFVX3lxTFBBSzVTVEtYVHRJN0V3NEFSS1BROE5jbVBuV19yRkdGeEpmaXVoWW9zQ3VCOWVjS2ZQcENYZ0ZBTFhkNEEtOTk3c2NKejlZQi1NZ1VfYkhyVGVQY3p4Z0VQREFfcDFyLVZjRnFPVk1MRVZ3ZnBC"
-    },
-    {
       "title": "Will the Stock Market Crash if the Federal Reserve Raises Interest Rates? Soaring Bond Yields Portend Trouble. - AOL.com",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVnNpS3BFaDhRUXR4OEcyaFNKQndnUm5UNzQ1WGhyVzdvQlp6dHVkQzdFTjhRakZHLWlkcG9icENEY2pUdXlTT3BwRVpuZW5tTU8tVE5YRGktTkJYQTNCUndDWENseGk0Ui1jRW9ra2RTMVJvcm5FRXVxY244Wml1SmJlaw?oc=5",
       "source": "AOL.com",
       "published_at": "Tue, 09 Jun 2026 08:56:24 GMT",
       "summary": "Will the Stock Market Crash if the Federal Reserve Raises Interest Rates? Soaring Bond Yields Portend Trouble. AOL.com",
       "guid": "CBMigwFBVV95cUxOVnNpS3BFaDhRUXR4OEcyaFNKQndnUm5UNzQ1WGhyVzdvQlp6dHVkQzdFTjhRakZHLWlkcG9icENEY2pUdXlTT3BwRVpuZW5tTU8tVE5YRGktTkJYQTNCUndDWENseGk0Ui1jRW9ra2RTMVJvcm5FRXVxY244Wml1SmJlaw"
+    },
+    {
+      "title": "U.S. Stock Market Today – Thursday, June 11, 2026 - stl.news",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBBSzVTVEtYVHRJN0V3NEFSS1BROE5jbVBuV19yRkdGeEpmaXVoWW9zQ3VCOWVjS2ZQcENYZ0ZBTFhkNEEtOTk3c2NKejlZQi1NZ1VfYkhyVGVQY3p4Z0VQREFfcDFyLVZjRnFPVk1MRVZ3ZnBC?oc=5",
+      "source": "stl.news",
+      "published_at": "Fri, 12 Jun 2026 00:41:39 GMT",
+      "summary": "U.S. Stock Market Today – Thursday, June 11, 2026 stl.news",
+      "guid": "CBMidEFVX3lxTFBBSzVTVEtYVHRJN0V3NEFSS1BROE5jbVBuV19yRkdGeEpmaXVoWW9zQ3VCOWVjS2ZQcENYZ0ZBTFhkNEEtOTk3c2NKejlZQi1NZ1VfYkhyVGVQY3p4Z0VQREFfcDFyLVZjRnFPVk1MRVZ3ZnBC"
     },
     {
       "title": "The Stock Market Is in La La Land - American Enterprise Institute - AEI",
