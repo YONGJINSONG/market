@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-06-13T19:13:39Z",
+  "generated_at": "2026-06-13T20:40:02Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "Tracker: The Federal Reserve’s Balance Sheet Assets - The American Action Forum",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0?oc=5",
+      "source": "The American Action Forum",
+      "published_at": "Sat, 13 Jun 2026 09:55:58 GMT",
+      "summary": "Tracker: The Federal Reserve’s Balance Sheet Assets The American Action Forum",
+      "guid": "CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0"
+    },
     {
       "title": "Will the Stock Market Crash if the Federal Reserve Raises Interest Rates? Soaring Bond Yields Portend Trouble. - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZnJzS2VRMk9XWWhmalBsWHVjX2NKQU0ydHE5X19kUGt3ZThBNWRZZTlRVk1LUUE0Q1IxSHl1RmFiWFFoRVdFeE5VMkE4MDVGMkNvaE9lZnlLdGpwMXVId0pJR0NIUVIyUm9fN0FvRFdHeHdTeWcwY3NsLVZEb1ZIczUxNHltUjd4RWpleVprN3d6cDhIaVBYUE51QXVvNW8?oc=5",
@@ -31,12 +39,20 @@
       "guid": "CBMimAFBVV95cUxOOVM3M3F0YlBEalJlQWV0SnEtdnBpd1BxZjhVak5HRXBlMXhHRllGMUVFYW1fZ1JtSmFYMm1zMXVzOGFxeWV5Z1cxNnVlRUdQTkYwUUd1b0ZBRmN0bkJBZWRoQl9EVFRpa3lyNXFmNFRpNDNxYUprYUlJbVRYdlFqRjBTUTVudGh6YXJ3Wnc4Ui1FS0NST095cQ"
     },
     {
-      "title": "Stocks drive record share of American wealth - Axios",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tREZqZEtISDliRTZVeFV4MkhkbW9ueER2Z25YRDRuNXBDaGVGLTlKMC1JUUVfWXFYT2h3YWtwemRuVU9NLVg0Qi03bEdoQlBfcVBmckN6anZtZVVTakstVlVZWWU0bm5YSmUwaQ?oc=5",
-      "source": "Axios",
-      "published_at": "Thu, 04 Jun 2026 09:31:38 GMT",
-      "summary": "Stocks drive record share of American wealth Axios",
-      "guid": "CBMibEFVX3lxTE4tREZqZEtISDliRTZVeFV4MkhkbW9ueER2Z25YRDRuNXBDaGVGLTlKMC1JUUVfWXFYT2h3YWtwemRuVU9NLVg0Qi03bEdoQlBfcVBmckN6anZtZVVTakstVlVZWWU0bm5YSmUwaQ"
+      "title": "An alchemy of assets: Understanding the Federal Reserve’s balance sheet - Britannica",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE92Y05QTFlqQ0tQTlptdVpHSTdfY3d2Rm1TVU1jXzc4OFBqMnd0VHZ2THN1OHNHM1pXNUZfWWdBXzYtZUZqck9OQmhONGxqSFRKczlsMXBUNkFhbFVTUHZwU0I4T29HVVBfN2Zlbi12R1lGX0NCV1Q0RTQ4Skg?oc=5",
+      "source": "Britannica",
+      "published_at": "Thu, 11 Jun 2026 07:00:00 GMT",
+      "summary": "An alchemy of assets: Understanding the Federal Reserve’s balance sheet Britannica",
+      "guid": "CBMifEFVX3lxTE92Y05QTFlqQ0tQTlptdVpHSTdfY3d2Rm1TVU1jXzc4OFBqMnd0VHZ2THN1OHNHM1pXNUZfWWdBXzYtZUZqck9OQmhONGxqSFRKczlsMXBUNkFhbFVTUHZwU0I4T29HVVBfN2Zlbi12R1lGX0NCV1Q0RTQ4Skg"
+    },
+    {
+      "title": "Stock Market Under the Trump Administration: What is Driving Markets in 2026? - U.S. Bank",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcUowVHR1VXAzd0Zfamw1MkVSejFsRGo1bkdGdHhjNVBZVFdwU3VpcE5neGJOeWl6RmdQVkFsYlcxNEVTRGg3WHNYSGR1d1BpTjV4T2NqdWdER3ZtQ0RVbU40WTcyRXRaTEM5bFZteVlYNE5EYkM1M1BaR0lYTGlUeFlTeDhVMzRaWFFqZEZhcGc3RFJoZy1qZy1mTGViQQ?oc=5",
+      "source": "U.S. Bank",
+      "published_at": "Thu, 04 Jun 2026 07:00:00 GMT",
+      "summary": "Stock Market Under the Trump Administration: What is Driving Markets in 2026? U.S. Bank",
+      "guid": "CBMingFBVV95cUxPcUowVHR1VXAzd0Zfamw1MkVSejFsRGo1bkdGdHhjNVBZVFdwU3VpcE5neGJOeWl6RmdQVkFsYlcxNEVTRGg3WHNYSGR1d1BpTjV4T2NqdWdER3ZtQ0RVbU40WTcyRXRaTEM5bFZteVlYNE5EYkM1M1BaR0lYTGlUeFlTeDhVMzRaWFFqZEZhcGc3RFJoZy1qZy1mTGViQQ"
     },
     {
       "title": "4 reasons investors should buckle up for a stretch of big stock-market swings - Business Insider",
@@ -55,22 +71,6 @@
       "guid": "CBMihwFBVV95cUxQbVdxTUUzSmZLcW9qN1FzUlNOaDJ4YTk3cXp3REpfUnI4dHdYN0NkMklTRjEwMV82SnNMdU5rWVF4bm1FdkMwUDZ5S1hpLVZGQ016STZfZ2pOdkxrZUI0LXdzby1jMC0yWjJlV2Njd1FNcGt4UTJUdGk4ejNEdDFNU1o1ZDJEWDg"
     },
     {
-      "title": "Federal Reserve Policy Risks AI-Fueled Stock Bubble, Wall Street Warns - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYkIyNWowV1NVREh1RFA5QVlVS2ljTFdJYW11QjYxVUdwTEdRajR3bTVlUTRJZG9aSnBNdTZBalI5djJjNWVRU0p4bHVNaUJidzdCSG0temxsN0ttNi1oZm5zSkdiMWxSQTN3LV9YNGkzRDBfYVlNaFk1c1hPbnF2ekNmTUNMcldyakxHUmxDa1JZb3NqSExYLWxFMUJLYzVWSmgyTGN4eGZScEN3dVFCejlhRQ?oc=5",
-      "source": "24/7 Wall St.",
-      "published_at": "Tue, 09 Jun 2026 13:30:57 GMT",
-      "summary": "Federal Reserve Policy Risks AI-Fueled Stock Bubble, Wall Street Warns 24/7 Wall St.",
-      "guid": "CBMiswFBVV95cUxPYkIyNWowV1NVREh1RFA5QVlVS2ljTFdJYW11QjYxVUdwTEdRajR3bTVlUTRJZG9aSnBNdTZBalI5djJjNWVRU0p4bHVNaUJidzdCSG0temxsN0ttNi1oZm5zSkdiMWxSQTN3LV9YNGkzRDBfYVlNaFk1c1hPbnF2ekNmTUNMcldyakxHUmxDa1JZb3NqSExYLWxFMUJLYzVWSmgyTGN4eGZScEN3dVFCejlhRQ"
-    },
-    {
-      "title": "The Federal Reserve must soon give Donald Trump bad news - The Economist",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTy1WQTRZTDV0OFNPZTlQcTRKX2dxRWhMN285OXRFME1DS2xQSzZ5eUY0eTRVMDdoMTV5eHphYmFKcXZqa0VTSmwwaUthX3otR05XU2kyWW0wdTlvNVd4YzhxUnN3T2lQalBWdmV1Tkp1MS1aWG1QU0lrM291NzRQX1h1b0k1UWNvejlIbmg5aTVMT05oX2p6dFVHcGM2UGNmcUo4?oc=5",
-      "source": "The Economist",
-      "published_at": "Tue, 09 Jun 2026 16:53:23 GMT",
-      "summary": "The Federal Reserve must soon give Donald Trump bad news The Economist",
-      "guid": "CBMiowFBVV95cUxNTy1WQTRZTDV0OFNPZTlQcTRKX2dxRWhMN285OXRFME1DS2xQSzZ5eUY0eTRVMDdoMTV5eHphYmFKcXZqa0VTSmwwaUthX3otR05XU2kyWW0wdTlvNVd4YzhxUnN3T2lQalBWdmV1Tkp1MS1aWG1QU0lrM291NzRQX1h1b0k1UWNvejlIbmg5aTVMT05oX2p6dFVHcGM2UGNmcUo4"
-    },
-    {
       "title": "Nasdaq, S&P 500 suffer worst day of year as AI stocks tumble and Fed rate-hike odds rise - CNN",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1qZ1JvYUtaNTZFYjUyTEVzZzlJMzBUTmFGOHVCYzNrS2o3ZHYyR2RPOFp3c1oybEJTNS1tQXJmZGhENGtJR3V3YV90YnRmM0R3SnZMRHozLV82am42ZGo1dmY0djRSLWJ1TzhGZ0JSeGNpQQ?oc=5",
       "source": "CNN",
@@ -79,12 +79,12 @@
       "guid": "CBMickFVX3lxTE1qZ1JvYUtaNTZFYjUyTEVzZzlJMzBUTmFGOHVCYzNrS2o3ZHYyR2RPOFp3c1oybEJTNS1tQXJmZGhENGtJR3V3YV90YnRmM0R3SnZMRHozLV82am42ZGo1dmY0djRSLWJ1TzhGZ0JSeGNpQQ"
     },
     {
-      "title": "Will the Stock Market Crash if the Federal Reserve Raises Interest Rates? Soaring Bond Yields Portend Trouble. - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVnNpS3BFaDhRUXR4OEcyaFNKQndnUm5UNzQ1WGhyVzdvQlp6dHVkQzdFTjhRakZHLWlkcG9icENEY2pUdXlTT3BwRVpuZW5tTU8tVE5YRGktTkJYQTNCUndDWENseGk0Ui1jRW9ra2RTMVJvcm5FRXVxY244Wml1SmJlaw?oc=5",
-      "source": "AOL.com",
-      "published_at": "Tue, 09 Jun 2026 08:56:24 GMT",
-      "summary": "Will the Stock Market Crash if the Federal Reserve Raises Interest Rates? Soaring Bond Yields Portend Trouble. AOL.com",
-      "guid": "CBMigwFBVV95cUxOVnNpS3BFaDhRUXR4OEcyaFNKQndnUm5UNzQ1WGhyVzdvQlp6dHVkQzdFTjhRakZHLWlkcG9icENEY2pUdXlTT3BwRVpuZW5tTU8tVE5YRGktTkJYQTNCUndDWENseGk0Ui1jRW9ra2RTMVJvcm5FRXVxY244Wml1SmJlaw"
+      "title": "The Federal Reserve must soon give Donald Trump bad news - The Economist",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTy1WQTRZTDV0OFNPZTlQcTRKX2dxRWhMN285OXRFME1DS2xQSzZ5eUY0eTRVMDdoMTV5eHphYmFKcXZqa0VTSmwwaUthX3otR05XU2kyWW0wdTlvNVd4YzhxUnN3T2lQalBWdmV1Tkp1MS1aWG1QU0lrM291NzRQX1h1b0k1UWNvejlIbmg5aTVMT05oX2p6dFVHcGM2UGNmcUo4?oc=5",
+      "source": "The Economist",
+      "published_at": "Tue, 09 Jun 2026 16:53:23 GMT",
+      "summary": "The Federal Reserve must soon give Donald Trump bad news The Economist",
+      "guid": "CBMiowFBVV95cUxNTy1WQTRZTDV0OFNPZTlQcTRKX2dxRWhMN285OXRFME1DS2xQSzZ5eUY0eTRVMDdoMTV5eHphYmFKcXZqa0VTSmwwaUthX3otR05XU2kyWW0wdTlvNVd4YzhxUnN3T2lQalBWdmV1Tkp1MS1aWG1QU0lrM291NzRQX1h1b0k1UWNvejlIbmg5aTVMT05oX2p6dFVHcGM2UGNmcUo4"
     }
   ]
 }
