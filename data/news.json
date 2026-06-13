@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T17:56:46Z",
+  "generated_at": "2026-06-13T19:13:39Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -63,14 +63,6 @@
       "guid": "CBMiswFBVV95cUxPYkIyNWowV1NVREh1RFA5QVlVS2ljTFdJYW11QjYxVUdwTEdRajR3bTVlUTRJZG9aSnBNdTZBalI5djJjNWVRU0p4bHVNaUJidzdCSG0temxsN0ttNi1oZm5zSkdiMWxSQTN3LV9YNGkzRDBfYVlNaFk1c1hPbnF2ekNmTUNMcldyakxHUmxDa1JZb3NqSExYLWxFMUJLYzVWSmgyTGN4eGZScEN3dVFCejlhRQ"
     },
     {
-      "title": "Stocks sink as worries about an interest rate hike rattle tech investors - NBC News",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBWSkFNXzRXTVY3dlhsQzJ6WFB6ZWFIVmcxZHdrR0dNOUpnd1FFZVlDSnJxUmZNZlBoQWVtdWI4NHpzdDJOZVhhcUtvXzZubmJvV1djRVhUMHhLaERvYkxaSnlKZ0c2RTNsQlBGR09LcGh1VzdsVUlr?oc=5",
-      "source": "NBC News",
-      "published_at": "Fri, 05 Jun 2026 07:00:00 GMT",
-      "summary": "Stocks sink as worries about an interest rate hike rattle tech investors NBC News",
-      "guid": "CBMid0FVX3lxTFBWSkFNXzRXTVY3dlhsQzJ6WFB6ZWFIVmcxZHdrR0dNOUpnd1FFZVlDSnJxUmZNZlBoQWVtdWI4NHpzdDJOZVhhcUtvXzZubmJvV1djRVhUMHhLaERvYkxaSnlKZ0c2RTNsQlBGR09LcGh1VzdsVUlr"
-    },
-    {
       "title": "The Federal Reserve must soon give Donald Trump bad news - The Economist",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTy1WQTRZTDV0OFNPZTlQcTRKX2dxRWhMN285OXRFME1DS2xQSzZ5eUY0eTRVMDdoMTV5eHphYmFKcXZqa0VTSmwwaUthX3otR05XU2kyWW0wdTlvNVd4YzhxUnN3T2lQalBWdmV1Tkp1MS1aWG1QU0lrM291NzRQX1h1b0k1UWNvejlIbmg5aTVMT05oX2p6dFVHcGM2UGNmcUo4?oc=5",
       "source": "The Economist",
@@ -82,9 +74,17 @@
       "title": "Nasdaq, S&P 500 suffer worst day of year as AI stocks tumble and Fed rate-hike odds rise - CNN",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1qZ1JvYUtaNTZFYjUyTEVzZzlJMzBUTmFGOHVCYzNrS2o3ZHYyR2RPOFp3c1oybEJTNS1tQXJmZGhENGtJR3V3YV90YnRmM0R3SnZMRHozLV82am42ZGo1dmY0djRSLWJ1TzhGZ0JSeGNpQQ?oc=5",
       "source": "CNN",
-      "published_at": "Fri, 05 Jun 2026 17:08:55 GMT",
+      "published_at": "Fri, 05 Jun 2026 07:00:00 GMT",
       "summary": "Nasdaq, S&P 500 suffer worst day of year as AI stocks tumble and Fed rate-hike odds rise CNN",
       "guid": "CBMickFVX3lxTE1qZ1JvYUtaNTZFYjUyTEVzZzlJMzBUTmFGOHVCYzNrS2o3ZHYyR2RPOFp3c1oybEJTNS1tQXJmZGhENGtJR3V3YV90YnRmM0R3SnZMRHozLV82am42ZGo1dmY0djRSLWJ1TzhGZ0JSeGNpQQ"
+    },
+    {
+      "title": "Will the Stock Market Crash if the Federal Reserve Raises Interest Rates? Soaring Bond Yields Portend Trouble. - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVnNpS3BFaDhRUXR4OEcyaFNKQndnUm5UNzQ1WGhyVzdvQlp6dHVkQzdFTjhRakZHLWlkcG9icENEY2pUdXlTT3BwRVpuZW5tTU8tVE5YRGktTkJYQTNCUndDWENseGk0Ui1jRW9ra2RTMVJvcm5FRXVxY244Wml1SmJlaw?oc=5",
+      "source": "AOL.com",
+      "published_at": "Tue, 09 Jun 2026 08:56:24 GMT",
+      "summary": "Will the Stock Market Crash if the Federal Reserve Raises Interest Rates? Soaring Bond Yields Portend Trouble. AOL.com",
+      "guid": "CBMigwFBVV95cUxOVnNpS3BFaDhRUXR4OEcyaFNKQndnUm5UNzQ1WGhyVzdvQlp6dHVkQzdFTjhRakZHLWlkcG9icENEY2pUdXlTT3BwRVpuZW5tTU8tVE5YRGktTkJYQTNCUndDWENseGk0Ui1jRW9ra2RTMVJvcm5FRXVxY244Wml1SmJlaw"
     }
   ]
 }
