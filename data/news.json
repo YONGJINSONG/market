@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-06-15T23:59:56Z",
+  "generated_at": "2026-06-16T04:22:43Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "Morgan Stanley’s Wilson Sees US Stock Market Rally Broadening - AdvisorHub",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLUV0ZWU1dkYxNmtzM254V3hfSFVVSGt4VVFIck1MdzRRTndhWWZMS3VGckgzeVVvYkZzSjJHTjR5eHgzQzlfVjVYVDBZZUUtS2dmY21aY0ZXWmZFYTN0LTdDeEZxSk5JTmdtZnJubzk5ZG55RW5pSWtERFJzS2J2bHJQZ3pNWk1tcmFCbG1fSFdTdw?oc=5",
+      "source": "AdvisorHub",
+      "published_at": "Mon, 15 Jun 2026 19:41:23 GMT",
+      "summary": "Morgan Stanley’s Wilson Sees US Stock Market Rally Broadening AdvisorHub",
+      "guid": "CBMikgFBVV95cUxOLUV0ZWU1dkYxNmtzM254V3hfSFVVSGt4VVFIck1MdzRRTndhWWZMS3VGckgzeVVvYkZzSjJHTjR5eHgzQzlfVjVYVDBZZUUtS2dmY21aY0ZXWmZFYTN0LTdDeEZxSk5JTmdtZnJubzk5ZG55RW5pSWtERFJzS2J2bHJQZ3pNWk1tcmFCbG1fSFdTdw"
+    },
     {
       "title": "Warsh's Fed is likely to hold rates steady — what the leadership change could mean for your money - CNBC",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Lcm9QVzVINVRRU01hamlTMjFQbTdDcThibFRCX1Z5b19PcEdmcjNpSmhVZk54UTQ1bWFFREx2UXVvWjVES3c3aENqZHJnTmVhc2JPc25Ta0ZlYVhNMnJ6UWc5czFEaDJ5SzM4VFJB0gFzQVVfeXFMTzRnODdPQTVNX3Jucks3THRNRV92UG93ZWZsNl8zMzZ4ZHVlQlJ6cGRfSlpsdk4tenExV2pTeHFrOXRyU1REb2M5UnBOLVdRQjR5c3VPZk9tRWwwYXpHMy04S194Q0d3cDJCNnprTHdNMzJjTQ?oc=5",
@@ -15,12 +23,12 @@
       "guid": "CBMibkFVX3lxTE9Lcm9QVzVINVRRU01hamlTMjFQbTdDcThibFRCX1Z5b19PcEdmcjNpSmhVZk54UTQ1bWFFREx2UXVvWjVES3c3aENqZHJnTmVhc2JPc25Ta0ZlYVhNMnJ6UWc5czFEaDJ5SzM4VFJB0gFzQVVfeXFMTzRnODdPQTVNX3Jucks3THRNRV92UG93ZWZsNl8zMzZ4ZHVlQlJ6cGRfSlpsdk4tenExV2pTeHFrOXRyU1REb2M5UnBOLVdRQjR5c3VPZk9tRWwwYXpHMy04S194Q0d3cDJCNnprTHdNMzJjTQ"
     },
     {
-      "title": "Stock Market Week Ahead: Keep An Eye On The Little Things - Investor's Business Daily",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZGpLMWJZQ0hqTy15RzdBRVZ4cHd2VWVDbF9UU2JodlM4TnJRaHBkYUx4LXpYZFZYQkQxcVdOX2ozb1pxQ0o2cWFET3NDdVJkTF9FYnpVWFIyRW5DVDdhTVpZbXQxNUFHT3dEdDRjb0k4V3JidVltZXVtTkNuOVctTEhxU2hidmJ0WjZBdWY4a3VZUDExdGQxVmFma0ZrV1dSclR5a09zTC10TmtmQzZZMFBCMFg?oc=5",
+      "title": "Dow Jones Futures Rise, Oil Prices Dive As Trump Announces Iran Deal; SpaceX's Next Test - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUnNvRl9SOHZzNXlPQ0s2d1BmRi1BbDdfTW5rVmpEREd4bmtvNm9yQ1cxTzdnWW40RFNVdlAwcklZNktWQ3JjaXZkbFhiU2JxTWFoM1VycEZzUU5nRTFJRElPQndwbWxtYkRad0twWmtqbzRObFBtek9IdTVrSWRwdFFia2hmbVNRblBONTdwM1lfNGFxNWxDa3RVeFR3aTNE?oc=5",
       "source": "Investor's Business Daily",
-      "published_at": "Sat, 13 Jun 2026 13:55:00 GMT",
-      "summary": "Stock Market Week Ahead: Keep An Eye On The Little Things Investor's Business Daily",
-      "guid": "CBMitAFBVV95cUxOZGpLMWJZQ0hqTy15RzdBRVZ4cHd2VWVDbF9UU2JodlM4TnJRaHBkYUx4LXpYZFZYQkQxcVdOX2ozb1pxQ0o2cWFET3NDdVJkTF9FYnpVWFIyRW5DVDdhTVpZbXQxNUFHT3dEdDRjb0k4V3JidVltZXVtTkNuOVctTEhxU2hidmJ0WjZBdWY4a3VZUDExdGQxVmFma0ZrV1dSclR5a09zTC10TmtmQzZZMFBCMFg"
+      "published_at": "Mon, 15 Jun 2026 12:01:00 GMT",
+      "summary": "Dow Jones Futures Rise, Oil Prices Dive As Trump Announces Iran Deal; SpaceX's Next Test Investor's Business Daily",
+      "guid": "CBMioAFBVV95cUxPUnNvRl9SOHZzNXlPQ0s2d1BmRi1BbDdfTW5rVmpEREd4bmtvNm9yQ1cxTzdnWW40RFNVdlAwcklZNktWQ3JjaXZkbFhiU2JxTWFoM1VycEZzUU5nRTFJRElPQndwbWxtYkRad0twWmtqbzRObFBtek9IdTVrSWRwdFFia2hmbVNRblBONTdwM1lfNGFxNWxDa3RVeFR3aTNE"
     },
     {
       "title": "Stocks drive record share of American wealth - Axios",
@@ -71,20 +79,12 @@
       "guid": "CBMimwFBVV95cUxQaWpJNk9QUjZlNG00bk5CZUdxSU1ocWJTRzc3enpuWWdnakJ6dXJVSFgtVGNaNHVxaTZLU0ZCc0dqemNHSnlYMnVLYUR6Z01LMlN6Z1YxWHllZlU5Rm9WZTJtR2V2c3ZFSEZwaDZwY1FwRFE4dDB0R09KZHJYNFdseDJFV0J4cTkyNEZVbVdVXzlFTDV4eDdKOHNoQQ"
     },
     {
-      "title": "Newly-led Federal Reserve poses wildcard for rockier US indexes - Gulf Today",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWEU0ZXBtVl9PVmVURXRWS0xBMy1oQVZsd0RUcEcwLTQtX3lMUE1UOGctSkEzbTc2aEo2TFhDTWhXN1hsbkFhOGZCNUJONDZYSldQT2VsXzJrLTNwdVVMYVBRdnNtUC0td3JPNjdSR3QtSW1DY2Y0bE1OdU4yODRwX1hCcU1faE96eXpRekxtNkZIeGxHUU1KZ3BRT29YTDVKbEdqdkdCNmhheERW?oc=5",
-      "source": "Gulf Today",
-      "published_at": "Mon, 15 Jun 2026 06:46:43 GMT",
-      "summary": "Newly-led Federal Reserve poses wildcard for rockier US indexes Gulf Today",
-      "guid": "CBMirAFBVV95cUxQWEU0ZXBtVl9PVmVURXRWS0xBMy1oQVZsd0RUcEcwLTQtX3lMUE1UOGctSkEzbTc2aEo2TFhDTWhXN1hsbkFhOGZCNUJONDZYSldQT2VsXzJrLTNwdVVMYVBRdnNtUC0td3JPNjdSR3QtSW1DY2Y0bE1OdU4yODRwX1hCcU1faE96eXpRekxtNkZIeGxHUU1KZ3BRT29YTDVKbEdqdkdCNmhheERW"
-    },
-    {
-      "title": "What to Look Out for in Economic Data This Week (June 15-19) - Kiplinger",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ?oc=5",
-      "source": "Kiplinger",
-      "published_at": "Fri, 12 Jun 2026 14:16:23 GMT",
-      "summary": "What to Look Out for in Economic Data This Week (June 15-19) Kiplinger",
-      "guid": "CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ"
+      "title": "Ray Dalio warns stock market approaching 1929 and 2000 bubble levels - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeEZjTlNfVDc1MmR6RDZHZXJVbnFLQVZCejhBdGdZcnEza3hXSEgzLUtLVnFNRC0xSDNSRjJWQkhtMUROV0ZoYWpKSW5RWGRmS2pvN19qdFdWR002Y2FWc2RsZktESVJxbzR6Vnd0MVlQV1RTaFJQQ1poRU11aERfajFsYWptTEhoWC00NlZQV05xaGJPUkdLZzluVUFMRFF4T2tPWA?oc=5",
+      "source": "Fortune",
+      "published_at": "Thu, 04 Jun 2026 07:00:00 GMT",
+      "summary": "Ray Dalio warns stock market approaching 1929 and 2000 bubble levels Fortune",
+      "guid": "CBMipAFBVV95cUxPeEZjTlNfVDc1MmR6RDZHZXJVbnFLQVZCejhBdGdZcnEza3hXSEgzLUtLVnFNRC0xSDNSRjJWQkhtMUROV0ZoYWpKSW5RWGRmS2pvN19qdFdWR002Y2FWc2RsZktESVJxbzR6Vnd0MVlQV1RTaFJQQ1poRU11aERfajFsYWptTEhoWC00NlZQV05xaGJPUkdLZzluVUFMRFF4T2tPWA"
     }
   ]
 }
