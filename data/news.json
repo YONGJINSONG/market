@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-06-16T04:22:43Z",
+  "generated_at": "2026-06-16T09:37:53Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "June 16 May be a Big Day for the Stock Market and Set the Stage for What Happens Next. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNERUM0ctZ1Y0QkkzbGdTRFlBUGNFbG1TYmpYT0RTdFViT1lUM19rTU1YQ2w4ekoxY1Jrall4OUpfZmprUDQ5cUY2SHNJazFQdHR4S2dLbzNVWkJMNjd3VGpxMFh0NENjSUJJQ0t2M3lkYnFfQzZDb0RoOU01YWFFZC00YzhWVzdTTEZHZlYwNjVIWFRBR1FV?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Mon, 15 Jun 2026 23:10:00 GMT",
+      "summary": "June 16 May be a Big Day for the Stock Market and Set the Stage for What Happens Next. The Motley Fool",
+      "guid": "CBMilwFBVV95cUxNNERUM0ctZ1Y0QkkzbGdTRFlBUGNFbG1TYmpYT0RTdFViT1lUM19rTU1YQ2w4ekoxY1Jrall4OUpfZmprUDQ5cUY2SHNJazFQdHR4S2dLbzNVWkJMNjd3VGpxMFh0NENjSUJJQ0t2M3lkYnFfQzZDb0RoOU01YWFFZC00YzhWVzdTTEZHZlYwNjVIWFRBR1FV"
+    },
     {
       "title": "Morgan Stanley’s Wilson Sees US Stock Market Rally Broadening - AdvisorHub",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLUV0ZWU1dkYxNmtzM254V3hfSFVVSGt4VVFIck1MdzRRTndhWWZMS3VGckgzeVVvYkZzSjJHTjR5eHgzQzlfVjVYVDBZZUUtS2dmY21aY0ZXWmZFYTN0LTdDeEZxSk5JTmdtZnJubzk5ZG55RW5pSWtERFJzS2J2bHJQZ3pNWk1tcmFCbG1fSFdTdw?oc=5",
@@ -23,14 +31,6 @@
       "guid": "CBMibkFVX3lxTE9Lcm9QVzVINVRRU01hamlTMjFQbTdDcThibFRCX1Z5b19PcEdmcjNpSmhVZk54UTQ1bWFFREx2UXVvWjVES3c3aENqZHJnTmVhc2JPc25Ta0ZlYVhNMnJ6UWc5czFEaDJ5SzM4VFJB0gFzQVVfeXFMTzRnODdPQTVNX3Jucks3THRNRV92UG93ZWZsNl8zMzZ4ZHVlQlJ6cGRfSlpsdk4tenExV2pTeHFrOXRyU1REb2M5UnBOLVdRQjR5c3VPZk9tRWwwYXpHMy04S194Q0d3cDJCNnprTHdNMzJjTQ"
     },
     {
-      "title": "Dow Jones Futures Rise, Oil Prices Dive As Trump Announces Iran Deal; SpaceX's Next Test - Investor's Business Daily",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUnNvRl9SOHZzNXlPQ0s2d1BmRi1BbDdfTW5rVmpEREd4bmtvNm9yQ1cxTzdnWW40RFNVdlAwcklZNktWQ3JjaXZkbFhiU2JxTWFoM1VycEZzUU5nRTFJRElPQndwbWxtYkRad0twWmtqbzRObFBtek9IdTVrSWRwdFFia2hmbVNRblBONTdwM1lfNGFxNWxDa3RVeFR3aTNE?oc=5",
-      "source": "Investor's Business Daily",
-      "published_at": "Mon, 15 Jun 2026 12:01:00 GMT",
-      "summary": "Dow Jones Futures Rise, Oil Prices Dive As Trump Announces Iran Deal; SpaceX's Next Test Investor's Business Daily",
-      "guid": "CBMioAFBVV95cUxPUnNvRl9SOHZzNXlPQ0s2d1BmRi1BbDdfTW5rVmpEREd4bmtvNm9yQ1cxTzdnWW40RFNVdlAwcklZNktWQ3JjaXZkbFhiU2JxTWFoM1VycEZzUU5nRTFJRElPQndwbWxtYkRad0twWmtqbzRObFBtek9IdTVrSWRwdFFia2hmbVNRblBONTdwM1lfNGFxNWxDa3RVeFR3aTNE"
-    },
-    {
       "title": "Stocks drive record share of American wealth - Axios",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tREZqZEtISDliRTZVeFV4MkhkbW9ueER2Z25YRDRuNXBDaGVGLTlKMC1JUUVfWXFYT2h3YWtwemRuVU9NLVg0Qi03bEdoQlBfcVBmckN6anZtZVVTakstVlVZWWU0bm5YSmUwaQ?oc=5",
       "source": "Axios",
@@ -39,20 +39,12 @@
       "guid": "CBMibEFVX3lxTE4tREZqZEtISDliRTZVeFV4MkhkbW9ueER2Z25YRDRuNXBDaGVGLTlKMC1JUUVfWXFYT2h3YWtwemRuVU9NLVg0Qi03bEdoQlBfcVBmckN6anZtZVVTakstVlVZWWU0bm5YSmUwaQ"
     },
     {
-      "title": "The Stock Market Could Drop: 2 Urgent Warnings From Former Fed Chair Jerome Powell Explain Why. - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc0hGZ2FRTzlIV2xKT0FtMDdkVGw3WXh6Mm1zcHpETGo2ZURxSmdNdGlFN2pmaTM3U0x0emxPdzlTY2V2czhmZFhvOWsyRENiRHlrY2VzMzl3ZHVMalNIN0ktaW1qWG5GdDBEcjZyQ3U2YnJnUWw2Z3ZRTi1OanhXNVJGbldDZlJxemFkMkhSMzk3NUFuVkRF?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Sun, 14 Jun 2026 09:12:00 GMT",
-      "summary": "The Stock Market Could Drop: 2 Urgent Warnings From Former Fed Chair Jerome Powell Explain Why. The Motley Fool",
-      "guid": "CBMilwFBVV95cUxPc0hGZ2FRTzlIV2xKT0FtMDdkVGw3WXh6Mm1zcHpETGo2ZURxSmdNdGlFN2pmaTM3U0x0emxPdzlTY2V2czhmZFhvOWsyRENiRHlrY2VzMzl3ZHVMalNIN0ktaW1qWG5GdDBEcjZyQ3U2YnJnUWw2Z3ZRTi1OanhXNVJGbldDZlJxemFkMkhSMzk3NUFuVkRF"
-    },
-    {
-      "title": "A Dramatic Shift in Federal Reserve Policy Just Unlocked a New Era for Duke Energy: Its 3.4% Yield Makes It a Rock-Solid Safe-Haven Asset for Retirees - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPNmoyNTloOHJOdnRxTExsOXRTczdpdTNibEVONVVEaHVKQ0JiR2ZCUXM0NndvV3NmLWtfU3F1X1N4UGlodU9SYmtlQkFVTWFMWHVKWmlxSE9UY2F2bTIzdHU4Vmh5VEhhS29wbTU3ajItTGRKUnk0UjRPaWhPWEpJR1BGMkZVeWcyV2NFRmNqZ3lWR3l5UVNxTlB3OE9UTHoxWU0xRHh1YnBFVnRVN0tQeHBuNlJLOVhRcF9NUTNEVkVXNmxPeEU0c2pIQWVxMlY1SURWLTFzZGVhU1FvTHFwVi14QjBsYzE2cmU0UHkzRV9BV0VRLUFvVWlhQnJlVTNaaXZRaFdYZkxtZlM4aHliUGxFcW5pQ3dISTRENA?oc=5",
-      "source": "24/7 Wall St.",
-      "published_at": "Mon, 15 Jun 2026 14:35:51 GMT",
-      "summary": "A Dramatic Shift in Federal Reserve Policy Just Unlocked a New Era for Duke Energy: Its 3.4% Yield Makes It a Rock-Solid Safe-Haven Asset for Retirees 24/7 Wall St.",
-      "guid": "CBMinAJBVV95cUxPNmoyNTloOHJOdnRxTExsOXRTczdpdTNibEVONVVEaHVKQ0JiR2ZCUXM0NndvV3NmLWtfU3F1X1N4UGlodU9SYmtlQkFVTWFMWHVKWmlxSE9UY2F2bTIzdHU4Vmh5VEhhS29wbTU3ajItTGRKUnk0UjRPaWhPWEpJR1BGMkZVeWcyV2NFRmNqZ3lWR3l5UVNxTlB3OE9UTHoxWU0xRHh1YnBFVnRVN0tQeHBuNlJLOVhRcF9NUTNEVkVXNmxPeEU0c2pIQWVxMlY1SURWLTFzZGVhU1FvTHFwVi14QjBsYzE2cmU0UHkzRV9BV0VRLUFvVWlhQnJlVTNaaXZRaFdYZkxtZlM4aHliUGxFcW5pQ3dISTRENA"
+      "title": "Dow Jones Futures Rise, Oil Prices Dive As Trump Announces Iran Deal; SpaceX's Next Test - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUnNvRl9SOHZzNXlPQ0s2d1BmRi1BbDdfTW5rVmpEREd4bmtvNm9yQ1cxTzdnWW40RFNVdlAwcklZNktWQ3JjaXZkbFhiU2JxTWFoM1VycEZzUU5nRTFJRElPQndwbWxtYkRad0twWmtqbzRObFBtek9IdTVrSWRwdFFia2hmbVNRblBONTdwM1lfNGFxNWxDa3RVeFR3aTNE?oc=5",
+      "source": "Investor's Business Daily",
+      "published_at": "Mon, 15 Jun 2026 12:01:00 GMT",
+      "summary": "Dow Jones Futures Rise, Oil Prices Dive As Trump Announces Iran Deal; SpaceX's Next Test Investor's Business Daily",
+      "guid": "CBMioAFBVV95cUxPUnNvRl9SOHZzNXlPQ0s2d1BmRi1BbDdfTW5rVmpEREd4bmtvNm9yQ1cxTzdnWW40RFNVdlAwcklZNktWQ3JjaXZkbFhiU2JxTWFoM1VycEZzUU5nRTFJRElPQndwbWxtYkRad0twWmtqbzRObFBtek9IdTVrSWRwdFFia2hmbVNRblBONTdwM1lfNGFxNWxDa3RVeFR3aTNE"
     },
     {
       "title": "Nasdaq, S&P 500 suffer worst day of year as AI stocks tumble and Fed rate-hike odds rise - CNN",
@@ -85,6 +77,14 @@
       "published_at": "Thu, 04 Jun 2026 07:00:00 GMT",
       "summary": "Ray Dalio warns stock market approaching 1929 and 2000 bubble levels Fortune",
       "guid": "CBMipAFBVV95cUxPeEZjTlNfVDc1MmR6RDZHZXJVbnFLQVZCejhBdGdZcnEza3hXSEgzLUtLVnFNRC0xSDNSRjJWQkhtMUROV0ZoYWpKSW5RWGRmS2pvN19qdFdWR002Y2FWc2RsZktESVJxbzR6Vnd0MVlQV1RTaFJQQ1poRU11aERfajFsYWptTEhoWC00NlZQV05xaGJPUkdLZzluVUFMRFF4T2tPWA"
+    },
+    {
+      "title": "The Federal Reserve Just Delivered Really Bad News for Republicans Heading Into the Midterms - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOC1DUVM4RmRsdTZLMnQ0UG5NbTBCUGJuclFZNkRSaFc2R1lsd2xvTDFaR0QxQTQyeVp6U1V1N0ZfUTJnOUI2c3g2QkJiNjMxZzgwMzRndUtpSEFFYVQ3Z3hJbGNRMy0xbUVCUEIxS0g4dFR4ZzdYTWh6WF9zMnA5SjM3VFFsSDBHVGc4YnQxMXVNWkZPX09nLXZRQUZ1S0NXbmdSMGJkdXYtaXNFZVhvNW9oWF9tU1lxMWI2Sm9JY3pfODVfX0o5X0VYNWV1Nmt1Nnc?oc=5",
+      "source": "24/7 Wall St.",
+      "published_at": "Wed, 10 Jun 2026 13:28:24 GMT",
+      "summary": "The Federal Reserve Just Delivered Really Bad News for Republicans Heading Into the Midterms 24/7 Wall St.",
+      "guid": "CBMi0gFBVV95cUxQOC1DUVM4RmRsdTZLMnQ0UG5NbTBCUGJuclFZNkRSaFc2R1lsd2xvTDFaR0QxQTQyeVp6U1V1N0ZfUTJnOUI2c3g2QkJiNjMxZzgwMzRndUtpSEFFYVQ3Z3hJbGNRMy0xbUVCUEIxS0g4dFR4ZzdYTWh6WF9zMnA5SjM3VFFsSDBHVGc4YnQxMXVNWkZPX09nLXZRQUZ1S0NXbmdSMGJkdXYtaXNFZVhvNW9oWF9tU1lxMWI2Sm9JY3pfODVfX0o5X0VYNWV1Nmt1Nnc"
     }
   ]
 }
