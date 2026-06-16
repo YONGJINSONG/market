@@ -1,11 +1,27 @@
 {
-  "generated_at": "2026-06-16T14:33:00Z",
+  "generated_at": "2026-06-16T18:45:50Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "SpaceX rally continues, Dow's new record, Fox buys Roku and more in Morning Squawk - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObHpBZjZ6NDR6YlR0V2xWSlZCNW1qX2VmQ3FpbkhucjFRQ0ZhRkxzYUdpQnNSUTVtX2VpcGxONXFVYVcxbDVBZV8wXzdRN0dFcndnZEtSbndTcENMVlVTYVJFazFxQ2owNnRNZTQ3ZXFLdlRYMXdLbnUyQ3NsMFoyek9DR1JBXzlocS1abGdvd3TSAZABQVVfeXFMTmx6QWY2ejQ0emJUdFdsVkpWQjVtal9lZkNxaW5IbnIxUUNGYUZMc2FHaUJzUlE1bV9laXBsTjVxVWFXMWw1QWVfMF83UTdHRXJ3Z2RLUm53U3BDTFZVU2FSRWsxcUNqMDZ0TWU0N2VxS3ZUWDF3S251MkNzbDBaMnpPQ0dSQV85aHEtWmxnb3d0?oc=5",
+      "source": "CNBC",
+      "published_at": "Tue, 16 Jun 2026 12:22:08 GMT",
+      "summary": "SpaceX rally continues, Dow's new record, Fox buys Roku and more in Morning Squawk CNBC",
+      "guid": "CBMikAFBVV95cUxObHpBZjZ6NDR6YlR0V2xWSlZCNW1qX2VmQ3FpbkhucjFRQ0ZhRkxzYUdpQnNSUTVtX2VpcGxONXFVYVcxbDVBZV8wXzdRN0dFcndnZEtSbndTcENMVlVTYVJFazFxQ2owNnRNZTQ3ZXFLdlRYMXdLbnUyQ3NsMFoyek9DR1JBXzlocS1abGdvd3TSAZABQVVfeXFMTmx6QWY2ejQ0emJUdFdsVkpWQjVtal9lZkNxaW5IbnIxUUNGYUZMc2FHaUJzUlE1bV9laXBsTjVxVWFXMWw1QWVfMF83UTdHRXJ3Z2RLUm53U3BDTFZVU2FSRWsxcUNqMDZ0TWU0N2VxS3ZUWDF3S251MkNzbDBaMnpPQ0dSQV85aHEtWmxnb3d0"
+    },
+    {
+      "title": "The Dow hits a record, SpaceX stock soars before Fed meeting - qz.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFMDF4NVJKeE5yZlc4ZlZPTENrUkF2eW1PaTlTOFYwZUFLQXFZVThSV1gweVRscWZ5V0hrbU5YLUVKM1ZIaGUzVENtTlEwZ1JpUHZvUHNvMDZvVkVtUzlJaWZ6VUp2cWtVNmc?oc=5",
+      "source": "qz.com",
+      "published_at": "Tue, 16 Jun 2026 12:19:15 GMT",
+      "summary": "The Dow hits a record, SpaceX stock soars before Fed meeting qz.com",
+      "guid": "CBMiakFVX3lxTFBFMDF4NVJKeE5yZlc4ZlZPTENrUkF2eW1PaTlTOFYwZUFLQXFZVThSV1gweVRscWZ5V0hrbU5YLUVKM1ZIaGUzVENtTlEwZ1JpUHZvUHNvMDZvVkVtUzlJaWZ6VUp2cWtVNmc"
+    },
     {
       "title": "June 16 May be a Big Day for the Stock Market and Set the Stage for What Happens Next. - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNERUM0ctZ1Y0QkkzbGdTRFlBUGNFbG1TYmpYT0RTdFViT1lUM19rTU1YQ2w4ekoxY1Jrall4OUpfZmprUDQ5cUY2SHNJazFQdHR4S2dLbzNVWkJMNjd3VGpxMFh0NENjSUJJQ0t2M3lkYnFfQzZDb0RoOU01YWFFZC00YzhWVzdTTEZHZlYwNjVIWFRBR1FV?oc=5",
@@ -15,44 +31,20 @@
       "guid": "CBMilwFBVV95cUxNNERUM0ctZ1Y0QkkzbGdTRFlBUGNFbG1TYmpYT0RTdFViT1lUM19rTU1YQ2w4ekoxY1Jrall4OUpfZmprUDQ5cUY2SHNJazFQdHR4S2dLbzNVWkJMNjd3VGpxMFh0NENjSUJJQ0t2M3lkYnFfQzZDb0RoOU01YWFFZC00YzhWVzdTTEZHZlYwNjVIWFRBR1FV"
     },
     {
-      "title": "Surging stock market, Trump policies boost wealth for top 1% - Stateline",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWGxoY0p4QS1zbm9aM0ZCYmhtaGdoZUw4TTVpSDNGNzQ1WHVZbFpkVVVhQ0RfSTF2VEFKYk1ndUpjUEtlX25ta1dJZjRla1IzVlJ0NF9fRWllQndFMHkwcGxwdzBkdGd1Yi1lX1p5SXJ6Unh3Z05YS19xc2tZS0JaT1h5ZTh1NV9LWlEzdVl0c2J3SGg1ZF9Z?oc=5",
-      "source": "Stateline",
-      "published_at": "Tue, 16 Jun 2026 09:06:21 GMT",
-      "summary": "Surging stock market, Trump policies boost wealth for top 1% Stateline",
-      "guid": "CBMilwFBVV95cUxOWGxoY0p4QS1zbm9aM0ZCYmhtaGdoZUw4TTVpSDNGNzQ1WHVZbFpkVVVhQ0RfSTF2VEFKYk1ndUpjUEtlX25ta1dJZjRla1IzVlJ0NF9fRWllQndFMHkwcGxwdzBkdGd1Yi1lX1p5SXJ6Unh3Z05YS19xc2tZS0JaT1h5ZTh1NV9LWlEzdVl0c2J3SGg1ZF9Z"
+      "title": "Stock Market Week Ahead: Keep An Eye On The Little Things - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZGpLMWJZQ0hqTy15RzdBRVZ4cHd2VWVDbF9UU2JodlM4TnJRaHBkYUx4LXpYZFZYQkQxcVdOX2ozb1pxQ0o2cWFET3NDdVJkTF9FYnpVWFIyRW5DVDdhTVpZbXQxNUFHT3dEdDRjb0k4V3JidVltZXVtTkNuOVctTEhxU2hidmJ0WjZBdWY4a3VZUDExdGQxVmFma0ZrV1dSclR5a09zTC10TmtmQzZZMFBCMFg?oc=5",
+      "source": "Investor's Business Daily",
+      "published_at": "Sat, 13 Jun 2026 13:55:00 GMT",
+      "summary": "Stock Market Week Ahead: Keep An Eye On The Little Things Investor's Business Daily",
+      "guid": "CBMitAFBVV95cUxOZGpLMWJZQ0hqTy15RzdBRVZ4cHd2VWVDbF9UU2JodlM4TnJRaHBkYUx4LXpYZFZYQkQxcVdOX2ozb1pxQ0o2cWFET3NDdVJkTF9FYnpVWFIyRW5DVDdhTVpZbXQxNUFHT3dEdDRjb0k4V3JidVltZXVtTkNuOVctTEhxU2hidmJ0WjZBdWY4a3VZUDExdGQxVmFma0ZrV1dSclR5a09zTC10TmtmQzZZMFBCMFg"
     },
     {
-      "title": "Dow record, SpaceX rally, Federal Reserve decision 2026 - qz.com",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFMDF4NVJKeE5yZlc4ZlZPTENrUkF2eW1PaTlTOFYwZUFLQXFZVThSV1gweVRscWZ5V0hrbU5YLUVKM1ZIaGUzVENtTlEwZ1JpUHZvUHNvMDZvVkVtUzlJaWZ6VUp2cWtVNmc?oc=5",
-      "source": "qz.com",
-      "published_at": "Tue, 16 Jun 2026 11:51:42 GMT",
-      "summary": "Dow record, SpaceX rally, Federal Reserve decision 2026 qz.com",
-      "guid": "CBMiakFVX3lxTFBFMDF4NVJKeE5yZlc4ZlZPTENrUkF2eW1PaTlTOFYwZUFLQXFZVThSV1gweVRscWZ5V0hrbU5YLUVKM1ZIaGUzVENtTlEwZ1JpUHZvUHNvMDZvVkVtUzlJaWZ6VUp2cWtVNmc"
-    },
-    {
-      "title": "Equity Market Still Has a Long To-Do List After Iran Peace Deal - Bloomberg",
+      "title": "Equity Market Still Has a Long To-Do List After Iran Peace Deal - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT1dZbzRXakJMOE1vZVBHQUJ4R01vZV9JbGc5SVpoZzktY0h1Y2VIYXljLUhtVjU3TUtBNFNxaFltNWlrRjRsUEpaaWpRSE9UdlJtXzAySFNRcUpjSjZuVG9hX2JQUjBWbUZUVkxaT1lfdGlUNEg2TWNVRUpXZ2VxanRJNUx4clhfTTFwcUxpT1pJb0haaWliOGtTd084dFY4Vk85bGdKUFlOQ2lJOWhGVUNrM2w?oc=5",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "published_at": "Tue, 16 Jun 2026 07:28:07 GMT",
-      "summary": "Equity Market Still Has a Long To-Do List After Iran Peace Deal Bloomberg",
+      "summary": "Equity Market Still Has a Long To-Do List After Iran Peace Deal Bloomberg.com",
       "guid": "CBMitAFBVV95cUxPT1dZbzRXakJMOE1vZVBHQUJ4R01vZV9JbGc5SVpoZzktY0h1Y2VIYXljLUhtVjU3TUtBNFNxaFltNWlrRjRsUEpaaWpRSE9UdlJtXzAySFNRcUpjSjZuVG9hX2JQUjBWbUZUVkxaT1lfdGlUNEg2TWNVRUpXZ2VxanRJNUx4clhfTTFwcUxpT1pJb0haaWliOGtTd084dFY4Vk85bGdKUFlOQ2lJOWhGVUNrM2w"
-    },
-    {
-      "title": "Morgan Stanley’s Wilson Sees US Stock Market Rally Broadening - AdvisorHub",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLUV0ZWU1dkYxNmtzM254V3hfSFVVSGt4VVFIck1MdzRRTndhWWZMS3VGckgzeVVvYkZzSjJHTjR5eHgzQzlfVjVYVDBZZUUtS2dmY21aY0ZXWmZFYTN0LTdDeEZxSk5JTmdtZnJubzk5ZG55RW5pSWtERFJzS2J2bHJQZ3pNWk1tcmFCbG1fSFdTdw?oc=5",
-      "source": "AdvisorHub",
-      "published_at": "Mon, 15 Jun 2026 19:41:23 GMT",
-      "summary": "Morgan Stanley’s Wilson Sees US Stock Market Rally Broadening AdvisorHub",
-      "guid": "CBMikgFBVV95cUxOLUV0ZWU1dkYxNmtzM254V3hfSFVVSGt4VVFIck1MdzRRTndhWWZMS3VGckgzeVVvYkZzSjJHTjR5eHgzQzlfVjVYVDBZZUUtS2dmY21aY0ZXWmZFYTN0LTdDeEZxSk5JTmdtZnJubzk5ZG55RW5pSWtERFJzS2J2bHJQZ3pNWk1tcmFCbG1fSFdTdw"
-    },
-    {
-      "title": "Tracker: The Federal Reserve’s Balance Sheet Assets - The American Action Forum",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0?oc=5",
-      "source": "The American Action Forum",
-      "published_at": "Fri, 12 Jun 2026 07:00:00 GMT",
-      "summary": "Tracker: The Federal Reserve’s Balance Sheet Assets The American Action Forum",
-      "guid": "CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0"
     },
     {
       "title": "Is the Stock Market Open on Juneteenth 2026? June 19 Closes Stocks, Bonds and Futures - EBC Financial Group",
@@ -63,12 +55,28 @@
       "guid": "CBMickFVX3lxTE00eG5QWjZlWlRWZldhVk10VmxSV2R2WW5TNHVDeG1ISUVQVFJyeUJjeDlibkduQ0MyeHpacl9BdGR1OXlHa2o2M0ZIVjduQmtGQ21TekczMUVmVjFWOTFTN2Fwa2hNSnAyVWdnOTVGT2ZRQQ"
     },
     {
-      "title": "Stocks Under the Trump Administration: What is Driving Markets in 2026? - U.S. Bank",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcUowVHR1VXAzd0Zfamw1MkVSejFsRGo1bkdGdHhjNVBZVFdwU3VpcE5neGJOeWl6RmdQVkFsYlcxNEVTRGg3WHNYSGR1d1BpTjV4T2NqdWdER3ZtQ0RVbU40WTcyRXRaTEM5bFZteVlYNE5EYkM1M1BaR0lYTGlUeFlTeDhVMzRaWFFqZEZhcGc3RFJoZy1qZy1mTGViQQ?oc=5",
-      "source": "U.S. Bank",
-      "published_at": "Thu, 04 Jun 2026 07:00:00 GMT",
-      "summary": "Stocks Under the Trump Administration: What is Driving Markets in 2026? U.S. Bank",
-      "guid": "CBMingFBVV95cUxPcUowVHR1VXAzd0Zfamw1MkVSejFsRGo1bkdGdHhjNVBZVFdwU3VpcE5neGJOeWl6RmdQVkFsYlcxNEVTRGg3WHNYSGR1d1BpTjV4T2NqdWdER3ZtQ0RVbU40WTcyRXRaTEM5bFZteVlYNE5EYkM1M1BaR0lYTGlUeFlTeDhVMzRaWFFqZEZhcGc3RFJoZy1qZy1mTGViQQ"
+      "title": "Morgan Stanley’s Wilson Sees US Stock Market Rally Broadening - AdvisorHub",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLUV0ZWU1dkYxNmtzM254V3hfSFVVSGt4VVFIck1MdzRRTndhWWZMS3VGckgzeVVvYkZzSjJHTjR5eHgzQzlfVjVYVDBZZUUtS2dmY21aY0ZXWmZFYTN0LTdDeEZxSk5JTmdtZnJubzk5ZG55RW5pSWtERFJzS2J2bHJQZ3pNWk1tcmFCbG1fSFdTdw?oc=5",
+      "source": "AdvisorHub",
+      "published_at": "Mon, 15 Jun 2026 19:41:23 GMT",
+      "summary": "Morgan Stanley’s Wilson Sees US Stock Market Rally Broadening AdvisorHub",
+      "guid": "CBMikgFBVV95cUxOLUV0ZWU1dkYxNmtzM254V3hfSFVVSGt4VVFIck1MdzRRTndhWWZMS3VGckgzeVVvYkZzSjJHTjR5eHgzQzlfVjVYVDBZZUUtS2dmY21aY0ZXWmZFYTN0LTdDeEZxSk5JTmdtZnJubzk5ZG55RW5pSWtERFJzS2J2bHJQZ3pNWk1tcmFCbG1fSFdTdw"
+    },
+    {
+      "title": "Kevin Warsh's Fed is not expected to make any change to rates for a while, according to CNBC Fed Survey - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMVNCM1B5Y1NfRk4yN2thdUltcFlBMXZRVFVDVzBlZGR5aXBTWk0ydWo3dHRNSUp1NHFCQ0VfQjdtdncwRmc5TUxEV0ZmVWd6VWYxaGc4REN3WGFienJUWGtPd0QxQTNrcWhlQjRsM1F3VExpSVRhR1FTTXJLUmEzSy0yaXcyYTg4NHdfdERVTEl6YnZCLUhtWFN2UHlIa2NON3NGSDh4SGRqS2FyYzJYSm4ydXRTWlVUaEpnc1VaNVRVZ2stM1hyNnNhQmtrenlwSFY5TtIB2gFBVV95cUxOaVdQUEJmRWk2MXZtZERJTWNJeEpjSFlZRkI4MHJYWEN6V2Jhbi1YVjRkUkVCRDI5bUhIX1ZRMVlDYjNYNENWT0Y3MV9kQ2w3d2Q5MG41NzBlNFNkY18xR1c1d2NVMWhOeE9QbjFYcWJ2MEtkcGc4WWFydkFsT2tyUXptLV9id2pYRWVpQ2k4VXkyQ3hhSkI5UWlRNFk5Qm1qUGh1emRUNkNrNzQ5TDB3Q21Wemd0MW5ldUoyaHJoeGlsRzhtZzc4ZVY0S0NaRDY4QUlmZUttTUZUZw?oc=5",
+      "source": "CNBC",
+      "published_at": "Tue, 16 Jun 2026 11:05:19 GMT",
+      "summary": "Kevin Warsh's Fed is not expected to make any change to rates for a while, according to CNBC Fed Survey CNBC",
+      "guid": "CBMi1AFBVV95cUxQMVNCM1B5Y1NfRk4yN2thdUltcFlBMXZRVFVDVzBlZGR5aXBTWk0ydWo3dHRNSUp1NHFCQ0VfQjdtdncwRmc5TUxEV0ZmVWd6VWYxaGc4REN3WGFienJUWGtPd0QxQTNrcWhlQjRsM1F3VExpSVRhR1FTTXJLUmEzSy0yaXcyYTg4NHdfdERVTEl6YnZCLUhtWFN2UHlIa2NON3NGSDh4SGRqS2FyYzJYSm4ydXRTWlVUaEpnc1VaNVRVZ2stM1hyNnNhQmtrenlwSFY5TtIB2gFBVV95cUxOaVdQUEJmRWk2MXZtZERJTWNJeEpjSFlZRkI4MHJYWEN6V2Jhbi1YVjRkUkVCRDI5bUhIX1ZRMVlDYjNYNENWT0Y3MV9kQ2w3d2Q5MG41NzBlNFNkY18xR1c1d2NVMWhOeE9QbjFYcWJ2MEtkcGc4WWFydkFsT2tyUXptLV9id2pYRWVpQ2k4VXkyQ3hhSkI5UWlRNFk5Qm1qUGh1emRUNkNrNzQ5TDB3Q21Wemd0MW5ldUoyaHJoeGlsRzhtZzc4ZVY0S0NaRDY4QUlmZUttTUZUZw"
+    },
+    {
+      "title": "Stocks drive record share of American wealth - Axios",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tREZqZEtISDliRTZVeFV4MkhkbW9ueER2Z25YRDRuNXBDaGVGLTlKMC1JUUVfWXFYT2h3YWtwemRuVU9NLVg0Qi03bEdoQlBfcVBmckN6anZtZVVTakstVlVZWWU0bm5YSmUwaQ?oc=5",
+      "source": "Axios",
+      "published_at": "Thu, 04 Jun 2026 09:31:38 GMT",
+      "summary": "Stocks drive record share of American wealth Axios",
+      "guid": "CBMibEFVX3lxTE4tREZqZEtISDliRTZVeFV4MkhkbW9ueER2Z25YRDRuNXBDaGVGLTlKMC1JUUVfWXFYT2h3YWtwemRuVU9NLVg0Qi03bEdoQlBfcVBmckN6anZtZVVTakstVlVZWWU0bm5YSmUwaQ"
     },
     {
       "title": "US Pre-Market: US Stock Futures Edge Higher, Focus Shifts to Fed. SpaceX Rises Over 10%, Western Digital Gains Over 9% - TradingKey",
@@ -77,14 +85,6 @@
       "published_at": "Tue, 16 Jun 2026 12:10:31 GMT",
       "summary": "US Pre-Market: US Stock Futures Edge Higher, Focus Shifts to Fed. SpaceX Rises Over 10%, Western Digital Gains Over 9% TradingKey",
       "guid": "CBMimgJBVV95cUxON05YdG1ZLWQzVk9NXzNHelhBVDVQQTlpc1RDYUxjUHZ0VmdFY2MxLWU3LVRvMVdZaEl5YWkweEhCYThvVkVGR1JGd3h0czhYdFFXMW9wT1dXUTBveTBINmo0VFlleWl4NC1aalpybWRHYkV0ellFX2VjT24zNVlGRjJkT0U0YVVDMUttLUF1M1ZiMjQzR3JuZF9PWTZkSFQ1NG5JUVJoMDYyQldBanJCRkdJbHlqTVRIU2lkM0Q3ZkZWLUxnTmJ3aXpiUTFtSGZEdFFCVVdYNzBteFlESFhFSWFOY1Q4cmRVRmpQcFFzZkVlT2FjSE5hNzFzR2JJMzVKOFFJTjJMWUFHNm5fTkRyWnhBRzBzOERKZmc"
-    },
-    {
-      "title": "Legendary trader says investors are watching the wrong Fed lever: Chart of the Day - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPX2xXM1I0Nkh6VnJqU2NqMUJGekpRRHhXSzNhMy1SODdienNVWkI5VWJseGQxbTdPUlJENmZnd1VVMVM0Y0pndDIwUlU3MjRvaXNuN3pwSzFCLVhuRVcxbVB2RVhRX3REbVAtVEVYOXNhcVdDSkVETktRM25jRWhTZmNEWm04NFNaYS1YZ1NPV3VJYmFpNjVLdWQ4cTh0eGUyZGpWMWQ0Wk5jZWh2VTFFTlV3MFNZZnhWRzBVdFREV0tscWFtQlc5SWhQVkFwMWxQbElPcQ?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Mon, 15 Jun 2026 15:00:29 GMT",
-      "summary": "Legendary trader says investors are watching the wrong Fed lever: Chart of the Day Yahoo Finance",
-      "guid": "CBMi1AFBVV95cUxPX2xXM1I0Nkh6VnJqU2NqMUJGekpRRHhXSzNhMy1SODdienNVWkI5VWJseGQxbTdPUlJENmZnd1VVMVM0Y0pndDIwUlU3MjRvaXNuN3pwSzFCLVhuRVcxbVB2RVhRX3REbVAtVEVYOXNhcVdDSkVETktRM25jRWhTZmNEWm04NFNaYS1YZ1NPV3VJYmFpNjVLdWQ4cTh0eGUyZGpWMWQ0Wk5jZWh2VTFFTlV3MFNZZnhWRzBVdFREV0tscWFtQlc5SWhQVkFwMWxQbElPcQ"
     }
   ]
 }
