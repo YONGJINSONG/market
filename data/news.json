@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T06:48:28Z",
+  "generated_at": "2026-06-17T11:25:58Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -15,14 +15,6 @@
       "guid": "CBMipAFBVV95cUxPOGJ0WFJib0RSLUw5Z04waE12N2VoWTVwU1pXZWVyeVdvbUZ3ODdNRE5CNEVyMGVxLUQwdGU4ZnlRaFVHWlpjUU5yZVlkQ0YweG41T3NRVVVSSjJsamRkTlliSkZMOG9mZXJWNWxmRjVOQzRrVDNiNm9lR0FJRkxYamx2VzZWU0RKMy1wOXBPME0tWWJqWnZFMVA5R1UxWVRlUjNDOA"
     },
     {
-      "title": "Stock Markets: All Eyes on the Federal Reserve - tastylive",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQi0yZ09Fa1ZZVEM1RUdyOTNQUktncWhHbk1hRk5mUWZGc3ZPZmRJam5GRjVWXzlFWmFCZ2xXdTBpUnlIWDY4MVFWMlpJYW95TU5UdExSVVkyQThBWlFweWNMZXp0RktUeVZxZ0U5MzZRMFBFQ3lFZWp4ZEcwb292aU93MlY5S3g0OE5PTzRybHl5cGY5dlJyRS1xOEhqOFFrcXdrYjZ2Y0pxMkhVUVE?oc=5",
-      "source": "tastylive",
-      "published_at": "Tue, 16 Jun 2026 19:01:19 GMT",
-      "summary": "Stock Markets: All Eyes on the Federal Reserve tastylive",
-      "guid": "CBMirgFBVV95cUxNQi0yZ09Fa1ZZVEM1RUdyOTNQUktncWhHbk1hRk5mUWZGc3ZPZmRJam5GRjVWXzlFWmFCZ2xXdTBpUnlIWDY4MVFWMlpJYW95TU5UdExSVVkyQThBWlFweWNMZXp0RktUeVZxZ0U5MzZRMFBFQ3lFZWp4ZEcwb292aU93MlY5S3g0OE5PTzRybHl5cGY5dlJyRS1xOEhqOFFrcXdrYjZ2Y0pxMkhVUVE"
-    },
-    {
       "title": "Dow Futures Rise Before Fed; Four Stocks In Buy Zones - Investor's Business Daily",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQUYtVzRsaWU2bjBTWUo2MVdUTU1ZaVdIYUo1MVlvYnF2OUZQOVR1b1lFTG9nWEg2OXMzRzRmNmZ4N0lBd3l3cTRDaU9WRmFScEU4SVRaSGx5dFQ2UTZ4ZU40R3I1ak5wSFlGUmw1dUU3QU94ZEpRV1BZejZQSTh5aTNTUnNEa2Z5UEZoay1LX293REdzZWNWeklpWUViVUZ2c0l4VUtJZElweDJyNWc?oc=5",
       "source": "Investor's Business Daily",
@@ -31,36 +23,52 @@
       "guid": "CBMirgFBVV95cUxQQUYtVzRsaWU2bjBTWUo2MVdUTU1ZaVdIYUo1MVlvYnF2OUZQOVR1b1lFTG9nWEg2OXMzRzRmNmZ4N0lBd3l3cTRDaU9WRmFScEU4SVRaSGx5dFQ2UTZ4ZU40R3I1ak5wSFlGUmw1dUU3QU94ZEpRV1BZejZQSTh5aTNTUnNEa2Z5UEZoay1LX293REdzZWNWeklpWUViVUZ2c0l4VUtJZElweDJyNWc"
     },
     {
-      "title": "Fed Rate Decision June 17, 2026: What to Watch - Stock Titan",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8tSGpPUFpHWWMtRmlIb1k4cDVUUWFIUzZVdmo2YXdDSTlpVlFaS0N1ckl5U29uNHlOcHhRZlhVb3I4NGpWU0U5bEdkcXBuNUdLQnBGN3VWRW40ZWFzSTFkWGhUai04djdEYjlLNnE2TXd5YkYy?oc=5",
-      "source": "Stock Titan",
-      "published_at": "Tue, 16 Jun 2026 18:14:51 GMT",
-      "summary": "Fed Rate Decision June 17, 2026: What to Watch Stock Titan",
-      "guid": "CBMidEFVX3lxTE8tSGpPUFpHWWMtRmlIb1k4cDVUUWFIUzZVdmo2YXdDSTlpVlFaS0N1ckl5U29uNHlOcHhRZlhVb3I4NGpWU0U5bEdkcXBuNUdLQnBGN3VWRW40ZWFzSTFkWGhUai04djdEYjlLNnE2TXd5YkYy"
+      "title": "Stock Markets: All Eyes on the Federal Reserve - tastylive",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQi0yZ09Fa1ZZVEM1RUdyOTNQUktncWhHbk1hRk5mUWZGc3ZPZmRJam5GRjVWXzlFWmFCZ2xXdTBpUnlIWDY4MVFWMlpJYW95TU5UdExSVVkyQThBWlFweWNMZXp0RktUeVZxZ0U5MzZRMFBFQ3lFZWp4ZEcwb292aU93MlY5S3g0OE5PTzRybHl5cGY5dlJyRS1xOEhqOFFrcXdrYjZ2Y0pxMkhVUVE?oc=5",
+      "source": "tastylive",
+      "published_at": "Tue, 16 Jun 2026 19:01:19 GMT",
+      "summary": "Stock Markets: All Eyes on the Federal Reserve tastylive",
+      "guid": "CBMirgFBVV95cUxNQi0yZ09Fa1ZZVEM1RUdyOTNQUktncWhHbk1hRk5mUWZGc3ZPZmRJam5GRjVWXzlFWmFCZ2xXdTBpUnlIWDY4MVFWMlpJYW95TU5UdExSVVkyQThBWlFweWNMZXp0RktUeVZxZ0U5MzZRMFBFQ3lFZWp4ZEcwb292aU93MlY5S3g0OE5PTzRybHl5cGY5dlJyRS1xOEhqOFFrcXdrYjZ2Y0pxMkhVUVE"
     },
     {
-      "title": "Surging stock market, Trump policies boost wealth for top 1% - Stateline",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWGxoY0p4QS1zbm9aM0ZCYmhtaGdoZUw4TTVpSDNGNzQ1WHVZbFpkVVVhQ0RfSTF2VEFKYk1ndUpjUEtlX25ta1dJZjRla1IzVlJ0NF9fRWllQndFMHkwcGxwdzBkdGd1Yi1lX1p5SXJ6Unh3Z05YS19xc2tZS0JaT1h5ZTh1NV9LWlEzdVl0c2J3SGg1ZF9Z?oc=5",
-      "source": "Stateline",
-      "published_at": "Tue, 16 Jun 2026 09:06:21 GMT",
-      "summary": "Surging stock market, Trump policies boost wealth for top 1% Stateline",
-      "guid": "CBMilwFBVV95cUxOWGxoY0p4QS1zbm9aM0ZCYmhtaGdoZUw4TTVpSDNGNzQ1WHVZbFpkVVVhQ0RfSTF2VEFKYk1ndUpjUEtlX25ta1dJZjRla1IzVlJ0NF9fRWllQndFMHkwcGxwdzBkdGd1Yi1lX1p5SXJ6Unh3Z05YS19xc2tZS0JaT1h5ZTh1NV9LWlEzdVl0c2J3SGg1ZF9Z"
+      "title": "Twilio, Atlassian, and SoundHound AI Shares Are Falling, What You Need To Know - StockStory",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUVNEUjhTZGFFM01ReS11SmJ4bVF0Y0NMZ0J6LXFTcVdNNE5McmJOU2NTd0hqa0pUMjFMa2dpRW9VN3FZbWJBaXlOR2R5Z19lR1gxcmNnSXRrcmRlQzVGcWh6WkdCZzFxb0kyN1lNS09UcjhwM3U0TjFfS19XR1kxV1NGMEEtUm1MSHFVblhoc3Voakphd1g5ZjhEQVVSZWZWV1dsQVk0LXhuUTdXRGV4QTNxVWpPMzVkNWo1RWN5S2V1OWJpZEhQeURjRXV4UmRj?oc=5",
+      "source": "StockStory",
+      "published_at": "Wed, 17 Jun 2026 02:20:36 GMT",
+      "summary": "Twilio, Atlassian, and SoundHound AI Shares Are Falling, What You Need To Know StockStory",
+      "guid": "CBMi0AFBVV95cUxQUVNEUjhTZGFFM01ReS11SmJ4bVF0Y0NMZ0J6LXFTcVdNNE5McmJOU2NTd0hqa0pUMjFMa2dpRW9VN3FZbWJBaXlOR2R5Z19lR1gxcmNnSXRrcmRlQzVGcWh6WkdCZzFxb0kyN1lNS09UcjhwM3U0TjFfS19XR1kxV1NGMEEtUm1MSHFVblhoc3Voakphd1g5ZjhEQVVSZWZWV1dsQVk0LXhuUTdXRGV4QTNxVWpPMzVkNWo1RWN5S2V1OWJpZEhQeURjRXV4UmRj"
+    },
+    {
+      "title": "2 Key Market Events That Could Move Stocks This Month - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZFB2X1JfNU9DNUh4RjV5NUJzY1N3bXRIeXR4RkpQVWpXYUNic2tkclJOMVV1cnJJbVF0bmdndzZEcC1fSWpZajFFcHk3dFZMMkx4a2taVXhtS3htNkVwMG93TG5yUS10dENhZHMtSkJOWnJjRGt0M0JGRHNiU1hTTXpmc2N0bUV0Y3ZhZTdBYk5uRGZoRXoyRA?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Wed, 17 Jun 2026 10:41:40 GMT",
+      "summary": "2 Key Market Events That Could Move Stocks This Month The Motley Fool",
+      "guid": "CBMimAFBVV95cUxNZFB2X1JfNU9DNUh4RjV5NUJzY1N3bXRIeXR4RkpQVWpXYUNic2tkclJOMVV1cnJJbVF0bmdndzZEcC1fSWpZajFFcHk3dFZMMkx4a2taVXhtS3htNkVwMG93TG5yUS10dENhZHMtSkJOWnJjRGt0M0JGRHNiU1hTTXpmc2N0bUV0Y3ZhZTdBYk5uRGZoRXoyRA"
+    },
+    {
+      "title": "Stock Market News for Jun 17, 2026 - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNFBEeGZRaWxlX2ptcnU2b0xnNUlPX3dDZkROU05yQ2doZ24waDhkcUNTSmR2QkJNR3Y0anlJdExZTkNOY092UjN6UGxEbmJfeHNtZU9HY2tIYkFFNTR3RlZaNnV2ejM3MVVUYloydkxiYXJiNUM2SEgxMFZ0WThGQ3JLTFJ1Q2Y2WHFkZVBEUDRwZUtBY0dPMEdscVlpMURsU3o2N1FaRGFKcm9kWjU2S2lTTDJPdzE0?oc=5",
+      "source": "The Globe and Mail",
+      "published_at": "Wed, 17 Jun 2026 10:52:56 GMT",
+      "summary": "Stock Market News for Jun 17, 2026 The Globe and Mail",
+      "guid": "CBMiuAFBVV95cUxPNFBEeGZRaWxlX2ptcnU2b0xnNUlPX3dDZkROU05yQ2doZ24waDhkcUNTSmR2QkJNR3Y0anlJdExZTkNOY092UjN6UGxEbmJfeHNtZU9HY2tIYkFFNTR3RlZaNnV2ejM3MVVUYloydkxiYXJiNUM2SEgxMFZ0WThGQ3JLTFJ1Q2Y2WHFkZVBEUDRwZUtBY0dPMEdscVlpMURsU3o2N1FaRGFKcm9kWjU2S2lTTDJPdzE0"
+    },
+    {
+      "title": "Stock market today: Nikkei gains 0.4 percent, DAX rises 0.3 percent, S&P 500 futures climb 0.2 percent ahead of Fed decision - Economy Middle East",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWFMwN1plc1dqcVZma1pRUldWeWNBRE9vMko0R2NwQTY5N2VlRDlrOTZFamQ4Q2lrTEVvdHBYZlRVSTlacVJhMGdINXZKcll4cDhVRmtIeGNHSUxJWjZQV0ZyNW5xOW5ha194cWFRTzRPZzM5blBqaTFRTXRXRGRCTDZ5NXZFMEdoTVhFbXJmMC1rYXczSi11d1RaMEhQamVFWlJyRUpyWUY1UW9sYlBJWDRwQnB5LTA3QWFvWnNncS1PdjltLWUzOElZQ3Q1Y21HRUc0eV9HUTMxRHhtRHFLSXFfNnVmWWcyTkZEbA?oc=5",
+      "source": "Economy Middle East",
+      "published_at": "Wed, 17 Jun 2026 06:39:56 GMT",
+      "summary": "Stock market today: Nikkei gains 0.4 percent, DAX rises 0.3 percent, S&P 500 futures climb 0.2 percent ahead of Fed decision Economy Middle East",
+      "guid": "CBMi7AFBVV95cUxNWFMwN1plc1dqcVZma1pRUldWeWNBRE9vMko0R2NwQTY5N2VlRDlrOTZFamQ4Q2lrTEVvdHBYZlRVSTlacVJhMGdINXZKcll4cDhVRmtIeGNHSUxJWjZQV0ZyNW5xOW5ha194cWFRTzRPZzM5blBqaTFRTXRXRGRCTDZ5NXZFMEdoTVhFbXJmMC1rYXczSi11d1RaMEhQamVFWlJyRUpyWUY1UW9sYlBJWDRwQnB5LTA3QWFvWnNncS1PdjltLWUzOElZQ3Q1Y21HRUc0eV9HUTMxRHhtRHFLSXFfNnVmWWcyTkZEbA"
     },
     {
       "title": "The Dow hits a record. SpaceX stock keeps soaring. And here comes the Fed - qz.com",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFMDF4NVJKeE5yZlc4ZlZPTENrUkF2eW1PaTlTOFYwZUFLQXFZVThSV1gweVRscWZ5V0hrbU5YLUVKM1ZIaGUzVENtTlEwZ1JpUHZvUHNvMDZvVkVtUzlJaWZ6VUp2cWtVNmc?oc=5",
       "source": "qz.com",
-      "published_at": "Tue, 16 Jun 2026 12:28:24 GMT",
+      "published_at": "Tue, 16 Jun 2026 14:47:27 GMT",
       "summary": "The Dow hits a record. SpaceX stock keeps soaring. And here comes the Fed qz.com",
       "guid": "CBMiakFVX3lxTFBFMDF4NVJKeE5yZlc4ZlZPTENrUkF2eW1PaTlTOFYwZUFLQXFZVThSV1gweVRscWZ5V0hrbU5YLUVKM1ZIaGUzVENtTlEwZ1JpUHZvUHNvMDZvVkVtUzlJaWZ6VUp2cWtVNmc"
-    },
-    {
-      "title": "June 16 May be a Big Day for the Stock Market and Set the Stage for What Happens Next. - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNERUM0ctZ1Y0QkkzbGdTRFlBUGNFbG1TYmpYT0RTdFViT1lUM19rTU1YQ2w4ekoxY1Jrall4OUpfZmprUDQ5cUY2SHNJazFQdHR4S2dLbzNVWkJMNjd3VGpxMFh0NENjSUJJQ0t2M3lkYnFfQzZDb0RoOU01YWFFZC00YzhWVzdTTEZHZlYwNjVIWFRBR1FV?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Mon, 15 Jun 2026 23:10:00 GMT",
-      "summary": "June 16 May be a Big Day for the Stock Market and Set the Stage for What Happens Next. The Motley Fool",
-      "guid": "CBMilwFBVV95cUxNNERUM0ctZ1Y0QkkzbGdTRFlBUGNFbG1TYmpYT0RTdFViT1lUM19rTU1YQ2w4ekoxY1Jrall4OUpfZmprUDQ5cUY2SHNJazFQdHR4S2dLbzNVWkJMNjd3VGpxMFh0NENjSUJJQ0t2M3lkYnFfQzZDb0RoOU01YWFFZC00YzhWVzdTTEZHZlYwNjVIWFRBR1FV"
     },
     {
       "title": "Stocks drive record share of American wealth - Axios",
@@ -71,20 +79,12 @@
       "guid": "CBMibEFVX3lxTE4tREZqZEtISDliRTZVeFV4MkhkbW9ueER2Z25YRDRuNXBDaGVGLTlKMC1JUUVfWXFYT2h3YWtwemRuVU9NLVg0Qi03bEdoQlBfcVBmckN6anZtZVVTakstVlVZWWU0bm5YSmUwaQ"
     },
     {
-      "title": "Twilio, Atlassian, and SoundHound AI Shares Are Falling, What You Need To Know - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObEtfdkV1cWRRSU5QVFBycmdRNW1BSjVxcVZDaXZqRWt6WXgyNlF6bXRIZ1FJOHR1UndOaVJUNnlCcWw2cEdzSkxGSmFLdVQ1bnEyVm5VUWw2a2dfbDZrSzQ5anRDZGZsalBweUhCUVBJMENXMVZKTDJOZGE2WmRvOFZjUWNaWFhmRHBmT0p1WG1KakJBZ2c0ZU1oUlh1eXltTk5VLW1odGNuQy1jSG1faS0wck51eFNjRFBCalZyWUJYRTlBMXZQWTZGWmxsTUd6SWc?oc=5",
-      "source": "TradingView",
-      "published_at": "Tue, 16 Jun 2026 20:00:52 GMT",
-      "summary": "Twilio, Atlassian, and SoundHound AI Shares Are Falling, What You Need To Know TradingView",
-      "guid": "CBMi0gFBVV95cUxObEtfdkV1cWRRSU5QVFBycmdRNW1BSjVxcVZDaXZqRWt6WXgyNlF6bXRIZ1FJOHR1UndOaVJUNnlCcWw2cEdzSkxGSmFLdVQ1bnEyVm5VUWw2a2dfbDZrSzQ5anRDZGZsalBweUhCUVBJMENXMVZKTDJOZGE2WmRvOFZjUWNaWFhmRHBmT0p1WG1KakJBZ2c0ZU1oUlh1eXltTk5VLW1odGNuQy1jSG1faS0wck51eFNjRFBCalZyWUJYRTlBMXZQWTZGWmxsTUd6SWc"
-    },
-    {
-      "title": "Stock Market Today: Dow Ends Shy Of 52,000; SpaceX Slashes Its Gain; Lumentum Tumbles - Investor's Business Daily",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOd3JDbnpPT1A2a211OTByMHJqdG8ybFREYXVnRzVDRXk1TWgzdk1ndGFycWlkZ1IxUzFhUE93ZkZKLTJNZ2pBZVlEOVZIMEVrWndZdV83c2NwU2o5MndqMWV4RzF1RHRHc1RsUTlkcjBmZzh0cWM4RE82SjdXRkdwRlpocXRtMU4zaDB4Q0tfTEFmb3NzZTVuRWw2YlJNdVFBSzNHdVFGMlBXelVNREZWSQ?oc=5",
-      "source": "Investor's Business Daily",
-      "published_at": "Tue, 16 Jun 2026 20:46:00 GMT",
-      "summary": "Stock Market Today: Dow Ends Shy Of 52,000; SpaceX Slashes Its Gain; Lumentum Tumbles Investor's Business Daily",
-      "guid": "CBMisAFBVV95cUxOd3JDbnpPT1A2a211OTByMHJqdG8ybFREYXVnRzVDRXk1TWgzdk1ndGFycWlkZ1IxUzFhUE93ZkZKLTJNZ2pBZVlEOVZIMEVrWndZdV83c2NwU2o5MndqMWV4RzF1RHRHc1RsUTlkcjBmZzh0cWM4RE82SjdXRkdwRlpocXRtMU4zaDB4Q0tfTEFmb3NzZTVuRWw2YlJNdVFBSzNHdVFGMlBXelVNREZWSQ"
+      "title": "Surging stock market, Trump policies boost wealth for top 1% - Stateline",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWGxoY0p4QS1zbm9aM0ZCYmhtaGdoZUw4TTVpSDNGNzQ1WHVZbFpkVVVhQ0RfSTF2VEFKYk1ndUpjUEtlX25ta1dJZjRla1IzVlJ0NF9fRWllQndFMHkwcGxwdzBkdGd1Yi1lX1p5SXJ6Unh3Z05YS19xc2tZS0JaT1h5ZTh1NV9LWlEzdVl0c2J3SGg1ZF9Z?oc=5",
+      "source": "Stateline",
+      "published_at": "Tue, 16 Jun 2026 09:06:21 GMT",
+      "summary": "Surging stock market, Trump policies boost wealth for top 1% Stateline",
+      "guid": "CBMilwFBVV95cUxOWGxoY0p4QS1zbm9aM0ZCYmhtaGdoZUw4TTVpSDNGNzQ1WHVZbFpkVVVhQ0RfSTF2VEFKYk1ndUpjUEtlX25ta1dJZjRla1IzVlJ0NF9fRWllQndFMHkwcGxwdzBkdGd1Yi1lX1p5SXJ6Unh3Z05YS19xc2tZS0JaT1h5ZTh1NV9LWlEzdVl0c2J3SGg1ZF9Z"
     }
   ]
 }
