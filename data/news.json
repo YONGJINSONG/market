@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T01:39:34Z",
+  "generated_at": "2026-06-17T06:48:28Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -23,28 +23,20 @@
       "guid": "CBMirgFBVV95cUxNQi0yZ09Fa1ZZVEM1RUdyOTNQUktncWhHbk1hRk5mUWZGc3ZPZmRJam5GRjVWXzlFWmFCZ2xXdTBpUnlIWDY4MVFWMlpJYW95TU5UdExSVVkyQThBWlFweWNMZXp0RktUeVZxZ0U5MzZRMFBFQ3lFZWp4ZEcwb292aU93MlY5S3g0OE5PTzRybHl5cGY5dlJyRS1xOEhqOFFrcXdrYjZ2Y0pxMkhVUVE"
     },
     {
-      "title": "Nasdaq and S&P 500 slip while Dow hits record close - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONEpZcjB1UUpuN05zN283anhrUE9FaHJWOGRPTnF6VWdLcEkwT3U5OWhjM05VckRjMFpnS2dDR2dtdXNDc0pYdkhxdXpnbExoM2loNmRsN29qLXVEYUdpZEI2cEpISFJXZkJXeGNzV292S0tCUVhZd2lRX1hlNFdaOXp2dEJ2LUh1dm9reFE3VlFnZE5salNHUXlmS3A4WlkwNVZ5aHhZZ29ENnExMEVkQjVB?oc=5",
-      "source": "Reuters",
-      "published_at": "Tue, 16 Jun 2026 23:23:16 GMT",
-      "summary": "Nasdaq and S&P 500 slip while Dow hits record close Reuters",
-      "guid": "CBMisgFBVV95cUxONEpZcjB1UUpuN05zN283anhrUE9FaHJWOGRPTnF6VWdLcEkwT3U5OWhjM05VckRjMFpnS2dDR2dtdXNDc0pYdkhxdXpnbExoM2loNmRsN29qLXVEYUdpZEI2cEpISFJXZkJXeGNzV292S0tCUVhZd2lRX1hlNFdaOXp2dEJ2LUh1dm9reFE3VlFnZE5salNHUXlmS3A4WlkwNVZ5aHhZZ29ENnExMEVkQjVB"
-    },
-    {
-      "title": "Stock Market Today: Dow Ends Shy Of 52,000; SpaceX Slashes Its Gain; Lumentum Tumbles - Investor's Business Daily",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOd3JDbnpPT1A2a211OTByMHJqdG8ybFREYXVnRzVDRXk1TWgzdk1ndGFycWlkZ1IxUzFhUE93ZkZKLTJNZ2pBZVlEOVZIMEVrWndZdV83c2NwU2o5MndqMWV4RzF1RHRHc1RsUTlkcjBmZzh0cWM4RE82SjdXRkdwRlpocXRtMU4zaDB4Q0tfTEFmb3NzZTVuRWw2YlJNdVFBSzNHdVFGMlBXelVNREZWSQ?oc=5",
+      "title": "Dow Futures Rise Before Fed; Four Stocks In Buy Zones - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQUYtVzRsaWU2bjBTWUo2MVdUTU1ZaVdIYUo1MVlvYnF2OUZQOVR1b1lFTG9nWEg2OXMzRzRmNmZ4N0lBd3l3cTRDaU9WRmFScEU4SVRaSGx5dFQ2UTZ4ZU40R3I1ak5wSFlGUmw1dUU3QU94ZEpRV1BZejZQSTh5aTNTUnNEa2Z5UEZoay1LX293REdzZWNWeklpWUViVUZ2c0l4VUtJZElweDJyNWc?oc=5",
       "source": "Investor's Business Daily",
-      "published_at": "Tue, 16 Jun 2026 20:46:00 GMT",
-      "summary": "Stock Market Today: Dow Ends Shy Of 52,000; SpaceX Slashes Its Gain; Lumentum Tumbles Investor's Business Daily",
-      "guid": "CBMisAFBVV95cUxOd3JDbnpPT1A2a211OTByMHJqdG8ybFREYXVnRzVDRXk1TWgzdk1ndGFycWlkZ1IxUzFhUE93ZkZKLTJNZ2pBZVlEOVZIMEVrWndZdV83c2NwU2o5MndqMWV4RzF1RHRHc1RsUTlkcjBmZzh0cWM4RE82SjdXRkdwRlpocXRtMU4zaDB4Q0tfTEFmb3NzZTVuRWw2YlJNdVFBSzNHdVFGMlBXelVNREZWSQ"
+      "published_at": "Wed, 17 Jun 2026 03:04:00 GMT",
+      "summary": "Dow Futures Rise Before Fed; Four Stocks In Buy Zones Investor's Business Daily",
+      "guid": "CBMirgFBVV95cUxQQUYtVzRsaWU2bjBTWUo2MVdUTU1ZaVdIYUo1MVlvYnF2OUZQOVR1b1lFTG9nWEg2OXMzRzRmNmZ4N0lBd3l3cTRDaU9WRmFScEU4SVRaSGx5dFQ2UTZ4ZU40R3I1ak5wSFlGUmw1dUU3QU94ZEpRV1BZejZQSTh5aTNTUnNEa2Z5UEZoay1LX293REdzZWNWeklpWUViVUZ2c0l4VUtJZElweDJyNWc"
     },
     {
-      "title": "Asian Stocks to Slip Ahead of Fed, Oil Steadies: Markets Wrap - Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMjZSNjViRXpkcFVCci1GSTdET3doQnlHejZPRGNVYnlrRkZGOGZJdXhELXJpY2hfQ3lWX2EyWlhCQmFWdWE1ZWtzaFIwMmJfZmthVlBSUU1SQlB0XzhtQ0lCZHhwRFFFSTZmR1JXa1A4akR6VDM0ejBCTzdZUzRlVEs0X0VpeldtRDdPS3N6aGhpS1VEa1VRdVpGNzM4RGtBZWFyXzdPRzI3eFRYenVj?oc=5",
-      "source": "Bloomberg",
-      "published_at": "Tue, 16 Jun 2026 22:06:39 GMT",
-      "summary": "Asian Stocks to Slip Ahead of Fed, Oil Steadies: Markets Wrap Bloomberg",
-      "guid": "CBMirwFBVV95cUxQMjZSNjViRXpkcFVCci1GSTdET3doQnlHejZPRGNVYnlrRkZGOGZJdXhELXJpY2hfQ3lWX2EyWlhCQmFWdWE1ZWtzaFIwMmJfZmthVlBSUU1SQlB0XzhtQ0lCZHhwRFFFSTZmR1JXa1A4akR6VDM0ejBCTzdZUzRlVEs0X0VpeldtRDdPS3N6aGhpS1VEa1VRdVpGNzM4RGtBZWFyXzdPRzI3eFRYenVj"
+      "title": "Fed Rate Decision June 17, 2026: What to Watch - Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8tSGpPUFpHWWMtRmlIb1k4cDVUUWFIUzZVdmo2YXdDSTlpVlFaS0N1ckl5U29uNHlOcHhRZlhVb3I4NGpWU0U5bEdkcXBuNUdLQnBGN3VWRW40ZWFzSTFkWGhUai04djdEYjlLNnE2TXd5YkYy?oc=5",
+      "source": "Stock Titan",
+      "published_at": "Tue, 16 Jun 2026 18:14:51 GMT",
+      "summary": "Fed Rate Decision June 17, 2026: What to Watch Stock Titan",
+      "guid": "CBMidEFVX3lxTE8tSGpPUFpHWWMtRmlIb1k4cDVUUWFIUzZVdmo2YXdDSTlpVlFaS0N1ckl5U29uNHlOcHhRZlhVb3I4NGpWU0U5bEdkcXBuNUdLQnBGN3VWRW40ZWFzSTFkWGhUai04djdEYjlLNnE2TXd5YkYy"
     },
     {
       "title": "Surging stock market, Trump policies boost wealth for top 1% - Stateline",
@@ -79,12 +71,20 @@
       "guid": "CBMibEFVX3lxTE4tREZqZEtISDliRTZVeFV4MkhkbW9ueER2Z25YRDRuNXBDaGVGLTlKMC1JUUVfWXFYT2h3YWtwemRuVU9NLVg0Qi03bEdoQlBfcVBmckN6anZtZVVTakstVlVZWWU0bm5YSmUwaQ"
     },
     {
-      "title": "Upland Software, Fastly, and Strategy Stocks Trade Down, What You Need To Know - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSEpUcGhEeWVpOWVLUWVUOHB6YTIxcnJFUHRtQ2V3RUlEcEhuc0tlTGc5QjB1U0UxRGRlUmN2d3plODFRYWk2RnVyWENOUFp2MG9DTjV3eUhfX0ozdjhGSWdfY09ZX1RIZHR2M2ktS2d4YjdYZU5VQ2xib1dUaFZ6VnVtSTctZl8wc0NfRXZnQWhEWFR3Tm94cnhqQlExUTJyUDFmT25wTHlCT3lseTVzcUlxRWNfeHZGSFNQMXhLUzFCRkRySjIxbnNDcWNSUzlYemc?oc=5",
+      "title": "Twilio, Atlassian, and SoundHound AI Shares Are Falling, What You Need To Know - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObEtfdkV1cWRRSU5QVFBycmdRNW1BSjVxcVZDaXZqRWt6WXgyNlF6bXRIZ1FJOHR1UndOaVJUNnlCcWw2cEdzSkxGSmFLdVQ1bnEyVm5VUWw2a2dfbDZrSzQ5anRDZGZsalBweUhCUVBJMENXMVZKTDJOZGE2WmRvOFZjUWNaWFhmRHBmT0p1WG1KakJBZ2c0ZU1oUlh1eXltTk5VLW1odGNuQy1jSG1faS0wck51eFNjRFBCalZyWUJYRTlBMXZQWTZGWmxsTUd6SWc?oc=5",
       "source": "TradingView",
-      "published_at": "Tue, 16 Jun 2026 20:00:43 GMT",
-      "summary": "Upland Software, Fastly, and Strategy Stocks Trade Down, What You Need To Know TradingView",
-      "guid": "CBMi0gFBVV95cUxQSEpUcGhEeWVpOWVLUWVUOHB6YTIxcnJFUHRtQ2V3RUlEcEhuc0tlTGc5QjB1U0UxRGRlUmN2d3plODFRYWk2RnVyWENOUFp2MG9DTjV3eUhfX0ozdjhGSWdfY09ZX1RIZHR2M2ktS2d4YjdYZU5VQ2xib1dUaFZ6VnVtSTctZl8wc0NfRXZnQWhEWFR3Tm94cnhqQlExUTJyUDFmT25wTHlCT3lseTVzcUlxRWNfeHZGSFNQMXhLUzFCRkRySjIxbnNDcWNSUzlYemc"
+      "published_at": "Tue, 16 Jun 2026 20:00:52 GMT",
+      "summary": "Twilio, Atlassian, and SoundHound AI Shares Are Falling, What You Need To Know TradingView",
+      "guid": "CBMi0gFBVV95cUxObEtfdkV1cWRRSU5QVFBycmdRNW1BSjVxcVZDaXZqRWt6WXgyNlF6bXRIZ1FJOHR1UndOaVJUNnlCcWw2cEdzSkxGSmFLdVQ1bnEyVm5VUWw2a2dfbDZrSzQ5anRDZGZsalBweUhCUVBJMENXMVZKTDJOZGE2WmRvOFZjUWNaWFhmRHBmT0p1WG1KakJBZ2c0ZU1oUlh1eXltTk5VLW1odGNuQy1jSG1faS0wck51eFNjRFBCalZyWUJYRTlBMXZQWTZGWmxsTUd6SWc"
+    },
+    {
+      "title": "Stock Market Today: Dow Ends Shy Of 52,000; SpaceX Slashes Its Gain; Lumentum Tumbles - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOd3JDbnpPT1A2a211OTByMHJqdG8ybFREYXVnRzVDRXk1TWgzdk1ndGFycWlkZ1IxUzFhUE93ZkZKLTJNZ2pBZVlEOVZIMEVrWndZdV83c2NwU2o5MndqMWV4RzF1RHRHc1RsUTlkcjBmZzh0cWM4RE82SjdXRkdwRlpocXRtMU4zaDB4Q0tfTEFmb3NzZTVuRWw2YlJNdVFBSzNHdVFGMlBXelVNREZWSQ?oc=5",
+      "source": "Investor's Business Daily",
+      "published_at": "Tue, 16 Jun 2026 20:46:00 GMT",
+      "summary": "Stock Market Today: Dow Ends Shy Of 52,000; SpaceX Slashes Its Gain; Lumentum Tumbles Investor's Business Daily",
+      "guid": "CBMisAFBVV95cUxOd3JDbnpPT1A2a211OTByMHJqdG8ybFREYXVnRzVDRXk1TWgzdk1ndGFycWlkZ1IxUzFhUE93ZkZKLTJNZ2pBZVlEOVZIMEVrWndZdV83c2NwU2o5MndqMWV4RzF1RHRHc1RsUTlkcjBmZzh0cWM4RE82SjdXRkdwRlpocXRtMU4zaDB4Q0tfTEFmb3NzZTVuRWw2YlJNdVFBSzNHdVFGMlBXelVNREZWSQ"
     }
   ]
 }
