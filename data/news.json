@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T14:29:03Z",
+  "generated_at": "2026-06-19T16:57:27Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -10,7 +10,7 @@
       "title": "Federal Reserve policymakers show support for rate hikes as Warsh reins in guidance - AP News",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQ1NBclF1MkF3bkJBNGNLbGpCaWVYMnNadFNpZk1wQjhnenhtMG0ya3FHbkhkdzJDTHB3MEtybmN6YzZlN29SUmpDekMxeUlPZzhJamYyaXVkVmJGV2dweGdJZ2NDdl9EdmhlWHlYaG43SFg4X3o1NXVfc2dMR05hMTI3N3F2b1ZTMlpBOGZ5TjhZVGNJSTNHVWpHaDFNc3A1NWw4Sg?oc=5",
       "source": "AP News",
-      "published_at": "Wed, 17 Jun 2026 21:54:00 GMT",
+      "published_at": "Fri, 19 Jun 2026 16:56:03 GMT",
       "summary": "Federal Reserve policymakers show support for rate hikes as Warsh reins in guidance AP News",
       "guid": "CBMipAFBVV95cUxOQ1NBclF1MkF3bkJBNGNLbGpCaWVYMnNadFNpZk1wQjhnenhtMG0ya3FHbkhkdzJDTHB3MEtybmN6YzZlN29SUmpDekMxeUlPZzhJamYyaXVkVmJGV2dweGdJZ2NDdl9EdmhlWHlYaG43SFg4X3o1NXVfc2dMR05hMTI3N3F2b1ZTMlpBOGZ5TjhZVGNJSTNHVWpHaDFNc3A1NWw4Sg"
     },
@@ -47,6 +47,14 @@
       "guid": "CBMinAFBVV95cUxQbXRWSWEwU1p6V25SeHp5OEFyQzlpdjdua2tzNlNMUU5Hd2JGZkt5VnVGbm1zMHVCTm4xVG8tVmxIcVUxZlRBMHNicHVjUVBJZy1CYWlxcXFzOEJqNzZFYklZRWs2XzA2Z1pzczU3RFVpLTVkZm1mVHlwU2trZlI1YTBlZXZfeFBINUo2TjRxOTdfNjM1eGd4WE9oS18"
     },
     {
+      "title": "US stocks sink on worries about a possible hike to interest rates this year by the Federal Reserve - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTFFQQTZGQklVbFdZSVc0SjljZDFpQ242ZWc3ZFZSdkNpUm93Sl9jOGNzZUwxWS04Z3hWWEx6aktwOGlRamhrM1Bid0hEVG9Gem1WTzNCTXVSMjdYZ2ZsZDhGMjNDbzUtODhSODlEeUR4QVhZS2h2RDF0OWY1TjA4WWlmLUU1V2d4V3Izcnl6Zjg?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Wed, 17 Jun 2026 05:10:00 GMT",
+      "summary": "US stocks sink on worries about a possible hike to interest rates this year by the Federal Reserve Yahoo Finance",
+      "guid": "CBMikAFBVV95cUxNTFFQQTZGQklVbFdZSVc0SjljZDFpQ242ZWc3ZFZSdkNpUm93Sl9jOGNzZUwxWS04Z3hWWEx6aktwOGlRamhrM1Bid0hEVG9Gem1WTzNCTXVSMjdYZ2ZsZDhGMjNDbzUtODhSODlEeUR4QVhZS2h2RDF0OWY1TjA4WWlmLUU1V2d4V3Izcnl6Zjg"
+    },
+    {
       "title": "What to Look Out for in Economic Data This Week (June 22-26) - Kiplinger",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ?oc=5",
       "source": "Kiplinger",
@@ -55,36 +63,28 @@
       "guid": "CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ"
     },
     {
-      "title": "Markets are clinging to a Federal Reserve that no longer exists – analyst (SP500:) - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMm1oNHM1TmhITzFSR0ZtZlhIeC1WNk9nQkpsajZTc0hoZWdzZlNCVDl2QWQ5NzczbUk0T1pNODVkRldXM3JESDVKQUdQZ0UtbXhGd25mYVhhSmthdVRXVWJwOFVzZVlZMEJhQ1JtSnMwVVM4eDZXQ0F1eG5FVGlvelIwRTlkZWJ3Rjg1ZXlHTzBtbkZnX1VneC1mX1Q4SG5Wd0dGYUc2bDl0RUctVmc?oc=5",
-      "source": "Seeking Alpha",
-      "published_at": "Thu, 18 Jun 2026 20:29:38 GMT",
-      "summary": "Markets are clinging to a Federal Reserve that no longer exists – analyst (SP500:) Seeking Alpha",
-      "guid": "CBMirgFBVV95cUxOMm1oNHM1TmhITzFSR0ZtZlhIeC1WNk9nQkpsajZTc0hoZWdzZlNCVDl2QWQ5NzczbUk0T1pNODVkRldXM3JESDVKQUdQZ0UtbXhGd25mYVhhSmthdVRXVWJwOFVzZVlZMEJhQ1JtSnMwVVM4eDZXQ0F1eG5FVGlvelIwRTlkZWJ3Rjg1ZXlHTzBtbkZnX1VneC1mX1Q4SG5Wd0dGYUc2bDl0RUctVmc"
-    },
-    {
-      "title": "Stocks rise on Wall Street, erasing much of their loss from a day earlier - The Boston Globe",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNEpjeGFSd3V3MEpqaTZBNzYwSEMzdzY2eXo5aHpDeV9nTG5qRWFyUmhwUDdUdmFVZUk0MEJYaW5GUmZsdkZNWGk1YnpJVnhZdFRETlAyV054YmlLZDhKUGNRdU5BUi1yWm1OMjJBdzU1Z2J1Wjhzc2lRM1AzZXh5TVdDS3dtYU5QLXVlTG1CYzVGeDhUWDJwMDJKZmxtR1RLZ01j?oc=5",
-      "source": "The Boston Globe",
-      "published_at": "Thu, 18 Jun 2026 19:41:15 GMT",
-      "summary": "Stocks rise on Wall Street, erasing much of their loss from a day earlier The Boston Globe",
-      "guid": "CBMiowFBVV95cUxNNEpjeGFSd3V3MEpqaTZBNzYwSEMzdzY2eXo5aHpDeV9nTG5qRWFyUmhwUDdUdmFVZUk0MEJYaW5GUmZsdkZNWGk1YnpJVnhZdFRETlAyV054YmlLZDhKUGNRdU5BUi1yWm1OMjJBdzU1Z2J1Wjhzc2lRM1AzZXh5TVdDS3dtYU5QLXVlTG1CYzVGeDhUWDJwMDJKZmxtR1RLZ01j"
-    },
-    {
-      "title": "US stocks sink on worries about a possible hike to interest rates this year by the Federal Reserve - Audacy",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTFp1NFNwMlpBcTZRNDkzWmlpNWZFTGJadE0yQmZYRG8yb2QxY0xTU01nUFIxejFGRFk2a0hvRnU0NkZ1c3BJVlNsU1djVjVPSXpBcnlhQWJaTFVnZHVkTzlZVmpWYmZWaTBMR2pvdnlHX3RxVXZNSTVMa3UyX1lTR05JNVdfOFJuVDl0Z2FIaldmR2ttZGl6enZiMEt1d0UwYkw2R013a0N3OGN3MzlQSmR3?oc=5",
-      "source": "Audacy",
-      "published_at": "Thu, 18 Jun 2026 02:27:26 GMT",
-      "summary": "US stocks sink on worries about a possible hike to interest rates this year by the Federal Reserve Audacy",
-      "guid": "CBMisgFBVV95cUxQTFp1NFNwMlpBcTZRNDkzWmlpNWZFTGJadE0yQmZYRG8yb2QxY0xTU01nUFIxejFGRFk2a0hvRnU0NkZ1c3BJVlNsU1djVjVPSXpBcnlhQWJaTFVnZHVkTzlZVmpWYmZWaTBMR2pvdnlHX3RxVXZNSTVMa3UyX1lTR05JNVdfOFJuVDl0Z2FIaldmR2ttZGl6enZiMEt1d0UwYkw2R013a0N3OGN3MzlQSmR3"
-    },
-    {
       "title": "The Fed Held Its Target Range For the Fourth Meeting in a Row but Interest Costs Remain High - Peter G. Peterson Foundation",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONnBNZHlKVVgzUkN2YU9Wd1hmYVZUTklnaUZtVlFNSV9vRTBUWW5ERVVXOVpFTVVmVzRXNkxkT0NSTnFpUmgwQVFzZ0VOX2xwd0tQU19acjh2bFYtR2g4SDdWV0g2dWllWlZrUlVNd0sweXZUWHRWN19Ua3RGZTlsM0h5OVhXcFIxR1JxaXRSbG4xLWZhelE?oc=5",
       "source": "Peter G. Peterson Foundation",
       "published_at": "Wed, 17 Jun 2026 07:00:00 GMT",
       "summary": "The Fed Held Its Target Range For the Fourth Meeting in a Row but Interest Costs Remain High Peter G. Peterson Foundation",
       "guid": "CBMilgFBVV95cUxONnBNZHlKVVgzUkN2YU9Wd1hmYVZUTklnaUZtVlFNSV9vRTBUWW5ERVVXOVpFTVVmVzRXNkxkT0NSTnFpUmgwQVFzZ0VOX2xwd0tQU19acjh2bFYtR2g4SDdWV0g2dWllWlZrUlVNd0sweXZUWHRWN19Ua3RGZTlsM0h5OVhXcFIxR1JxaXRSbG4xLWZhelE"
+    },
+    {
+      "title": "Trump’s Hope or Warsh’s Caution? What Way Wall Street Leans Will Define Stock Market’s Next Move. - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNGxTazNRU2hQR2JZMkNXQVE0TmIzTUlMQk0xaWo4eVBuZlBicmFybVlRcncycE0waHcwdWx2WmxZYkFxVlpRX3BjWlNpNURnYnhMbWVIaGZwelBmY2dhWFIzbWtVY0Z4V0sxQm5YNzNSdF9RYTVXRzIxdU1zU0N6c1BKcUpjbmNPWFV2M1ljNUE?oc=5",
+      "source": "Barron's",
+      "published_at": "Thu, 18 Jun 2026 11:01:00 GMT",
+      "summary": "Trump’s Hope or Warsh’s Caution? What Way Wall Street Leans Will Define Stock Market’s Next Move. Barron's",
+      "guid": "CBMikAFBVV95cUxPNGxTazNRU2hQR2JZMkNXQVE0TmIzTUlMQk0xaWo4eVBuZlBicmFybVlRcncycE0waHcwdWx2WmxZYkFxVlpRX3BjWlNpNURnYnhMbWVIaGZwelBmY2dhWFIzbWtVY0Z4V0sxQm5YNzNSdF9RYTVXRzIxdU1zU0N6c1BKcUpjbmNPWFV2M1ljNUE"
+    },
+    {
+      "title": "Markets are clinging to a Federal Reserve that no longer exists – analyst (SP500:) - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMm1oNHM1TmhITzFSR0ZtZlhIeC1WNk9nQkpsajZTc0hoZWdzZlNCVDl2QWQ5NzczbUk0T1pNODVkRldXM3JESDVKQUdQZ0UtbXhGd25mYVhhSmthdVRXVWJwOFVzZVlZMEJhQ1JtSnMwVVM4eDZXQ0F1eG5FVGlvelIwRTlkZWJ3Rjg1ZXlHTzBtbkZnX1VneC1mX1Q4SG5Wd0dGYUc2bDl0RUctVmc?oc=5",
+      "source": "Seeking Alpha",
+      "published_at": "Thu, 18 Jun 2026 20:29:38 GMT",
+      "summary": "Markets are clinging to a Federal Reserve that no longer exists – analyst (SP500:) Seeking Alpha",
+      "guid": "CBMirgFBVV95cUxOMm1oNHM1TmhITzFSR0ZtZlhIeC1WNk9nQkpsajZTc0hoZWdzZlNCVDl2QWQ5NzczbUk0T1pNODVkRldXM3JESDVKQUdQZ0UtbXhGd25mYVhhSmthdVRXVWJwOFVzZVlZMEJhQ1JtSnMwVVM4eDZXQ0F1eG5FVGlvelIwRTlkZWJ3Rjg1ZXlHTzBtbkZnX1VneC1mX1Q4SG5Wd0dGYUc2bDl0RUctVmc"
     }
   ]
 }
