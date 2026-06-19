@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T02:10:53Z",
+  "generated_at": "2026-06-19T07:23:50Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -23,12 +23,20 @@
       "guid": "CBMirgFBVV95cUxNNXE3Z3pOWVZHNnViVUx0eTR4VEhYaXVlbjZRMjNRRVFzV29jamJfNUFCRkRERnNOeXQ0cmJoRlZmVE1Cbm9ReTFRUm1oa0RBNFlOSzM1ZjNUNktNcy1TOHJPa0duaV9OQUJtV3BhVnREYnppWDdZbzhrMVNyajlFbkVwVHh4R091N1hjel82REp1dGp1RTZENzJjWDlzSnhDbTd4Y3VIcW11OWJGaXc"
     },
     {
-      "title": "Trump’s Hope or Warsh’s Caution? What Way Wall Street Leans Will Define Stock Market’s Next Move. - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNGxTazNRU2hQR2JZMkNXQVE0TmIzTUlMQk0xaWo4eVBuZlBicmFybVlRcncycE0waHcwdWx2WmxZYkFxVlpRX3BjWlNpNURnYnhMbWVIaGZwelBmY2dhWFIzbWtVY0Z4V0sxQm5YNzNSdF9RYTVXRzIxdU1zU0N6c1BKcUpjbmNPWFV2M1ljNUE?oc=5",
-      "source": "Barron's",
-      "published_at": "Thu, 18 Jun 2026 11:01:00 GMT",
-      "summary": "Trump’s Hope or Warsh’s Caution? What Way Wall Street Leans Will Define Stock Market’s Next Move. Barron's",
-      "guid": "CBMikAFBVV95cUxPNGxTazNRU2hQR2JZMkNXQVE0TmIzTUlMQk0xaWo4eVBuZlBicmFybVlRcncycE0waHcwdWx2WmxZYkFxVlpRX3BjWlNpNURnYnhMbWVIaGZwelBmY2dhWFIzbWtVY0Z4V0sxQm5YNzNSdF9RYTVXRzIxdU1zU0N6c1BKcUpjbmNPWFV2M1ljNUE"
+      "title": "Fed Holds Rates and Leans Toward Fighting Inflation With Future Increases - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWlo2eWRfMHQzRGk2MTdTdkR4R3FLWHlxWjdRekZCOWRhWk42ajJxamdDcmZlbER4TzVxZlFMa0F5d0wycHVMejh1Qk1vTGtWQW1qV05HdXp6ZFFOd3FEOXdaRmw5ZC1HdDd6WGl1Q3NnOS0xc3Y0YUdyQ3htLUlzTVJqRG9oalZM?oc=5",
+      "source": "The New York Times",
+      "published_at": "Fri, 19 Jun 2026 01:17:43 GMT",
+      "summary": "Fed Holds Rates and Leans Toward Fighting Inflation With Future Increases The New York Times",
+      "guid": "CBMiiAFBVV95cUxOWlo2eWRfMHQzRGk2MTdTdkR4R3FLWHlxWjdRekZCOWRhWk42ajJxamdDcmZlbER4TzVxZlFMa0F5d0wycHVMejh1Qk1vTGtWQW1qV05HdXp6ZFFOd3FEOXdaRmw5ZC1HdDd6WGl1Q3NnOS0xc3Y0YUdyQ3htLUlzTVJqRG9oalZM"
+    },
+    {
+      "title": "European shares retreat as markets mull hawkish US Federal Reserve By Reuters - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbXRWSWEwU1p6V25SeHp5OEFyQzlpdjdua2tzNlNMUU5Hd2JGZkt5VnVGbm1zMHVCTm4xVG8tVmxIcVUxZlRBMHNicHVjUVBJZy1CYWlxcXFzOEJqNzZFYklZRWs2XzA2Z1pzczU3RFVpLTVkZm1mVHlwU2trZlI1YTBlZXZfeFBINUo2TjRxOTdfNjM1eGd4WE9oS18?oc=5",
+      "source": "Investing.com",
+      "published_at": "Fri, 19 Jun 2026 05:24:09 GMT",
+      "summary": "European shares retreat as markets mull hawkish US Federal Reserve By Reuters Investing.com",
+      "guid": "CBMinAFBVV95cUxQbXRWSWEwU1p6V25SeHp5OEFyQzlpdjdua2tzNlNMUU5Hd2JGZkt5VnVGbm1zMHVCTm4xVG8tVmxIcVUxZlRBMHNicHVjUVBJZy1CYWlxcXFzOEJqNzZFYklZRWs2XzA2Z1pzczU3RFVpLTVkZm1mVHlwU2trZlI1YTBlZXZfeFBINUo2TjRxOTdfNjM1eGd4WE9oS18"
     },
     {
       "title": "Stocks rise on Wall Street, erasing much of their loss from a day earlier - The Boston Globe",
@@ -39,12 +47,28 @@
       "guid": "CBMiowFBVV95cUxNNEpjeGFSd3V3MEpqaTZBNzYwSEMzdzY2eXo5aHpDeV9nTG5qRWFyUmhwUDdUdmFVZUk0MEJYaW5GUmZsdkZNWGk1YnpJVnhZdFRETlAyV054YmlLZDhKUGNRdU5BUi1yWm1OMjJBdzU1Z2J1Wjhzc2lRM1AzZXh5TVdDS3dtYU5QLXVlTG1CYzVGeDhUWDJwMDJKZmxtR1RLZ01j"
     },
     {
+      "title": "European shares retreat as markets mull hawkish US Federal Reserve - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZG02bzJ4OGJXcmxfdVpUOF93YnROQ0h1YWd4WFNfbmlnaDBHb205WDBYdEE5VXFfVDVELThyWGs0RzlJZEpXeU5YNkpXU2VxNUhIVnV5MUdCVWRvYkc1YTdCaml5dGsyUXFodnR2eWRVNG5YTmRDbTl4bGVOanEwQnNzYnhRYUtYaWtGVGxsS2lpQWp4b3kzUw?oc=5",
+      "source": "Reuters",
+      "published_at": "Thu, 18 Jun 2026 16:55:52 GMT",
+      "summary": "European shares retreat as markets mull hawkish US Federal Reserve Reuters",
+      "guid": "CBMimAFBVV95cUxPZG02bzJ4OGJXcmxfdVpUOF93YnROQ0h1YWd4WFNfbmlnaDBHb205WDBYdEE5VXFfVDVELThyWGs0RzlJZEpXeU5YNkpXU2VxNUhIVnV5MUdCVWRvYkc1YTdCaml5dGsyUXFodnR2eWRVNG5YTmRDbTl4bGVOanEwQnNzYnhRYUtYaWtGVGxsS2lpQWp4b3kzUw"
+    },
+    {
       "title": "Markets are clinging to a Federal Reserve that no longer exists – analyst (SP500:) - Seeking Alpha",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMm1oNHM1TmhITzFSR0ZtZlhIeC1WNk9nQkpsajZTc0hoZWdzZlNCVDl2QWQ5NzczbUk0T1pNODVkRldXM3JESDVKQUdQZ0UtbXhGd25mYVhhSmthdVRXVWJwOFVzZVlZMEJhQ1JtSnMwVVM4eDZXQ0F1eG5FVGlvelIwRTlkZWJ3Rjg1ZXlHTzBtbkZnX1VneC1mX1Q4SG5Wd0dGYUc2bDl0RUctVmc?oc=5",
       "source": "Seeking Alpha",
       "published_at": "Thu, 18 Jun 2026 20:29:38 GMT",
       "summary": "Markets are clinging to a Federal Reserve that no longer exists – analyst (SP500:) Seeking Alpha",
       "guid": "CBMirgFBVV95cUxOMm1oNHM1TmhITzFSR0ZtZlhIeC1WNk9nQkpsajZTc0hoZWdzZlNCVDl2QWQ5NzczbUk0T1pNODVkRldXM3JESDVKQUdQZ0UtbXhGd25mYVhhSmthdVRXVWJwOFVzZVlZMEJhQ1JtSnMwVVM4eDZXQ0F1eG5FVGlvelIwRTlkZWJ3Rjg1ZXlHTzBtbkZnX1VneC1mX1Q4SG5Wd0dGYUc2bDl0RUctVmc"
+    },
+    {
+      "title": "Trump’s Hope or Warsh’s Caution? What Way Wall Street Leans Will Define Stock Market’s Next Move. - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNGxTazNRU2hQR2JZMkNXQVE0TmIzTUlMQk0xaWo4eVBuZlBicmFybVlRcncycE0waHcwdWx2WmxZYkFxVlpRX3BjWlNpNURnYnhMbWVIaGZwelBmY2dhWFIzbWtVY0Z4V0sxQm5YNzNSdF9RYTVXRzIxdU1zU0N6c1BKcUpjbmNPWFV2M1ljNUE?oc=5",
+      "source": "Barron's",
+      "published_at": "Thu, 18 Jun 2026 11:01:00 GMT",
+      "summary": "Trump’s Hope or Warsh’s Caution? What Way Wall Street Leans Will Define Stock Market’s Next Move. Barron's",
+      "guid": "CBMikAFBVV95cUxPNGxTazNRU2hQR2JZMkNXQVE0TmIzTUlMQk0xaWo4eVBuZlBicmFybVlRcncycE0waHcwdWx2WmxZYkFxVlpRX3BjWlNpNURnYnhMbWVIaGZwelBmY2dhWFIzbWtVY0Z4V0sxQm5YNzNSdF9RYTVXRzIxdU1zU0N6c1BKcUpjbmNPWFV2M1ljNUE"
     },
     {
       "title": "Futures Rise After Fed Hits Market; These AI Stocks Flash Buy Signals - Investor's Business Daily",
@@ -55,36 +79,12 @@
       "guid": "CBMiqwFBVV95cUxNM3BlTEdMMGFseUNkRzl5MjduZW50S21zZkhOV0xDUGM1UFotYk13YlNZZWV1RHZFelFyN0pPR3hzWjJ4emlhWm9WQl9WR0RGX0RHX3Z2ek5HV0ZVQmdfOUhpTVV6eEE4OFQzVFQ4RF9sMktsSGloMnozLVNCVnFBU2FWN3dkb2xfQ0dMT2I4TmNEVXpzQWt3THAybm1kLWxORGJ5M1VGZkZnN3c"
     },
     {
-      "title": "US stocks sink on worries about a possible hike to interest rates this year by the Federal Reserve - JHNewsAndGuide.com",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOYXlGUUY5eWNvXzcwNXhtR3Y5bDkyVUFUS3VFcmlqa3FDYVdWMldSWjktTWNxWmVoX0RhTTRXeVdFMGZBeFVZVUdXallBZ3ZGNlB3LThNV3QyR2pnd2U5T1JjbVhUdmhoT0l5cjhRQ2phM2tGUC1ad2tDY3FJSFNFNmJpU2RLaGlyUWcyNmhLNkFqUjV1MWc1LV9Ob1lVM0ZLcWxQaEhUb1VRaUZDQWlQdnNrWVBpQVNUMzdIVkktOXkyaVFUaUtsbmNMSTlNNnJzcG9PZWxkcXVaZ0tZekZSNVFPLVhnS0VvcURRWmZaU3NzOVlkdHllc1Y3UlcwSE14N2k2bmVyVnZwbHlveFBRaVJocVZBQQ?oc=5",
-      "source": "JHNewsAndGuide.com",
-      "published_at": "Thu, 18 Jun 2026 06:00:00 GMT",
-      "summary": "US stocks sink on worries about a possible hike to interest rates this year by the Federal Reserve JHNewsAndGuide.com",
-      "guid": "CBMilgJBVV95cUxOYXlGUUY5eWNvXzcwNXhtR3Y5bDkyVUFUS3VFcmlqa3FDYVdWMldSWjktTWNxWmVoX0RhTTRXeVdFMGZBeFVZVUdXallBZ3ZGNlB3LThNV3QyR2pnd2U5T1JjbVhUdmhoT0l5cjhRQ2phM2tGUC1ad2tDY3FJSFNFNmJpU2RLaGlyUWcyNmhLNkFqUjV1MWc1LV9Ob1lVM0ZLcWxQaEhUb1VRaUZDQWlQdnNrWVBpQVNUMzdIVkktOXkyaVFUaUtsbmNMSTlNNnJzcG9PZWxkcXVaZ0tZekZSNVFPLVhnS0VvcURRWmZaU3NzOVlkdHllc1Y3UlcwSE14N2k2bmVyVnZwbHlveFBRaVJocVZBQQ"
-    },
-    {
-      "title": "US banks to make final push on capital rule changes as Fed wraps up consultation - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbTRsZ2pwdlpQZEpiM3FGTGFhOGtZT09PTlpuRE95YjZuMmJDM2RMWjdyRE5ENFV4MXZyd0l4LVYtem0tT2tGMmlVQmstS2prSXJ5dERWOFdLREduTV9sMEQ5dkVNeWdveGtidUU2Rzk4Y1Z5SmwtN1o4cXZLWFdFYk1UcXFnNWtaTHd2TDI2U2NwcDBhSUhXLXEtdG5tekhPZFFkRE91Y1ZiSVJEbTZWVXYtZ2FLWkRzQ25VVl81SWtfbVpFcHc?oc=5",
-      "source": "Reuters",
-      "published_at": "Thu, 18 Jun 2026 16:37:58 GMT",
-      "summary": "US banks to make final push on capital rule changes as Fed wraps up consultation Reuters",
-      "guid": "CBMixgFBVV95cUxNbTRsZ2pwdlpQZEpiM3FGTGFhOGtZT09PTlpuRE95YjZuMmJDM2RMWjdyRE5ENFV4MXZyd0l4LVYtem0tT2tGMmlVQmstS2prSXJ5dERWOFdLREduTV9sMEQ5dkVNeWdveGtidUU2Rzk4Y1Z5SmwtN1o4cXZLWFdFYk1UcXFnNWtaTHd2TDI2U2NwcDBhSUhXLXEtdG5tekhPZFFkRE91Y1ZiSVJEbTZWVXYtZ2FLWkRzQ25VVl81SWtfbVpFcHc"
-    },
-    {
-      "title": "European Shares Retreat as Markets Mull Hawkish US Federal Reserve - U.S. News - Money",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQanRWLTVYWXpTS0d1X0k4OFJJb1JXLTF1MlZPSVhXbHpaU19DSzRSUVY0OGlyZlBPTWprOTZxOXl4UHV4cWtSRkRxLUFHVG1HSjZZM0F0QnlQbG1OV09FVjNDNDVabmVTcEhfNmE1Nk9kY0JzOFVqbUZGR0JubTJSVWtYU3lEc0FXQnIyNXVEZXhxc1RNT0g4QVRNcmtoRkpiYWdvd05EX0E?oc=5",
-      "source": "U.S. News - Money",
-      "published_at": "Thu, 18 Jun 2026 11:59:52 GMT",
-      "summary": "European Shares Retreat as Markets Mull Hawkish US Federal Reserve U.S. News - Money",
-      "guid": "CBMiqAFBVV95cUxQanRWLTVYWXpTS0d1X0k4OFJJb1JXLTF1MlZPSVhXbHpaU19DSzRSUVY0OGlyZlBPTWprOTZxOXl4UHV4cWtSRkRxLUFHVG1HSjZZM0F0QnlQbG1OV09FVjNDNDVabmVTcEhfNmE1Nk9kY0JzOFVqbUZGR0JubTJSVWtYU3lEc0FXQnIyNXVEZXhxc1RNT0g4QVRNcmtoRkpiYWdvd05EX0E"
-    },
-    {
-      "title": "Trading Day: US stocks end lower, dollar jumps as Federal Reserve kicks off Warsh era By Reuters - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRjVaczVTUG04RGp3YkwzLWdsQm5nM3Roa1RtaHpwdnZSbnRwaVJWOUtnbldfdlR0YU5JMzNWRzBEQWlsNkdmMXRyMFZLbUZYdmc0ekFlRlQzNkpDUk81QkVyTS1hdl9CWUpOTnNTaV9mUFJHUkw1dGdlYTFXV2ZqdHJnTU92UUVrS1RwOVB6eklMZERZZkl0c1dIcmY5dUFON2xVbm9Bb0poSC12a2VhZUZKUFNPWldxaTBuMHd6Q2QteFV2a29OMk03X1M3UDRl?oc=5",
-      "source": "Investing.com",
-      "published_at": "Thu, 18 Jun 2026 09:04:11 GMT",
-      "summary": "Trading Day: US stocks end lower, dollar jumps as Federal Reserve kicks off Warsh era By Reuters Investing.com",
-      "guid": "CBMi0AFBVV95cUxNRjVaczVTUG04RGp3YkwzLWdsQm5nM3Roa1RtaHpwdnZSbnRwaVJWOUtnbldfdlR0YU5JMzNWRzBEQWlsNkdmMXRyMFZLbUZYdmc0ekFlRlQzNkpDUk81QkVyTS1hdl9CWUpOTnNTaV9mUFJHUkw1dGdlYTFXV2ZqdHJnTU92UUVrS1RwOVB6eklMZERZZkl0c1dIcmY5dUFON2xVbm9Bb0poSC12a2VhZUZKUFNPWldxaTBuMHd6Q2QteFV2a29OMk03X1M3UDRl"
+      "title": "US stocks sink on worries about a possible hike to interest rates this year by the Federal Reserve - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTFFQQTZGQklVbFdZSVc0SjljZDFpQ242ZWc3ZFZSdkNpUm93Sl9jOGNzZUwxWS04Z3hWWEx6aktwOGlRamhrM1Bid0hEVG9Gem1WTzNCTXVSMjdYZ2ZsZDhGMjNDbzUtODhSODlEeUR4QVhZS2h2RDF0OWY1TjA4WWlmLUU1V2d4V3Izcnl6Zjg?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Wed, 17 Jun 2026 05:10:00 GMT",
+      "summary": "US stocks sink on worries about a possible hike to interest rates this year by the Federal Reserve Yahoo Finance",
+      "guid": "CBMikAFBVV95cUxNTFFQQTZGQklVbFdZSVc0SjljZDFpQ242ZWc3ZFZSdkNpUm93Sl9jOGNzZUwxWS04Z3hWWEx6aktwOGlRamhrM1Bid0hEVG9Gem1WTzNCTXVSMjdYZ2ZsZDhGMjNDbzUtODhSODlEeUR4QVhZS2h2RDF0OWY1TjA4WWlmLUU1V2d4V3Izcnl6Zjg"
     }
   ]
 }
