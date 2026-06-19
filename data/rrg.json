@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T17:03:46Z",
+  "generated_at": "2026-06-19T18:56:55Z",
   "benchmark": "SPY",
   "sectors": [
     {
@@ -33,6 +33,10 @@
       "symbol": "XLV",
       "trail": [
         {
+          "rsRatio": 103.14,
+          "rsMomentum": 98.69
+        },
+        {
           "rsRatio": 101.91,
           "rsMomentum": 98.8
         },
@@ -47,10 +51,6 @@
         {
           "rsRatio": 98.68,
           "rsMomentum": 99.41
-        },
-        {
-          "rsRatio": 97.1,
-          "rsMomentum": 98.4
         }
       ]
     },
@@ -289,5 +289,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-06-19T17:03:46Z"
+  "lastUpdated": "2026-06-19T18:56:55Z"
 }
