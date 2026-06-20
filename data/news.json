@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T19:53:22Z",
+  "generated_at": "2026-06-20T21:02:26Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -13,14 +13,6 @@
       "published_at": "Wed, 17 Jun 2026 21:54:00 GMT",
       "summary": "Federal Reserve policymakers show support for rate hikes as Warsh reins in guidance AP News",
       "guid": "CBMipAFBVV95cUxOQ1NBclF1MkF3bkJBNGNLbGpCaWVYMnNadFNpZk1wQjhnenhtMG0ya3FHbkhkdzJDTHB3MEtybmN6YzZlN29SUmpDekMxeUlPZzhJamYyaXVkVmJGV2dweGdJZ2NDdl9EdmhlWHlYaG43SFg4X3o1NXVfc2dMR05hMTI3N3F2b1ZTMlpBOGZ5TjhZVGNJSTNHVWpHaDFNc3A1NWw4Sg"
-    },
-    {
-      "title": "A quieter Federal Reserve could mean volatile markets, higher rates - Chicago Tribune",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA2TmNfdHl3RjdyTHNRTmVoRnltdDRmNHFjTEFFRzRVU3dXY0VSVWhHZWpBUzZGZW9PVWM2eHJqRkFWUVd4NHhvZlNQVmMyU25laXJtSHpZX1pBY3FpaWlpd1dKSlZrSm9XRUdPNVN4eEdDR1E?oc=5",
-      "source": "Chicago Tribune",
-      "published_at": "Sat, 20 Jun 2026 18:27:00 GMT",
-      "summary": "A quieter Federal Reserve could mean volatile markets, higher rates Chicago Tribune",
-      "guid": "CBMic0FVX3lxTFA2TmNfdHl3RjdyTHNRTmVoRnltdDRmNHFjTEFFRzRVU3dXY0VSVWhHZWpBUzZGZW9PVWM2eHJqRkFWUVd4NHhvZlNQVmMyU25laXJtSHpZX1pBY3FpaWlpd1dKSlZrSm9XRUdPNVN4eEdDR1E"
     },
     {
       "title": "The New York Stock Exchange | NYSE - NYSE",
@@ -77,6 +69,14 @@
       "published_at": "Wed, 17 Jun 2026 13:38:54 GMT",
       "summary": "US stocks sink on worries about a possible hike to interest rates this year by the Federal Reserve Pioneer Press",
       "guid": "CBMidkFVX3lxTE1GSW5lbVd4b244MkVoR05jcFI1cWFQMVU2dUprQTJXbTV2akxTeEtOYTQ3VGdaQ3VBaURHQXBsVFdaY1BGWkhGN3U3M3EwbmdJamV3c2NyaHpaZEpPTEk3RXlLM1dvdjVsc0ktN2NqcUhPMEtrWWc"
+    },
+    {
+      "title": "Trading Day: US stocks end lower, dollar jumps as Federal Reserve kicks off Warsh era - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNXgzLXpId1Nfb2JFdTB1cnhvRVNEcFh0RGd3UGJoUXc1elJITHQxbGN6ZUw1WWFWS0xXMnNLY3NSa1NHSUlhVi14QzR5YjhGWWlhX3BaMWg5NE1fYzI2Wl8zRkxoSmdmSGRobHlDOUtYZ2k0YWk5UG9RcGY0bU9IQ2E1MFc3YkJBd01ZNkFpRm1yczloWV9WeDF5Smh4T1otMW14Vmln?oc=5",
+      "source": "Reuters",
+      "published_at": "Wed, 17 Jun 2026 21:10:02 GMT",
+      "summary": "Trading Day: US stocks end lower, dollar jumps as Federal Reserve kicks off Warsh era Reuters",
+      "guid": "CBMipgFBVV95cUxQNXgzLXpId1Nfb2JFdTB1cnhvRVNEcFh0RGd3UGJoUXc1elJITHQxbGN6ZUw1WWFWS0xXMnNLY3NSa1NHSUlhVi14QzR5YjhGWWlhX3BaMWg5NE1fYzI2Wl8zRkxoSmdmSGRobHlDOUtYZ2k0YWk5UG9RcGY0bU9IQ2E1MFc3YkJBd01ZNkFpRm1yczloWV9WeDF5Smh4T1otMW14Vmln"
     },
     {
       "title": "Will the Stock Market Crash if the Federal Reserve Raises Interest Rates? Soaring Bond Yields Portend Trouble. - Yahoo Finance",
