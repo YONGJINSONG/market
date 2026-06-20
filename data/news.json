@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T13:11:04Z",
+  "generated_at": "2026-06-20T15:11:37Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -15,12 +15,20 @@
       "guid": "CBMipAFBVV95cUxOQ1NBclF1MkF3bkJBNGNLbGpCaWVYMnNadFNpZk1wQjhnenhtMG0ya3FHbkhkdzJDTHB3MEtybmN6YzZlN29SUmpDekMxeUlPZzhJamYyaXVkVmJGV2dweGdJZ2NDdl9EdmhlWHlYaG43SFg4X3o1NXVfc2dMR05hMTI3N3F2b1ZTMlpBOGZ5TjhZVGNJSTNHVWpHaDFNc3A1NWw4Sg"
     },
     {
-      "title": "Warsh's gamble: A quieter Federal Reserve could mean volatile markets, higher rates - Seattlepi.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOWM1ZTdqQmE2cWcyMV9hQm1QUUJRSkxfSXVhX0tXNkpVSk1vY0xyNUl1Sk9qaV9VcXRwbTBHTUk1dDd2VFNJaWtibEYzdklSd3FXQnJzMG9aUzAzQjhIeTFTT0ZDeFhTQkNVSERRWEJQY1JtVjktc1UtY3FnMVNJcGJYZVVzZlI3dnN0WTFpUUJYczZjekFTM05RTnM?oc=5",
-      "source": "Seattlepi.com",
-      "published_at": "Sat, 20 Jun 2026 12:51:38 GMT",
-      "summary": "Warsh's gamble: A quieter Federal Reserve could mean volatile markets, higher rates Seattlepi.com",
-      "guid": "CBMinAFBVV95cUxNOWM1ZTdqQmE2cWcyMV9hQm1QUUJRSkxfSXVhX0tXNkpVSk1vY0xyNUl1Sk9qaV9VcXRwbTBHTUk1dDd2VFNJaWtibEYzdklSd3FXQnJzMG9aUzAzQjhIeTFTT0ZDeFhTQkNVSERRWEJQY1JtVjktc1UtY3FnMVNJcGJYZVVzZlI3dnN0WTFpUUJYczZjekFTM05RTnM"
+      "title": "Warsh's gamble: A quieter Federal Reserve could mean volatile markets, higher rates - WKMG",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNekg3cHZ6ZnFKNHRyMTRCY20yRnFURHZmWnZ0QnZBVTdyYTBSYkhUU0NwN2Zjc21rck56U2pVWkdpaERqbGcxbG5GZHpRU2hmUFVLcHJsRWdWc1ZNT3N0UnZZZC0tRWgxa1JNTFhTUnduLWJUWnV1YVNjLVBaazRnLTJwS3VHVU83ekpYNkdXMUs1bk5FWXUzcVBzelJsUk9DNnk2ejF3QV9lLXJ3VmdIU1BOQV9QX3RjNllUdl95OVBVdkpVY1VSWG85Q3BDTWdP?oc=5",
+      "source": "WKMG",
+      "published_at": "Sat, 20 Jun 2026 12:44:55 GMT",
+      "summary": "Warsh's gamble: A quieter Federal Reserve could mean volatile markets, higher rates WKMG",
+      "guid": "CBMi0AFBVV95cUxNekg3cHZ6ZnFKNHRyMTRCY20yRnFURHZmWnZ0QnZBVTdyYTBSYkhUU0NwN2Zjc21rck56U2pVWkdpaERqbGcxbG5GZHpRU2hmUFVLcHJsRWdWc1ZNT3N0UnZZZC0tRWgxa1JNTFhTUnduLWJUWnV1YVNjLVBaazRnLTJwS3VHVU83ekpYNkdXMUs1bk5FWXUzcVBzelJsUk9DNnk2ejF3QV9lLXJ3VmdIU1BOQV9QX3RjNllUdl95OVBVdkpVY1VSWG85Q3BDTWdP"
+    },
+    {
+      "title": "The New York Stock Exchange | NYSE - NYSE",
+      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE93UWVlU3g1TVNpdTNEcjI2Yk9kSHU2Tnh5Y0stVFBGRWVkLW9wbU1EbHhQaHdIOE56d2V5NXVhSQ?oc=5",
+      "source": "NYSE",
+      "published_at": "Thu, 18 Jun 2026 22:00:00 GMT",
+      "summary": "The New York Stock Exchange | NYSE NYSE",
+      "guid": "CBMiP0FVX3lxTE93UWVlU3g1TVNpdTNEcjI2Yk9kSHU2Tnh5Y0stVFBGRWVkLW9wbU1EbHhQaHdIOE56d2V5NXVhSQ"
     },
     {
       "title": "How the stock market became Trump’s most favored adviser - The Washington Post",
@@ -77,14 +85,6 @@
       "published_at": "Tue, 09 Jun 2026 07:00:00 GMT",
       "summary": "Will the Stock Market Crash if the Federal Reserve Raises Interest Rates? Soaring Bond Yields Portend Trouble. Yahoo Finance",
       "guid": "CBMinwFBVV95cUxOZnJzS2VRMk9XWWhmalBsWHVjX2NKQU0ydHE5X19kUGt3ZThBNWRZZTlRVk1LUUE0Q1IxSHl1RmFiWFFoRVdFeE5VMkE4MDVGMkNvaE9lZnlLdGpwMXVId0pJR0NIUVIyUm9fN0FvRFdHeHdTeWcwY3NsLVZEb1ZIczUxNHltUjd4RWpleVprN3d6cDhIaVBYUE51QXVvNW8"
-    },
-    {
-      "title": "The Fed decision, JetBlue's Florida plans, Intel's Apple partnership and more in Morning Squawk - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNHFfTW51NnRtYTA4S1FCRll1emFpcjFkS2ktRGxnVjhKZDR5UzRId0wxcTRyRVRCQmZoNkhwT0d0cGZ1RjM1VGgwbkd5T2pxTkZFeVJ0aTkyV3FRVjkxeTAwNGQ4RDZaS0JxS3JHU2czWkIyb1JmZzlhUkxoWE1qREc3ZExFNzM1ZTI00gGQAUFVX3lxTE5ySl9PaElLbTQyaElJZFVvMzExeFZGOFJFX05zd2NPOEcweEdUZi1KTG9mbjZNNmxSS2NPZW1mbmdjelhYX3JIWlJ5RVZQYktDSGRCRDQwUk1sT0xyTWxlTDAxUEVJZmkxcDRqM3NYMW43X2d0MlZEbGs1UHh2T0o3YmFCeEpzS0t2X3lad3FyRA?oc=5",
-      "source": "CNBC",
-      "published_at": "Thu, 18 Jun 2026 12:28:36 GMT",
-      "summary": "The Fed decision, JetBlue's Florida plans, Intel's Apple partnership and more in Morning Squawk CNBC",
-      "guid": "CBMiiwFBVV95cUxQNHFfTW51NnRtYTA4S1FCRll1emFpcjFkS2ktRGxnVjhKZDR5UzRId0wxcTRyRVRCQmZoNkhwT0d0cGZ1RjM1VGgwbkd5T2pxTkZFeVJ0aTkyV3FRVjkxeTAwNGQ4RDZaS0JxS3JHU2czWkIyb1JmZzlhUkxoWE1qREc3ZExFNzM1ZTI00gGQAUFVX3lxTE5ySl9PaElLbTQyaElJZFVvMzExeFZGOFJFX05zd2NPOEcweEdUZi1KTG9mbjZNNmxSS2NPZW1mbmdjelhYX3JIWlJ5RVZQYktDSGRCRDQwUk1sT0xyTWxlTDAxUEVJZmkxcDRqM3NYMW43X2d0MlZEbGs1UHh2T0o3YmFCeEpzS0t2X3lad3FyRA"
     }
   ]
 }
