@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T22:26:54Z",
+  "generated_at": "2026-06-20T23:46:29Z",
   "benchmark": "SPY",
   "sectors": [
     {
@@ -111,10 +111,6 @@
       "symbol": "XLY",
       "trail": [
         {
-          "rsRatio": 100.85,
-          "rsMomentum": 101.03
-        },
-        {
           "rsRatio": 100.73,
           "rsMomentum": 99.88
         },
@@ -129,6 +125,10 @@
         {
           "rsRatio": 99.53,
           "rsMomentum": 98.66
+        },
+        {
+          "rsRatio": 100.06,
+          "rsMomentum": 100.53
         }
       ]
     },
@@ -136,10 +136,6 @@
       "name": "Consumer Staples",
       "symbol": "XLP",
       "trail": [
-        {
-          "rsRatio": 103.58,
-          "rsMomentum": 97.75
-        },
         {
           "rsRatio": 103.13,
           "rsMomentum": 99.56
@@ -155,6 +151,10 @@
         {
           "rsRatio": 99.3,
           "rsMomentum": 98.66
+        },
+        {
+          "rsRatio": 97.81,
+          "rsMomentum": 98.5
         }
       ]
     },
@@ -267,10 +267,6 @@
       "symbol": "XLC",
       "trail": [
         {
-          "rsRatio": 100.59,
-          "rsMomentum": 99.49
-        },
-        {
           "rsRatio": 99.79,
           "rsMomentum": 99.2
         },
@@ -285,9 +281,13 @@
         {
           "rsRatio": 98.02,
           "rsMomentum": 98.53
+        },
+        {
+          "rsRatio": 97.67,
+          "rsMomentum": 99.64
         }
       ]
     }
   ],
-  "lastUpdated": "2026-06-20T22:26:54Z"
+  "lastUpdated": "2026-06-20T23:46:29Z"
 }
