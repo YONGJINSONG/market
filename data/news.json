@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T07:04:05Z",
+  "generated_at": "2026-06-21T10:43:30Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,12 +7,12 @@
   },
   "items": [
     {
-      "title": "Fed Holds Rates and Leans Toward Fighting Inflation With Future Increases - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWlo2eWRfMHQzRGk2MTdTdkR4R3FLWHlxWjdRekZCOWRhWk42ajJxamdDcmZlbER4TzVxZlFMa0F5d0wycHVMejh1Qk1vTGtWQW1qV05HdXp6ZFFOd3FEOXdaRmw5ZC1HdDd6WGl1Q3NnOS0xc3Y0YUdyQ3htLUlzTVJqRG9oalZM?oc=5",
-      "source": "The New York Times",
-      "published_at": "Sun, 21 Jun 2026 04:18:10 GMT",
-      "summary": "Fed Holds Rates and Leans Toward Fighting Inflation With Future Increases The New York Times",
-      "guid": "CBMiiAFBVV95cUxOWlo2eWRfMHQzRGk2MTdTdkR4R3FLWHlxWjdRekZCOWRhWk42ajJxamdDcmZlbER4TzVxZlFMa0F5d0wycHVMejh1Qk1vTGtWQW1qV05HdXp6ZFFOd3FEOXdaRmw5ZC1HdDd6WGl1Q3NnOS0xc3Y0YUdyQ3htLUlzTVJqRG9oalZM"
+      "title": "The New York Stock Exchange | NYSE - NYSE",
+      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE93UWVlU3g1TVNpdTNEcjI2Yk9kSHU2Tnh5Y0stVFBGRWVkLW9wbU1EbHhQaHdIOE56d2V5NXVhSQ?oc=5",
+      "source": "NYSE",
+      "published_at": "Thu, 18 Jun 2026 22:00:00 GMT",
+      "summary": "The New York Stock Exchange | NYSE NYSE",
+      "guid": "CBMiP0FVX3lxTE93UWVlU3g1TVNpdTNEcjI2Yk9kSHU2Tnh5Y0stVFBGRWVkLW9wbU1EbHhQaHdIOE56d2V5NXVhSQ"
     },
     {
       "title": "A quieter Federal Reserve could mean volatile markets, higher rates - Chicago Tribune",
@@ -21,14 +21,6 @@
       "published_at": "Sat, 20 Jun 2026 19:14:14 GMT",
       "summary": "A quieter Federal Reserve could mean volatile markets, higher rates Chicago Tribune",
       "guid": "CBMic0FVX3lxTFA2TmNfdHl3RjdyTHNRTmVoRnltdDRmNHFjTEFFRzRVU3dXY0VSVWhHZWpBUzZGZW9PVWM2eHJqRkFWUVd4NHhvZlNQVmMyU25laXJtSHpZX1pBY3FpaWlpd1dKSlZrSm9XRUdPNVN4eEdDR1E"
-    },
-    {
-      "title": "The New York Stock Exchange | NYSE - NYSE",
-      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE93UWVlU3g1TVNpdTNEcjI2Yk9kSHU2Tnh5Y0stVFBGRWVkLW9wbU1EbHhQaHdIOE56d2V5NXVhSQ?oc=5",
-      "source": "NYSE",
-      "published_at": "Thu, 18 Jun 2026 22:00:00 GMT",
-      "summary": "The New York Stock Exchange | NYSE NYSE",
-      "guid": "CBMiP0FVX3lxTE93UWVlU3g1TVNpdTNEcjI2Yk9kSHU2Tnh5Y0stVFBGRWVkLW9wbU1EbHhQaHdIOE56d2V5NXVhSQ"
     },
     {
       "title": "Federal Reserve policymakers show support for rate hikes as Warsh reins in guidance - AP News",
@@ -55,14 +47,6 @@
       "guid": "CBMinwFBVV95cUxOZnJzS2VRMk9XWWhmalBsWHVjX2NKQU0ydHE5X19kUGt3ZThBNWRZZTlRVk1LUUE0Q1IxSHl1RmFiWFFoRVdFeE5VMkE4MDVGMkNvaE9lZnlLdGpwMXVId0pJR0NIUVIyUm9fN0FvRFdHeHdTeWcwY3NsLVZEb1ZIczUxNHltUjd4RWpleVprN3d6cDhIaVBYUE51QXVvNW8"
     },
     {
-      "title": "US stocks sink on worries about a possible hike to interest rates this year by the Federal Reserve - Boston Herald",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9SUEpIVTJFN1RXZDdLS2RkRkJTc1daN0dWbzdGUG0tUHpyMGFYRV9GeHZhMTZTZUNuS1FLZGhqX2FsWmtMdkxsYzdyVEtTeEgzLUNqdlNTX0JxWHJSMS1xX21SWlNFSFlVMldmQ240NUFmT0V0bGRUWg?oc=5",
-      "source": "Boston Herald",
-      "published_at": "Wed, 17 Jun 2026 19:00:45 GMT",
-      "summary": "US stocks sink on worries about a possible hike to interest rates this year by the Federal Reserve Boston Herald",
-      "guid": "CBMieEFVX3lxTE9SUEpIVTJFN1RXZDdLS2RkRkJTc1daN0dWbzdGUG0tUHpyMGFYRV9GeHZhMTZTZUNuS1FLZGhqX2FsWmtMdkxsYzdyVEtTeEgzLUNqdlNTX0JxWHJSMS1xX21SWlNFSFlVMldmQ240NUFmT0V0bGRUWg"
-    },
-    {
       "title": "US stocks sink on worries about a possible hike to interest rates this year by the Federal Reserve - Audacy",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTFp1NFNwMlpBcTZRNDkzWmlpNWZFTGJadE0yQmZYRG8yb2QxY0xTU01nUFIxejFGRFk2a0hvRnU0NkZ1c3BJVlNsU1djVjVPSXpBcnlhQWJaTFVnZHVkTzlZVmpWYmZWaTBMR2pvdnlHX3RxVXZNSTVMa3UyX1lTR05JNVdfOFJuVDl0Z2FIaldmR2ttZGl6enZiMEt1d0UwYkw2R013a0N3OGN3MzlQSmR3?oc=5",
       "source": "Audacy",
@@ -85,6 +69,22 @@
       "published_at": "Thu, 18 Jun 2026 11:01:00 GMT",
       "summary": "Trump’s Hope or Warsh’s Caution? What Way Wall Street Leans Will Define Stock Market’s Next Move. Barron's",
       "guid": "CBMikAFBVV95cUxPNGxTazNRU2hQR2JZMkNXQVE0TmIzTUlMQk0xaWo4eVBuZlBicmFybVlRcncycE0waHcwdWx2WmxZYkFxVlpRX3BjWlNpNURnYnhMbWVIaGZwelBmY2dhWFIzbWtVY0Z4V0sxQm5YNzNSdF9RYTVXRzIxdU1zU0N6c1BKcUpjbmNPWFV2M1ljNUE"
+    },
+    {
+      "title": "The Fed Held Its Target Range For the Fourth Meeting in a Row but Interest Costs Remain High - Peter G. Peterson Foundation",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONnBNZHlKVVgzUkN2YU9Wd1hmYVZUTklnaUZtVlFNSV9vRTBUWW5ERVVXOVpFTVVmVzRXNkxkT0NSTnFpUmgwQVFzZ0VOX2xwd0tQU19acjh2bFYtR2g4SDdWV0g2dWllWlZrUlVNd0sweXZUWHRWN19Ua3RGZTlsM0h5OVhXcFIxR1JxaXRSbG4xLWZhelE?oc=5",
+      "source": "Peter G. Peterson Foundation",
+      "published_at": "Wed, 17 Jun 2026 07:00:00 GMT",
+      "summary": "The Fed Held Its Target Range For the Fourth Meeting in a Row but Interest Costs Remain High Peter G. Peterson Foundation",
+      "guid": "CBMilgFBVV95cUxONnBNZHlKVVgzUkN2YU9Wd1hmYVZUTklnaUZtVlFNSV9vRTBUWW5ERVVXOVpFTVVmVzRXNkxkT0NSTnFpUmgwQVFzZ0VOX2xwd0tQU19acjh2bFYtR2g4SDdWV0g2dWllWlZrUlVNd0sweXZUWHRWN19Ua3RGZTlsM0h5OVhXcFIxR1JxaXRSbG4xLWZhelE"
+    },
+    {
+      "title": "Trading Day: US stocks end lower, dollar jumps as Federal Reserve kicks off Warsh era - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNXgzLXpId1Nfb2JFdTB1cnhvRVNEcFh0RGd3UGJoUXc1elJITHQxbGN6ZUw1WWFWS0xXMnNLY3NSa1NHSUlhVi14QzR5YjhGWWlhX3BaMWg5NE1fYzI2Wl8zRkxoSmdmSGRobHlDOUtYZ2k0YWk5UG9RcGY0bU9IQ2E1MFc3YkJBd01ZNkFpRm1yczloWV9WeDF5Smh4T1otMW14Vmln?oc=5",
+      "source": "Reuters",
+      "published_at": "Wed, 17 Jun 2026 21:10:02 GMT",
+      "summary": "Trading Day: US stocks end lower, dollar jumps as Federal Reserve kicks off Warsh era Reuters",
+      "guid": "CBMipgFBVV95cUxQNXgzLXpId1Nfb2JFdTB1cnhvRVNEcFh0RGd3UGJoUXc1elJITHQxbGN6ZUw1WWFWS0xXMnNLY3NSa1NHSUlhVi14QzR5YjhGWWlhX3BaMWg5NE1fYzI2Wl8zRkxoSmdmSGRobHlDOUtYZ2k0YWk5UG9RcGY0bU9IQ2E1MFc3YkJBd01ZNkFpRm1yczloWV9WeDF5Smh4T1otMW14Vmln"
     }
   ]
 }
