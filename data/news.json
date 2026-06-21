@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-06-21T20:57:21Z",
+  "generated_at": "2026-06-21T22:08:49Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "Fed holds rates steady as new Chair Kevin Warsh commits to price stability - U.S. Bank",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw?oc=5",
+      "source": "U.S. Bank",
+      "published_at": "Wed, 17 Jun 2026 07:00:00 GMT",
+      "summary": "Fed holds rates steady as new Chair Kevin Warsh commits to price stability U.S. Bank",
+      "guid": "CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw"
+    },
     {
       "title": "Warsh's gamble: A quieter Federal Reserve could mean volatile markets, higher rates - ABC News - Breaking News, Latest News and Videos",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZTNIcEN0R3ZySHZTdlNOM2I5a0NmT3BReXAtRkdaUUV2Tmt1VTVSQWl5WGwyamRtU3ZkV2NHaWZmZkxMcGNqbEg2dDNKbFJGSG9VWUpvd1VJRnFSalNPemFpOXlsUVNub2x4ZDA0WXN5Y0JESzNUWDZ3NEtIYnR1Y3VESlp6NFN6emN1aVVoNXo5UUtRUzdxbVhlZnd1NS1sZFN6WkdjRdIBrAFBVV95cUxQN292TEh1TlFmWWJReTdGZ3Zpc0N0NW1sR2lyYkh2Q0p3ZnBMVjBFLTI5LWVaMnZQNnVoV1I5Q2hVWHprMUpYNEJCZERtYXZ2U1ZOaDVWd2x2VmVoSkgxbl9mVWxUeS1ITDQwdkNYM2N0bGJGcUlRb1d0RlIxUUtqWl9nQXkyWUh2SDB2Uk9jMmtYX0w3MGdMNkRNYnJuUm01dUR0WFYzZWFNYkFY?oc=5",
@@ -23,14 +31,6 @@
       "guid": "CBMiP0FVX3lxTE93UWVlU3g1TVNpdTNEcjI2Yk9kSHU2Tnh5Y0stVFBGRWVkLW9wbU1EbHhQaHdIOE56d2V5NXVhSQ"
     },
     {
-      "title": "Federal Reserve policymakers show support for rate hikes as Warsh reins in guidance - AP News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQ1NBclF1MkF3bkJBNGNLbGpCaWVYMnNadFNpZk1wQjhnenhtMG0ya3FHbkhkdzJDTHB3MEtybmN6YzZlN29SUmpDekMxeUlPZzhJamYyaXVkVmJGV2dweGdJZ2NDdl9EdmhlWHlYaG43SFg4X3o1NXVfc2dMR05hMTI3N3F2b1ZTMlpBOGZ5TjhZVGNJSTNHVWpHaDFNc3A1NWw4Sg?oc=5",
-      "source": "AP News",
-      "published_at": "Wed, 17 Jun 2026 21:54:00 GMT",
-      "summary": "Federal Reserve policymakers show support for rate hikes as Warsh reins in guidance AP News",
-      "guid": "CBMipAFBVV95cUxOQ1NBclF1MkF3bkJBNGNLbGpCaWVYMnNadFNpZk1wQjhnenhtMG0ya3FHbkhkdzJDTHB3MEtybmN6YzZlN29SUmpDekMxeUlPZzhJamYyaXVkVmJGV2dweGdJZ2NDdl9EdmhlWHlYaG43SFg4X3o1NXVfc2dMR05hMTI3N3F2b1ZTMlpBOGZ5TjhZVGNJSTNHVWpHaDFNc3A1NWw4Sg"
-    },
-    {
       "title": "Will the Stock Market Crash if the Federal Reserve Raises Interest Rates? Soaring Bond Yields Portend Trouble. - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZnJzS2VRMk9XWWhmalBsWHVjX2NKQU0ydHE5X19kUGt3ZThBNWRZZTlRVk1LUUE0Q1IxSHl1RmFiWFFoRVdFeE5VMkE4MDVGMkNvaE9lZnlLdGpwMXVId0pJR0NIUVIyUm9fN0FvRFdHeHdTeWcwY3NsLVZEb1ZIczUxNHltUjd4RWpleVprN3d6cDhIaVBYUE51QXVvNW8?oc=5",
       "source": "Yahoo Finance",
@@ -39,20 +39,12 @@
       "guid": "CBMinwFBVV95cUxOZnJzS2VRMk9XWWhmalBsWHVjX2NKQU0ydHE5X19kUGt3ZThBNWRZZTlRVk1LUUE0Q1IxSHl1RmFiWFFoRVdFeE5VMkE4MDVGMkNvaE9lZnlLdGpwMXVId0pJR0NIUVIyUm9fN0FvRFdHeHdTeWcwY3NsLVZEb1ZIczUxNHltUjd4RWpleVprN3d6cDhIaVBYUE51QXVvNW8"
     },
     {
-      "title": "US stocks sink on worries about a possible hike to interest rates this year by the Federal Reserve - Audacy",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTFp1NFNwMlpBcTZRNDkzWmlpNWZFTGJadE0yQmZYRG8yb2QxY0xTU01nUFIxejFGRFk2a0hvRnU0NkZ1c3BJVlNsU1djVjVPSXpBcnlhQWJaTFVnZHVkTzlZVmpWYmZWaTBMR2pvdnlHX3RxVXZNSTVMa3UyX1lTR05JNVdfOFJuVDl0Z2FIaldmR2ttZGl6enZiMEt1d0UwYkw2R013a0N3OGN3MzlQSmR3?oc=5",
-      "source": "Audacy",
-      "published_at": "Thu, 18 Jun 2026 02:21:06 GMT",
-      "summary": "US stocks sink on worries about a possible hike to interest rates this year by the Federal Reserve Audacy",
-      "guid": "CBMisgFBVV95cUxQTFp1NFNwMlpBcTZRNDkzWmlpNWZFTGJadE0yQmZYRG8yb2QxY0xTU01nUFIxejFGRFk2a0hvRnU0NkZ1c3BJVlNsU1djVjVPSXpBcnlhQWJaTFVnZHVkTzlZVmpWYmZWaTBMR2pvdnlHX3RxVXZNSTVMa3UyX1lTR05JNVdfOFJuVDl0Z2FIaldmR2ttZGl6enZiMEt1d0UwYkw2R013a0N3OGN3MzlQSmR3"
-    },
-    {
-      "title": "What to Look Out for in Economic Data This Week (June 22-26) - Kiplinger",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ?oc=5",
-      "source": "Kiplinger",
-      "published_at": "Thu, 18 Jun 2026 16:22:39 GMT",
-      "summary": "What to Look Out for in Economic Data This Week (June 22-26) Kiplinger",
-      "guid": "CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ"
+      "title": "Federal Reserve policymakers show support for rate hikes as Warsh reins in guidance - AP News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQ1NBclF1MkF3bkJBNGNLbGpCaWVYMnNadFNpZk1wQjhnenhtMG0ya3FHbkhkdzJDTHB3MEtybmN6YzZlN29SUmpDekMxeUlPZzhJamYyaXVkVmJGV2dweGdJZ2NDdl9EdmhlWHlYaG43SFg4X3o1NXVfc2dMR05hMTI3N3F2b1ZTMlpBOGZ5TjhZVGNJSTNHVWpHaDFNc3A1NWw4Sg?oc=5",
+      "source": "AP News",
+      "published_at": "Wed, 17 Jun 2026 21:54:00 GMT",
+      "summary": "Federal Reserve policymakers show support for rate hikes as Warsh reins in guidance AP News",
+      "guid": "CBMipAFBVV95cUxOQ1NBclF1MkF3bkJBNGNLbGpCaWVYMnNadFNpZk1wQjhnenhtMG0ya3FHbkhkdzJDTHB3MEtybmN6YzZlN29SUmpDekMxeUlPZzhJamYyaXVkVmJGV2dweGdJZ2NDdl9EdmhlWHlYaG43SFg4X3o1NXVfc2dMR05hMTI3N3F2b1ZTMlpBOGZ5TjhZVGNJSTNHVWpHaDFNc3A1NWw4Sg"
     },
     {
       "title": "Federal Reserve Meeting 2026: These Are the 3 Most Important Takeaway for Investors Right Now - The Globe and Mail",
@@ -71,20 +63,28 @@
       "guid": "CBMilgFBVV95cUxONnBNZHlKVVgzUkN2YU9Wd1hmYVZUTklnaUZtVlFNSV9vRTBUWW5ERVVXOVpFTVVmVzRXNkxkT0NSTnFpUmgwQVFzZ0VOX2xwd0tQU19acjh2bFYtR2g4SDdWV0g2dWllWlZrUlVNd0sweXZUWHRWN19Ua3RGZTlsM0h5OVhXcFIxR1JxaXRSbG4xLWZhelE"
     },
     {
-      "title": "Trading Day: US stocks end lower, dollar jumps as Federal Reserve kicks off Warsh era - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNXgzLXpId1Nfb2JFdTB1cnhvRVNEcFh0RGd3UGJoUXc1elJITHQxbGN6ZUw1WWFWS0xXMnNLY3NSa1NHSUlhVi14QzR5YjhGWWlhX3BaMWg5NE1fYzI2Wl8zRkxoSmdmSGRobHlDOUtYZ2k0YWk5UG9RcGY0bU9IQ2E1MFc3YkJBd01ZNkFpRm1yczloWV9WeDF5Smh4T1otMW14Vmln?oc=5",
+      "title": "European shares retreat as markets mull hawkish US Federal Reserve - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZG02bzJ4OGJXcmxfdVpUOF93YnROQ0h1YWd4WFNfbmlnaDBHb205WDBYdEE5VXFfVDVELThyWGs0RzlJZEpXeU5YNkpXU2VxNUhIVnV5MUdCVWRvYkc1YTdCaml5dGsyUXFodnR2eWRVNG5YTmRDbTl4bGVOanEwQnNzYnhRYUtYaWtGVGxsS2lpQWp4b3kzUw?oc=5",
       "source": "Reuters",
-      "published_at": "Wed, 17 Jun 2026 21:10:02 GMT",
-      "summary": "Trading Day: US stocks end lower, dollar jumps as Federal Reserve kicks off Warsh era Reuters",
-      "guid": "CBMipgFBVV95cUxQNXgzLXpId1Nfb2JFdTB1cnhvRVNEcFh0RGd3UGJoUXc1elJITHQxbGN6ZUw1WWFWS0xXMnNLY3NSa1NHSUlhVi14QzR5YjhGWWlhX3BaMWg5NE1fYzI2Wl8zRkxoSmdmSGRobHlDOUtYZ2k0YWk5UG9RcGY0bU9IQ2E1MFc3YkJBd01ZNkFpRm1yczloWV9WeDF5Smh4T1otMW14Vmln"
+      "published_at": "Thu, 18 Jun 2026 16:55:52 GMT",
+      "summary": "European shares retreat as markets mull hawkish US Federal Reserve Reuters",
+      "guid": "CBMimAFBVV95cUxPZG02bzJ4OGJXcmxfdVpUOF93YnROQ0h1YWd4WFNfbmlnaDBHb205WDBYdEE5VXFfVDVELThyWGs0RzlJZEpXeU5YNkpXU2VxNUhIVnV5MUdCVWRvYkc1YTdCaml5dGsyUXFodnR2eWRVNG5YTmRDbTl4bGVOanEwQnNzYnhRYUtYaWtGVGxsS2lpQWp4b3kzUw"
     },
     {
-      "title": "Stock Markets: All Eyes on the Federal Reserve - tastylive",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQi0yZ09Fa1ZZVEM1RUdyOTNQUktncWhHbk1hRk5mUWZGc3ZPZmRJam5GRjVWXzlFWmFCZ2xXdTBpUnlIWDY4MVFWMlpJYW95TU5UdExSVVkyQThBWlFweWNMZXp0RktUeVZxZ0U5MzZRMFBFQ3lFZWp4ZEcwb292aU93MlY5S3g0OE5PTzRybHl5cGY5dlJyRS1xOEhqOFFrcXdrYjZ2Y0pxMkhVUVE?oc=5",
-      "source": "tastylive",
-      "published_at": "Tue, 16 Jun 2026 19:01:19 GMT",
-      "summary": "Stock Markets: All Eyes on the Federal Reserve tastylive",
-      "guid": "CBMirgFBVV95cUxNQi0yZ09Fa1ZZVEM1RUdyOTNQUktncWhHbk1hRk5mUWZGc3ZPZmRJam5GRjVWXzlFWmFCZ2xXdTBpUnlIWDY4MVFWMlpJYW95TU5UdExSVVkyQThBWlFweWNMZXp0RktUeVZxZ0U5MzZRMFBFQ3lFZWp4ZEcwb292aU93MlY5S3g0OE5PTzRybHl5cGY5dlJyRS1xOEhqOFFrcXdrYjZ2Y0pxMkhVUVE"
+      "title": "Stocks sink as worries about an interest rate hike rattle tech investors - NBC News",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBWSkFNXzRXTVY3dlhsQzJ6WFB6ZWFIVmcxZHdrR0dNOUpnd1FFZVlDSnJxUmZNZlBoQWVtdWI4NHpzdDJOZVhhcUtvXzZubmJvV1djRVhUMHhLaERvYkxaSnlKZ0c2RTNsQlBGR09LcGh1VzdsVUlr?oc=5",
+      "source": "NBC News",
+      "published_at": "Fri, 05 Jun 2026 07:00:00 GMT",
+      "summary": "Stocks sink as worries about an interest rate hike rattle tech investors NBC News",
+      "guid": "CBMid0FVX3lxTFBWSkFNXzRXTVY3dlhsQzJ6WFB6ZWFIVmcxZHdrR0dNOUpnd1FFZVlDSnJxUmZNZlBoQWVtdWI4NHpzdDJOZVhhcUtvXzZubmJvV1djRVhUMHhLaERvYkxaSnlKZ0c2RTNsQlBGR09LcGh1VzdsVUlr"
+    },
+    {
+      "title": "Fed vibe sinks US stocks - CommBank",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNekxaa2ZIYWVUdWJ1WGtjazlhN1hLank3WVI4VWhvX05UV3F6VWZrYXBEMFNhb0drSXFaYmdWeWRUcGVhTTZoUDNVeDlmcXVmc0l3Q0RocExnRnpRRF9WT1MzWHdjejdGUGZDdjJUam5SSTRfQU9RSGF0b0N0RFZhanhGNS1NNmxRTjd1Q1AyTlZFUnF3S0thdlVxcFl5WGduLUNkVA?oc=5",
+      "source": "CommBank",
+      "published_at": "Thu, 18 Jun 2026 00:21:09 GMT",
+      "summary": "Fed vibe sinks US stocks CommBank",
+      "guid": "CBMipAFBVV95cUxNekxaa2ZIYWVUdWJ1WGtjazlhN1hLank3WVI4VWhvX05UV3F6VWZrYXBEMFNhb0drSXFaYmdWeWRUcGVhTTZoUDNVeDlmcXVmc0l3Q0RocExnRnpRRF9WT1MzWHdjejdGUGZDdjJUam5SSTRfQU9RSGF0b0N0RFZhanhGNS1NNmxRTjd1Q1AyTlZFUnF3S0thdlVxcFl5WGduLUNkVA"
     }
   ]
 }
