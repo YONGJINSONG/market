@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-06-23T10:07:46Z",
+  "generated_at": "2026-06-23T12:45:35Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "Stocks hit by Fed rate reality check; oil slips - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRmhDU00zNnJxQ0g3SWFxOFJ0RVlnTl8tSHl2cS1sRS16eTJtVmxHOU15dkRqR2NKU3BRMUZtTEx1RjFzSVFwRzRWVFpQdnNBU1VwMDM5RFpBTU1HRzJiV2tFUXhvdGRSenhPcTVVVldGV2pDd0lEZms2UVMwUmE4RzJLYnhJYWloLVJUNA?oc=5",
+      "source": "Reuters",
+      "published_at": "Tue, 23 Jun 2026 01:30:00 GMT",
+      "summary": "Stocks hit by Fed rate reality check; oil slips Reuters",
+      "guid": "CBMijAFBVV95cUxPRmhDU00zNnJxQ0g3SWFxOFJ0RVlnTl8tSHl2cS1sRS16eTJtVmxHOU15dkRqR2NKU3BRMUZtTEx1RjFzSVFwRzRWVFpQdnNBU1VwMDM5RFpBTU1HRzJiV2tFUXhvdGRSenhPcTVVVldGV2pDd0lEZms2UVMwUmE4RzJLYnhJYWloLVJUNA"
+    },
     {
       "title": "The Federal Reserve Just Delivered Terrible News for the Stock Market, but There's a Silver Lining for Investors - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLXNDczg3SEN1VWJZZ2NYUHVjVEZEVV9YZ3MzOHJYTjloSl9QZlh3STdub0RBSGlmWlNRaTljQjFTRVd2NUJscU9SUGUxOVpoaERCMlBJQnBpZFJpNWlMS242YUc4UjRnQmFBd1hzMWZ5SXQ5ZjBwS2VuWWItcXZnUUsxNmZKNjlUekYyd0xpSUVlZkNhTHViMnBQQ1lGRUJJZ2FJ?oc=5",
@@ -15,20 +23,20 @@
       "guid": "CBMiowFBVV95cUxOLXNDczg3SEN1VWJZZ2NYUHVjVEZEVV9YZ3MzOHJYTjloSl9QZlh3STdub0RBSGlmWlNRaTljQjFTRVd2NUJscU9SUGUxOVpoaERCMlBJQnBpZFJpNWlMS242YUc4UjRnQmFBd1hzMWZ5SXQ5ZjBwS2VuWWItcXZnUUsxNmZKNjlUekYyd0xpSUVlZkNhTHViMnBQQ1lGRUJJZ2FJ"
     },
     {
-      "title": "Alan Greenspan, longtime chairman of the Federal Reserve, dies at 100 - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYXo0WUNLQWNxTy02eEJtSF9VQTM1eUtvMWtXMndXeWJPUkNRcldqZndPN1M1LVJJWjFzRVVhbm5GbWw5UXpucEUxVnhaZTlfUk9RUmFzS0NLbVJrTnNHT2pIelllN1lGb084emdnQVJSdTFoMmR4T01USGF3clZqaXdzcF9aZXgyaHFTVWdrNVYxdmNZMkw4SUhURk5aYjF0MURKZWZtQdIBrAFBVV95cUxPNDV2VVR1UnlORldBUXo3aUltVTV5N3JzODdDSWhmWHJraG40d0prZEZSQUQ3QjFERXQ5Y0NlU2pMZjlJZ1hrc1pDTTcteUpRMUNVUFhtd3RXRnRhQldBX0FjSGlTZTZyRkU1M1FYVUlEMDJaMW9MVFNvcXY4UzU5MURWZXhqb2xQZ0VHX1Z4ODY1VjdPbktwSlVDMF9haTltdHh4dFRmWUJJVFhK?oc=5",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "published_at": "Mon, 22 Jun 2026 13:06:34 GMT",
-      "summary": "Alan Greenspan, longtime chairman of the Federal Reserve, dies at 100 ABC News - Breaking News, Latest News and Videos",
-      "guid": "CBMipwFBVV95cUxNYXo0WUNLQWNxTy02eEJtSF9VQTM1eUtvMWtXMndXeWJPUkNRcldqZndPN1M1LVJJWjFzRVVhbm5GbWw5UXpucEUxVnhaZTlfUk9RUmFzS0NLbVJrTnNHT2pIelllN1lGb084emdnQVJSdTFoMmR4T01USGF3clZqaXdzcF9aZXgyaHFTVWdrNVYxdmNZMkw4SUhURk5aYjF0MURKZWZtQdIBrAFBVV95cUxPNDV2VVR1UnlORldBUXo3aUltVTV5N3JzODdDSWhmWHJraG40d0prZEZSQUQ3QjFERXQ5Y0NlU2pMZjlJZ1hrc1pDTTcteUpRMUNVUFhtd3RXRnRhQldBX0FjSGlTZTZyRkU1M1FYVUlEMDJaMW9MVFNvcXY4UzU5MURWZXhqb2xQZ0VHX1Z4ODY1VjdPbktwSlVDMF9haTltdHh4dFRmWUJJVFhK"
-    },
-    {
       "title": "Alan Greenspan has died, Fed chair's excellent reputation shattered in 2008 global credit crisis - Los Angeles Times",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMzY5T0dDQ3BrWHp4RTM4QXJEeEFVS1E4ZFYwOE1ISHdXcFJNWGtYQWlYOEowMFNCZmxPZnRVMmhnYlVRUlRjRUZ2TlVudk1OSjVKY05SME82dENpdDVxNVptSm9Xc0Q3UzJYZDhxb2I1QjUtazBSRmM1UjlUSXFMbkUzcDFnZEowOTJ5M0xuUUlQZUk4?oc=5",
       "source": "Los Angeles Times",
       "published_at": "Mon, 22 Jun 2026 21:14:00 GMT",
       "summary": "Alan Greenspan has died, Fed chair's excellent reputation shattered in 2008 global credit crisis Los Angeles Times",
       "guid": "CBMilAFBVV95cUxQMzY5T0dDQ3BrWHp4RTM4QXJEeEFVS1E4ZFYwOE1ISHdXcFJNWGtYQWlYOEowMFNCZmxPZnRVMmhnYlVRUlRjRUZ2TlVudk1OSjVKY05SME82dENpdDVxNVptSm9Xc0Q3UzJYZDhxb2I1QjUtazBSRmM1UjlUSXFMbkUzcDFnZEowOTJ5M0xuUUlQZUk4"
+    },
+    {
+      "title": "Alan Greenspan, longtime chairman of the Federal Reserve, dies at 100 - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYXo0WUNLQWNxTy02eEJtSF9VQTM1eUtvMWtXMndXeWJPUkNRcldqZndPN1M1LVJJWjFzRVVhbm5GbWw5UXpucEUxVnhaZTlfUk9RUmFzS0NLbVJrTnNHT2pIelllN1lGb084emdnQVJSdTFoMmR4T01USGF3clZqaXdzcF9aZXgyaHFTVWdrNVYxdmNZMkw4SUhURk5aYjF0MURKZWZtQdIBrAFBVV95cUxPNDV2VVR1UnlORldBUXo3aUltVTV5N3JzODdDSWhmWHJraG40d0prZEZSQUQ3QjFERXQ5Y0NlU2pMZjlJZ1hrc1pDTTcteUpRMUNVUFhtd3RXRnRhQldBX0FjSGlTZTZyRkU1M1FYVUlEMDJaMW9MVFNvcXY4UzU5MURWZXhqb2xQZ0VHX1Z4ODY1VjdPbktwSlVDMF9haTltdHh4dFRmWUJJVFhK?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "published_at": "Mon, 22 Jun 2026 13:06:34 GMT",
+      "summary": "Alan Greenspan, longtime chairman of the Federal Reserve, dies at 100 ABC News - Breaking News, Latest News and Videos",
+      "guid": "CBMipwFBVV95cUxNYXo0WUNLQWNxTy02eEJtSF9VQTM1eUtvMWtXMndXeWJPUkNRcldqZndPN1M1LVJJWjFzRVVhbm5GbWw5UXpucEUxVnhaZTlfUk9RUmFzS0NLbVJrTnNHT2pIelllN1lGb084emdnQVJSdTFoMmR4T01USGF3clZqaXdzcF9aZXgyaHFTVWdrNVYxdmNZMkw4SUhURk5aYjF0MURKZWZtQdIBrAFBVV95cUxPNDV2VVR1UnlORldBUXo3aUltVTV5N3JzODdDSWhmWHJraG40d0prZEZSQUQ3QjFERXQ5Y0NlU2pMZjlJZ1hrc1pDTTcteUpRMUNVUFhtd3RXRnRhQldBX0FjSGlTZTZyRkU1M1FYVUlEMDJaMW9MVFNvcXY4UzU5MURWZXhqb2xQZ0VHX1Z4ODY1VjdPbktwSlVDMF9haTltdHh4dFRmWUJJVFhK"
     },
     {
       "title": "Former Federal Reserve Chairman Alan Greenspan dies at 100 - PBS",
@@ -55,22 +63,6 @@
       "guid": "CBMib0FVX3lxTFA1WDJXSmRrSnpUMkNvb013Z1VJWm1zVVNQOUwtYXRFRFMtMWVSV3hveGpERTdrMXg0XzBSaFc3ZG5HWU9leEMzbUFhcm1uT0FHVzlod1VNNnhadDJsdTQwUjdtTTYzck4wbUFkekQ4UQ"
     },
     {
-      "title": "Longtime Federal Reserve Chairman Alan Greenspan dies at 100 - NPR",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbVFBYWUxWEdFQjZaTDhvX25fRXpIaEc0amVHR1phRTluc0xsdUQ4TFhnRlhnYjZXRHUwQjJvemhwRHV1ekpaRnhIdi1TZi1XM29weGd4UkpQYTFFVFAyMkdnTmp0WDRTYy1ZN05xU2V0SFNTSW9FTUtkWTByeDAxLUhMM2FRemhfM3MzaDgxaHR4Z1RmdFNhQ3lVM0pYcXVPSUZPQmlMSUo?oc=5",
-      "source": "NPR",
-      "published_at": "Mon, 22 Jun 2026 11:48:32 GMT",
-      "summary": "Longtime Federal Reserve Chairman Alan Greenspan dies at 100 NPR",
-      "guid": "CBMiqAFBVV95cUxNbVFBYWUxWEdFQjZaTDhvX25fRXpIaEc0amVHR1phRTluc0xsdUQ4TFhnRlhnYjZXRHUwQjJvemhwRHV1ekpaRnhIdi1TZi1XM29weGd4UkpQYTFFVFAyMkdnTmp0WDRTYy1ZN05xU2V0SFNTSW9FTUtkWTByeDAxLUhMM2FRemhfM3MzaDgxaHR4Z1RmdFNhQ3lVM0pYcXVPSUZPQmlMSUo"
-    },
-    {
-      "title": "Alan Greenspan, US Fed 'maestro' through years of boom and bust, dies at 100 - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRHBXVTFXSXh5c3hmUjVJU2dudDdxNGFvWXFFLTJ2MWpwbV9MZ3NqZmoyZVJTWDc2NkI1bEJsTDItb3JnWVJPdFdiVDZubXZtV01ER0NxSzdnd0I5dnh4SzZ5NXJjRXdhRHdtSHFlb0FMZDROeGlWdDFwRDdVS29ac3JsSTRLT2c4RzhtN1dsLXdobGFpZ3p3NXdRMVl0Mmx2a0hPQXFlci1Pa3pCS0M3WmgwaklNX1FDS2dSNDVQZEx6YlU?oc=5",
-      "source": "Reuters",
-      "published_at": "Mon, 22 Jun 2026 22:17:24 GMT",
-      "summary": "Alan Greenspan, US Fed 'maestro' through years of boom and bust, dies at 100 Reuters",
-      "guid": "CBMiwwFBVV95cUxPRHBXVTFXSXh5c3hmUjVJU2dudDdxNGFvWXFFLTJ2MWpwbV9MZ3NqZmoyZVJTWDc2NkI1bEJsTDItb3JnWVJPdFdiVDZubXZtV01ER0NxSzdnd0I5dnh4SzZ5NXJjRXdhRHdtSHFlb0FMZDROeGlWdDFwRDdVS29ac3JsSTRLT2c4RzhtN1dsLXdobGFpZ3p3NXdRMVl0Mmx2a0hPQXFlci1Pa3pCS0M3WmgwaklNX1FDS2dSNDVQZEx6YlU"
-    },
-    {
       "title": "How the stock market became Trump’s most favored adviser - The Washington Post",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNXE3Z3pOWVZHNnViVUx0eTR4VEhYaXVlbjZRMjNRRVFzV29jamJfNUFCRkRERnNOeXQ0cmJoRlZmVE1Cbm9ReTFRUm1oa0RBNFlOSzM1ZjNUNktNcy1TOHJPa0duaV9OQUJtV3BhVnREYnppWDdZbzhrMVNyajlFbkVwVHh4R091N1hjel82REp1dGp1RTZENzJjWDlzSnhDbTd4Y3VIcW11OWJGaXc?oc=5",
       "source": "The Washington Post",
@@ -79,12 +71,20 @@
       "guid": "CBMirgFBVV95cUxNNXE3Z3pOWVZHNnViVUx0eTR4VEhYaXVlbjZRMjNRRVFzV29jamJfNUFCRkRERnNOeXQ0cmJoRlZmVE1Cbm9ReTFRUm1oa0RBNFlOSzM1ZjNUNktNcy1TOHJPa0duaV9OQUJtV3BhVnREYnppWDdZbzhrMVNyajlFbkVwVHh4R091N1hjel82REp1dGp1RTZENzJjWDlzSnhDbTd4Y3VIcW11OWJGaXc"
     },
     {
-      "title": "Alan Greenspan, former Fed chairman, dies at 100 - Axios",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1vNVVBQms2T3FMMkl0R25NY1ZzY3ZjTXB4OHg0NUhhNHZ0cWJmYk1wX1llTlhvNjZFREh2MW9uN29saGZhV2x6T0lsS21NVmJ1S1hZTDQwMXVkT2N3YjJFeEJOMWdiU28?oc=5",
-      "source": "Axios",
-      "published_at": "Mon, 22 Jun 2026 15:59:37 GMT",
-      "summary": "Alan Greenspan, former Fed chairman, dies at 100 Axios",
-      "guid": "CBMiZ0FVX3lxTE1vNVVBQms2T3FMMkl0R25NY1ZzY3ZjTXB4OHg0NUhhNHZ0cWJmYk1wX1llTlhvNjZFREh2MW9uN29saGZhV2x6T0lsS21NVmJ1S1hZTDQwMXVkT2N3YjJFeEJOMWdiU28"
+      "title": "Longtime Federal Reserve Chairman Alan Greenspan dies at 100 - NPR",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbVFBYWUxWEdFQjZaTDhvX25fRXpIaEc0amVHR1phRTluc0xsdUQ4TFhnRlhnYjZXRHUwQjJvemhwRHV1ekpaRnhIdi1TZi1XM29weGd4UkpQYTFFVFAyMkdnTmp0WDRTYy1ZN05xU2V0SFNTSW9FTUtkWTByeDAxLUhMM2FRemhfM3MzaDgxaHR4Z1RmdFNhQ3lVM0pYcXVPSUZPQmlMSUo?oc=5",
+      "source": "NPR",
+      "published_at": "Mon, 22 Jun 2026 11:48:32 GMT",
+      "summary": "Longtime Federal Reserve Chairman Alan Greenspan dies at 100 NPR",
+      "guid": "CBMiqAFBVV95cUxNbVFBYWUxWEdFQjZaTDhvX25fRXpIaEc0amVHR1phRTluc0xsdUQ4TFhnRlhnYjZXRHUwQjJvemhwRHV1ekpaRnhIdi1TZi1XM29weGd4UkpQYTFFVFAyMkdnTmp0WDRTYy1ZN05xU2V0SFNTSW9FTUtkWTByeDAxLUhMM2FRemhfM3MzaDgxaHR4Z1RmdFNhQ3lVM0pYcXVPSUZPQmlMSUo"
+    },
+    {
+      "title": "Federal Reserve policymakers show support for rate hikes as Warsh reins in guidance - AP News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQ1NBclF1MkF3bkJBNGNLbGpCaWVYMnNadFNpZk1wQjhnenhtMG0ya3FHbkhkdzJDTHB3MEtybmN6YzZlN29SUmpDekMxeUlPZzhJamYyaXVkVmJGV2dweGdJZ2NDdl9EdmhlWHlYaG43SFg4X3o1NXVfc2dMR05hMTI3N3F2b1ZTMlpBOGZ5TjhZVGNJSTNHVWpHaDFNc3A1NWw4Sg?oc=5",
+      "source": "AP News",
+      "published_at": "Wed, 17 Jun 2026 21:54:00 GMT",
+      "summary": "Federal Reserve policymakers show support for rate hikes as Warsh reins in guidance AP News",
+      "guid": "CBMipAFBVV95cUxOQ1NBclF1MkF3bkJBNGNLbGpCaWVYMnNadFNpZk1wQjhnenhtMG0ya3FHbkhkdzJDTHB3MEtybmN6YzZlN29SUmpDekMxeUlPZzhJamYyaXVkVmJGV2dweGdJZ2NDdl9EdmhlWHlYaG43SFg4X3o1NXVfc2dMR05hMTI3N3F2b1ZTMlpBOGZ5TjhZVGNJSTNHVWpHaDFNc3A1NWw4Sg"
     }
   ]
 }
