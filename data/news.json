@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T01:28:58Z",
+  "generated_at": "2026-06-24T05:35:57Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -15,28 +15,12 @@
       "guid": "CBMimwFBVV95cUxNNGRySjJXc0VJVWZXdWVTLTdpRDNna2tUaERVVlNpanFrYUR5VFVhSlhwNFZFRlloY2IxX1Y5N1NPVWZDSkNGQW1vUTZDaDZuck1nQkdsN01WTDRRb1B4R1Fnenk5Q0p4RThmS3FmQXNmaXhLUS1STjQ4VDBZVzJPNndZN2UwNkl1cEVBZ0VsX2s0SnVBNXQ1TjlGNA"
     },
     {
-      "title": "Tech selloff drags global stocks lower - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRmhDU00zNnJxQ0g3SWFxOFJ0RVlnTl8tSHl2cS1sRS16eTJtVmxHOU15dkRqR2NKU3BRMUZtTEx1RjFzSVFwRzRWVFpQdnNBU1VwMDM5RFpBTU1HRzJiV2tFUXhvdGRSenhPcTVVVldGV2pDd0lEZms2UVMwUmE4RzJLYnhJYWloLVJUNA?oc=5",
-      "source": "Reuters",
-      "published_at": "Tue, 23 Jun 2026 22:15:43 GMT",
-      "summary": "Tech selloff drags global stocks lower Reuters",
-      "guid": "CBMijAFBVV95cUxPRmhDU00zNnJxQ0g3SWFxOFJ0RVlnTl8tSHl2cS1sRS16eTJtVmxHOU15dkRqR2NKU3BRMUZtTEx1RjFzSVFwRzRWVFpQdnNBU1VwMDM5RFpBTU1HRzJiV2tFUXhvdGRSenhPcTVVVldGV2pDd0lEZms2UVMwUmE4RzJLYnhJYWloLVJUNA"
-    },
-    {
       "title": "The Federal Reserve Just Delivered Terrible News for the Stock Market, but There's a Silver Lining for Investors - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLXNDczg3SEN1VWJZZ2NYUHVjVEZEVV9YZ3MzOHJYTjloSl9QZlh3STdub0RBSGlmWlNRaTljQjFTRVd2NUJscU9SUGUxOVpoaERCMlBJQnBpZFJpNWlMS242YUc4UjRnQmFBd1hzMWZ5SXQ5ZjBwS2VuWWItcXZnUUsxNmZKNjlUekYyd0xpSUVlZkNhTHViMnBQQ1lGRUJJZ2FJ?oc=5",
       "source": "Yahoo Finance",
       "published_at": "Mon, 22 Jun 2026 11:35:00 GMT",
       "summary": "The Federal Reserve Just Delivered Terrible News for the Stock Market, but There's a Silver Lining for Investors Yahoo Finance",
       "guid": "CBMiowFBVV95cUxOLXNDczg3SEN1VWJZZ2NYUHVjVEZEVV9YZ3MzOHJYTjloSl9QZlh3STdub0RBSGlmWlNRaTljQjFTRVd2NUJscU9SUGUxOVpoaERCMlBJQnBpZFJpNWlMS242YUc4UjRnQmFBd1hzMWZ5SXQ5ZjBwS2VuWWItcXZnUUsxNmZKNjlUekYyd0xpSUVlZkNhTHViMnBQQ1lGRUJJZ2FJ"
-    },
-    {
-      "title": "Treasury yields fall despite rate hike concerns hitting tech stocks - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQTN6VUFYenpib1A2VWY0d3NFVy1HYmJ3Q205ekJfQnpBZzZSd0NoTlg0c2ZrOE9YeEg1LUN6cXl1aTM0NjFiMDVlZm56QW9IdHpoT3VkbXAwYWRZUGRFc2xDV1VGcWp6UmZoOVNhTGVFR2FtMmJTUTA4dUZiV1NobXFCZXpva0d5TF85QnZ4eTZUY1VqUlHSAZsBQVVfeXFMTWxFdlRyZ1gyNTBGeWpQU2VqNzlLUGpaMGdKNjkzWkNNM2NkZ1JDMjVyMXl4b2FVZUp4MTNQVDQzVDd0SFlpVzE2RHh5T3FKX2Rob3hiazB2VDRTbWJNSGJERjhnUjdyUXAyZEJ6Y3VDMUxRNV9lQlhKSGZPcEFpdkM4QnFkc2JydTlCS3VoaDdhMkVlamlBbGpKMlk?oc=5",
-      "source": "CNBC",
-      "published_at": "Tue, 23 Jun 2026 09:08:16 GMT",
-      "summary": "Treasury yields fall despite rate hike concerns hitting tech stocks CNBC",
-      "guid": "CBMilgFBVV95cUxQQTN6VUFYenpib1A2VWY0d3NFVy1HYmJ3Q205ekJfQnpBZzZSd0NoTlg0c2ZrOE9YeEg1LUN6cXl1aTM0NjFiMDVlZm56QW9IdHpoT3VkbXAwYWRZUGRFc2xDV1VGcWp6UmZoOVNhTGVFR2FtMmJTUTA4dUZiV1NobXFCZXpva0d5TF85QnZ4eTZUY1VqUlHSAZsBQVVfeXFMTWxFdlRyZ1gyNTBGeWpQU2VqNzlLUGpaMGdKNjkzWkNNM2NkZ1JDMjVyMXl4b2FVZUp4MTNQVDQzVDd0SFlpVzE2RHh5T3FKX2Rob3hiazB2VDRTbWJNSGJERjhnUjdyUXAyZEJ6Y3VDMUxRNV9lQlhKSGZPcEFpdkM4QnFkc2JydTlCS3VoaDdhMkVlamlBbGpKMlk"
     },
     {
       "title": "Alan Greenspan, former Fed chairman, dies at 100 - Axios",
@@ -63,6 +47,14 @@
       "guid": "CBMib0FVX3lxTFA1WDJXSmRrSnpUMkNvb013Z1VJWm1zVVNQOUwtYXRFRFMtMWVSV3hveGpERTdrMXg0XzBSaFc3ZG5HWU9leEMzbUFhcm1uT0FHVzlod1VNNnhadDJsdTQwUjdtTTYzck4wbUFkekQ4UQ"
     },
     {
+      "title": "Alan Greenspan, the legendary former Federal Reserve chair, dies - InsuranceNewsNet",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUUxGNWNoS0oyT0pYRFoxUThsVC10S0ZpcUxUTzVpTnZselhoSGVJY1l5ci1DdV91VktXR1VUVm5tc0FVT2FtREVabTduQTlFWXhhRXpGX2lDVFpKX0RYUXFRd3BiNWVCbUVnNTUybkxGVzVsbnpLVVBXUGdmM2lWZW5DQ1pVQzFwTkJFaFMyRENwSmloYjRtajhPLUJnMmtETGc?oc=5",
+      "source": "InsuranceNewsNet",
+      "published_at": "Tue, 23 Jun 2026 22:25:04 GMT",
+      "summary": "Alan Greenspan, the legendary former Federal Reserve chair, dies InsuranceNewsNet",
+      "guid": "CBMiogFBVV95cUxNUUxGNWNoS0oyT0pYRFoxUThsVC10S0ZpcUxUTzVpTnZselhoSGVJY1l5ci1DdV91VktXR1VUVm5tc0FVT2FtREVabTduQTlFWXhhRXpGX2lDVFpKX0RYUXFRd3BiNWVCbUVnNTUybkxGVzVsbnpLVVBXUGdmM2lWZW5DQ1pVQzFwTkJFaFMyRENwSmloYjRtajhPLUJnMmtETGc"
+    },
+    {
       "title": "Alan Greenspan has died, Fed chair's excellent reputation shattered in 2008 global credit crisis - Los Angeles Times",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMzY5T0dDQ3BrWHp4RTM4QXJEeEFVS1E4ZFYwOE1ISHdXcFJNWGtYQWlYOEowMFNCZmxPZnRVMmhnYlVRUlRjRUZ2TlVudk1OSjVKY05SME82dENpdDVxNVptSm9Xc0Q3UzJYZDhxb2I1QjUtazBSRmM1UjlUSXFMbkUzcDFnZEowOTJ5M0xuUUlQZUk4?oc=5",
       "source": "Los Angeles Times",
@@ -85,6 +77,14 @@
       "published_at": "Mon, 22 Jun 2026 11:48:32 GMT",
       "summary": "Longtime Federal Reserve Chairman Alan Greenspan dies at 100 NPR",
       "guid": "CBMiqAFBVV95cUxNbVFBYWUxWEdFQjZaTDhvX25fRXpIaEc0amVHR1phRTluc0xsdUQ4TFhnRlhnYjZXRHUwQjJvemhwRHV1ekpaRnhIdi1TZi1XM29weGd4UkpQYTFFVFAyMkdnTmp0WDRTYy1ZN05xU2V0SFNTSW9FTUtkWTByeDAxLUhMM2FRemhfM3MzaDgxaHR4Z1RmdFNhQ3lVM0pYcXVPSUZPQmlMSUo"
+    },
+    {
+      "title": "A quieter Federal Reserve could mean volatile markets, higher rates - Chicago Tribune",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA2TmNfdHl3RjdyTHNRTmVoRnltdDRmNHFjTEFFRzRVU3dXY0VSVWhHZWpBUzZGZW9PVWM2eHJqRkFWUVd4NHhvZlNQVmMyU25laXJtSHpZX1pBY3FpaWlpd1dKSlZrSm9XRUdPNVN4eEdDR1E?oc=5",
+      "source": "Chicago Tribune",
+      "published_at": "Sat, 20 Jun 2026 19:14:14 GMT",
+      "summary": "A quieter Federal Reserve could mean volatile markets, higher rates Chicago Tribune",
+      "guid": "CBMic0FVX3lxTFA2TmNfdHl3RjdyTHNRTmVoRnltdDRmNHFjTEFFRzRVU3dXY0VSVWhHZWpBUzZGZW9PVWM2eHJqRkFWUVd4NHhvZlNQVmMyU25laXJtSHpZX1pBY3FpaWlpd1dKSlZrSm9XRUdPNVN4eEdDR1E"
     }
   ]
 }
