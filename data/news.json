@@ -1,27 +1,11 @@
 {
-  "generated_at": "2026-06-24T08:41:21Z",
+  "generated_at": "2026-06-24T11:27:40Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
-    {
-      "title": "The Federal Reserve Just Delivered Terrible News for the Stock Market, but There's a Silver Lining for Investors - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLXNDczg3SEN1VWJZZ2NYUHVjVEZEVV9YZ3MzOHJYTjloSl9QZlh3STdub0RBSGlmWlNRaTljQjFTRVd2NUJscU9SUGUxOVpoaERCMlBJQnBpZFJpNWlMS242YUc4UjRnQmFBd1hzMWZ5SXQ5ZjBwS2VuWWItcXZnUUsxNmZKNjlUekYyd0xpSUVlZkNhTHViMnBQQ1lGRUJJZ2FJ?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Mon, 22 Jun 2026 11:35:00 GMT",
-      "summary": "The Federal Reserve Just Delivered Terrible News for the Stock Market, but There's a Silver Lining for Investors Yahoo Finance",
-      "guid": "CBMiowFBVV95cUxOLXNDczg3SEN1VWJZZ2NYUHVjVEZEVV9YZ3MzOHJYTjloSl9QZlh3STdub0RBSGlmWlNRaTljQjFTRVd2NUJscU9SUGUxOVpoaERCMlBJQnBpZFJpNWlMS242YUc4UjRnQmFBd1hzMWZ5SXQ5ZjBwS2VuWWItcXZnUUsxNmZKNjlUekYyd0xpSUVlZkNhTHViMnBQQ1lGRUJJZ2FJ"
-    },
-    {
-      "title": "Markets tumble worldwide as Fed resets expectations: $400 billion wiped off SpaceX stock - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNGRySjJXc0VJVWZXdWVTLTdpRDNna2tUaERVVlNpanFrYUR5VFVhSlhwNFZFRlloY2IxX1Y5N1NPVWZDSkNGQW1vUTZDaDZuck1nQkdsN01WTDRRb1B4R1Fnenk5Q0p4RThmS3FmQXNmaXhLUS1STjQ4VDBZVzJPNndZN2UwNkl1cEVBZ0VsX2s0SnVBNXQ1TjlGNA?oc=5",
-      "source": "Fortune",
-      "published_at": "Tue, 23 Jun 2026 10:08:00 GMT",
-      "summary": "Markets tumble worldwide as Fed resets expectations: $400 billion wiped off SpaceX stock Fortune",
-      "guid": "CBMimwFBVV95cUxNNGRySjJXc0VJVWZXdWVTLTdpRDNna2tUaERVVlNpanFrYUR5VFVhSlhwNFZFRlloY2IxX1Y5N1NPVWZDSkNGQW1vUTZDaDZuck1nQkdsN01WTDRRb1B4R1Fnenk5Q0p4RThmS3FmQXNmaXhLUS1STjQ4VDBZVzJPNndZN2UwNkl1cEVBZ0VsX2s0SnVBNXQ1TjlGNA"
-    },
     {
       "title": "Warsh's gamble: A quieter Federal Reserve could mean volatile markets, higher rates - LancasterOnline",
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOVkxCd2VabUV4bE9EeHNmNnlBM0M2aHlSZzZvUkxxUU5Xc1ZIUnpEUVcyajlnZm5xTmZLWmhqSGRrZTZFQWJwelF4bS1zRTkzV01xaDd0Z1V2b3E3UXFNTEd3VXc0WHl5cExwZ3NYXzZpTFFJaktlamJ3TEtpTG45ZzN0MkZDSTI1ZjFta0JHUjE3XzBPTUJpY0VqR2YwYk5ITFVBcWpWWEhjWmhqbE10eHpRWjdzWTdUSU4tMjgzaWFNMFMzeUxWX0hDd3E5SXFud1dPNXRyQzZpTjhHdnVfNGtONmJ2Z1NTbHBRZ3cySU1vWVp2VmVOWDY0Y29aNVk3RFhUTmVZMWlQOUY5?oc=5",
@@ -31,12 +15,28 @@
       "guid": "CBMijAJBVV95cUxOVkxCd2VabUV4bE9EeHNmNnlBM0M2aHlSZzZvUkxxUU5Xc1ZIUnpEUVcyajlnZm5xTmZLWmhqSGRrZTZFQWJwelF4bS1zRTkzV01xaDd0Z1V2b3E3UXFNTEd3VXc0WHl5cExwZ3NYXzZpTFFJaktlamJ3TEtpTG45ZzN0MkZDSTI1ZjFta0JHUjE3XzBPTUJpY0VqR2YwYk5ITFVBcWpWWEhjWmhqbE10eHpRWjdzWTdUSU4tMjgzaWFNMFMzeUxWX0hDd3E5SXFud1dPNXRyQzZpTjhHdnVfNGtONmJ2Z1NTbHBRZ3cySU1vWVp2VmVOWDY0Y29aNVk3RFhUTmVZMWlQOUY5"
     },
     {
+      "title": "The Federal Reserve Just Delivered Terrible News for the Stock Market, but There's a Silver Lining for Investors - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLXNDczg3SEN1VWJZZ2NYUHVjVEZEVV9YZ3MzOHJYTjloSl9QZlh3STdub0RBSGlmWlNRaTljQjFTRVd2NUJscU9SUGUxOVpoaERCMlBJQnBpZFJpNWlMS242YUc4UjRnQmFBd1hzMWZ5SXQ5ZjBwS2VuWWItcXZnUUsxNmZKNjlUekYyd0xpSUVlZkNhTHViMnBQQ1lGRUJJZ2FJ?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Mon, 22 Jun 2026 11:35:00 GMT",
+      "summary": "The Federal Reserve Just Delivered Terrible News for the Stock Market, but There's a Silver Lining for Investors Yahoo Finance",
+      "guid": "CBMiowFBVV95cUxOLXNDczg3SEN1VWJZZ2NYUHVjVEZEVV9YZ3MzOHJYTjloSl9QZlh3STdub0RBSGlmWlNRaTljQjFTRVd2NUJscU9SUGUxOVpoaERCMlBJQnBpZFJpNWlMS242YUc4UjRnQmFBd1hzMWZ5SXQ5ZjBwS2VuWWItcXZnUUsxNmZKNjlUekYyd0xpSUVlZkNhTHViMnBQQ1lGRUJJZ2FJ"
+    },
+    {
       "title": "Stock market today: S&P 500 falls 1.4 percent while Nikkei 225 drops 0.71 percent as tech selloff weighs on global markets - Economy Middle East",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPeWlMdkNDS01LakJLSWdWcF90cGJSWG1UTFpNWXZMM2VyUWJYdDRkUl80aThtV2pNMUJGTEFsaVVjV2VMVFg4REt2Ym1GcklpekJaaG1sYmNOU09lSWJxSUFMTzZaWUhYb3M0ZGlNZjhLNmtKSFBxb2syaHVkQzNUX19JcDh1VlJHYUhrbDRlcmVRLWQ3Sy1vV3FSSWRrLW1sbGhhcjJlNDE2QjRxUXAyb1VKb21XZjhJaDYyWWNjT0UzbHRGT3VUbHZMRktWdzdDakEyb0RER3dOX3BkLWxoQndvMFV3WTJTX2I4Tg?oc=5",
       "source": "Economy Middle East",
       "published_at": "Wed, 24 Jun 2026 06:58:21 GMT",
       "summary": "Stock market today: S&P 500 falls 1.4 percent while Nikkei 225 drops 0.71 percent as tech selloff weighs on global markets Economy Middle East",
       "guid": "CBMi7AFBVV95cUxPeWlMdkNDS01LakJLSWdWcF90cGJSWG1UTFpNWXZMM2VyUWJYdDRkUl80aThtV2pNMUJGTEFsaVVjV2VMVFg4REt2Ym1GcklpekJaaG1sYmNOU09lSWJxSUFMTzZaWUhYb3M0ZGlNZjhLNmtKSFBxb2syaHVkQzNUX19JcDh1VlJHYUhrbDRlcmVRLWQ3Sy1vV3FSSWRrLW1sbGhhcjJlNDE2QjRxUXAyb1VKb21XZjhJaDYyWWNjT0UzbHRGT3VUbHZMRktWdzdDakEyb0RER3dOX3BkLWxoQndvMFV3WTJTX2I4Tg"
+    },
+    {
+      "title": "Markets tumble worldwide as Fed resets expectations: $400 billion wiped off SpaceX stock - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNGRySjJXc0VJVWZXdWVTLTdpRDNna2tUaERVVlNpanFrYUR5VFVhSlhwNFZFRlloY2IxX1Y5N1NPVWZDSkNGQW1vUTZDaDZuck1nQkdsN01WTDRRb1B4R1Fnenk5Q0p4RThmS3FmQXNmaXhLUS1STjQ4VDBZVzJPNndZN2UwNkl1cEVBZ0VsX2s0SnVBNXQ1TjlGNA?oc=5",
+      "source": "Fortune",
+      "published_at": "Tue, 23 Jun 2026 10:08:00 GMT",
+      "summary": "Markets tumble worldwide as Fed resets expectations: $400 billion wiped off SpaceX stock Fortune",
+      "guid": "CBMimwFBVV95cUxNNGRySjJXc0VJVWZXdWVTLTdpRDNna2tUaERVVlNpanFrYUR5VFVhSlhwNFZFRlloY2IxX1Y5N1NPVWZDSkNGQW1vUTZDaDZuck1nQkdsN01WTDRRb1B4R1Fnenk5Q0p4RThmS3FmQXNmaXhLUS1STjQ4VDBZVzJPNndZN2UwNkl1cEVBZ0VsX2s0SnVBNXQ1TjlGNA"
     },
     {
       "title": "Alan Greenspan, longtime chairman of the Federal Reserve, dies at 100 - ABC News - Breaking News, Latest News and Videos",
@@ -55,12 +55,20 @@
       "guid": "CBMib0FVX3lxTFA1WDJXSmRrSnpUMkNvb013Z1VJWm1zVVNQOUwtYXRFRFMtMWVSV3hveGpERTdrMXg0XzBSaFc3ZG5HWU9leEMzbUFhcm1uT0FHVzlod1VNNnhadDJsdTQwUjdtTTYzck4wbUFkekQ4UQ"
     },
     {
-      "title": "Alan Greenspan, former Fed chairman, dies at 100 - Axios",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1vNVVBQms2T3FMMkl0R25NY1ZzY3ZjTXB4OHg0NUhhNHZ0cWJmYk1wX1llTlhvNjZFREh2MW9uN29saGZhV2x6T0lsS21NVmJ1S1hZTDQwMXVkT2N3YjJFeEJOMWdiU28?oc=5",
-      "source": "Axios",
-      "published_at": "Tue, 23 Jun 2026 13:08:13 GMT",
-      "summary": "Alan Greenspan, former Fed chairman, dies at 100 Axios",
-      "guid": "CBMiZ0FVX3lxTE1vNVVBQms2T3FMMkl0R25NY1ZzY3ZjTXB4OHg0NUhhNHZ0cWJmYk1wX1llTlhvNjZFREh2MW9uN29saGZhV2x6T0lsS21NVmJ1S1hZTDQwMXVkT2N3YjJFeEJOMWdiU28"
+      "title": "Alan Greenspan has died, Fed chair's excellent reputation shattered in 2008 global credit crisis - Los Angeles Times",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMzY5T0dDQ3BrWHp4RTM4QXJEeEFVS1E4ZFYwOE1ISHdXcFJNWGtYQWlYOEowMFNCZmxPZnRVMmhnYlVRUlRjRUZ2TlVudk1OSjVKY05SME82dENpdDVxNVptSm9Xc0Q3UzJYZDhxb2I1QjUtazBSRmM1UjlUSXFMbkUzcDFnZEowOTJ5M0xuUUlQZUk4?oc=5",
+      "source": "Los Angeles Times",
+      "published_at": "Mon, 22 Jun 2026 21:14:00 GMT",
+      "summary": "Alan Greenspan has died, Fed chair's excellent reputation shattered in 2008 global credit crisis Los Angeles Times",
+      "guid": "CBMilAFBVV95cUxQMzY5T0dDQ3BrWHp4RTM4QXJEeEFVS1E4ZFYwOE1ISHdXcFJNWGtYQWlYOEowMFNCZmxPZnRVMmhnYlVRUlRjRUZ2TlVudk1OSjVKY05SME82dENpdDVxNVptSm9Xc0Q3UzJYZDhxb2I1QjUtazBSRmM1UjlUSXFMbkUzcDFnZEowOTJ5M0xuUUlQZUk4"
+    },
+    {
+      "title": "A quieter Federal Reserve could mean volatile markets, higher rates - Chicago Tribune",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA2TmNfdHl3RjdyTHNRTmVoRnltdDRmNHFjTEFFRzRVU3dXY0VSVWhHZWpBUzZGZW9PVWM2eHJqRkFWUVd4NHhvZlNQVmMyU25laXJtSHpZX1pBY3FpaWlpd1dKSlZrSm9XRUdPNVN4eEdDR1E?oc=5",
+      "source": "Chicago Tribune",
+      "published_at": "Sat, 20 Jun 2026 19:14:14 GMT",
+      "summary": "A quieter Federal Reserve could mean volatile markets, higher rates Chicago Tribune",
+      "guid": "CBMic0FVX3lxTFA2TmNfdHl3RjdyTHNRTmVoRnltdDRmNHFjTEFFRzRVU3dXY0VSVWhHZWpBUzZGZW9PVWM2eHJqRkFWUVd4NHhvZlNQVmMyU25laXJtSHpZX1pBY3FpaWlpd1dKSlZrSm9XRUdPNVN4eEdDR1E"
     },
     {
       "title": "Former Federal Reserve Chairman Alan Greenspan dies at 100 - PBS",
@@ -69,14 +77,6 @@
       "published_at": "Mon, 22 Jun 2026 13:37:42 GMT",
       "summary": "Former Federal Reserve Chairman Alan Greenspan dies at 100 PBS",
       "guid": "CBMimwFBVV95cUxPMHlyRENURUJnQnVvOHRpZGVrNXUtVnNTa2QySGVCOFQ5d0VKeF96eTZJSnNLd2xBUXg5TVprVUxPSmFvYWp2ekhsRnZKOWE0ZXpJNjh3U2dhRHc3M2xpdXl0OEZLVnU4VXptdDd0S1lGRHl3dHE4eDlteGNGNURQQkdRMkNyRkIwSDlWbGthbFF1RUgzaWRwdWVGMNIBoAFBVV95cUxPTnNpZDBrTTVxYjdqZ3l4dW9IR0JMRlcwVzlTcmRXY3NqYzlXcVFSVHBSZXdlWTEtelBEaC12UjEwc2MwQUM2RHA2UVRqY3FydXNiaG1GQUVrQVBJZi1BRE5oQ1RRRGMwMEhrV09iYXoydmhfanFCbWtTanVKUy1nWnFZU3dkQ3JyNVF1VzI3VzZsRWJYWlV0amRNTngzTkVH"
-    },
-    {
-      "title": "Alan Greenspan has died, Fed chair's excellent reputation shattered in 2008 global credit crisis - Los Angeles Times",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMzY5T0dDQ3BrWHp4RTM4QXJEeEFVS1E4ZFYwOE1ISHdXcFJNWGtYQWlYOEowMFNCZmxPZnRVMmhnYlVRUlRjRUZ2TlVudk1OSjVKY05SME82dENpdDVxNVptSm9Xc0Q3UzJYZDhxb2I1QjUtazBSRmM1UjlUSXFMbkUzcDFnZEowOTJ5M0xuUUlQZUk4?oc=5",
-      "source": "Los Angeles Times",
-      "published_at": "Mon, 22 Jun 2026 21:14:00 GMT",
-      "summary": "Alan Greenspan has died, Fed chair's excellent reputation shattered in 2008 global credit crisis Los Angeles Times",
-      "guid": "CBMilAFBVV95cUxQMzY5T0dDQ3BrWHp4RTM4QXJEeEFVS1E4ZFYwOE1ISHdXcFJNWGtYQWlYOEowMFNCZmxPZnRVMmhnYlVRUlRjRUZ2TlVudk1OSjVKY05SME82dENpdDVxNVptSm9Xc0Q3UzJYZDhxb2I1QjUtazBSRmM1UjlUSXFMbkUzcDFnZEowOTJ5M0xuUUlQZUk4"
     },
     {
       "title": "Longtime Federal Reserve Chairman Alan Greenspan dies at 100 - NPR",
