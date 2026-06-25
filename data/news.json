@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T19:21:01Z",
+  "generated_at": "2026-06-25T21:09:04Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,12 +7,36 @@
   },
   "items": [
     {
+      "title": "May US PCE inflation tops 4%, leaves Fed hike on the table - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTkttQ2dqWE53WS1XUWNlT0FUb2pERERFc2pkTEFDSV9tU3JUaWk3aEs5SjAxMnd3amRlZG12N0gtcFN5My1Bb0JkR3BzSGMwSHJzNE1JX2hEMmRkNW1IbnpaRHNiUVEzMDBVaFphUlVjUS1hUDFtMW9pYjI0SmVIeTljUDFUTkRXdEMzdUxSM2hTXzlYUndiU084c05sY0w1dFNINFVxeldPNlhU?oc=5",
+      "source": "Reuters",
+      "published_at": "Thu, 25 Jun 2026 18:10:40 GMT",
+      "summary": "May US PCE inflation tops 4%, leaves Fed hike on the table Reuters",
+      "guid": "CBMirAFBVV95cUxQTkttQ2dqWE53WS1XUWNlT0FUb2pERERFc2pkTEFDSV9tU3JUaWk3aEs5SjAxMnd3amRlZG12N0gtcFN5My1Bb0JkR3BzSGMwSHJzNE1JX2hEMmRkNW1IbnpaRHNiUVEzMDBVaFphUlVjUS1hUDFtMW9pYjI0SmVIeTljUDFUTkRXdEMzdUxSM2hTXzlYUndiU084c05sY0w1dFNINFVxeldPNlhU"
+    },
+    {
       "title": "Core inflation rate hit 3.4% in May, highest since October 2023, Fed’s preferred gauge shows - CNBC",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZcDg3cWttTk56b3NGQXdmNk1IXzVpYWdNR0lsaTFBU2pVQWpmV2ZwRGt3aEJhekVneDRCQVh3SWtnUnF4cVRudEVrcWREVEhSQnl0bTB4TGtBRkVvNThLWVRzOTJ5MTQtZ0tGcHZHN1NEQ3RKQlHSAXtBVV95cUxNdjlBUGRsTDRJMXltYWlmWmRzMjJtNjlfZlQwZURzSDdic0F2MW5FcHJsSWd2TEY2d1JuSFpraVA4bG9vNmlPLVAtd1p4NDdNWVVwM2lIRlNxNWx3WkZIZ1huTjZkZzJVWkNhRmI1aF9zdmZ2S21tRDFyM1U?oc=5",
       "source": "CNBC",
       "published_at": "Thu, 25 Jun 2026 12:32:49 GMT",
       "summary": "Core inflation rate hit 3.4% in May, highest since October 2023, Fed’s preferred gauge shows CNBC",
       "guid": "CBMidkFVX3lxTFBZcDg3cWttTk56b3NGQXdmNk1IXzVpYWdNR0lsaTFBU2pVQWpmV2ZwRGt3aEJhekVneDRCQVh3SWtnUnF4cVRudEVrcWREVEhSQnl0bTB4TGtBRkVvNThLWVRzOTJ5MTQtZ0tGcHZHN1NEQ3RKQlHSAXtBVV95cUxNdjlBUGRsTDRJMXltYWlmWmRzMjJtNjlfZlQwZURzSDdic0F2MW5FcHJsSWd2TEY2d1JuSFpraVA4bG9vNmlPLVAtd1p4NDdNWVVwM2lIRlNxNWx3WkZIZ1huTjZkZzJVWkNhRmI1aF9zdmZ2S21tRDFyM1U"
+    },
+    {
+      "title": "The Fed's preferred inflation gauge shows prices rising at fastest pace in 3 years - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNODJpSG0zUXZ3T3JiemstZEM0ek55U3NHQVh2YlVSdG1WZnBwdEFMQUhmemQ5NnlmVk0teWFqV2lsRXJ2XzB0ZjJ5YW91ejZWUjRzZ2RkdzdCekdGNjAya2VIRnVPbmdSODE4WlEyR1BVY3hBeXhyTDV4NmZBVE9ybkpkbERKTnh2cFE?oc=5",
+      "source": "CBS News",
+      "published_at": "Thu, 25 Jun 2026 12:48:00 GMT",
+      "summary": "The Fed's preferred inflation gauge shows prices rising at fastest pace in 3 years CBS News",
+      "guid": "CBMiigFBVV95cUxNODJpSG0zUXZ3T3JiemstZEM0ek55U3NHQVh2YlVSdG1WZnBwdEFMQUhmemQ5NnlmVk0teWFqV2lsRXJ2XzB0ZjJ5YW91ejZWUjRzZ2RkdzdCekdGNjAya2VIRnVPbmdSODE4WlEyR1BVY3hBeXhyTDV4NmZBVE9ybkpkbERKTnh2cFE"
+    },
+    {
+      "title": "The Newest Federal Reserve June Inflation Forecast Is a Good News-Bad News Scenario for Wall Street - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVDZTcnZrS0dQM1kxdm9FamRQdk5MdC0xYk44WHFCUGV3a3E2ZDNIYkdHOVdEMjlSeGpMOFBkQkZueVlnREZXV3g5QkxMMTNSeTVfTnpzdGxfbXBCTnFCRVoxMWZaMHc0MWxqSW9Bb3NtWjdVVlBOcTgxQ0ZhSXd3T25aR2M1MnY2bmRDazdhRC1pTEZQRm94SkRkYVJ1Zm5ELWZnS1NB?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Thu, 25 Jun 2026 08:26:00 GMT",
+      "summary": "The Newest Federal Reserve June Inflation Forecast Is a Good News-Bad News Scenario for Wall Street Yahoo Finance",
+      "guid": "CBMipgFBVV95cUxOVDZTcnZrS0dQM1kxdm9FamRQdk5MdC0xYk44WHFCUGV3a3E2ZDNIYkdHOVdEMjlSeGpMOFBkQkZueVlnREZXV3g5QkxMMTNSeTVfTnpzdGxfbXBCTnFCRVoxMWZaMHc0MWxqSW9Bb3NtWjdVVlBOcTgxQ0ZhSXd3T25aR2M1MnY2bmRDazdhRC1pTEZQRm94SkRkYVJ1Zm5ELWZnS1NB"
     },
     {
       "title": "The Federal Reserve Just Delivered Terrible News for the Stock Market, but There's a Silver Lining for Investors - The Motley Fool",
@@ -23,12 +47,20 @@
       "guid": "CBMilwFBVV95cUxPaklna1VReXd1OTJiZEU0MXBBUHozanBBcGxPc25EakplS1JadTRFZENBemw0SEstNXRfQTZtY3JFMlBVa0hjblBOR0pvM0c2WWplRDFHSktnOWs1VU16NzRiU0RkRzM5WVNlV2hocXMxNHJ4OWJUcUVJeWpWX2FBQ2FLeDU3dGNoeW9UTkpva3k4OHBwdVY0"
     },
     {
-      "title": "Alan Greenspan, longtime chairman of the Federal Reserve, dies at 100 - ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYXo0WUNLQWNxTy02eEJtSF9VQTM1eUtvMWtXMndXeWJPUkNRcldqZndPN1M1LVJJWjFzRVVhbm5GbWw5UXpucEUxVnhaZTlfUk9RUmFzS0NLbVJrTnNHT2pIelllN1lGb084emdnQVJSdTFoMmR4T01USGF3clZqaXdzcF9aZXgyaHFTVWdrNVYxdmNZMkw4SUhURk5aYjF0MURKZWZtQdIBrAFBVV95cUxPNDV2VVR1UnlORldBUXo3aUltVTV5N3JzODdDSWhmWHJraG40d0prZEZSQUQ3QjFERXQ5Y0NlU2pMZjlJZ1hrc1pDTTcteUpRMUNVUFhtd3RXRnRhQldBX0FjSGlTZTZyRkU1M1FYVUlEMDJaMW9MVFNvcXY4UzU5MURWZXhqb2xQZ0VHX1Z4ODY1VjdPbktwSlVDMF9haTltdHh4dFRmWUJJVFhK?oc=5",
+      "title": "The Fed may raise interest rates within months. Here's what it means for you. - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNenUzMm5kWTJOUHEtcHhxdmdwbDBYb1dFME1RZ185dkxEcWRIanY3ZmRvUGs5WjZKbVJHLWxHdlNtUVV3Rm1lUE5EOVpjaGV5bVJHeUZhYm9HT29JY0JtSGdWdTkzeGxWMzJBeTBDYThUajFoaURnSG05ZnVpdnhxUHNkbi1uZGtsVFVXcEdB0gGTAUFVX3lxTE5RUERWVjBaZ1pSbEM1MEhPVzZWaWFEX3JOSGJlbmtDbnNwRzJuZ2hkckZ1dlJtbkJ6YjljeGhzdWVvZjhWMFp3TzhLSGM5Um9aSko2QV84cEVMNmtLa2hPNWR3Qnp2aUhHS0hhLWJqZG1HMi16aUc4cEtIdzV6emp3bFlQZ0UySmFpZVUyQWNYOGUwdw?oc=5",
       "source": "ABC News - Breaking News, Latest News and Videos",
-      "published_at": "Mon, 22 Jun 2026 13:06:34 GMT",
-      "summary": "Alan Greenspan, longtime chairman of the Federal Reserve, dies at 100 ABC News - Breaking News, Latest News and Videos",
-      "guid": "CBMipwFBVV95cUxNYXo0WUNLQWNxTy02eEJtSF9VQTM1eUtvMWtXMndXeWJPUkNRcldqZndPN1M1LVJJWjFzRVVhbm5GbWw5UXpucEUxVnhaZTlfUk9RUmFzS0NLbVJrTnNHT2pIelllN1lGb084emdnQVJSdTFoMmR4T01USGF3clZqaXdzcF9aZXgyaHFTVWdrNVYxdmNZMkw4SUhURk5aYjF0MURKZWZtQdIBrAFBVV95cUxPNDV2VVR1UnlORldBUXo3aUltVTV5N3JzODdDSWhmWHJraG40d0prZEZSQUQ3QjFERXQ5Y0NlU2pMZjlJZ1hrc1pDTTcteUpRMUNVUFhtd3RXRnRhQldBX0FjSGlTZTZyRkU1M1FYVUlEMDJaMW9MVFNvcXY4UzU5MURWZXhqb2xQZ0VHX1Z4ODY1VjdPbktwSlVDMF9haTltdHh4dFRmWUJJVFhK"
+      "published_at": "Wed, 24 Jun 2026 20:48:37 GMT",
+      "summary": "The Fed may raise interest rates within months. Here's what it means for you. ABC News - Breaking News, Latest News and Videos",
+      "guid": "CBMijgFBVV95cUxNenUzMm5kWTJOUHEtcHhxdmdwbDBYb1dFME1RZ185dkxEcWRIanY3ZmRvUGs5WjZKbVJHLWxHdlNtUVV3Rm1lUE5EOVpjaGV5bVJHeUZhYm9HT29JY0JtSGdWdTkzeGxWMzJBeTBDYThUajFoaURnSG05ZnVpdnhxUHNkbi1uZGtsVFVXcEdB0gGTAUFVX3lxTE5RUERWVjBaZ1pSbEM1MEhPVzZWaWFEX3JOSGJlbmtDbnNwRzJuZ2hkckZ1dlJtbkJ6YjljeGhzdWVvZjhWMFp3TzhLSGM5Um9aSko2QV84cEVMNmtLa2hPNWR3Qnp2aUhHS0hhLWJqZG1HMi16aUc4cEtIdzV6emp3bFlQZ0UySmFpZVUyQWNYOGUwdw"
+    },
+    {
+      "title": "Alan Greenspan, the legendary former Federal Reserve chair, dies - Oregon Public Broadcasting - OPB",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWTdfdnBlTFllZWp3Y09NLWRKZmd5M3pESFZIeGhUamNnYlU4VWZCS3NsY2daWHVmRzRjSGpYS2NkOTNFQ3B0blFtQ1g3ZlJWUUVqelhWeHRRLURTMGlDMExvWmUzUjFqVU1RTFQ4WFB0RndpRkc3X29UdVFPOWhCaWlYMDFoUFc2cWZaSkQ3RkVrMnVOSlRZa0daNWtJb1gwLUFXUg?oc=5",
+      "source": "Oregon Public Broadcasting - OPB",
+      "published_at": "Mon, 22 Jun 2026 13:31:32 GMT",
+      "summary": "Alan Greenspan, the legendary former Federal Reserve chair, dies Oregon Public Broadcasting - OPB",
+      "guid": "CBMipAFBVV95cUxPWTdfdnBlTFllZWp3Y09NLWRKZmd5M3pESFZIeGhUamNnYlU4VWZCS3NsY2daWHVmRzRjSGpYS2NkOTNFQ3B0blFtQ1g3ZlJWUUVqelhWeHRRLURTMGlDMExvWmUzUjFqVU1RTFQ4WFB0RndpRkc3X29UdVFPOWhCaWlYMDFoUFc2cWZaSkQ3RkVrMnVOSlRZa0daNWtJb1gwLUFXUg"
     },
     {
       "title": "Former Federal Reserve Chairman Alan Greenspan dies at 100 - PBS",
@@ -53,38 +85,6 @@
       "published_at": "Sat, 20 Jun 2026 19:14:14 GMT",
       "summary": "A quieter Federal Reserve could mean volatile markets, higher rates Chicago Tribune",
       "guid": "CBMic0FVX3lxTFA2TmNfdHl3RjdyTHNRTmVoRnltdDRmNHFjTEFFRzRVU3dXY0VSVWhHZWpBUzZGZW9PVWM2eHJqRkFWUVd4NHhvZlNQVmMyU25laXJtSHpZX1pBY3FpaWlpd1dKSlZrSm9XRUdPNVN4eEdDR1E"
-    },
-    {
-      "title": "Former US Federal Reserve Chairman Alan Greenspan dies at age 100 - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZzY2aFZqTzczenA5X3J4YU1veW43WTVmMldzSGZ3TnNfaURwVWV3NzFUV3lpQWJFWHlYdmNYQWhueWVocVNCMEpmZjJONmVWZThBT1h2S1p6cVR2aDVvYkZfbDhKWXpNZEJRWE5sdjBOTTY2QTctZmZNYjd4cjN6WDVCclppaEJXMnNKdXJaTm56YUhCcTM2UVNBLXdHbkNXbHVzbm1wREFLbWFVVEHSAbMBQVVfeXFMT193TEQ4YWVIS2FVcVBRN0lhSzZoY2UwSHJyX3RpLTBUSlh6Rl8wRVVSd0ptRHZfV3B1cDNUNnNocXlJU2RYdXNBYWtrVjFQdnpnczBrV01QWkd6SHVmTWxXM2FzTnB2dXZKUnJsRXo0MUduRHJBc1p3VEdLTmk0RG83a0NpLVJUa1YzYVVEa3ZoZmJjanN1S2lZOXZGYjV5QU5fdlhUeGlNWjR6Ui0tczBscEk?oc=5",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 22 Jun 2026 15:18:21 GMT",
-      "summary": "Former US Federal Reserve Chairman Alan Greenspan dies at age 100 Al Jazeera",
-      "guid": "CBMirgFBVV95cUxOZzY2aFZqTzczenA5X3J4YU1veW43WTVmMldzSGZ3TnNfaURwVWV3NzFUV3lpQWJFWHlYdmNYQWhueWVocVNCMEpmZjJONmVWZThBT1h2S1p6cVR2aDVvYkZfbDhKWXpNZEJRWE5sdjBOTTY2QTctZmZNYjd4cjN6WDVCclppaEJXMnNKdXJaTm56YUhCcTM2UVNBLXdHbkNXbHVzbm1wREFLbWFVVEHSAbMBQVVfeXFMT193TEQ4YWVIS2FVcVBRN0lhSzZoY2UwSHJyX3RpLTBUSlh6Rl8wRVVSd0ptRHZfV3B1cDNUNnNocXlJU2RYdXNBYWtrVjFQdnpnczBrV01QWkd6SHVmTWxXM2FzTnB2dXZKUnJsRXo0MUduRHJBc1p3VEdLTmk0RG83a0NpLVJUa1YzYVVEa3ZoZmJjanN1S2lZOXZGYjV5QU5fdlhUeGlNWjR6Ui0tczBscEk"
-    },
-    {
-      "title": "Alan Greenspan, the legendary former Federal Reserve chair, dies - NPR",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSVdQX1EzU0RISzZyZG5PV2k5OFZOM2F0U2RVZWNHMUlXbm9mdU1XeExTSmxGbFRRVmxYdnJIRUk0YmtpMDNDam0tQURJa1VQaV9hU1Bta0JEb2xEMjV0R0Ezb3MzNF9FOUhhYU1qMHBYU0xNVHVMSmp4eDBSYTZucndkcnJ6dkVFLXVCYnA1cnlfRXd0WHp4WU1pU3N4dk1JaGNBTHh3?oc=5",
-      "source": "NPR",
-      "published_at": "Mon, 22 Jun 2026 11:53:51 GMT",
-      "summary": "Alan Greenspan, the legendary former Federal Reserve chair, dies NPR",
-      "guid": "CBMipgFBVV95cUxOSVdQX1EzU0RISzZyZG5PV2k5OFZOM2F0U2RVZWNHMUlXbm9mdU1XeExTSmxGbFRRVmxYdnJIRUk0YmtpMDNDam0tQURJa1VQaV9hU1Bta0JEb2xEMjV0R0Ezb3MzNF9FOUhhYU1qMHBYU0xNVHVMSmp4eDBSYTZucndkcnJ6dkVFLXVCYnA1cnlfRXd0WHp4WU1pU3N4dk1JaGNBTHh3"
-    },
-    {
-      "title": "Why Is DraftKings Stock Falling On Thursday? - Benzinga",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYjR5Qkl4bzMwZVpMV19ieUUzd2Iyc0lKQ21oSXBFUG1GV3B1ajdIMXl2TDdrc1ZSLXVZVTVpa0lIWWdfVFFHNmJTb1dJNUYzVnY2dktZTkpWWlBpVEdZVHhTdGhVN3VsV2NILS1EQkpmczZfaXpYUG1IQjg4U2FrTHFZMlpvRFZGV0ItbmJGRGlwU3ZHYkFxRDB1QldmczlRNkZyMU9BSQ?oc=5",
-      "source": "Benzinga",
-      "published_at": "Thu, 25 Jun 2026 18:04:45 GMT",
-      "summary": "Why Is DraftKings Stock Falling On Thursday? Benzinga",
-      "guid": "CBMipwFBVV95cUxNYjR5Qkl4bzMwZVpMV19ieUUzd2Iyc0lKQ21oSXBFUG1GV3B1ajdIMXl2TDdrc1ZSLXVZVTVpa0lIWWdfVFFHNmJTb1dJNUYzVnY2dktZTkpWWlBpVEdZVHhTdGhVN3VsV2NILS1EQkpmczZfaXpYUG1IQjg4U2FrTHFZMlpvRFZGV0ItbmJGRGlwU3ZHYkFxRDB1QldmczlRNkZyMU9BSQ"
-    },
-    {
-      "title": "State Street Corporation Announces Planned 10% Dividend Increase and 2026 Federal Reserve Supervisory Stress Test Results - Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOM0VCX1B5UlljenJabFZ5b1JXM2VScmctVGJsc1M1M2Y2YWNRM3pkQzEwa0ZQajB4NmUycWticzZHU0R0OTR1cm91VlVZQlJYZ1QyNXdseml6Z3pieW1XZV9yUHpKcWJNMk9fQ0s2SXg5Vm52dldEcXI5c3k1RlJYRlktbW1oMjM3VTNCcXBwY1hyVk9icjVEZnJ2RzhGVEdaemRaYnNOMDNQaE1Zb3duV2xWaGZtci1CMzVYY1BhSnFPUnFLMDAtUEQ2N3ZWS21HcGxydExmWms5emxtd2txRVVXbDhFNGpmeTNjSzlCMlY2UFYzM0Fya2ZtMUpJcVZLMEdrUTZ0NGM?oc=5",
-      "source": "Business Wire",
-      "published_at": "Wed, 24 Jun 2026 20:44:00 GMT",
-      "summary": "State Street Corporation Announces Planned 10% Dividend Increase and 2026 Federal Reserve Supervisory Stress Test Results Business Wire",
-      "guid": "CBMiiAJBVV95cUxOM0VCX1B5UlljenJabFZ5b1JXM2VScmctVGJsc1M1M2Y2YWNRM3pkQzEwa0ZQajB4NmUycWticzZHU0R0OTR1cm91VlVZQlJYZ1QyNXdseml6Z3pieW1XZV9yUHpKcWJNMk9fQ0s2SXg5Vm52dldEcXI5c3k1RlJYRlktbW1oMjM3VTNCcXBwY1hyVk9icjVEZnJ2RzhGVEdaemRaYnNOMDNQaE1Zb3duV2xWaGZtci1CMzVYY1BhSnFPUnFLMDAtUEQ2N3ZWS21HcGxydExmWms5emxtd2txRVVXbDhFNGpmeTNjSzlCMlY2UFYzM0Fya2ZtMUpJcVZLMEdrUTZ0NGM"
     }
   ]
 }
