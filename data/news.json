@@ -1,19 +1,11 @@
 {
-  "generated_at": "2026-06-25T09:48:49Z",
+  "generated_at": "2026-06-25T12:10:34Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
-    {
-      "title": "Federal Reserve says U.S. banks can withstand $708 billion in losses amid overhaul of capital rules - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5MUW5nYXVYWEF3VU42X3gwUlhZNnpCQ3E3MjdaaThHcHVSNFFGZnJiU3VGa3FXX3dFWW5GQXEwd2xKZFJuT1lmaktGcmljMTd2TzNTUzdvMVhQaUZhajh4bnRHRjZ1X0J1d2FFOUcyclA0eDRNaGJCY08tdFdxZ9IBgwFBVV95cUxOVndVVGlFZkxHdTc3OHA1THJzczZISjJ6OHp3UWh6ZlVLTmoycDJ3dUFnazE2RXQ0OEFpYnhmMFpZdDhTY19ZNllrTWdvNFhIaEVnLTRyS2dPa2Z6MEQwQzg5eDZhbjJLVFBaT1c5aVUtZFFrOXFZNF8zZEUwRE1jd21Ncw?oc=5",
-      "source": "CNBC",
-      "published_at": "Wed, 24 Jun 2026 20:00:12 GMT",
-      "summary": "Federal Reserve says U.S. banks can withstand $708 billion in losses amid overhaul of capital rules CNBC",
-      "guid": "CBMifkFVX3lxTE5MUW5nYXVYWEF3VU42X3gwUlhZNnpCQ3E3MjdaaThHcHVSNFFGZnJiU3VGa3FXX3dFWW5GQXEwd2xKZFJuT1lmaktGcmljMTd2TzNTUzdvMVhQaUZhajh4bnRHRjZ1X0J1d2FFOUcyclA0eDRNaGJCY08tdFdxZ9IBgwFBVV95cUxOVndVVGlFZkxHdTc3OHA1THJzczZISjJ6OHp3UWh6ZlVLTmoycDJ3dUFnazE2RXQ0OEFpYnhmMFpZdDhTY19ZNllrTWdvNFhIaEVnLTRyS2dPa2Z6MEQwQzg5eDZhbjJLVFBaT1c5aVUtZFFrOXFZNF8zZEUwRE1jd21Ncw"
-    },
     {
       "title": "The Fed may raise interest rates within months. Here's what it means for you. - ABC News - Breaking News, Latest News and Videos",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNenUzMm5kWTJOUHEtcHhxdmdwbDBYb1dFME1RZ185dkxEcWRIanY3ZmRvUGs5WjZKbVJHLWxHdlNtUVV3Rm1lUE5EOVpjaGV5bVJHeUZhYm9HT29JY0JtSGdWdTkzeGxWMzJBeTBDYThUajFoaURnSG05ZnVpdnhxUHNkbi1uZGtsVFVXcEdB0gGTAUFVX3lxTE5RUERWVjBaZ1pSbEM1MEhPVzZWaWFEX3JOSGJlbmtDbnNwRzJuZ2hkckZ1dlJtbkJ6YjljeGhzdWVvZjhWMFp3TzhLSGM5Um9aSko2QV84cEVMNmtLa2hPNWR3Qnp2aUhHS0hhLWJqZG1HMi16aUc4cEtIdzV6emp3bFlQZ0UySmFpZVUyQWNYOGUwdw?oc=5",
@@ -29,6 +21,14 @@
       "published_at": "Mon, 22 Jun 2026 11:35:00 GMT",
       "summary": "The Federal Reserve Just Delivered Terrible News for the Stock Market, but There's a Silver Lining for Investors Yahoo Finance",
       "guid": "CBMiowFBVV95cUxOLXNDczg3SEN1VWJZZ2NYUHVjVEZEVV9YZ3MzOHJYTjloSl9QZlh3STdub0RBSGlmWlNRaTljQjFTRVd2NUJscU9SUGUxOVpoaERCMlBJQnBpZFJpNWlMS242YUc4UjRnQmFBd1hzMWZ5SXQ5ZjBwS2VuWWItcXZnUUsxNmZKNjlUekYyd0xpSUVlZkNhTHViMnBQQ1lGRUJJZ2FJ"
+    },
+    {
+      "title": "How Net Worth for Americans Ages 55-64 Measures Up Based on Federal Reserve Data - Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQUp4VFluNTAzMWhwTVNpYVlMcjdzd2o0b1RoaWs4UjBsQzN2enBKOFlxRTVPbU1DMnd1NERPUnlwN044OENlOVFtd0xBSHZ2NUwyZU1ZOXJGYW5hTzFNc3ZucWdvb2NPZGhXTzExTlRQTERuTzdwZUc0Ti14aW16T2xXaUYtREdrSTIzNklfSkFVc0lBd0tUMHI5WkswUDlsc0ljbVhtMDBybUIwN2hCeWp2cVZ4dV92eEE?oc=5",
+      "source": "Investopedia",
+      "published_at": "Thu, 25 Jun 2026 09:24:54 GMT",
+      "summary": "How Net Worth for Americans Ages 55-64 Measures Up Based on Federal Reserve Data Investopedia",
+      "guid": "CBMiugFBVV95cUxOQUp4VFluNTAzMWhwTVNpYVlMcjdzd2o0b1RoaWs4UjBsQzN2enBKOFlxRTVPbU1DMnd1NERPUnlwN044OENlOVFtd0xBSHZ2NUwyZU1ZOXJGYW5hTzFNc3ZucWdvb2NPZGhXTzExTlRQTERuTzdwZUc0Ti14aW16T2xXaUYtREdrSTIzNklfSkFVc0lBd0tUMHI5WkswUDlsc0ljbVhtMDBybUIwN2hCeWp2cVZ4dV92eEE"
     },
     {
       "title": "State Street Corporation Announces Planned 10% Dividend Increase and 2026 Federal Reserve Supervisory Stress Test Results - Business Wire",
@@ -63,20 +63,12 @@
       "guid": "CBMimwFBVV95cUxPMHlyRENURUJnQnVvOHRpZGVrNXUtVnNTa2QySGVCOFQ5d0VKeF96eTZJSnNLd2xBUXg5TVprVUxPSmFvYWp2ekhsRnZKOWE0ZXpJNjh3U2dhRHc3M2xpdXl0OEZLVnU4VXptdDd0S1lGRHl3dHE4eDlteGNGNURQQkdRMkNyRkIwSDlWbGthbFF1RUgzaWRwdWVGMNIBoAFBVV95cUxPTnNpZDBrTTVxYjdqZ3l4dW9IR0JMRlcwVzlTcmRXY3NqYzlXcVFSVHBSZXdlWTEtelBEaC12UjEwc2MwQUM2RHA2UVRqY3FydXNiaG1GQUVrQVBJZi1BRE5oQ1RRRGMwMEhrV09iYXoydmhfanFCbWtTanVKUy1nWnFZU3dkQ3JyNVF1VzI3VzZsRWJYWlV0amRNTngzTkVH"
     },
     {
-      "title": "Warsh Is Hawkish and That’s Good for US Assets - Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMHlzV2t0ZHRESE9EOHVIc0ZsLU5wcTZnQTE5aE83T1BOekFnV3J2YV8teHBUcERZUDY1Rk53dzVOVUNHQlhJUlZNRzYzeWF0b05KU3BkczY4SW9GT3BUQ0p4b3NDQ1JqQWgwNjZxenNNTlBNRDAydTQ1RUpMX2lHczBad2hORU8wU3dSWTFYUHA1M1d0ZGUwZVpzMmJRSkFab3hBSDBFTWxGNDJhaGFYLTdkbTFOTFJ0X2NLblFB?oc=5",
-      "source": "Bloomberg",
-      "published_at": "Wed, 24 Jun 2026 16:30:58 GMT",
-      "summary": "Warsh Is Hawkish and That’s Good for US Assets Bloomberg",
-      "guid": "CBMivgFBVV95cUxNMHlzV2t0ZHRESE9EOHVIc0ZsLU5wcTZnQTE5aE83T1BOekFnV3J2YV8teHBUcERZUDY1Rk53dzVOVUNHQlhJUlZNRzYzeWF0b05KU3BkczY4SW9GT3BUQ0p4b3NDQ1JqQWgwNjZxenNNTlBNRDAydTQ1RUpMX2lHczBad2hORU8wU3dSWTFYUHA1M1d0ZGUwZVpzMmJRSkFab3hBSDBFTWxGNDJhaGFYLTdkbTFOTFJ0X2NLblFB"
-    },
-    {
-      "title": "Alan Greenspan has died, Fed chair's excellent reputation shattered in 2008 global credit crisis - Los Angeles Times",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMzY5T0dDQ3BrWHp4RTM4QXJEeEFVS1E4ZFYwOE1ISHdXcFJNWGtYQWlYOEowMFNCZmxPZnRVMmhnYlVRUlRjRUZ2TlVudk1OSjVKY05SME82dENpdDVxNVptSm9Xc0Q3UzJYZDhxb2I1QjUtazBSRmM1UjlUSXFMbkUzcDFnZEowOTJ5M0xuUUlQZUk4?oc=5",
-      "source": "Los Angeles Times",
-      "published_at": "Mon, 22 Jun 2026 21:14:00 GMT",
-      "summary": "Alan Greenspan has died, Fed chair's excellent reputation shattered in 2008 global credit crisis Los Angeles Times",
-      "guid": "CBMilAFBVV95cUxQMzY5T0dDQ3BrWHp4RTM4QXJEeEFVS1E4ZFYwOE1ISHdXcFJNWGtYQWlYOEowMFNCZmxPZnRVMmhnYlVRUlRjRUZ2TlVudk1OSjVKY05SME82dENpdDVxNVptSm9Xc0Q3UzJYZDhxb2I1QjUtazBSRmM1UjlUSXFMbkUzcDFnZEowOTJ5M0xuUUlQZUk4"
+      "title": "Federal Reserve says U.S. banks can withstand $708 billion in losses amid overhaul of capital rules - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5MUW5nYXVYWEF3VU42X3gwUlhZNnpCQ3E3MjdaaThHcHVSNFFGZnJiU3VGa3FXX3dFWW5GQXEwd2xKZFJuT1lmaktGcmljMTd2TzNTUzdvMVhQaUZhajh4bnRHRjZ1X0J1d2FFOUcyclA0eDRNaGJCY08tdFdxZ9IBgwFBVV95cUxOVndVVGlFZkxHdTc3OHA1THJzczZISjJ6OHp3UWh6ZlVLTmoycDJ3dUFnazE2RXQ0OEFpYnhmMFpZdDhTY19ZNllrTWdvNFhIaEVnLTRyS2dPa2Z6MEQwQzg5eDZhbjJLVFBaT1c5aVUtZFFrOXFZNF8zZEUwRE1jd21Ncw?oc=5",
+      "source": "CNBC",
+      "published_at": "Wed, 24 Jun 2026 20:00:12 GMT",
+      "summary": "Federal Reserve says U.S. banks can withstand $708 billion in losses amid overhaul of capital rules CNBC",
+      "guid": "CBMifkFVX3lxTE5MUW5nYXVYWEF3VU42X3gwUlhZNnpCQ3E3MjdaaThHcHVSNFFGZnJiU3VGa3FXX3dFWW5GQXEwd2xKZFJuT1lmaktGcmljMTd2TzNTUzdvMVhQaUZhajh4bnRHRjZ1X0J1d2FFOUcyclA0eDRNaGJCY08tdFdxZ9IBgwFBVV95cUxOVndVVGlFZkxHdTc3OHA1THJzczZISjJ6OHp3UWh6ZlVLTmoycDJ3dUFnazE2RXQ0OEFpYnhmMFpZdDhTY19ZNllrTWdvNFhIaEVnLTRyS2dPa2Z6MEQwQzg5eDZhbjJLVFBaT1c5aVUtZFFrOXFZNF8zZEUwRE1jd21Ncw"
     },
     {
       "title": "Longtime Federal Reserve Chairman Alan Greenspan dies at 100 - NPR",
@@ -85,6 +77,14 @@
       "published_at": "Mon, 22 Jun 2026 11:48:32 GMT",
       "summary": "Longtime Federal Reserve Chairman Alan Greenspan dies at 100 NPR",
       "guid": "CBMiqAFBVV95cUxNbVFBYWUxWEdFQjZaTDhvX25fRXpIaEc0amVHR1phRTluc0xsdUQ4TFhnRlhnYjZXRHUwQjJvemhwRHV1ekpaRnhIdi1TZi1XM29weGd4UkpQYTFFVFAyMkdnTmp0WDRTYy1ZN05xU2V0SFNTSW9FTUtkWTByeDAxLUhMM2FRemhfM3MzaDgxaHR4Z1RmdFNhQ3lVM0pYcXVPSUZPQmlMSUo"
+    },
+    {
+      "title": "Alan Greenspan has died, Fed chair's excellent reputation shattered in 2008 global credit crisis - Los Angeles Times",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMzY5T0dDQ3BrWHp4RTM4QXJEeEFVS1E4ZFYwOE1ISHdXcFJNWGtYQWlYOEowMFNCZmxPZnRVMmhnYlVRUlRjRUZ2TlVudk1OSjVKY05SME82dENpdDVxNVptSm9Xc0Q3UzJYZDhxb2I1QjUtazBSRmM1UjlUSXFMbkUzcDFnZEowOTJ5M0xuUUlQZUk4?oc=5",
+      "source": "Los Angeles Times",
+      "published_at": "Mon, 22 Jun 2026 21:14:00 GMT",
+      "summary": "Alan Greenspan has died, Fed chair's excellent reputation shattered in 2008 global credit crisis Los Angeles Times",
+      "guid": "CBMilAFBVV95cUxQMzY5T0dDQ3BrWHp4RTM4QXJEeEFVS1E4ZFYwOE1ISHdXcFJNWGtYQWlYOEowMFNCZmxPZnRVMmhnYlVRUlRjRUZ2TlVudk1OSjVKY05SME82dENpdDVxNVptSm9Xc0Q3UzJYZDhxb2I1QjUtazBSRmM1UjlUSXFMbkUzcDFnZEowOTJ5M0xuUUlQZUk4"
     }
   ]
 }
