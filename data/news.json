@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-06-26T12:25:27Z",
+  "generated_at": "2026-06-26T15:06:50Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "The memory crunch, Supreme Court rulings, 'inheritourism' and more in Morning Squawk - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbC1iNklXNHBjelZqRS1TSTlRVTJwTEhvb1VOVF9KZTFrcEpYcVJURmQxT21CeXlvcEZYNkNmcjQ4M1VVcU9pMHc4V3VJSnJMWUZ3enRnM3F3d1dFSGJ2dExjMlpLS3IwXzA4NUlMUHh3eW9SU2RLWmVHd2EzMkZYbkRZR2RJaWh1b2dhelRTY1_SAZABQVVfeXFMUGwtYjZJVzRwY3pWakUtU0k5UVUycExIb29VTlRfSmUxa3BKWHFSVEZkMU9tQnl5b3BGWDZDZnI0ODNVVXFPaTB3OFd1SUpyTFlGd3p0ZzNxd3dXRUhidnRMYzJaS0tyMF8wODVJTFB4d3lvUlNkS1plR3dhMzJGWG5EWUdkSWlodW9nYXpUU2Nf?oc=5",
+      "source": "CNBC",
+      "published_at": "Fri, 26 Jun 2026 12:18:19 GMT",
+      "summary": "The memory crunch, Supreme Court rulings, 'inheritourism' and more in Morning Squawk CNBC",
+      "guid": "CBMikAFBVV95cUxQbC1iNklXNHBjelZqRS1TSTlRVTJwTEhvb1VOVF9KZTFrcEpYcVJURmQxT21CeXlvcEZYNkNmcjQ4M1VVcU9pMHc4V3VJSnJMWUZ3enRnM3F3d1dFSGJ2dExjMlpLS3IwXzA4NUlMUHh3eW9SU2RLWmVHd2EzMkZYbkRZR2RJaWh1b2dhelRTY1_SAZABQVVfeXFMUGwtYjZJVzRwY3pWakUtU0k5UVUycExIb29VTlRfSmUxa3BKWHFSVEZkMU9tQnl5b3BGWDZDZnI0ODNVVXFPaTB3OFd1SUpyTFlGd3p0ZzNxd3dXRUhidnRMYzJaS0tyMF8wODVJTFB4d3lvUlNkS1plR3dhMzJGWG5EWUdkSWlodW9nYXpUU2Nf"
+    },
     {
       "title": "The Probability of a Federal Reserve Rate Hike Is Soaring, Which Poses a Serious Problem for Wall Street - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZlpfRDcxRm12T0ozT2pfUzVTR1p4MzBvT2c3eW9WLTR5aWFidGl1T3dkY0Y0RWNGZGE3ajFaTURqYThCTWttY01RSHVhaGlLNW9VUDFLNVZwT3dkY3BHbVNaVHpSeDRGakxKNkh6bTBXVkxEOE02dzVLZDdGamF6UnFiTzk4VVp0cVJVYnVSQmVxRkpMNTB4T2xCQWlfVGFZNzl5Vw?oc=5",
@@ -15,12 +23,12 @@
       "guid": "CBMipAFBVV95cUxNZlpfRDcxRm12T0ozT2pfUzVTR1p4MzBvT2c3eW9WLTR5aWFidGl1T3dkY0Y0RWNGZGE3ajFaTURqYThCTWttY01RSHVhaGlLNW9VUDFLNVZwT3dkY3BHbVNaVHpSeDRGakxKNkh6bTBXVkxEOE02dzVLZDdGamF6UnFiTzk4VVp0cVJVYnVSQmVxRkpMNTB4T2xCQWlfVGFZNzl5Vw"
     },
     {
-      "title": "Federal Reserve says U.S. banks can withstand $708 billion in losses amid overhaul of capital rules - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5MUW5nYXVYWEF3VU42X3gwUlhZNnpCQ3E3MjdaaThHcHVSNFFGZnJiU3VGa3FXX3dFWW5GQXEwd2xKZFJuT1lmaktGcmljMTd2TzNTUzdvMVhQaUZhajh4bnRHRjZ1X0J1d2FFOUcyclA0eDRNaGJCY08tdFdxZ9IBgwFBVV95cUxOVndVVGlFZkxHdTc3OHA1THJzczZISjJ6OHp3UWh6ZlVLTmoycDJ3dUFnazE2RXQ0OEFpYnhmMFpZdDhTY19ZNllrTWdvNFhIaEVnLTRyS2dPa2Z6MEQwQzg5eDZhbjJLVFBaT1c5aVUtZFFrOXFZNF8zZEUwRE1jd21Ncw?oc=5",
-      "source": "CNBC",
-      "published_at": "Wed, 24 Jun 2026 20:00:12 GMT",
-      "summary": "Federal Reserve says U.S. banks can withstand $708 billion in losses amid overhaul of capital rules CNBC",
-      "guid": "CBMifkFVX3lxTE5MUW5nYXVYWEF3VU42X3gwUlhZNnpCQ3E3MjdaaThHcHVSNFFGZnJiU3VGa3FXX3dFWW5GQXEwd2xKZFJuT1lmaktGcmljMTd2TzNTUzdvMVhQaUZhajh4bnRHRjZ1X0J1d2FFOUcyclA0eDRNaGJCY08tdFdxZ9IBgwFBVV95cUxOVndVVGlFZkxHdTc3OHA1THJzczZISjJ6OHp3UWh6ZlVLTmoycDJ3dUFnazE2RXQ0OEFpYnhmMFpZdDhTY19ZNllrTWdvNFhIaEVnLTRyS2dPa2Z6MEQwQzg5eDZhbjJLVFBaT1c5aVUtZFFrOXFZNF8zZEUwRE1jd21Ncw"
+      "title": "The Federal Reserve Just Delivered Terrible News for the Stock Market, but There's a Silver Lining for Investors - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaklna1VReXd1OTJiZEU0MXBBUHozanBBcGxPc25EakplS1JadTRFZENBemw0SEstNXRfQTZtY3JFMlBVa0hjblBOR0pvM0c2WWplRDFHSktnOWs1VU16NzRiU0RkRzM5WVNlV2hocXMxNHJ4OWJUcUVJeWpWX2FBQ2FLeDU3dGNoeW9UTkpva3k4OHBwdVY0?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Mon, 22 Jun 2026 12:15:00 GMT",
+      "summary": "The Federal Reserve Just Delivered Terrible News for the Stock Market, but There's a Silver Lining for Investors The Motley Fool",
+      "guid": "CBMilwFBVV95cUxPaklna1VReXd1OTJiZEU0MXBBUHozanBBcGxPc25EakplS1JadTRFZENBemw0SEstNXRfQTZtY3JFMlBVa0hjblBOR0pvM0c2WWplRDFHSktnOWs1VU16NzRiU0RkRzM5WVNlV2hocXMxNHJ4OWJUcUVJeWpWX2FBQ2FLeDU3dGNoeW9UTkpva3k4OHBwdVY0"
     },
     {
       "title": "May US PCE inflation tops 4%, leaves Fed hike on the table - Reuters",
@@ -29,14 +37,6 @@
       "published_at": "Thu, 25 Jun 2026 18:10:40 GMT",
       "summary": "May US PCE inflation tops 4%, leaves Fed hike on the table Reuters",
       "guid": "CBMirAFBVV95cUxQTkttQ2dqWE53WS1XUWNlT0FUb2pERERFc2pkTEFDSV9tU3JUaWk3aEs5SjAxMnd3amRlZG12N0gtcFN5My1Bb0JkR3BzSGMwSHJzNE1JX2hEMmRkNW1IbnpaRHNiUVEzMDBVaFphUlVjUS1hUDFtMW9pYjI0SmVIeTljUDFUTkRXdEMzdUxSM2hTXzlYUndiU084c05sY0w1dFNINFVxeldPNlhU"
-    },
-    {
-      "title": "The Federal Reserve Just Delivered Terrible News for the Stock Market, but There's a Silver Lining for Investors - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaklna1VReXd1OTJiZEU0MXBBUHozanBBcGxPc25EakplS1JadTRFZENBemw0SEstNXRfQTZtY3JFMlBVa0hjblBOR0pvM0c2WWplRDFHSktnOWs1VU16NzRiU0RkRzM5WVNlV2hocXMxNHJ4OWJUcUVJeWpWX2FBQ2FLeDU3dGNoeW9UTkpva3k4OHBwdVY0?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Mon, 22 Jun 2026 12:15:00 GMT",
-      "summary": "The Federal Reserve Just Delivered Terrible News for the Stock Market, but There's a Silver Lining for Investors The Motley Fool",
-      "guid": "CBMilwFBVV95cUxPaklna1VReXd1OTJiZEU0MXBBUHozanBBcGxPc25EakplS1JadTRFZENBemw0SEstNXRfQTZtY3JFMlBVa0hjblBOR0pvM0c2WWplRDFHSktnOWs1VU16NzRiU0RkRzM5WVNlV2hocXMxNHJ4OWJUcUVJeWpWX2FBQ2FLeDU3dGNoeW9UTkpva3k4OHBwdVY0"
     },
     {
       "title": "Alan Greenspan, longtime chairman of the Federal Reserve, dies at 100 - ABC News - Breaking News, Latest News and Videos",
