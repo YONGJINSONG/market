@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T19:01:07Z",
+  "generated_at": "2026-06-26T20:52:51Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -13,6 +13,14 @@
       "published_at": "Fri, 26 Jun 2026 12:18:19 GMT",
       "summary": "The memory crunch, Supreme Court rulings, 'inheritourism' and more in Morning Squawk CNBC",
       "guid": "CBMikAFBVV95cUxQbC1iNklXNHBjelZqRS1TSTlRVTJwTEhvb1VOVF9KZTFrcEpYcVJURmQxT21CeXlvcEZYNkNmcjQ4M1VVcU9pMHc4V3VJSnJMWUZ3enRnM3F3d1dFSGJ2dExjMlpLS3IwXzA4NUlMUHh3eW9SU2RLWmVHd2EzMkZYbkRZR2RJaWh1b2dhelRTY1_SAZABQVVfeXFMUGwtYjZJVzRwY3pWakUtU0k5UVUycExIb29VTlRfSmUxa3BKWHFSVEZkMU9tQnl5b3BGWDZDZnI0ODNVVXFPaTB3OFd1SUpyTFlGd3p0ZzNxd3dXRUhidnRMYzJaS0tyMF8wODVJTFB4d3lvUlNkS1plR3dhMzJGWG5EWUdkSWlodW9nYXpUU2Nf"
+    },
+    {
+      "title": "Dallas Fed Study Suggests Long-Term Interest Rates Miss a Key Market Factor - Fort Worth Inc.",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUl9mTU80WDlmd01EcUxjNmNlZ1NQc2U5TldOVWdjcUUtenljcXF2TnBNQVJqUHp2azUweXFFdGpKOG1pQUNOQzJXcXFsbkhsa0J6bjU5TzY3WTMzekRtVXEyVmdwMDA1a1J0cGJDMm5rS3lJS2NzUjBYZWRGaC1VZG92VW8xSHFkTEpPOERBd2ZhVlBHN0E?oc=5",
+      "source": "Fort Worth Inc.",
+      "published_at": "Fri, 26 Jun 2026 16:02:09 GMT",
+      "summary": "Dallas Fed Study Suggests Long-Term Interest Rates Miss a Key Market Factor Fort Worth Inc.",
+      "guid": "CBMilgFBVV95cUxPUl9mTU80WDlmd01EcUxjNmNlZ1NQc2U5TldOVWdjcUUtenljcXF2TnBNQVJqUHp2azUweXFFdGpKOG1pQUNOQzJXcXFsbkhsa0J6bjU5TzY3WTMzekRtVXEyVmdwMDA1a1J0cGJDMm5rS3lJS2NzUjBYZWRGaC1VZG92VW8xSHFkTEpPOERBd2ZhVlBHN0E"
     },
     {
       "title": "The Probability of a Federal Reserve Rate Hike Is Soaring, Which Poses a Serious Problem for Wall Street - Yahoo Finance",
@@ -47,14 +55,6 @@
       "guid": "CBMipAFBVV95cUxPWTdfdnBlTFllZWp3Y09NLWRKZmd5M3pESFZIeGhUamNnYlU4VWZCS3NsY2daWHVmRzRjSGpYS2NkOTNFQ3B0blFtQ1g3ZlJWUUVqelhWeHRRLURTMGlDMExvWmUzUjFqVU1RTFQ4WFB0RndpRkc3X29UdVFPOWhCaWlYMDFoUFc2cWZaSkQ3RkVrMnVOSlRZa0daNWtJb1gwLUFXUg"
     },
     {
-      "title": "The Fed's preferred inflation gauge shows prices rising at fastest pace in 3 years - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNODJpSG0zUXZ3T3JiemstZEM0ek55U3NHQVh2YlVSdG1WZnBwdEFMQUhmemQ5NnlmVk0teWFqV2lsRXJ2XzB0ZjJ5YW91ejZWUjRzZ2RkdzdCekdGNjAya2VIRnVPbmdSODE4WlEyR1BVY3hBeXhyTDV4NmZBVE9ybkpkbERKTnh2cFE?oc=5",
-      "source": "CBS News",
-      "published_at": "Thu, 25 Jun 2026 12:48:00 GMT",
-      "summary": "The Fed's preferred inflation gauge shows prices rising at fastest pace in 3 years CBS News",
-      "guid": "CBMiigFBVV95cUxNODJpSG0zUXZ3T3JiemstZEM0ek55U3NHQVh2YlVSdG1WZnBwdEFMQUhmemQ5NnlmVk0teWFqV2lsRXJ2XzB0ZjJ5YW91ejZWUjRzZ2RkdzdCekdGNjAya2VIRnVPbmdSODE4WlEyR1BVY3hBeXhyTDV4NmZBVE9ybkpkbERKTnh2cFE"
-    },
-    {
       "title": "May US PCE inflation tops 4%, leaves Fed hike on the table - Reuters",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTkttQ2dqWE53WS1XUWNlT0FUb2pERERFc2pkTEFDSV9tU3JUaWk3aEs5SjAxMnd3amRlZG12N0gtcFN5My1Bb0JkR3BzSGMwSHJzNE1JX2hEMmRkNW1IbnpaRHNiUVEzMDBVaFphUlVjUS1hUDFtMW9pYjI0SmVIeTljUDFUTkRXdEMzdUxSM2hTXzlYUndiU084c05sY0w1dFNINFVxeldPNlhU?oc=5",
       "source": "Reuters",
@@ -63,20 +63,20 @@
       "guid": "CBMirAFBVV95cUxQTkttQ2dqWE53WS1XUWNlT0FUb2pERERFc2pkTEFDSV9tU3JUaWk3aEs5SjAxMnd3amRlZG12N0gtcFN5My1Bb0JkR3BzSGMwSHJzNE1JX2hEMmRkNW1IbnpaRHNiUVEzMDBVaFphUlVjUS1hUDFtMW9pYjI0SmVIeTljUDFUTkRXdEMzdUxSM2hTXzlYUndiU084c05sY0w1dFNINFVxeldPNlhU"
     },
     {
+      "title": "The Fed's preferred inflation gauge shows prices rising at fastest pace in 3 years - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNODJpSG0zUXZ3T3JiemstZEM0ek55U3NHQVh2YlVSdG1WZnBwdEFMQUhmemQ5NnlmVk0teWFqV2lsRXJ2XzB0ZjJ5YW91ejZWUjRzZ2RkdzdCekdGNjAya2VIRnVPbmdSODE4WlEyR1BVY3hBeXhyTDV4NmZBVE9ybkpkbERKTnh2cFE?oc=5",
+      "source": "CBS News",
+      "published_at": "Thu, 25 Jun 2026 12:48:00 GMT",
+      "summary": "The Fed's preferred inflation gauge shows prices rising at fastest pace in 3 years CBS News",
+      "guid": "CBMiigFBVV95cUxNODJpSG0zUXZ3T3JiemstZEM0ek55U3NHQVh2YlVSdG1WZnBwdEFMQUhmemQ5NnlmVk0teWFqV2lsRXJ2XzB0ZjJ5YW91ejZWUjRzZ2RkdzdCekdGNjAya2VIRnVPbmdSODE4WlEyR1BVY3hBeXhyTDV4NmZBVE9ybkpkbERKTnh2cFE"
+    },
+    {
       "title": "Former Federal Reserve Chairman Alan Greenspan dies at 100 - PBS",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMHlyRENURUJnQnVvOHRpZGVrNXUtVnNTa2QySGVCOFQ5d0VKeF96eTZJSnNLd2xBUXg5TVprVUxPSmFvYWp2ekhsRnZKOWE0ZXpJNjh3U2dhRHc3M2xpdXl0OEZLVnU4VXptdDd0S1lGRHl3dHE4eDlteGNGNURQQkdRMkNyRkIwSDlWbGthbFF1RUgzaWRwdWVGMNIBoAFBVV95cUxPTnNpZDBrTTVxYjdqZ3l4dW9IR0JMRlcwVzlTcmRXY3NqYzlXcVFSVHBSZXdlWTEtelBEaC12UjEwc2MwQUM2RHA2UVRqY3FydXNiaG1GQUVrQVBJZi1BRE5oQ1RRRGMwMEhrV09iYXoydmhfanFCbWtTanVKUy1nWnFZU3dkQ3JyNVF1VzI3VzZsRWJYWlV0amRNTngzTkVH?oc=5",
       "source": "PBS",
       "published_at": "Mon, 22 Jun 2026 13:37:42 GMT",
       "summary": "Former Federal Reserve Chairman Alan Greenspan dies at 100 PBS",
       "guid": "CBMimwFBVV95cUxPMHlyRENURUJnQnVvOHRpZGVrNXUtVnNTa2QySGVCOFQ5d0VKeF96eTZJSnNLd2xBUXg5TVprVUxPSmFvYWp2ekhsRnZKOWE0ZXpJNjh3U2dhRHc3M2xpdXl0OEZLVnU4VXptdDd0S1lGRHl3dHE4eDlteGNGNURQQkdRMkNyRkIwSDlWbGthbFF1RUgzaWRwdWVGMNIBoAFBVV95cUxPTnNpZDBrTTVxYjdqZ3l4dW9IR0JMRlcwVzlTcmRXY3NqYzlXcVFSVHBSZXdlWTEtelBEaC12UjEwc2MwQUM2RHA2UVRqY3FydXNiaG1GQUVrQVBJZi1BRE5oQ1RRRGMwMEhrV09iYXoydmhfanFCbWtTanVKUy1nWnFZU3dkQ3JyNVF1VzI3VzZsRWJYWlV0amRNTngzTkVH"
-    },
-    {
-      "title": "Former US Federal Reserve Chairman Alan Greenspan dies at age 100 - Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZzY2aFZqTzczenA5X3J4YU1veW43WTVmMldzSGZ3TnNfaURwVWV3NzFUV3lpQWJFWHlYdmNYQWhueWVocVNCMEpmZjJONmVWZThBT1h2S1p6cVR2aDVvYkZfbDhKWXpNZEJRWE5sdjBOTTY2QTctZmZNYjd4cjN6WDVCclppaEJXMnNKdXJaTm56YUhCcTM2UVNBLXdHbkNXbHVzbm1wREFLbWFVVEHSAbMBQVVfeXFMT193TEQ4YWVIS2FVcVBRN0lhSzZoY2UwSHJyX3RpLTBUSlh6Rl8wRVVSd0ptRHZfV3B1cDNUNnNocXlJU2RYdXNBYWtrVjFQdnpnczBrV01QWkd6SHVmTWxXM2FzTnB2dXZKUnJsRXo0MUduRHJBc1p3VEdLTmk0RG83a0NpLVJUa1YzYVVEa3ZoZmJjanN1S2lZOXZGYjV5QU5fdlhUeGlNWjR6Ui0tczBscEk?oc=5",
-      "source": "Al Jazeera",
-      "published_at": "Mon, 22 Jun 2026 15:18:21 GMT",
-      "summary": "Former US Federal Reserve Chairman Alan Greenspan dies at age 100 Al Jazeera",
-      "guid": "CBMirgFBVV95cUxOZzY2aFZqTzczenA5X3J4YU1veW43WTVmMldzSGZ3TnNfaURwVWV3NzFUV3lpQWJFWHlYdmNYQWhueWVocVNCMEpmZjJONmVWZThBT1h2S1p6cVR2aDVvYkZfbDhKWXpNZEJRWE5sdjBOTTY2QTctZmZNYjd4cjN6WDVCclppaEJXMnNKdXJaTm56YUhCcTM2UVNBLXdHbkNXbHVzbm1wREFLbWFVVEHSAbMBQVVfeXFMT193TEQ4YWVIS2FVcVBRN0lhSzZoY2UwSHJyX3RpLTBUSlh6Rl8wRVVSd0ptRHZfV3B1cDNUNnNocXlJU2RYdXNBYWtrVjFQdnpnczBrV01QWkd6SHVmTWxXM2FzTnB2dXZKUnJsRXo0MUduRHJBc1p3VEdLTmk0RG83a0NpLVJUa1YzYVVEa3ZoZmJjanN1S2lZOXZGYjV5QU5fdlhUeGlNWjR6Ui0tczBscEk"
     },
     {
       "title": "Stocks drive record share of American wealth - Axios",
