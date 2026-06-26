@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T10:11:58Z",
+  "generated_at": "2026-06-26T12:25:27Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,28 +7,12 @@
   },
   "items": [
     {
-      "title": "How do changing interest rates affect the stock market in 2026 - U.S. Bank",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVVJpa2pCR3B0TmxRZGlpSmRZaFctZ21ybGtrVUVBMFozZ0xiSGFRY0ZZdGNWaV80dnhHUTR2TTVoSnZEU190aGtMamY2MDAxT0hYYzRXcUl5OUEyOGRGYWlBbm54T3ppaEZWRWtyV01EOEJGcVRaM2xROWlCX2FxSFYxX1NXeUQwZmJLS3pqcGhCWjR5RVJrNlhmbUtRcy1EUGJLaFI4UTNkUHg4emNPUE95cTc0bnlDcklaaG5EcWhBeVU?oc=5",
-      "source": "U.S. Bank",
-      "published_at": "Thu, 18 Jun 2026 07:00:00 GMT",
-      "summary": "How do changing interest rates affect the stock market in 2026 U.S. Bank",
-      "guid": "CBMiwwFBVV95cUxQVVJpa2pCR3B0TmxRZGlpSmRZaFctZ21ybGtrVUVBMFozZ0xiSGFRY0ZZdGNWaV80dnhHUTR2TTVoSnZEU190aGtMamY2MDAxT0hYYzRXcUl5OUEyOGRGYWlBbm54T3ppaEZWRWtyV01EOEJGcVRaM2xROWlCX2FxSFYxX1NXeUQwZmJLS3pqcGhCWjR5RVJrNlhmbUtRcy1EUGJLaFI4UTNkUHg4emNPUE95cTc0bnlDcklaaG5EcWhBeVU"
-    },
-    {
-      "title": "Weekly market commentary - blackrock.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
-      "source": "blackrock.com",
-      "published_at": "Mon, 22 Jun 2026 07:00:00 GMT",
-      "summary": "Weekly market commentary blackrock.com",
-      "guid": "CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw"
-    },
-    {
-      "title": "The Stock Market Just Got Its Worst Inflation News in 3 Years. Here's What History Says Investors Should Do Now. - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcGJrbDBJNmE1UVR2a3gwSnBfUFBxZVhycVFLVV9NZWpUX2tRdzRycDRjUWJJUjdoWVNwbGFGR3NubzJSZ2M3azJ2UkVYeTFiMXZWcnRRSDZKX2ttYUZZdU5HS0c5LVk5MzF4eXVUMUp0OTVJWXROME1yME9BcE1hZU1Hc2RiMlRUZ2tKSC1NaDhOcmRhTTFF?oc=5",
+      "title": "The Probability of a Federal Reserve Rate Hike Is Soaring, Which Poses a Serious Problem for Wall Street - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZlpfRDcxRm12T0ozT2pfUzVTR1p4MzBvT2c3eW9WLTR5aWFidGl1T3dkY0Y0RWNGZGE3ajFaTURqYThCTWttY01RSHVhaGlLNW9VUDFLNVZwT3dkY3BHbVNaVHpSeDRGakxKNkh6bTBXVkxEOE02dzVLZDdGamF6UnFiTzk4VVp0cVJVYnVSQmVxRkpMNTB4T2xCQWlfVGFZNzl5Vw?oc=5",
       "source": "Yahoo Finance",
-      "published_at": "Thu, 25 Jun 2026 11:35:00 GMT",
-      "summary": "The Stock Market Just Got Its Worst Inflation News in 3 Years. Here's What History Says Investors Should Do Now. Yahoo Finance",
-      "guid": "CBMilwFBVV95cUxNcGJrbDBJNmE1UVR2a3gwSnBfUFBxZVhycVFLVV9NZWpUX2tRdzRycDRjUWJJUjdoWVNwbGFGR3NubzJSZ2M3azJ2UkVYeTFiMXZWcnRRSDZKX2ttYUZZdU5HS0c5LVk5MzF4eXVUMUp0OTVJWXROME1yME9BcE1hZU1Hc2RiMlRUZ2tKSC1NaDhOcmRhTTFF"
+      "published_at": "Fri, 26 Jun 2026 08:26:00 GMT",
+      "summary": "The Probability of a Federal Reserve Rate Hike Is Soaring, Which Poses a Serious Problem for Wall Street Yahoo Finance",
+      "guid": "CBMipAFBVV95cUxNZlpfRDcxRm12T0ozT2pfUzVTR1p4MzBvT2c3eW9WLTR5aWFidGl1T3dkY0Y0RWNGZGE3ajFaTURqYThCTWttY01RSHVhaGlLNW9VUDFLNVZwT3dkY3BHbVNaVHpSeDRGakxKNkh6bTBXVkxEOE02dzVLZDdGamF6UnFiTzk4VVp0cVJVYnVSQmVxRkpMNTB4T2xCQWlfVGFZNzl5Vw"
     },
     {
       "title": "Federal Reserve says U.S. banks can withstand $708 billion in losses amid overhaul of capital rules - CNBC",
@@ -47,14 +31,6 @@
       "guid": "CBMirAFBVV95cUxQTkttQ2dqWE53WS1XUWNlT0FUb2pERERFc2pkTEFDSV9tU3JUaWk3aEs5SjAxMnd3amRlZG12N0gtcFN5My1Bb0JkR3BzSGMwSHJzNE1JX2hEMmRkNW1IbnpaRHNiUVEzMDBVaFphUlVjUS1hUDFtMW9pYjI0SmVIeTljUDFUTkRXdEMzdUxSM2hTXzlYUndiU084c05sY0w1dFNINFVxeldPNlhU"
     },
     {
-      "title": "Tracker: The Federal Reserve’s Balance Sheet Assets - The American Action Forum",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0?oc=5",
-      "source": "The American Action Forum",
-      "published_at": "Mon, 22 Jun 2026 07:00:00 GMT",
-      "summary": "Tracker: The Federal Reserve’s Balance Sheet Assets The American Action Forum",
-      "guid": "CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0"
-    },
-    {
       "title": "The Federal Reserve Just Delivered Terrible News for the Stock Market, but There's a Silver Lining for Investors - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaklna1VReXd1OTJiZEU0MXBBUHozanBBcGxPc25EakplS1JadTRFZENBemw0SEstNXRfQTZtY3JFMlBVa0hjblBOR0pvM0c2WWplRDFHSktnOWs1VU16NzRiU0RkRzM5WVNlV2hocXMxNHJ4OWJUcUVJeWpWX2FBQ2FLeDU3dGNoeW9UTkpva3k4OHBwdVY0?oc=5",
       "source": "The Motley Fool",
@@ -63,12 +39,20 @@
       "guid": "CBMilwFBVV95cUxPaklna1VReXd1OTJiZEU0MXBBUHozanBBcGxPc25EakplS1JadTRFZENBemw0SEstNXRfQTZtY3JFMlBVa0hjblBOR0pvM0c2WWplRDFHSktnOWs1VU16NzRiU0RkRzM5WVNlV2hocXMxNHJ4OWJUcUVJeWpWX2FBQ2FLeDU3dGNoeW9UTkpva3k4OHBwdVY0"
     },
     {
-      "title": "The Probability of a Federal Reserve Rate Hike Is Soaring, Which Poses a Serious Problem for Wall Street - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNQnFQSWVrdEhZZ1Y0cWdYRDhqamFiZEVFOERRTTBpQ3ljM043V0JOMzFrMG0wTDFiVFNseDRiLTN4S1YzdTRZRFdpQm9CVzRNbERWeXR0T2FQa0xxUVVHYVV6TmhBVUM5SHFNSzhPV3VLQUV4VmtUelE2bGplZVFKd0Fuclo2XzdsZ2x1NWhId0twaUV6cFF0aUpDMmx4X2IyTHlUN2Z3Tm1sT1ZyLU94YmJtTnpaTTQwYm9UTld2WjRyYk42R0Z3SWQ1emdyYmdkRHFpUGJSaTVkd0dCTlg1M3dtRHo5MzJDNVBGdEg5dmxrTFRfenNlc183R2lCTzlXVUQwSkh0aHpBWThWTUlrc2hYZlR2QQ?oc=5",
-      "source": "The Globe and Mail",
-      "published_at": "Fri, 26 Jun 2026 08:36:59 GMT",
-      "summary": "The Probability of a Federal Reserve Rate Hike Is Soaring, Which Poses a Serious Problem for Wall Street The Globe and Mail",
-      "guid": "CBMilgJBVV95cUxNQnFQSWVrdEhZZ1Y0cWdYRDhqamFiZEVFOERRTTBpQ3ljM043V0JOMzFrMG0wTDFiVFNseDRiLTN4S1YzdTRZRFdpQm9CVzRNbERWeXR0T2FQa0xxUVVHYVV6TmhBVUM5SHFNSzhPV3VLQUV4VmtUelE2bGplZVFKd0Fuclo2XzdsZ2x1NWhId0twaUV6cFF0aUpDMmx4X2IyTHlUN2Z3Tm1sT1ZyLU94YmJtTnpaTTQwYm9UTld2WjRyYk42R0Z3SWQ1emdyYmdkRHFpUGJSaTVkd0dCTlg1M3dtRHo5MzJDNVBGdEg5dmxrTFRfenNlc183R2lCTzlXVUQwSkh0aHpBWThWTUlrc2hYZlR2QQ"
+      "title": "Alan Greenspan, longtime chairman of the Federal Reserve, dies at 100 - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYXo0WUNLQWNxTy02eEJtSF9VQTM1eUtvMWtXMndXeWJPUkNRcldqZndPN1M1LVJJWjFzRVVhbm5GbWw5UXpucEUxVnhaZTlfUk9RUmFzS0NLbVJrTnNHT2pIelllN1lGb084emdnQVJSdTFoMmR4T01USGF3clZqaXdzcF9aZXgyaHFTVWdrNVYxdmNZMkw4SUhURk5aYjF0MURKZWZtQdIBrAFBVV95cUxPNDV2VVR1UnlORldBUXo3aUltVTV5N3JzODdDSWhmWHJraG40d0prZEZSQUQ3QjFERXQ5Y0NlU2pMZjlJZ1hrc1pDTTcteUpRMUNVUFhtd3RXRnRhQldBX0FjSGlTZTZyRkU1M1FYVUlEMDJaMW9MVFNvcXY4UzU5MURWZXhqb2xQZ0VHX1Z4ODY1VjdPbktwSlVDMF9haTltdHh4dFRmWUJJVFhK?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "published_at": "Mon, 22 Jun 2026 13:06:34 GMT",
+      "summary": "Alan Greenspan, longtime chairman of the Federal Reserve, dies at 100 ABC News - Breaking News, Latest News and Videos",
+      "guid": "CBMipwFBVV95cUxNYXo0WUNLQWNxTy02eEJtSF9VQTM1eUtvMWtXMndXeWJPUkNRcldqZndPN1M1LVJJWjFzRVVhbm5GbWw5UXpucEUxVnhaZTlfUk9RUmFzS0NLbVJrTnNHT2pIelllN1lGb084emdnQVJSdTFoMmR4T01USGF3clZqaXdzcF9aZXgyaHFTVWdrNVYxdmNZMkw4SUhURk5aYjF0MURKZWZtQdIBrAFBVV95cUxPNDV2VVR1UnlORldBUXo3aUltVTV5N3JzODdDSWhmWHJraG40d0prZEZSQUQ3QjFERXQ5Y0NlU2pMZjlJZ1hrc1pDTTcteUpRMUNVUFhtd3RXRnRhQldBX0FjSGlTZTZyRkU1M1FYVUlEMDJaMW9MVFNvcXY4UzU5MURWZXhqb2xQZ0VHX1Z4ODY1VjdPbktwSlVDMF9haTltdHh4dFRmWUJJVFhK"
+    },
+    {
+      "title": "Alan Greenspan, the legendary former Federal Reserve chair, dies - Oregon Public Broadcasting - OPB",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWTdfdnBlTFllZWp3Y09NLWRKZmd5M3pESFZIeGhUamNnYlU4VWZCS3NsY2daWHVmRzRjSGpYS2NkOTNFQ3B0blFtQ1g3ZlJWUUVqelhWeHRRLURTMGlDMExvWmUzUjFqVU1RTFQ4WFB0RndpRkc3X29UdVFPOWhCaWlYMDFoUFc2cWZaSkQ3RkVrMnVOSlRZa0daNWtJb1gwLUFXUg?oc=5",
+      "source": "Oregon Public Broadcasting - OPB",
+      "published_at": "Mon, 22 Jun 2026 13:31:32 GMT",
+      "summary": "Alan Greenspan, the legendary former Federal Reserve chair, dies Oregon Public Broadcasting - OPB",
+      "guid": "CBMipAFBVV95cUxPWTdfdnBlTFllZWp3Y09NLWRKZmd5M3pESFZIeGhUamNnYlU4VWZCS3NsY2daWHVmRzRjSGpYS2NkOTNFQ3B0blFtQ1g3ZlJWUUVqelhWeHRRLURTMGlDMExvWmUzUjFqVU1RTFQ4WFB0RndpRkc3X29UdVFPOWhCaWlYMDFoUFc2cWZaSkQ3RkVrMnVOSlRZa0daNWtJb1gwLUFXUg"
     },
     {
       "title": "The Fed's preferred inflation gauge shows prices rising at fastest pace in 3 years - CBS News",
@@ -85,6 +69,22 @@
       "published_at": "Mon, 22 Jun 2026 13:37:42 GMT",
       "summary": "Former Federal Reserve Chairman Alan Greenspan dies at 100 PBS",
       "guid": "CBMimwFBVV95cUxPMHlyRENURUJnQnVvOHRpZGVrNXUtVnNTa2QySGVCOFQ5d0VKeF96eTZJSnNLd2xBUXg5TVprVUxPSmFvYWp2ekhsRnZKOWE0ZXpJNjh3U2dhRHc3M2xpdXl0OEZLVnU4VXptdDd0S1lGRHl3dHE4eDlteGNGNURQQkdRMkNyRkIwSDlWbGthbFF1RUgzaWRwdWVGMNIBoAFBVV95cUxPTnNpZDBrTTVxYjdqZ3l4dW9IR0JMRlcwVzlTcmRXY3NqYzlXcVFSVHBSZXdlWTEtelBEaC12UjEwc2MwQUM2RHA2UVRqY3FydXNiaG1GQUVrQVBJZi1BRE5oQ1RRRGMwMEhrV09iYXoydmhfanFCbWtTanVKUy1nWnFZU3dkQ3JyNVF1VzI3VzZsRWJYWlV0amRNTngzTkVH"
+    },
+    {
+      "title": "Former US Federal Reserve Chairman Alan Greenspan dies at age 100 - Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZzY2aFZqTzczenA5X3J4YU1veW43WTVmMldzSGZ3TnNfaURwVWV3NzFUV3lpQWJFWHlYdmNYQWhueWVocVNCMEpmZjJONmVWZThBT1h2S1p6cVR2aDVvYkZfbDhKWXpNZEJRWE5sdjBOTTY2QTctZmZNYjd4cjN6WDVCclppaEJXMnNKdXJaTm56YUhCcTM2UVNBLXdHbkNXbHVzbm1wREFLbWFVVEHSAbMBQVVfeXFMT193TEQ4YWVIS2FVcVBRN0lhSzZoY2UwSHJyX3RpLTBUSlh6Rl8wRVVSd0ptRHZfV3B1cDNUNnNocXlJU2RYdXNBYWtrVjFQdnpnczBrV01QWkd6SHVmTWxXM2FzTnB2dXZKUnJsRXo0MUduRHJBc1p3VEdLTmk0RG83a0NpLVJUa1YzYVVEa3ZoZmJjanN1S2lZOXZGYjV5QU5fdlhUeGlNWjR6Ui0tczBscEk?oc=5",
+      "source": "Al Jazeera",
+      "published_at": "Mon, 22 Jun 2026 15:18:21 GMT",
+      "summary": "Former US Federal Reserve Chairman Alan Greenspan dies at age 100 Al Jazeera",
+      "guid": "CBMirgFBVV95cUxOZzY2aFZqTzczenA5X3J4YU1veW43WTVmMldzSGZ3TnNfaURwVWV3NzFUV3lpQWJFWHlYdmNYQWhueWVocVNCMEpmZjJONmVWZThBT1h2S1p6cVR2aDVvYkZfbDhKWXpNZEJRWE5sdjBOTTY2QTctZmZNYjd4cjN6WDVCclppaEJXMnNKdXJaTm56YUhCcTM2UVNBLXdHbkNXbHVzbm1wREFLbWFVVEHSAbMBQVVfeXFMT193TEQ4YWVIS2FVcVBRN0lhSzZoY2UwSHJyX3RpLTBUSlh6Rl8wRVVSd0ptRHZfV3B1cDNUNnNocXlJU2RYdXNBYWtrVjFQdnpnczBrV01QWkd6SHVmTWxXM2FzTnB2dXZKUnJsRXo0MUduRHJBc1p3VEdLTmk0RG83a0NpLVJUa1YzYVVEa3ZoZmJjanN1S2lZOXZGYjV5QU5fdlhUeGlNWjR6Ui0tczBscEk"
+    },
+    {
+      "title": "A quieter Federal Reserve could mean volatile markets, higher rates - Chicago Tribune",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA2TmNfdHl3RjdyTHNRTmVoRnltdDRmNHFjTEFFRzRVU3dXY0VSVWhHZWpBUzZGZW9PVWM2eHJqRkFWUVd4NHhvZlNQVmMyU25laXJtSHpZX1pBY3FpaWlpd1dKSlZrSm9XRUdPNVN4eEdDR1E?oc=5",
+      "source": "Chicago Tribune",
+      "published_at": "Sat, 20 Jun 2026 19:14:14 GMT",
+      "summary": "A quieter Federal Reserve could mean volatile markets, higher rates Chicago Tribune",
+      "guid": "CBMic0FVX3lxTFA2TmNfdHl3RjdyTHNRTmVoRnltdDRmNHFjTEFFRzRVU3dXY0VSVWhHZWpBUzZGZW9PVWM2eHJqRkFWUVd4NHhvZlNQVmMyU25laXJtSHpZX1pBY3FpaWlpd1dKSlZrSm9XRUdPNVN4eEdDR1E"
     }
   ]
 }
