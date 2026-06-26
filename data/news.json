@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T02:56:47Z",
+  "generated_at": "2026-06-26T06:47:35Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -15,20 +15,20 @@
       "guid": "CBMilwFBVV95cUxNcGJrbDBJNmE1UVR2a3gwSnBfUFBxZVhycVFLVV9NZWpUX2tRdzRycDRjUWJJUjdoWVNwbGFGR3NubzJSZ2M3azJ2UkVYeTFiMXZWcnRRSDZKX2ttYUZZdU5HS0c5LVk5MzF4eXVUMUp0OTVJWXROME1yME9BcE1hZU1Hc2RiMlRUZ2tKSC1NaDhOcmRhTTFF"
     },
     {
-      "title": "Federal Reserve says U.S. banks can withstand $708 billion in losses amid overhaul of capital rules - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5MUW5nYXVYWEF3VU42X3gwUlhZNnpCQ3E3MjdaaThHcHVSNFFGZnJiU3VGa3FXX3dFWW5GQXEwd2xKZFJuT1lmaktGcmljMTd2TzNTUzdvMVhQaUZhajh4bnRHRjZ1X0J1d2FFOUcyclA0eDRNaGJCY08tdFdxZ9IBgwFBVV95cUxOVndVVGlFZkxHdTc3OHA1THJzczZISjJ6OHp3UWh6ZlVLTmoycDJ3dUFnazE2RXQ0OEFpYnhmMFpZdDhTY19ZNllrTWdvNFhIaEVnLTRyS2dPa2Z6MEQwQzg5eDZhbjJLVFBaT1c5aVUtZFFrOXFZNF8zZEUwRE1jd21Ncw?oc=5",
-      "source": "CNBC",
-      "published_at": "Wed, 24 Jun 2026 20:00:12 GMT",
-      "summary": "Federal Reserve says U.S. banks can withstand $708 billion in losses amid overhaul of capital rules CNBC",
-      "guid": "CBMifkFVX3lxTE5MUW5nYXVYWEF3VU42X3gwUlhZNnpCQ3E3MjdaaThHcHVSNFFGZnJiU3VGa3FXX3dFWW5GQXEwd2xKZFJuT1lmaktGcmljMTd2TzNTUzdvMVhQaUZhajh4bnRHRjZ1X0J1d2FFOUcyclA0eDRNaGJCY08tdFdxZ9IBgwFBVV95cUxOVndVVGlFZkxHdTc3OHA1THJzczZISjJ6OHp3UWh6ZlVLTmoycDJ3dUFnazE2RXQ0OEFpYnhmMFpZdDhTY19ZNllrTWdvNFhIaEVnLTRyS2dPa2Z6MEQwQzg5eDZhbjJLVFBaT1c5aVUtZFFrOXFZNF8zZEUwRE1jd21Ncw"
-    },
-    {
       "title": "May US PCE inflation tops 4%, leaves Fed hike on the table - Reuters",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTkttQ2dqWE53WS1XUWNlT0FUb2pERERFc2pkTEFDSV9tU3JUaWk3aEs5SjAxMnd3amRlZG12N0gtcFN5My1Bb0JkR3BzSGMwSHJzNE1JX2hEMmRkNW1IbnpaRHNiUVEzMDBVaFphUlVjUS1hUDFtMW9pYjI0SmVIeTljUDFUTkRXdEMzdUxSM2hTXzlYUndiU084c05sY0w1dFNINFVxeldPNlhU?oc=5",
       "source": "Reuters",
       "published_at": "Thu, 25 Jun 2026 18:10:40 GMT",
       "summary": "May US PCE inflation tops 4%, leaves Fed hike on the table Reuters",
       "guid": "CBMirAFBVV95cUxQTkttQ2dqWE53WS1XUWNlT0FUb2pERERFc2pkTEFDSV9tU3JUaWk3aEs5SjAxMnd3amRlZG12N0gtcFN5My1Bb0JkR3BzSGMwSHJzNE1JX2hEMmRkNW1IbnpaRHNiUVEzMDBVaFphUlVjUS1hUDFtMW9pYjI0SmVIeTljUDFUTkRXdEMzdUxSM2hTXzlYUndiU084c05sY0w1dFNINFVxeldPNlhU"
+    },
+    {
+      "title": "Federal Reserve says U.S. banks can withstand $708 billion in losses amid overhaul of capital rules - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5MUW5nYXVYWEF3VU42X3gwUlhZNnpCQ3E3MjdaaThHcHVSNFFGZnJiU3VGa3FXX3dFWW5GQXEwd2xKZFJuT1lmaktGcmljMTd2TzNTUzdvMVhQaUZhajh4bnRHRjZ1X0J1d2FFOUcyclA0eDRNaGJCY08tdFdxZ9IBgwFBVV95cUxOVndVVGlFZkxHdTc3OHA1THJzczZISjJ6OHp3UWh6ZlVLTmoycDJ3dUFnazE2RXQ0OEFpYnhmMFpZdDhTY19ZNllrTWdvNFhIaEVnLTRyS2dPa2Z6MEQwQzg5eDZhbjJLVFBaT1c5aVUtZFFrOXFZNF8zZEUwRE1jd21Ncw?oc=5",
+      "source": "CNBC",
+      "published_at": "Wed, 24 Jun 2026 20:00:12 GMT",
+      "summary": "Federal Reserve says U.S. banks can withstand $708 billion in losses amid overhaul of capital rules CNBC",
+      "guid": "CBMifkFVX3lxTE5MUW5nYXVYWEF3VU42X3gwUlhZNnpCQ3E3MjdaaThHcHVSNFFGZnJiU3VGa3FXX3dFWW5GQXEwd2xKZFJuT1lmaktGcmljMTd2TzNTUzdvMVhQaUZhajh4bnRHRjZ1X0J1d2FFOUcyclA0eDRNaGJCY08tdFdxZ9IBgwFBVV95cUxOVndVVGlFZkxHdTc3OHA1THJzczZISjJ6OHp3UWh6ZlVLTmoycDJ3dUFnazE2RXQ0OEFpYnhmMFpZdDhTY19ZNllrTWdvNFhIaEVnLTRyS2dPa2Z6MEQwQzg5eDZhbjJLVFBaT1c5aVUtZFFrOXFZNF8zZEUwRE1jd21Ncw"
     },
     {
       "title": "The Fed's preferred inflation gauge shows prices rising at fastest pace in 3 years - CBS News",
@@ -63,14 +63,6 @@
       "guid": "CBMimwFBVV95cUxPMHlyRENURUJnQnVvOHRpZGVrNXUtVnNTa2QySGVCOFQ5d0VKeF96eTZJSnNLd2xBUXg5TVprVUxPSmFvYWp2ekhsRnZKOWE0ZXpJNjh3U2dhRHc3M2xpdXl0OEZLVnU4VXptdDd0S1lGRHl3dHE4eDlteGNGNURQQkdRMkNyRkIwSDlWbGthbFF1RUgzaWRwdWVGMNIBoAFBVV95cUxPTnNpZDBrTTVxYjdqZ3l4dW9IR0JMRlcwVzlTcmRXY3NqYzlXcVFSVHBSZXdlWTEtelBEaC12UjEwc2MwQUM2RHA2UVRqY3FydXNiaG1GQUVrQVBJZi1BRE5oQ1RRRGMwMEhrV09iYXoydmhfanFCbWtTanVKUy1nWnFZU3dkQ3JyNVF1VzI3VzZsRWJYWlV0amRNTngzTkVH"
     },
     {
-      "title": "Why Is DraftKings Stock Falling On Thursday? - Benzinga",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYjR5Qkl4bzMwZVpMV19ieUUzd2Iyc0lKQ21oSXBFUG1GV3B1ajdIMXl2TDdrc1ZSLXVZVTVpa0lIWWdfVFFHNmJTb1dJNUYzVnY2dktZTkpWWlBpVEdZVHhTdGhVN3VsV2NILS1EQkpmczZfaXpYUG1IQjg4U2FrTHFZMlpvRFZGV0ItbmJGRGlwU3ZHYkFxRDB1QldmczlRNkZyMU9BSQ?oc=5",
-      "source": "Benzinga",
-      "published_at": "Thu, 25 Jun 2026 18:04:45 GMT",
-      "summary": "Why Is DraftKings Stock Falling On Thursday? Benzinga",
-      "guid": "CBMipwFBVV95cUxNYjR5Qkl4bzMwZVpMV19ieUUzd2Iyc0lKQ21oSXBFUG1GV3B1ajdIMXl2TDdrc1ZSLXVZVTVpa0lIWWdfVFFHNmJTb1dJNUYzVnY2dktZTkpWWlBpVEdZVHhTdGhVN3VsV2NILS1EQkpmczZfaXpYUG1IQjg4U2FrTHFZMlpvRFZGV0ItbmJGRGlwU3ZHYkFxRDB1QldmczlRNkZyMU9BSQ"
-    },
-    {
       "title": "Alan Greenspan has died, Fed chair's excellent reputation shattered in 2008 global credit crisis - Los Angeles Times",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMzY5T0dDQ3BrWHp4RTM4QXJEeEFVS1E4ZFYwOE1ISHdXcFJNWGtYQWlYOEowMFNCZmxPZnRVMmhnYlVRUlRjRUZ2TlVudk1OSjVKY05SME82dENpdDVxNVptSm9Xc0Q3UzJYZDhxb2I1QjUtazBSRmM1UjlUSXFMbkUzcDFnZEowOTJ5M0xuUUlQZUk4?oc=5",
       "source": "Los Angeles Times",
@@ -79,12 +71,20 @@
       "guid": "CBMilAFBVV95cUxQMzY5T0dDQ3BrWHp4RTM4QXJEeEFVS1E4ZFYwOE1ISHdXcFJNWGtYQWlYOEowMFNCZmxPZnRVMmhnYlVRUlRjRUZ2TlVudk1OSjVKY05SME82dENpdDVxNVptSm9Xc0Q3UzJYZDhxb2I1QjUtazBSRmM1UjlUSXFMbkUzcDFnZEowOTJ5M0xuUUlQZUk4"
     },
     {
-      "title": "A quieter Federal Reserve could mean volatile markets, higher rates - Chicago Tribune",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA2TmNfdHl3RjdyTHNRTmVoRnltdDRmNHFjTEFFRzRVU3dXY0VSVWhHZWpBUzZGZW9PVWM2eHJqRkFWUVd4NHhvZlNQVmMyU25laXJtSHpZX1pBY3FpaWlpd1dKSlZrSm9XRUdPNVN4eEdDR1E?oc=5",
-      "source": "Chicago Tribune",
-      "published_at": "Sat, 20 Jun 2026 19:14:14 GMT",
-      "summary": "A quieter Federal Reserve could mean volatile markets, higher rates Chicago Tribune",
-      "guid": "CBMic0FVX3lxTFA2TmNfdHl3RjdyTHNRTmVoRnltdDRmNHFjTEFFRzRVU3dXY0VSVWhHZWpBUzZGZW9PVWM2eHJqRkFWUVd4NHhvZlNQVmMyU25laXJtSHpZX1pBY3FpaWlpd1dKSlZrSm9XRUdPNVN4eEdDR1E"
+      "title": "Why Is DraftKings Stock Falling On Thursday? - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYjR5Qkl4bzMwZVpMV19ieUUzd2Iyc0lKQ21oSXBFUG1GV3B1ajdIMXl2TDdrc1ZSLXVZVTVpa0lIWWdfVFFHNmJTb1dJNUYzVnY2dktZTkpWWlBpVEdZVHhTdGhVN3VsV2NILS1EQkpmczZfaXpYUG1IQjg4U2FrTHFZMlpvRFZGV0ItbmJGRGlwU3ZHYkFxRDB1QldmczlRNkZyMU9BSQ?oc=5",
+      "source": "Benzinga",
+      "published_at": "Thu, 25 Jun 2026 18:04:45 GMT",
+      "summary": "Why Is DraftKings Stock Falling On Thursday? Benzinga",
+      "guid": "CBMipwFBVV95cUxNYjR5Qkl4bzMwZVpMV19ieUUzd2Iyc0lKQ21oSXBFUG1GV3B1ajdIMXl2TDdrc1ZSLXVZVTVpa0lIWWdfVFFHNmJTb1dJNUYzVnY2dktZTkpWWlBpVEdZVHhTdGhVN3VsV2NILS1EQkpmczZfaXpYUG1IQjg4U2FrTHFZMlpvRFZGV0ItbmJGRGlwU3ZHYkFxRDB1QldmczlRNkZyMU9BSQ"
+    },
+    {
+      "title": "Alan Greenspan, the legendary former Federal Reserve chair, dies - NPR",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSVdQX1EzU0RISzZyZG5PV2k5OFZOM2F0U2RVZWNHMUlXbm9mdU1XeExTSmxGbFRRVmxYdnJIRUk0YmtpMDNDam0tQURJa1VQaV9hU1Bta0JEb2xEMjV0R0Ezb3MzNF9FOUhhYU1qMHBYU0xNVHVMSmp4eDBSYTZucndkcnJ6dkVFLXVCYnA1cnlfRXd0WHp4WU1pU3N4dk1JaGNBTHh3?oc=5",
+      "source": "NPR",
+      "published_at": "Mon, 22 Jun 2026 11:53:51 GMT",
+      "summary": "Alan Greenspan, the legendary former Federal Reserve chair, dies NPR",
+      "guid": "CBMipgFBVV95cUxOSVdQX1EzU0RISzZyZG5PV2k5OFZOM2F0U2RVZWNHMUlXbm9mdU1XeExTSmxGbFRRVmxYdnJIRUk0YmtpMDNDam0tQURJa1VQaV9hU1Bta0JEb2xEMjV0R0Ezb3MzNF9FOUhhYU1qMHBYU0xNVHVMSmp4eDBSYTZucndkcnJ6dkVFLXVCYnA1cnlfRXd0WHp4WU1pU3N4dk1JaGNBTHh3"
     }
   ]
 }
