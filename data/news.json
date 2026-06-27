@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T21:52:01Z",
+  "generated_at": "2026-06-27T22:52:17Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -63,6 +63,14 @@
       "guid": "CBMiigFBVV95cUxNODJpSG0zUXZ3T3JiemstZEM0ek55U3NHQVh2YlVSdG1WZnBwdEFMQUhmemQ5NnlmVk0teWFqV2lsRXJ2XzB0ZjJ5YW91ejZWUjRzZ2RkdzdCekdGNjAya2VIRnVPbmdSODE4WlEyR1BVY3hBeXhyTDV4NmZBVE9ybkpkbERKTnh2cFE"
     },
     {
+      "title": "May US PCE inflation tops 4%, leaves Fed hike on the table - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTkttQ2dqWE53WS1XUWNlT0FUb2pERERFc2pkTEFDSV9tU3JUaWk3aEs5SjAxMnd3amRlZG12N0gtcFN5My1Bb0JkR3BzSGMwSHJzNE1JX2hEMmRkNW1IbnpaRHNiUVEzMDBVaFphUlVjUS1hUDFtMW9pYjI0SmVIeTljUDFUTkRXdEMzdUxSM2hTXzlYUndiU084c05sY0w1dFNINFVxeldPNlhU?oc=5",
+      "source": "Reuters",
+      "published_at": "Thu, 25 Jun 2026 18:10:40 GMT",
+      "summary": "May US PCE inflation tops 4%, leaves Fed hike on the table Reuters",
+      "guid": "CBMirAFBVV95cUxQTkttQ2dqWE53WS1XUWNlT0FUb2pERERFc2pkTEFDSV9tU3JUaWk3aEs5SjAxMnd3amRlZG12N0gtcFN5My1Bb0JkR3BzSGMwSHJzNE1JX2hEMmRkNW1IbnpaRHNiUVEzMDBVaFphUlVjUS1hUDFtMW9pYjI0SmVIeTljUDFUTkRXdEMzdUxSM2hTXzlYUndiU084c05sY0w1dFNINFVxeldPNlhU"
+    },
+    {
       "title": "Wells Fargo Completes 2026 Stress Test and Intends to Raise Dividend by 11% to $0.50 - wellsfargo.com",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORVFCaHIyWjdHNTVLMEpmRHRTWmpFYlZJUTNpNmw5TENlbmc5U2M1cS15TlBYbmtwQVYyOGdHV3F4TUwyNW01a0dpejFtYjJMc1p4SW15VExPTUd1azRXTkI2dlBJOW1zTTh5R0Nsanl1OV91MmN4ZWZ6aGRWRmV0bzh2aEJEelNSZXdLRGctYno2QW10bE5Nc1NlWXpDZVhxZVc3NXhKdHQ5VG9VLTlGUTlyWU5Rdl9yLURwZzhXenNHV3k1azJzUHo0MHozLXJNRkdqMzRzdDlhMGNpWDJTQ0pWNmdpQQ?oc=5",
       "source": "wellsfargo.com",
@@ -77,14 +85,6 @@
       "published_at": "Thu, 04 Jun 2026 07:00:00 GMT",
       "summary": "Stocks drive record share of American wealth Axios",
       "guid": "CBMibEFVX3lxTE4tREZqZEtISDliRTZVeFV4MkhkbW9ueER2Z25YRDRuNXBDaGVGLTlKMC1JUUVfWXFYT2h3YWtwemRuVU9NLVg0Qi03bEdoQlBfcVBmckN6anZtZVVTakstVlVZWWU0bm5YSmUwaQ"
-    },
-    {
-      "title": "Former Federal Reserve Chairman Alan Greenspan dies at 100 - PBS",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMHlyRENURUJnQnVvOHRpZGVrNXUtVnNTa2QySGVCOFQ5d0VKeF96eTZJSnNLd2xBUXg5TVprVUxPSmFvYWp2ekhsRnZKOWE0ZXpJNjh3U2dhRHc3M2xpdXl0OEZLVnU4VXptdDd0S1lGRHl3dHE4eDlteGNGNURQQkdRMkNyRkIwSDlWbGthbFF1RUgzaWRwdWVGMNIBoAFBVV95cUxPTnNpZDBrTTVxYjdqZ3l4dW9IR0JMRlcwVzlTcmRXY3NqYzlXcVFSVHBSZXdlWTEtelBEaC12UjEwc2MwQUM2RHA2UVRqY3FydXNiaG1GQUVrQVBJZi1BRE5oQ1RRRGMwMEhrV09iYXoydmhfanFCbWtTanVKUy1nWnFZU3dkQ3JyNVF1VzI3VzZsRWJYWlV0amRNTngzTkVH?oc=5",
-      "source": "PBS",
-      "published_at": "Mon, 22 Jun 2026 13:37:42 GMT",
-      "summary": "Former Federal Reserve Chairman Alan Greenspan dies at 100 PBS",
-      "guid": "CBMimwFBVV95cUxPMHlyRENURUJnQnVvOHRpZGVrNXUtVnNTa2QySGVCOFQ5d0VKeF96eTZJSnNLd2xBUXg5TVprVUxPSmFvYWp2ekhsRnZKOWE0ZXpJNjh3U2dhRHc3M2xpdXl0OEZLVnU4VXptdDd0S1lGRHl3dHE4eDlteGNGNURQQkdRMkNyRkIwSDlWbGthbFF1RUgzaWRwdWVGMNIBoAFBVV95cUxPTnNpZDBrTTVxYjdqZ3l4dW9IR0JMRlcwVzlTcmRXY3NqYzlXcVFSVHBSZXdlWTEtelBEaC12UjEwc2MwQUM2RHA2UVRqY3FydXNiaG1GQUVrQVBJZi1BRE5oQ1RRRGMwMEhrV09iYXoydmhfanFCbWtTanVKUy1nWnFZU3dkQ3JyNVF1VzI3VzZsRWJYWlV0amRNTngzTkVH"
     }
   ]
 }
