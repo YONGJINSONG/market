@@ -1,19 +1,11 @@
 {
-  "generated_at": "2026-06-28T06:36:24Z",
+  "generated_at": "2026-06-28T09:45:16Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
-    {
-      "title": "Stock Market Under the Trump Administration: What is Driving Markets in 2026? - U.S. Bank",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcUowVHR1VXAzd0Zfamw1MkVSejFsRGo1bkdGdHhjNVBZVFdwU3VpcE5neGJOeWl6RmdQVkFsYlcxNEVTRGg3WHNYSGR1d1BpTjV4T2NqdWdER3ZtQ0RVbU40WTcyRXRaTEM5bFZteVlYNE5EYkM1M1BaR0lYTGlUeFlTeDhVMzRaWFFqZEZhcGc3RFJoZy1qZy1mTGViQQ?oc=5",
-      "source": "U.S. Bank",
-      "published_at": "Thu, 25 Jun 2026 07:00:00 GMT",
-      "summary": "Stock Market Under the Trump Administration: What is Driving Markets in 2026? U.S. Bank",
-      "guid": "CBMingFBVV95cUxPcUowVHR1VXAzd0Zfamw1MkVSejFsRGo1bkdGdHhjNVBZVFdwU3VpcE5neGJOeWl6RmdQVkFsYlcxNEVTRGg3WHNYSGR1d1BpTjV4T2NqdWdER3ZtQ0RVbU40WTcyRXRaTEM5bFZteVlYNE5EYkM1M1BaR0lYTGlUeFlTeDhVMzRaWFFqZEZhcGc3RFJoZy1qZy1mTGViQQ"
-    },
     {
       "title": "The memory crunch, Supreme Court rulings, 'inheritourism' and more in Morning Squawk - CNBC",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbC1iNklXNHBjelZqRS1TSTlRVTJwTEhvb1VOVF9KZTFrcEpYcVJURmQxT21CeXlvcEZYNkNmcjQ4M1VVcU9pMHc4V3VJSnJMWUZ3enRnM3F3d1dFSGJ2dExjMlpLS3IwXzA4NUlMUHh3eW9SU2RLWmVHd2EzMkZYbkRZR2RJaWh1b2dhelRTY1_SAZABQVVfeXFMUGwtYjZJVzRwY3pWakUtU0k5UVUycExIb29VTlRfSmUxa3BKWHFSVEZkMU9tQnl5b3BGWDZDZnI0ODNVVXFPaTB3OFd1SUpyTFlGd3p0ZzNxd3dXRUhidnRMYzJaS0tyMF8wODVJTFB4d3lvUlNkS1plR3dhMzJGWG5EWUdkSWlodW9nYXpUU2Nf?oc=5",
@@ -39,36 +31,44 @@
       "guid": "CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ"
     },
     {
-      "title": "Weekly market commentary - blackrock.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
-      "source": "blackrock.com",
-      "published_at": "Mon, 22 Jun 2026 07:00:00 GMT",
-      "summary": "Weekly market commentary blackrock.com",
-      "guid": "CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw"
+      "title": "Dallas Fed Study Suggests Long-Term Interest Rates Miss a Key Market Factor - Fort Worth Inc.",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUl9mTU80WDlmd01EcUxjNmNlZ1NQc2U5TldOVWdjcUUtenljcXF2TnBNQVJqUHp2azUweXFFdGpKOG1pQUNOQzJXcXFsbkhsa0J6bjU5TzY3WTMzekRtVXEyVmdwMDA1a1J0cGJDMm5rS3lJS2NzUjBYZWRGaC1VZG92VW8xSHFkTEpPOERBd2ZhVlBHN0E?oc=5",
+      "source": "Fort Worth Inc.",
+      "published_at": "Fri, 26 Jun 2026 16:02:09 GMT",
+      "summary": "Dallas Fed Study Suggests Long-Term Interest Rates Miss a Key Market Factor Fort Worth Inc.",
+      "guid": "CBMilgFBVV95cUxPUl9mTU80WDlmd01EcUxjNmNlZ1NQc2U5TldOVWdjcUUtenljcXF2TnBNQVJqUHp2azUweXFFdGpKOG1pQUNOQzJXcXFsbkhsa0J6bjU5TzY3WTMzekRtVXEyVmdwMDA1a1J0cGJDMm5rS3lJS2NzUjBYZWRGaC1VZG92VW8xSHFkTEpPOERBd2ZhVlBHN0E"
     },
     {
-      "title": "Tracker: The Federal Reserve’s Balance Sheet Assets - The American Action Forum",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0?oc=5",
-      "source": "The American Action Forum",
-      "published_at": "Mon, 22 Jun 2026 07:00:00 GMT",
-      "summary": "Tracker: The Federal Reserve’s Balance Sheet Assets The American Action Forum",
-      "guid": "CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0"
+      "title": "Alan Greenspan, longtime chairman of the Federal Reserve, dies at 100 - ABC7 New York",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVktGUERPQkZzbmJXQW1PSjFncEFxdmFMUE00MWhlNUNWdTJlaTd0WHpiMlBPeWdOakZUWUo3Zy1nNnZGY0t4Z2xYZWJfZGpQQ2dXeGNrUlNOQ050T2lHRzVzOXhoNDlxT3BMZnJldlVta05faWhFaWVEVnRjTHp5T1ZZeFo1QnV3VlFnbEF2ZUNYQWc4S1E?oc=5",
+      "source": "ABC7 New York",
+      "published_at": "Mon, 22 Jun 2026 11:31:12 GMT",
+      "summary": "Alan Greenspan, longtime chairman of the Federal Reserve, dies at 100 ABC7 New York",
+      "guid": "CBMilgFBVV95cUxQVktGUERPQkZzbmJXQW1PSjFncEFxdmFMUE00MWhlNUNWdTJlaTd0WHpiMlBPeWdOakZUWUo3Zy1nNnZGY0t4Z2xYZWJfZGpQQ2dXeGNrUlNOQ050T2lHRzVzOXhoNDlxT3BMZnJldlVta05faWhFaWVEVnRjTHp5T1ZZeFo1QnV3VlFnbEF2ZUNYQWc4S1E"
     },
     {
-      "title": "How do changing interest rates affect the stock market in 2026 - U.S. Bank",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVVJpa2pCR3B0TmxRZGlpSmRZaFctZ21ybGtrVUVBMFozZ0xiSGFRY0ZZdGNWaV80dnhHUTR2TTVoSnZEU190aGtMamY2MDAxT0hYYzRXcUl5OUEyOGRGYWlBbm54T3ppaEZWRWtyV01EOEJGcVRaM2xROWlCX2FxSFYxX1NXeUQwZmJLS3pqcGhCWjR5RVJrNlhmbUtRcy1EUGJLaFI4UTNkUHg4emNPUE95cTc0bnlDcklaaG5EcWhBeVU?oc=5",
-      "source": "U.S. Bank",
-      "published_at": "Thu, 18 Jun 2026 07:00:00 GMT",
-      "summary": "How do changing interest rates affect the stock market in 2026 U.S. Bank",
-      "guid": "CBMiwwFBVV95cUxQVVJpa2pCR3B0TmxRZGlpSmRZaFctZ21ybGtrVUVBMFozZ0xiSGFRY0ZZdGNWaV80dnhHUTR2TTVoSnZEU190aGtMamY2MDAxT0hYYzRXcUl5OUEyOGRGYWlBbm54T3ppaEZWRWtyV01EOEJGcVRaM2xROWlCX2FxSFYxX1NXeUQwZmJLS3pqcGhCWjR5RVJrNlhmbUtRcy1EUGJLaFI4UTNkUHg4emNPUE95cTc0bnlDcklaaG5EcWhBeVU"
+      "title": "Alan Greenspan, longtime chairman of the Federal Reserve, dies at 100 - ABC News - Breaking News, Latest News and Videos",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYXo0WUNLQWNxTy02eEJtSF9VQTM1eUtvMWtXMndXeWJPUkNRcldqZndPN1M1LVJJWjFzRVVhbm5GbWw5UXpucEUxVnhaZTlfUk9RUmFzS0NLbVJrTnNHT2pIelllN1lGb084emdnQVJSdTFoMmR4T01USGF3clZqaXdzcF9aZXgyaHFTVWdrNVYxdmNZMkw4SUhURk5aYjF0MURKZWZtQdIBrAFBVV95cUxPNDV2VVR1UnlORldBUXo3aUltVTV5N3JzODdDSWhmWHJraG40d0prZEZSQUQ3QjFERXQ5Y0NlU2pMZjlJZ1hrc1pDTTcteUpRMUNVUFhtd3RXRnRhQldBX0FjSGlTZTZyRkU1M1FYVUlEMDJaMW9MVFNvcXY4UzU5MURWZXhqb2xQZ0VHX1Z4ODY1VjdPbktwSlVDMF9haTltdHh4dFRmWUJJVFhK?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "published_at": "Mon, 22 Jun 2026 13:06:34 GMT",
+      "summary": "Alan Greenspan, longtime chairman of the Federal Reserve, dies at 100 ABC News - Breaking News, Latest News and Videos",
+      "guid": "CBMipwFBVV95cUxNYXo0WUNLQWNxTy02eEJtSF9VQTM1eUtvMWtXMndXeWJPUkNRcldqZndPN1M1LVJJWjFzRVVhbm5GbWw5UXpucEUxVnhaZTlfUk9RUmFzS0NLbVJrTnNHT2pIelllN1lGb084emdnQVJSdTFoMmR4T01USGF3clZqaXdzcF9aZXgyaHFTVWdrNVYxdmNZMkw4SUhURk5aYjF0MURKZWZtQdIBrAFBVV95cUxPNDV2VVR1UnlORldBUXo3aUltVTV5N3JzODdDSWhmWHJraG40d0prZEZSQUQ3QjFERXQ5Y0NlU2pMZjlJZ1hrc1pDTTcteUpRMUNVUFhtd3RXRnRhQldBX0FjSGlTZTZyRkU1M1FYVUlEMDJaMW9MVFNvcXY4UzU5MURWZXhqb2xQZ0VHX1Z4ODY1VjdPbktwSlVDMF9haTltdHh4dFRmWUJJVFhK"
     },
     {
-      "title": "State Street Corporation Announces Planned 10% Dividend Increase and 2026 Federal Reserve Supervisory Stress Test Results - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ1FkYVU1V2hCdXdjSF80c2ZiWXZQazVXdThZT0t5RFplOVZCTjgtMlBTUUxVdXJmRmJFSEdkc0Q2OUlhN2pCUDN0bUxlT1Qya0FpUVA1OHpCYTdBVWNkX3JCSW9YWjg0azFuNnBpazB1eGowbk5wc2hIN2s5VldPZnhtRWppNFp3bEIxajhKNDBsZHBELU5XYVFMdDQwY1ZacXlQZzFUZlhkNkk?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Wed, 24 Jun 2026 20:44:00 GMT",
-      "summary": "State Street Corporation Announces Planned 10% Dividend Increase and 2026 Federal Reserve Supervisory Stress Test Results Yahoo Finance",
-      "guid": "CBMiqwFBVV95cUxOQ1FkYVU1V2hCdXdjSF80c2ZiWXZQazVXdThZT0t5RFplOVZCTjgtMlBTUUxVdXJmRmJFSEdkc0Q2OUlhN2pCUDN0bUxlT1Qya0FpUVA1OHpCYTdBVWNkX3JCSW9YWjg0azFuNnBpazB1eGowbk5wc2hIN2s5VldPZnhtRWppNFp3bEIxajhKNDBsZHBELU5XYVFMdDQwY1ZacXlQZzFUZlhkNkk"
+      "title": "Alan Greenspan, the legendary former Federal Reserve chair, dies - Oregon Public Broadcasting - OPB",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWTdfdnBlTFllZWp3Y09NLWRKZmd5M3pESFZIeGhUamNnYlU4VWZCS3NsY2daWHVmRzRjSGpYS2NkOTNFQ3B0blFtQ1g3ZlJWUUVqelhWeHRRLURTMGlDMExvWmUzUjFqVU1RTFQ4WFB0RndpRkc3X29UdVFPOWhCaWlYMDFoUFc2cWZaSkQ3RkVrMnVOSlRZa0daNWtJb1gwLUFXUg?oc=5",
+      "source": "Oregon Public Broadcasting - OPB",
+      "published_at": "Mon, 22 Jun 2026 13:31:32 GMT",
+      "summary": "Alan Greenspan, the legendary former Federal Reserve chair, dies Oregon Public Broadcasting - OPB",
+      "guid": "CBMipAFBVV95cUxPWTdfdnBlTFllZWp3Y09NLWRKZmd5M3pESFZIeGhUamNnYlU4VWZCS3NsY2daWHVmRzRjSGpYS2NkOTNFQ3B0blFtQ1g3ZlJWUUVqelhWeHRRLURTMGlDMExvWmUzUjFqVU1RTFQ4WFB0RndpRkc3X29UdVFPOWhCaWlYMDFoUFc2cWZaSkQ3RkVrMnVOSlRZa0daNWtJb1gwLUFXUg"
+    },
+    {
+      "title": "The Fed's preferred inflation gauge shows prices rising at fastest pace in 3 years - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNODJpSG0zUXZ3T3JiemstZEM0ek55U3NHQVh2YlVSdG1WZnBwdEFMQUhmemQ5NnlmVk0teWFqV2lsRXJ2XzB0ZjJ5YW91ejZWUjRzZ2RkdzdCekdGNjAya2VIRnVPbmdSODE4WlEyR1BVY3hBeXhyTDV4NmZBVE9ybkpkbERKTnh2cFE?oc=5",
+      "source": "CBS News",
+      "published_at": "Thu, 25 Jun 2026 12:48:00 GMT",
+      "summary": "The Fed's preferred inflation gauge shows prices rising at fastest pace in 3 years CBS News",
+      "guid": "CBMiigFBVV95cUxNODJpSG0zUXZ3T3JiemstZEM0ek55U3NHQVh2YlVSdG1WZnBwdEFMQUhmemQ5NnlmVk0teWFqV2lsRXJ2XzB0ZjJ5YW91ejZWUjRzZ2RkdzdCekdGNjAya2VIRnVPbmdSODE4WlEyR1BVY3hBeXhyTDV4NmZBVE9ybkpkbERKTnh2cFE"
     },
     {
       "title": "Will the Stock Market Crash if the Federal Reserve Raises Interest Rates? Soaring Bond Yields Portend Trouble. - The Motley Fool",
@@ -79,12 +79,12 @@
       "guid": "CBMikwFBVV95cUxQeWF2bFg3aW80eWxCZlV5bGZSbi03dmdjZE1uXzVFeEJGTVBDZDlrT0tPSGQtbk5Cd05GZnpsZXhiUlJwOFhHNG1QUEZJNlRBQ1diVjdVRzhuMWZCMFRVRmNiTFBrdjdMczhjRDB6eW5BM3JlYXpLRDJqdU1XdzBwc2NFZEFmcjFlZXhkWjVQNjhjTkU"
     },
     {
-      "title": "What Federal Reserve monetary policy means for investors - U.S. Bank",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa2V2OFo4WjFPclRZRGtjZXJvb3dsaDVUM3FjRnVCTkxfX184eHRyQjJ2NFlDc09TUlZrUDZGUzQzTjgyV1drNG9PSnc2Y0RELWZ5LVktLTlFcGFFa2s0Qm04RzRoYjNRSE9aSGw3aDljNFEyUEZJS1RNa203WlBLdmxxS2lWNmNXT0pRZGdDcGdqdEZ1YmMxN2lhci1RdVRMTEJtWE5wM3RJSFhGMXJjMjdqZw?oc=5",
-      "source": "U.S. Bank",
-      "published_at": "Thu, 18 Jun 2026 07:00:00 GMT",
-      "summary": "What Federal Reserve monetary policy means for investors U.S. Bank",
-      "guid": "CBMiswFBVV95cUxOa2V2OFo4WjFPclRZRGtjZXJvb3dsaDVUM3FjRnVCTkxfX184eHRyQjJ2NFlDc09TUlZrUDZGUzQzTjgyV1drNG9PSnc2Y0RELWZ5LVktLTlFcGFFa2s0Qm04RzRoYjNRSE9aSGw3aDljNFEyUEZJS1RNa203WlBLdmxxS2lWNmNXT0pRZGdDcGdqdEZ1YmMxN2lhci1RdVRMTEJtWE5wM3RJSFhGMXJjMjdqZw"
+      "title": "State Street Corporation Announces Planned 10% Dividend Increase and 2026 Federal Reserve Supervisory Stress Test Results - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ1FkYVU1V2hCdXdjSF80c2ZiWXZQazVXdThZT0t5RFplOVZCTjgtMlBTUUxVdXJmRmJFSEdkc0Q2OUlhN2pCUDN0bUxlT1Qya0FpUVA1OHpCYTdBVWNkX3JCSW9YWjg0azFuNnBpazB1eGowbk5wc2hIN2s5VldPZnhtRWppNFp3bEIxajhKNDBsZHBELU5XYVFMdDQwY1ZacXlQZzFUZlhkNkk?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Wed, 24 Jun 2026 20:44:00 GMT",
+      "summary": "State Street Corporation Announces Planned 10% Dividend Increase and 2026 Federal Reserve Supervisory Stress Test Results Yahoo Finance",
+      "guid": "CBMiqwFBVV95cUxOQ1FkYVU1V2hCdXdjSF80c2ZiWXZQazVXdThZT0t5RFplOVZCTjgtMlBTUUxVdXJmRmJFSEdkc0Q2OUlhN2pCUDN0bUxlT1Qya0FpUVA1OHpCYTdBVWNkX3JCSW9YWjg0azFuNnBpazB1eGowbk5wc2hIN2s5VldPZnhtRWppNFp3bEIxajhKNDBsZHBELU5XYVFMdDQwY1ZacXlQZzFUZlhkNkk"
     }
   ]
 }
