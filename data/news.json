@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T21:02:09Z",
+  "generated_at": "2026-06-29T22:18:33Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,20 +7,20 @@
   },
   "items": [
     {
-      "title": "CAPITAL IDEAS: What happens to the stock market if the Federal Reserve raises interest rates? - The Berkshire Edge",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQM0N3MjBOMzV3c24tR2Q4OUhXMkhzZGFpNVpHOEJqZU42SnJiel9TWFFZd2hxeFJYenZDY1h3MXJyX2FjZXF4Unl1QUhMeldPWFhUV08wM09IQTd5cW5EblEtR1JMRmJkR0t5TGJMLWxYQ01CWEhrSkl0TUdpZjc0WWFlQnIxQ2Q5dkVEWkk1WUtLOHlxY2lyOXhWUi11TE9mSE1CeV8ySm9tXy1STkJMUUVXckZCb1FpbExvWGhn?oc=5",
-      "source": "The Berkshire Edge",
-      "published_at": "Mon, 29 Jun 2026 04:06:31 GMT",
-      "summary": "CAPITAL IDEAS: What happens to the stock market if the Federal Reserve raises interest rates? The Berkshire Edge",
-      "guid": "CBMivgFBVV95cUxQM0N3MjBOMzV3c24tR2Q4OUhXMkhzZGFpNVpHOEJqZU42SnJiel9TWFFZd2hxeFJYenZDY1h3MXJyX2FjZXF4Unl1QUhMeldPWFhUV08wM09IQTd5cW5EblEtR1JMRmJkR0t5TGJMLWxYQ01CWEhrSkl0TUdpZjc0WWFlQnIxQ2Q5dkVEWkk1WUtLOHlxY2lyOXhWUi11TE9mSE1CeV8ySm9tXy1STkJMUUVXckZCb1FpbExvWGhn"
-    },
-    {
       "title": "Opinion: Inflation fears are overblown. What the rate-hike camp gets wrong about the stock market. - MarketWatch",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUXZMSld2WnZJUU5hQ3BQZnpfdlFPc2FBUWhPN0FZbHlSUjh0V1h6Y0FzNkxVMFRIRGlSQ0FreFdNZ016bE50WDFrNl9JTHhWdnFhRndDQ3ZiUnk3NGV6by1aU0tTNjlSN1IxRTB5bENXeXplamgwX0xpM0RHa2JCaEh3NUhyLThnOFRtMGpaZzNiQTlTMkcxaFpVMHJRMTBmT0MxRERoUmJLaGEzSzZNbmRrVFB1ZzhIUnNEZTFJaVI2enV0LVVUUmJHTHcyU3hzendnX1FLMllpQQ?oc=5",
       "source": "MarketWatch",
       "published_at": "Mon, 29 Jun 2026 19:21:00 GMT",
       "summary": "Opinion: Inflation fears are overblown. What the rate-hike camp gets wrong about the stock market. MarketWatch",
       "guid": "CBMi2gFBVV95cUxPUXZMSld2WnZJUU5hQ3BQZnpfdlFPc2FBUWhPN0FZbHlSUjh0V1h6Y0FzNkxVMFRIRGlSQ0FreFdNZ016bE50WDFrNl9JTHhWdnFhRndDQ3ZiUnk3NGV6by1aU0tTNjlSN1IxRTB5bENXeXplamgwX0xpM0RHa2JCaEh3NUhyLThnOFRtMGpaZzNiQTlTMkcxaFpVMHJRMTBmT0MxRERoUmJLaGEzSzZNbmRrVFB1ZzhIUnNEZTFJaVI2enV0LVVUUmJHTHcyU3hzendnX1FLMllpQQ"
+    },
+    {
+      "title": "CAPITAL IDEAS: What happens to the stock market if the Federal Reserve raises interest rates? - The Berkshire Edge",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQM0N3MjBOMzV3c24tR2Q4OUhXMkhzZGFpNVpHOEJqZU42SnJiel9TWFFZd2hxeFJYenZDY1h3MXJyX2FjZXF4Unl1QUhMeldPWFhUV08wM09IQTd5cW5EblEtR1JMRmJkR0t5TGJMLWxYQ01CWEhrSkl0TUdpZjc0WWFlQnIxQ2Q5dkVEWkk1WUtLOHlxY2lyOXhWUi11TE9mSE1CeV8ySm9tXy1STkJMUUVXckZCb1FpbExvWGhn?oc=5",
+      "source": "The Berkshire Edge",
+      "published_at": "Mon, 29 Jun 2026 04:06:31 GMT",
+      "summary": "CAPITAL IDEAS: What happens to the stock market if the Federal Reserve raises interest rates? The Berkshire Edge",
+      "guid": "CBMivgFBVV95cUxQM0N3MjBOMzV3c24tR2Q4OUhXMkhzZGFpNVpHOEJqZU42SnJiel9TWFFZd2hxeFJYenZDY1h3MXJyX2FjZXF4Unl1QUhMeldPWFhUV08wM09IQTd5cW5EblEtR1JMRmJkR0t5TGJMLWxYQ01CWEhrSkl0TUdpZjc0WWFlQnIxQ2Q5dkVEWkk1WUtLOHlxY2lyOXhWUi11TE9mSE1CeV8ySm9tXy1STkJMUUVXckZCb1FpbExvWGhn"
     },
     {
       "title": "Strategy Announces Digital Credit Capital Framework, USD Reserve Policy, STRC Dividend Policy, Digital Credit and MSTR Repurchase Authorizations, and BTC Monetization Program - Strategy",
