@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T05:53:08Z",
+  "generated_at": "2026-06-30T08:52:59Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,44 +7,12 @@
   },
   "items": [
     {
-      "title": "Weekly market commentary - BlackRock",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
-      "source": "BlackRock",
-      "published_at": "Mon, 29 Jun 2026 21:06:50 GMT",
-      "summary": "Weekly market commentary BlackRock",
-      "guid": "CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw"
-    },
-    {
-      "title": "Tracker: The Federal Reserve’s Balance Sheet Assets - The American Action Forum",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0?oc=5",
-      "source": "The American Action Forum",
-      "published_at": "Tue, 30 Jun 2026 01:56:35 GMT",
-      "summary": "Tracker: The Federal Reserve’s Balance Sheet Assets The American Action Forum",
-      "guid": "CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0"
-    },
-    {
       "title": "The stock market rally that’s making some people rich and everyone else miserable - CNN",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wTnVnQTZObVBiRWNaVmMwNHFDandIeHBjbDRnc182d2VPcnVOeHp5alN2LVBGSjFZTkE5RmpLXzRMcDVlU0MwbGRBYnd6SWptRGtZYkNPYjNjWnlab1ZwUUFLT0c2dE1UUVBIaA?oc=5",
       "source": "CNN",
       "published_at": "Mon, 29 Jun 2026 09:00:26 GMT",
       "summary": "The stock market rally that’s making some people rich and everyone else miserable CNN",
       "guid": "CBMibEFVX3lxTE4wTnVnQTZObVBiRWNaVmMwNHFDandIeHBjbDRnc182d2VPcnVOeHp5alN2LVBGSjFZTkE5RmpLXzRMcDVlU0MwbGRBYnd6SWptRGtZYkNPYjNjWnlab1ZwUUFLT0c2dE1UUVBIaA"
-    },
-    {
-      "title": "Stock Market Under the Trump Administration: What is Driving Markets in 2026? - U.S. Bank",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcUowVHR1VXAzd0Zfamw1MkVSejFsRGo1bkdGdHhjNVBZVFdwU3VpcE5neGJOeWl6RmdQVkFsYlcxNEVTRGg3WHNYSGR1d1BpTjV4T2NqdWdER3ZtQ0RVbU40WTcyRXRaTEM5bFZteVlYNE5EYkM1M1BaR0lYTGlUeFlTeDhVMzRaWFFqZEZhcGc3RFJoZy1qZy1mTGViQQ?oc=5",
-      "source": "U.S. Bank",
-      "published_at": "Thu, 25 Jun 2026 07:00:00 GMT",
-      "summary": "Stock Market Under the Trump Administration: What is Driving Markets in 2026? U.S. Bank",
-      "guid": "CBMingFBVV95cUxPcUowVHR1VXAzd0Zfamw1MkVSejFsRGo1bkdGdHhjNVBZVFdwU3VpcE5neGJOeWl6RmdQVkFsYlcxNEVTRGg3WHNYSGR1d1BpTjV4T2NqdWdER3ZtQ0RVbU40WTcyRXRaTEM5bFZteVlYNE5EYkM1M1BaR0lYTGlUeFlTeDhVMzRaWFFqZEZhcGc3RFJoZy1qZy1mTGViQQ"
-    },
-    {
-      "title": "Opinion: Inflation fears are overblown. What the rate-hike camp gets wrong about the stock market. - MarketWatch",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUXZMSld2WnZJUU5hQ3BQZnpfdlFPc2FBUWhPN0FZbHlSUjh0V1h6Y0FzNkxVMFRIRGlSQ0FreFdNZ016bE50WDFrNl9JTHhWdnFhRndDQ3ZiUnk3NGV6by1aU0tTNjlSN1IxRTB5bENXeXplamgwX0xpM0RHa2JCaEh3NUhyLThnOFRtMGpaZzNiQTlTMkcxaFpVMHJRMTBmT0MxRERoUmJLaGEzSzZNbmRrVFB1ZzhIUnNEZTFJaVI2enV0LVVUUmJHTHcyU3hzendnX1FLMllpQQ?oc=5",
-      "source": "MarketWatch",
-      "published_at": "Mon, 29 Jun 2026 19:21:00 GMT",
-      "summary": "Opinion: Inflation fears are overblown. What the rate-hike camp gets wrong about the stock market. MarketWatch",
-      "guid": "CBMi2gFBVV95cUxPUXZMSld2WnZJUU5hQ3BQZnpfdlFPc2FBUWhPN0FZbHlSUjh0V1h6Y0FzNkxVMFRIRGlSQ0FreFdNZ016bE50WDFrNl9JTHhWdnFhRndDQ3ZiUnk3NGV6by1aU0tTNjlSN1IxRTB5bENXeXplamgwX0xpM0RHa2JCaEh3NUhyLThnOFRtMGpaZzNiQTlTMkcxaFpVMHJRMTBmT0MxRERoUmJLaGEzSzZNbmRrVFB1ZzhIUnNEZTFJaVI2enV0LVVUUmJHTHcyU3hzendnX1FLMllpQQ"
     },
     {
       "title": "CAPITAL IDEAS: What happens to the stock market if the Federal Reserve raises interest rates? - The Berkshire Edge",
@@ -55,20 +23,20 @@
       "guid": "CBMivgFBVV95cUxQM0N3MjBOMzV3c24tR2Q4OUhXMkhzZGFpNVpHOEJqZU42SnJiel9TWFFZd2hxeFJYenZDY1h3MXJyX2FjZXF4Unl1QUhMeldPWFhUV08wM09IQTd5cW5EblEtR1JMRmJkR0t5TGJMLWxYQ01CWEhrSkl0TUdpZjc0WWFlQnIxQ2Q5dkVEWkk1WUtLOHlxY2lyOXhWUi11TE9mSE1CeV8ySm9tXy1STkJMUUVXckZCb1FpbExvWGhn"
     },
     {
+      "title": "Opinion: Inflation fears are overblown. What the rate-hike camp gets wrong about the stock market. - MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUXZMSld2WnZJUU5hQ3BQZnpfdlFPc2FBUWhPN0FZbHlSUjh0V1h6Y0FzNkxVMFRIRGlSQ0FreFdNZ016bE50WDFrNl9JTHhWdnFhRndDQ3ZiUnk3NGV6by1aU0tTNjlSN1IxRTB5bENXeXplamgwX0xpM0RHa2JCaEh3NUhyLThnOFRtMGpaZzNiQTlTMkcxaFpVMHJRMTBmT0MxRERoUmJLaGEzSzZNbmRrVFB1ZzhIUnNEZTFJaVI2enV0LVVUUmJHTHcyU3hzendnX1FLMllpQQ?oc=5",
+      "source": "MarketWatch",
+      "published_at": "Mon, 29 Jun 2026 19:21:00 GMT",
+      "summary": "Opinion: Inflation fears are overblown. What the rate-hike camp gets wrong about the stock market. MarketWatch",
+      "guid": "CBMi2gFBVV95cUxPUXZMSld2WnZJUU5hQ3BQZnpfdlFPc2FBUWhPN0FZbHlSUjh0V1h6Y0FzNkxVMFRIRGlSQ0FreFdNZ016bE50WDFrNl9JTHhWdnFhRndDQ3ZiUnk3NGV6by1aU0tTNjlSN1IxRTB5bENXeXplamgwX0xpM0RHa2JCaEh3NUhyLThnOFRtMGpaZzNiQTlTMkcxaFpVMHJRMTBmT0MxRERoUmJLaGEzSzZNbmRrVFB1ZzhIUnNEZTFJaVI2enV0LVVUUmJHTHcyU3hzendnX1FLMllpQQ"
+    },
+    {
       "title": "Bond Investors Face a New Era of Fed Uncertainty - Investopedia",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTWxyZVg2Y1VCMXU4MkltelZZeFFibUp2RkZRRnFDZE51bDZoTUVYQ3FuQjR4UU9FLW50emUydkczVnVMQno1RVJsQXJtSmtYZG9DVm5mZEhrWEw1QTgxbGVxQ1Nxc2UybldXdzUxMDNRRFJpT0gwRDVzR0hJa2FUcFNmYXpDSVhhMEc2MGp5dmk0em5XN25VWA?oc=5",
       "source": "Investopedia",
       "published_at": "Mon, 29 Jun 2026 22:51:54 GMT",
       "summary": "Bond Investors Face a New Era of Fed Uncertainty Investopedia",
       "guid": "CBMimAFBVV95cUxOTWxyZVg2Y1VCMXU4MkltelZZeFFibUp2RkZRRnFDZE51bDZoTUVYQ3FuQjR4UU9FLW50emUydkczVnVMQno1RVJsQXJtSmtYZG9DVm5mZEhrWEw1QTgxbGVxQ1Nxc2UybldXdzUxMDNRRFJpT0gwRDVzR0hJa2FUcFNmYXpDSVhhMEc2MGp5dmk0em5XN25VWA"
-    },
-    {
-      "title": "Strategy Announces Digital Credit Capital Framework, USD Reserve Policy, STRC Dividend Policy, Digital Credit and MSTR Repurchase Authorizations, and BTC Monetization Program - Strategy",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONjlXTkY1bHZnMU5Vb0Y1OHBQWHlJdWJ5VEN5LUcydnJkblNiNTEtTDFRbFVzNHhzMkNsSjVSaF9yUUtWY2RhQXNwb3hWV0loVVdSTnlUU1p4ZWRHT0RTblhrLWZrQWpXcUlicTVSUHlqd0Y1SE9yR21jbW9Wb253Z0N3bFpxWm80YVppVFdCMUdZUG1iZ3Q0bA?oc=5",
-      "source": "Strategy",
-      "published_at": "Mon, 29 Jun 2026 12:12:27 GMT",
-      "summary": "Strategy Announces Digital Credit Capital Framework, USD Reserve Policy, STRC Dividend Policy, Digital Credit and MSTR Repurchase Authorizations, and BTC Monetization Program Strategy",
-      "guid": "CBMimAFBVV95cUxONjlXTkY1bHZnMU5Vb0Y1OHBQWHlJdWJ5VEN5LUcydnJkblNiNTEtTDFRbFVzNHhzMkNsSjVSaF9yUUtWY2RhQXNwb3hWV0loVVdSTnlUU1p4ZWRHT0RTblhrLWZrQWpXcUlicTVSUHlqd0Y1SE9yR21jbW9Wb253Z0N3bFpxWm80YVppVFdCMUdZUG1iZ3Q0bA"
     },
     {
       "title": "New Fed Chair Kevin Warsh Says There's a Huge Problem With Financial Markets Right Now. His Solution Could Be Bad News For Stock Investors - The Motley Fool",
@@ -79,12 +47,44 @@
       "guid": "CBMilgFBVV95cUxOS25xSnNPeml6VVBBeDM3ZFVyNkxCdDhrYVpfWi1sQ1hSXzMxNUNaWXhoT19oM0E1MDNEZDdYd3VpN1pEeHV3dmNTbGNjWjZUT3pEbzZTTkhESUhzWGpseVJpcF9qdjByMG9zSU9ONVVUZGxvdlZOQlQwZGNFZE13VVVUbEgyaG1CNVBBN1I2ZWFxbHJWMFE"
     },
     {
+      "title": "Strategy Announces Digital Credit Capital Framework, USD Reserve Policy, STRC Dividend Policy, Digital Credit and MSTR Repurchase Authorizations, and BTC Monetization Program - Strategy",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONjlXTkY1bHZnMU5Vb0Y1OHBQWHlJdWJ5VEN5LUcydnJkblNiNTEtTDFRbFVzNHhzMkNsSjVSaF9yUUtWY2RhQXNwb3hWV0loVVdSTnlUU1p4ZWRHT0RTblhrLWZrQWpXcUlicTVSUHlqd0Y1SE9yR21jbW9Wb253Z0N3bFpxWm80YVppVFdCMUdZUG1iZ3Q0bA?oc=5",
+      "source": "Strategy",
+      "published_at": "Mon, 29 Jun 2026 12:12:27 GMT",
+      "summary": "Strategy Announces Digital Credit Capital Framework, USD Reserve Policy, STRC Dividend Policy, Digital Credit and MSTR Repurchase Authorizations, and BTC Monetization Program Strategy",
+      "guid": "CBMimAFBVV95cUxONjlXTkY1bHZnMU5Vb0Y1OHBQWHlJdWJ5VEN5LUcydnJkblNiNTEtTDFRbFVzNHhzMkNsSjVSaF9yUUtWY2RhQXNwb3hWV0loVVdSTnlUU1p4ZWRHT0RTblhrLWZrQWpXcUlicTVSUHlqd0Y1SE9yR21jbW9Wb253Z0N3bFpxWm80YVppVFdCMUdZUG1iZ3Q0bA"
+    },
+    {
       "title": "What to Look Out for in Economic Data This Week (June 29-July 3) - Kiplinger",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ?oc=5",
       "source": "Kiplinger",
       "published_at": "Fri, 26 Jun 2026 15:26:34 GMT",
       "summary": "What to Look Out for in Economic Data This Week (June 29-July 3) Kiplinger",
       "guid": "CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ"
+    },
+    {
+      "title": "The Federal Reserve Just Delivered Terrible News for the Stock Market, but There's a Silver Lining for Investors - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLXNDczg3SEN1VWJZZ2NYUHVjVEZEVV9YZ3MzOHJYTjloSl9QZlh3STdub0RBSGlmWlNRaTljQjFTRVd2NUJscU9SUGUxOVpoaERCMlBJQnBpZFJpNWlMS242YUc4UjRnQmFBd1hzMWZ5SXQ5ZjBwS2VuWWItcXZnUUsxNmZKNjlUekYyd0xpSUVlZkNhTHViMnBQQ1lGRUJJZ2FJ?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Mon, 22 Jun 2026 11:35:00 GMT",
+      "summary": "The Federal Reserve Just Delivered Terrible News for the Stock Market, but There's a Silver Lining for Investors Yahoo Finance",
+      "guid": "CBMiowFBVV95cUxOLXNDczg3SEN1VWJZZ2NYUHVjVEZEVV9YZ3MzOHJYTjloSl9QZlh3STdub0RBSGlmWlNRaTljQjFTRVd2NUJscU9SUGUxOVpoaERCMlBJQnBpZFJpNWlMS242YUc4UjRnQmFBd1hzMWZ5SXQ5ZjBwS2VuWWItcXZnUUsxNmZKNjlUekYyd0xpSUVlZkNhTHViMnBQQ1lGRUJJZ2FJ"
+    },
+    {
+      "title": "Texas Manufacturing Continues To Expand in June Despite Slower Growth - Fort Worth Inc.",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbnJYdDRuaFB6TnpaSHd2S043X3plbGRfcG1WTzBPMFRyOHBQS0g2QUQwcUI2M2l1SDExTTczMkhsSUdhZFFoR05fWVQwaWMycGJ5dGRQRlk1dkhzbWtsSnpTXzgyTllfZVhKNkw5Xzh2UzRjVzZRb20tOFNZTmRMLUM5engwRldXQnIxMjRyUnNReFpDcXc?oc=5",
+      "source": "Fort Worth Inc.",
+      "published_at": "Mon, 29 Jun 2026 17:40:04 GMT",
+      "summary": "Texas Manufacturing Continues To Expand in June Despite Slower Growth Fort Worth Inc.",
+      "guid": "CBMilgFBVV95cUxNbnJYdDRuaFB6TnpaSHd2S043X3plbGRfcG1WTzBPMFRyOHBQS0g2QUQwcUI2M2l1SDExTTczMkhsSUdhZFFoR05fWVQwaWMycGJ5dGRQRlk1dkhzbWtsSnpTXzgyTllfZVhKNkw5Xzh2UzRjVzZRb20tOFNZTmRMLUM5engwRldXQnIxMjRyUnNReFpDcXc"
+    },
+    {
+      "title": "Warsh's gamble: A quieter Federal Reserve could mean volatile markets, higher rates - LancasterOnline",
+      "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxPWS1zeDU2R2FaUjZCWlkzd1E3LVY3a2haSHJCcUZJYkFqZmZZZi10ZVBkbjNqcGl3T2ZzdHRJdVk4Z014WnVUOGItU0pUZXR6NDQtejJYZzhKY3dnb0dDTzFXZklhOUpUX0RydTRjRTRXOTJTMEpWR1BNUDZvclZpT3h2RnAycU9ON0hKZEFkU211SWFCR1Nud3BsUXJ3clRyWFdrbm5wSlVuY1FmblRSZ1Y1LWI4d29yMUJvVktvdGpNU2NiN0xwams4elBuTjRpc1Z0aVpsYmFWYmEtZkR4aUktS0Z2Um84RW5UVVp3Y044emx5YnJIbF9BbTlBcnBqeGcwT0lKeWZDbHpKM1ZWcE9KSldrZ1owYk9uTEFXZXAtczdPSkhMSVpkLW9YRWZmNE5WTW91RUN5WmQzZ0s4TGlUX0RiQU9LV0ZjTjVVRWhRX2tiQXgweE1UUjB5YXdwdVVkM1dtRnlsWkNPUnZ0S3hXeE0xcnExMWJpT3RXY1FhbjZQWS1tY3ZRbm9USUk?oc=5",
+      "source": "LancasterOnline",
+      "published_at": "Mon, 22 Jun 2026 14:32:38 GMT",
+      "summary": "Warsh's gamble: A quieter Federal Reserve could mean volatile markets, higher rates LancasterOnline",
+      "guid": "CBMijwNBVV95cUxPWS1zeDU2R2FaUjZCWlkzd1E3LVY3a2haSHJCcUZJYkFqZmZZZi10ZVBkbjNqcGl3T2ZzdHRJdVk4Z014WnVUOGItU0pUZXR6NDQtejJYZzhKY3dnb0dDTzFXZklhOUpUX0RydTRjRTRXOTJTMEpWR1BNUDZvclZpT3h2RnAycU9ON0hKZEFkU211SWFCR1Nud3BsUXJ3clRyWFdrbm5wSlVuY1FmblRSZ1Y1LWI4d29yMUJvVktvdGpNU2NiN0xwams4elBuTjRpc1Z0aVpsYmFWYmEtZkR4aUktS0Z2Um84RW5UVVp3Y044emx5YnJIbF9BbTlBcnBqeGcwT0lKeWZDbHpKM1ZWcE9KSldrZ1owYk9uTEFXZXAtczdPSkhMSVpkLW9YRWZmNE5WTW91RUN5WmQzZ0s4TGlUX0RiQU9LV0ZjTjVVRWhRX2tiQXgweE1UUjB5YXdwdVVkM1dtRnlsWkNPUnZ0S3hXeE0xcnExMWJpT3RXY1FhbjZQWS1tY3ZRbm9USUk"
     }
   ]
 }
