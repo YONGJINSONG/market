@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T20:16:15Z",
+  "generated_at": "2026-06-30T21:51:29Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -21,6 +21,14 @@
       "published_at": "Mon, 29 Jun 2026 09:00:26 GMT",
       "summary": "The stock market rally that’s making some people rich and everyone else miserable CNN",
       "guid": "CBMibEFVX3lxTE4wTnVnQTZObVBiRWNaVmMwNHFDandIeHBjbDRnc182d2VPcnVOeHp5alN2LVBGSjFZTkE5RmpLXzRMcDVlU0MwbGRBYnd6SWptRGtZYkNPYjNjWnlab1ZwUUFLT0c2dE1UUVBIaA"
+    },
+    {
+      "title": "How many Americans own stock? The top 1% own more than the bottom 90% combined - Tacoma News Tribune",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9LWEFRTW5RMkpnajNuNWFybVNWTWlfa2xfaWNheXZ2Yi1Vc19WRnV0N3BJdkVBLXNJX3pJdUVSNjVfN0YzWVJEam51cXRWcEpKdU1QWnV4c2RBNlVfSXg2WWZZQlJiRjFJS1pRaXlQbE5sOHl2?oc=5",
+      "source": "Tacoma News Tribune",
+      "published_at": "Tue, 30 Jun 2026 20:44:02 GMT",
+      "summary": "How many Americans own stock? The top 1% own more than the bottom 90% combined Tacoma News Tribune",
+      "guid": "CBMidEFVX3lxTE9LWEFRTW5RMkpnajNuNWFybVNWTWlfa2xfaWNheXZ2Yi1Vc19WRnV0N3BJdkVBLXNJX3pJdUVSNjVfN0YzWVJEam51cXRWcEpKdU1QWnV4c2RBNlVfSXg2WWZZQlJiRjFJS1pRaXlQbE5sOHl2"
     },
     {
       "title": "Opinion: Inflation fears are overblown. What the rate-hike camp gets wrong about the stock market. - MarketWatch",
@@ -55,14 +63,6 @@
       "guid": "CBMilgFBVV95cUxOS25xSnNPeml6VVBBeDM3ZFVyNkxCdDhrYVpfWi1sQ1hSXzMxNUNaWXhoT19oM0E1MDNEZDdYd3VpN1pEeHV3dmNTbGNjWjZUT3pEbzZTTkhESUhzWGpseVJpcF9qdjByMG9zSU9ONVVUZGxvdlZOQlQwZGNFZE13VVVUbEgyaG1CNVBBN1I2ZWFxbHJWMFE"
     },
     {
-      "title": "Strategy Announces Digital Credit Capital Framework, USD Reserve Policy, STRC Dividend Policy, Digital Credit and MSTR Repurchase Authorizations, and BTC Monetization Program - Strategy",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONjlXTkY1bHZnMU5Vb0Y1OHBQWHlJdWJ5VEN5LUcydnJkblNiNTEtTDFRbFVzNHhzMkNsSjVSaF9yUUtWY2RhQXNwb3hWV0loVVdSTnlUU1p4ZWRHT0RTblhrLWZrQWpXcUlicTVSUHlqd0Y1SE9yR21jbW9Wb253Z0N3bFpxWm80YVppVFdCMUdZUG1iZ3Q0bA?oc=5",
-      "source": "Strategy",
-      "published_at": "Mon, 29 Jun 2026 12:12:27 GMT",
-      "summary": "Strategy Announces Digital Credit Capital Framework, USD Reserve Policy, STRC Dividend Policy, Digital Credit and MSTR Repurchase Authorizations, and BTC Monetization Program Strategy",
-      "guid": "CBMimAFBVV95cUxONjlXTkY1bHZnMU5Vb0Y1OHBQWHlJdWJ5VEN5LUcydnJkblNiNTEtTDFRbFVzNHhzMkNsSjVSaF9yUUtWY2RhQXNwb3hWV0loVVdSTnlUU1p4ZWRHT0RTblhrLWZrQWpXcUlicTVSUHlqd0Y1SE9yR21jbW9Wb253Z0N3bFpxWm80YVppVFdCMUdZUG1iZ3Q0bA"
-    },
-    {
       "title": "What to Look Out for in Economic Data This Week (June 29-July 3) - Kiplinger",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ?oc=5",
       "source": "Kiplinger",
@@ -71,20 +71,20 @@
       "guid": "CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ"
     },
     {
+      "title": "Strategy Announces Digital Credit Capital Framework, USD Reserve Policy, STRC Dividend Policy, Digital Credit and MSTR Repurchase Authorizations, and BTC Monetization Program - Strategy",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONjlXTkY1bHZnMU5Vb0Y1OHBQWHlJdWJ5VEN5LUcydnJkblNiNTEtTDFRbFVzNHhzMkNsSjVSaF9yUUtWY2RhQXNwb3hWV0loVVdSTnlUU1p4ZWRHT0RTblhrLWZrQWpXcUlicTVSUHlqd0Y1SE9yR21jbW9Wb253Z0N3bFpxWm80YVppVFdCMUdZUG1iZ3Q0bA?oc=5",
+      "source": "Strategy",
+      "published_at": "Mon, 29 Jun 2026 12:12:27 GMT",
+      "summary": "Strategy Announces Digital Credit Capital Framework, USD Reserve Policy, STRC Dividend Policy, Digital Credit and MSTR Repurchase Authorizations, and BTC Monetization Program Strategy",
+      "guid": "CBMimAFBVV95cUxONjlXTkY1bHZnMU5Vb0Y1OHBQWHlJdWJ5VEN5LUcydnJkblNiNTEtTDFRbFVzNHhzMkNsSjVSaF9yUUtWY2RhQXNwb3hWV0loVVdSTnlUU1p4ZWRHT0RTblhrLWZrQWpXcUlicTVSUHlqd0Y1SE9yR21jbW9Wb253Z0N3bFpxWm80YVppVFdCMUdZUG1iZ3Q0bA"
+    },
+    {
       "title": "Will the Stock Market Crash if the Federal Reserve Raises Interest Rates? Soaring Bond Yields Portend Trouble. - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZnJzS2VRMk9XWWhmalBsWHVjX2NKQU0ydHE5X19kUGt3ZThBNWRZZTlRVk1LUUE0Q1IxSHl1RmFiWFFoRVdFeE5VMkE4MDVGMkNvaE9lZnlLdGpwMXVId0pJR0NIUVIyUm9fN0FvRFdHeHdTeWcwY3NsLVZEb1ZIczUxNHltUjd4RWpleVprN3d6cDhIaVBYUE51QXVvNW8?oc=5",
       "source": "Yahoo Finance",
       "published_at": "Tue, 09 Jun 2026 07:00:00 GMT",
       "summary": "Will the Stock Market Crash if the Federal Reserve Raises Interest Rates? Soaring Bond Yields Portend Trouble. Yahoo Finance",
       "guid": "CBMinwFBVV95cUxOZnJzS2VRMk9XWWhmalBsWHVjX2NKQU0ydHE5X19kUGt3ZThBNWRZZTlRVk1LUUE0Q1IxSHl1RmFiWFFoRVdFeE5VMkE4MDVGMkNvaE9lZnlLdGpwMXVId0pJR0NIUVIyUm9fN0FvRFdHeHdTeWcwY3NsLVZEb1ZIczUxNHltUjd4RWpleVprN3d6cDhIaVBYUE51QXVvNW8"
-    },
-    {
-      "title": "Oil Is Below $70, but the Federal Reserve's June Inflation Forecast Has an Unpleasant Surprise in Store for Wall Street - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQSGhZV2s2OThua1hFemVlRUpfYnRIUlVfcFo1RHMxWU9uMmRHSE5KWi02UUh5ZGRPN0YyczBaVjhqcjJGekdLNjRaenM1akRvTVdSWGV5WUtUZDRyNzUzMlZsalYzbXBQdG9RcUZLV3ZuRlZ4ajczbUkyOWFMSnV2TkxkRFN2V3VmejBmV1paNnh5UWJEZmw1NTJHZnkyUmdNSzlsTGpNN2FvWjZKWU1MYVJCdkM5UGZoOERvOUdOMC0zTlVyenNSQWRyR1JZTGQ3V3pQWldkTmpxT1BXV0ZUemx1VmVqeVlYRnh3Nm01OUdldnR3S3NScEpKYkJCc2x6OHl4VFpWRWJoUlQ2S2xBdUpEVlNZYzBfMlJPUWpyaFBlQQ?oc=5",
-      "source": "The Globe and Mail",
-      "published_at": "Tue, 30 Jun 2026 08:46:15 GMT",
-      "summary": "Oil Is Below $70, but the Federal Reserve's June Inflation Forecast Has an Unpleasant Surprise in Store for Wall Street The Globe and Mail",
-      "guid": "CBMiogJBVV95cUxQSGhZV2s2OThua1hFemVlRUpfYnRIUlVfcFo1RHMxWU9uMmRHSE5KWi02UUh5ZGRPN0YyczBaVjhqcjJGekdLNjRaenM1akRvTVdSWGV5WUtUZDRyNzUzMlZsalYzbXBQdG9RcUZLV3ZuRlZ4ajczbUkyOWFMSnV2TkxkRFN2V3VmejBmV1paNnh5UWJEZmw1NTJHZnkyUmdNSzlsTGpNN2FvWjZKWU1MYVJCdkM5UGZoOERvOUdOMC0zTlVyenNSQWRyR1JZTGQ3V3pQWldkTmpxT1BXV0ZUemx1VmVqeVlYRnh3Nm01OUdldnR3S3NScEpKYkJCc2x6OHl4VFpWRWJoUlQ2S2xBdUpEVlNZYzBfMlJPUWpyaFBlQQ"
     }
   ]
 }
