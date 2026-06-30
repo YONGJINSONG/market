@@ -1,19 +1,11 @@
 {
-  "generated_at": "2026-06-30T21:51:29Z",
+  "generated_at": "2026-06-30T23:01:42Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
-    {
-      "title": "Tech selloff stirs bubble fears in US stock market - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQUFlQXU0QUQ2d3NhY2hNU1llc2ZCOUdyZW5IRlhzYVdYcjZ0eTkxU25fa3A3WjlZTDRRQ0FoRVFxNXF5OC1oRHI1clNXazZic0liOGhxeGVBZDNzbUx4cHpuS2JoWEZSMzE2RVhJSlNWZXotWHZwSnh2UFVjN1EtYVpuaXF5RWlUd19jZjBYWHNUNHJMTDN1bHVENXE1bGRzZ203dTJR?oc=5",
-      "source": "Reuters",
-      "published_at": "Tue, 30 Jun 2026 17:01:15 GMT",
-      "summary": "Tech selloff stirs bubble fears in US stock market Reuters",
-      "guid": "CBMipgFBVV95cUxOQUFlQXU0QUQ2d3NhY2hNU1llc2ZCOUdyZW5IRlhzYVdYcjZ0eTkxU25fa3A3WjlZTDRRQ0FoRVFxNXF5OC1oRHI1clNXazZic0liOGhxeGVBZDNzbUx4cHpuS2JoWEZSMzE2RVhJSlNWZXotWHZwSnh2UFVjN1EtYVpuaXF5RWlUd19jZjBYWHNUNHJMTDN1bHVENXE1bGRzZ203dTJR"
-    },
     {
       "title": "The stock market rally that’s making some people rich and everyone else miserable - CNN",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wTnVnQTZObVBiRWNaVmMwNHFDandIeHBjbDRnc182d2VPcnVOeHp5alN2LVBGSjFZTkE5RmpLXzRMcDVlU0MwbGRBYnd6SWptRGtZYkNPYjNjWnlab1ZwUUFLT0c2dE1UUVBIaA?oc=5",
@@ -37,6 +29,14 @@
       "published_at": "Tue, 30 Jun 2026 13:31:00 GMT",
       "summary": "Opinion: Inflation fears are overblown. What the rate-hike camp gets wrong about the stock market. MarketWatch",
       "guid": "CBMi2gFBVV95cUxPUXZMSld2WnZJUU5hQ3BQZnpfdlFPc2FBUWhPN0FZbHlSUjh0V1h6Y0FzNkxVMFRIRGlSQ0FreFdNZ016bE50WDFrNl9JTHhWdnFhRndDQ3ZiUnk3NGV6by1aU0tTNjlSN1IxRTB5bENXeXplamgwX0xpM0RHa2JCaEh3NUhyLThnOFRtMGpaZzNiQTlTMkcxaFpVMHJRMTBmT0MxRERoUmJLaGEzSzZNbmRrVFB1ZzhIUnNEZTFJaVI2enV0LVVUUmJHTHcyU3hzendnX1FLMllpQQ"
+    },
+    {
+      "title": "Tech selloff stirs bubble fears in US stock market - WTVB",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQWxLWFZKeTBFWUlQUDl2R1UzLXVBNVB3N0RZRFhwSmJEbWE4NFpOSWdnT29OaGRNNUlOeXVMc09nbTZid0hzY3dZOC15SU9peTQ1ak1nbWpXbnFGOWxZLU5ybGdqY2FlM3p0ZDJqQmI0dHZ6bktfYU9RZmxtS2diZWNxUzFrdElL?oc=5",
+      "source": "WTVB",
+      "published_at": "Tue, 30 Jun 2026 09:44:07 GMT",
+      "summary": "Tech selloff stirs bubble fears in US stock market WTVB",
+      "guid": "CBMiiAFBVV95cUxQQWxLWFZKeTBFWUlQUDl2R1UzLXVBNVB3N0RZRFhwSmJEbWE4NFpOSWdnT29OaGRNNUlOeXVMc09nbTZid0hzY3dZOC15SU9peTQ1ak1nbWpXbnFGOWxZLU5ybGdqY2FlM3p0ZDJqQmI0dHZ6bktfYU9RZmxtS2diZWNxUzFrdElL"
     },
     {
       "title": "CAPITAL IDEAS: What happens to the stock market if the Federal Reserve raises interest rates? - The Berkshire Edge",
@@ -71,20 +71,20 @@
       "guid": "CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ"
     },
     {
-      "title": "Strategy Announces Digital Credit Capital Framework, USD Reserve Policy, STRC Dividend Policy, Digital Credit and MSTR Repurchase Authorizations, and BTC Monetization Program - Strategy",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONjlXTkY1bHZnMU5Vb0Y1OHBQWHlJdWJ5VEN5LUcydnJkblNiNTEtTDFRbFVzNHhzMkNsSjVSaF9yUUtWY2RhQXNwb3hWV0loVVdSTnlUU1p4ZWRHT0RTblhrLWZrQWpXcUlicTVSUHlqd0Y1SE9yR21jbW9Wb253Z0N3bFpxWm80YVppVFdCMUdZUG1iZ3Q0bA?oc=5",
-      "source": "Strategy",
-      "published_at": "Mon, 29 Jun 2026 12:12:27 GMT",
-      "summary": "Strategy Announces Digital Credit Capital Framework, USD Reserve Policy, STRC Dividend Policy, Digital Credit and MSTR Repurchase Authorizations, and BTC Monetization Program Strategy",
-      "guid": "CBMimAFBVV95cUxONjlXTkY1bHZnMU5Vb0Y1OHBQWHlJdWJ5VEN5LUcydnJkblNiNTEtTDFRbFVzNHhzMkNsSjVSaF9yUUtWY2RhQXNwb3hWV0loVVdSTnlUU1p4ZWRHT0RTblhrLWZrQWpXcUlicTVSUHlqd0Y1SE9yR21jbW9Wb253Z0N3bFpxWm80YVppVFdCMUdZUG1iZ3Q0bA"
-    },
-    {
       "title": "Will the Stock Market Crash if the Federal Reserve Raises Interest Rates? Soaring Bond Yields Portend Trouble. - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZnJzS2VRMk9XWWhmalBsWHVjX2NKQU0ydHE5X19kUGt3ZThBNWRZZTlRVk1LUUE0Q1IxSHl1RmFiWFFoRVdFeE5VMkE4MDVGMkNvaE9lZnlLdGpwMXVId0pJR0NIUVIyUm9fN0FvRFdHeHdTeWcwY3NsLVZEb1ZIczUxNHltUjd4RWpleVprN3d6cDhIaVBYUE51QXVvNW8?oc=5",
       "source": "Yahoo Finance",
       "published_at": "Tue, 09 Jun 2026 07:00:00 GMT",
       "summary": "Will the Stock Market Crash if the Federal Reserve Raises Interest Rates? Soaring Bond Yields Portend Trouble. Yahoo Finance",
       "guid": "CBMinwFBVV95cUxOZnJzS2VRMk9XWWhmalBsWHVjX2NKQU0ydHE5X19kUGt3ZThBNWRZZTlRVk1LUUE0Q1IxSHl1RmFiWFFoRVdFeE5VMkE4MDVGMkNvaE9lZnlLdGpwMXVId0pJR0NIUVIyUm9fN0FvRFdHeHdTeWcwY3NsLVZEb1ZIczUxNHltUjd4RWpleVprN3d6cDhIaVBYUE51QXVvNW8"
+    },
+    {
+      "title": "Strategy Announces Digital Credit Capital Framework, USD Reserve Policy, STRC Dividend Policy, Digital Credit and MSTR Repurchase Authorizations, and BTC Monetization Program - Strategy",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONjlXTkY1bHZnMU5Vb0Y1OHBQWHlJdWJ5VEN5LUcydnJkblNiNTEtTDFRbFVzNHhzMkNsSjVSaF9yUUtWY2RhQXNwb3hWV0loVVdSTnlUU1p4ZWRHT0RTblhrLWZrQWpXcUlicTVSUHlqd0Y1SE9yR21jbW9Wb253Z0N3bFpxWm80YVppVFdCMUdZUG1iZ3Q0bA?oc=5",
+      "source": "Strategy",
+      "published_at": "Mon, 29 Jun 2026 12:12:27 GMT",
+      "summary": "Strategy Announces Digital Credit Capital Framework, USD Reserve Policy, STRC Dividend Policy, Digital Credit and MSTR Repurchase Authorizations, and BTC Monetization Program Strategy",
+      "guid": "CBMimAFBVV95cUxONjlXTkY1bHZnMU5Vb0Y1OHBQWHlJdWJ5VEN5LUcydnJkblNiNTEtTDFRbFVzNHhzMkNsSjVSaF9yUUtWY2RhQXNwb3hWV0loVVdSTnlUU1p4ZWRHT0RTblhrLWZrQWpXcUlicTVSUHlqd0Y1SE9yR21jbW9Wb253Z0N3bFpxWm80YVppVFdCMUdZUG1iZ3Q0bA"
     }
   ]
 }
