@@ -1,11 +1,43 @@
 {
-  "generated_at": "2026-06-30T01:34:56Z",
+  "generated_at": "2026-06-30T05:53:08Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "Weekly market commentary - BlackRock",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
+      "source": "BlackRock",
+      "published_at": "Mon, 29 Jun 2026 21:06:50 GMT",
+      "summary": "Weekly market commentary BlackRock",
+      "guid": "CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw"
+    },
+    {
+      "title": "Tracker: The Federal Reserve’s Balance Sheet Assets - The American Action Forum",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0?oc=5",
+      "source": "The American Action Forum",
+      "published_at": "Tue, 30 Jun 2026 01:56:35 GMT",
+      "summary": "Tracker: The Federal Reserve’s Balance Sheet Assets The American Action Forum",
+      "guid": "CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0"
+    },
+    {
+      "title": "The stock market rally that’s making some people rich and everyone else miserable - CNN",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wTnVnQTZObVBiRWNaVmMwNHFDandIeHBjbDRnc182d2VPcnVOeHp5alN2LVBGSjFZTkE5RmpLXzRMcDVlU0MwbGRBYnd6SWptRGtZYkNPYjNjWnlab1ZwUUFLT0c2dE1UUVBIaA?oc=5",
+      "source": "CNN",
+      "published_at": "Mon, 29 Jun 2026 09:00:26 GMT",
+      "summary": "The stock market rally that’s making some people rich and everyone else miserable CNN",
+      "guid": "CBMibEFVX3lxTE4wTnVnQTZObVBiRWNaVmMwNHFDandIeHBjbDRnc182d2VPcnVOeHp5alN2LVBGSjFZTkE5RmpLXzRMcDVlU0MwbGRBYnd6SWptRGtZYkNPYjNjWnlab1ZwUUFLT0c2dE1UUVBIaA"
+    },
+    {
+      "title": "Stock Market Under the Trump Administration: What is Driving Markets in 2026? - U.S. Bank",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcUowVHR1VXAzd0Zfamw1MkVSejFsRGo1bkdGdHhjNVBZVFdwU3VpcE5neGJOeWl6RmdQVkFsYlcxNEVTRGg3WHNYSGR1d1BpTjV4T2NqdWdER3ZtQ0RVbU40WTcyRXRaTEM5bFZteVlYNE5EYkM1M1BaR0lYTGlUeFlTeDhVMzRaWFFqZEZhcGc3RFJoZy1qZy1mTGViQQ?oc=5",
+      "source": "U.S. Bank",
+      "published_at": "Thu, 25 Jun 2026 07:00:00 GMT",
+      "summary": "Stock Market Under the Trump Administration: What is Driving Markets in 2026? U.S. Bank",
+      "guid": "CBMingFBVV95cUxPcUowVHR1VXAzd0Zfamw1MkVSejFsRGo1bkdGdHhjNVBZVFdwU3VpcE5neGJOeWl6RmdQVkFsYlcxNEVTRGg3WHNYSGR1d1BpTjV4T2NqdWdER3ZtQ0RVbU40WTcyRXRaTEM5bFZteVlYNE5EYkM1M1BaR0lYTGlUeFlTeDhVMzRaWFFqZEZhcGc3RFJoZy1qZy1mTGViQQ"
+    },
     {
       "title": "Opinion: Inflation fears are overblown. What the rate-hike camp gets wrong about the stock market. - MarketWatch",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUXZMSld2WnZJUU5hQ3BQZnpfdlFPc2FBUWhPN0FZbHlSUjh0V1h6Y0FzNkxVMFRIRGlSQ0FreFdNZ016bE50WDFrNl9JTHhWdnFhRndDQ3ZiUnk3NGV6by1aU0tTNjlSN1IxRTB5bENXeXplamgwX0xpM0RHa2JCaEh3NUhyLThnOFRtMGpaZzNiQTlTMkcxaFpVMHJRMTBmT0MxRERoUmJLaGEzSzZNbmRrVFB1ZzhIUnNEZTFJaVI2enV0LVVUUmJHTHcyU3hzendnX1FLMllpQQ?oc=5",
@@ -53,38 +85,6 @@
       "published_at": "Fri, 26 Jun 2026 15:26:34 GMT",
       "summary": "What to Look Out for in Economic Data This Week (June 29-July 3) Kiplinger",
       "guid": "CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ"
-    },
-    {
-      "title": "The Federal Reserve Just Delivered Terrible News for the Stock Market, but There's a Silver Lining for Investors - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLXNDczg3SEN1VWJZZ2NYUHVjVEZEVV9YZ3MzOHJYTjloSl9QZlh3STdub0RBSGlmWlNRaTljQjFTRVd2NUJscU9SUGUxOVpoaERCMlBJQnBpZFJpNWlMS242YUc4UjRnQmFBd1hzMWZ5SXQ5ZjBwS2VuWWItcXZnUUsxNmZKNjlUekYyd0xpSUVlZkNhTHViMnBQQ1lGRUJJZ2FJ?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Mon, 22 Jun 2026 11:35:00 GMT",
-      "summary": "The Federal Reserve Just Delivered Terrible News for the Stock Market, but There's a Silver Lining for Investors Yahoo Finance",
-      "guid": "CBMiowFBVV95cUxOLXNDczg3SEN1VWJZZ2NYUHVjVEZEVV9YZ3MzOHJYTjloSl9QZlh3STdub0RBSGlmWlNRaTljQjFTRVd2NUJscU9SUGUxOVpoaERCMlBJQnBpZFJpNWlMS242YUc4UjRnQmFBd1hzMWZ5SXQ5ZjBwS2VuWWItcXZnUUsxNmZKNjlUekYyd0xpSUVlZkNhTHViMnBQQ1lGRUJJZ2FJ"
-    },
-    {
-      "title": "Warsh's gamble: A quieter Federal Reserve could mean volatile markets, higher rates - LancasterOnline",
-      "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxPWS1zeDU2R2FaUjZCWlkzd1E3LVY3a2haSHJCcUZJYkFqZmZZZi10ZVBkbjNqcGl3T2ZzdHRJdVk4Z014WnVUOGItU0pUZXR6NDQtejJYZzhKY3dnb0dDTzFXZklhOUpUX0RydTRjRTRXOTJTMEpWR1BNUDZvclZpT3h2RnAycU9ON0hKZEFkU211SWFCR1Nud3BsUXJ3clRyWFdrbm5wSlVuY1FmblRSZ1Y1LWI4d29yMUJvVktvdGpNU2NiN0xwams4elBuTjRpc1Z0aVpsYmFWYmEtZkR4aUktS0Z2Um84RW5UVVp3Y044emx5YnJIbF9BbTlBcnBqeGcwT0lKeWZDbHpKM1ZWcE9KSldrZ1owYk9uTEFXZXAtczdPSkhMSVpkLW9YRWZmNE5WTW91RUN5WmQzZ0s4TGlUX0RiQU9LV0ZjTjVVRWhRX2tiQXgweE1UUjB5YXdwdVVkM1dtRnlsWkNPUnZ0S3hXeE0xcnExMWJpT3RXY1FhbjZQWS1tY3ZRbm9USUk?oc=5",
-      "source": "LancasterOnline",
-      "published_at": "Mon, 22 Jun 2026 14:32:38 GMT",
-      "summary": "Warsh's gamble: A quieter Federal Reserve could mean volatile markets, higher rates LancasterOnline",
-      "guid": "CBMijwNBVV95cUxPWS1zeDU2R2FaUjZCWlkzd1E3LVY3a2haSHJCcUZJYkFqZmZZZi10ZVBkbjNqcGl3T2ZzdHRJdVk4Z014WnVUOGItU0pUZXR6NDQtejJYZzhKY3dnb0dDTzFXZklhOUpUX0RydTRjRTRXOTJTMEpWR1BNUDZvclZpT3h2RnAycU9ON0hKZEFkU211SWFCR1Nud3BsUXJ3clRyWFdrbm5wSlVuY1FmblRSZ1Y1LWI4d29yMUJvVktvdGpNU2NiN0xwams4elBuTjRpc1Z0aVpsYmFWYmEtZkR4aUktS0Z2Um84RW5UVVp3Y044emx5YnJIbF9BbTlBcnBqeGcwT0lKeWZDbHpKM1ZWcE9KSldrZ1owYk9uTEFXZXAtczdPSkhMSVpkLW9YRWZmNE5WTW91RUN5WmQzZ0s4TGlUX0RiQU9LV0ZjTjVVRWhRX2tiQXgweE1UUjB5YXdwdVVkM1dtRnlsWkNPUnZ0S3hXeE0xcnExMWJpT3RXY1FhbjZQWS1tY3ZRbm9USUk"
-    },
-    {
-      "title": "Stocks drive record share of American wealth - Axios",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tREZqZEtISDliRTZVeFV4MkhkbW9ueER2Z25YRDRuNXBDaGVGLTlKMC1JUUVfWXFYT2h3YWtwemRuVU9NLVg0Qi03bEdoQlBfcVBmckN6anZtZVVTakstVlVZWWU0bm5YSmUwaQ?oc=5",
-      "source": "Axios",
-      "published_at": "Thu, 04 Jun 2026 07:00:00 GMT",
-      "summary": "Stocks drive record share of American wealth Axios",
-      "guid": "CBMibEFVX3lxTE4tREZqZEtISDliRTZVeFV4MkhkbW9ueER2Z25YRDRuNXBDaGVGLTlKMC1JUUVfWXFYT2h3YWtwemRuVU9NLVg0Qi03bEdoQlBfcVBmckN6anZtZVVTakstVlVZWWU0bm5YSmUwaQ"
-    },
-    {
-      "title": "Alan Greenspan, longtime chairman of the Federal Reserve, dies at 100 - ABC7 New York",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVktGUERPQkZzbmJXQW1PSjFncEFxdmFMUE00MWhlNUNWdTJlaTd0WHpiMlBPeWdOakZUWUo3Zy1nNnZGY0t4Z2xYZWJfZGpQQ2dXeGNrUlNOQ050T2lHRzVzOXhoNDlxT3BMZnJldlVta05faWhFaWVEVnRjTHp5T1ZZeFo1QnV3VlFnbEF2ZUNYQWc4S1E?oc=5",
-      "source": "ABC7 New York",
-      "published_at": "Mon, 22 Jun 2026 11:31:12 GMT",
-      "summary": "Alan Greenspan, longtime chairman of the Federal Reserve, dies at 100 ABC7 New York",
-      "guid": "CBMilgFBVV95cUxQVktGUERPQkZzbmJXQW1PSjFncEFxdmFMUE00MWhlNUNWdTJlaTd0WHpiMlBPeWdOakZUWUo3Zy1nNnZGY0t4Z2xYZWJfZGpQQ2dXeGNrUlNOQ050T2lHRzVzOXhoNDlxT3BMZnJldlVta05faWhFaWVEVnRjTHp5T1ZZeFo1QnV3VlFnbEF2ZUNYQWc4S1E"
     }
   ]
 }
