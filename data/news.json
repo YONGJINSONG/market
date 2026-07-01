@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T21:55:33Z",
+  "generated_at": "2026-07-01T23:01:23Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -21,6 +21,14 @@
       "published_at": "Wed, 01 Jul 2026 17:25:00 GMT",
       "summary": "Stock-market bulls need Kevin Warsh on their side to keep winning, says Wall Street veteran Bob Doll MarketWatch",
       "guid": "CBMi2gFBVV95cUxPUFRZSE1ncmVBVnc3WU94YTAxYktjaUVnbkFwR056RnhueW16Q1RsT1VnSHJIR1FNa0hkcGJmZ05WbFdNREdsTXpvSXZoNDAwNDl3alJTMHlKdmstRlZsaHNJMUtITTNSVmo1TU9oLV96MjU2ZkZOVWZpb3o2Ym5XcG5lOUd6dkRXVHhkRjhvRHo3U00zVkR5YmVrUldHYWc1WGFXWWg3X0pFUy0yaDdNbHpQUlVFYk5ncWtBRjUwWks1bjd2MnNkU1pyeE5RTWFDX1VHVEY4MlhYQQ"
+    },
+    {
+      "title": "Asian Stocks to Decline as Traders Weigh AI, Warsh: Markets Wrap - Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNFJqaW9USEtQbjFFakVxVEdWTjNRbU4xV3Q2cGx0VW9rajVpdXlhYkJPZWlzYnlPemNCWGlOY1l4RlBzYVpCMV9Ib2tOUGYyN0R4ZHU0Q24zaVhFVVItNzJhNDNBVXZTR2x2b19Oc2w2cF91S2t3aENKSlk4NFdEVUpHNHhPYzUwMU5YbGJ2WFdKcDBzcm00Wm5PMnB0Wi01bEh4YUdLR18ycVhTdkV2dlJjYw?oc=5",
+      "source": "Bloomberg",
+      "published_at": "Wed, 01 Jul 2026 22:05:31 GMT",
+      "summary": "Asian Stocks to Decline as Traders Weigh AI, Warsh: Markets Wrap Bloomberg",
+      "guid": "CBMiswFBVV95cUxQNFJqaW9USEtQbjFFakVxVEdWTjNRbU4xV3Q2cGx0VW9rajVpdXlhYkJPZWlzYnlPemNCWGlOY1l4RlBzYVpCMV9Ib2tOUGYyN0R4ZHU0Q24zaVhFVVItNzJhNDNBVXZTR2x2b19Oc2w2cF91S2t3aENKSlk4NFdEVUpHNHhPYzUwMU5YbGJ2WFdKcDBzcm00Wm5PMnB0Wi01bEh4YUdLR18ycVhTdkV2dlJjYw"
     },
     {
       "title": "Warning: The Federal Reserve Is Quietly Fueling the Biggest Inflation Spike Since 2021 - 24/7 Wall St.",
@@ -55,14 +63,6 @@
       "guid": "CBMimAFBVV95cUxQOWRqVF9KcTZHLXNvUnNpR3d4aVM2VlBrd2lIRDJBcGhia1ZsRHg3THBBR1llM1NxQ3FDckE4c0hFSFVURjN6QTgxZG1pcVBSQTRrR3RrY3FxYWRUM2tTNzE0aF9YMVZUZTNmX0FWdU5QdVBGd002b193VERESWtDb2JPWXU1RDN1azZPUmRBMXozS3JVQjRHcA"
     },
     {
-      "title": "Stocks Fall and Dollar Climbs as Warsh in Focus: Markets Wrap - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOR25EbGViSWxWemp3UlVlUm9pTWE4S2VkXzhqN2dhVWE2SGpmVV9veDVZMlBPU2xXUnFpTWtDRXZhWi1GYWhXbVp0MjJSQmlQYkE4SHJ1NVNFR05hQ2VFZkFNdmNYVldoeVNPOXVYdlJYR0xWbFVfR29JYWt5THlqM180V0dnUWRrZ1FZMGxiUUJuNUhCVVVsZEswRkNEOEVKSWJac1lmUTRnLTNPTTVrY3g5OVY?oc=5",
-      "source": "Bloomberg.com",
-      "published_at": "Tue, 30 Jun 2026 22:09:34 GMT",
-      "summary": "Stocks Fall and Dollar Climbs as Warsh in Focus: Markets Wrap Bloomberg.com",
-      "guid": "CBMitAFBVV95cUxOR25EbGViSWxWemp3UlVlUm9pTWE4S2VkXzhqN2dhVWE2SGpmVV9veDVZMlBPU2xXUnFpTWtDRXZhWi1GYWhXbVp0MjJSQmlQYkE4SHJ1NVNFR05hQ2VFZkFNdmNYVldoeVNPOXVYdlJYR0xWbFVfR29JYWt5THlqM180V0dnUWRrZ1FZMGxiUUJuNUhCVVVsZEswRkNEOEVKSWJac1lmUTRnLTNPTTVrY3g5OVY"
-    },
-    {
       "title": "Federal Reserve policymakers show support for rate hikes as Warsh reins in guidance - AP News",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQ1NBclF1MkF3bkJBNGNLbGpCaWVYMnNadFNpZk1wQjhnenhtMG0ya3FHbkhkdzJDTHB3MEtybmN6YzZlN29SUmpDekMxeUlPZzhJamYyaXVkVmJGV2dweGdJZ2NDdl9EdmhlWHlYaG43SFg4X3o1NXVfc2dMR05hMTI3N3F2b1ZTMlpBOGZ5TjhZVGNJSTNHVWpHaDFNc3A1NWw4Sg?oc=5",
       "source": "AP News",
@@ -71,20 +71,20 @@
       "guid": "CBMipAFBVV95cUxOQ1NBclF1MkF3bkJBNGNLbGpCaWVYMnNadFNpZk1wQjhnenhtMG0ya3FHbkhkdzJDTHB3MEtybmN6YzZlN29SUmpDekMxeUlPZzhJamYyaXVkVmJGV2dweGdJZ2NDdl9EdmhlWHlYaG43SFg4X3o1NXVfc2dMR05hMTI3N3F2b1ZTMlpBOGZ5TjhZVGNJSTNHVWpHaDFNc3A1NWw4Sg"
     },
     {
-      "title": "What to Look Out for in Economic Data This Week (June 29-July 3) - Kiplinger",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ?oc=5",
-      "source": "Kiplinger",
-      "published_at": "Fri, 26 Jun 2026 15:26:34 GMT",
-      "summary": "What to Look Out for in Economic Data This Week (June 29-July 3) Kiplinger",
-      "guid": "CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ"
-    },
-    {
       "title": "Strategy Announces Digital Credit Capital Framework, USD Reserve Policy, STRC Dividend Policy, Digital Credit and MSTR Repurchase Authorizations, and BTC Monetization Program - Strategy",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONjlXTkY1bHZnMU5Vb0Y1OHBQWHlJdWJ5VEN5LUcydnJkblNiNTEtTDFRbFVzNHhzMkNsSjVSaF9yUUtWY2RhQXNwb3hWV0loVVdSTnlUU1p4ZWRHT0RTblhrLWZrQWpXcUlicTVSUHlqd0Y1SE9yR21jbW9Wb253Z0N3bFpxWm80YVppVFdCMUdZUG1iZ3Q0bA?oc=5",
       "source": "Strategy",
       "published_at": "Mon, 29 Jun 2026 12:12:27 GMT",
       "summary": "Strategy Announces Digital Credit Capital Framework, USD Reserve Policy, STRC Dividend Policy, Digital Credit and MSTR Repurchase Authorizations, and BTC Monetization Program Strategy",
       "guid": "CBMimAFBVV95cUxONjlXTkY1bHZnMU5Vb0Y1OHBQWHlJdWJ5VEN5LUcydnJkblNiNTEtTDFRbFVzNHhzMkNsSjVSaF9yUUtWY2RhQXNwb3hWV0loVVdSTnlUU1p4ZWRHT0RTblhrLWZrQWpXcUlicTVSUHlqd0Y1SE9yR21jbW9Wb253Z0N3bFpxWm80YVppVFdCMUdZUG1iZ3Q0bA"
+    },
+    {
+      "title": "What to Look Out for in Economic Data This Week (June 29-July 3) - Kiplinger",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ?oc=5",
+      "source": "Kiplinger",
+      "published_at": "Fri, 26 Jun 2026 15:26:34 GMT",
+      "summary": "What to Look Out for in Economic Data This Week (June 29-July 3) Kiplinger",
+      "guid": "CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ"
     }
   ]
 }
