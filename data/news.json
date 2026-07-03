@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T17:44:34Z",
+  "generated_at": "2026-07-03T18:50:26Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -47,22 +47,6 @@
       "guid": "CBMidkFVX3lxTE51aTBBZXQ0SmNKaFJkZkl4RzlBVzBITHQ4Y1JnbjNxRGRqME52RHBFa1dCOThfTzRraDM2d3ZrRmcteGJjV2s1UHo4d1R0OG5TdmdnMWQxVUF3UG51S09ReW1BTmUtLXF3QU9oUUNoeDB0TWttT2c"
     },
     {
-      "title": "How Do Changing Interest Rates Affect the Stock Market? - U.S. Bank",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVVJpa2pCR3B0TmxRZGlpSmRZaFctZ21ybGtrVUVBMFozZ0xiSGFRY0ZZdGNWaV80dnhHUTR2TTVoSnZEU190aGtMamY2MDAxT0hYYzRXcUl5OUEyOGRGYWlBbm54T3ppaEZWRWtyV01EOEJGcVRaM2xROWlCX2FxSFYxX1NXeUQwZmJLS3pqcGhCWjR5RVJrNlhmbUtRcy1EUGJLaFI4UTNkUHg4emNPUE95cTc0bnlDcklaaG5EcWhBeVU?oc=5",
-      "source": "U.S. Bank",
-      "published_at": "Thu, 18 Jun 2026 07:00:00 GMT",
-      "summary": "How Do Changing Interest Rates Affect the Stock Market? U.S. Bank",
-      "guid": "CBMiwwFBVV95cUxQVVJpa2pCR3B0TmxRZGlpSmRZaFctZ21ybGtrVUVBMFozZ0xiSGFRY0ZZdGNWaV80dnhHUTR2TTVoSnZEU190aGtMamY2MDAxT0hYYzRXcUl5OUEyOGRGYWlBbm54T3ppaEZWRWtyV01EOEJGcVRaM2xROWlCX2FxSFYxX1NXeUQwZmJLS3pqcGhCWjR5RVJrNlhmbUtRcy1EUGJLaFI4UTNkUHg4emNPUE95cTc0bnlDcklaaG5EcWhBeVU"
-    },
-    {
-      "title": "Weekly market commentary - BlackRock",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
-      "source": "BlackRock",
-      "published_at": "Mon, 29 Jun 2026 07:00:00 GMT",
-      "summary": "Weekly market commentary BlackRock",
-      "guid": "CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw"
-    },
-    {
       "title": "CAPITAL IDEAS: What happens to the stock market if the Federal Reserve raises interest rates? - The Berkshire Edge",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQM0N3MjBOMzV3c24tR2Q4OUhXMkhzZGFpNVpHOEJqZU42SnJiel9TWFFZd2hxeFJYenZDY1h3MXJyX2FjZXF4Unl1QUhMeldPWFhUV08wM09IQTd5cW5EblEtR1JMRmJkR0t5TGJMLWxYQ01CWEhrSkl0TUdpZjc0WWFlQnIxQ2Q5dkVEWkk1WUtLOHlxY2lyOXhWUi11TE9mSE1CeV8ySm9tXy1STkJMUUVXckZCb1FpbExvWGhn?oc=5",
       "source": "The Berkshire Edge",
@@ -79,12 +63,28 @@
       "guid": "CBMinAFBVV95cUxNQXhDX0JMOUhaaXltdkpmZjA3VFJadENiQjd0YkMwMk03VTZhR0hzbEEwWHI2Ykk3eTJMdGNjSTIzOUJtNGxJanNad0Z0WmstUlV1ZklIQ29zaHAyWWRYMGxPT2ZxZ2p4WnhyRXlfelpOZzVndFhZU1B3Qjk4Z1NuNUxnaHA4QU12azRkQXNET2ktZVpKcUJ2dGZXYTQ"
     },
     {
-      "title": "Tracker: The Federal Reserve’s Balance Sheet Assets - The American Action Forum",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0?oc=5",
-      "source": "The American Action Forum",
-      "published_at": "Mon, 29 Jun 2026 07:00:00 GMT",
-      "summary": "Tracker: The Federal Reserve’s Balance Sheet Assets The American Action Forum",
-      "guid": "CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0"
+      "title": "What's open, closed on July 3? Banks, post office, stock market, more - Democrat and Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRmNfLTVza2dONDFJYlZDUHNMajVHUlZwX1FxZFhhU2lfNVotSndOVTNPZElvcVo5ZTNaelRXWlBmTVdpd1FJMG0xeC1sdmVPMG5VU2c5NVBkNDc2WFphLUdlTjN2LUtjRkdQOVp3Yy1saDl4ZDc5czEyZVJtVUZpYmZFWGxIM1hleGpHV0tmRFVKQWZMVkstcXdnTnZySmZkVFdLdnZIN09oMTRWQmlFZjhldHZqWEV4c0JQaGJxYmYxUjBIOWc?oc=5",
+      "source": "Democrat and Chronicle",
+      "published_at": "Thu, 02 Jul 2026 11:59:13 GMT",
+      "summary": "What's open, closed on July 3? Banks, post office, stock market, more Democrat and Chronicle",
+      "guid": "CBMixgFBVV95cUxQRmNfLTVza2dONDFJYlZDUHNMajVHUlZwX1FxZFhhU2lfNVotSndOVTNPZElvcVo5ZTNaelRXWlBmTVdpd1FJMG0xeC1sdmVPMG5VU2c5NVBkNDc2WFphLUdlTjN2LUtjRkdQOVp3Yy1saDl4ZDc5czEyZVJtVUZpYmZFWGxIM1hleGpHV0tmRFVKQWZMVkstcXdnTnZySmZkVFdLdnZIN09oMTRWQmlFZjhldHZqWEV4c0JQaGJxYmYxUjBIOWc"
+    },
+    {
+      "title": "What to Look Out for in Economic Data This Week (July 6-10) - Kiplinger",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ?oc=5",
+      "source": "Kiplinger",
+      "published_at": "Thu, 02 Jul 2026 14:35:30 GMT",
+      "summary": "What to Look Out for in Economic Data This Week (July 6-10) Kiplinger",
+      "guid": "CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ"
+    },
+    {
+      "title": "Is the stock market open today? Here’s how Fourth of July weekend affects trading hours. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMVk1dnJpNWU4c0NoMzZmclc3NXdxNkFhc3NGa0hWWWhabVM1OElaTmVPSGtTQmZtT3NMRnZESWFQZ0V3dWV1dlhybW9qQlVuaVBxMzNkZEdORkE1U1R6UnpMUkdlazducWZjWmZEQzVkZE9CUk5TQlVXQWU5Vm1IQU5LLVI0QkE0M0hzOWU1QXZ3N0JIRGt2SWNwRjJqZw?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Fri, 03 Jul 2026 04:09:00 GMT",
+      "summary": "Is the stock market open today? Here’s how Fourth of July weekend affects trading hours. Yahoo Finance",
+      "guid": "CBMingFBVV95cUxNMVk1dnJpNWU4c0NoMzZmclc3NXdxNkFhc3NGa0hWWWhabVM1OElaTmVPSGtTQmZtT3NMRnZESWFQZ0V3dWV1dlhybW9qQlVuaVBxMzNkZEdORkE1U1R6UnpMUkdlazducWZjWmZEQzVkZE9CUk5TQlVXQWU5Vm1IQU5LLVI0QkE0M0hzOWU1QXZ3N0JIRGt2SWNwRjJqZw"
     }
   ]
 }
