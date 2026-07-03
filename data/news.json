@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T22:30:26Z",
+  "generated_at": "2026-07-03T23:39:44Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -31,12 +31,36 @@
       "guid": "CBMirgFBVV95cUxOTUZLQkNtNmNDemN6MExyV0pzQzV2aFQybGtjU3JzZDAyRURRQ2tPU0g1emtweW5nYktmanYzcGwyOXdQSjR5ZE9FemNpdmdCRmxKXzhkOVhVUGYyM2I2eFVkbkJpdV9ETGFDb3BOeTRIT0pMSmhxdXllUkFEd045WGt3QWprUndaczhqSUt2WmhzOGpHVmlMdDdlcEFJYlNPWHlaV2c5dl80TFBtcHc"
     },
     {
+      "title": "The stock market rally that’s making some people rich and everyone else miserable - CNN",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wTnVnQTZObVBiRWNaVmMwNHFDandIeHBjbDRnc182d2VPcnVOeHp5alN2LVBGSjFZTkE5RmpLXzRMcDVlU0MwbGRBYnd6SWptRGtZYkNPYjNjWnlab1ZwUUFLT0c2dE1UUVBIaA?oc=5",
+      "source": "CNN",
+      "published_at": "Mon, 29 Jun 2026 09:00:26 GMT",
+      "summary": "The stock market rally that’s making some people rich and everyone else miserable CNN",
+      "guid": "CBMibEFVX3lxTE4wTnVnQTZObVBiRWNaVmMwNHFDandIeHBjbDRnc182d2VPcnVOeHp5alN2LVBGSjFZTkE5RmpLXzRMcDVlU0MwbGRBYnd6SWptRGtZYkNPYjNjWnlab1ZwUUFLT0c2dE1UUVBIaA"
+    },
+    {
       "title": "Cooling US jobs data buys the Fed and stock market more time - Reuters",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTGg2SFp1b01MWjdIT3J0dDdEd2ZkRkNnZmJDQkVzQ2tTa0hubXN6cmthRjVWd2FGUE1fcHNpQjhWYlY3UXdodjNiUGFQaXlnSVc1TmFudURlLVduQTlOakEwMFk2MG16WWlKM0hySnpUNlNtd3RHdWtjSEU2bEN4VlVSc1F5dFRqdHFKcnNoWVJ1N2xlbEtUMm15RWNKdw?oc=5",
       "source": "Reuters",
       "published_at": "Thu, 02 Jul 2026 19:42:00 GMT",
       "summary": "Cooling US jobs data buys the Fed and stock market more time Reuters",
       "guid": "CBMingFBVV95cUxQTGg2SFp1b01MWjdIT3J0dDdEd2ZkRkNnZmJDQkVzQ2tTa0hubXN6cmthRjVWd2FGUE1fcHNpQjhWYlY3UXdodjNiUGFQaXlnSVc1TmFudURlLVduQTlOakEwMFk2MG16WWlKM0hySnpUNlNtd3RHdWtjSEU2bEN4VlVSc1F5dFRqdHFKcnNoWVJ1N2xlbEtUMm15RWNKdw"
+    },
+    {
+      "title": "How Do Changing Interest Rates Affect the Stock Market? - U.S. Bank",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVVJpa2pCR3B0TmxRZGlpSmRZaFctZ21ybGtrVUVBMFozZ0xiSGFRY0ZZdGNWaV80dnhHUTR2TTVoSnZEU190aGtMamY2MDAxT0hYYzRXcUl5OUEyOGRGYWlBbm54T3ppaEZWRWtyV01EOEJGcVRaM2xROWlCX2FxSFYxX1NXeUQwZmJLS3pqcGhCWjR5RVJrNlhmbUtRcy1EUGJLaFI4UTNkUHg4emNPUE95cTc0bnlDcklaaG5EcWhBeVU?oc=5",
+      "source": "U.S. Bank",
+      "published_at": "Thu, 18 Jun 2026 07:00:00 GMT",
+      "summary": "How Do Changing Interest Rates Affect the Stock Market? U.S. Bank",
+      "guid": "CBMiwwFBVV95cUxQVVJpa2pCR3B0TmxRZGlpSmRZaFctZ21ybGtrVUVBMFozZ0xiSGFRY0ZZdGNWaV80dnhHUTR2TTVoSnZEU190aGtMamY2MDAxT0hYYzRXcUl5OUEyOGRGYWlBbm54T3ppaEZWRWtyV01EOEJGcVRaM2xROWlCX2FxSFYxX1NXeUQwZmJLS3pqcGhCWjR5RVJrNlhmbUtRcy1EUGJLaFI4UTNkUHg4emNPUE95cTc0bnlDcklaaG5EcWhBeVU"
+    },
+    {
+      "title": "Weekly market commentary - BlackRock",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
+      "source": "BlackRock",
+      "published_at": "Mon, 29 Jun 2026 07:00:00 GMT",
+      "summary": "Weekly market commentary BlackRock",
+      "guid": "CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw"
     },
     {
       "title": "Is stock market open today, Friday, July 3, 2026? Is stock market closed for 4th of July holiday? - IndyStar",
@@ -47,14 +71,6 @@
       "guid": "CBMi8wFBVV95cUxPNzFSVm9BdjNJRl84b0dJZURlTTRYa0RhamxCM1R4bXVQdkJ0Y3JsWlg4SFlvbXFyRW5feXpsUHNOLUg1eUlSR1pPOVF4VzI4Nk9vN3Jnc3BjNXZOZ3g5OE1XWnBLQVRsa1BNVGFaZi1YVXZFUm9ZaXA2cWQ3c1EtUEJJSVNBbVg3U2RzRzRrVjl4ZExDY0RlWG1IVlRfbDdvaUdSZjRSai1ab1pFMHJoM3FTdURFcExyVGhyZThfc3dzUkpIZlJVUEllUXFWZ1lXUjdqUFJNS2pwNlplMG93T2NVQVFKbnFRdWZEWEh5anJzbTg"
     },
     {
-      "title": "Cooling US jobs data buy Fed more time - Taipei Times",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE51aTBBZXQ0SmNKaFJkZkl4RzlBVzBITHQ4Y1JnbjNxRGRqME52RHBFa1dCOThfTzRraDM2d3ZrRmcteGJjV2s1UHo4d1R0OG5TdmdnMWQxVUF3UG51S09ReW1BTmUtLXF3QU9oUUNoeDB0TWttT2c?oc=5",
-      "source": "Taipei Times",
-      "published_at": "Fri, 03 Jul 2026 16:00:00 GMT",
-      "summary": "Cooling US jobs data buy Fed more time Taipei Times",
-      "guid": "CBMidkFVX3lxTE51aTBBZXQ0SmNKaFJkZkl4RzlBVzBITHQ4Y1JnbjNxRGRqME52RHBFa1dCOThfTzRraDM2d3ZrRmcteGJjV2s1UHo4d1R0OG5TdmdnMWQxVUF3UG51S09ReW1BTmUtLXF3QU9oUUNoeDB0TWttT2c"
-    },
-    {
       "title": "CAPITAL IDEAS: What happens to the stock market if the Federal Reserve raises interest rates? - The Berkshire Edge",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQM0N3MjBOMzV3c24tR2Q4OUhXMkhzZGFpNVpHOEJqZU42SnJiel9TWFFZd2hxeFJYenZDY1h3MXJyX2FjZXF4Unl1QUhMeldPWFhUV08wM09IQTd5cW5EblEtR1JMRmJkR0t5TGJMLWxYQ01CWEhrSkl0TUdpZjc0WWFlQnIxQ2Q5dkVEWkk1WUtLOHlxY2lyOXhWUi11TE9mSE1CeV8ySm9tXy1STkJMUUVXckZCb1FpbExvWGhn?oc=5",
       "source": "The Berkshire Edge",
@@ -63,28 +79,12 @@
       "guid": "CBMivgFBVV95cUxQM0N3MjBOMzV3c24tR2Q4OUhXMkhzZGFpNVpHOEJqZU42SnJiel9TWFFZd2hxeFJYenZDY1h3MXJyX2FjZXF4Unl1QUhMeldPWFhUV08wM09IQTd5cW5EblEtR1JMRmJkR0t5TGJMLWxYQ01CWEhrSkl0TUdpZjc0WWFlQnIxQ2Q5dkVEWkk1WUtLOHlxY2lyOXhWUi11TE9mSE1CeV8ySm9tXy1STkJMUUVXckZCb1FpbExvWGhn"
     },
     {
-      "title": "5 Things to Know Before the Stock Market Opens on Thursday - Investopedia",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQXhDX0JMOUhaaXltdkpmZjA3VFJadENiQjd0YkMwMk03VTZhR0hzbEEwWHI2Ykk3eTJMdGNjSTIzOUJtNGxJanNad0Z0WmstUlV1ZklIQ29zaHAyWWRYMGxPT2ZxZ2p4WnhyRXlfelpOZzVndFhZU1B3Qjk4Z1NuNUxnaHA4QU12azRkQXNET2ktZVpKcUJ2dGZXYTQ?oc=5",
-      "source": "Investopedia",
-      "published_at": "Thu, 02 Jul 2026 10:51:07 GMT",
-      "summary": "5 Things to Know Before the Stock Market Opens on Thursday Investopedia",
-      "guid": "CBMinAFBVV95cUxNQXhDX0JMOUhaaXltdkpmZjA3VFJadENiQjd0YkMwMk03VTZhR0hzbEEwWHI2Ykk3eTJMdGNjSTIzOUJtNGxJanNad0Z0WmstUlV1ZklIQ29zaHAyWWRYMGxPT2ZxZ2p4WnhyRXlfelpOZzVndFhZU1B3Qjk4Z1NuNUxnaHA4QU12azRkQXNET2ktZVpKcUJ2dGZXYTQ"
-    },
-    {
-      "title": "What to Look Out for in Economic Data This Week (July 6-10) - Kiplinger",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ?oc=5",
-      "source": "Kiplinger",
-      "published_at": "Thu, 02 Jul 2026 14:35:30 GMT",
-      "summary": "What to Look Out for in Economic Data This Week (July 6-10) Kiplinger",
-      "guid": "CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ"
-    },
-    {
-      "title": "Asian Stocks to Decline as Traders Weigh AI, Warsh: Markets Wrap - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNFJqaW9USEtQbjFFakVxVEdWTjNRbU4xV3Q2cGx0VW9rajVpdXlhYkJPZWlzYnlPemNCWGlOY1l4RlBzYVpCMV9Ib2tOUGYyN0R4ZHU0Q24zaVhFVVItNzJhNDNBVXZTR2x2b19Oc2w2cF91S2t3aENKSlk4NFdEVUpHNHhPYzUwMU5YbGJ2WFdKcDBzcm00Wm5PMnB0Wi01bEh4YUdLR18ycVhTdkV2dlJjYw?oc=5",
-      "source": "Bloomberg.com",
-      "published_at": "Wed, 01 Jul 2026 22:05:31 GMT",
-      "summary": "Asian Stocks to Decline as Traders Weigh AI, Warsh: Markets Wrap Bloomberg.com",
-      "guid": "CBMiswFBVV95cUxQNFJqaW9USEtQbjFFakVxVEdWTjNRbU4xV3Q2cGx0VW9rajVpdXlhYkJPZWlzYnlPemNCWGlOY1l4RlBzYVpCMV9Ib2tOUGYyN0R4ZHU0Q24zaVhFVVItNzJhNDNBVXZTR2x2b19Oc2w2cF91S2t3aENKSlk4NFdEVUpHNHhPYzUwMU5YbGJ2WFdKcDBzcm00Wm5PMnB0Wi01bEh4YUdLR18ycVhTdkV2dlJjYw"
+      "title": "Cooling US jobs data buy Fed more time - Taipei Times",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE51aTBBZXQ0SmNKaFJkZkl4RzlBVzBITHQ4Y1JnbjNxRGRqME52RHBFa1dCOThfTzRraDM2d3ZrRmcteGJjV2s1UHo4d1R0OG5TdmdnMWQxVUF3UG51S09ReW1BTmUtLXF3QU9oUUNoeDB0TWttT2c?oc=5",
+      "source": "Taipei Times",
+      "published_at": "Fri, 03 Jul 2026 16:00:00 GMT",
+      "summary": "Cooling US jobs data buy Fed more time Taipei Times",
+      "guid": "CBMidkFVX3lxTE51aTBBZXQ0SmNKaFJkZkl4RzlBVzBITHQ4Y1JnbjNxRGRqME52RHBFa1dCOThfTzRraDM2d3ZrRmcteGJjV2s1UHo4d1R0OG5TdmdnMWQxVUF3UG51S09ReW1BTmUtLXF3QU9oUUNoeDB0TWttT2c"
     }
   ]
 }
