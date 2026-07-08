@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T21:57:09Z",
+  "generated_at": "2026-07-08T22:58:15Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -47,14 +47,6 @@
       "guid": "CBMijAFBVV95cUxQM3h1SnZuQnNmeXpiQWxSWFlQSkdXSXJWWHQ4enBYMzR5clZ3VDBJcERGT3hlZVJ6aFpabWRlUU9XVnBpOXQ4bVVWWWtZSURObnp6NHN3UzNRREpIUUtMMDB2WHdQUVBGbktjamRzUTN4UklLUUU5ZHEwT1p3MS1DeXlyXzdyUTF5cE14RQ"
     },
     {
-      "title": "Fed officials were split on direction of interest rates at last meeting, minutes show - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tZUhVQU4tbmVMVVg1ODA3SENhNTlMancyVDlRQWp4dTN0RFVqczhIUk1lRHJxUHpfUzY1UEg0c2Iyb0loekVSNDU2T3M4b1NIZDZhbVNrTnVhT0g3NE1scms0MHhxbG95OEpJ0gFwQVVfeXFMUGxHQmZYRlNNZGswUTlFYThydFB4eV9DdlkycWtpRXNYb2xvSFpDMG1LbXVFdmMtY1VDWXFXVUpwLWZWWk5aNGE4Z2o1a04xN2FSdTlwTTN0T2JPS1l4Q0tJVHY3czc3ZmxQbWRZa0d0SA?oc=5",
-      "source": "CNBC",
-      "published_at": "Wed, 08 Jul 2026 18:00:53 GMT",
-      "summary": "Fed officials were split on direction of interest rates at last meeting, minutes show CNBC",
-      "guid": "CBMia0FVX3lxTE8tZUhVQU4tbmVMVVg1ODA3SENhNTlMancyVDlRQWp4dTN0RFVqczhIUk1lRHJxUHpfUzY1UEg0c2Iyb0loekVSNDU2T3M4b1NIZDZhbVNrTnVhT0g3NE1scms0MHhxbG95OEpJ0gFwQVVfeXFMUGxHQmZYRlNNZGswUTlFYThydFB4eV9DdlkycWtpRXNYb2xvSFpDMG1LbXVFdmMtY1VDWXFXVUpwLWZWWk5aNGE4Z2o1a04xN2FSdTlwTTN0T2JPS1l4Q0tJVHY3czc3ZmxQbWRZa0d0SA"
-    },
-    {
       "title": "The stock market rally that’s making some people rich and everyone else miserable - CNN",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wTnVnQTZObVBiRWNaVmMwNHFDandIeHBjbDRnc182d2VPcnVOeHp5alN2LVBGSjFZTkE5RmpLXzRMcDVlU0MwbGRBYnd6SWptRGtZYkNPYjNjWnlab1ZwUUFLT0c2dE1UUVBIaA?oc=5",
       "source": "CNN",
@@ -71,20 +63,28 @@
       "guid": "CBMihwFBVV95cUxNWTMwNUNja2pnWEx2emV5bkoyUmdNNUdvWmJjNHE0cnc0V19NNGFvdTNlZDBNWnh0QlB1dkQzZG5wMFpwVGFBMEhWNzZ0aGhiZXVIUEx3dDlGcENvdV93YTljcHFGWXRVU2p1WUg1ckNjT01DYWE0Nm5rNm9tSDVGWVBWYy02bzg"
     },
     {
-      "title": "How the Federal Reserve Learned to Love Bubbles - Michael Hudson",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxON3h5bF95X1p4dHJEeU1LSk8yLTFGNlhnYjZLb3NLcFdyWjM1SlU2RjByYTFVbGxTMnpfY25pZVRFb1RGNlhzZHQyLUMydFhHX2lvajQ0ZVhjWExxVXZ6UWhEWEhpSEp1SmdxanB1cjRYQVNXM19BS2NTZTVGV053SEtJRXFVR0xMMTc4?oc=5",
-      "source": "Michael Hudson",
-      "published_at": "Tue, 07 Jul 2026 12:17:45 GMT",
-      "summary": "How the Federal Reserve Learned to Love Bubbles Michael Hudson",
-      "guid": "CBMiiwFBVV95cUxON3h5bF95X1p4dHJEeU1LSk8yLTFGNlhnYjZLb3NLcFdyWjM1SlU2RjByYTFVbGxTMnpfY25pZVRFb1RGNlhzZHQyLUMydFhHX2lvajQ0ZVhjWExxVXZ6UWhEWEhpSEp1SmdxanB1cjRYQVNXM19BS2NTZTVGV053SEtJRXFVR0xMMTc4"
+      "title": "CAPITAL IDEAS: What happens to the stock market if the Federal Reserve raises interest rates? - The Berkshire Edge",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQM0N3MjBOMzV3c24tR2Q4OUhXMkhzZGFpNVpHOEJqZU42SnJiel9TWFFZd2hxeFJYenZDY1h3MXJyX2FjZXF4Unl1QUhMeldPWFhUV08wM09IQTd5cW5EblEtR1JMRmJkR0t5TGJMLWxYQ01CWEhrSkl0TUdpZjc0WWFlQnIxQ2Q5dkVEWkk1WUtLOHlxY2lyOXhWUi11TE9mSE1CeV8ySm9tXy1STkJMUUVXckZCb1FpbExvWGhn?oc=5",
+      "source": "The Berkshire Edge",
+      "published_at": "Mon, 29 Jun 2026 04:06:31 GMT",
+      "summary": "CAPITAL IDEAS: What happens to the stock market if the Federal Reserve raises interest rates? The Berkshire Edge",
+      "guid": "CBMivgFBVV95cUxQM0N3MjBOMzV3c24tR2Q4OUhXMkhzZGFpNVpHOEJqZU42SnJiel9TWFFZd2hxeFJYenZDY1h3MXJyX2FjZXF4Unl1QUhMeldPWFhUV08wM09IQTd5cW5EblEtR1JMRmJkR0t5TGJMLWxYQ01CWEhrSkl0TUdpZjc0WWFlQnIxQ2Q5dkVEWkk1WUtLOHlxY2lyOXhWUi11TE9mSE1CeV8ySm9tXy1STkJMUUVXckZCb1FpbExvWGhn"
     },
     {
-      "title": "Analysis-Cooling US jobs data buys the Fed and stock market more time - WTVB",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQlR2dDhNcU9IQ25Yb1hoQlJyMmFJbUZ5WW9LV3FLbTNHS0w3LW1oRlNEV0FvYUZlWmdFcy1YN2FWMUQ0UVJWSzQzYzJUZW5ieEZfVGdhYzZabjJQMVZvRk96bFptTEZXVFVjOW5kdGdNLWswMm9nb2dDaTVVcnVaUXNxbGxBMWxWM0FkTThlS0NsSFotQXVKYWlCWEtlZUhLUVE?oc=5",
-      "source": "WTVB",
-      "published_at": "Thu, 02 Jul 2026 20:04:06 GMT",
-      "summary": "Analysis-Cooling US jobs data buys the Fed and stock market more time WTVB",
-      "guid": "CBMiogFBVV95cUxNQlR2dDhNcU9IQ25Yb1hoQlJyMmFJbUZ5WW9LV3FLbTNHS0w3LW1oRlNEV0FvYUZlWmdFcy1YN2FWMUQ0UVJWSzQzYzJUZW5ieEZfVGdhYzZabjJQMVZvRk96bFptTEZXVFVjOW5kdGdNLWswMm9nb2dDaTVVcnVaUXNxbGxBMWxWM0FkTThlS0NsSFotQXVKYWlCWEtlZUhLUVE"
+      "title": "US stocks sink on worries about a possible hike to interest rates this year by the Federal Reserve - AP News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcUlFaFNwNVNsa1RTZTFkTEhaMmhGLXBpZnZjeVAwaDBSSzRjZUFIMTQ3UTctckwtOXRvUDB6c0sxUGVlRWY5SUM5ZUllV1doQVhoLWkyd3IxdFdkRWJGY2J0ZGxyNmNwTEU3LVVBdDlXWVlxM2QtdGpHWmtBMGl0WkFWQzNucTVFTF9lelY3ZjdXNzFYeDhN?oc=5",
+      "source": "AP News",
+      "published_at": "Wed, 17 Jun 2026 07:00:00 GMT",
+      "summary": "US stocks sink on worries about a possible hike to interest rates this year by the Federal Reserve AP News",
+      "guid": "CBMilwFBVV95cUxQcUlFaFNwNVNsa1RTZTFkTEhaMmhGLXBpZnZjeVAwaDBSSzRjZUFIMTQ3UTctckwtOXRvUDB6c0sxUGVlRWY5SUM5ZUllV1doQVhoLWkyd3IxdFdkRWJGY2J0ZGxyNmNwTEU3LVVBdDlXWVlxM2QtdGpHWmtBMGl0WkFWQzNucTVFTF9lelY3ZjdXNzFYeDhN"
+    },
+    {
+      "title": "Markets tumble worldwide as Fed resets expectations: $400 billion wiped off SpaceX stock - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNGRySjJXc0VJVWZXdWVTLTdpRDNna2tUaERVVlNpanFrYUR5VFVhSlhwNFZFRlloY2IxX1Y5N1NPVWZDSkNGQW1vUTZDaDZuck1nQkdsN01WTDRRb1B4R1Fnenk5Q0p4RThmS3FmQXNmaXhLUS1STjQ4VDBZVzJPNndZN2UwNkl1cEVBZ0VsX2s0SnVBNXQ1TjlGNA?oc=5",
+      "source": "Fortune",
+      "published_at": "Tue, 23 Jun 2026 07:00:00 GMT",
+      "summary": "Markets tumble worldwide as Fed resets expectations: $400 billion wiped off SpaceX stock Fortune",
+      "guid": "CBMimwFBVV95cUxNNGRySjJXc0VJVWZXdWVTLTdpRDNna2tUaERVVlNpanFrYUR5VFVhSlhwNFZFRlloY2IxX1Y5N1NPVWZDSkNGQW1vUTZDaDZuck1nQkdsN01WTDRRb1B4R1Fnenk5Q0p4RThmS3FmQXNmaXhLUS1STjQ4VDBZVzJPNndZN2UwNkl1cEVBZ0VsX2s0SnVBNXQ1TjlGNA"
     }
   ]
 }
