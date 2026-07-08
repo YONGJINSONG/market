@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T09:33:25Z",
+  "generated_at": "2026-07-08T11:27:40Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,20 +7,20 @@
   },
   "items": [
     {
-      "title": "Will the Federal Reserve Crush the Small-Cap Stock Revival? - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObEkyNnNKUlBxZndnaXkzLWZwTDdjVFFoSE04R09vQ2k5THM3dWVQVFdmU2RNcFVIMjhvdHdGYmhhelZaNnlpRkxweTd4VUYxeVVJdzNXYnNwY092MXhzU0l4WVk3eHNYZXNZLV92WEdCTzRleWFBVmw4N2cySXAyZVBwU2F5NDhfRWxENl8xU2FxVkNkS0dianU0THhvVWwtT1c5MQ?oc=5",
-      "source": "24/7 Wall St.",
-      "published_at": "Tue, 07 Jul 2026 12:03:21 GMT",
-      "summary": "Will the Federal Reserve Crush the Small-Cap Stock Revival? 24/7 Wall St.",
-      "guid": "CBMipAFBVV95cUxObEkyNnNKUlBxZndnaXkzLWZwTDdjVFFoSE04R09vQ2k5THM3dWVQVFdmU2RNcFVIMjhvdHdGYmhhelZaNnlpRkxweTd4VUYxeVVJdzNXYnNwY092MXhzU0l4WVk3eHNYZXNZLV92WEdCTzRleWFBVmw4N2cySXAyZVBwU2F5NDhfRWxENl8xU2FxVkNkS0dianU0THhvVWwtT1c5MQ"
-    },
-    {
       "title": "The Federal Reserve's Initial July Inflation Forecast Looks Fantastic on the Surface, but Something Sinister Lurks in the Details - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNnhQbDUzLTB2eTJ5VjhQaG42NHc0cVJrNENDS3diZ0kxNTdQUmlndGFESDY0WWlORzRNZ1N2V0ctM1Z2Q2RNUFNsblRUbDF2b0Y1ZmE2YUFFVVg1S2dWOEpINEJfRVg1S05XdVJ3NWZ0anZfV1BRM3hFRzVtX3pFX0tlMDk3MVE1NUNsS3dybGY3MjRCUFFpVHdlQTlBNDNjV0Jvd0RjMA?oc=5",
       "source": "Yahoo Finance",
       "published_at": "Wed, 08 Jul 2026 08:26:00 GMT",
       "summary": "The Federal Reserve's Initial July Inflation Forecast Looks Fantastic on the Surface, but Something Sinister Lurks in the Details Yahoo Finance",
       "guid": "CBMipwFBVV95cUxNNnhQbDUzLTB2eTJ5VjhQaG42NHc0cVJrNENDS3diZ0kxNTdQUmlndGFESDY0WWlORzRNZ1N2V0ctM1Z2Q2RNUFNsblRUbDF2b0Y1ZmE2YUFFVVg1S2dWOEpINEJfRVg1S05XdVJ3NWZ0anZfV1BRM3hFRzVtX3pFX0tlMDk3MVE1NUNsS3dybGY3MjRCUFFpVHdlQTlBNDNjV0Jvd0RjMA"
+    },
+    {
+      "title": "Will the Federal Reserve Crush the Small-Cap Stock Revival? - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObEkyNnNKUlBxZndnaXkzLWZwTDdjVFFoSE04R09vQ2k5THM3dWVQVFdmU2RNcFVIMjhvdHdGYmhhelZaNnlpRkxweTd4VUYxeVVJdzNXYnNwY092MXhzU0l4WVk3eHNYZXNZLV92WEdCTzRleWFBVmw4N2cySXAyZVBwU2F5NDhfRWxENl8xU2FxVkNkS0dianU0THhvVWwtT1c5MQ?oc=5",
+      "source": "24/7 Wall St.",
+      "published_at": "Tue, 07 Jul 2026 12:03:21 GMT",
+      "summary": "Will the Federal Reserve Crush the Small-Cap Stock Revival? 24/7 Wall St.",
+      "guid": "CBMipAFBVV95cUxObEkyNnNKUlBxZndnaXkzLWZwTDdjVFFoSE04R09vQ2k5THM3dWVQVFdmU2RNcFVIMjhvdHdGYmhhelZaNnlpRkxweTd4VUYxeVVJdzNXYnNwY092MXhzU0l4WVk3eHNYZXNZLV92WEdCTzRleWFBVmw4N2cySXAyZVBwU2F5NDhfRWxENl8xU2FxVkNkS0dianU0THhvVWwtT1c5MQ"
     },
     {
       "title": "Stock market outlook: S&P 500 to lose much of 2026 gains as 'speculation is hitting extreme levels' - Fortune",
@@ -55,6 +55,14 @@
       "guid": "CBMivgFBVV95cUxQM0N3MjBOMzV3c24tR2Q4OUhXMkhzZGFpNVpHOEJqZU42SnJiel9TWFFZd2hxeFJYenZDY1h3MXJyX2FjZXF4Unl1QUhMeldPWFhUV08wM09IQTd5cW5EblEtR1JMRmJkR0t5TGJMLWxYQ01CWEhrSkl0TUdpZjc0WWFlQnIxQ2Q5dkVEWkk1WUtLOHlxY2lyOXhWUi11TE9mSE1CeV8ySm9tXy1STkJMUUVXckZCb1FpbExvWGhn"
     },
     {
+      "title": "What to Look Out for in Economic Data This Week (July 6-10) - Kiplinger",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ?oc=5",
+      "source": "Kiplinger",
+      "published_at": "Thu, 02 Jul 2026 14:35:30 GMT",
+      "summary": "What to Look Out for in Economic Data This Week (July 6-10) Kiplinger",
+      "guid": "CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ"
+    },
+    {
       "title": "Will the Federal Reserve Crush the Small-Cap Stock Revival? - AOL.com",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9HZGJHdjFiOTFBaFV4TDdhUWdWeFByaWdlVXVXZjhMc3dfZjNWZkRUTWxGNDZQWVptUmg3bGFVdjVyN0M5LVJUS29JNElPd2ZIajdVWGQzTl9DWjVGSXpZVWNQWXN5aEtLZWR4dGlFODMyUlFIS1VzVzR3WVRYZw?oc=5",
       "source": "AOL.com",
@@ -63,20 +71,12 @@
       "guid": "CBMifkFVX3lxTE9HZGJHdjFiOTFBaFV4TDdhUWdWeFByaWdlVXVXZjhMc3dfZjNWZkRUTWxGNDZQWVptUmg3bGFVdjVyN0M5LVJUS29JNElPd2ZIajdVWGQzTl9DWjVGSXpZVWNQWXN5aEtLZWR4dGlFODMyUlFIS1VzVzR3WVRYZw"
     },
     {
-      "title": "Will the Federal Reserve Crush the Small-Cap Stock Revival? - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQR3NLTHJka1BxdEVlUlZjUmRFVl9kbU15Z2JYTEdMTk45M3E1NFR2Y3p6aTRmLUZrbWhpM3ZUY0NVc0dFYW0yZzd2T2R1LVRxcGJyX0dUd2Z4MTZhczFfYS0xLUxzUlBRZEFfejVhMU9SUG56QmIxUzkxZXlLWjVSM050ZnA5OTRCTndEc0cyRWVPSjRsQ1N4NVl3?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Tue, 07 Jul 2026 12:03:21 GMT",
-      "summary": "Will the Federal Reserve Crush the Small-Cap Stock Revival? Yahoo Finance",
-      "guid": "CBMimgFBVV95cUxQR3NLTHJka1BxdEVlUlZjUmRFVl9kbU15Z2JYTEdMTk45M3E1NFR2Y3p6aTRmLUZrbWhpM3ZUY0NVc0dFYW0yZzd2T2R1LVRxcGJyX0dUd2Z4MTZhczFfYS0xLUxzUlBRZEFfejVhMU9SUG56QmIxUzkxZXlLWjVSM050ZnA5OTRCTndEc0cyRWVPSjRsQ1N4NVl3"
-    },
-    {
-      "title": "What to Look Out for in Economic Data This Week (July 6-10) - Kiplinger",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ?oc=5",
-      "source": "Kiplinger",
-      "published_at": "Thu, 02 Jul 2026 14:35:30 GMT",
-      "summary": "What to Look Out for in Economic Data This Week (July 6-10) Kiplinger",
-      "guid": "CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ"
+      "title": "US-Iran Tensions Spark Oil Price Surge and Stock Market Slide - Devdiscourse",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ0V5WFFKRUh3VEJJd3F6b3BLaEJxQmQwMzFBVHFtTEZoOE9jQlJLMUtMMDdFOTFHY3N5SENabmNmZ0RqVU9rQU9ET0ZGWlpNZUdVREczNC1aN18wTE9EWFVoc2tUR1Fqc1pFbHNsLVlfZ2c1a0dWMzZpa09WWlBrejhyOUtsM2dDS2hMVG9SelZKcmYwVEZpNXllMFRKRmJkQnRmWGpsUHRrLWhXS21lVWp3aGJUd9IBuwFBVV95cUxPRWwtVTlxSmdlXzllZ1RaRHdtZDRpN3U3bjlacU1LemZLZk56UDZQWTRfcWhCc294OGxVREFLeXdhQjYxRXlRWEdJZGotX0xraE0wcEQ4cG5XaVF2aWZqTl83dGhFbzZ0a0YtamdFRU1hSzhtZllMRzQzYm1lX2p2cGp2Z21BNFo5YWtKSE9RRXB4QjJjblhJSDFFbGQ2X0RmWnEtazRjUUhrc0VGYjRvbHNFZHRNRGt3OWNv?oc=5",
+      "source": "Devdiscourse",
+      "published_at": "Wed, 08 Jul 2026 09:15:21 GMT",
+      "summary": "US-Iran Tensions Spark Oil Price Surge and Stock Market Slide Devdiscourse",
+      "guid": "CBMitgFBVV95cUxQQ0V5WFFKRUh3VEJJd3F6b3BLaEJxQmQwMzFBVHFtTEZoOE9jQlJLMUtMMDdFOTFHY3N5SENabmNmZ0RqVU9rQU9ET0ZGWlpNZUdVREczNC1aN18wTE9EWFVoc2tUR1Fqc1pFbHNsLVlfZ2c1a0dWMzZpa09WWlBrejhyOUtsM2dDS2hMVG9SelZKcmYwVEZpNXllMFRKRmJkQnRmWGpsUHRrLWhXS21lVWp3aGJUd9IBuwFBVV95cUxPRWwtVTlxSmdlXzllZ1RaRHdtZDRpN3U3bjlacU1LemZLZk56UDZQWTRfcWhCc294OGxVREFLeXdhQjYxRXlRWEdJZGotX0xraE0wcEQ4cG5XaVF2aWZqTl83dGhFbzZ0a0YtamdFRU1hSzhtZllMRzQzYm1lX2p2cGp2Z21BNFo5YWtKSE9RRXB4QjJjblhJSDFFbGQ2X0RmWnEtazRjUUhrc0VGYjRvbHNFZHRNRGt3OWNv"
     },
     {
       "title": "US stocks sink on worries about a possible hike to interest rates this year by the Federal Reserve - AP News",
