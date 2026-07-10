@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-07-10T17:05:00Z",
+  "generated_at": "2026-07-10T18:42:28Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "Chip rally, Fed task forces, Delta earnings and more in Morning Squawk - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWS11MTZNS25JRlZ4dnpHNHdqQllwNUdlS0dkdU5HdUpXVndHU194Y1g5X1Z1bzdVLUlRQVFZZloxNkYwelh3MGtwRWtRNHBzUjh6N3FZUUZISUVlN2U4TEw1WjdNWFFnZW95amZYSk9uOXBNaVZoc015MGdfMU5yVU1MSnYyTHo2VzM5c1dXX0TSAZABQVVfeXFMTVktdTE2TUtuSUZWeHZ6RzR3akJZcDVHZUtHZHVOR3VKV1Z3R1NfeGNYOV9WdW83VS1JUUFRWWZaMTZGMHpYdzBrcEVrUTRwc1I4ejdxWVFGSElFZTdlOExMNVo3TVhRZ2VveWpmWEpPbjlwTWlWaHNNeTBnXzFOclVNTEp2Mkx6NlczOXNXV19E?oc=5",
+      "source": "CNBC",
+      "published_at": "Fri, 10 Jul 2026 12:46:38 GMT",
+      "summary": "Chip rally, Fed task forces, Delta earnings and more in Morning Squawk CNBC",
+      "guid": "CBMikAFBVV95cUxNWS11MTZNS25JRlZ4dnpHNHdqQllwNUdlS0dkdU5HdUpXVndHU194Y1g5X1Z1bzdVLUlRQVFZZloxNkYwelh3MGtwRWtRNHBzUjh6N3FZUUZISUVlN2U4TEw1WjdNWFFnZW95amZYSk9uOXBNaVZoc015MGdfMU5yVU1MSnYyTHo2VzM5c1dXX0TSAZABQVVfeXFMTVktdTE2TUtuSUZWeHZ6RzR3akJZcDVHZUtHZHVOR3VKV1Z3R1NfeGNYOV9WdW83VS1JUUFRWWZaMTZGMHpYdzBrcEVrUTRwc1I4ejdxWVFGSElFZTdlOExMNVo3TVhRZ2VveWpmWEpPbjlwTWlWaHNNeTBnXzFOclVNTEp2Mkx6NlczOXNXV19E"
+    },
     {
       "title": "Tensions with Iran add fresh uncertainty to an already shaky global economy - NPR",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS2lrWS1DSHFVdzNGdU1TcnJqNHpEYmxFU1J4T3prS09QaGNpTGE1SlA5LXZabUZIYXdaSWNuQjZZemxKMzlrbUV5dTh1OGZSSUFvdkNsX0prYlhNajAxNV9YRmwwQTIxcTgyV0xIeWpHVVZnejBJU3dnTnpQNW81SlNfek5IdjY2c29HdmdBUmhYTTBqMUtYdWRYTQ?oc=5",
@@ -53,14 +61,6 @@
       "published_at": "Thu, 09 Jul 2026 03:57:52 GMT",
       "summary": "A U.S. stock market crash is forcing the Federal Reserve to step in with rescue measures, potentially creating a new catalyst for a Bitcoin price surge. Moomoo",
       "guid": "CBMinAFBVV95cUxNM0taaUpJRHBGd3lORmpkUnJUR2h5X002Z083ekJkUFRSb3plUGdZR25CLVVqNVZPZVd4dXJUc1Y2XzVkLVFhVE42SDE5Q3d3bFphWUJoUGh6VnlkcC00dFhhamVxRnBXY0xVMWxaSTVZS0lJc0tnZVpjMzltSjY4QnRMcGt6Q1hoUzBwNWF2WHdvQzFLd0txSU1aVG0"
-    },
-    {
-      "title": "US stocks sink on worries about a possible hike to interest rates this year by the Federal Reserve - AP News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcUlFaFNwNVNsa1RTZTFkTEhaMmhGLXBpZnZjeVAwaDBSSzRjZUFIMTQ3UTctckwtOXRvUDB6c0sxUGVlRWY5SUM5ZUllV1doQVhoLWkyd3IxdFdkRWJGY2J0ZGxyNmNwTEU3LVVBdDlXWVlxM2QtdGpHWmtBMGl0WkFWQzNucTVFTF9lelY3ZjdXNzFYeDhN?oc=5",
-      "source": "AP News",
-      "published_at": "Wed, 17 Jun 2026 07:00:00 GMT",
-      "summary": "US stocks sink on worries about a possible hike to interest rates this year by the Federal Reserve AP News",
-      "guid": "CBMilwFBVV95cUxQcUlFaFNwNVNsa1RTZTFkTEhaMmhGLXBpZnZjeVAwaDBSSzRjZUFIMTQ3UTctckwtOXRvUDB6c0sxUGVlRWY5SUM5ZUllV1doQVhoLWkyd3IxdFdkRWJGY2J0ZGxyNmNwTEU3LVVBdDlXWVlxM2QtdGpHWmtBMGl0WkFWQzNucTVFTF9lelY3ZjdXNzFYeDhN"
     },
     {
       "title": "Federal Reserve Interest Rate Decision July 2026: Market Impact Analysis - Intellectia AI",
