@@ -1,19 +1,11 @@
 {
-  "generated_at": "2026-07-10T06:13:40Z",
+  "generated_at": "2026-07-10T09:52:12Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
-    {
-      "title": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says a Big Drop Could Follow. - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSG5UVUo2Qjc0QmZXVkZkVG5DNDFUMHJVT3ZDUHZzOFBVOXVuWk55aE9ZcDVOVEFJa3Y5ZHpjNWx4YWgtb3VfSjRHQUJXMFJIV3lPcTFDSjFadXBmdENDeGx2eGMyZ2NVRjM2Mk9RYlU3X1B2OGMwWmR6ajgtMWxQUmFCMER2R1gxZk52LVZYWW1lVkxxeWp2S3dpVjA?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Wed, 01 Jul 2026 07:00:00 GMT",
-      "summary": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says a Big Drop Could Follow. Yahoo Finance",
-      "guid": "CBMinAFBVV95cUxPSG5UVUo2Qjc0QmZXVkZkVG5DNDFUMHJVT3ZDUHZzOFBVOXVuWk55aE9ZcDVOVEFJa3Y5ZHpjNWx4YWgtb3VfSjRHQUJXMFJIV3lPcTFDSjFadXBmdENDeGx2eGMyZ2NVRjM2Mk9RYlU3X1B2OGMwWmR6ajgtMWxQUmFCMER2R1gxZk52LVZYWW1lVkxxeWp2S3dpVjA"
-    },
     {
       "title": "Tensions with Iran add fresh uncertainty to an already shaky global economy - NPR",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS2lrWS1DSHFVdzNGdU1TcnJqNHpEYmxFU1J4T3prS09QaGNpTGE1SlA5LXZabUZIYXdaSWNuQjZZemxKMzlrbUV5dTh1OGZSSUFvdkNsX0prYlhNajAxNV9YRmwwQTIxcTgyV0xIeWpHVVZnejBJU3dnTnpQNW81SlNfek5IdjY2c29HdmdBUmhYTTBqMUtYdWRYTQ?oc=5",
@@ -23,12 +15,12 @@
       "guid": "CBMimwFBVV95cUxPS2lrWS1DSHFVdzNGdU1TcnJqNHpEYmxFU1J4T3prS09QaGNpTGE1SlA5LXZabUZIYXdaSWNuQjZZemxKMzlrbUV5dTh1OGZSSUFvdkNsX0prYlhNajAxNV9YRmwwQTIxcTgyV0xIeWpHVVZnejBJU3dnTnpQNW81SlNfek5IdjY2c29HdmdBUmhYTTBqMUtYdWRYTQ"
     },
     {
-      "title": "Will the Stock Market Crash in 2026? The Federal Reserve Sends a Silent Warning to Investors. - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2ejFUWVJBbUxaRHM5d0thNTQxbHlOUzdaeDVmTENISElyNFFQbGFma085aHI0YURuMHk5RUdoOTRrQ29kNzVwb2pRM0VIR3FfcklUckx5YTNsaHlQSTBhN0tfY0hnMzE0OVpfT3BrTjBWbEJ5UEdERU9yTjNQNG8?oc=5",
-      "source": "AOL.com",
-      "published_at": "Wed, 08 Jul 2026 23:40:56 GMT",
-      "summary": "Will the Stock Market Crash in 2026? The Federal Reserve Sends a Silent Warning to Investors. AOL.com",
-      "guid": "CBMif0FVX3lxTFA2ejFUWVJBbUxaRHM5d0thNTQxbHlOUzdaeDVmTENISElyNFFQbGFma085aHI0YURuMHk5RUdoOTRrQ29kNzVwb2pRM0VIR3FfcklUckx5YTNsaHlQSTBhN0tfY0hnMzE0OVpfT3BrTjBWbEJ5UEdERU9yTjNQNG8"
+      "title": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says a Big Drop Could Follow. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSG5UVUo2Qjc0QmZXVkZkVG5DNDFUMHJVT3ZDUHZzOFBVOXVuWk55aE9ZcDVOVEFJa3Y5ZHpjNWx4YWgtb3VfSjRHQUJXMFJIV3lPcTFDSjFadXBmdENDeGx2eGMyZ2NVRjM2Mk9RYlU3X1B2OGMwWmR6ajgtMWxQUmFCMER2R1gxZk52LVZYWW1lVkxxeWp2S3dpVjA?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Wed, 01 Jul 2026 07:00:00 GMT",
+      "summary": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says a Big Drop Could Follow. Yahoo Finance",
+      "guid": "CBMinAFBVV95cUxPSG5UVUo2Qjc0QmZXVkZkVG5DNDFUMHJVT3ZDUHZzOFBVOXVuWk55aE9ZcDVOVEFJa3Y5ZHpjNWx4YWgtb3VfSjRHQUJXMFJIV3lPcTFDSjFadXBmdENDeGx2eGMyZ2NVRjM2Mk9RYlU3X1B2OGMwWmR6ajgtMWxQUmFCMER2R1gxZk52LVZYWW1lVkxxeWp2S3dpVjA"
     },
     {
       "title": "Will the Federal Reserve Crush the Small-Cap Stock Revival? - 24/7 Wall St.",
@@ -39,12 +31,12 @@
       "guid": "CBMipAFBVV95cUxObEkyNnNKUlBxZndnaXkzLWZwTDdjVFFoSE04R09vQ2k5THM3dWVQVFdmU2RNcFVIMjhvdHdGYmhhelZaNnlpRkxweTd4VUYxeVVJdzNXYnNwY092MXhzU0l4WVk3eHNYZXNZLV92WEdCTzRleWFBVmw4N2cySXAyZVBwU2F5NDhfRWxENl8xU2FxVkNkS0dianU0THhvVWwtT1c5MQ"
     },
     {
-      "title": "A U.S. stock market crash is forcing the Federal Reserve to step in with rescue measures, potentially creating a new catalyst for a Bitcoin price surge. - Moomoo",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNM0taaUpJRHBGd3lORmpkUnJUR2h5X002Z083ekJkUFRSb3plUGdZR25CLVVqNVZPZVd4dXJUc1Y2XzVkLVFhVE42SDE5Q3d3bFphWUJoUGh6VnlkcC00dFhhamVxRnBXY0xVMWxaSTVZS0lJc0tnZVpjMzltSjY4QnRMcGt6Q1hoUzBwNWF2WHdvQzFLd0txSU1aVG0?oc=5",
-      "source": "Moomoo",
-      "published_at": "Thu, 09 Jul 2026 03:57:52 GMT",
-      "summary": "A U.S. stock market crash is forcing the Federal Reserve to step in with rescue measures, potentially creating a new catalyst for a Bitcoin price surge. Moomoo",
-      "guid": "CBMinAFBVV95cUxNM0taaUpJRHBGd3lORmpkUnJUR2h5X002Z083ekJkUFRSb3plUGdZR25CLVVqNVZPZVd4dXJUc1Y2XzVkLVFhVE42SDE5Q3d3bFphWUJoUGh6VnlkcC00dFhhamVxRnBXY0xVMWxaSTVZS0lJc0tnZVpjMzltSjY4QnRMcGt6Q1hoUzBwNWF2WHdvQzFLd0txSU1aVG0"
+      "title": "Will the Stock Market Crash in 2026? The Federal Reserve Sends a Silent Warning to Investors. - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2ejFUWVJBbUxaRHM5d0thNTQxbHlOUzdaeDVmTENISElyNFFQbGFma085aHI0YURuMHk5RUdoOTRrQ29kNzVwb2pRM0VIR3FfcklUckx5YTNsaHlQSTBhN0tfY0hnMzE0OVpfT3BrTjBWbEJ5UEdERU9yTjNQNG8?oc=5",
+      "source": "AOL.com",
+      "published_at": "Wed, 08 Jul 2026 23:40:56 GMT",
+      "summary": "Will the Stock Market Crash in 2026? The Federal Reserve Sends a Silent Warning to Investors. AOL.com",
+      "guid": "CBMif0FVX3lxTFA2ejFUWVJBbUxaRHM5d0thNTQxbHlOUzdaeDVmTENISElyNFFQbGFma085aHI0YURuMHk5RUdoOTRrQ29kNzVwb2pRM0VIR3FfcklUckx5YTNsaHlQSTBhN0tfY0hnMzE0OVpfT3BrTjBWbEJ5UEdERU9yTjNQNG8"
     },
     {
       "title": "Treasury Yields Surge As Markets Bet On September Hike - Investor's Business Daily",
@@ -55,28 +47,12 @@
       "guid": "CBMiogFBVV95cUxOdkJCN3U0cVJ3OUlVdkNscHNQOWtqeTk3dkNIZ0tBVHZzWW9LUEQtWUwyN0JiSENKQmtfQzcxZ00wSmhuNnYtOEIwUjJ5RmcxZlJfeHRZMFYzTE5USjVjaGd2UlctSVZCbTRPUFRnbEc1ak1VdkZ6NGV1MFdueWtVU21EWnRrX1FreUNRalEwUEE0NEZKVVAzYlB0X201MWp1WEE"
     },
     {
-      "title": "CAPITAL IDEAS: What happens to the stock market if the Federal Reserve raises interest rates? - The Berkshire Edge",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQM0N3MjBOMzV3c24tR2Q4OUhXMkhzZGFpNVpHOEJqZU42SnJiel9TWFFZd2hxeFJYenZDY1h3MXJyX2FjZXF4Unl1QUhMeldPWFhUV08wM09IQTd5cW5EblEtR1JMRmJkR0t5TGJMLWxYQ01CWEhrSkl0TUdpZjc0WWFlQnIxQ2Q5dkVEWkk1WUtLOHlxY2lyOXhWUi11TE9mSE1CeV8ySm9tXy1STkJMUUVXckZCb1FpbExvWGhn?oc=5",
-      "source": "The Berkshire Edge",
-      "published_at": "Mon, 29 Jun 2026 07:00:00 GMT",
-      "summary": "CAPITAL IDEAS: What happens to the stock market if the Federal Reserve raises interest rates? The Berkshire Edge",
-      "guid": "CBMivgFBVV95cUxQM0N3MjBOMzV3c24tR2Q4OUhXMkhzZGFpNVpHOEJqZU42SnJiel9TWFFZd2hxeFJYenZDY1h3MXJyX2FjZXF4Unl1QUhMeldPWFhUV08wM09IQTd5cW5EblEtR1JMRmJkR0t5TGJMLWxYQ01CWEhrSkl0TUdpZjc0WWFlQnIxQ2Q5dkVEWkk1WUtLOHlxY2lyOXhWUi11TE9mSE1CeV8ySm9tXy1STkJMUUVXckZCb1FpbExvWGhn"
-    },
-    {
-      "title": "How the Federal Reserve Learned to Love Bubbles - Michael Hudson",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxON3h5bF95X1p4dHJEeU1LSk8yLTFGNlhnYjZLb3NLcFdyWjM1SlU2RjByYTFVbGxTMnpfY25pZVRFb1RGNlhzZHQyLUMydFhHX2lvajQ0ZVhjWExxVXZ6UWhEWEhpSEp1SmdxanB1cjRYQVNXM19BS2NTZTVGV053SEtJRXFVR0xMMTc4?oc=5",
-      "source": "Michael Hudson",
-      "published_at": "Tue, 07 Jul 2026 12:17:45 GMT",
-      "summary": "How the Federal Reserve Learned to Love Bubbles Michael Hudson",
-      "guid": "CBMiiwFBVV95cUxON3h5bF95X1p4dHJEeU1LSk8yLTFGNlhnYjZLb3NLcFdyWjM1SlU2RjByYTFVbGxTMnpfY25pZVRFb1RGNlhzZHQyLUMydFhHX2lvajQ0ZVhjWExxVXZ6UWhEWEhpSEp1SmdxanB1cjRYQVNXM19BS2NTZTVGV053SEtJRXFVR0xMMTc4"
-    },
-    {
-      "title": "The Federal Reserve's Initial July Inflation Forecast Looks Fantastic on the Surface, but Something Sinister Lurks in the Details - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNnhQbDUzLTB2eTJ5VjhQaG42NHc0cVJrNENDS3diZ0kxNTdQUmlndGFESDY0WWlORzRNZ1N2V0ctM1Z2Q2RNUFNsblRUbDF2b0Y1ZmE2YUFFVVg1S2dWOEpINEJfRVg1S05XdVJ3NWZ0anZfV1BRM3hFRzVtX3pFX0tlMDk3MVE1NUNsS3dybGY3MjRCUFFpVHdlQTlBNDNjV0Jvd0RjMA?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Wed, 08 Jul 2026 08:26:00 GMT",
-      "summary": "The Federal Reserve's Initial July Inflation Forecast Looks Fantastic on the Surface, but Something Sinister Lurks in the Details Yahoo Finance",
-      "guid": "CBMipwFBVV95cUxNNnhQbDUzLTB2eTJ5VjhQaG42NHc0cVJrNENDS3diZ0kxNTdQUmlndGFESDY0WWlORzRNZ1N2V0ctM1Z2Q2RNUFNsblRUbDF2b0Y1ZmE2YUFFVVg1S2dWOEpINEJfRVg1S05XdVJ3NWZ0anZfV1BRM3hFRzVtX3pFX0tlMDk3MVE1NUNsS3dybGY3MjRCUFFpVHdlQTlBNDNjV0Jvd0RjMA"
+      "title": "A U.S. stock market crash is forcing the Federal Reserve to step in with rescue measures, potentially creating a new catalyst for a Bitcoin price surge. - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNM0taaUpJRHBGd3lORmpkUnJUR2h5X002Z083ekJkUFRSb3plUGdZR25CLVVqNVZPZVd4dXJUc1Y2XzVkLVFhVE42SDE5Q3d3bFphWUJoUGh6VnlkcC00dFhhamVxRnBXY0xVMWxaSTVZS0lJc0tnZVpjMzltSjY4QnRMcGt6Q1hoUzBwNWF2WHdvQzFLd0txSU1aVG0?oc=5",
+      "source": "Moomoo",
+      "published_at": "Thu, 09 Jul 2026 03:57:52 GMT",
+      "summary": "A U.S. stock market crash is forcing the Federal Reserve to step in with rescue measures, potentially creating a new catalyst for a Bitcoin price surge. Moomoo",
+      "guid": "CBMinAFBVV95cUxNM0taaUpJRHBGd3lORmpkUnJUR2h5X002Z083ekJkUFRSb3plUGdZR25CLVVqNVZPZVd4dXJUc1Y2XzVkLVFhVE42SDE5Q3d3bFphWUJoUGh6VnlkcC00dFhhamVxRnBXY0xVMWxaSTVZS0lJc0tnZVpjMzltSjY4QnRMcGt6Q1hoUzBwNWF2WHdvQzFLd0txSU1aVG0"
     },
     {
       "title": "US stocks sink on worries about a possible hike to interest rates this year by the Federal Reserve - AP News",
@@ -85,6 +61,30 @@
       "published_at": "Wed, 17 Jun 2026 07:00:00 GMT",
       "summary": "US stocks sink on worries about a possible hike to interest rates this year by the Federal Reserve AP News",
       "guid": "CBMilwFBVV95cUxQcUlFaFNwNVNsa1RTZTFkTEhaMmhGLXBpZnZjeVAwaDBSSzRjZUFIMTQ3UTctckwtOXRvUDB6c0sxUGVlRWY5SUM5ZUllV1doQVhoLWkyd3IxdFdkRWJGY2J0ZGxyNmNwTEU3LVVBdDlXWVlxM2QtdGpHWmtBMGl0WkFWQzNucTVFTF9lelY3ZjdXNzFYeDhN"
+    },
+    {
+      "title": "CAPITAL IDEAS: What happens to the stock market if the Federal Reserve raises interest rates? - The Berkshire Edge",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQM0N3MjBOMzV3c24tR2Q4OUhXMkhzZGFpNVpHOEJqZU42SnJiel9TWFFZd2hxeFJYenZDY1h3MXJyX2FjZXF4Unl1QUhMeldPWFhUV08wM09IQTd5cW5EblEtR1JMRmJkR0t5TGJMLWxYQ01CWEhrSkl0TUdpZjc0WWFlQnIxQ2Q5dkVEWkk1WUtLOHlxY2lyOXhWUi11TE9mSE1CeV8ySm9tXy1STkJMUUVXckZCb1FpbExvWGhn?oc=5",
+      "source": "The Berkshire Edge",
+      "published_at": "Mon, 29 Jun 2026 07:00:00 GMT",
+      "summary": "CAPITAL IDEAS: What happens to the stock market if the Federal Reserve raises interest rates? The Berkshire Edge",
+      "guid": "CBMivgFBVV95cUxQM0N3MjBOMzV3c24tR2Q4OUhXMkhzZGFpNVpHOEJqZU42SnJiel9TWFFZd2hxeFJYenZDY1h3MXJyX2FjZXF4Unl1QUhMeldPWFhUV08wM09IQTd5cW5EblEtR1JMRmJkR0t5TGJMLWxYQ01CWEhrSkl0TUdpZjc0WWFlQnIxQ2Q5dkVEWkk1WUtLOHlxY2lyOXhWUi11TE9mSE1CeV8ySm9tXy1STkJMUUVXckZCb1FpbExvWGhn"
+    },
+    {
+      "title": "US Stock Market: Fed's Williams sees energy prices easing despite Middle East tensions, keeps options open - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPNTN4ZElEMVRVRml1LVBKdkU1T3h2TzRIMDhuQWIzTkpRVzkzbE84TkNyanFrWkpBNzFyM3ZYQXN2NHV6cFBmakJnMU1ESVNyQ1ZKdmFxNWVEd1V1RFEzbEtXbGNoVEEtOHBxLW9EN3hZbTREaXNLaXQ1TU9XbHB1ZzlBTTJhRjRpM09OMFpUdFlXRElpeldzWkhybnJaM20zekY0bzdOanc0cEY1N2VRaU5Td1l6X2RMVTNDYUg3NWUzNVlkblRDeHpfX2Y1R3k5QlNuZDhOX1ZUU3FlRTBkeW84MndWZEhzVlJFajEwcmJfN2hFSEhiS1BsSi1YUDYzQWFjSHdReHBPOElyaTlJaWwtUFpTd0lfSGdSVlpPX3VxUlZYOUtSaW5R0gGvAkFVX3lxTE1FVTVHYnJvakpkUy02eVV1cmMwY0Qwd3ptNEpIekVsdVAyX3dlV205bk16MWM3TzdvcGQ3cTNOa3BfMEhjR1BnVzBpemFXa2Q4Tk1JZ1J2R1dzbldWSnVYZmJIS2RvM0tsQnBhM1FnUS1xYUZSTUdic0hzeWlBMWJjc19Na1JSY1k0ano1RUQ2cHVQcjF6eDdPM1VVQlY4ZlR0UEMzRGlaNEktSmlOdV9teXk3a1JObGRIOVZackUxREVVTmdzZzFaZ01WYWtfRVBUV25Wank0a1VTdTFCQ2JMVFdPalFja291RTZFVzJFRVJZNmtxRDc0NlY3RGpJQnkteWRZV1UyTUkzeHBGWHdQNmtyOFNqdS1OUmJPOGlOUEg4cmhNZUlYQ3hoS0RLbw?oc=5",
+      "source": "The Economic Times",
+      "published_at": "Fri, 10 Jul 2026 06:10:14 GMT",
+      "summary": "US Stock Market: Fed's Williams sees energy prices easing despite Middle East tensions, keeps options open The Economic Times",
+      "guid": "CBMiqgJBVV95cUxPNTN4ZElEMVRVRml1LVBKdkU1T3h2TzRIMDhuQWIzTkpRVzkzbE84TkNyanFrWkpBNzFyM3ZYQXN2NHV6cFBmakJnMU1ESVNyQ1ZKdmFxNWVEd1V1RFEzbEtXbGNoVEEtOHBxLW9EN3hZbTREaXNLaXQ1TU9XbHB1ZzlBTTJhRjRpM09OMFpUdFlXRElpeldzWkhybnJaM20zekY0bzdOanc0cEY1N2VRaU5Td1l6X2RMVTNDYUg3NWUzNVlkblRDeHpfX2Y1R3k5QlNuZDhOX1ZUU3FlRTBkeW84MndWZEhzVlJFajEwcmJfN2hFSEhiS1BsSi1YUDYzQWFjSHdReHBPOElyaTlJaWwtUFpTd0lfSGdSVlpPX3VxUlZYOUtSaW5R0gGvAkFVX3lxTE1FVTVHYnJvakpkUy02eVV1cmMwY0Qwd3ptNEpIekVsdVAyX3dlV205bk16MWM3TzdvcGQ3cTNOa3BfMEhjR1BnVzBpemFXa2Q4Tk1JZ1J2R1dzbldWSnVYZmJIS2RvM0tsQnBhM1FnUS1xYUZSTUdic0hzeWlBMWJjc19Na1JSY1k0ano1RUQ2cHVQcjF6eDdPM1VVQlY4ZlR0UEMzRGlaNEktSmlOdV9teXk3a1JObGRIOVZackUxREVVTmdzZzFaZ01WYWtfRVBUV25Wank0a1VTdTFCQ2JMVFdPalFja291RTZFVzJFRVJZNmtxRDc0NlY3RGpJQnkteWRZV1UyTUkzeHBGWHdQNmtyOFNqdS1OUmJPOGlOUEg4cmhNZUlYQ3hoS0RLbw"
+    },
+    {
+      "title": "How the Federal Reserve Learned to Love Bubbles - Michael Hudson",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxON3h5bF95X1p4dHJEeU1LSk8yLTFGNlhnYjZLb3NLcFdyWjM1SlU2RjByYTFVbGxTMnpfY25pZVRFb1RGNlhzZHQyLUMydFhHX2lvajQ0ZVhjWExxVXZ6UWhEWEhpSEp1SmdxanB1cjRYQVNXM19BS2NTZTVGV053SEtJRXFVR0xMMTc4?oc=5",
+      "source": "Michael Hudson",
+      "published_at": "Tue, 07 Jul 2026 12:17:45 GMT",
+      "summary": "How the Federal Reserve Learned to Love Bubbles Michael Hudson",
+      "guid": "CBMiiwFBVV95cUxON3h5bF95X1p4dHJEeU1LSk8yLTFGNlhnYjZLb3NLcFdyWjM1SlU2RjByYTFVbGxTMnpfY25pZVRFb1RGNlhzZHQyLUMydFhHX2lvajQ0ZVhjWExxVXZ6UWhEWEhpSEp1SmdxanB1cjRYQVNXM19BS2NTZTVGV053SEtJRXFVR0xMMTc4"
     }
   ]
 }
