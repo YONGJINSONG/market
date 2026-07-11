@@ -1,19 +1,11 @@
 {
-  "generated_at": "2026-07-10T23:28:15Z",
+  "generated_at": "2026-07-11T00:55:28Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
-    {
-      "title": "Chip rally, Fed task forces, Delta earnings and more in Morning Squawk - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWS11MTZNS25JRlZ4dnpHNHdqQllwNUdlS0dkdU5HdUpXVndHU194Y1g5X1Z1bzdVLUlRQVFZZloxNkYwelh3MGtwRWtRNHBzUjh6N3FZUUZISUVlN2U4TEw1WjdNWFFnZW95amZYSk9uOXBNaVZoc015MGdfMU5yVU1MSnYyTHo2VzM5c1dXX0TSAZABQVVfeXFMTVktdTE2TUtuSUZWeHZ6RzR3akJZcDVHZUtHZHVOR3VKV1Z3R1NfeGNYOV9WdW83VS1JUUFRWWZaMTZGMHpYdzBrcEVrUTRwc1I4ejdxWVFGSElFZTdlOExMNVo3TVhRZ2VveWpmWEpPbjlwTWlWaHNNeTBnXzFOclVNTEp2Mkx6NlczOXNXV19E?oc=5",
-      "source": "CNBC",
-      "published_at": "Fri, 10 Jul 2026 12:46:38 GMT",
-      "summary": "Chip rally, Fed task forces, Delta earnings and more in Morning Squawk CNBC",
-      "guid": "CBMikAFBVV95cUxNWS11MTZNS25JRlZ4dnpHNHdqQllwNUdlS0dkdU5HdUpXVndHU194Y1g5X1Z1bzdVLUlRQVFZZloxNkYwelh3MGtwRWtRNHBzUjh6N3FZUUZISUVlN2U4TEw1WjdNWFFnZW95amZYSk9uOXBNaVZoc015MGdfMU5yVU1MSnYyTHo2VzM5c1dXX0TSAZABQVVfeXFMTVktdTE2TUtuSUZWeHZ6RzR3akJZcDVHZUtHZHVOR3VKV1Z3R1NfeGNYOV9WdW83VS1JUUFRWWZaMTZGMHpYdzBrcEVrUTRwc1I4ejdxWVFGSElFZTdlOExMNVo3TVhRZ2VveWpmWEpPbjlwTWlWaHNNeTBnXzFOclVNTEp2Mkx6NlczOXNXV19E"
-    },
     {
       "title": "Tensions with Iran add fresh uncertainty to an already shaky global economy - NPR",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS2lrWS1DSHFVdzNGdU1TcnJqNHpEYmxFU1J4T3prS09QaGNpTGE1SlA5LXZabUZIYXdaSWNuQjZZemxKMzlrbUV5dTh1OGZSSUFvdkNsX0prYlhNajAxNV9YRmwwQTIxcTgyV0xIeWpHVVZnejBJU3dnTnpQNW81SlNfek5IdjY2c29HdmdBUmhYTTBqMUtYdWRYTQ?oc=5",
@@ -23,10 +15,18 @@
       "guid": "CBMimwFBVV95cUxPS2lrWS1DSHFVdzNGdU1TcnJqNHpEYmxFU1J4T3prS09QaGNpTGE1SlA5LXZabUZIYXdaSWNuQjZZemxKMzlrbUV5dTh1OGZSSUFvdkNsX0prYlhNajAxNV9YRmwwQTIxcTgyV0xIeWpHVVZnejBJU3dnTnpQNW81SlNfek5IdjY2c29HdmdBUmhYTTBqMUtYdWRYTQ"
     },
     {
+      "title": "Chip rally, Fed task forces, Delta earnings and more in Morning Squawk - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWS11MTZNS25JRlZ4dnpHNHdqQllwNUdlS0dkdU5HdUpXVndHU194Y1g5X1Z1bzdVLUlRQVFZZloxNkYwelh3MGtwRWtRNHBzUjh6N3FZUUZISUVlN2U4TEw1WjdNWFFnZW95amZYSk9uOXBNaVZoc015MGdfMU5yVU1MSnYyTHo2VzM5c1dXX0TSAZABQVVfeXFMTVktdTE2TUtuSUZWeHZ6RzR3akJZcDVHZUtHZHVOR3VKV1Z3R1NfeGNYOV9WdW83VS1JUUFRWWZaMTZGMHpYdzBrcEVrUTRwc1I4ejdxWVFGSElFZTdlOExMNVo3TVhRZ2VveWpmWEpPbjlwTWlWaHNNeTBnXzFOclVNTEp2Mkx6NlczOXNXV19E?oc=5",
+      "source": "CNBC",
+      "published_at": "Fri, 10 Jul 2026 12:46:38 GMT",
+      "summary": "Chip rally, Fed task forces, Delta earnings and more in Morning Squawk CNBC",
+      "guid": "CBMikAFBVV95cUxNWS11MTZNS25JRlZ4dnpHNHdqQllwNUdlS0dkdU5HdUpXVndHU194Y1g5X1Z1bzdVLUlRQVFZZloxNkYwelh3MGtwRWtRNHBzUjh6N3FZUUZISUVlN2U4TEw1WjdNWFFnZW95amZYSk9uOXBNaVZoc015MGdfMU5yVU1MSnYyTHo2VzM5c1dXX0TSAZABQVVfeXFMTVktdTE2TUtuSUZWeHZ6RzR3akJZcDVHZUtHZHVOR3VKV1Z3R1NfeGNYOV9WdW83VS1JUUFRWWZaMTZGMHpYdzBrcEVrUTRwc1I4ejdxWVFGSElFZTdlOExMNVo3TVhRZ2VveWpmWEpPbjlwTWlWaHNNeTBnXzFOclVNTEp2Mkx6NlczOXNXV19E"
+    },
+    {
       "title": "What the rise in \"real yields\" says about markets - Axios",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBUUmVpYnRPUUVrZkp4YVkyLUo0YjR5dnpjakNURHJ3MWJ6MjZtcEZ6ZmhheWFtOEtGUlY1OWNBZTNtY04wbG82anJZVVhwVDlOdnN4c2VGS0ZzYlRtSE1KQWw4NFVqWmp1bGRxZl8xVEY?oc=5",
       "source": "Axios",
-      "published_at": "Fri, 10 Jul 2026 11:11:29 GMT",
+      "published_at": "Fri, 10 Jul 2026 11:10:41 GMT",
       "summary": "What the rise in \"real yields\" says about markets Axios",
       "guid": "CBMicEFVX3lxTFBUUmVpYnRPUUVrZkp4YVkyLUo0YjR5dnpjakNURHJ3MWJ6MjZtcEZ6ZmhheWFtOEtGUlY1OWNBZTNtY04wbG82anJZVVhwVDlOdnN4c2VGS0ZzYlRtSE1KQWw4NFVqWmp1bGRxZl8xVEY"
     },
