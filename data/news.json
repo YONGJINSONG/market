@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T00:07:30Z",
+  "generated_at": "2026-07-12T03:52:06Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -13,14 +13,6 @@
       "published_at": "Wed, 08 Jul 2026 17:07:22 GMT",
       "summary": "Tensions with Iran add fresh uncertainty to an already shaky global economy NPR",
       "guid": "CBMimwFBVV95cUxPS2lrWS1DSHFVdzNGdU1TcnJqNHpEYmxFU1J4T3prS09QaGNpTGE1SlA5LXZabUZIYXdaSWNuQjZZemxKMzlrbUV5dTh1OGZSSUFvdkNsX0prYlhNajAxNV9YRmwwQTIxcTgyV0xIeWpHVVZnejBJU3dnTnpQNW81SlNfek5IdjY2c29HdmdBUmhYTTBqMUtYdWRYTQ"
-    },
-    {
-      "title": "What the rise in \"real yields\" says about markets - Axios",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBUUmVpYnRPUUVrZkp4YVkyLUo0YjR5dnpjakNURHJ3MWJ6MjZtcEZ6ZmhheWFtOEtGUlY1OWNBZTNtY04wbG82anJZVVhwVDlOdnN4c2VGS0ZzYlRtSE1KQWw4NFVqWmp1bGRxZl8xVEY?oc=5",
-      "source": "Axios",
-      "published_at": "Sat, 11 Jul 2026 10:47:05 GMT",
-      "summary": "What the rise in \"real yields\" says about markets Axios",
-      "guid": "CBMicEFVX3lxTFBUUmVpYnRPUUVrZkp4YVkyLUo0YjR5dnpjakNURHJ3MWJ6MjZtcEZ6ZmhheWFtOEtGUlY1OWNBZTNtY04wbG82anJZVVhwVDlOdnN4c2VGS0ZzYlRtSE1KQWw4NFVqWmp1bGRxZl8xVEY"
     },
     {
       "title": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says a Big Drop Could Follow. - Yahoo Finance",
@@ -45,6 +37,14 @@
       "published_at": "Wed, 08 Jul 2026 19:44:00 GMT",
       "summary": "Treasury Yields Surge As Markets Bet On September Hike Investor's Business Daily",
       "guid": "CBMiogFBVV95cUxOdkJCN3U0cVJ3OUlVdkNscHNQOWtqeTk3dkNIZ0tBVHZzWW9LUEQtWUwyN0JiSENKQmtfQzcxZ00wSmhuNnYtOEIwUjJ5RmcxZlJfeHRZMFYzTE5USjVjaGd2UlctSVZCbTRPUFRnbEc1ak1VdkZ6NGV1MFdueWtVU21EWnRrX1FreUNRalEwUEE0NEZKVVAzYlB0X201MWp1WEE"
+    },
+    {
+      "title": "What the rise in \"real yields\" says about markets - Axios",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBUUmVpYnRPUUVrZkp4YVkyLUo0YjR5dnpjakNURHJ3MWJ6MjZtcEZ6ZmhheWFtOEtGUlY1OWNBZTNtY04wbG82anJZVVhwVDlOdnN4c2VGS0ZzYlRtSE1KQWw4NFVqWmp1bGRxZl8xVEY?oc=5",
+      "source": "Axios",
+      "published_at": "Fri, 10 Jul 2026 11:10:41 GMT",
+      "summary": "What the rise in \"real yields\" says about markets Axios",
+      "guid": "CBMicEFVX3lxTFBUUmVpYnRPUUVrZkp4YVkyLUo0YjR5dnpjakNURHJ3MWJ6MjZtcEZ6ZmhheWFtOEtGUlY1OWNBZTNtY04wbG82anJZVVhwVDlOdnN4c2VGS0ZzYlRtSE1KQWw4NFVqWmp1bGRxZl8xVEY"
     },
     {
       "title": "A U.S. stock market crash is forcing the Federal Reserve to step in with rescue measures, potentially creating a new catalyst for a Bitcoin price surge. - Moomoo",
@@ -79,12 +79,12 @@
       "guid": "CBMijAJBVV95cUxOVkxCd2VabUV4bE9EeHNmNnlBM0M2aHlSZzZvUkxxUU5Xc1ZIUnpEUVcyajlnZm5xTmZLWmhqSGRrZTZFQWJwelF4bS1zRTkzV01xaDd0Z1V2b3E3UXFNTEd3VXc0WHl5cExwZ3NYXzZpTFFJaktlamJ3TEtpTG45ZzN0MkZDSTI1ZjFta0JHUjE3XzBPTUJpY0VqR2YwYk5ITFVBcWpWWEhjWmhqbE10eHpRWjdzWTdUSU4tMjgzaWFNMFMzeUxWX0hDd3E5SXFud1dPNXRyQzZpTjhHdnVfNGtONmJ2Z1NTbHBRZ3cySU1vWVp2VmVOWDY0Y29aNVk3RFhUTmVZMWlQOUY5"
     },
     {
-      "title": "The Federal Reserve's Initial July Inflation Forecast Looks Fantastic on the Surface, but Something Sinister Lurks in the Details - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNnhQbDUzLTB2eTJ5VjhQaG42NHc0cVJrNENDS3diZ0kxNTdQUmlndGFESDY0WWlORzRNZ1N2V0ctM1Z2Q2RNUFNsblRUbDF2b0Y1ZmE2YUFFVVg1S2dWOEpINEJfRVg1S05XdVJ3NWZ0anZfV1BRM3hFRzVtX3pFX0tlMDk3MVE1NUNsS3dybGY3MjRCUFFpVHdlQTlBNDNjV0Jvd0RjMA?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Wed, 08 Jul 2026 08:26:00 GMT",
-      "summary": "The Federal Reserve's Initial July Inflation Forecast Looks Fantastic on the Surface, but Something Sinister Lurks in the Details Yahoo Finance",
-      "guid": "CBMipwFBVV95cUxNNnhQbDUzLTB2eTJ5VjhQaG42NHc0cVJrNENDS3diZ0kxNTdQUmlndGFESDY0WWlORzRNZ1N2V0ctM1Z2Q2RNUFNsblRUbDF2b0Y1ZmE2YUFFVVg1S2dWOEpINEJfRVg1S05XdVJ3NWZ0anZfV1BRM3hFRzVtX3pFX0tlMDk3MVE1NUNsS3dybGY3MjRCUFFpVHdlQTlBNDNjV0Jvd0RjMA"
+      "title": "Markets tumble worldwide as Fed resets expectations: $400 billion wiped off SpaceX stock - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNGRySjJXc0VJVWZXdWVTLTdpRDNna2tUaERVVlNpanFrYUR5VFVhSlhwNFZFRlloY2IxX1Y5N1NPVWZDSkNGQW1vUTZDaDZuck1nQkdsN01WTDRRb1B4R1Fnenk5Q0p4RThmS3FmQXNmaXhLUS1STjQ4VDBZVzJPNndZN2UwNkl1cEVBZ0VsX2s0SnVBNXQ1TjlGNA?oc=5",
+      "source": "Fortune",
+      "published_at": "Tue, 23 Jun 2026 07:00:00 GMT",
+      "summary": "Markets tumble worldwide as Fed resets expectations: $400 billion wiped off SpaceX stock Fortune",
+      "guid": "CBMimwFBVV95cUxNNGRySjJXc0VJVWZXdWVTLTdpRDNna2tUaERVVlNpanFrYUR5VFVhSlhwNFZFRlloY2IxX1Y5N1NPVWZDSkNGQW1vUTZDaDZuck1nQkdsN01WTDRRb1B4R1Fnenk5Q0p4RThmS3FmQXNmaXhLUS1STjQ4VDBZVzJPNndZN2UwNkl1cEVBZ0VsX2s0SnVBNXQ1TjlGNA"
     }
   ]
 }
