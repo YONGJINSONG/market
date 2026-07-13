@@ -1,19 +1,11 @@
 {
-  "generated_at": "2026-07-13T12:28:08Z",
+  "generated_at": "2026-07-13T15:19:37Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
-    {
-      "title": "What to Expect in Markets this Week: Inflation Data, Warsh Testimony in Congress, Bank Earnings - Investopedia",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRS1BOUNiOWQ4VWpFcUhRY0RmTGFvcnFScjFraHM2SlMxS3Q3VjB0eDYyazBzdlh1bVVxN1ZJb3B3aTFkY24xeUt6S1l2ejJjeUhQTDl1SFBBbUpUM0VySjg2NzN1SkNNTUtfX0g0aUlLSTA5dllCd3lMU0p5R2g2VEhhc1BQTm9nLVVJc3RBT0ZNX0IwSFhpV0xBcGN5ZzhnYUVXRm5ISWFoY1JzYWh5TUNLLVRCeTlRMVcwYld2QnN1RFN1OF9HS2NfaE0teUxucE1MZ1FDdG9yRXM?oc=5",
-      "source": "Investopedia",
-      "published_at": "Sun, 12 Jul 2026 14:12:33 GMT",
-      "summary": "What to Expect in Markets this Week: Inflation Data, Warsh Testimony in Congress, Bank Earnings Investopedia",
-      "guid": "CBMi2wFBVV95cUxPRS1BOUNiOWQ4VWpFcUhRY0RmTGFvcnFScjFraHM2SlMxS3Q3VjB0eDYyazBzdlh1bVVxN1ZJb3B3aTFkY24xeUt6S1l2ejJjeUhQTDl1SFBBbUpUM0VySjg2NzN1SkNNTUtfX0g0aUlLSTA5dllCd3lMU0p5R2g2VEhhc1BQTm9nLVVJc3RBT0ZNX0IwSFhpV0xBcGN5ZzhnYUVXRm5ISWFoY1JzYWh5TUNLLVRCeTlRMVcwYld2QnN1RFN1OF9HS2NfaE0teUxucE1MZ1FDdG9yRXM"
-    },
     {
       "title": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says a Big Drop Could Follow. - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSG5UVUo2Qjc0QmZXVkZkVG5DNDFUMHJVT3ZDUHZzOFBVOXVuWk55aE9ZcDVOVEFJa3Y5ZHpjNWx4YWgtb3VfSjRHQUJXMFJIV3lPcTFDSjFadXBmdENDeGx2eGMyZ2NVRjM2Mk9RYlU3X1B2OGMwWmR6ajgtMWxQUmFCMER2R1gxZk52LVZYWW1lVkxxeWp2S3dpVjA?oc=5",
@@ -29,6 +21,14 @@
       "published_at": "Wed, 08 Jul 2026 17:07:22 GMT",
       "summary": "Tensions with Iran add fresh uncertainty to an already shaky global economy NPR",
       "guid": "CBMimwFBVV95cUxPS2lrWS1DSHFVdzNGdU1TcnJqNHpEYmxFU1J4T3prS09QaGNpTGE1SlA5LXZabUZIYXdaSWNuQjZZemxKMzlrbUV5dTh1OGZSSUFvdkNsX0prYlhNajAxNV9YRmwwQTIxcTgyV0xIeWpHVVZnejBJU3dnTnpQNW81SlNfek5IdjY2c29HdmdBUmhYTTBqMUtYdWRYTQ"
+    },
+    {
+      "title": "What to Expect in Markets this Week: Inflation Data, Warsh Testimony in Congress, Bank Earnings - Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRS1BOUNiOWQ4VWpFcUhRY0RmTGFvcnFScjFraHM2SlMxS3Q3VjB0eDYyazBzdlh1bVVxN1ZJb3B3aTFkY24xeUt6S1l2ejJjeUhQTDl1SFBBbUpUM0VySjg2NzN1SkNNTUtfX0g0aUlLSTA5dllCd3lMU0p5R2g2VEhhc1BQTm9nLVVJc3RBT0ZNX0IwSFhpV0xBcGN5ZzhnYUVXRm5ISWFoY1JzYWh5TUNLLVRCeTlRMVcwYld2QnN1RFN1OF9HS2NfaE0teUxucE1MZ1FDdG9yRXM?oc=5",
+      "source": "Investopedia",
+      "published_at": "Sun, 12 Jul 2026 14:12:33 GMT",
+      "summary": "What to Expect in Markets this Week: Inflation Data, Warsh Testimony in Congress, Bank Earnings Investopedia",
+      "guid": "CBMi2wFBVV95cUxPRS1BOUNiOWQ4VWpFcUhRY0RmTGFvcnFScjFraHM2SlMxS3Q3VjB0eDYyazBzdlh1bVVxN1ZJb3B3aTFkY24xeUt6S1l2ejJjeUhQTDl1SFBBbUpUM0VySjg2NzN1SkNNTUtfX0g0aUlLSTA5dllCd3lMU0p5R2g2VEhhc1BQTm9nLVVJc3RBT0ZNX0IwSFhpV0xBcGN5ZzhnYUVXRm5ISWFoY1JzYWh5TUNLLVRCeTlRMVcwYld2QnN1RFN1OF9HS2NfaE0teUxucE1MZ1FDdG9yRXM"
     },
     {
       "title": "Federal Funds Rate History 1990 to 2026 - Forbes",
@@ -47,20 +47,12 @@
       "guid": "CBMiekFVX3lxTE1nakJLS3BWWGc3VGNEb2E0R2xia3J3eS01Tko5NzVjdktuUV8yLW5FYmptVDZrREM1VS0tZUV2UzNFeGt5THRSVkVCeTJwblJZbDhTbHE1RUR3QmlGbjRkMnhtWTYzWW1JbWVpcXJXZGxBV0d1S0h5aGZn"
     },
     {
-      "title": "Stock Market Today: Dow Futures Gain, S&P 500 Slips as US and Iran Exchange Strikes—Saratoga, Exxon Mobil - Benzinga",
+      "title": "Stock Market Today: Dow Jones, Nasdaq 100, S&P 500 Futures Slips as US and Iran Exchange Strikes— Saratog - Benzinga",
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxONXJ4WjZabG1CTnk0TzdyRXRLaUdaVEFFbkVMaHlXOVh4RFRsRkZDZk5zS3RESVhaZ0xVTUJFbGlMeUszaXczSjBhNWMxOENBaTQyb0RKdWVJSHExX2RTeWVVQV9KM0V0OGdsWnItQklkTnpzV083SlhiSDZiR3hYRUI0LTB2Nm5GWVYxZzRXeUw2dEF4SWx4SlEtdUJvTDF0aGFLbTJla2ExeUJ5VzhraFNfamdCU0dDcndONHNxb1RmOUpxRG5QUmlvTFIyTkk0SFJmclVzNEZDcDZiYVRHamp2OXJ2VGVxTU1OaTJpdF9naDkxTnM4QkVTWkFtQTdsbUUxcG1adjFnNlhp?oc=5",
       "source": "Benzinga",
-      "published_at": "Mon, 13 Jul 2026 10:00:32 GMT",
-      "summary": "Stock Market Today: Dow Futures Gain, S&P 500 Slips as US and Iran Exchange Strikes—Saratoga, Exxon Mobil Benzinga",
+      "published_at": "Mon, 13 Jul 2026 12:40:00 GMT",
+      "summary": "Stock Market Today: Dow Jones, Nasdaq 100, S&P 500 Futures Slips as US and Iran Exchange Strikes— Saratog Benzinga",
       "guid": "CBMijAJBVV95cUxONXJ4WjZabG1CTnk0TzdyRXRLaUdaVEFFbkVMaHlXOVh4RFRsRkZDZk5zS3RESVhaZ0xVTUJFbGlMeUszaXczSjBhNWMxOENBaTQyb0RKdWVJSHExX2RTeWVVQV9KM0V0OGdsWnItQklkTnpzV083SlhiSDZiR3hYRUI0LTB2Nm5GWVYxZzRXeUw2dEF4SWx4SlEtdUJvTDF0aGFLbTJla2ExeUJ5VzhraFNfamdCU0dDcndONHNxb1RmOUpxRG5QUmlvTFIyTkk0SFJmclVzNEZDcDZiYVRHamp2OXJ2VGVxTU1OaTJpdF9naDkxTnM4QkVTWkFtQTdsbUUxcG1adjFnNlhp"
-    },
-    {
-      "title": "Will the Federal Reserve Crush the Small-Cap Stock Revival? - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObEkyNnNKUlBxZndnaXkzLWZwTDdjVFFoSE04R09vQ2k5THM3dWVQVFdmU2RNcFVIMjhvdHdGYmhhelZaNnlpRkxweTd4VUYxeVVJdzNXYnNwY092MXhzU0l4WVk3eHNYZXNZLV92WEdCTzRleWFBVmw4N2cySXAyZVBwU2F5NDhfRWxENl8xU2FxVkNkS0dianU0THhvVWwtT1c5MQ?oc=5",
-      "source": "24/7 Wall St.",
-      "published_at": "Tue, 07 Jul 2026 12:03:21 GMT",
-      "summary": "Will the Federal Reserve Crush the Small-Cap Stock Revival? 24/7 Wall St.",
-      "guid": "CBMipAFBVV95cUxObEkyNnNKUlBxZndnaXkzLWZwTDdjVFFoSE04R09vQ2k5THM3dWVQVFdmU2RNcFVIMjhvdHdGYmhhelZaNnlpRkxweTd4VUYxeVVJdzNXYnNwY092MXhzU0l4WVk3eHNYZXNZLV92WEdCTzRleWFBVmw4N2cySXAyZVBwU2F5NDhfRWxENl8xU2FxVkNkS0dianU0THhvVWwtT1c5MQ"
     },
     {
       "title": "What the rise in \"real yields\" says about markets - Axios",
@@ -69,6 +61,14 @@
       "published_at": "Fri, 10 Jul 2026 11:10:41 GMT",
       "summary": "What the rise in \"real yields\" says about markets Axios",
       "guid": "CBMicEFVX3lxTFBUUmVpYnRPUUVrZkp4YVkyLUo0YjR5dnpjakNURHJ3MWJ6MjZtcEZ6ZmhheWFtOEtGUlY1OWNBZTNtY04wbG82anJZVVhwVDlOdnN4c2VGS0ZzYlRtSE1KQWw4NFVqWmp1bGRxZl8xVEY"
+    },
+    {
+      "title": "Will the Federal Reserve Crush the Small-Cap Stock Revival? - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObEkyNnNKUlBxZndnaXkzLWZwTDdjVFFoSE04R09vQ2k5THM3dWVQVFdmU2RNcFVIMjhvdHdGYmhhelZaNnlpRkxweTd4VUYxeVVJdzNXYnNwY092MXhzU0l4WVk3eHNYZXNZLV92WEdCTzRleWFBVmw4N2cySXAyZVBwU2F5NDhfRWxENl8xU2FxVkNkS0dianU0THhvVWwtT1c5MQ?oc=5",
+      "source": "24/7 Wall St.",
+      "published_at": "Tue, 07 Jul 2026 12:03:21 GMT",
+      "summary": "Will the Federal Reserve Crush the Small-Cap Stock Revival? 24/7 Wall St.",
+      "guid": "CBMipAFBVV95cUxObEkyNnNKUlBxZndnaXkzLWZwTDdjVFFoSE04R09vQ2k5THM3dWVQVFdmU2RNcFVIMjhvdHdGYmhhelZaNnlpRkxweTd4VUYxeVVJdzNXYnNwY092MXhzU0l4WVk3eHNYZXNZLV92WEdCTzRleWFBVmw4N2cySXAyZVBwU2F5NDhfRWxENl8xU2FxVkNkS0dianU0THhvVWwtT1c5MQ"
     },
     {
       "title": "CAPITAL IDEAS: What happens to the stock market if the Federal Reserve raises interest rates? - The Berkshire Edge",
