@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T03:29:08Z",
+  "generated_at": "2026-07-14T05:51:25Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -31,14 +31,6 @@
       "guid": "CBMi2wFBVV95cUxPRS1BOUNiOWQ4VWpFcUhRY0RmTGFvcnFScjFraHM2SlMxS3Q3VjB0eDYyazBzdlh1bVVxN1ZJb3B3aTFkY24xeUt6S1l2ejJjeUhQTDl1SFBBbUpUM0VySjg2NzN1SkNNTUtfX0g0aUlLSTA5dllCd3lMU0p5R2g2VEhhc1BQTm9nLVVJc3RBT0ZNX0IwSFhpV0xBcGN5ZzhnYUVXRm5ISWFoY1JzYWh5TUNLLVRCeTlRMVcwYld2QnN1RFN1OF9HS2NfaE0teUxucE1MZ1FDdG9yRXM"
     },
     {
-      "title": "Federal Funds Rate History 1990 to 2026 - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBsNEtLYjBNb05hZjBmRkV5NDctYTNrTTF1a0FwQzlpdG42Y3ROZmNVdmROTHRMbTBobHFhTnBzUVVDZEwxdGk5cm9HRWlWMTBCYk5EM0doODFNNnFPb0JfRDR1VVFwSzlsYnV0MUVfeldlTGpw?oc=5",
-      "source": "Forbes",
-      "published_at": "Fri, 10 Jul 2026 19:10:00 GMT",
-      "summary": "Federal Funds Rate History 1990 to 2026 Forbes",
-      "guid": "CBMidEFVX3lxTFBsNEtLYjBNb05hZjBmRkV5NDctYTNrTTF1a0FwQzlpdG42Y3ROZmNVdmROTHRMbTBobHFhTnBzUVVDZEwxdGk5cm9HRWlWMTBCYk5EM0doODFNNnFPb0JfRDR1VVFwSzlsYnV0MUVfeldlTGpw"
-    },
-    {
       "title": "Tensions with Iran add fresh uncertainty to an already shaky global economy - NPR",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS2lrWS1DSHFVdzNGdU1TcnJqNHpEYmxFU1J4T3prS09QaGNpTGE1SlA5LXZabUZIYXdaSWNuQjZZemxKMzlrbUV5dTh1OGZSSUFvdkNsX0prYlhNajAxNV9YRmwwQTIxcTgyV0xIeWpHVVZnejBJU3dnTnpQNW81SlNfek5IdjY2c29HdmdBUmhYTTBqMUtYdWRYTQ?oc=5",
       "source": "NPR",
@@ -47,20 +39,12 @@
       "guid": "CBMimwFBVV95cUxPS2lrWS1DSHFVdzNGdU1TcnJqNHpEYmxFU1J4T3prS09QaGNpTGE1SlA5LXZabUZIYXdaSWNuQjZZemxKMzlrbUV5dTh1OGZSSUFvdkNsX0prYlhNajAxNV9YRmwwQTIxcTgyV0xIeWpHVVZnejBJU3dnTnpQNW81SlNfek5IdjY2c29HdmdBUmhYTTBqMUtYdWRYTQ"
     },
     {
-      "title": "Stock Market Today: Dow Jones, Nasdaq 100, S&P 500 Futures Slips as US and Iran Exchange Strikes— Saratog - Benzinga",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxONXJ4WjZabG1CTnk0TzdyRXRLaUdaVEFFbkVMaHlXOVh4RFRsRkZDZk5zS3RESVhaZ0xVTUJFbGlMeUszaXczSjBhNWMxOENBaTQyb0RKdWVJSHExX2RTeWVVQV9KM0V0OGdsWnItQklkTnpzV083SlhiSDZiR3hYRUI0LTB2Nm5GWVYxZzRXeUw2dEF4SWx4SlEtdUJvTDF0aGFLbTJla2ExeUJ5VzhraFNfamdCU0dDcndONHNxb1RmOUpxRG5QUmlvTFIyTkk0SFJmclVzNEZDcDZiYVRHamp2OXJ2VGVxTU1OaTJpdF9naDkxTnM4QkVTWkFtQTdsbUUxcG1adjFnNlhp?oc=5",
-      "source": "Benzinga",
-      "published_at": "Mon, 13 Jul 2026 12:40:00 GMT",
-      "summary": "Stock Market Today: Dow Jones, Nasdaq 100, S&P 500 Futures Slips as US and Iran Exchange Strikes— Saratog Benzinga",
-      "guid": "CBMijAJBVV95cUxONXJ4WjZabG1CTnk0TzdyRXRLaUdaVEFFbkVMaHlXOVh4RFRsRkZDZk5zS3RESVhaZ0xVTUJFbGlMeUszaXczSjBhNWMxOENBaTQyb0RKdWVJSHExX2RTeWVVQV9KM0V0OGdsWnItQklkTnpzV083SlhiSDZiR3hYRUI0LTB2Nm5GWVYxZzRXeUw2dEF4SWx4SlEtdUJvTDF0aGFLbTJla2ExeUJ5VzhraFNfamdCU0dDcndONHNxb1RmOUpxRG5QUmlvTFIyTkk0SFJmclVzNEZDcDZiYVRHamp2OXJ2VGVxTU1OaTJpdF9naDkxTnM4QkVTWkFtQTdsbUUxcG1adjFnNlhp"
-    },
-    {
-      "title": "Will the Federal Reserve Crush the Small-Cap Stock Revival? - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObEkyNnNKUlBxZndnaXkzLWZwTDdjVFFoSE04R09vQ2k5THM3dWVQVFdmU2RNcFVIMjhvdHdGYmhhelZaNnlpRkxweTd4VUYxeVVJdzNXYnNwY092MXhzU0l4WVk3eHNYZXNZLV92WEdCTzRleWFBVmw4N2cySXAyZVBwU2F5NDhfRWxENl8xU2FxVkNkS0dianU0THhvVWwtT1c5MQ?oc=5",
-      "source": "24/7 Wall St.",
-      "published_at": "Tue, 07 Jul 2026 12:03:21 GMT",
-      "summary": "Will the Federal Reserve Crush the Small-Cap Stock Revival? 24/7 Wall St.",
-      "guid": "CBMipAFBVV95cUxObEkyNnNKUlBxZndnaXkzLWZwTDdjVFFoSE04R09vQ2k5THM3dWVQVFdmU2RNcFVIMjhvdHdGYmhhelZaNnlpRkxweTd4VUYxeVVJdzNXYnNwY092MXhzU0l4WVk3eHNYZXNZLV92WEdCTzRleWFBVmw4N2cySXAyZVBwU2F5NDhfRWxENl8xU2FxVkNkS0dianU0THhvVWwtT1c5MQ"
+      "title": "Federal Funds Rate History 1990 to 2026 - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBsNEtLYjBNb05hZjBmRkV5NDctYTNrTTF1a0FwQzlpdG42Y3ROZmNVdmROTHRMbTBobHFhTnBzUVVDZEwxdGk5cm9HRWlWMTBCYk5EM0doODFNNnFPb0JfRDR1VVFwSzlsYnV0MUVfeldlTGpw?oc=5",
+      "source": "Forbes",
+      "published_at": "Fri, 10 Jul 2026 19:10:00 GMT",
+      "summary": "Federal Funds Rate History 1990 to 2026 Forbes",
+      "guid": "CBMidEFVX3lxTFBsNEtLYjBNb05hZjBmRkV5NDctYTNrTTF1a0FwQzlpdG42Y3ROZmNVdmROTHRMbTBobHFhTnBzUVVDZEwxdGk5cm9HRWlWMTBCYk5EM0doODFNNnFPb0JfRDR1VVFwSzlsYnV0MUVfeldlTGpw"
     },
     {
       "title": "Is the stock market open July 3? What to know about Friday, and if its a federal holiday - NBC 5 Chicago",
@@ -77,6 +61,22 @@
       "published_at": "Mon, 29 Jun 2026 07:00:00 GMT",
       "summary": "CAPITAL IDEAS: What happens to the stock market if the Federal Reserve raises interest rates? The Berkshire Edge",
       "guid": "CBMivgFBVV95cUxQM0N3MjBOMzV3c24tR2Q4OUhXMkhzZGFpNVpHOEJqZU42SnJiel9TWFFZd2hxeFJYenZDY1h3MXJyX2FjZXF4Unl1QUhMeldPWFhUV08wM09IQTd5cW5EblEtR1JMRmJkR0t5TGJMLWxYQ01CWEhrSkl0TUdpZjc0WWFlQnIxQ2Q5dkVEWkk1WUtLOHlxY2lyOXhWUi11TE9mSE1CeV8ySm9tXy1STkJMUUVXckZCb1FpbExvWGhn"
+    },
+    {
+      "title": "Stock Market Today: Dow Jones, Nasdaq 100, S&P 500 Futures Slips as US and Iran Exchange Strikes— Saratog - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxONXJ4WjZabG1CTnk0TzdyRXRLaUdaVEFFbkVMaHlXOVh4RFRsRkZDZk5zS3RESVhaZ0xVTUJFbGlMeUszaXczSjBhNWMxOENBaTQyb0RKdWVJSHExX2RTeWVVQV9KM0V0OGdsWnItQklkTnpzV083SlhiSDZiR3hYRUI0LTB2Nm5GWVYxZzRXeUw2dEF4SWx4SlEtdUJvTDF0aGFLbTJla2ExeUJ5VzhraFNfamdCU0dDcndONHNxb1RmOUpxRG5QUmlvTFIyTkk0SFJmclVzNEZDcDZiYVRHamp2OXJ2VGVxTU1OaTJpdF9naDkxTnM4QkVTWkFtQTdsbUUxcG1adjFnNlhp?oc=5",
+      "source": "Benzinga",
+      "published_at": "Mon, 13 Jul 2026 12:40:00 GMT",
+      "summary": "Stock Market Today: Dow Jones, Nasdaq 100, S&P 500 Futures Slips as US and Iran Exchange Strikes— Saratog Benzinga",
+      "guid": "CBMijAJBVV95cUxONXJ4WjZabG1CTnk0TzdyRXRLaUdaVEFFbkVMaHlXOVh4RFRsRkZDZk5zS3RESVhaZ0xVTUJFbGlMeUszaXczSjBhNWMxOENBaTQyb0RKdWVJSHExX2RTeWVVQV9KM0V0OGdsWnItQklkTnpzV083SlhiSDZiR3hYRUI0LTB2Nm5GWVYxZzRXeUw2dEF4SWx4SlEtdUJvTDF0aGFLbTJla2ExeUJ5VzhraFNfamdCU0dDcndONHNxb1RmOUpxRG5QUmlvTFIyTkk0SFJmclVzNEZDcDZiYVRHamp2OXJ2VGVxTU1OaTJpdF9naDkxTnM4QkVTWkFtQTdsbUUxcG1adjFnNlhp"
+    },
+    {
+      "title": "Will the Federal Reserve Crush the Small-Cap Stock Revival? - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObEkyNnNKUlBxZndnaXkzLWZwTDdjVFFoSE04R09vQ2k5THM3dWVQVFdmU2RNcFVIMjhvdHdGYmhhelZaNnlpRkxweTd4VUYxeVVJdzNXYnNwY092MXhzU0l4WVk3eHNYZXNZLV92WEdCTzRleWFBVmw4N2cySXAyZVBwU2F5NDhfRWxENl8xU2FxVkNkS0dianU0THhvVWwtT1c5MQ?oc=5",
+      "source": "24/7 Wall St.",
+      "published_at": "Tue, 07 Jul 2026 12:03:21 GMT",
+      "summary": "Will the Federal Reserve Crush the Small-Cap Stock Revival? 24/7 Wall St.",
+      "guid": "CBMipAFBVV95cUxObEkyNnNKUlBxZndnaXkzLWZwTDdjVFFoSE04R09vQ2k5THM3dWVQVFdmU2RNcFVIMjhvdHdGYmhhelZaNnlpRkxweTd4VUYxeVVJdzNXYnNwY092MXhzU0l4WVk3eHNYZXNZLV92WEdCTzRleWFBVmw4N2cySXAyZVBwU2F5NDhfRWxENl8xU2FxVkNkS0dianU0THhvVWwtT1c5MQ"
     },
     {
       "title": "A U.S. stock market crash is forcing the Federal Reserve to step in with rescue measures, potentially creating a new catalyst for a Bitcoin price surge. - Moomoo",
