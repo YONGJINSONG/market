@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T12:21:42Z",
+  "generated_at": "2026-07-14T14:20:20Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -21,14 +21,6 @@
       "published_at": "Wed, 01 Jul 2026 07:00:00 GMT",
       "summary": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says a Big Drop Could Follow. Yahoo Finance",
       "guid": "CBMinAFBVV95cUxPSG5UVUo2Qjc0QmZXVkZkVG5DNDFUMHJVT3ZDUHZzOFBVOXVuWk55aE9ZcDVOVEFJa3Y5ZHpjNWx4YWgtb3VfSjRHQUJXMFJIV3lPcTFDSjFadXBmdENDeGx2eGMyZ2NVRjM2Mk9RYlU3X1B2OGMwWmR6ajgtMWxQUmFCMER2R1gxZk52LVZYWW1lVkxxeWp2S3dpVjA"
-    },
-    {
-      "title": "Interest Rates May Do Something Last Seen in 2022. The Stock Market Will Make a Big Move Afterward if History Repeats. - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQeU9JZHNlTnZOeW5tb3JTT3l0QW12QWNBODBMajFFZF9LMGRaQUpkSDQ5MWQ1Y0hRYmFfVnhxa3ZoLXdoblhVUzVmUkVTeXRlRXNpWmJKRnhuLVRlVi1iS2lRZ09ZYS1CTHVMakdvY2ZNOHZjYjY2OWVMTWRLVWxYVG9QTW5OYkdldTdheXg4Tl9KM0JfdEJlUTZtQm9Od3hrRUJSRFhvSUw1RU5lV1Z3ZXprUDNqSlBkVWNIR0JaV0hLSU9rZnE5c244cDFDTzh6UnlveUFwYWRVRjl6b1l2YVVFcGVoNXoyMlE5WjFCWlJVcUU0X2l4RnpsODQtQ0RmaURtUG1rbDdDUFVoTFZ4Q1FLUTA0d0ptcUdzSUl3LXVEaDFMM1Q3SA?oc=5",
-      "source": "The Globe and Mail",
-      "published_at": "Tue, 14 Jul 2026 09:12:29 GMT",
-      "summary": "Interest Rates May Do Something Last Seen in 2022. The Stock Market Will Make a Big Move Afterward if History Repeats. The Globe and Mail",
-      "guid": "CBMiqAJBVV95cUxQeU9JZHNlTnZOeW5tb3JTT3l0QW12QWNBODBMajFFZF9LMGRaQUpkSDQ5MWQ1Y0hRYmFfVnhxa3ZoLXdoblhVUzVmUkVTeXRlRXNpWmJKRnhuLVRlVi1iS2lRZ09ZYS1CTHVMakdvY2ZNOHZjYjY2OWVMTWRLVWxYVG9QTW5OYkdldTdheXg4Tl9KM0JfdEJlUTZtQm9Od3hrRUJSRFhvSUw1RU5lV1Z3ZXprUDNqSlBkVWNIR0JaV0hLSU9rZnE5c244cDFDTzh6UnlveUFwYWRVRjl6b1l2YVVFcGVoNXoyMlE5WjFCWlJVcUU0X2l4RnpsODQtQ0RmaURtUG1rbDdDUFVoTFZ4Q1FLUTA0d0ptcUdzSUl3LXVEaDFMM1Q3SA"
     },
     {
       "title": "US Stock Market Outlook July 2026: Navigating Fed Policy, AI Investment Boom, and Inflation Risks - Intellectia AI",
@@ -55,20 +47,36 @@
       "guid": "CBMimwFBVV95cUxPS2lrWS1DSHFVdzNGdU1TcnJqNHpEYmxFU1J4T3prS09QaGNpTGE1SlA5LXZabUZIYXdaSWNuQjZZemxKMzlrbUV5dTh1OGZSSUFvdkNsX0prYlhNajAxNV9YRmwwQTIxcTgyV0xIeWpHVVZnejBJU3dnTnpQNW81SlNfek5IdjY2c29HdmdBUmhYTTBqMUtYdWRYTQ"
     },
     {
-      "title": "US stocks sink on worries about a possible hike to interest rates this year by the Federal Reserve - AP News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcUlFaFNwNVNsa1RTZTFkTEhaMmhGLXBpZnZjeVAwaDBSSzRjZUFIMTQ3UTctckwtOXRvUDB6c0sxUGVlRWY5SUM5ZUllV1doQVhoLWkyd3IxdFdkRWJGY2J0ZGxyNmNwTEU3LVVBdDlXWVlxM2QtdGpHWmtBMGl0WkFWQzNucTVFTF9lelY3ZjdXNzFYeDhN?oc=5",
-      "source": "AP News",
-      "published_at": "Wed, 17 Jun 2026 07:00:00 GMT",
-      "summary": "US stocks sink on worries about a possible hike to interest rates this year by the Federal Reserve AP News",
-      "guid": "CBMilwFBVV95cUxQcUlFaFNwNVNsa1RTZTFkTEhaMmhGLXBpZnZjeVAwaDBSSzRjZUFIMTQ3UTctckwtOXRvUDB6c0sxUGVlRWY5SUM5ZUllV1doQVhoLWkyd3IxdFdkRWJGY2J0ZGxyNmNwTEU3LVVBdDlXWVlxM2QtdGpHWmtBMGl0WkFWQzNucTVFTF9lelY3ZjdXNzFYeDhN"
+      "title": "Wall Street calms, and stocks hold steadier after U.S. inflation data comes in less bad than expected - BNN Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQWnE4R25XclpueUdmbWJkUnFLM3ltZlM5X0g2VXJkNGpvNlgtZVYwQmNqVnYzUW9qQ3U2Y1NBa0pObHEtWVh0Y0E3V0o0X3Q3MFhCTXV3Y3pVQjJiMGlQU2p5OEhjNmZIWXpvcmRoWmd4MXJjMHNOcjA5YkpaQUlVbEJTc05ZUVpMTWcyVWNCSWFTME1RVGpkRXd0bVcyNldXYVZGdVhDd0otMkl0V1FYMXc2ZEdnOVJtLU1BaUE3bVdyTUxsYnc3MmpobnpwSHhBZnFLSk54bGd1RXZQQ2xEeEJrRlltY2VybXpucw?oc=5",
+      "source": "BNN Bloomberg",
+      "published_at": "Tue, 14 Jul 2026 14:00:09 GMT",
+      "summary": "Wall Street calms, and stocks hold steadier after U.S. inflation data comes in less bad than expected BNN Bloomberg",
+      "guid": "CBMi7AFBVV95cUxQWnE4R25XclpueUdmbWJkUnFLM3ltZlM5X0g2VXJkNGpvNlgtZVYwQmNqVnYzUW9qQ3U2Y1NBa0pObHEtWVh0Y0E3V0o0X3Q3MFhCTXV3Y3pVQjJiMGlQU2p5OEhjNmZIWXpvcmRoWmd4MXJjMHNOcjA5YkpaQUlVbEJTc05ZUVpMTWcyVWNCSWFTME1RVGpkRXd0bVcyNldXYVZGdVhDd0otMkl0V1FYMXc2ZEdnOVJtLU1BaUE3bVdyTUxsYnc3MmpobnpwSHhBZnFLSk54bGd1RXZQQ2xEeEJrRlltY2VybXpucw"
     },
     {
-      "title": "CAPITAL IDEAS: What happens to the stock market if the Federal Reserve raises interest rates? - The Berkshire Edge",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQM0N3MjBOMzV3c24tR2Q4OUhXMkhzZGFpNVpHOEJqZU42SnJiel9TWFFZd2hxeFJYenZDY1h3MXJyX2FjZXF4Unl1QUhMeldPWFhUV08wM09IQTd5cW5EblEtR1JMRmJkR0t5TGJMLWxYQ01CWEhrSkl0TUdpZjc0WWFlQnIxQ2Q5dkVEWkk1WUtLOHlxY2lyOXhWUi11TE9mSE1CeV8ySm9tXy1STkJMUUVXckZCb1FpbExvWGhn?oc=5",
-      "source": "The Berkshire Edge",
-      "published_at": "Mon, 29 Jun 2026 07:00:00 GMT",
-      "summary": "CAPITAL IDEAS: What happens to the stock market if the Federal Reserve raises interest rates? The Berkshire Edge",
-      "guid": "CBMivgFBVV95cUxQM0N3MjBOMzV3c24tR2Q4OUhXMkhzZGFpNVpHOEJqZU42SnJiel9TWFFZd2hxeFJYenZDY1h3MXJyX2FjZXF4Unl1QUhMeldPWFhUV08wM09IQTd5cW5EblEtR1JMRmJkR0t5TGJMLWxYQ01CWEhrSkl0TUdpZjc0WWFlQnIxQ2Q5dkVEWkk1WUtLOHlxY2lyOXhWUi11TE9mSE1CeV8ySm9tXy1STkJMUUVXckZCb1FpbExvWGhn"
+      "title": "U.S CPI Data Released – June Inflation Rate Falls to 3.5% - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMmJESWV3VWMwclVDVEhXM2NlMkVINHRqVEQyS0d0bkE0WEJWWnpzRExZZ2VxRVBqU1ctU3JXYUxBY2VyNUdUZXVHdTN6OUw1TkRPTDR4dmlwX01ZVllKQVVBbk9ScU1tME1MZnh1S0tGUHpDUXozeVI5X0dFcjBWdXRBbFF0OG9jd2VoMGdIVDlSbXFqb0QzRkpzdVdtNWpOLTJYMHcwcjhHTlRRZTdfaFIwRzY?oc=5",
+      "source": "TradingView",
+      "published_at": "Tue, 14 Jul 2026 11:12:43 GMT",
+      "summary": "U.S CPI Data Released – June Inflation Rate Falls to 3.5% TradingView",
+      "guid": "CBMitAFBVV95cUxNMmJESWV3VWMwclVDVEhXM2NlMkVINHRqVEQyS0d0bkE0WEJWWnpzRExZZ2VxRVBqU1ctU3JXYUxBY2VyNUdUZXVHdTN6OUw1TkRPTDR4dmlwX01ZVllKQVVBbk9ScU1tME1MZnh1S0tGUHpDUXozeVI5X0dFcjBWdXRBbFF0OG9jd2VoMGdIVDlSbXFqb0QzRkpzdVdtNWpOLTJYMHcwcjhHTlRRZTdfaFIwRzY"
+    },
+    {
+      "title": "US Stock Market Today: S&P 500, Dow Jones In Green As Inflation Cools; Nasdaq Up As Chip Stocks Rebound - NDTV Profit",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNU19POF9uSV9ZREFzemN0enJBbzhfR3hsVkg1VlRGRExhenlyeTYwTVoxWnpWYnk3ZjVvY2w0bTRUVUh2WUp6Zm1kclkzUnh4ZmJSRi1xMmdzdlZRWjhyUS1IRVV0ZUQtclFQXzNiNEpWS3dkeWFWQlVEM1BKbV9KZnZqOUl6dUpwZmlXZWl6M2ZsTTRFWU9wRlVZVGtxWktlbVFUZkI5ZnloWkN2VEFTNDRnM2hWRXpoaDRJRWhQbFZ1RkRRWlBxYWRqdmx4enRTTUtmV0xMTWJKSTQy0gHkAUFVX3lxTE5PdE5sRTZJOEZjOXRZU0dLcWNtTUFSRmE1RGlDTDljM0NMRXlXSGtkR2toQUt6WTFtOUNlVkRpVWwxWDNrVnhMNlNsUS14WnRNS3ViMHdGOUlFOEhwVWw3T3ZBNlRNemVUX0NRd1pSNFFCQmw4SlpRU3VtN2VaWlpFU1I3Q0dmZVljQklBUEtncG5pNHJId1FVUE1PMlpCS2d3OXM4MHVRYTBlbVQ0YmVwNGNhWnRsTWh0U0NlYzU1QmNSSnJCT3R1ZHc3c1VUQ3dLR1MwbllraGJ6eUg4NEZTQmF2Vw?oc=5",
+      "source": "NDTV Profit",
+      "published_at": "Tue, 14 Jul 2026 13:52:16 GMT",
+      "summary": "US Stock Market Today: S&P 500, Dow Jones In Green As Inflation Cools; Nasdaq Up As Chip Stocks Rebound NDTV Profit",
+      "guid": "CBMi3AFBVV95cUxNU19POF9uSV9ZREFzemN0enJBbzhfR3hsVkg1VlRGRExhenlyeTYwTVoxWnpWYnk3ZjVvY2w0bTRUVUh2WUp6Zm1kclkzUnh4ZmJSRi1xMmdzdlZRWjhyUS1IRVV0ZUQtclFQXzNiNEpWS3dkeWFWQlVEM1BKbV9KZnZqOUl6dUpwZmlXZWl6M2ZsTTRFWU9wRlVZVGtxWktlbVFUZkI5ZnloWkN2VEFTNDRnM2hWRXpoaDRJRWhQbFZ1RkRRWlBxYWRqdmx4enRTTUtmV0xMTWJKSTQy0gHkAUFVX3lxTE5PdE5sRTZJOEZjOXRZU0dLcWNtTUFSRmE1RGlDTDljM0NMRXlXSGtkR2toQUt6WTFtOUNlVkRpVWwxWDNrVnhMNlNsUS14WnRNS3ViMHdGOUlFOEhwVWw3T3ZBNlRNemVUX0NRd1pSNFFCQmw4SlpRU3VtN2VaWlpFU1I3Q0dmZVljQklBUEtncG5pNHJId1FVUE1PMlpCS2d3OXM4MHVRYTBlbVQ0YmVwNGNhWnRsTWh0U0NlYzU1QmNSSnJCT3R1ZHc3c1VUQ3dLR1MwbllraGJ6eUg4NEZTQmF2Vw"
+    },
+    {
+      "title": "US stocks rise as June CPI eases inflation concerns, Fed rate hike odds drop - Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSk9pOEdhMTNQa0FfRlRFa3hGRHU0eWotbE54NktpZFBhdTdMQ3FDdmNnc3M4dzRTZzl4OVZkYnotQ2hTRm1JcWtiM01zUm80QkU1VktCZkREamEzYXpBUE1WU3V0SGNZMkZSZDJzZEdsdER3NGZNOTRoUDVDQWozQUQ0VjdXTHdzT1VFUnN6THBtX1BlYU9pMWJmdHRzLXR5bklmTVFB?oc=5",
+      "source": "Crypto Briefing",
+      "published_at": "Tue, 14 Jul 2026 13:20:42 GMT",
+      "summary": "US stocks rise as June CPI eases inflation concerns, Fed rate hike odds drop Crypto Briefing",
+      "guid": "CBMipgFBVV95cUxNSk9pOEdhMTNQa0FfRlRFa3hGRHU0eWotbE54NktpZFBhdTdMQ3FDdmNnc3M4dzRTZzl4OVZkYnotQ2hTRm1JcWtiM01zUm80QkU1VktCZkREamEzYXpBUE1WU3V0SGNZMkZSZDJzZEdsdER3NGZNOTRoUDVDQWozQUQ0VjdXTHdzT1VFUnN6THBtX1BlYU9pMWJmdHRzLXR5bklmTVFB"
     },
     {
       "title": "Is the stock market open July 3? What to know about Friday, and if its a federal holiday - NBC 5 Chicago",
@@ -77,14 +85,6 @@
       "published_at": "Fri, 03 Jul 2026 07:00:00 GMT",
       "summary": "Is the stock market open July 3? What to know about Friday, and if its a federal holiday NBC 5 Chicago",
       "guid": "CBMizgFBVV95cUxQWmdDcWF2Xy15bHc2MHB6MEt1bzhzbS1GbEhVMEJaR3ZJSTFTd042NVpETzV3UzBfUWFQclZWWVRLV25VNllKWWdzNjJIYUNtRmdoTTBMRUVKdG83NVUyWVltN29lcXVIc3RvX2t1YS1qZmtYZXdONHp5WHdSQnY1N3ZCMmtOYUJtdmlkOWZmb2JwSGQ5eV9PWUNTWTNoWWJvYnJBMEdRR3Z2amtJQ2VIZEhCdHMzTC0zVHlLUU8tLTdwbW1temNCeE1TNGJEQdIB1gFBVV95cUxQdWU1OHBveXdjX0MzU09zcGtCZjJkUlFlMmNtWnpoYTVHMEptUi11UzBZdXVhYnAwcVVFdXFNT0J1VXptbUJYcWYwSldvQV9zNV9LcW1oMzFPMThVdWFQdW5kcWxOQ0ZmYlNqdXU4dUNaaDFzX0sxRkVWempVd1hOUWY5OURHSzZmZE1pVWIzUWluY2hpQWdyYVVkQ0N0SFJWS3lZbUl0RkFUdEpVc0FwMlhDSmx4ZzNxYTJsWDBwWHNkdmVpQ1dLVWV4WkxXWmZtX1pteGV3"
-    },
-    {
-      "title": "A U.S. stock market crash is forcing the Federal Reserve to step in with rescue measures, potentially creating a new catalyst for a Bitcoin price surge. - Moomoo",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNM0taaUpJRHBGd3lORmpkUnJUR2h5X002Z083ekJkUFRSb3plUGdZR25CLVVqNVZPZVd4dXJUc1Y2XzVkLVFhVE42SDE5Q3d3bFphWUJoUGh6VnlkcC00dFhhamVxRnBXY0xVMWxaSTVZS0lJc0tnZVpjMzltSjY4QnRMcGt6Q1hoUzBwNWF2WHdvQzFLd0txSU1aVG0?oc=5",
-      "source": "Moomoo",
-      "published_at": "Thu, 09 Jul 2026 03:57:52 GMT",
-      "summary": "A U.S. stock market crash is forcing the Federal Reserve to step in with rescue measures, potentially creating a new catalyst for a Bitcoin price surge. Moomoo",
-      "guid": "CBMinAFBVV95cUxNM0taaUpJRHBGd3lORmpkUnJUR2h5X002Z083ekJkUFRSb3plUGdZR25CLVVqNVZPZVd4dXJUc1Y2XzVkLVFhVE42SDE5Q3d3bFphWUJoUGh6VnlkcC00dFhhamVxRnBXY0xVMWxaSTVZS0lJc0tnZVpjMzltSjY4QnRMcGt6Q1hoUzBwNWF2WHdvQzFLd0txSU1aVG0"
     }
   ]
 }
