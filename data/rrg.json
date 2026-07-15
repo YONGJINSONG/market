@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T20:06:40Z",
+  "generated_at": "2026-07-15T21:18:59Z",
   "benchmark": "SPY",
   "sectors": [
     {
@@ -23,8 +23,8 @@
           "rsMomentum": 101.18
         },
         {
-          "rsRatio": 98.7,
-          "rsMomentum": 99.12
+          "rsRatio": 98.67,
+          "rsMomentum": 99.09
         }
       ]
     },
@@ -49,8 +49,8 @@
           "rsMomentum": 98.01
         },
         {
-          "rsRatio": 97.5,
-          "rsMomentum": 99.76
+          "rsRatio": 97.47,
+          "rsMomentum": 99.73
         }
       ]
     },
@@ -75,8 +75,8 @@
           "rsMomentum": 99.54
         },
         {
-          "rsRatio": 100.73,
-          "rsMomentum": 99.84
+          "rsRatio": 100.75,
+          "rsMomentum": 99.86
         }
       ]
     },
@@ -101,8 +101,8 @@
           "rsMomentum": 99.54
         },
         {
-          "rsRatio": 102.11,
-          "rsMomentum": 98.29
+          "rsRatio": 102.14,
+          "rsMomentum": 98.31
         }
       ]
     },
@@ -127,8 +127,8 @@
           "rsMomentum": 99.77
         },
         {
-          "rsRatio": 99.41,
-          "rsMomentum": 100.67
+          "rsRatio": 99.42,
+          "rsMomentum": 100.68
         }
       ]
     },
@@ -154,7 +154,7 @@
         },
         {
           "rsRatio": 98.65,
-          "rsMomentum": 99.73
+          "rsMomentum": 99.72
         }
       ]
     },
@@ -179,8 +179,8 @@
           "rsMomentum": 99.96
         },
         {
-          "rsRatio": 98.3,
-          "rsMomentum": 99.79
+          "rsRatio": 98.29,
+          "rsMomentum": 99.78
         }
       ]
     },
@@ -205,8 +205,8 @@
           "rsMomentum": 99.91
         },
         {
-          "rsRatio": 98.45,
-          "rsMomentum": 99.51
+          "rsRatio": 98.44,
+          "rsMomentum": 99.5
         }
       ]
     },
@@ -257,8 +257,8 @@
           "rsMomentum": 99.4
         },
         {
-          "rsRatio": 99.53,
-          "rsMomentum": 99.76
+          "rsRatio": 99.55,
+          "rsMomentum": 99.77
         }
       ]
     },
@@ -289,5 +289,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-07-15T20:06:40Z"
+  "lastUpdated": "2026-07-15T21:18:59Z"
 }
