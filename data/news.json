@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T10:32:17Z",
+  "generated_at": "2026-07-16T12:06:41Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -15,6 +15,14 @@
       "guid": "CBMinwFBVV95cUxNMURyWURtXzJUTXJ6OXdyc3lVOWhld1ZnZTVNLTZacnRVY1M4SFpOWVNpREtUUERLckgyQjdMcWFjYVJKVmF0TUZBY1FURVZ6ekJkbnF3aVEyVmJXUzBkNkZQNEZHWGFlM2V6dVM3cV9zcGstZUZBUFBVejk3WVZpYzVCaTBfakJKZ3p1dENzVHVTdjd6UDdNUHN4REdPcnM"
     },
     {
+      "title": "Stock market rally fueled by transportation stocks and AI excitement on Wall Street - KPAX News",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZFU0ZWI4WnY0TWRHSV9UMkRuMzRrTkNMRlNuR1BPQWc2ZVR4MVJuMTJxQzRoWG5TSktmNElfc0ktMDB4WnhSTXJqNmpETlEteE9QT0ZJbmpWWVBLRDBRcHNESm0wa1UyTXBJVjEzOTBvYm9MaHlSdmltb2dub2o0akxPLVlwZGVmRDlxLWd5YVBWc2Y2dEd6RTA2ekxaTnNxZERYbWdtei1Cb3F2YXRtV1lGV0NqdHhEZ3kwREZR?oc=5",
+      "source": "KPAX News",
+      "published_at": "Thu, 16 Jul 2026 10:49:23 GMT",
+      "summary": "Stock market rally fueled by transportation stocks and AI excitement on Wall Street KPAX News",
+      "guid": "CBMivgFBVV95cUxOZFU0ZWI4WnY0TWRHSV9UMkRuMzRrTkNMRlNuR1BPQWc2ZVR4MVJuMTJxQzRoWG5TSktmNElfc0ktMDB4WnhSTXJqNmpETlEteE9QT0ZJbmpWWVBLRDBRcHNESm0wa1UyTXBJVjEzOTBvYm9MaHlSdmltb2dub2o0akxPLVlwZGVmRDlxLWd5YVBWc2Y2dEd6RTA2ekxaTnNxZERYbWdtei1Cb3F2YXRtV1lGV0NqdHhEZ3kwREZR"
+    },
+    {
       "title": "US Stock Market: Fed Beige Book signals improving economy as inflation eases, but fuel costs and tariffs r - The Economic Times",
       "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxORm80eFluR0FVSl92Vkk4cDR6aGN2Z2ZGQmVncmhXVlYtREgtWWtUZ3ZXVWhGWWNESzViWlRXOEF1aTYtV0MtUUVxZi1xVGFYVW5Nd05PM2dLbTNXZlJFMTlSLUpFTEZjTFFfdV9hQzI2amVWVVpVei1SLXQtTWc3b3dsVXZjMzJSZlVRajZvS3BtTUhYUktGS2R2ekhjdGYtMlU1MHA5UUtKSzlUeVVKUWtid2hGRlR5dWdjWDdPR1pGbjRJdktxN2lycHphMV93RmNnTzBXb2hIX0NINEVlYWhuajNlcVVVVEhHMUhZa0N0R0dTbXlEeHpLMjFpTTRKUEhFZEFYODJtUjJ5Ym9lSmxjM2d5ZGY1S19HMNIBogJBVV95cUxNVG1PZHRTX0g5ZzA2bDZCZHRTT0RSbzltWUJxUDh6OUh6d0NwZk5NTFdaTGRSR0NmZUpzRVJXcjEyQnY1bnNPU1NqZkcwUlMwZm56dTNORGxIRWozTm8zVWJaLUwxdmxSUXFyMmZDTFYzSXNsRlZMUzNmbHZZU05Fc21rLVM1M3lXaGFKOFZsQUVZNWtEcWNkTVdIT096MExvczhTcWFuZVVMeEJRYWNJU1BqdU11RnlISUhNdFo0ZXAwNllNVlhJWVRKQi1QZHlCcGszNl9KeG1rd2lNU2piYkwtU2hUazdmYTg4aDdNWkZic2JPRFEyS01HblBVZjM2UlFDQklRYVVaTV9uN3ZIcFVLLUY1aHhmakFmNEFVWFlNZw?oc=5",
       "source": "The Economic Times",
@@ -23,12 +31,12 @@
       "guid": "CBMinAJBVV95cUxORm80eFluR0FVSl92Vkk4cDR6aGN2Z2ZGQmVncmhXVlYtREgtWWtUZ3ZXVWhGWWNESzViWlRXOEF1aTYtV0MtUUVxZi1xVGFYVW5Nd05PM2dLbTNXZlJFMTlSLUpFTEZjTFFfdV9hQzI2amVWVVpVei1SLXQtTWc3b3dsVXZjMzJSZlVRajZvS3BtTUhYUktGS2R2ekhjdGYtMlU1MHA5UUtKSzlUeVVKUWtid2hGRlR5dWdjWDdPR1pGbjRJdktxN2lycHphMV93RmNnTzBXb2hIX0NINEVlYWhuajNlcVVVVEhHMUhZa0N0R0dTbXlEeHpLMjFpTTRKUEhFZEFYODJtUjJ5Ym9lSmxjM2d5ZGY1S19HMNIBogJBVV95cUxNVG1PZHRTX0g5ZzA2bDZCZHRTT0RSbzltWUJxUDh6OUh6d0NwZk5NTFdaTGRSR0NmZUpzRVJXcjEyQnY1bnNPU1NqZkcwUlMwZm56dTNORGxIRWozTm8zVWJaLUwxdmxSUXFyMmZDTFYzSXNsRlZMUzNmbHZZU05Fc21rLVM1M3lXaGFKOFZsQUVZNWtEcWNkTVdIT096MExvczhTcWFuZVVMeEJRYWNJU1BqdU11RnlISUhNdFo0ZXAwNllNVlhJWVRKQi1QZHlCcGszNl9KeG1rd2lNU2piYkwtU2hUazdmYTg4aDdNWkZic2JPRFEyS01HblBVZjM2UlFDQklRYVVaTV9uN3ZIcFVLLUY1aHhmakFmNEFVWFlNZw"
     },
     {
-      "title": "Elizabeth Warren blasts Kevin Warsh, saying he ‘seems to invite corruption’ - CNN",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNS2loSG9aODZSWHJkc0R1VU85ZHVUeEVZNmQtNTBXQjBrbGcwXzQ1bE9oM0xLOVpBVzRZZFl0SlRKUnM5LXl0QU1MSnpxSTJaRXJQZXl6VE51REVSRE5XVk9QSHVwUWpiNlJXY2ZkM1J2TElNaDE4ajNyWmtVc1FCWjVzdXljLVk?oc=5",
+      "title": "Takeaways from Fed Chairman Kevin Warsh’s first congressional testimony - CNN",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPN1VPZWtHLUJfVTFXc20weUhWUU5OSERKVTgwVzFjc2xRLXJ3TG9wal96U2tTVDFYMVZHcEQtUkNOUlgwaUdHSjgwbVRlSGhGWmRhdGhUdDFBQXVvQ0ozNWJXbzRrc2lkdnY3Wk1PVGhEWGI0MEMtQUJKUm9hVy1QeUt3TGUzU014S2hsNA?oc=5",
       "source": "CNN",
-      "published_at": "Wed, 15 Jul 2026 15:09:42 GMT",
-      "summary": "Elizabeth Warren blasts Kevin Warsh, saying he ‘seems to invite corruption’ CNN",
-      "guid": "CBMihwFBVV95cUxNS2loSG9aODZSWHJkc0R1VU85ZHVUeEVZNmQtNTBXQjBrbGcwXzQ1bE9oM0xLOVpBVzRZZFl0SlRKUnM5LXl0QU1MSnpxSTJaRXJQZXl6VE51REVSRE5XVk9QSHVwUWpiNlJXY2ZkM1J2TElNaDE4ajNyWmtVc1FCWjVzdXljLVk"
+      "published_at": "Tue, 14 Jul 2026 19:35:17 GMT",
+      "summary": "Takeaways from Fed Chairman Kevin Warsh’s first congressional testimony CNN",
+      "guid": "CBMijAFBVV95cUxPN1VPZWtHLUJfVTFXc20weUhWUU5OSERKVTgwVzFjc2xRLXJ3TG9wal96U2tTVDFYMVZHcEQtUkNOUlgwaUdHSjgwbVRlSGhGWmRhdGhUdDFBQXVvQ0ozNWJXbzRrc2lkdnY3Wk1PVGhEWGI0MEMtQUJKUm9hVy1QeUt3TGUzU014S2hsNA"
     },
     {
       "title": "Federal Reserve Bank of Atlanta shares mid-year economic outlook at Savannah State - WTOC",
@@ -47,22 +55,6 @@
       "guid": "CBMimwFBVV95cUxPS2lrWS1DSHFVdzNGdU1TcnJqNHpEYmxFU1J4T3prS09QaGNpTGE1SlA5LXZabUZIYXdaSWNuQjZZemxKMzlrbUV5dTh1OGZSSUFvdkNsX0prYlhNajAxNV9YRmwwQTIxcTgyV0xIeWpHVVZnejBJU3dnTnpQNW81SlNfek5IdjY2c29HdmdBUmhYTTBqMUtYdWRYTQ"
     },
     {
-      "title": "Booking Holdings Inc Stock (BKNG) Moved Up by 3.99% on Jul 15: What Investors Need To Know - TradingKey",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeTFTVXdjbEIzQXF3aGl4cUVQNlFwMjZjTklRRVF3ajBLVzFaejd5X04yTGMzeEsxbWdGdHZPT2xQZzI1MG0xUlJvRGktOWhYcXZwVEJ6ZWtSZWl1by1PZTYxbnF6NFNpNUFUVUJEMTlLRE94cW1keUo5ck9KQjlpN0hFdUIwTmxIUmRj?oc=5",
-      "source": "TradingKey",
-      "published_at": "Wed, 15 Jul 2026 19:15:18 GMT",
-      "summary": "Booking Holdings Inc Stock (BKNG) Moved Up by 3.99% on Jul 15: What Investors Need To Know TradingKey",
-      "guid": "CBMiiwFBVV95cUxQeTFTVXdjbEIzQXF3aGl4cUVQNlFwMjZjTklRRVF3ajBLVzFaejd5X04yTGMzeEsxbWdGdHZPT2xQZzI1MG0xUlJvRGktOWhYcXZwVEJ6ZWtSZWl1by1PZTYxbnF6NFNpNUFUVUJEMTlLRE94cW1keUo5ck9KQjlpN0hFdUIwTmxIUmRj"
-    },
-    {
-      "title": "Surging equities and the trickle-up economy - The Real Economy Blog",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43TFhjLThoWVRJQmpVelVESVh5bUlTcnN5YUxOX29tT0lIRjBKa3BQbzBwa1FGS2oyR09IQW0wcngzMHYyUzdzQkl2RUlhZkVzdTE2dEdBTkxjYkgyYWJlX1Jra2pHb3d0TERydW1EQ3RIWVlidjU5eXJESXptcEU?oc=5",
-      "source": "The Real Economy Blog",
-      "published_at": "Mon, 22 Jun 2026 07:00:00 GMT",
-      "summary": "Surging equities and the trickle-up economy The Real Economy Blog",
-      "guid": "CBMif0FVX3lxTE43TFhjLThoWVRJQmpVelVESVh5bUlTcnN5YUxOX29tT0lIRjBKa3BQbzBwa1FGS2oyR09IQW0wcngzMHYyUzdzQkl2RUlhZkVzdTE2dEdBTkxjYkgyYWJlX1Jra2pHb3d0TERydW1EQ3RIWVlidjU5eXJESXptcEU"
-    },
-    {
       "title": "UK Stock Market News: Ocado, Dunelm, Crest Nicholson - Yahoo Finance Singapore",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZDFELVdNNGp5MGVfX0V2d1pSYmNWTFM1cUp3dXgyVmZEYWFEY1pUa1MzQ3pCa25uNHBiYjlpY3dwaFRNV0s0YjJlM0FQTXNibTV2NEhsT29VV1daak05c0hvc3p0cWYtZ2ZoTnowVzRZODN2NFh5dXZTbWdwWUVsNA?oc=5",
       "source": "Yahoo Finance Singapore",
@@ -79,12 +71,20 @@
       "guid": "CBMimAFBVV95cUxObmpwOXl2Z0NEZmF5Vm94UFJRWHp6MFdIcGhxaXNkNkpyT2J0RzRTcVVZclZ2X3d2UTRGWFVOWmFtZlNTdU9zRnJFc2pnUjhhRUdqakZlWU0xV1UwTE1YSlNrRkhkM2ZlVzJZNW5nTVhhYWpwcXVGbWFFYkthamFHU1NsNWYwWXUxNnBEeGo4SzdJYW5yeWpQMA"
     },
     {
-      "title": "Takeaways from Fed Chairman Kevin Warsh’s first congressional testimony - CNN",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPN1VPZWtHLUJfVTFXc20weUhWUU5OSERKVTgwVzFjc2xRLXJ3TG9wal96U2tTVDFYMVZHcEQtUkNOUlgwaUdHSjgwbVRlSGhGWmRhdGhUdDFBQXVvQ0ozNWJXbzRrc2lkdnY3Wk1PVGhEWGI0MEMtQUJKUm9hVy1QeUt3TGUzU014S2hsNA?oc=5",
+      "title": "Elizabeth Warren blasts Kevin Warsh, saying he ‘seems to invite corruption’ - CNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNS2loSG9aODZSWHJkc0R1VU85ZHVUeEVZNmQtNTBXQjBrbGcwXzQ1bE9oM0xLOVpBVzRZZFl0SlRKUnM5LXl0QU1MSnpxSTJaRXJQZXl6VE51REVSRE5XVk9QSHVwUWpiNlJXY2ZkM1J2TElNaDE4ajNyWmtVc1FCWjVzdXljLVk?oc=5",
       "source": "CNN",
-      "published_at": "Tue, 14 Jul 2026 19:35:17 GMT",
-      "summary": "Takeaways from Fed Chairman Kevin Warsh’s first congressional testimony CNN",
-      "guid": "CBMijAFBVV95cUxPN1VPZWtHLUJfVTFXc20weUhWUU5OSERKVTgwVzFjc2xRLXJ3TG9wal96U2tTVDFYMVZHcEQtUkNOUlgwaUdHSjgwbVRlSGhGWmRhdGhUdDFBQXVvQ0ozNWJXbzRrc2lkdnY3Wk1PVGhEWGI0MEMtQUJKUm9hVy1QeUt3TGUzU014S2hsNA"
+      "published_at": "Wed, 15 Jul 2026 15:09:42 GMT",
+      "summary": "Elizabeth Warren blasts Kevin Warsh, saying he ‘seems to invite corruption’ CNN",
+      "guid": "CBMihwFBVV95cUxNS2loSG9aODZSWHJkc0R1VU85ZHVUeEVZNmQtNTBXQjBrbGcwXzQ1bE9oM0xLOVpBVzRZZFl0SlRKUnM5LXl0QU1MSnpxSTJaRXJQZXl6VE51REVSRE5XVk9QSHVwUWpiNlJXY2ZkM1J2TElNaDE4ajNyWmtVc1FCWjVzdXljLVk"
+    },
+    {
+      "title": "Consumer prices rose 3.5% annually in June, less than expected as energy prices eased - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVUlRVno2bmpjLWRiYnV1M2VxVDZPTGVWa0I4Wk9tY0JHajgxaWcyeUpDbDI5THZKQVBhcEx6WFo1RmszaEh0R19zNU85cXFmOVlxNjB5QWRvNTJncnFZUndDUTVXWXg1Rk5DQTRPREF4OV9DQjRsMVYxV3QxOTY3cnBpWXhFM2lLSVFMMNIBkgFBVV95cUxOVmZJaUpQd0wwYXJrSmp0eVlGbjV6eWhkNGxtZEd1aTlWb2x1cjNNa09ZSnFyMzlpUzRuMV95VW9oQjBXVUlranJLelhyYmVPLTB4UTBqbDZTQ2YtREtSMnVCV1hRbWE3cFJOLU53UkJYeG9OX09PQzU1MDlRaUxnNmZnS3o4dWxyeVdweEVROVIwUQ?oc=5",
+      "source": "CNBC",
+      "published_at": "Tue, 14 Jul 2026 12:32:49 GMT",
+      "summary": "Consumer prices rose 3.5% annually in June, less than expected as energy prices eased CNBC",
+      "guid": "CBMijAFBVV95cUxNVUlRVno2bmpjLWRiYnV1M2VxVDZPTGVWa0I4Wk9tY0JHajgxaWcyeUpDbDI5THZKQVBhcEx6WFo1RmszaEh0R19zNU85cXFmOVlxNjB5QWRvNTJncnFZUndDUTVXWXg1Rk5DQTRPREF4OV9DQjRsMVYxV3QxOTY3cnBpWXhFM2lLSVFMMNIBkgFBVV95cUxOVmZJaUpQd0wwYXJrSmp0eVlGbjV6eWhkNGxtZEd1aTlWb2x1cjNNa09ZSnFyMzlpUzRuMV95VW9oQjBXVUlranJLelhyYmVPLTB4UTBqbDZTQ2YtREtSMnVCV1hRbWE3cFJOLU53UkJYeG9OX09PQzU1MDlRaUxnNmZnS3o4dWxyeVdweEVROVIwUQ"
     }
   ]
 }
