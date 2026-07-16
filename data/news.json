@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T06:02:02Z",
+  "generated_at": "2026-07-16T08:30:15Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -15,20 +15,20 @@
       "guid": "CBMimAFBVV95cUxObmpwOXl2Z0NEZmF5Vm94UFJRWHp6MFdIcGhxaXNkNkpyT2J0RzRTcVVZclZ2X3d2UTRGWFVOWmFtZlNTdU9zRnJFc2pnUjhhRUdqakZlWU0xV1UwTE1YSlNrRkhkM2ZlVzJZNW5nTVhhYWpwcXVGbWFFYkthamFHU1NsNWYwWXUxNnBEeGo4SzdJYW5yeWpQMA"
     },
     {
-      "title": "Elizabeth Warren blasts Kevin Warsh, saying he ‘seems to invite corruption’ - CNN",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNS2loSG9aODZSWHJkc0R1VU85ZHVUeEVZNmQtNTBXQjBrbGcwXzQ1bE9oM0xLOVpBVzRZZFl0SlRKUnM5LXl0QU1MSnpxSTJaRXJQZXl6VE51REVSRE5XVk9QSHVwUWpiNlJXY2ZkM1J2TElNaDE4ajNyWmtVc1FCWjVzdXljLVk?oc=5",
-      "source": "CNN",
-      "published_at": "Wed, 15 Jul 2026 15:09:42 GMT",
-      "summary": "Elizabeth Warren blasts Kevin Warsh, saying he ‘seems to invite corruption’ CNN",
-      "guid": "CBMihwFBVV95cUxNS2loSG9aODZSWHJkc0R1VU85ZHVUeEVZNmQtNTBXQjBrbGcwXzQ1bE9oM0xLOVpBVzRZZFl0SlRKUnM5LXl0QU1MSnpxSTJaRXJQZXl6VE51REVSRE5XVk9QSHVwUWpiNlJXY2ZkM1J2TElNaDE4ajNyWmtVc1FCWjVzdXljLVk"
-    },
-    {
       "title": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says a Big Drop Could Follow. - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSG5UVUo2Qjc0QmZXVkZkVG5DNDFUMHJVT3ZDUHZzOFBVOXVuWk55aE9ZcDVOVEFJa3Y5ZHpjNWx4YWgtb3VfSjRHQUJXMFJIV3lPcTFDSjFadXBmdENDeGx2eGMyZ2NVRjM2Mk9RYlU3X1B2OGMwWmR6ajgtMWxQUmFCMER2R1gxZk52LVZYWW1lVkxxeWp2S3dpVjA?oc=5",
       "source": "Yahoo Finance",
       "published_at": "Wed, 01 Jul 2026 07:00:00 GMT",
       "summary": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says a Big Drop Could Follow. Yahoo Finance",
       "guid": "CBMinAFBVV95cUxPSG5UVUo2Qjc0QmZXVkZkVG5DNDFUMHJVT3ZDUHZzOFBVOXVuWk55aE9ZcDVOVEFJa3Y5ZHpjNWx4YWgtb3VfSjRHQUJXMFJIV3lPcTFDSjFadXBmdENDeGx2eGMyZ2NVRjM2Mk9RYlU3X1B2OGMwWmR6ajgtMWxQUmFCMER2R1gxZk52LVZYWW1lVkxxeWp2S3dpVjA"
+    },
+    {
+      "title": "Elizabeth Warren blasts Kevin Warsh, saying he ‘seems to invite corruption’ - CNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNS2loSG9aODZSWHJkc0R1VU85ZHVUeEVZNmQtNTBXQjBrbGcwXzQ1bE9oM0xLOVpBVzRZZFl0SlRKUnM5LXl0QU1MSnpxSTJaRXJQZXl6VE51REVSRE5XVk9QSHVwUWpiNlJXY2ZkM1J2TElNaDE4ajNyWmtVc1FCWjVzdXljLVk?oc=5",
+      "source": "CNN",
+      "published_at": "Wed, 15 Jul 2026 15:09:42 GMT",
+      "summary": "Elizabeth Warren blasts Kevin Warsh, saying he ‘seems to invite corruption’ CNN",
+      "guid": "CBMihwFBVV95cUxNS2loSG9aODZSWHJkc0R1VU85ZHVUeEVZNmQtNTBXQjBrbGcwXzQ1bE9oM0xLOVpBVzRZZFl0SlRKUnM5LXl0QU1MSnpxSTJaRXJQZXl6VE51REVSRE5XVk9QSHVwUWpiNlJXY2ZkM1J2TElNaDE4ajNyWmtVc1FCWjVzdXljLVk"
     },
     {
       "title": "Federal Reserve Bank of Atlanta shares mid-year economic outlook at Savannah State - WTOC",
@@ -39,12 +39,12 @@
       "guid": "CBMirgFBVV95cUxQZGlzLU1PaW1MTFA5NC1UZW9Ed3RZWWdxYl9LTVhCSE1tQWV3TkcwM25YY3o2YjFia09ISHRYXy1GRngtZy1kVlVCN0NFVjJoNTFYeG45Q0JpT2ZLemp1QWJfR2gwdDA4Rl9ETXZKYkYzZF83Y0t5TEJBMVVDWXhRWW8wN25kYlJDNm9HME5WUW1NVWtqZHQxTUVXdDFUek1UQTkzZTRmVzNEZ3Bmc3c"
     },
     {
-      "title": "US Stocks Close: Nasdaq Rises 0.62% While Philadelphia Semiconductor Index Falls Over 2%; Tech Stocks Support Market, Chip and Memory Stocks Sold Off, SpaceX Breaks Issue Price; Multiple Fed Officials Speak in Succession - TradingKey",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOWtQaFc0dVNDdWNxbFpfTDd5TDRTb2dxWlgzVmNmTFBPeV9ZQmdiU0VZNUZkYVZxbllnYng1VmcxRUs3UXdKLUN5MjlsMlQwSE9LQklhVHdRcWpPaHpmUWY3X25RU1dGX3QtOGZqS3NlSC1vV1pzdDNIbC1GbFR3N1huYUd4R3E0TXo3N1I3VWxTcUU2NEd6OEZFQjVvREYtZm5EWlNOcTVZRWtRZ25MTHlsOGk1OTNyQTBGZzRDZzZUT1J6Y1d6Wkt6bGdRTEpMZVRFeA?oc=5",
+      "title": "Booking Holdings Inc Stock (BKNG) Moved Up by 3.99% on Jul 15: What Investors Need To Know - TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeTFTVXdjbEIzQXF3aGl4cUVQNlFwMjZjTklRRVF3ajBLVzFaejd5X04yTGMzeEsxbWdGdHZPT2xQZzI1MG0xUlJvRGktOWhYcXZwVEJ6ZWtSZWl1by1PZTYxbnF6NFNpNUFUVUJEMTlLRE94cW1keUo5ck9KQjlpN0hFdUIwTmxIUmRj?oc=5",
       "source": "TradingKey",
-      "published_at": "Wed, 15 Jul 2026 20:16:59 GMT",
-      "summary": "US Stocks Close: Nasdaq Rises 0.62% While Philadelphia Semiconductor Index Falls Over 2%; Tech Stocks Support Market, Chip and Memory Stocks Sold Off, SpaceX Breaks Issue Price; Multiple Fed Officials Speak in Succession TradingKey",
-      "guid": "CBMi1AFBVV95cUxNOWtQaFc0dVNDdWNxbFpfTDd5TDRTb2dxWlgzVmNmTFBPeV9ZQmdiU0VZNUZkYVZxbllnYng1VmcxRUs3UXdKLUN5MjlsMlQwSE9LQklhVHdRcWpPaHpmUWY3X25RU1dGX3QtOGZqS3NlSC1vV1pzdDNIbC1GbFR3N1huYUd4R3E0TXo3N1I3VWxTcUU2NEd6OEZFQjVvREYtZm5EWlNOcTVZRWtRZ25MTHlsOGk1OTNyQTBGZzRDZzZUT1J6Y1d6Wkt6bGdRTEpMZVRFeA"
+      "published_at": "Wed, 15 Jul 2026 19:15:18 GMT",
+      "summary": "Booking Holdings Inc Stock (BKNG) Moved Up by 3.99% on Jul 15: What Investors Need To Know TradingKey",
+      "guid": "CBMiiwFBVV95cUxQeTFTVXdjbEIzQXF3aGl4cUVQNlFwMjZjTklRRVF3ajBLVzFaejd5X04yTGMzeEsxbWdGdHZPT2xQZzI1MG0xUlJvRGktOWhYcXZwVEJ6ZWtSZWl1by1PZTYxbnF6NFNpNUFUVUJEMTlLRE94cW1keUo5ck9KQjlpN0hFdUIwTmxIUmRj"
     },
     {
       "title": "Tensions with Iran add fresh uncertainty to an already shaky global economy - NPR",
@@ -63,20 +63,20 @@
       "guid": "CBMiekFVX3lxTE1nakJLS3BWWGc3VGNEb2E0R2xia3J3eS01Tko5NzVjdktuUV8yLW5FYmptVDZrREM1VS0tZUV2UzNFeGt5THRSVkVCeTJwblJZbDhTbHE1RUR3QmlGbjRkMnhtWTYzWW1JbWVpcXJXZGxBV0d1S0h5aGZn"
     },
     {
-      "title": "Another Inflation Data Showed Signs Of Cooling. Stocks Continued To Rise - International Business Times",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPckcxcE1vcUljeGV5TXBEeFVNeFlBek1IWmJITnpEalZ5a3RQLVhzLTZBV1FoN09FMHVHUWdldTgzWWxPY3I0TlRXbTBMaDZQbVNncTJyYkREMjJkN2Q0b2Z0UTRWc0RXYUhlQnl0cldMMi1aajM2bFVvNzA5ZkVlS2lybzlzUFdsLWFGN0MtRElIcHlaWUhxVzA4YWVDZw?oc=5",
-      "source": "International Business Times",
-      "published_at": "Wed, 15 Jul 2026 20:02:13 GMT",
-      "summary": "Another Inflation Data Showed Signs Of Cooling. Stocks Continued To Rise International Business Times",
-      "guid": "CBMingFBVV95cUxPckcxcE1vcUljeGV5TXBEeFVNeFlBek1IWmJITnpEalZ5a3RQLVhzLTZBV1FoN09FMHVHUWdldTgzWWxPY3I0TlRXbTBMaDZQbVNncTJyYkREMjJkN2Q0b2Z0UTRWc0RXYUhlQnl0cldMMi1aajM2bFVvNzA5ZkVlS2lybzlzUFdsLWFGN0MtRElIcHlaWUhxVzA4YWVDZw"
-    },
-    {
       "title": "CAPITAL IDEAS: What happens to the stock market if the Federal Reserve raises interest rates? - The Berkshire Edge",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQM0N3MjBOMzV3c24tR2Q4OUhXMkhzZGFpNVpHOEJqZU42SnJiel9TWFFZd2hxeFJYenZDY1h3MXJyX2FjZXF4Unl1QUhMeldPWFhUV08wM09IQTd5cW5EblEtR1JMRmJkR0t5TGJMLWxYQ01CWEhrSkl0TUdpZjc0WWFlQnIxQ2Q5dkVEWkk1WUtLOHlxY2lyOXhWUi11TE9mSE1CeV8ySm9tXy1STkJMUUVXckZCb1FpbExvWGhn?oc=5",
       "source": "The Berkshire Edge",
       "published_at": "Mon, 29 Jun 2026 07:00:00 GMT",
       "summary": "CAPITAL IDEAS: What happens to the stock market if the Federal Reserve raises interest rates? The Berkshire Edge",
       "guid": "CBMivgFBVV95cUxQM0N3MjBOMzV3c24tR2Q4OUhXMkhzZGFpNVpHOEJqZU42SnJiel9TWFFZd2hxeFJYenZDY1h3MXJyX2FjZXF4Unl1QUhMeldPWFhUV08wM09IQTd5cW5EblEtR1JMRmJkR0t5TGJMLWxYQ01CWEhrSkl0TUdpZjc0WWFlQnIxQ2Q5dkVEWkk1WUtLOHlxY2lyOXhWUi11TE9mSE1CeV8ySm9tXy1STkJMUUVXckZCb1FpbExvWGhn"
+    },
+    {
+      "title": "Another Inflation Data Showed Signs Of Cooling. Stocks Continued To Rise - International Business Times",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPckcxcE1vcUljeGV5TXBEeFVNeFlBek1IWmJITnpEalZ5a3RQLVhzLTZBV1FoN09FMHVHUWdldTgzWWxPY3I0TlRXbTBMaDZQbVNncTJyYkREMjJkN2Q0b2Z0UTRWc0RXYUhlQnl0cldMMi1aajM2bFVvNzA5ZkVlS2lybzlzUFdsLWFGN0MtRElIcHlaWUhxVzA4YWVDZw?oc=5",
+      "source": "International Business Times",
+      "published_at": "Wed, 15 Jul 2026 20:02:13 GMT",
+      "summary": "Another Inflation Data Showed Signs Of Cooling. Stocks Continued To Rise International Business Times",
+      "guid": "CBMingFBVV95cUxPckcxcE1vcUljeGV5TXBEeFVNeFlBek1IWmJITnpEalZ5a3RQLVhzLTZBV1FoN09FMHVHUWdldTgzWWxPY3I0TlRXbTBMaDZQbVNncTJyYkREMjJkN2Q0b2Z0UTRWc0RXYUhlQnl0cldMMi1aajM2bFVvNzA5ZkVlS2lybzlzUFdsLWFGN0MtRElIcHlaWUhxVzA4YWVDZw"
     },
     {
       "title": "In 7 Words, Fed Chair Kevin Warsh May Have Just Confirmed the Stock Market's Biggest Fear - The Motley Fool",
