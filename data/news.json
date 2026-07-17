@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T10:28:38Z",
+  "generated_at": "2026-07-17T11:51:30Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,20 +7,12 @@
   },
   "items": [
     {
-      "title": "The Latest Inflation Data Is Good News for the Stock Market. Here's Why. - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTlQwRFFQNVEyWFVmQl9keTBtU3FNemt1Z1R3bmktU3ozUVdOdDE2MndkSlJCTEVLYWxLOENsb21sczBDQlM2YWZieG1pWjZTcm1tNUx6TGdtRlVZMVkzaUtweEJRNUFMMjBrdGpSMC14cU5YdjgwclRuQ29MLVJTV0Z4dzd2ZDFVT2pha1RaLTR1dG5lcVRGLXJmbWk?oc=5",
+      "title": "Investors Just Got a Subtle Warning From the Federal Reserve. History Says the Stock Market Will Do This Next. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMURyWURtXzJUTXJ6OXdyc3lVOWhld1ZnZTVNLTZacnRVY1M4SFpOWVNpREtUUERLckgyQjdMcWFjYVJKVmF0TUZBY1FURVZ6ekJkbnF3aVEyVmJXUzBkNkZQNEZHWGFlM2V6dVM3cV9zcGstZUZBUFBVejk3WVZpYzVCaTBfakJKZ3p1dENzVHVTdjd6UDdNUHN4REdPcnM?oc=5",
       "source": "Yahoo Finance",
-      "published_at": "Thu, 16 Jul 2026 17:35:00 GMT",
-      "summary": "The Latest Inflation Data Is Good News for the Stock Market. Here's Why. Yahoo Finance",
-      "guid": "CBMinAFBVV95cUxNTlQwRFFQNVEyWFVmQl9keTBtU3FNemt1Z1R3bmktU3ozUVdOdDE2MndkSlJCTEVLYWxLOENsb21sczBDQlM2YWZieG1pWjZTcm1tNUx6TGdtRlVZMVkzaUtweEJRNUFMMjBrdGpSMC14cU5YdjgwclRuQ29MLVJTV0Z4dzd2ZDFVT2pha1RaLTR1dG5lcVRGLXJmbWk"
-    },
-    {
-      "title": "Investors Just Got a Subtle Warning From the Federal Reserve. History Says the Stock Market Will Do This Next. - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRTA5ZVFoVU0xb1h6cUpDUTZiQnRObGN1andUQmU0NkpZbVc5Zk8xNlB0Tmk5VUlGLWpIbGZvaGhra19vcFhwZWJGNmlrU3duc0hzNk9nOWxncllld09FcGJDdFAzc000MmI2emdPUnZGNzdZTjZwOGVZRzZxSXFWTkdVaUs1TGFKelJSUFpJYk1GdlFuaUpj?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Thu, 16 Jul 2026 10:02:00 GMT",
-      "summary": "Investors Just Got a Subtle Warning From the Federal Reserve. History Says the Stock Market Will Do This Next. The Motley Fool",
-      "guid": "CBMilwFBVV95cUxNRTA5ZVFoVU0xb1h6cUpDUTZiQnRObGN1andUQmU0NkpZbVc5Zk8xNlB0Tmk5VUlGLWpIbGZvaGhra19vcFhwZWJGNmlrU3duc0hzNk9nOWxncllld09FcGJDdFAzc000MmI2emdPUnZGNzdZTjZwOGVZRzZxSXFWTkdVaUs1TGFKelJSUFpJYk1GdlFuaUpj"
+      "published_at": "Thu, 16 Jul 2026 09:22:00 GMT",
+      "summary": "Investors Just Got a Subtle Warning From the Federal Reserve. History Says the Stock Market Will Do This Next. Yahoo Finance",
+      "guid": "CBMinwFBVV95cUxNMURyWURtXzJUTXJ6OXdyc3lVOWhld1ZnZTVNLTZacnRVY1M4SFpOWVNpREtUUERLckgyQjdMcWFjYVJKVmF0TUZBY1FURVZ6ekJkbnF3aVEyVmJXUzBkNkZQNEZHWGFlM2V6dVM3cV9zcGstZUZBUFBVejk3WVZpYzVCaTBfakJKZ3p1dENzVHVTdjd6UDdNUHN4REdPcnM"
     },
     {
       "title": "Stock market rally fueled by transportation stocks and AI excitement on Wall Street - Scripps News",
@@ -63,28 +55,36 @@
       "guid": "CBMif0FVX3lxTE43TFhjLThoWVRJQmpVelVESVh5bUlTcnN5YUxOX29tT0lIRjBKa3BQbzBwa1FGS2oyR09IQW0wcngzMHYyUzdzQkl2RUlhZkVzdTE2dEdBTkxjYkgyYWJlX1Jra2pHb3d0TERydW1EQ3RIWVlidjU5eXJESXptcEU"
     },
     {
+      "title": "How Shifting Fed Policy and Rising Bond Yields Could Finally Crack the Stock Market - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1nakJLS3BWWGc3VGNEb2E0R2xia3J3eS01Tko5NzVjdktuUV8yLW5FYmptVDZrREM1VS0tZUV2UzNFeGt5THRSVkVCeTJwblJZbDhTbHE1RUR3QmlGbjRkMnhtWTYzWW1JbWVpcXJXZGxBV0d1S0h5aGZn?oc=5",
+      "source": "Barron's",
+      "published_at": "Thu, 09 Jul 2026 12:01:00 GMT",
+      "summary": "How Shifting Fed Policy and Rising Bond Yields Could Finally Crack the Stock Market Barron's",
+      "guid": "CBMiekFVX3lxTE1nakJLS3BWWGc3VGNEb2E0R2xia3J3eS01Tko5NzVjdktuUV8yLW5FYmptVDZrREM1VS0tZUV2UzNFeGt5THRSVkVCeTJwblJZbDhTbHE1RUR3QmlGbjRkMnhtWTYzWW1JbWVpcXJXZGxBV0d1S0h5aGZn"
+    },
+    {
+      "title": "CAPITAL IDEAS: What happens to the stock market if the Federal Reserve raises interest rates? - The Berkshire Edge",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQM0N3MjBOMzV3c24tR2Q4OUhXMkhzZGFpNVpHOEJqZU42SnJiel9TWFFZd2hxeFJYenZDY1h3MXJyX2FjZXF4Unl1QUhMeldPWFhUV08wM09IQTd5cW5EblEtR1JMRmJkR0t5TGJMLWxYQ01CWEhrSkl0TUdpZjc0WWFlQnIxQ2Q5dkVEWkk1WUtLOHlxY2lyOXhWUi11TE9mSE1CeV8ySm9tXy1STkJMUUVXckZCb1FpbExvWGhn?oc=5",
+      "source": "The Berkshire Edge",
+      "published_at": "Mon, 29 Jun 2026 07:00:00 GMT",
+      "summary": "CAPITAL IDEAS: What happens to the stock market if the Federal Reserve raises interest rates? The Berkshire Edge",
+      "guid": "CBMivgFBVV95cUxQM0N3MjBOMzV3c24tR2Q4OUhXMkhzZGFpNVpHOEJqZU42SnJiel9TWFFZd2hxeFJYenZDY1h3MXJyX2FjZXF4Unl1QUhMeldPWFhUV08wM09IQTd5cW5EblEtR1JMRmJkR0t5TGJMLWxYQ01CWEhrSkl0TUdpZjc0WWFlQnIxQ2Q5dkVEWkk1WUtLOHlxY2lyOXhWUi11TE9mSE1CeV8ySm9tXy1STkJMUUVXckZCb1FpbExvWGhn"
+    },
+    {
+      "title": "The Latest Inflation Data Is Good News for the Stock Market. Here's Why. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTlQwRFFQNVEyWFVmQl9keTBtU3FNemt1Z1R3bmktU3ozUVdOdDE2MndkSlJCTEVLYWxLOENsb21sczBDQlM2YWZieG1pWjZTcm1tNUx6TGdtRlVZMVkzaUtweEJRNUFMMjBrdGpSMC14cU5YdjgwclRuQ29MLVJTV0Z4dzd2ZDFVT2pha1RaLTR1dG5lcVRGLXJmbWk?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Thu, 16 Jul 2026 17:35:00 GMT",
+      "summary": "The Latest Inflation Data Is Good News for the Stock Market. Here's Why. Yahoo Finance",
+      "guid": "CBMinAFBVV95cUxNTlQwRFFQNVEyWFVmQl9keTBtU3FNemt1Z1R3bmktU3ozUVdOdDE2MndkSlJCTEVLYWxLOENsb21sczBDQlM2YWZieG1pWjZTcm1tNUx6TGdtRlVZMVkzaUtweEJRNUFMMjBrdGpSMC14cU5YdjgwclRuQ29MLVJTV0Z4dzd2ZDFVT2pha1RaLTR1dG5lcVRGLXJmbWk"
+    },
+    {
       "title": "Here's Why the Latest Inflation Data Was Good News for Fed Chair Kevin Warsh and the Stock Market - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObmpwOXl2Z0NEZmF5Vm94UFJRWHp6MFdIcGhxaXNkNkpyT2J0RzRTcVVZclZ2X3d2UTRGWFVOWmFtZlNTdU9zRnJFc2pnUjhhRUdqakZlWU0xV1UwTE1YSlNrRkhkM2ZlVzJZNW5nTVhhYWpwcXVGbWFFYkthamFHU1NsNWYwWXUxNnBEeGo4SzdJYW5yeWpQMA?oc=5",
       "source": "The Motley Fool",
       "published_at": "Wed, 15 Jul 2026 14:37:00 GMT",
       "summary": "Here's Why the Latest Inflation Data Was Good News for Fed Chair Kevin Warsh and the Stock Market The Motley Fool",
       "guid": "CBMimAFBVV95cUxObmpwOXl2Z0NEZmF5Vm94UFJRWHp6MFdIcGhxaXNkNkpyT2J0RzRTcVVZclZ2X3d2UTRGWFVOWmFtZlNTdU9zRnJFc2pnUjhhRUdqakZlWU0xV1UwTE1YSlNrRkhkM2ZlVzJZNW5nTVhhYWpwcXVGbWFFYkthamFHU1NsNWYwWXUxNnBEeGo4SzdJYW5yeWpQMA"
-    },
-    {
-      "title": "Elizabeth Warren blasts Kevin Warsh, saying he ‘seems to invite corruption’ - CNN",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNS2loSG9aODZSWHJkc0R1VU85ZHVUeEVZNmQtNTBXQjBrbGcwXzQ1bE9oM0xLOVpBVzRZZFl0SlRKUnM5LXl0QU1MSnpxSTJaRXJQZXl6VE51REVSRE5XVk9QSHVwUWpiNlJXY2ZkM1J2TElNaDE4ajNyWmtVc1FCWjVzdXljLVk?oc=5",
-      "source": "CNN",
-      "published_at": "Wed, 15 Jul 2026 15:09:42 GMT",
-      "summary": "Elizabeth Warren blasts Kevin Warsh, saying he ‘seems to invite corruption’ CNN",
-      "guid": "CBMihwFBVV95cUxNS2loSG9aODZSWHJkc0R1VU85ZHVUeEVZNmQtNTBXQjBrbGcwXzQ1bE9oM0xLOVpBVzRZZFl0SlRKUnM5LXl0QU1MSnpxSTJaRXJQZXl6VE51REVSRE5XVk9QSHVwUWpiNlJXY2ZkM1J2TElNaDE4ajNyWmtVc1FCWjVzdXljLVk"
-    },
-    {
-      "title": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says a Big Drop Could Follow. - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSG5UVUo2Qjc0QmZXVkZkVG5DNDFUMHJVT3ZDUHZzOFBVOXVuWk55aE9ZcDVOVEFJa3Y5ZHpjNWx4YWgtb3VfSjRHQUJXMFJIV3lPcTFDSjFadXBmdENDeGx2eGMyZ2NVRjM2Mk9RYlU3X1B2OGMwWmR6ajgtMWxQUmFCMER2R1gxZk52LVZYWW1lVkxxeWp2S3dpVjA?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Wed, 01 Jul 2026 07:00:00 GMT",
-      "summary": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says a Big Drop Could Follow. Yahoo Finance",
-      "guid": "CBMinAFBVV95cUxPSG5UVUo2Qjc0QmZXVkZkVG5DNDFUMHJVT3ZDUHZzOFBVOXVuWk55aE9ZcDVOVEFJa3Y5ZHpjNWx4YWgtb3VfSjRHQUJXMFJIV3lPcTFDSjFadXBmdENDeGx2eGMyZ2NVRjM2Mk9RYlU3X1B2OGMwWmR6ajgtMWxQUmFCMER2R1gxZk52LVZYWW1lVkxxeWp2S3dpVjA"
     }
   ]
 }
