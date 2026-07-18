@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T15:11:01Z",
+  "generated_at": "2026-07-18T16:08:04Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,20 +7,20 @@
   },
   "items": [
     {
-      "title": "What to Look Out for in Economic Data This Week (July 20-24) - Kiplinger",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ?oc=5",
-      "source": "Kiplinger",
-      "published_at": "Fri, 17 Jul 2026 17:15:55 GMT",
-      "summary": "What to Look Out for in Economic Data This Week (July 20-24) Kiplinger",
-      "guid": "CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ"
-    },
-    {
       "title": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says a Big Drop Could Follow. - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSG5UVUo2Qjc0QmZXVkZkVG5DNDFUMHJVT3ZDUHZzOFBVOXVuWk55aE9ZcDVOVEFJa3Y5ZHpjNWx4YWgtb3VfSjRHQUJXMFJIV3lPcTFDSjFadXBmdENDeGx2eGMyZ2NVRjM2Mk9RYlU3X1B2OGMwWmR6ajgtMWxQUmFCMER2R1gxZk52LVZYWW1lVkxxeWp2S3dpVjA?oc=5",
       "source": "Yahoo Finance",
       "published_at": "Wed, 01 Jul 2026 07:00:00 GMT",
       "summary": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says a Big Drop Could Follow. Yahoo Finance",
       "guid": "CBMinAFBVV95cUxPSG5UVUo2Qjc0QmZXVkZkVG5DNDFUMHJVT3ZDUHZzOFBVOXVuWk55aE9ZcDVOVEFJa3Y5ZHpjNWx4YWgtb3VfSjRHQUJXMFJIV3lPcTFDSjFadXBmdENDeGx2eGMyZ2NVRjM2Mk9RYlU3X1B2OGMwWmR6ajgtMWxQUmFCMER2R1gxZk52LVZYWW1lVkxxeWp2S3dpVjA"
+    },
+    {
+      "title": "What to Look Out for in Economic Data This Week (July 20-24) - Kiplinger",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ?oc=5",
+      "source": "Kiplinger",
+      "published_at": "Fri, 17 Jul 2026 17:15:55 GMT",
+      "summary": "What to Look Out for in Economic Data This Week (July 20-24) Kiplinger",
+      "guid": "CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ"
     },
     {
       "title": "Stock market rally fueled by transportation stocks and AI excitement on Wall Street - Scripps News",
@@ -55,6 +55,14 @@
       "guid": "CBMimwFBVV95cUxPS2lrWS1DSHFVdzNGdU1TcnJqNHpEYmxFU1J4T3prS09QaGNpTGE1SlA5LXZabUZIYXdaSWNuQjZZemxKMzlrbUV5dTh1OGZSSUFvdkNsX0prYlhNajAxNV9YRmwwQTIxcTgyV0xIeWpHVVZnejBJU3dnTnpQNW81SlNfek5IdjY2c29HdmdBUmhYTTBqMUtYdWRYTQ"
     },
     {
+      "title": "Surging equities and the trickle-up economy - The Real Economy Blog",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43TFhjLThoWVRJQmpVelVESVh5bUlTcnN5YUxOX29tT0lIRjBKa3BQbzBwa1FGS2oyR09IQW0wcngzMHYyUzdzQkl2RUlhZkVzdTE2dEdBTkxjYkgyYWJlX1Jra2pHb3d0TERydW1EQ3RIWVlidjU5eXJESXptcEU?oc=5",
+      "source": "The Real Economy Blog",
+      "published_at": "Mon, 22 Jun 2026 07:00:00 GMT",
+      "summary": "Surging equities and the trickle-up economy The Real Economy Blog",
+      "guid": "CBMif0FVX3lxTE43TFhjLThoWVRJQmpVelVESVh5bUlTcnN5YUxOX29tT0lIRjBKa3BQbzBwa1FGS2oyR09IQW0wcngzMHYyUzdzQkl2RUlhZkVzdTE2dEdBTkxjYkgyYWJlX1Jra2pHb3d0TERydW1EQ3RIWVlidjU5eXJESXptcEU"
+    },
+    {
       "title": "Elizabeth Warren blasts Kevin Warsh, saying he ‘seems to invite corruption’ | CNN Business - CNN",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNS2loSG9aODZSWHJkc0R1VU85ZHVUeEVZNmQtNTBXQjBrbGcwXzQ1bE9oM0xLOVpBVzRZZFl0SlRKUnM5LXl0QU1MSnpxSTJaRXJQZXl6VE51REVSRE5XVk9QSHVwUWpiNlJXY2ZkM1J2TElNaDE4ajNyWmtVc1FCWjVzdXljLVk?oc=5",
       "source": "CNN",
@@ -69,14 +77,6 @@
       "published_at": "Thu, 09 Jul 2026 12:01:00 GMT",
       "summary": "How Shifting Fed Policy and Rising Bond Yields Could Finally Crack the Stock Market Barron's",
       "guid": "CBMiekFVX3lxTE1nakJLS3BWWGc3VGNEb2E0R2xia3J3eS01Tko5NzVjdktuUV8yLW5FYmptVDZrREM1VS0tZUV2UzNFeGt5THRSVkVCeTJwblJZbDhTbHE1RUR3QmlGbjRkMnhtWTYzWW1JbWVpcXJXZGxBV0d1S0h5aGZn"
-    },
-    {
-      "title": "Are banks, post offices and the stock market open July 3? What to know - Lohud",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTUZLQkNtNmNDemN6MExyV0pzQzV2aFQybGtjU3JzZDAyRURRQ2tPU0g1emtweW5nYktmanYzcGwyOXdQSjR5ZE9FemNpdmdCRmxKXzhkOVhVUGYyM2I2eFVkbkJpdV9ETGFDb3BOeTRIT0pMSmhxdXllUkFEd045WGt3QWprUndaczhqSUt2WmhzOGpHVmlMdDdlcEFJYlNPWHlaV2c5dl80TFBtcHc?oc=5",
-      "source": "Lohud",
-      "published_at": "Fri, 03 Jul 2026 07:00:00 GMT",
-      "summary": "Are banks, post offices and the stock market open July 3? What to know Lohud",
-      "guid": "CBMirgFBVV95cUxOTUZLQkNtNmNDemN6MExyV0pzQzV2aFQybGtjU3JzZDAyRURRQ2tPU0g1emtweW5nYktmanYzcGwyOXdQSjR5ZE9FemNpdmdCRmxKXzhkOVhVUGYyM2I2eFVkbkJpdV9ETGFDb3BOeTRIT0pMSmhxdXllUkFEd045WGt3QWprUndaczhqSUt2WmhzOGpHVmlMdDdlcEFJYlNPWHlaV2c5dl80TFBtcHc"
     },
     {
       "title": "CAPITAL IDEAS: What happens to the stock market if the Federal Reserve raises interest rates? - The Berkshire Edge",
