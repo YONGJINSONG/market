@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-07-19T12:10:17Z",
+  "generated_at": "2026-07-19T13:48:53Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "Why Inflation May Suddenly Look Better Even Though Everything Still Costs More - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPalFHUWNYQndPZHR3UDRJLTl4blJBMV9OUUgxYTg2Yy1PMGZXNk5kNHZ4VkozTkRPM045WFRmblNSM0FJRmFqMEVOMnJkSmdMUXduNl9SNDlyUHV3eGJscjRwSFFfRC1ZNkxkelozOEhUcUpTaVU2WnFZY2xHMWVES25fUUl6SEVMSnhGeFBWZ1JtczV1WVNyeGg2Um9LeUVmS0NXMEVSVHZYYnR3X015WEJVZ2NHZlI1RmZPdXM4MA?oc=5",
+      "source": "24/7 Wall St.",
+      "published_at": "Sun, 19 Jul 2026 13:37:56 GMT",
+      "summary": "Why Inflation May Suddenly Look Better Even Though Everything Still Costs More 24/7 Wall St.",
+      "guid": "CBMivwFBVV95cUxPalFHUWNYQndPZHR3UDRJLTl4blJBMV9OUUgxYTg2Yy1PMGZXNk5kNHZ4VkozTkRPM045WFRmblNSM0FJRmFqMEVOMnJkSmdMUXduNl9SNDlyUHV3eGJscjRwSFFfRC1ZNkxkelozOEhUcUpTaVU2WnFZY2xHMWVES25fUUl6SEVMSnhGeFBWZ1JtczV1WVNyeGg2Um9LeUVmS0NXMEVSVHZYYnR3X015WEJVZ2NHZlI1RmZPdXM4MA"
+    },
     {
       "title": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says a Big Drop Could Follow. - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSG5UVUo2Qjc0QmZXVkZkVG5DNDFUMHJVT3ZDUHZzOFBVOXVuWk55aE9ZcDVOVEFJa3Y5ZHpjNWx4YWgtb3VfSjRHQUJXMFJIV3lPcTFDSjFadXBmdENDeGx2eGMyZ2NVRjM2Mk9RYlU3X1B2OGMwWmR6ajgtMWxQUmFCMER2R1gxZk52LVZYWW1lVkxxeWp2S3dpVjA?oc=5",
@@ -47,20 +55,20 @@
       "guid": "CBMimwFBVV95cUxPS2lrWS1DSHFVdzNGdU1TcnJqNHpEYmxFU1J4T3prS09QaGNpTGE1SlA5LXZabUZIYXdaSWNuQjZZemxKMzlrbUV5dTh1OGZSSUFvdkNsX0prYlhNajAxNV9YRmwwQTIxcTgyV0xIeWpHVVZnejBJU3dnTnpQNW81SlNfek5IdjY2c29HdmdBUmhYTTBqMUtYdWRYTQ"
     },
     {
-      "title": "The K-Shaped Collapse of the US Economy - Michael Hudson",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNc0Y3Q2w0TVBab0dTWjRyRmJoeEZ4WW5aanNlNnZNRVhZem1GbXpidFZadlBsbW9Rd3F2LUMxdXlUSTBwQXhIQjVVanozY1FmVm5EaUdhcXRVQmhqSTlzUzNFeDJqYm5pZ2tLSE9sSV9kcVdNVHhNMmliRXQ3RC1UdQ?oc=5",
-      "source": "Michael Hudson",
-      "published_at": "Sat, 18 Jul 2026 23:10:14 GMT",
-      "summary": "The K-Shaped Collapse of the US Economy Michael Hudson",
-      "guid": "CBMigAFBVV95cUxNc0Y3Q2w0TVBab0dTWjRyRmJoeEZ4WW5aanNlNnZNRVhZem1GbXpidFZadlBsbW9Rd3F2LUMxdXlUSTBwQXhIQjVVanozY1FmVm5EaUdhcXRVQmhqSTlzUzNFeDJqYm5pZ2tLSE9sSV9kcVdNVHhNMmliRXQ3RC1UdQ"
-    },
-    {
       "title": "Surging equities and the trickle-up economy - The Real Economy Blog",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43TFhjLThoWVRJQmpVelVESVh5bUlTcnN5YUxOX29tT0lIRjBKa3BQbzBwa1FGS2oyR09IQW0wcngzMHYyUzdzQkl2RUlhZkVzdTE2dEdBTkxjYkgyYWJlX1Jra2pHb3d0TERydW1EQ3RIWVlidjU5eXJESXptcEU?oc=5",
       "source": "The Real Economy Blog",
       "published_at": "Mon, 22 Jun 2026 07:00:00 GMT",
       "summary": "Surging equities and the trickle-up economy The Real Economy Blog",
       "guid": "CBMif0FVX3lxTE43TFhjLThoWVRJQmpVelVESVh5bUlTcnN5YUxOX29tT0lIRjBKa3BQbzBwa1FGS2oyR09IQW0wcngzMHYyUzdzQkl2RUlhZkVzdTE2dEdBTkxjYkgyYWJlX1Jra2pHb3d0TERydW1EQ3RIWVlidjU5eXJESXptcEU"
+    },
+    {
+      "title": "The K-Shaped Collapse of the US Economy - Michael Hudson",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNc0Y3Q2w0TVBab0dTWjRyRmJoeEZ4WW5aanNlNnZNRVhZem1GbXpidFZadlBsbW9Rd3F2LUMxdXlUSTBwQXhIQjVVanozY1FmVm5EaUdhcXRVQmhqSTlzUzNFeDJqYm5pZ2tLSE9sSV9kcVdNVHhNMmliRXQ3RC1UdQ?oc=5",
+      "source": "Michael Hudson",
+      "published_at": "Sat, 18 Jul 2026 23:10:14 GMT",
+      "summary": "The K-Shaped Collapse of the US Economy Michael Hudson",
+      "guid": "CBMigAFBVV95cUxNc0Y3Q2w0TVBab0dTWjRyRmJoeEZ4WW5aanNlNnZNRVhZem1GbXpidFZadlBsbW9Rd3F2LUMxdXlUSTBwQXhIQjVVanozY1FmVm5EaUdhcXRVQmhqSTlzUzNFeDJqYm5pZ2tLSE9sSV9kcVdNVHhNMmliRXQ3RC1UdQ"
     },
     {
       "title": "How Shifting Fed Policy and Rising Bond Yields Could Finally Crack the Stock Market - Barron's",
@@ -77,14 +85,6 @@
       "published_at": "Mon, 29 Jun 2026 07:00:00 GMT",
       "summary": "CAPITAL IDEAS: What happens to the stock market if the Federal Reserve raises interest rates? The Berkshire Edge",
       "guid": "CBMivgFBVV95cUxQM0N3MjBOMzV3c24tR2Q4OUhXMkhzZGFpNVpHOEJqZU42SnJiel9TWFFZd2hxeFJYenZDY1h3MXJyX2FjZXF4Unl1QUhMeldPWFhUV08wM09IQTd5cW5EblEtR1JMRmJkR0t5TGJMLWxYQ01CWEhrSkl0TUdpZjc0WWFlQnIxQ2Q5dkVEWkk1WUtLOHlxY2lyOXhWUi11TE9mSE1CeV8ySm9tXy1STkJMUUVXckZCb1FpbExvWGhn"
-    },
-    {
-      "title": "US stocks sink on worries about a possible hike to interest rates this year by the Federal Reserve - AP News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcUlFaFNwNVNsa1RTZTFkTEhaMmhGLXBpZnZjeVAwaDBSSzRjZUFIMTQ3UTctckwtOXRvUDB6c0sxUGVlRWY5SUM5ZUllV1doQVhoLWkyd3IxdFdkRWJGY2J0ZGxyNmNwTEU3LVVBdDlXWVlxM2QtdGpHWmtBMGl0WkFWQzNucTVFTF9lelY3ZjdXNzFYeDhN?oc=5",
-      "source": "AP News",
-      "published_at": "Wed, 17 Jun 2026 07:00:00 GMT",
-      "summary": "US stocks sink on worries about a possible hike to interest rates this year by the Federal Reserve AP News",
-      "guid": "CBMilwFBVV95cUxQcUlFaFNwNVNsa1RTZTFkTEhaMmhGLXBpZnZjeVAwaDBSSzRjZUFIMTQ3UTctckwtOXRvUDB6c0sxUGVlRWY5SUM5ZUllV1doQVhoLWkyd3IxdFdkRWJGY2J0ZGxyNmNwTEU3LVVBdDlXWVlxM2QtdGpHWmtBMGl0WkFWQzNucTVFTF9lelY3ZjdXNzFYeDhN"
     }
   ]
 }
