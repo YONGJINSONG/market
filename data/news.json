@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T14:46:10Z",
+  "generated_at": "2026-07-19T15:43:58Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -63,14 +63,6 @@
       "guid": "CBMif0FVX3lxTE43TFhjLThoWVRJQmpVelVESVh5bUlTcnN5YUxOX29tT0lIRjBKa3BQbzBwa1FGS2oyR09IQW0wcngzMHYyUzdzQkl2RUlhZkVzdTE2dEdBTkxjYkgyYWJlX1Jra2pHb3d0TERydW1EQ3RIWVlidjU5eXJESXptcEU"
     },
     {
-      "title": "The K-Shaped Collapse of the US Economy - Michael Hudson",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNc0Y3Q2w0TVBab0dTWjRyRmJoeEZ4WW5aanNlNnZNRVhZem1GbXpidFZadlBsbW9Rd3F2LUMxdXlUSTBwQXhIQjVVanozY1FmVm5EaUdhcXRVQmhqSTlzUzNFeDJqYm5pZ2tLSE9sSV9kcVdNVHhNMmliRXQ3RC1UdQ?oc=5",
-      "source": "Michael Hudson",
-      "published_at": "Sat, 18 Jul 2026 23:10:14 GMT",
-      "summary": "The K-Shaped Collapse of the US Economy Michael Hudson",
-      "guid": "CBMigAFBVV95cUxNc0Y3Q2w0TVBab0dTWjRyRmJoeEZ4WW5aanNlNnZNRVhZem1GbXpidFZadlBsbW9Rd3F2LUMxdXlUSTBwQXhIQjVVanozY1FmVm5EaUdhcXRVQmhqSTlzUzNFeDJqYm5pZ2tLSE9sSV9kcVdNVHhNMmliRXQ3RC1UdQ"
-    },
-    {
       "title": "How Shifting Fed Policy and Rising Bond Yields Could Finally Crack the Stock Market - Barron's",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1nakJLS3BWWGc3VGNEb2E0R2xia3J3eS01Tko5NzVjdktuUV8yLW5FYmptVDZrREM1VS0tZUV2UzNFeGt5THRSVkVCeTJwblJZbDhTbHE1RUR3QmlGbjRkMnhtWTYzWW1JbWVpcXJXZGxBV0d1S0h5aGZn?oc=5",
       "source": "Barron's",
@@ -85,6 +77,14 @@
       "published_at": "Mon, 29 Jun 2026 07:00:00 GMT",
       "summary": "CAPITAL IDEAS: What happens to the stock market if the Federal Reserve raises interest rates? The Berkshire Edge",
       "guid": "CBMivgFBVV95cUxQM0N3MjBOMzV3c24tR2Q4OUhXMkhzZGFpNVpHOEJqZU42SnJiel9TWFFZd2hxeFJYenZDY1h3MXJyX2FjZXF4Unl1QUhMeldPWFhUV08wM09IQTd5cW5EblEtR1JMRmJkR0t5TGJMLWxYQ01CWEhrSkl0TUdpZjc0WWFlQnIxQ2Q5dkVEWkk1WUtLOHlxY2lyOXhWUi11TE9mSE1CeV8ySm9tXy1STkJMUUVXckZCb1FpbExvWGhn"
+    },
+    {
+      "title": "The K-Shaped Collapse of the US Economy - Michael Hudson",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNc0Y3Q2w0TVBab0dTWjRyRmJoeEZ4WW5aanNlNnZNRVhZem1GbXpidFZadlBsbW9Rd3F2LUMxdXlUSTBwQXhIQjVVanozY1FmVm5EaUdhcXRVQmhqSTlzUzNFeDJqYm5pZ2tLSE9sSV9kcVdNVHhNMmliRXQ3RC1UdQ?oc=5",
+      "source": "Michael Hudson",
+      "published_at": "Sat, 18 Jul 2026 23:10:14 GMT",
+      "summary": "The K-Shaped Collapse of the US Economy Michael Hudson",
+      "guid": "CBMigAFBVV95cUxNc0Y3Q2w0TVBab0dTWjRyRmJoeEZ4WW5aanNlNnZNRVhZem1GbXpidFZadlBsbW9Rd3F2LUMxdXlUSTBwQXhIQjVVanozY1FmVm5EaUdhcXRVQmhqSTlzUzNFeDJqYm5pZ2tLSE9sSV9kcVdNVHhNMmliRXQ3RC1UdQ"
     }
   ]
 }
