@@ -1,9 +1,9 @@
 {
   "fear_and_greed": {
-    "score": 70,
+    "score": 71,
     "rating": "Greed"
   },
-  "generated_at": "2026-07-20T04:55:54Z",
+  "generated_at": "2026-07-20T07:56:12Z",
   "source": {
     "provider": "Yahoo Finance fallback",
     "fallback_for": "CNN Fear & Greed"
@@ -12,6 +12,6 @@
     "momentum": 81.09,
     "breadth": 67.81,
     "safe_haven": 62.06,
-    "volatility": 70.57
+    "volatility": 71.87
   }
 }
