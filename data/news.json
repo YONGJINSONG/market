@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T12:53:23Z",
+  "generated_at": "2026-07-20T15:00:08Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -15,6 +15,14 @@
       "guid": "CBMinAFBVV95cUxPSG5UVUo2Qjc0QmZXVkZkVG5DNDFUMHJVT3ZDUHZzOFBVOXVuWk55aE9ZcDVOVEFJa3Y5ZHpjNWx4YWgtb3VfSjRHQUJXMFJIV3lPcTFDSjFadXBmdENDeGx2eGMyZ2NVRjM2Mk9RYlU3X1B2OGMwWmR6ajgtMWxQUmFCMER2R1gxZk52LVZYWW1lVkxxeWp2S3dpVjA"
     },
     {
+      "title": "What to Look Out for in Economic Data This Week (July 20-24) - Kiplinger",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ?oc=5",
+      "source": "Kiplinger",
+      "published_at": "Fri, 17 Jul 2026 17:15:55 GMT",
+      "summary": "What to Look Out for in Economic Data This Week (July 20-24) Kiplinger",
+      "guid": "CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ"
+    },
+    {
       "title": "'WarshGPT': How Wall Street is adapting to the Fed's new era of communication - CNBC",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaW5BeHpmRUs0aGt0RThSdU1YaEQ1LXdRSTRyc0hhaGhjQldxR0o4LURIYVZpYkktdEZfbG1LSWZHRzRaV3pfaE5hZURoOFNtYnljTklUaU5RdkJScXA4Z285bktCOXk4dFZ1cjZabUE0QUl0NkQ2TXVQemgyUTNyWnVDU2xYN3d2NTBFUUM5enotbzFSREo3TNIBngFBVV95cUxPVUtIb2RCdVg4Z2VHcEQ4eVJ1ZEJzZjBFRnNTNWstelM4cDhlcTE5WGJJai16ZHRUc010ZFVjVHdxYkx5MXhsV200VWtHTUd1eUlXdmd2YmJVS3pYSGkwVVdnME5RU3g0OU5BaTdRWTFZZGJtMVEzbVdpT25fYTQ3aGhlV0tRM3JiTUxWQVR0blRVTVA3QkJ3MmctUjVfUQ?oc=5",
       "source": "CNBC",
@@ -23,12 +31,12 @@
       "guid": "CBMimAFBVV95cUxPaW5BeHpmRUs0aGt0RThSdU1YaEQ1LXdRSTRyc0hhaGhjQldxR0o4LURIYVZpYkktdEZfbG1LSWZHRzRaV3pfaE5hZURoOFNtYnljTklUaU5RdkJScXA4Z285bktCOXk4dFZ1cjZabUE0QUl0NkQ2TXVQemgyUTNyWnVDU2xYN3d2NTBFUUM5enotbzFSREo3TNIBngFBVV95cUxPVUtIb2RCdVg4Z2VHcEQ4eVJ1ZEJzZjBFRnNTNWstelM4cDhlcTE5WGJJai16ZHRUc010ZFVjVHdxYkx5MXhsV200VWtHTUd1eUlXdmd2YmJVS3pYSGkwVVdnME5RU3g0OU5BaTdRWTFZZGJtMVEzbVdpT25fYTQ3aGhlV0tRM3JiTUxWQVR0blRVTVA3QkJ3MmctUjVfUQ"
     },
     {
-      "title": "What to Look Out for in Economic Data This Week (July 20-24) - Kiplinger",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ?oc=5",
-      "source": "Kiplinger",
-      "published_at": "Fri, 17 Jul 2026 17:15:55 GMT",
-      "summary": "What to Look Out for in Economic Data This Week (July 20-24) Kiplinger",
-      "guid": "CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ"
+      "title": "Investors Just Got a Subtle Warning From the Federal Reserve. History Says the Stock Market Will Do This Next. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRTA5ZVFoVU0xb1h6cUpDUTZiQnRObGN1andUQmU0NkpZbVc5Zk8xNlB0Tmk5VUlGLWpIbGZvaGhra19vcFhwZWJGNmlrU3duc0hzNk9nOWxncllld09FcGJDdFAzc000MmI2emdPUnZGNzdZTjZwOGVZRzZxSXFWTkdVaUs1TGFKelJSUFpJYk1GdlFuaUpj?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Thu, 16 Jul 2026 10:02:00 GMT",
+      "summary": "Investors Just Got a Subtle Warning From the Federal Reserve. History Says the Stock Market Will Do This Next. The Motley Fool",
+      "guid": "CBMilwFBVV95cUxNRTA5ZVFoVU0xb1h6cUpDUTZiQnRObGN1andUQmU0NkpZbVc5Zk8xNlB0Tmk5VUlGLWpIbGZvaGhra19vcFhwZWJGNmlrU3duc0hzNk9nOWxncllld09FcGJDdFAzc000MmI2emdPUnZGNzdZTjZwOGVZRzZxSXFWTkdVaUs1TGFKelJSUFpJYk1GdlFuaUpj"
     },
     {
       "title": "Why Inflation May Suddenly Look Better Even Though Everything Still Costs More - 24/7 Wall St.",
@@ -39,14 +47,6 @@
       "guid": "CBMivwFBVV95cUxPalFHUWNYQndPZHR3UDRJLTl4blJBMV9OUUgxYTg2Yy1PMGZXNk5kNHZ4VkozTkRPM045WFRmblNSM0FJRmFqMEVOMnJkSmdMUXduNl9SNDlyUHV3eGJscjRwSFFfRC1ZNkxkelozOEhUcUpTaVU2WnFZY2xHMWVES25fUUl6SEVMSnhGeFBWZ1JtczV1WVNyeGg2Um9LeUVmS0NXMEVSVHZYYnR3X015WEJVZ2NHZlI1RmZPdXM4MA"
     },
     {
-      "title": "The Federal Reserve's July Inflation Forecast Is In, and It Contains a Surprising Red Flag - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRUFYZjBvejJUaTVOYWxnZW1hSGZwSGkyT1VGQXFrUk1fTDFQSXF4enQ2VkhXb3B5TGtGVEJoU1UtNndOeHpKZTVFaG9UNWNMejJxYV9CdHJreHhzSktYZkl1MXVjMWE4V3RCRUVFX2hyaVZRdkFIcTR2VndCakt6SUJYVFV0VVg5MzFwUU40ejlpTW54ZVE?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Mon, 20 Jul 2026 08:33:57 GMT",
-      "summary": "The Federal Reserve's July Inflation Forecast Is In, and It Contains a Surprising Red Flag The Motley Fool",
-      "guid": "CBMilgFBVV95cUxNRUFYZjBvejJUaTVOYWxnZW1hSGZwSGkyT1VGQXFrUk1fTDFQSXF4enQ2VkhXb3B5TGtGVEJoU1UtNndOeHpKZTVFaG9UNWNMejJxYV9CdHJreHhzSktYZkl1MXVjMWE4V3RCRUVFX2hyaVZRdkFIcTR2VndCakt6SUJYVFV0VVg5MzFwUU40ejlpTW54ZVE"
-    },
-    {
       "title": "Tensions with Iran add fresh uncertainty to an already shaky global economy - NPR",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS2lrWS1DSHFVdzNGdU1TcnJqNHpEYmxFU1J4T3prS09QaGNpTGE1SlA5LXZabUZIYXdaSWNuQjZZemxKMzlrbUV5dTh1OGZSSUFvdkNsX0prYlhNajAxNV9YRmwwQTIxcTgyV0xIeWpHVVZnejBJU3dnTnpQNW81SlNfek5IdjY2c29HdmdBUmhYTTBqMUtYdWRYTQ?oc=5",
       "source": "NPR",
@@ -55,20 +55,20 @@
       "guid": "CBMimwFBVV95cUxPS2lrWS1DSHFVdzNGdU1TcnJqNHpEYmxFU1J4T3prS09QaGNpTGE1SlA5LXZabUZIYXdaSWNuQjZZemxKMzlrbUV5dTh1OGZSSUFvdkNsX0prYlhNajAxNV9YRmwwQTIxcTgyV0xIeWpHVVZnejBJU3dnTnpQNW81SlNfek5IdjY2c29HdmdBUmhYTTBqMUtYdWRYTQ"
     },
     {
-      "title": "Surging equities and the trickle-up economy - The Real Economy Blog",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43TFhjLThoWVRJQmpVelVESVh5bUlTcnN5YUxOX29tT0lIRjBKa3BQbzBwa1FGS2oyR09IQW0wcngzMHYyUzdzQkl2RUlhZkVzdTE2dEdBTkxjYkgyYWJlX1Jra2pHb3d0TERydW1EQ3RIWVlidjU5eXJESXptcEU?oc=5",
-      "source": "The Real Economy Blog",
-      "published_at": "Mon, 22 Jun 2026 07:00:00 GMT",
-      "summary": "Surging equities and the trickle-up economy The Real Economy Blog",
-      "guid": "CBMif0FVX3lxTE43TFhjLThoWVRJQmpVelVESVh5bUlTcnN5YUxOX29tT0lIRjBKa3BQbzBwa1FGS2oyR09IQW0wcngzMHYyUzdzQkl2RUlhZkVzdTE2dEdBTkxjYkgyYWJlX1Jra2pHb3d0TERydW1EQ3RIWVlidjU5eXJESXptcEU"
-    },
-    {
       "title": "US stocks sink on worries about a possible hike to interest rates this year by the Federal Reserve - AP News",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcUlFaFNwNVNsa1RTZTFkTEhaMmhGLXBpZnZjeVAwaDBSSzRjZUFIMTQ3UTctckwtOXRvUDB6c0sxUGVlRWY5SUM5ZUllV1doQVhoLWkyd3IxdFdkRWJGY2J0ZGxyNmNwTEU3LVVBdDlXWVlxM2QtdGpHWmtBMGl0WkFWQzNucTVFTF9lelY3ZjdXNzFYeDhN?oc=5",
       "source": "AP News",
       "published_at": "Wed, 17 Jun 2026 07:00:00 GMT",
       "summary": "US stocks sink on worries about a possible hike to interest rates this year by the Federal Reserve AP News",
       "guid": "CBMilwFBVV95cUxQcUlFaFNwNVNsa1RTZTFkTEhaMmhGLXBpZnZjeVAwaDBSSzRjZUFIMTQ3UTctckwtOXRvUDB6c0sxUGVlRWY5SUM5ZUllV1doQVhoLWkyd3IxdFdkRWJGY2J0ZGxyNmNwTEU3LVVBdDlXWVlxM2QtdGpHWmtBMGl0WkFWQzNucTVFTF9lelY3ZjdXNzFYeDhN"
+    },
+    {
+      "title": "Surging equities and the trickle-up economy - The Real Economy Blog",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43TFhjLThoWVRJQmpVelVESVh5bUlTcnN5YUxOX29tT0lIRjBKa3BQbzBwa1FGS2oyR09IQW0wcngzMHYyUzdzQkl2RUlhZkVzdTE2dEdBTkxjYkgyYWJlX1Jra2pHb3d0TERydW1EQ3RIWVlidjU5eXJESXptcEU?oc=5",
+      "source": "The Real Economy Blog",
+      "published_at": "Mon, 22 Jun 2026 07:00:00 GMT",
+      "summary": "Surging equities and the trickle-up economy The Real Economy Blog",
+      "guid": "CBMif0FVX3lxTE43TFhjLThoWVRJQmpVelVESVh5bUlTcnN5YUxOX29tT0lIRjBKa3BQbzBwa1FGS2oyR09IQW0wcngzMHYyUzdzQkl2RUlhZkVzdTE2dEdBTkxjYkgyYWJlX1Jra2pHb3d0TERydW1EQ3RIWVlidjU5eXJESXptcEU"
     },
     {
       "title": "How Shifting Fed Policy and Rising Bond Yields Could Finally Crack the Stock Market - Barron's",
