@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T12:49:13Z",
+  "generated_at": "2026-07-21T14:53:24Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -21,14 +21,6 @@
       "published_at": "Fri, 17 Jul 2026 17:15:55 GMT",
       "summary": "What to Look Out for in Economic Data This Week (July 20-24) Kiplinger",
       "guid": "CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ"
-    },
-    {
-      "title": "'WarshGPT': How Wall Street is adapting to the Fed's new era of communication - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaW5BeHpmRUs0aGt0RThSdU1YaEQ1LXdRSTRyc0hhaGhjQldxR0o4LURIYVZpYkktdEZfbG1LSWZHRzRaV3pfaE5hZURoOFNtYnljTklUaU5RdkJScXA4Z285bktCOXk4dFZ1cjZabUE0QUl0NkQ2TXVQemgyUTNyWnVDU2xYN3d2NTBFUUM5enotbzFSREo3TNIBngFBVV95cUxPVUtIb2RCdVg4Z2VHcEQ4eVJ1ZEJzZjBFRnNTNWstelM4cDhlcTE5WGJJai16ZHRUc010ZFVjVHdxYkx5MXhsV200VWtHTUd1eUlXdmd2YmJVS3pYSGkwVVdnME5RU3g0OU5BaTdRWTFZZGJtMVEzbVdpT25fYTQ3aGhlV0tRM3JiTUxWQVR0blRVTVA3QkJ3MmctUjVfUQ?oc=5",
-      "source": "CNBC",
-      "published_at": "Sat, 18 Jul 2026 11:31:03 GMT",
-      "summary": "'WarshGPT': How Wall Street is adapting to the Fed's new era of communication CNBC",
-      "guid": "CBMimAFBVV95cUxPaW5BeHpmRUs0aGt0RThSdU1YaEQ1LXdRSTRyc0hhaGhjQldxR0o4LURIYVZpYkktdEZfbG1LSWZHRzRaV3pfaE5hZURoOFNtYnljTklUaU5RdkJScXA4Z285bktCOXk4dFZ1cjZabUE0QUl0NkQ2TXVQemgyUTNyWnVDU2xYN3d2NTBFUUM5enotbzFSREo3TNIBngFBVV95cUxPVUtIb2RCdVg4Z2VHcEQ4eVJ1ZEJzZjBFRnNTNWstelM4cDhlcTE5WGJJai16ZHRUc010ZFVjVHdxYkx5MXhsV200VWtHTUd1eUlXdmd2YmJVS3pYSGkwVVdnME5RU3g0OU5BaTdRWTFZZGJtMVEzbVdpT25fYTQ3aGhlV0tRM3JiTUxWQVR0blRVTVA3QkJ3MmctUjVfUQ"
     },
     {
       "title": "Investors Just Got a Subtle Warning From the Federal Reserve. History Says the Stock Market Will Do This Next. - The Motley Fool",
@@ -85,6 +77,14 @@
       "published_at": "Mon, 29 Jun 2026 07:00:00 GMT",
       "summary": "CAPITAL IDEAS: What happens to the stock market if the Federal Reserve raises interest rates? The Berkshire Edge",
       "guid": "CBMivgFBVV95cUxQM0N3MjBOMzV3c24tR2Q4OUhXMkhzZGFpNVpHOEJqZU42SnJiel9TWFFZd2hxeFJYenZDY1h3MXJyX2FjZXF4Unl1QUhMeldPWFhUV08wM09IQTd5cW5EblEtR1JMRmJkR0t5TGJMLWxYQ01CWEhrSkl0TUdpZjc0WWFlQnIxQ2Q5dkVEWkk1WUtLOHlxY2lyOXhWUi11TE9mSE1CeV8ySm9tXy1STkJMUUVXckZCb1FpbExvWGhn"
+    },
+    {
+      "title": "Are banks, post offices and the stock market open July 3? What to know - Lohud",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTUZLQkNtNmNDemN6MExyV0pzQzV2aFQybGtjU3JzZDAyRURRQ2tPU0g1emtweW5nYktmanYzcGwyOXdQSjR5ZE9FemNpdmdCRmxKXzhkOVhVUGYyM2I2eFVkbkJpdV9ETGFDb3BOeTRIT0pMSmhxdXllUkFEd045WGt3QWprUndaczhqSUt2WmhzOGpHVmlMdDdlcEFJYlNPWHlaV2c5dl80TFBtcHc?oc=5",
+      "source": "Lohud",
+      "published_at": "Fri, 03 Jul 2026 07:00:00 GMT",
+      "summary": "Are banks, post offices and the stock market open July 3? What to know Lohud",
+      "guid": "CBMirgFBVV95cUxOTUZLQkNtNmNDemN6MExyV0pzQzV2aFQybGtjU3JzZDAyRURRQ2tPU0g1emtweW5nYktmanYzcGwyOXdQSjR5ZE9FemNpdmdCRmxKXzhkOVhVUGYyM2I2eFVkbkJpdV9ETGFDb3BOeTRIT0pMSmhxdXllUkFEd045WGt3QWprUndaczhqSUt2WmhzOGpHVmlMdDdlcEFJYlNPWHlaV2c5dl80TFBtcHc"
     }
   ]
 }
