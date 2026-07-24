@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T17:48:01Z",
+  "generated_at": "2026-07-24T19:09:01Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,12 +7,28 @@
   },
   "items": [
     {
-      "title": "Odds of Federal Reserve rate hike surge as oil prices rip higher - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUWx3V1U4LVllRFN2ZUNCN3N5SUN0VF9Iakl4UVlSamwtUGFTNE1ZRXFzWmJMSUNaRnRZejE3V3NRMUVfNzU4Y012MGtaa1plNlUybkxycWRvQ3NKdTdtVVIzVWlIMG55ZHp3S2lyc3JmOEU3bHMtNFFvRkJleWlpYm9FNXPSAYoBQVVfeXFMTmRFOUNteTdsTVNuNXRycmx6YkxLVmVwWGQ4ZURXOVpjUGsxbkU3M1pyZzgxUVJEX2NjV1Jmc2hsY3hCaGpOSkM1UmNsRjFuUlJmYi1jLW1zYmlyOGZ4bWZYRDlCSklGYjVTVWdrWXFiU0Etb0l3NFgwdlRHNDU1YVFaQTllVDN4bmRn?oc=5",
+      "title": "Why the Federal Reserve should hike rates next week - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQb1p5Vmk0VndTMEtvVER1M1lka2Y4XzBvR285WWl2RGdyQVJPNFRFbWN6cmNXb1doMS1fcmNOX2M0ZjRpdl9ReW5IaUw1UUxFUzNLWGQ0Y1hZaXluV0l4MGJLQVZBbHBWczVjNEs0WkRaeDBvUXZSM29tTmZvVlFobXVlVzRyMF90RXo1ZkxaN29PQQ?oc=5",
       "source": "CNBC",
-      "published_at": "Thu, 23 Jul 2026 17:15:03 GMT",
-      "summary": "Odds of Federal Reserve rate hike surge as oil prices rip higher CNBC",
-      "guid": "CBMihAFBVV95cUxPUWx3V1U4LVllRFN2ZUNCN3N5SUN0VF9Iakl4UVlSamwtUGFTNE1ZRXFzWmJMSUNaRnRZejE3V3NRMUVfNzU4Y012MGtaa1plNlUybkxycWRvQ3NKdTdtVVIzVWlIMG55ZHp3S2lyc3JmOEU3bHMtNFFvRkJleWlpYm9FNXPSAYoBQVVfeXFMTmRFOUNteTdsTVNuNXRycmx6YkxLVmVwWGQ4ZURXOVpjUGsxbkU3M1pyZzgxUVJEX2NjV1Jmc2hsY3hCaGpOSkM1UmNsRjFuUlJmYi1jLW1zYmlyOGZ4bWZYRDlCSklGYjVTVWdrWXFiU0Etb0l3NFgwdlRHNDU1YVFaQTllVDN4bmRn"
+      "published_at": "Fri, 24 Jul 2026 17:54:28 GMT",
+      "summary": "Why the Federal Reserve should hike rates next week CNBC",
+      "guid": "CBMikgFBVV95cUxQb1p5Vmk0VndTMEtvVER1M1lka2Y4XzBvR285WWl2RGdyQVJPNFRFbWN6cmNXb1doMS1fcmNOX2M0ZjRpdl9ReW5IaUw1UUxFUzNLWGQ0Y1hZaXluV0l4MGJLQVZBbHBWczVjNEs0WkRaeDBvUXZSM29tTmZvVlFobXVlVzRyMF90RXo1ZkxaN29PQQ"
+    },
+    {
+      "title": "Lessons of the past will prevent repeat of the stock market crash of 1929 - The Berkshire Eagle",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSmRLcndlbVBOTUJ0SHR2MnRLMjBFWUdDWG0wZGNYMm4tZklDU1NMbGE3cEZ1LXBmXy1jZFBHQ18wSnA2M01ZYTVYWk9zZ1pObmZsTmM5RXhJS01KdkliQkNEQnVmQXlrYjZscWZPTzRCNGt1MmZSVWFMYmFha3k1a2RMSVB4QjdLZk5aNG1tUlhnSmZDS2FSYTNGd0JzMzNkb0x5aE9RUzhlTjNJZjVNT0hzMGVrcjlkRWFxZEZndnVNOGl4MTV4X0NWdVYzdWVjSHZIMGxoRm00cFI0RUlJ?oc=5",
+      "source": "The Berkshire Eagle",
+      "published_at": "Fri, 24 Jul 2026 18:00:00 GMT",
+      "summary": "Lessons of the past will prevent repeat of the stock market crash of 1929 The Berkshire Eagle",
+      "guid": "CBMi3wFBVV95cUxNSmRLcndlbVBOTUJ0SHR2MnRLMjBFWUdDWG0wZGNYMm4tZklDU1NMbGE3cEZ1LXBmXy1jZFBHQ18wSnA2M01ZYTVYWk9zZ1pObmZsTmM5RXhJS01KdkliQkNEQnVmQXlrYjZscWZPTzRCNGt1MmZSVWFMYmFha3k1a2RMSVB4QjdLZk5aNG1tUlhnSmZDS2FSYTNGd0JzMzNkb0x5aE9RUzhlTjNJZjVNT0hzMGVrcjlkRWFxZEZndnVNOGl4MTV4X0NWdVYzdWVjSHZIMGxoRm00cFI0RUlJ"
+    },
+    {
+      "title": "What to Watch for at Next Week’s Federal Reserve Meeting - Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qbmxGRVduaW5VbnZGSEVNYWI0OXBKLXJBVkEwa2w1anRoRXowM3VPVnppUEV6RTY2bkNFLTNSYUdvWXJYQzRTLWtSdE1LcnRCUTc1d0lfQkVORC1HTW5vMW82Tk12TkhMengtWmxXWklvTVp1cVNwOXlzb3F5VUk?oc=5",
+      "source": "Investopedia",
+      "published_at": "Fri, 24 Jul 2026 11:00:00 GMT",
+      "summary": "What to Watch for at Next Week’s Federal Reserve Meeting Investopedia",
+      "guid": "CBMif0FVX3lxTE5qbmxGRVduaW5VbnZGSEVNYWI0OXBKLXJBVkEwa2w1anRoRXowM3VPVnppUEV6RTY2bkNFLTNSYUdvWXJYQzRTLWtSdE1LcnRCUTc1d0lfQkVORC1HTW5vMW82Tk12TkhMengtWmxXWklvTVp1cVNwOXlzb3F5VUk"
     },
     {
       "title": "Kevin Warsh's Federal Reserve Is Split on Artificial Intelligence, and It Could Have Dire Consequences for Investors - The Motley Fool",
@@ -31,28 +47,20 @@
       "guid": "CBMinAFBVV95cUxPSG5UVUo2Qjc0QmZXVkZkVG5DNDFUMHJVT3ZDUHZzOFBVOXVuWk55aE9ZcDVOVEFJa3Y5ZHpjNWx4YWgtb3VfSjRHQUJXMFJIV3lPcTFDSjFadXBmdENDeGx2eGMyZ2NVRjM2Mk9RYlU3X1B2OGMwWmR6ajgtMWxQUmFCMER2R1gxZk52LVZYWW1lVkxxeWp2S3dpVjA"
     },
     {
+      "title": "Odds of Federal Reserve rate hike surge as oil prices rip higher - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUWx3V1U4LVllRFN2ZUNCN3N5SUN0VF9Iakl4UVlSamwtUGFTNE1ZRXFzWmJMSUNaRnRZejE3V3NRMUVfNzU4Y012MGtaa1plNlUybkxycWRvQ3NKdTdtVVIzVWlIMG55ZHp3S2lyc3JmOEU3bHMtNFFvRkJleWlpYm9FNXPSAYoBQVVfeXFMTmRFOUNteTdsTVNuNXRycmx6YkxLVmVwWGQ4ZURXOVpjUGsxbkU3M1pyZzgxUVJEX2NjV1Jmc2hsY3hCaGpOSkM1UmNsRjFuUlJmYi1jLW1zYmlyOGZ4bWZYRDlCSklGYjVTVWdrWXFiU0Etb0l3NFgwdlRHNDU1YVFaQTllVDN4bmRn?oc=5",
+      "source": "CNBC",
+      "published_at": "Thu, 23 Jul 2026 17:15:03 GMT",
+      "summary": "Odds of Federal Reserve rate hike surge as oil prices rip higher CNBC",
+      "guid": "CBMihAFBVV95cUxPUWx3V1U4LVllRFN2ZUNCN3N5SUN0VF9Iakl4UVlSamwtUGFTNE1ZRXFzWmJMSUNaRnRZejE3V3NRMUVfNzU4Y012MGtaa1plNlUybkxycWRvQ3NKdTdtVVIzVWlIMG55ZHp3S2lyc3JmOEU3bHMtNFFvRkJleWlpYm9FNXPSAYoBQVVfeXFMTmRFOUNteTdsTVNuNXRycmx6YkxLVmVwWGQ4ZURXOVpjUGsxbkU3M1pyZzgxUVJEX2NjV1Jmc2hsY3hCaGpOSkM1UmNsRjFuUlJmYi1jLW1zYmlyOGZ4bWZYRDlCSklGYjVTVWdrWXFiU0Etb0l3NFgwdlRHNDU1YVFaQTllVDN4bmRn"
+    },
+    {
       "title": "Tensions with Iran add fresh uncertainty to an already shaky global economy - NPR",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS2lrWS1DSHFVdzNGdU1TcnJqNHpEYmxFU1J4T3prS09QaGNpTGE1SlA5LXZabUZIYXdaSWNuQjZZemxKMzlrbUV5dTh1OGZSSUFvdkNsX0prYlhNajAxNV9YRmwwQTIxcTgyV0xIeWpHVVZnejBJU3dnTnpQNW81SlNfek5IdjY2c29HdmdBUmhYTTBqMUtYdWRYTQ?oc=5",
       "source": "NPR",
       "published_at": "Wed, 08 Jul 2026 07:00:00 GMT",
       "summary": "Tensions with Iran add fresh uncertainty to an already shaky global economy NPR",
       "guid": "CBMimwFBVV95cUxPS2lrWS1DSHFVdzNGdU1TcnJqNHpEYmxFU1J4T3prS09QaGNpTGE1SlA5LXZabUZIYXdaSWNuQjZZemxKMzlrbUV5dTh1OGZSSUFvdkNsX0prYlhNajAxNV9YRmwwQTIxcTgyV0xIeWpHVVZnejBJU3dnTnpQNW81SlNfek5IdjY2c29HdmdBUmhYTTBqMUtYdWRYTQ"
-    },
-    {
-      "title": "Stock market tumbles as Tesla, Alphabet earnings spark tech selloff - eciks.org",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9lYk83UEdFQ3E4TzYxOGR6VVA0TmJfenpsQXJ6eU5oQ2NQbnRNblFMeFJYZnVPUjBnR3hOV0Z6LXZNNG96c0lfemRtQS1lZ3RNLVJDZ2trbURtUGdjSVYwWE5ocUc0UE43SExKUTZBUkR6UQ?oc=5",
-      "source": "eciks.org",
-      "published_at": "Thu, 23 Jul 2026 20:25:37 GMT",
-      "summary": "Stock market tumbles as Tesla, Alphabet earnings spark tech selloff eciks.org",
-      "guid": "CBMickFVX3lxTE9lYk83UEdFQ3E4TzYxOGR6VVA0TmJfenpsQXJ6eU5oQ2NQbnRNblFMeFJYZnVPUjBnR3hOV0Z6LXZNNG96c0lfemRtQS1lZ3RNLVJDZ2trbURtUGdjSVYwWE5ocUc0UE43SExKUTZBUkR6UQ"
-    },
-    {
-      "title": "Fed's Rate Decision and AI Earnings Impact on Stock Market Trajectory - Devdiscourse",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPa2dWOHRmQjZXM0JoMU1nX09TczRacXV4NkY2ZXFic0xrZnN4czh4d3JNenRteDU4Uk5Kek85WERVYktpRFRIeU1Vb0FXZUpLMHZ5T1hwekpzeTVTU3pqUnB4RFV0YVNkNG5KZ0J2TFcza1hpdnVLc2QwNVZ5ZmZmXzZVQUFpSkZkaEVFcWw3Qngwbm51WmliVXJObGo4TGNJQzVlOW1GUFU1dDFNNFVjR1Q2aHBpdG1PNFAta3ZCb9IBxAFBVV95cUxPVU9XV3pQWmJEMTVxREU5REpzakVEX29lWF93VFFaSVcyYVNnVXk2cnQxZ3ZFSlVkN0Y1b09QeXo3ZFZoektSQ0RKVmVMNTh4RGowTGdacnVVSVFROEl6MFhRcnM1RjMzUVNMNUtEcXR4b08xWXZDeldUN3otbDVaWndjZms0Um8wSHdWaHRnNXoycngyWnJIdk5LcGNpU1pkSTBvNFdHcjRzUTFqMDJKTFhPLTJhUUUwTTBFWVFQRnprM29T?oc=5",
-      "source": "Devdiscourse",
-      "published_at": "Fri, 24 Jul 2026 10:01:21 GMT",
-      "summary": "Fed's Rate Decision and AI Earnings Impact on Stock Market Trajectory Devdiscourse",
-      "guid": "CBMivwFBVV95cUxPa2dWOHRmQjZXM0JoMU1nX09TczRacXV4NkY2ZXFic0xrZnN4czh4d3JNenRteDU4Uk5Kek85WERVYktpRFRIeU1Vb0FXZUpLMHZ5T1hwekpzeTVTU3pqUnB4RFV0YVNkNG5KZ0J2TFcza1hpdnVLc2QwNVZ5ZmZmXzZVQUFpSkZkaEVFcWw3Qngwbm51WmliVXJObGo4TGNJQzVlOW1GUFU1dDFNNFVjR1Q2aHBpdG1PNFAta3ZCb9IBxAFBVV95cUxPVU9XV3pQWmJEMTVxREU5REpzakVEX29lWF93VFFaSVcyYVNnVXk2cnQxZ3ZFSlVkN0Y1b09QeXo3ZFZoektSQ0RKVmVMNTh4RGowTGdacnVVSVFROEl6MFhRcnM1RjMzUVNMNUtEcXR4b08xWXZDeldUN3otbDVaWndjZms0Um8wSHdWaHRnNXoycngyWnJIdk5LcGNpU1pkSTBvNFdHcjRzUTFqMDJKTFhPLTJhUUUwTTBFWVFQRnprM29T"
     },
     {
       "title": "CAPITAL IDEAS: What happens to the stock market if the Federal Reserve raises interest rates? - The Berkshire Edge",
@@ -63,28 +71,20 @@
       "guid": "CBMivgFBVV95cUxQM0N3MjBOMzV3c24tR2Q4OUhXMkhzZGFpNVpHOEJqZU42SnJiel9TWFFZd2hxeFJYenZDY1h3MXJyX2FjZXF4Unl1QUhMeldPWFhUV08wM09IQTd5cW5EblEtR1JMRmJkR0t5TGJMLWxYQ01CWEhrSkl0TUdpZjc0WWFlQnIxQ2Q5dkVEWkk1WUtLOHlxY2lyOXhWUi11TE9mSE1CeV8ySm9tXy1STkJMUUVXckZCb1FpbExvWGhn"
     },
     {
-      "title": "What to Look Out for in Economic Data This Week (July 20-24) - Kiplinger",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ?oc=5",
-      "source": "Kiplinger",
-      "published_at": "Fri, 17 Jul 2026 17:15:55 GMT",
-      "summary": "What to Look Out for in Economic Data This Week (July 20-24) Kiplinger",
-      "guid": "CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ"
+      "title": "Stocks drive record share of American wealth - Axios",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tREZqZEtISDliRTZVeFV4MkhkbW9ueER2Z25YRDRuNXBDaGVGLTlKMC1JUUVfWXFYT2h3YWtwemRuVU9NLVg0Qi03bEdoQlBfcVBmckN6anZtZVVTakstVlVZWWU0bm5YSmUwaQ?oc=5",
+      "source": "Axios",
+      "published_at": "Thu, 04 Jun 2026 07:00:00 GMT",
+      "summary": "Stocks drive record share of American wealth Axios",
+      "guid": "CBMibEFVX3lxTE4tREZqZEtISDliRTZVeFV4MkhkbW9ueER2Z25YRDRuNXBDaGVGLTlKMC1JUUVfWXFYT2h3YWtwemRuVU9NLVg0Qi03bEdoQlBfcVBmckN6anZtZVVTakstVlVZWWU0bm5YSmUwaQ"
     },
     {
-      "title": "What to Expect in Markets this Week: Inflation Data, Warsh Testimony in Congress, Bank Earnings - Investopedia",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRS1BOUNiOWQ4VWpFcUhRY0RmTGFvcnFScjFraHM2SlMxS3Q3VjB0eDYyazBzdlh1bVVxN1ZJb3B3aTFkY24xeUt6S1l2ejJjeUhQTDl1SFBBbUpUM0VySjg2NzN1SkNNTUtfX0g0aUlLSTA5dllCd3lMU0p5R2g2VEhhc1BQTm9nLVVJc3RBT0ZNX0IwSFhpV0xBcGN5ZzhnYUVXRm5ISWFoY1JzYWh5TUNLLVRCeTlRMVcwYld2QnN1RFN1OF9HS2NfaE0teUxucE1MZ1FDdG9yRXM?oc=5",
-      "source": "Investopedia",
-      "published_at": "Sun, 12 Jul 2026 07:00:00 GMT",
-      "summary": "What to Expect in Markets this Week: Inflation Data, Warsh Testimony in Congress, Bank Earnings Investopedia",
-      "guid": "CBMi2wFBVV95cUxPRS1BOUNiOWQ4VWpFcUhRY0RmTGFvcnFScjFraHM2SlMxS3Q3VjB0eDYyazBzdlh1bVVxN1ZJb3B3aTFkY24xeUt6S1l2ejJjeUhQTDl1SFBBbUpUM0VySjg2NzN1SkNNTUtfX0g0aUlLSTA5dllCd3lMU0p5R2g2VEhhc1BQTm9nLVVJc3RBT0ZNX0IwSFhpV0xBcGN5ZzhnYUVXRm5ISWFoY1JzYWh5TUNLLVRCeTlRMVcwYld2QnN1RFN1OF9HS2NfaE0teUxucE1MZ1FDdG9yRXM"
-    },
-    {
-      "title": "Will the Federal Reserve Crush the Small-Cap Stock Revival? - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObEkyNnNKUlBxZndnaXkzLWZwTDdjVFFoSE04R09vQ2k5THM3dWVQVFdmU2RNcFVIMjhvdHdGYmhhelZaNnlpRkxweTd4VUYxeVVJdzNXYnNwY092MXhzU0l4WVk3eHNYZXNZLV92WEdCTzRleWFBVmw4N2cySXAyZVBwU2F5NDhfRWxENl8xU2FxVkNkS0dianU0THhvVWwtT1c5MQ?oc=5",
-      "source": "24/7 Wall St.",
-      "published_at": "Tue, 07 Jul 2026 07:00:00 GMT",
-      "summary": "Will the Federal Reserve Crush the Small-Cap Stock Revival? 24/7 Wall St.",
-      "guid": "CBMipAFBVV95cUxObEkyNnNKUlBxZndnaXkzLWZwTDdjVFFoSE04R09vQ2k5THM3dWVQVFdmU2RNcFVIMjhvdHdGYmhhelZaNnlpRkxweTd4VUYxeVVJdzNXYnNwY092MXhzU0l4WVk3eHNYZXNZLV92WEdCTzRleWFBVmw4N2cySXAyZVBwU2F5NDhfRWxENl8xU2FxVkNkS0dianU0THhvVWwtT1c5MQ"
+      "title": "Surging equities and the trickle-up economy - The Real Economy Blog",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43TFhjLThoWVRJQmpVelVESVh5bUlTcnN5YUxOX29tT0lIRjBKa3BQbzBwa1FGS2oyR09IQW0wcngzMHYyUzdzQkl2RUlhZkVzdTE2dEdBTkxjYkgyYWJlX1Jra2pHb3d0TERydW1EQ3RIWVlidjU5eXJESXptcEU?oc=5",
+      "source": "The Real Economy Blog",
+      "published_at": "Mon, 22 Jun 2026 07:00:00 GMT",
+      "summary": "Surging equities and the trickle-up economy The Real Economy Blog",
+      "guid": "CBMif0FVX3lxTE43TFhjLThoWVRJQmpVelVESVh5bUlTcnN5YUxOX29tT0lIRjBKa3BQbzBwa1FGS2oyR09IQW0wcngzMHYyUzdzQkl2RUlhZkVzdTE2dEdBTkxjYkgyYWJlX1Jra2pHb3d0TERydW1EQ3RIWVlidjU5eXJESXptcEU"
     }
   ]
 }
