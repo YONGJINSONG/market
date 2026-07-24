@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T01:05:01Z",
+  "generated_at": "2026-07-24T04:28:06Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -21,6 +21,14 @@
       "published_at": "Wed, 01 Jul 2026 07:00:00 GMT",
       "summary": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says a Big Drop Could Follow. Yahoo Finance",
       "guid": "CBMinAFBVV95cUxPSG5UVUo2Qjc0QmZXVkZkVG5DNDFUMHJVT3ZDUHZzOFBVOXVuWk55aE9ZcDVOVEFJa3Y5ZHpjNWx4YWgtb3VfSjRHQUJXMFJIV3lPcTFDSjFadXBmdENDeGx2eGMyZ2NVRjM2Mk9RYlU3X1B2OGMwWmR6ajgtMWxQUmFCMER2R1gxZk52LVZYWW1lVkxxeWp2S3dpVjA"
+    },
+    {
+      "title": "Stock market tumbles as Tesla, Alphabet earnings spark tech selloff - eciks.org",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9lYk83UEdFQ3E4TzYxOGR6VVA0TmJfenpsQXJ6eU5oQ2NQbnRNblFMeFJYZnVPUjBnR3hOV0Z6LXZNNG96c0lfemRtQS1lZ3RNLVJDZ2trbURtUGdjSVYwWE5ocUc0UE43SExKUTZBUkR6UQ?oc=5",
+      "source": "eciks.org",
+      "published_at": "Thu, 23 Jul 2026 20:25:37 GMT",
+      "summary": "Stock market tumbles as Tesla, Alphabet earnings spark tech selloff eciks.org",
+      "guid": "CBMickFVX3lxTE9lYk83UEdFQ3E4TzYxOGR6VVA0TmJfenpsQXJ6eU5oQ2NQbnRNblFMeFJYZnVPUjBnR3hOV0Z6LXZNNG96c0lfemRtQS1lZ3RNLVJDZ2trbURtUGdjSVYwWE5ocUc0UE43SExKUTZBUkR6UQ"
     },
     {
       "title": "Short-sighted stock market can no longer brush off war: ‘It’s Too hard to ignore $100 oil’ - Crypto Briefing",
@@ -47,20 +55,20 @@
       "guid": "CBMivgFBVV95cUxQM0N3MjBOMzV3c24tR2Q4OUhXMkhzZGFpNVpHOEJqZU42SnJiel9TWFFZd2hxeFJYenZDY1h3MXJyX2FjZXF4Unl1QUhMeldPWFhUV08wM09IQTd5cW5EblEtR1JMRmJkR0t5TGJMLWxYQ01CWEhrSkl0TUdpZjc0WWFlQnIxQ2Q5dkVEWkk1WUtLOHlxY2lyOXhWUi11TE9mSE1CeV8ySm9tXy1STkJMUUVXckZCb1FpbExvWGhn"
     },
     {
-      "title": "What to Look Out for in Economic Data This Week (July 20-24) - Kiplinger",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ?oc=5",
-      "source": "Kiplinger",
-      "published_at": "Fri, 17 Jul 2026 17:15:55 GMT",
-      "summary": "What to Look Out for in Economic Data This Week (July 20-24) Kiplinger",
-      "guid": "CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ"
-    },
-    {
       "title": "US stocks sink on worries about a possible hike to interest rates this year by the Federal Reserve - AP News",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcUlFaFNwNVNsa1RTZTFkTEhaMmhGLXBpZnZjeVAwaDBSSzRjZUFIMTQ3UTctckwtOXRvUDB6c0sxUGVlRWY5SUM5ZUllV1doQVhoLWkyd3IxdFdkRWJGY2J0ZGxyNmNwTEU3LVVBdDlXWVlxM2QtdGpHWmtBMGl0WkFWQzNucTVFTF9lelY3ZjdXNzFYeDhN?oc=5",
       "source": "AP News",
       "published_at": "Wed, 17 Jun 2026 07:00:00 GMT",
       "summary": "US stocks sink on worries about a possible hike to interest rates this year by the Federal Reserve AP News",
       "guid": "CBMilwFBVV95cUxQcUlFaFNwNVNsa1RTZTFkTEhaMmhGLXBpZnZjeVAwaDBSSzRjZUFIMTQ3UTctckwtOXRvUDB6c0sxUGVlRWY5SUM5ZUllV1doQVhoLWkyd3IxdFdkRWJGY2J0ZGxyNmNwTEU3LVVBdDlXWVlxM2QtdGpHWmtBMGl0WkFWQzNucTVFTF9lelY3ZjdXNzFYeDhN"
+    },
+    {
+      "title": "What to Look Out for in Economic Data This Week (July 20-24) - Kiplinger",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ?oc=5",
+      "source": "Kiplinger",
+      "published_at": "Fri, 17 Jul 2026 17:15:55 GMT",
+      "summary": "What to Look Out for in Economic Data This Week (July 20-24) Kiplinger",
+      "guid": "CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ"
     },
     {
       "title": "How Shifting Fed Policy and Rising Bond Yields Could Finally Crack the Stock Market - Barron's",
@@ -77,14 +85,6 @@
       "published_at": "Thu, 04 Jun 2026 07:00:00 GMT",
       "summary": "Stocks drive record share of American wealth Axios",
       "guid": "CBMibEFVX3lxTE4tREZqZEtISDliRTZVeFV4MkhkbW9ueER2Z25YRDRuNXBDaGVGLTlKMC1JUUVfWXFYT2h3YWtwemRuVU9NLVg0Qi03bEdoQlBfcVBmckN6anZtZVVTakstVlVZWWU0bm5YSmUwaQ"
-    },
-    {
-      "title": "Surging equities and the trickle-up economy - The Real Economy Blog",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43TFhjLThoWVRJQmpVelVESVh5bUlTcnN5YUxOX29tT0lIRjBKa3BQbzBwa1FGS2oyR09IQW0wcngzMHYyUzdzQkl2RUlhZkVzdTE2dEdBTkxjYkgyYWJlX1Jra2pHb3d0TERydW1EQ3RIWVlidjU5eXJESXptcEU?oc=5",
-      "source": "The Real Economy Blog",
-      "published_at": "Mon, 22 Jun 2026 07:00:00 GMT",
-      "summary": "Surging equities and the trickle-up economy The Real Economy Blog",
-      "guid": "CBMif0FVX3lxTE43TFhjLThoWVRJQmpVelVESVh5bUlTcnN5YUxOX29tT0lIRjBKa3BQbzBwa1FGS2oyR09IQW0wcngzMHYyUzdzQkl2RUlhZkVzdTE2dEdBTkxjYkgyYWJlX1Jra2pHb3d0TERydW1EQ3RIWVlidjU5eXJESXptcEU"
     }
   ]
 }
