@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T12:06:52Z",
+  "generated_at": "2026-07-26T13:58:12Z",
   "benchmark": "SPY",
   "sectors": [
     {
@@ -267,10 +267,6 @@
       "symbol": "XLC",
       "trail": [
         {
-          "rsRatio": 100.37,
-          "rsMomentum": 99.09
-        },
-        {
           "rsRatio": 100.49,
           "rsMomentum": 100.12
         },
@@ -285,9 +281,13 @@
         {
           "rsRatio": 96.5,
           "rsMomentum": 97.99
+        },
+        {
+          "rsRatio": 97.5,
+          "rsMomentum": 101.05
         }
       ]
     }
   ],
-  "lastUpdated": "2026-07-26T12:06:52Z"
+  "lastUpdated": "2026-07-26T13:58:12Z"
 }
