@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-07-25T22:33:31Z",
+  "generated_at": "2026-07-26T01:12:19Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "Investors: July 29 Will Be a Critical Day for the Stock Market. Here's Why. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRWZiZnNsYnNDTmJONTVIRmFpTU9LY0hpaUFwQ1RlR1dndVRSbDVHV1pKT3VVb250ek5FNGp6V1Q1QTRBcnJWSFR5Snctc3NIM1N6QkV0UWM1bFZvREo4am5YVm5LcGtCd085WEJQVVZtTGxWTG93NlRZY2RnMEw2bUpEVDFYXzBSaVp4UktlVWVUNG5GWXBGNFYwbw?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Sat, 25 Jul 2026 13:02:00 GMT",
+      "summary": "Investors: July 29 Will Be a Critical Day for the Stock Market. Here's Why. Yahoo Finance",
+      "guid": "CBMimwFBVV95cUxNRWZiZnNsYnNDTmJONTVIRmFpTU9LY0hpaUFwQ1RlR1dndVRSbDVHV1pKT3VVb250ek5FNGp6V1Q1QTRBcnJWSFR5Snctc3NIM1N6QkV0UWM1bFZvREo4am5YVm5LcGtCd085WEJQVVZtTGxWTG93NlRZY2RnMEw2bUpEVDFYXzBSaVp4UktlVWVUNG5GWXBGNFYwbw"
+    },
     {
       "title": "Odds of Federal Reserve rate hike surge as oil prices rip higher - CNBC",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUWx3V1U4LVllRFN2ZUNCN3N5SUN0VF9Iakl4UVlSamwtUGFTNE1ZRXFzWmJMSUNaRnRZejE3V3NRMUVfNzU4Y012MGtaa1plNlUybkxycWRvQ3NKdTdtVVIzVWlIMG55ZHp3S2lyc3JmOEU3bHMtNFFvRkJleWlpYm9FNXPSAYoBQVVfeXFMTmRFOUNteTdsTVNuNXRycmx6YkxLVmVwWGQ4ZURXOVpjUGsxbkU3M1pyZzgxUVJEX2NjV1Jmc2hsY3hCaGpOSkM1UmNsRjFuUlJmYi1jLW1zYmlyOGZ4bWZYRDlCSklGYjVTVWdrWXFiU0Etb0l3NFgwdlRHNDU1YVFaQTllVDN4bmRn?oc=5",
@@ -21,14 +29,6 @@
       "published_at": "Sat, 25 Jul 2026 13:42:00 GMT",
       "summary": "Investors: July 29 Will Be a Critical Day for the Stock Market. Here's Why. The Motley Fool",
       "guid": "CBMilwFBVV95cUxNTEJxbEdkdUpHajA0UGRJVUY5NTdDWkpEbkl5VWVOQkwza2JmVXdvQldwMHptNVdXWWdNU1NjbGVXWHRNcUVRNGJjSHdSMUVSeld4dTUyd00tblZVQzcxQ1VsVnFycno1aGx3YVlxNm40R0JrbUpUZXgwcXYzRFRYS0U4OTF3aTRxOU5ENS1DUWlsSEFiNkhz"
-    },
-    {
-      "title": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says a Big Drop Could Follow. - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSG5UVUo2Qjc0QmZXVkZkVG5DNDFUMHJVT3ZDUHZzOFBVOXVuWk55aE9ZcDVOVEFJa3Y5ZHpjNWx4YWgtb3VfSjRHQUJXMFJIV3lPcTFDSjFadXBmdENDeGx2eGMyZ2NVRjM2Mk9RYlU3X1B2OGMwWmR6ajgtMWxQUmFCMER2R1gxZk52LVZYWW1lVkxxeWp2S3dpVjA?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Wed, 01 Jul 2026 07:00:00 GMT",
-      "summary": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says a Big Drop Could Follow. Yahoo Finance",
-      "guid": "CBMinAFBVV95cUxPSG5UVUo2Qjc0QmZXVkZkVG5DNDFUMHJVT3ZDUHZzOFBVOXVuWk55aE9ZcDVOVEFJa3Y5ZHpjNWx4YWgtb3VfSjRHQUJXMFJIV3lPcTFDSjFadXBmdENDeGx2eGMyZ2NVRjM2Mk9RYlU3X1B2OGMwWmR6ajgtMWxQUmFCMER2R1gxZk52LVZYWW1lVkxxeWp2S3dpVjA"
     },
     {
       "title": "Economy bringing mixed messages ahead of next federal reserve meeting - WBFF",
@@ -55,14 +55,6 @@
       "guid": "CBMi3wFBVV95cUxNSmRLcndlbVBOTUJ0SHR2MnRLMjBFWUdDWG0wZGNYMm4tZklDU1NMbGE3cEZ1LXBmXy1jZFBHQ18wSnA2M01ZYTVYWk9zZ1pObmZsTmM5RXhJS01KdkliQkNEQnVmQXlrYjZscWZPTzRCNGt1MmZSVWFMYmFha3k1a2RMSVB4QjdLZk5aNG1tUlhnSmZDS2FSYTNGd0JzMzNkb0x5aE9RUzhlTjNJZjVNT0hzMGVrcjlkRWFxZEZndnVNOGl4MTV4X0NWdVYzdWVjSHZIMGxoRm00cFI0RUlJ"
     },
     {
-      "title": "Gold, Silver, and the Coming Monetary Reckoning: Greg Weldon Sees Major Opportunity Ahead - Medium",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSmd3SmRrVUdCV0lqV1pZbFBnSHFON2RwSkk0NWxhbXY4UHQ2dnFvVVZZRnR4aFctd0xSaUhGRWhkdEN6U25VWVVXbUdieHBFMGNYQU9oS1JXX0xGREx2VHFjQ21CRWI2SGlKWjJwUlFmNUdZaGRHNE5yVWVmTlVRNFdONDNjNmZpNE1OMGNOT3l3RFpwd3VjNWVYMEQ2NDllOE1iNFBaWXA1MTVKN3NnbEVyRVJIblpCcExPQkJGSFpUX3NvUjNjWVpLT0IzdzExbkJ0bg?oc=5",
-      "source": "Medium",
-      "published_at": "Sat, 25 Jul 2026 11:01:01 GMT",
-      "summary": "Gold, Silver, and the Coming Monetary Reckoning: Greg Weldon Sees Major Opportunity Ahead Medium",
-      "guid": "CBMi1AFBVV95cUxOSmd3SmRrVUdCV0lqV1pZbFBnSHFON2RwSkk0NWxhbXY4UHQ2dnFvVVZZRnR4aFctd0xSaUhGRWhkdEN6U25VWVVXbUdieHBFMGNYQU9oS1JXX0xGREx2VHFjQ21CRWI2SGlKWjJwUlFmNUdZaGRHNE5yVWVmTlVRNFdONDNjNmZpNE1OMGNOT3l3RFpwd3VjNWVYMEQ2NDllOE1iNFBaWXA1MTVKN3NnbEVyRVJIblpCcExPQkJGSFpUX3NvUjNjWVpLT0IzdzExbkJ0bg"
-    },
-    {
       "title": "Tensions with Iran add fresh uncertainty to an already shaky global economy - NPR",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS2lrWS1DSHFVdzNGdU1TcnJqNHpEYmxFU1J4T3prS09QaGNpTGE1SlA5LXZabUZIYXdaSWNuQjZZemxKMzlrbUV5dTh1OGZSSUFvdkNsX0prYlhNajAxNV9YRmwwQTIxcTgyV0xIeWpHVVZnejBJU3dnTnpQNW81SlNfek5IdjY2c29HdmdBUmhYTTBqMUtYdWRYTQ?oc=5",
       "source": "NPR",
@@ -85,6 +77,14 @@
       "published_at": "Wed, 17 Jun 2026 07:00:00 GMT",
       "summary": "US stocks sink on worries about a possible hike to interest rates this year by the Federal Reserve AP News",
       "guid": "CBMilwFBVV95cUxQcUlFaFNwNVNsa1RTZTFkTEhaMmhGLXBpZnZjeVAwaDBSSzRjZUFIMTQ3UTctckwtOXRvUDB6c0sxUGVlRWY5SUM5ZUllV1doQVhoLWkyd3IxdFdkRWJGY2J0ZGxyNmNwTEU3LVVBdDlXWVlxM2QtdGpHWmtBMGl0WkFWQzNucTVFTF9lelY3ZjdXNzFYeDhN"
+    },
+    {
+      "title": "Stocks drive record share of American wealth - Axios",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tREZqZEtISDliRTZVeFV4MkhkbW9ueER2Z25YRDRuNXBDaGVGLTlKMC1JUUVfWXFYT2h3YWtwemRuVU9NLVg0Qi03bEdoQlBfcVBmckN6anZtZVVTakstVlVZWWU0bm5YSmUwaQ?oc=5",
+      "source": "Axios",
+      "published_at": "Thu, 04 Jun 2026 07:00:00 GMT",
+      "summary": "Stocks drive record share of American wealth Axios",
+      "guid": "CBMibEFVX3lxTE4tREZqZEtISDliRTZVeFV4MkhkbW9ueER2Z25YRDRuNXBDaGVGLTlKMC1JUUVfWXFYT2h3YWtwemRuVU9NLVg0Qi03bEdoQlBfcVBmckN6anZtZVVTakstVlVZWWU0bm5YSmUwaQ"
     }
   ]
 }
