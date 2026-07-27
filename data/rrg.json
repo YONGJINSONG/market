@@ -1,11 +1,15 @@
 {
-  "generated_at": "2026-07-27T19:57:34Z",
+  "generated_at": "2026-07-27T21:06:15Z",
   "benchmark": "SPY",
   "sectors": [
     {
       "name": "Technology",
       "symbol": "XLK",
       "trail": [
+        {
+          "rsRatio": 98.17,
+          "rsMomentum": 100.54
+        },
         {
           "rsRatio": 100.09,
           "rsMomentum": 101.95
@@ -19,12 +23,8 @@
           "rsMomentum": 100.43
         },
         {
-          "rsRatio": 99.22,
-          "rsMomentum": 98.79
-        },
-        {
-          "rsRatio": 98.59,
-          "rsMomentum": 99.36
+          "rsRatio": 98.4,
+          "rsMomentum": 97.97
         }
       ]
     },
@@ -32,6 +32,10 @@
       "name": "Health Care",
       "symbol": "XLV",
       "trail": [
+        {
+          "rsRatio": 99.86,
+          "rsMomentum": 99.06
+        },
         {
           "rsRatio": 99.92,
           "rsMomentum": 100.06
@@ -45,12 +49,8 @@
           "rsMomentum": 102.38
         },
         {
-          "rsRatio": 102.39,
-          "rsMomentum": 100.27
-        },
-        {
-          "rsRatio": 102.69,
-          "rsMomentum": 100.3
+          "rsRatio": 102.84,
+          "rsMomentum": 100.71
         }
       ]
     },
@@ -58,6 +58,10 @@
       "name": "Financials",
       "symbol": "XLF",
       "trail": [
+        {
+          "rsRatio": 101.0,
+          "rsMomentum": 99.66
+        },
         {
           "rsRatio": 100.29,
           "rsMomentum": 99.29
@@ -71,12 +75,8 @@
           "rsMomentum": 100.62
         },
         {
-          "rsRatio": 101.19,
-          "rsMomentum": 100.43
-        },
-        {
-          "rsRatio": 101.89,
-          "rsMomentum": 100.7
+          "rsRatio": 102.09,
+          "rsMomentum": 101.33
         }
       ]
     },
@@ -84,6 +84,10 @@
       "name": "Energy",
       "symbol": "XLE",
       "trail": [
+        {
+          "rsRatio": 103.89,
+          "rsMomentum": 99.63
+        },
         {
           "rsRatio": 103.33,
           "rsMomentum": 99.46
@@ -97,12 +101,8 @@
           "rsMomentum": 100.57
         },
         {
-          "rsRatio": 103.91,
-          "rsMomentum": 99.3
-        },
-        {
-          "rsRatio": 101.29,
-          "rsMomentum": 97.47
+          "rsRatio": 101.92,
+          "rsMomentum": 97.4
         }
       ]
     },
@@ -110,6 +110,10 @@
       "name": "Consumer Discretionary",
       "symbol": "XLY",
       "trail": [
+        {
+          "rsRatio": 99.48,
+          "rsMomentum": 99.61
+        },
         {
           "rsRatio": 99.1,
           "rsMomentum": 99.62
@@ -123,12 +127,8 @@
           "rsMomentum": 97.09
         },
         {
-          "rsRatio": 96.68,
-          "rsMomentum": 100.97
-        },
-        {
-          "rsRatio": 98.22,
-          "rsMomentum": 101.6
+          "rsRatio": 97.8,
+          "rsMomentum": 102.14
         }
       ]
     },
@@ -136,6 +136,10 @@
       "name": "Consumer Staples",
       "symbol": "XLP",
       "trail": [
+        {
+          "rsRatio": 101.51,
+          "rsMomentum": 99.56
+        },
         {
           "rsRatio": 99.82,
           "rsMomentum": 98.34
@@ -149,12 +153,8 @@
           "rsMomentum": 99.67
         },
         {
-          "rsRatio": 100.8,
-          "rsMomentum": 100.79
-        },
-        {
-          "rsRatio": 102.08,
-          "rsMomentum": 101.27
+          "rsRatio": 102.1,
+          "rsMomentum": 102.09
         }
       ]
     },
@@ -162,6 +162,10 @@
       "name": "Industrials",
       "symbol": "XLI",
       "trail": [
+        {
+          "rsRatio": 99.66,
+          "rsMomentum": 99.73
+        },
         {
           "rsRatio": 99.34,
           "rsMomentum": 99.69
@@ -175,12 +179,8 @@
           "rsMomentum": 102.76
         },
         {
-          "rsRatio": 102.47,
-          "rsMomentum": 100.04
-        },
-        {
-          "rsRatio": 102.46,
-          "rsMomentum": 99.99
+          "rsRatio": 102.72,
+          "rsMomentum": 100.28
         }
       ]
     },
@@ -188,6 +188,10 @@
       "name": "Materials",
       "symbol": "XLB",
       "trail": [
+        {
+          "rsRatio": 99.82,
+          "rsMomentum": 99.43
+        },
         {
           "rsRatio": 99.41,
           "rsMomentum": 99.6
@@ -201,12 +205,8 @@
           "rsMomentum": 100.01
         },
         {
-          "rsRatio": 102.41,
-          "rsMomentum": 101.53
-        },
-        {
-          "rsRatio": 102.39,
-          "rsMomentum": 99.98
+          "rsRatio": 102.62,
+          "rsMomentum": 101.74
         }
       ]
     },
@@ -214,6 +214,10 @@
       "name": "Utilities",
       "symbol": "XLU",
       "trail": [
+        {
+          "rsRatio": 99.97,
+          "rsMomentum": 99.61
+        },
         {
           "rsRatio": 99.28,
           "rsMomentum": 99.31
@@ -227,12 +231,8 @@
           "rsMomentum": 101.4
         },
         {
-          "rsRatio": 102.64,
-          "rsMomentum": 99.71
-        },
-        {
-          "rsRatio": 101.09,
-          "rsMomentum": 98.49
+          "rsRatio": 101.41,
+          "rsMomentum": 98.51
         }
       ]
     },
@@ -240,6 +240,10 @@
       "name": "Real Estate",
       "symbol": "XLRE",
       "trail": [
+        {
+          "rsRatio": 102.01,
+          "rsMomentum": 99.41
+        },
         {
           "rsRatio": 101.04,
           "rsMomentum": 99.05
@@ -253,12 +257,8 @@
           "rsMomentum": 100.77
         },
         {
-          "rsRatio": 102.92,
-          "rsMomentum": 101.56
-        },
-        {
-          "rsRatio": 102.21,
-          "rsMomentum": 99.3
+          "rsRatio": 102.52,
+          "rsMomentum": 101.17
         }
       ]
     },
@@ -266,6 +266,10 @@
       "name": "Communication Services",
       "symbol": "XLC",
       "trail": [
+        {
+          "rsRatio": 100.49,
+          "rsMomentum": 100.12
+        },
         {
           "rsRatio": 99.06,
           "rsMomentum": 98.58
@@ -279,15 +283,11 @@
           "rsMomentum": 97.99
         },
         {
-          "rsRatio": 97.5,
-          "rsMomentum": 101.05
-        },
-        {
-          "rsRatio": 98.98,
-          "rsMomentum": 101.51
+          "rsRatio": 98.61,
+          "rsMomentum": 102.19
         }
       ]
     }
   ],
-  "lastUpdated": "2026-07-27T19:57:34Z"
+  "lastUpdated": "2026-07-27T21:06:15Z"
 }
