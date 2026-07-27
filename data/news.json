@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T22:08:54Z",
+  "generated_at": "2026-07-27T23:17:51Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,12 +7,12 @@
   },
   "items": [
     {
-      "title": "Federal Reserve is likely to hold interest rates steady. Here's what that means for consumers - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kR3lXVW0teFY1aGxteXlZRzRvVlJBbDVpQ2MxbHkzSThtY0txbkJHNmdLSmctRUJVcDJlUXJVcHlNdDhKcHNrNjVZVXhvSzdxanN1eWZaMmo2NXRnSHJrVWlFNHFPVEdodnVlTdIBckFVX3lxTE80TE5EaWozeEYtMVY2ZEZMb214S21qMXlNZHpIQ05nMmNCVnVtaXBWMDZEVVdwaTdEYm5iYlRHZE9HbmoxV2xlalR3OUhqbFhrbFUyeVFNR1ExOXZJWkJfTVVmS2pnOC1BaEZoUzI3QXBQQQ?oc=5",
-      "source": "CNBC",
-      "published_at": "Mon, 27 Jul 2026 12:15:01 GMT",
-      "summary": "Federal Reserve is likely to hold interest rates steady. Here's what that means for consumers CNBC",
-      "guid": "CBMibEFVX3lxTE5kR3lXVW0teFY1aGxteXlZRzRvVlJBbDVpQ2MxbHkzSThtY0txbkJHNmdLSmctRUJVcDJlUXJVcHlNdDhKcHNrNjVZVXhvSzdxanN1eWZaMmo2NXRnSHJrVWlFNHFPVEdodnVlTdIBckFVX3lxTE80TE5EaWozeEYtMVY2ZEZMb214S21qMXlNZHpIQ05nMmNCVnVtaXBWMDZEVVdwaTdEYm5iYlRHZE9HbmoxV2xlalR3OUhqbFhrbFUyeVFNR1ExOXZJWkJfTVVmS2pnOC1BaEZoUzI3QXBQQQ"
+      "title": "Household Wealth Has Never Leaned This Hard on the Stock Market—Just as AI Bubble Fears Hit Equities - Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPb25kYzVsd1hUN2V6SkRVbXh4Rk14QTV5a2tmdUM4UjN0d2hrVUpJSlpTSDNfYm1iWWsyRTBPXzNmcTNiNmpyTDM2eXpiV05FSTBkXzNZMkg4eFgtOTdkSFpheE4ySF8tYzNBczNrT0pzbTdxei0ta1FyWHVCWUxJZ2dWbE4zbzYxMDZ3UzRMOWgxck9CQUNHeTZjQUliQVloLXQ1WDBpLVljQkNtN2Q0WFRXVE4zcnJDN1BSSzdwd3E4T1hxdzFucHJtOUJlcDBnS2hvNA?oc=5",
+      "source": "Investopedia",
+      "published_at": "Mon, 27 Jul 2026 10:15:00 GMT",
+      "summary": "Household Wealth Has Never Leaned This Hard on the Stock Market—Just as AI Bubble Fears Hit Equities Investopedia",
+      "guid": "CBMi1AFBVV95cUxPb25kYzVsd1hUN2V6SkRVbXh4Rk14QTV5a2tmdUM4UjN0d2hrVUpJSlpTSDNfYm1iWWsyRTBPXzNmcTNiNmpyTDM2eXpiV05FSTBkXzNZMkg4eFgtOTdkSFpheE4ySF8tYzNBczNrT0pzbTdxei0ta1FyWHVCWUxJZ2dWbE4zbzYxMDZ3UzRMOWgxck9CQUNHeTZjQUliQVloLXQ1WDBpLVljQkNtN2Q0WFRXVE4zcnJDN1BSSzdwd3E4T1hxdzFucHJtOUJlcDBnS2hvNA"
     },
     {
       "title": "Kevin Warsh's Federal Reserve Just Issued an 11-Word Warning to Wall Street. Here's What History Says Comes Next. - The Motley Fool",
@@ -21,14 +21,6 @@
       "published_at": "Mon, 27 Jul 2026 15:15:00 GMT",
       "summary": "Kevin Warsh's Federal Reserve Just Issued an 11-Word Warning to Wall Street. Here's What History Says Comes Next. The Motley Fool",
       "guid": "CBMilwFBVV95cUxOYTg0V1dtaGhJZHdvNjFobVBEUV9wZmlhTS1tZktZYWZEa2g5NVJpRWs4N0NDcWQtRTFXdUgzUWV3cnMzR1Q5TnItTXhmUkRLTG5SckJqbzlpc3YwV0NEYUF2QUhyUzB0VHNRTWgtM0hWV3J0VWtPaHVBcWcxRFUyT3lTRU50QjdTYnVGNlpKVWcwZ21JQjlR"
-    },
-    {
-      "title": "Household Wealth Has Never Leaned This Hard on the Stock Market—Just as AI Bubble Fears Hit Equities - Investopedia",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPb25kYzVsd1hUN2V6SkRVbXh4Rk14QTV5a2tmdUM4UjN0d2hrVUpJSlpTSDNfYm1iWWsyRTBPXzNmcTNiNmpyTDM2eXpiV05FSTBkXzNZMkg4eFgtOTdkSFpheE4ySF8tYzNBczNrT0pzbTdxei0ta1FyWHVCWUxJZ2dWbE4zbzYxMDZ3UzRMOWgxck9CQUNHeTZjQUliQVloLXQ1WDBpLVljQkNtN2Q0WFRXVE4zcnJDN1BSSzdwd3E4T1hxdzFucHJtOUJlcDBnS2hvNA?oc=5",
-      "source": "Investopedia",
-      "published_at": "Mon, 27 Jul 2026 10:15:00 GMT",
-      "summary": "Household Wealth Has Never Leaned This Hard on the Stock Market—Just as AI Bubble Fears Hit Equities Investopedia",
-      "guid": "CBMi1AFBVV95cUxPb25kYzVsd1hUN2V6SkRVbXh4Rk14QTV5a2tmdUM4UjN0d2hrVUpJSlpTSDNfYm1iWWsyRTBPXzNmcTNiNmpyTDM2eXpiV05FSTBkXzNZMkg4eFgtOTdkSFpheE4ySF8tYzNBczNrT0pzbTdxei0ta1FyWHVCWUxJZ2dWbE4zbzYxMDZ3UzRMOWgxck9CQUNHeTZjQUliQVloLXQ1WDBpLVljQkNtN2Q0WFRXVE4zcnJDN1BSSzdwd3E4T1hxdzFucHJtOUJlcDBnS2hvNA"
     },
     {
       "title": "Kevin Warsh Tests Federal Reserve Credibility - StoneX",
@@ -71,12 +63,12 @@
       "guid": "CBMinAFBVV95cUxPSG5UVUo2Qjc0QmZXVkZkVG5DNDFUMHJVT3ZDUHZzOFBVOXVuWk55aE9ZcDVOVEFJa3Y5ZHpjNWx4YWgtb3VfSjRHQUJXMFJIV3lPcTFDSjFadXBmdENDeGx2eGMyZ2NVRjM2Mk9RYlU3X1B2OGMwWmR6ajgtMWxQUmFCMER2R1gxZk52LVZYWW1lVkxxeWp2S3dpVjA"
     },
     {
-      "title": "Analysis of Federal Reserve Rate Hike Outlook - Intellectia AI",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSEczX0QzdjNZRkoybHVycklrUkk2YjNjeWoydDJ4aloyQ0k1cjM0eG1BNWJILXVnbFZfb2FWdE5nNExSSGtOdnBZRHQ5RFdrWVRyX2VzUUFXcG1ndmlxSFFGV1EwSnRmenFrcW44VEVMbTc5cGtlZWhTbmYxR3U1UFRTal9EUQ?oc=5",
-      "source": "Intellectia AI",
-      "published_at": "Mon, 27 Jul 2026 02:05:24 GMT",
-      "summary": "Analysis of Federal Reserve Rate Hike Outlook Intellectia AI",
-      "guid": "CBMihgFBVV95cUxPSEczX0QzdjNZRkoybHVycklrUkk2YjNjeWoydDJ4aloyQ0k1cjM0eG1BNWJILXVnbFZfb2FWdE5nNExSSGtOdnBZRHQ5RFdrWVRyX2VzUUFXcG1ndmlxSFFGV1EwSnRmenFrcW44VEVMbTc5cGtlZWhTbmYxR3U1UFRTal9EUQ"
+      "title": "Federal Reserve is likely to hold interest rates steady. Here's what that means for consumers - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kR3lXVW0teFY1aGxteXlZRzRvVlJBbDVpQ2MxbHkzSThtY0txbkJHNmdLSmctRUJVcDJlUXJVcHlNdDhKcHNrNjVZVXhvSzdxanN1eWZaMmo2NXRnSHJrVWlFNHFPVEdodnVlTdIBckFVX3lxTE80TE5EaWozeEYtMVY2ZEZMb214S21qMXlNZHpIQ05nMmNCVnVtaXBWMDZEVVdwaTdEYm5iYlRHZE9HbmoxV2xlalR3OUhqbFhrbFUyeVFNR1ExOXZJWkJfTVVmS2pnOC1BaEZoUzI3QXBQQQ?oc=5",
+      "source": "CNBC",
+      "published_at": "Mon, 27 Jul 2026 12:15:01 GMT",
+      "summary": "Federal Reserve is likely to hold interest rates steady. Here's what that means for consumers CNBC",
+      "guid": "CBMibEFVX3lxTE5kR3lXVW0teFY1aGxteXlZRzRvVlJBbDVpQ2MxbHkzSThtY0txbkJHNmdLSmctRUJVcDJlUXJVcHlNdDhKcHNrNjVZVXhvSzdxanN1eWZaMmo2NXRnSHJrVWlFNHFPVEdodnVlTdIBckFVX3lxTE80TE5EaWozeEYtMVY2ZEZMb214S21qMXlNZHpIQ05nMmNCVnVtaXBWMDZEVVdwaTdEYm5iYlRHZE9HbmoxV2xlalR3OUhqbFhrbFUyeVFNR1ExOXZJWkJfTVVmS2pnOC1BaEZoUzI3QXBQQQ"
     },
     {
       "title": "Tensions with Iran add fresh uncertainty to an already shaky global economy - NPR",
@@ -85,6 +77,14 @@
       "published_at": "Wed, 08 Jul 2026 07:00:00 GMT",
       "summary": "Tensions with Iran add fresh uncertainty to an already shaky global economy NPR",
       "guid": "CBMimwFBVV95cUxPS2lrWS1DSHFVdzNGdU1TcnJqNHpEYmxFU1J4T3prS09QaGNpTGE1SlA5LXZabUZIYXdaSWNuQjZZemxKMzlrbUV5dTh1OGZSSUFvdkNsX0prYlhNajAxNV9YRmwwQTIxcTgyV0xIeWpHVVZnejBJU3dnTnpQNW81SlNfek5IdjY2c29HdmdBUmhYTTBqMUtYdWRYTQ"
+    },
+    {
+      "title": "Analysis of Federal Reserve Rate Hike Outlook - Intellectia AI",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSEczX0QzdjNZRkoybHVycklrUkk2YjNjeWoydDJ4aloyQ0k1cjM0eG1BNWJILXVnbFZfb2FWdE5nNExSSGtOdnBZRHQ5RFdrWVRyX2VzUUFXcG1ndmlxSFFGV1EwSnRmenFrcW44VEVMbTc5cGtlZWhTbmYxR3U1UFRTal9EUQ?oc=5",
+      "source": "Intellectia AI",
+      "published_at": "Mon, 27 Jul 2026 02:05:24 GMT",
+      "summary": "Analysis of Federal Reserve Rate Hike Outlook Intellectia AI",
+      "guid": "CBMihgFBVV95cUxPSEczX0QzdjNZRkoybHVycklrUkk2YjNjeWoydDJ4aloyQ0k1cjM0eG1BNWJILXVnbFZfb2FWdE5nNExSSGtOdnBZRHQ5RFdrWVRyX2VzUUFXcG1ndmlxSFFGV1EwSnRmenFrcW44VEVMbTc5cGtlZWhTbmYxR3U1UFRTal9EUQ"
     }
   ]
 }
