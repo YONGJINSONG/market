@@ -1,11 +1,43 @@
 {
-  "generated_at": "2026-07-27T11:56:24Z",
+  "generated_at": "2026-07-27T14:12:50Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "Household Wealth Has Never Leaned This Hard on the Stock Market—Just as AI Bubble Fears Hit Equities - Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPb25kYzVsd1hUN2V6SkRVbXh4Rk14QTV5a2tmdUM4UjN0d2hrVUpJSlpTSDNfYm1iWWsyRTBPXzNmcTNiNmpyTDM2eXpiV05FSTBkXzNZMkg4eFgtOTdkSFpheE4ySF8tYzNBczNrT0pzbTdxei0ta1FyWHVCWUxJZ2dWbE4zbzYxMDZ3UzRMOWgxck9CQUNHeTZjQUliQVloLXQ1WDBpLVljQkNtN2Q0WFRXVE4zcnJDN1BSSzdwd3E4T1hxdzFucHJtOUJlcDBnS2hvNA?oc=5",
+      "source": "Investopedia",
+      "published_at": "Mon, 27 Jul 2026 10:15:00 GMT",
+      "summary": "Household Wealth Has Never Leaned This Hard on the Stock Market—Just as AI Bubble Fears Hit Equities Investopedia",
+      "guid": "CBMi1AFBVV95cUxPb25kYzVsd1hUN2V6SkRVbXh4Rk14QTV5a2tmdUM4UjN0d2hrVUpJSlpTSDNfYm1iWWsyRTBPXzNmcTNiNmpyTDM2eXpiV05FSTBkXzNZMkg4eFgtOTdkSFpheE4ySF8tYzNBczNrT0pzbTdxei0ta1FyWHVCWUxJZ2dWbE4zbzYxMDZ3UzRMOWgxck9CQUNHeTZjQUliQVloLXQ1WDBpLVljQkNtN2Q0WFRXVE4zcnJDN1BSSzdwd3E4T1hxdzFucHJtOUJlcDBnS2hvNA"
+    },
+    {
+      "title": "Kevin Warsh Tests Federal Reserve Credibility - StoneX",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYmRxaVJlQ0MwclA3eDNsSHNzUmtqVV9sLW5XZmVmSGNRamtuWFotR1JSS3BxWEtsWmZvZjc3SHd1bnh4ZC1SUVYyTkRKQklIMU55TUt6VkFoY1RINnNIYWxNOHRQeXFYcm5aWWktejIyVnlSWVhjczVJLVlUd1JENWtNQ3J5YU5T?oc=5",
+      "source": "StoneX",
+      "published_at": "Mon, 27 Jul 2026 09:32:13 GMT",
+      "summary": "Kevin Warsh Tests Federal Reserve Credibility StoneX",
+      "guid": "CBMiiAFBVV95cUxPYmRxaVJlQ0MwclA3eDNsSHNzUmtqVV9sLW5XZmVmSGNRamtuWFotR1JSS3BxWEtsWmZvZjc3SHd1bnh4ZC1SUVYyTkRKQklIMU55TUt6VkFoY1RINnNIYWxNOHRQeXFYcm5aWWktejIyVnlSWVhjczVJLVlUd1JENWtNQ3J5YU5T"
+    },
+    {
+      "title": "Economy bringing mixed messages ahead of this week’s Federal Reserve meeting - Baltimore Sun",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMU9icldNMVlhVUVmWGRxZTZrRGdpb0VaQlRvc25YM2ZpMlAzS18zbDFqSWhIX3gxdnZrZGpBVEJDc1VtN3V5eUpsZVdsUFpGdFVvb3puY1hCQ2xYc1NYRXZ6b1BYb2F0WHlFZS1sS2NYMVZ2bGZkYlR1N3g1aHNKX1FnVm1kOGJxUlc3UXZyeXZKRUtJUVlVQkhOMDVpV2w5Z3lVOXpGYzZVeUR1a3BockJ3eHY0RlU?oc=5",
+      "source": "Baltimore Sun",
+      "published_at": "Mon, 27 Jul 2026 12:53:15 GMT",
+      "summary": "Economy bringing mixed messages ahead of this week’s Federal Reserve meeting Baltimore Sun",
+      "guid": "CBMitwFBVV95cUxPMU9icldNMVlhVUVmWGRxZTZrRGdpb0VaQlRvc25YM2ZpMlAzS18zbDFqSWhIX3gxdnZrZGpBVEJDc1VtN3V5eUpsZVdsUFpGdFVvb3puY1hCQ2xYc1NYRXZ6b1BYb2F0WHlFZS1sS2NYMVZ2bGZkYlR1N3g1aHNKX1FnVm1kOGJxUlc3UXZyeXZKRUtJUVlVQkhOMDVpV2w5Z3lVOXpGYzZVeUR1a3BockJ3eHY0RlU"
+    },
+    {
+      "title": "Stock Market Week Ahead: Mag 7 And The Fed — But It's All About The Cash - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNX3o1amMxNmdZVnRYUlpLZk9ocS16aXRTeU5xU19ZN0xFQ0dreTFKemlzMzV1MkFjQjdxVUd0ck9zTlVKVVRIWGFoX3BzOFV0UTYxT1o0MDBCWjRfV3dLcnpXa0p3YnlKdXQ3Wk1HNmVvZ2FoQk04LXVUdGgwVVlBY0FtMkczMUQ1bjhkVTV0RGtteXc5eGVXM2pGV011XzVmU29iM1R4eGwzU2dRRS1WR1doU0R2bmpCY09jQzQ3QVdzbXA3?oc=5",
+      "source": "Investor's Business Daily",
+      "published_at": "Sun, 26 Jul 2026 15:06:00 GMT",
+      "summary": "Stock Market Week Ahead: Mag 7 And The Fed — But It's All About The Cash Investor's Business Daily",
+      "guid": "CBMixAFBVV95cUxNX3o1amMxNmdZVnRYUlpLZk9ocS16aXRTeU5xU19ZN0xFQ0dreTFKemlzMzV1MkFjQjdxVUd0ck9zTlVKVVRIWGFoX3BzOFV0UTYxT1o0MDBCWjRfV3dLcnpXa0p3YnlKdXQ3Wk1HNmVvZ2FoQk04LXVUdGgwVVlBY0FtMkczMUQ1bjhkVTV0RGtteXc5eGVXM2pGV011XzVmU29iM1R4eGwzU2dRRS1WR1doU0R2bmpCY09jQzQ3QVdzbXA3"
+    },
     {
       "title": "What to Look Out for in Economic Data This Week (July 27-31) - Kiplinger",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ?oc=5",
@@ -15,12 +47,12 @@
       "guid": "CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ"
     },
     {
-      "title": "Economy bringing mixed messages ahead of next federal reserve meeting - WBFF",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQQW93RHBsSzV0b2dsQkJ5Q2FTVDhreU9vU1N1ZkszZGdWQllYNGtFX0c5V2h2a00yQUZRM2k2MjlKTUVzWlZ2VzVoMkxPNTZ6Si1QRzJnMUZqZjhHdEhhNXljbzV2NHhfZ3VCc3lfNDZJTUh6M1h3VEZIdkh1WHlvWmdndXBycWRxZmV3T3ltQlJOME1DS1ZvVDhFakRmNVAzbmhWbDVRVkdVNnh6Q1AzM2ItYlZra19UdEs4bVBKLW1Hb0c4Z1FFRTQ4b2lzT3pKMlp4YVljdk9adnZSbS04WW9Sd20tRi14Ny1rNw?oc=5",
-      "source": "WBFF",
-      "published_at": "Fri, 24 Jul 2026 20:05:15 GMT",
-      "summary": "Economy bringing mixed messages ahead of next federal reserve meeting WBFF",
-      "guid": "CBMi7AFBVV95cUxQQW93RHBsSzV0b2dsQkJ5Q2FTVDhreU9vU1N1ZkszZGdWQllYNGtFX0c5V2h2a00yQUZRM2k2MjlKTUVzWlZ2VzVoMkxPNTZ6Si1QRzJnMUZqZjhHdEhhNXljbzV2NHhfZ3VCc3lfNDZJTUh6M1h3VEZIdkh1WHlvWmdndXBycWRxZmV3T3ltQlJOME1DS1ZvVDhFakRmNVAzbmhWbDVRVkdVNnh6Q1AzM2ItYlZra19UdEs4bVBKLW1Hb0c4Z1FFRTQ4b2lzT3pKMlp4YVljdk9adnZSbS04WW9Sd20tRi14Ny1rNw"
+      "title": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says a Big Drop Could Follow. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSG5UVUo2Qjc0QmZXVkZkVG5DNDFUMHJVT3ZDUHZzOFBVOXVuWk55aE9ZcDVOVEFJa3Y5ZHpjNWx4YWgtb3VfSjRHQUJXMFJIV3lPcTFDSjFadXBmdENDeGx2eGMyZ2NVRjM2Mk9RYlU3X1B2OGMwWmR6ajgtMWxQUmFCMER2R1gxZk52LVZYWW1lVkxxeWp2S3dpVjA?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Wed, 01 Jul 2026 07:00:00 GMT",
+      "summary": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says a Big Drop Could Follow. Yahoo Finance",
+      "guid": "CBMinAFBVV95cUxPSG5UVUo2Qjc0QmZXVkZkVG5DNDFUMHJVT3ZDUHZzOFBVOXVuWk55aE9ZcDVOVEFJa3Y5ZHpjNWx4YWgtb3VfSjRHQUJXMFJIV3lPcTFDSjFadXBmdENDeGx2eGMyZ2NVRjM2Mk9RYlU3X1B2OGMwWmR6ajgtMWxQUmFCMER2R1gxZk52LVZYWW1lVkxxeWp2S3dpVjA"
     },
     {
       "title": "Analysis of Federal Reserve Rate Hike Outlook - Intellectia AI",
@@ -39,14 +71,6 @@
       "guid": "CBMiwAFBVV95cUxQSG92UGMzcmFpTXJCaWM2U3c4ZC11c0Mwbk1GaWcteE5MUEhrOTRQYVItSkJ0NlVxbTlLSWJKcE42a0dCdm9rUGdjd3A5QTF5WHNNMlUzdGtPRjlFU1k0d0hTRFBFYUl4enYyV3N4bW93VThEdnA0RTZkaUpvQXZmNWV0em5JMkFHb1JDRjVNSGROdnp6Tlp3UEJnOS1TNzdzdnExQzhVV21hWjFrVVhqOFlxYmh5UHFHeTFTcWQyNlQ"
     },
     {
-      "title": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says a Big Drop Could Follow. - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSG5UVUo2Qjc0QmZXVkZkVG5DNDFUMHJVT3ZDUHZzOFBVOXVuWk55aE9ZcDVOVEFJa3Y5ZHpjNWx4YWgtb3VfSjRHQUJXMFJIV3lPcTFDSjFadXBmdENDeGx2eGMyZ2NVRjM2Mk9RYlU3X1B2OGMwWmR6ajgtMWxQUmFCMER2R1gxZk52LVZYWW1lVkxxeWp2S3dpVjA?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Wed, 01 Jul 2026 07:00:00 GMT",
-      "summary": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says a Big Drop Could Follow. Yahoo Finance",
-      "guid": "CBMinAFBVV95cUxPSG5UVUo2Qjc0QmZXVkZkVG5DNDFUMHJVT3ZDUHZzOFBVOXVuWk55aE9ZcDVOVEFJa3Y5ZHpjNWx4YWgtb3VfSjRHQUJXMFJIV3lPcTFDSjFadXBmdENDeGx2eGMyZ2NVRjM2Mk9RYlU3X1B2OGMwWmR6ajgtMWxQUmFCMER2R1gxZk52LVZYWW1lVkxxeWp2S3dpVjA"
-    },
-    {
       "title": "Investors: July 29 Will Be a Critical Day for the Stock Market. Here's Why. - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTEJxbEdkdUpHajA0UGRJVUY5NTdDWkpEbkl5VWVOQkwza2JmVXdvQldwMHptNVdXWWdNU1NjbGVXWHRNcUVRNGJjSHdSMUVSeld4dTUyd00tblZVQzcxQ1VsVnFycno1aGx3YVlxNm40R0JrbUpUZXgwcXYzRFRYS0U4OTF3aTRxOU5ENS1DUWlsSEFiNkhz?oc=5",
       "source": "The Motley Fool",
@@ -61,30 +85,6 @@
       "published_at": "Wed, 08 Jul 2026 07:00:00 GMT",
       "summary": "Tensions with Iran add fresh uncertainty to an already shaky global economy NPR",
       "guid": "CBMimwFBVV95cUxPS2lrWS1DSHFVdzNGdU1TcnJqNHpEYmxFU1J4T3prS09QaGNpTGE1SlA5LXZabUZIYXdaSWNuQjZZemxKMzlrbUV5dTh1OGZSSUFvdkNsX0prYlhNajAxNV9YRmwwQTIxcTgyV0xIeWpHVVZnejBJU3dnTnpQNW81SlNfek5IdjY2c29HdmdBUmhYTTBqMUtYdWRYTQ"
-    },
-    {
-      "title": "Why the Federal Reserve should hike rates next week - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQb1p5Vmk0VndTMEtvVER1M1lka2Y4XzBvR285WWl2RGdyQVJPNFRFbWN6cmNXb1doMS1fcmNOX2M0ZjRpdl9ReW5IaUw1UUxFUzNLWGQ0Y1hZaXluV0l4MGJLQVZBbHBWczVjNEs0WkRaeDBvUXZSM29tTmZvVlFobXVlVzRyMF90RXo1ZkxaN29PQQ?oc=5",
-      "source": "CNBC",
-      "published_at": "Fri, 24 Jul 2026 17:54:28 GMT",
-      "summary": "Why the Federal Reserve should hike rates next week CNBC",
-      "guid": "CBMikgFBVV95cUxQb1p5Vmk0VndTMEtvVER1M1lka2Y4XzBvR285WWl2RGdyQVJPNFRFbWN6cmNXb1doMS1fcmNOX2M0ZjRpdl9ReW5IaUw1UUxFUzNLWGQ0Y1hZaXluV0l4MGJLQVZBbHBWczVjNEs0WkRaeDBvUXZSM29tTmZvVlFobXVlVzRyMF90RXo1ZkxaN29PQQ"
-    },
-    {
-      "title": "The U.S. Economy Is Stronger Than Expected. That Could Keep Interest Rates Higher for Longer - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQS1RYVQxejVLSmdwMlRCZE1KT3dXbjd1X2NPSmgza1BPNVdmek93UmR3YW1iMkkycnZXaFhyeDNZQTR6TUZESVZoUThienFabk5xZGJraWE5UVdhWndyeEZsdzF0WHBicTdlUkVwUTlFQ05aSXFyQmFydnN0T3duMnZ6SXd4Q3BDckJTVkNIOTBYWHJlVkN5TThaMUZiZElQV3NEUWFJVW9vRkNVb1lLWnJLNnk0bU9rM0liRjNXZ3BaeHQxLUloUjZHbHYzRG8?oc=5",
-      "source": "24/7 Wall St.",
-      "published_at": "Sun, 26 Jul 2026 15:52:48 GMT",
-      "summary": "The U.S. Economy Is Stronger Than Expected. That Could Keep Interest Rates Higher for Longer 24/7 Wall St.",
-      "guid": "CBMizwFBVV95cUxQQS1RYVQxejVLSmdwMlRCZE1KT3dXbjd1X2NPSmgza1BPNVdmek93UmR3YW1iMkkycnZXaFhyeDNZQTR6TUZESVZoUThienFabk5xZGJraWE5UVdhWndyeEZsdzF0WHBicTdlUkVwUTlFQ05aSXFyQmFydnN0T3duMnZ6SXd4Q3BDckJTVkNIOTBYWHJlVkN5TThaMUZiZElQV3NEUWFJVW9vRkNVb1lLWnJLNnk0bU9rM0liRjNXZ3BaeHQxLUloUjZHbHYzRG8"
-    },
-    {
-      "title": "What to Expect in Markets this Week: Inflation Data, Warsh Testimony in Congress, Bank Earnings - Investopedia",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRS1BOUNiOWQ4VWpFcUhRY0RmTGFvcnFScjFraHM2SlMxS3Q3VjB0eDYyazBzdlh1bVVxN1ZJb3B3aTFkY24xeUt6S1l2ejJjeUhQTDl1SFBBbUpUM0VySjg2NzN1SkNNTUtfX0g0aUlLSTA5dllCd3lMU0p5R2g2VEhhc1BQTm9nLVVJc3RBT0ZNX0IwSFhpV0xBcGN5ZzhnYUVXRm5ISWFoY1JzYWh5TUNLLVRCeTlRMVcwYld2QnN1RFN1OF9HS2NfaE0teUxucE1MZ1FDdG9yRXM?oc=5",
-      "source": "Investopedia",
-      "published_at": "Sun, 12 Jul 2026 07:00:00 GMT",
-      "summary": "What to Expect in Markets this Week: Inflation Data, Warsh Testimony in Congress, Bank Earnings Investopedia",
-      "guid": "CBMi2wFBVV95cUxPRS1BOUNiOWQ4VWpFcUhRY0RmTGFvcnFScjFraHM2SlMxS3Q3VjB0eDYyazBzdlh1bVVxN1ZJb3B3aTFkY24xeUt6S1l2ejJjeUhQTDl1SFBBbUpUM0VySjg2NzN1SkNNTUtfX0g0aUlLSTA5dllCd3lMU0p5R2g2VEhhc1BQTm9nLVVJc3RBT0ZNX0IwSFhpV0xBcGN5ZzhnYUVXRm5ISWFoY1JzYWh5TUNLLVRCeTlRMVcwYld2QnN1RFN1OF9HS2NfaE0teUxucE1MZ1FDdG9yRXM"
     }
   ]
 }
