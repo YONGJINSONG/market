@@ -1,11 +1,27 @@
 {
-  "generated_at": "2026-07-28T08:49:55Z",
+  "generated_at": "2026-07-28T11:07:56Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "Weekly market commentary - BlackRock",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
+      "source": "BlackRock",
+      "published_at": "Tue, 28 Jul 2026 01:06:39 GMT",
+      "summary": "Weekly market commentary BlackRock",
+      "guid": "CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw"
+    },
+    {
+      "title": "The Federal Reserve Faces a Dilemma: A Summary of Multiple Perspectives - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQ1llTE9ZLUNHSUVGR0ttYk1aQUhCVDFiRWNxUlVVQ2g1SWJpT1hBVW9jQ21XSzFBZm9hX1ZnNHJIZmhoWm5LLWY1WDRDcEppQ3FsdkZSZGZhSmVtMU92c3BwN2hncDJBdmp1eDZkR3FfaFd5QzhrQ2FObUlUbk84Z2lENlZfOG9Ua2dUWlQzMmd3T1VIZ1U4bGFjaTQtOHZr?oc=5",
+      "source": "Moomoo",
+      "published_at": "Tue, 28 Jul 2026 11:00:40 GMT",
+      "summary": "The Federal Reserve Faces a Dilemma: A Summary of Multiple Perspectives Moomoo",
+      "guid": "CBMioAFBVV95cUxOQ1llTE9ZLUNHSUVGR0ttYk1aQUhCVDFiRWNxUlVVQ2g1SWJpT1hBVW9jQ21XSzFBZm9hX1ZnNHJIZmhoWm5LLWY1WDRDcEppQ3FsdkZSZGZhSmVtMU92c3BwN2hncDJBdmp1eDZkR3FfaFd5QzhrQ2FObUlUbk84Z2lENlZfOG9Ua2dUWlQzMmd3T1VIZ1U4bGFjaTQtOHZr"
+    },
     {
       "title": "Stock Market Week Ahead: Mag 7 And The Fed — But It's All About The Cash - Investor's Business Daily",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNX3o1amMxNmdZVnRYUlpLZk9ocS16aXRTeU5xU19ZN0xFQ0dreTFKemlzMzV1MkFjQjdxVUd0ck9zTlVKVVRIWGFoX3BzOFV0UTYxT1o0MDBCWjRfV3dLcnpXa0p3YnlKdXQ3Wk1HNmVvZ2FoQk04LXVUdGgwVVlBY0FtMkczMUQ1bjhkVTV0RGtteXc5eGVXM2pGV011XzVmU29iM1R4eGwzU2dRRS1WR1doU0R2bmpCY09jQzQ3QVdzbXA3?oc=5",
@@ -47,12 +63,12 @@
       "guid": "CBMinAFBVV95cUxPSG5UVUo2Qjc0QmZXVkZkVG5DNDFUMHJVT3ZDUHZzOFBVOXVuWk55aE9ZcDVOVEFJa3Y5ZHpjNWx4YWgtb3VfSjRHQUJXMFJIV3lPcTFDSjFadXBmdENDeGx2eGMyZ2NVRjM2Mk9RYlU3X1B2OGMwWmR6ajgtMWxQUmFCMER2R1gxZk52LVZYWW1lVkxxeWp2S3dpVjA"
     },
     {
-      "title": "Economy bringing mixed messages ahead of this week’s Federal Reserve meeting - Baltimore Sun",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMU9icldNMVlhVUVmWGRxZTZrRGdpb0VaQlRvc25YM2ZpMlAzS18zbDFqSWhIX3gxdnZrZGpBVEJDc1VtN3V5eUpsZVdsUFpGdFVvb3puY1hCQ2xYc1NYRXZ6b1BYb2F0WHlFZS1sS2NYMVZ2bGZkYlR1N3g1aHNKX1FnVm1kOGJxUlc3UXZyeXZKRUtJUVlVQkhOMDVpV2w5Z3lVOXpGYzZVeUR1a3BockJ3eHY0RlU?oc=5",
-      "source": "Baltimore Sun",
-      "published_at": "Mon, 27 Jul 2026 12:53:15 GMT",
-      "summary": "Economy bringing mixed messages ahead of this week’s Federal Reserve meeting Baltimore Sun",
-      "guid": "CBMitwFBVV95cUxPMU9icldNMVlhVUVmWGRxZTZrRGdpb0VaQlRvc25YM2ZpMlAzS18zbDFqSWhIX3gxdnZrZGpBVEJDc1VtN3V5eUpsZVdsUFpGdFVvb3puY1hCQ2xYc1NYRXZ6b1BYb2F0WHlFZS1sS2NYMVZ2bGZkYlR1N3g1aHNKX1FnVm1kOGJxUlc3UXZyeXZKRUtJUVlVQkhOMDVpV2w5Z3lVOXpGYzZVeUR1a3BockJ3eHY0RlU"
+      "title": "Economy bringing mixed messages ahead of next federal reserve meeting - KABB",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNRE90ay1TV3RWZEhVSmVvYnVZa1pnNDJvOXVKSzJ0Si1ERkRpdTdBV1NyZjNRNnhFamJZVzZHVWlIV0JSZ2VDX3dUNGp0ZWYzOHl2eTJicERsUWlodG5LWGt5UUJEOTRranFRNWRmT1R1dmpiYTIxVGxmeWhFa042cFQyRkRfMldwaFcxc2RNc1ljdDV5SUplZTZaajdyWjl4eUtJNFpfejVpeXlzeTQ2ZEpHeVRhVlV5ZmQ1RVBicWFyMTQ1RWJaQjVWYkplV1FfSFJmNDlheDd3X0NsUGxvY0pJbDlpVUxscUQ1enJB?oc=5",
+      "source": "KABB",
+      "published_at": "Fri, 24 Jul 2026 22:25:41 GMT",
+      "summary": "Economy bringing mixed messages ahead of next federal reserve meeting KABB",
+      "guid": "CBMi7gFBVV95cUxNRE90ay1TV3RWZEhVSmVvYnVZa1pnNDJvOXVKSzJ0Si1ERkRpdTdBV1NyZjNRNnhFamJZVzZHVWlIV0JSZ2VDX3dUNGp0ZWYzOHl2eTJicERsUWlodG5LWGt5UUJEOTRranFRNWRmT1R1dmpiYTIxVGxmeWhFa042cFQyRkRfMldwaFcxc2RNc1ljdDV5SUplZTZaajdyWjl4eUtJNFpfejVpeXlzeTQ2ZEpHeVRhVlV5ZmQ1RVBicWFyMTQ1RWJaQjVWYkplV1FfSFJmNDlheDd3X0NsUGxvY0pJbDlpVUxscUQ1enJB"
     },
     {
       "title": "Kevin Warsh Tests Federal Reserve Credibility - StoneX",
@@ -63,28 +79,12 @@
       "guid": "CBMiiAFBVV95cUxPYmRxaVJlQ0MwclA3eDNsSHNzUmtqVV9sLW5XZmVmSGNRamtuWFotR1JSS3BxWEtsWmZvZjc3SHd1bnh4ZC1SUVYyTkRKQklIMU55TUt6VkFoY1RINnNIYWxNOHRQeXFYcm5aWWktejIyVnlSWVhjczVJLVlUd1JENWtNQ3J5YU5T"
     },
     {
-      "title": "Economy bringing mixed messages ahead of next federal reserve meeting - KABB",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNRE90ay1TV3RWZEhVSmVvYnVZa1pnNDJvOXVKSzJ0Si1ERkRpdTdBV1NyZjNRNnhFamJZVzZHVWlIV0JSZ2VDX3dUNGp0ZWYzOHl2eTJicERsUWlodG5LWGt5UUJEOTRranFRNWRmT1R1dmpiYTIxVGxmeWhFa042cFQyRkRfMldwaFcxc2RNc1ljdDV5SUplZTZaajdyWjl4eUtJNFpfejVpeXlzeTQ2ZEpHeVRhVlV5ZmQ1RVBicWFyMTQ1RWJaQjVWYkplV1FfSFJmNDlheDd3X0NsUGxvY0pJbDlpVUxscUQ1enJB?oc=5",
-      "source": "KABB",
-      "published_at": "Fri, 24 Jul 2026 22:25:41 GMT",
-      "summary": "Economy bringing mixed messages ahead of next federal reserve meeting KABB",
-      "guid": "CBMi7gFBVV95cUxNRE90ay1TV3RWZEhVSmVvYnVZa1pnNDJvOXVKSzJ0Si1ERkRpdTdBV1NyZjNRNnhFamJZVzZHVWlIV0JSZ2VDX3dUNGp0ZWYzOHl2eTJicERsUWlodG5LWGt5UUJEOTRranFRNWRmT1R1dmpiYTIxVGxmeWhFa042cFQyRkRfMldwaFcxc2RNc1ljdDV5SUplZTZaajdyWjl4eUtJNFpfejVpeXlzeTQ2ZEpHeVRhVlV5ZmQ1RVBicWFyMTQ1RWJaQjVWYkplV1FfSFJmNDlheDd3X0NsUGxvY0pJbDlpVUxscUQ1enJB"
-    },
-    {
-      "title": "Federal Reserve is likely to hold interest rates steady. Here's what that means for consumers - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kR3lXVW0teFY1aGxteXlZRzRvVlJBbDVpQ2MxbHkzSThtY0txbkJHNmdLSmctRUJVcDJlUXJVcHlNdDhKcHNrNjVZVXhvSzdxanN1eWZaMmo2NXRnSHJrVWlFNHFPVEdodnVlTdIBckFVX3lxTE80TE5EaWozeEYtMVY2ZEZMb214S21qMXlNZHpIQ05nMmNCVnVtaXBWMDZEVVdwaTdEYm5iYlRHZE9HbmoxV2xlalR3OUhqbFhrbFUyeVFNR1ExOXZJWkJfTVVmS2pnOC1BaEZoUzI3QXBQQQ?oc=5",
-      "source": "CNBC",
-      "published_at": "Mon, 27 Jul 2026 12:15:01 GMT",
-      "summary": "Federal Reserve is likely to hold interest rates steady. Here's what that means for consumers CNBC",
-      "guid": "CBMibEFVX3lxTE5kR3lXVW0teFY1aGxteXlZRzRvVlJBbDVpQ2MxbHkzSThtY0txbkJHNmdLSmctRUJVcDJlUXJVcHlNdDhKcHNrNjVZVXhvSzdxanN1eWZaMmo2NXRnSHJrVWlFNHFPVEdodnVlTdIBckFVX3lxTE80TE5EaWozeEYtMVY2ZEZMb214S21qMXlNZHpIQ05nMmNCVnVtaXBWMDZEVVdwaTdEYm5iYlRHZE9HbmoxV2xlalR3OUhqbFhrbFUyeVFNR1ExOXZJWkJfTVVmS2pnOC1BaEZoUzI3QXBQQQ"
-    },
-    {
-      "title": "Tensions with Iran add fresh uncertainty to an already shaky global economy - NPR",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS2lrWS1DSHFVdzNGdU1TcnJqNHpEYmxFU1J4T3prS09QaGNpTGE1SlA5LXZabUZIYXdaSWNuQjZZemxKMzlrbUV5dTh1OGZSSUFvdkNsX0prYlhNajAxNV9YRmwwQTIxcTgyV0xIeWpHVVZnejBJU3dnTnpQNW81SlNfek5IdjY2c29HdmdBUmhYTTBqMUtYdWRYTQ?oc=5",
-      "source": "NPR",
-      "published_at": "Wed, 08 Jul 2026 07:00:00 GMT",
-      "summary": "Tensions with Iran add fresh uncertainty to an already shaky global economy NPR",
-      "guid": "CBMimwFBVV95cUxPS2lrWS1DSHFVdzNGdU1TcnJqNHpEYmxFU1J4T3prS09QaGNpTGE1SlA5LXZabUZIYXdaSWNuQjZZemxKMzlrbUV5dTh1OGZSSUFvdkNsX0prYlhNajAxNV9YRmwwQTIxcTgyV0xIeWpHVVZnejBJU3dnTnpQNW81SlNfek5IdjY2c29HdmdBUmhYTTBqMUtYdWRYTQ"
+      "title": "Economy bringing mixed messages ahead of this week’s Federal Reserve meeting - Baltimore Sun",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMU9icldNMVlhVUVmWGRxZTZrRGdpb0VaQlRvc25YM2ZpMlAzS18zbDFqSWhIX3gxdnZrZGpBVEJDc1VtN3V5eUpsZVdsUFpGdFVvb3puY1hCQ2xYc1NYRXZ6b1BYb2F0WHlFZS1sS2NYMVZ2bGZkYlR1N3g1aHNKX1FnVm1kOGJxUlc3UXZyeXZKRUtJUVlVQkhOMDVpV2w5Z3lVOXpGYzZVeUR1a3BockJ3eHY0RlU?oc=5",
+      "source": "Baltimore Sun",
+      "published_at": "Mon, 27 Jul 2026 12:53:15 GMT",
+      "summary": "Economy bringing mixed messages ahead of this week’s Federal Reserve meeting Baltimore Sun",
+      "guid": "CBMitwFBVV95cUxPMU9icldNMVlhVUVmWGRxZTZrRGdpb0VaQlRvc25YM2ZpMlAzS18zbDFqSWhIX3gxdnZrZGpBVEJDc1VtN3V5eUpsZVdsUFpGdFVvb3puY1hCQ2xYc1NYRXZ6b1BYb2F0WHlFZS1sS2NYMVZ2bGZkYlR1N3g1aHNKX1FnVm1kOGJxUlc3UXZyeXZKRUtJUVlVQkhOMDVpV2w5Z3lVOXpGYzZVeUR1a3BockJ3eHY0RlU"
     }
   ]
 }
