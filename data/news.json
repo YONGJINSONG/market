@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-07-28T22:30:26Z",
+  "generated_at": "2026-07-28T23:36:23Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "S&P 500 futures are little changed as investors analyze earnings, await Fed decision: Live updates - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8tYmcyY1dKZDZXZm10Ni1sS185eklFbWhkUU1hOFhpbG9EY0VmWjZvN21IaUVKbUpWYXpZVm81czBfOFM1dGcwT1h0eUZiMHhua1hCTTRwRjBySkY0VmRWdmlTRWE4T0xjTjVya08zNjZKUVpnYk5F0gF8QVVfeXFMT3EzdGU3SjJheXZwV25YRXRpSnR3MTcxRHJEZ2wxRzVGVmFBWTE0M3licnBPcHV1TC1KN1NpTFlfMkxtdUNWQnNfY3ktbG5oNFhtS2M4akdZcGRDSnlrVWNYNGhKZk02cWlUTlNkeVNPUzR6MmVxMzVUOXg0TQ?oc=5",
+      "source": "CNBC",
+      "published_at": "Tue, 28 Jul 2026 22:02:00 GMT",
+      "summary": "S&P 500 futures are little changed as investors analyze earnings, await Fed decision: Live updates CNBC",
+      "guid": "CBMid0FVX3lxTE8tYmcyY1dKZDZXZm10Ni1sS185eklFbWhkUU1hOFhpbG9EY0VmWjZvN21IaUVKbUpWYXpZVm81czBfOFM1dGcwT1h0eUZiMHhua1hCTTRwRjBySkY0VmRWdmlTRWE4T0xjTjVya08zNjZKUVpnYk5F0gF8QVVfeXFMT3EzdGU3SjJheXZwV25YRXRpSnR3MTcxRHJEZ2wxRzVGVmFBWTE0M3licnBPcHV1TC1KN1NpTFlfMkxtdUNWQnNfY3ktbG5oNFhtS2M4akdZcGRDSnlrVWNYNGhKZk02cWlUTlNkeVNPUzR6MmVxMzVUOXg0TQ"
+    },
     {
       "title": "Fed Meeting: Surprise Warsh Rate Hike Can't Be Ruled Out; What It Means For S&P 500 - Investor's Business Daily",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQajVQT3pwbmpveU10WVlKUnpNMGt0MXB2YmJ0dmFkdDE2NGdWRTlaeTlIN2t3Zl9OVzJ6em5QQzBCSUdUaUxxR0h6NnJVUk0xckpGWjZrRmRrakp4by02VUZXSHFORW03VFNJalRydnZJT04tQTJjVnpNVGZoUVQ4Zkp2QlpJb19DamYtd0RDNzdzM0tybnIzMVByTQ?oc=5",
@@ -39,18 +47,10 @@
       "guid": "CBMimgFBVV95cUxNSFhYQnkyemNtaG53TWl0R1FockRLWHkzMW5FU0thMmhpT0tPRzhNMTQxQjF4U2Z6QVZBU2RHNUt3MlhyUUJoTTdFRk1tS2gxMkRkSlQ1b1pMRnVTOTRpS1dkTURtZEROLUFQaElNbWV1MFh4REpGQldRbENfSVYzbUVOQWlGbDJJRVJwY0pENVA3QXZSdlhhYU1n"
     },
     {
-      "title": "Why the Federal Reserve should hike rates next week - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQb1p5Vmk0VndTMEtvVER1M1lka2Y4XzBvR285WWl2RGdyQVJPNFRFbWN6cmNXb1doMS1fcmNOX2M0ZjRpdl9ReW5IaUw1UUxFUzNLWGQ0Y1hZaXluV0l4MGJLQVZBbHBWczVjNEs0WkRaeDBvUXZSM29tTmZvVlFobXVlVzRyMF90RXo1ZkxaN29PQQ?oc=5",
-      "source": "CNBC",
-      "published_at": "Fri, 24 Jul 2026 17:54:28 GMT",
-      "summary": "Why the Federal Reserve should hike rates next week CNBC",
-      "guid": "CBMikgFBVV95cUxQb1p5Vmk0VndTMEtvVER1M1lka2Y4XzBvR285WWl2RGdyQVJPNFRFbWN6cmNXb1doMS1fcmNOX2M0ZjRpdl9ReW5IaUw1UUxFUzNLWGQ0Y1hZaXluV0l4MGJLQVZBbHBWczVjNEs0WkRaeDBvUXZSM29tTmZvVlFobXVlVzRyMF90RXo1ZkxaN29PQQ"
-    },
-    {
       "title": "Average Net Worth for Baby Boomers: How Much They Have and Why Wealth Is Unevenly Distributed - Investopedia",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPR3BvUHNYUEF0bzM0czZiZ1J0RldhNVFIaG1HNG9jMFdzVnRIbHd4R3d5VGZUN3BoX1hxRm1ReW5hQ0c0ZEFHcUduYWYycjUxRmVOMG8tLWp1TW5hVENteFJzdnlqSUtMdjZDX21ESXpXZDNVcFZad2NJQWNZUy1pTmwxODVsa09HWm9vZ0JaUnNXUlRJbjRmMU43NnV3ZlEwdU1OcFAxamVEaF9GMElWVmtMZEx2V0Q5ZW45Z291dnRncVNqbVNkVmV3?oc=5",
       "source": "Investopedia",
-      "published_at": "Tue, 28 Jul 2026 21:33:51 GMT",
+      "published_at": "Tue, 28 Jul 2026 23:33:09 GMT",
       "summary": "Average Net Worth for Baby Boomers: How Much They Have and Why Wealth Is Unevenly Distributed Investopedia",
       "guid": "CBMiygFBVV95cUxPR3BvUHNYUEF0bzM0czZiZ1J0RldhNVFIaG1HNG9jMFdzVnRIbHd4R3d5VGZUN3BoX1hxRm1ReW5hQ0c0ZEFHcUduYWYycjUxRmVOMG8tLWp1TW5hVENteFJzdnlqSUtMdjZDX21ESXpXZDNVcFZad2NJQWNZUy1pTmwxODVsa09HWm9vZ0JaUnNXUlRJbjRmMU43NnV3ZlEwdU1OcFAxamVEaF9GMElWVmtMZEx2V0Q5ZW45Z291dnRncVNqbVNkVmV3"
     },
@@ -71,20 +71,20 @@
       "guid": "CBMib0FVX3lxTFBwM0pZNGVVeW5EU1dKbnkzWENyTFM1by01U250clgycjZsVHllb2lETWV3VTBTeWtJRk5iX05XRFpNMlFhRjR0U0pfdGgtVFhmZ1p0YzlXWmNBbUdLRmhuYmUtSmNzaDNINXVQMk9KUQ"
     },
     {
-      "title": "Trump economy at 18 months is a tale of shocks, resilience, and signs of stalled progress - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbkFGX2kwR3FDOVZ3NEt5Y2VBYjNlTW1lOFlFNWVzWmptZUxxTkZqOUlDVHVaVjVrMklERjdRZEFsU2pLZ1BnWlBUNzhCRi1mMFMtZzBpRzlQZlE4djhfMGYtTFJpdHJ3eXd6TGU1UEZYNjFlY2dIcU5yLVVJZWNFc2hKTV9DYUhZOTBWSWFCUjlROTBETVA2UHVZRzZLd0VaMVd1bjlHbXptNEpUTFZna2RFRXdic0dq?oc=5",
-      "source": "Reuters",
-      "published_at": "Mon, 27 Jul 2026 15:37:59 GMT",
-      "summary": "Trump economy at 18 months is a tale of shocks, resilience, and signs of stalled progress Reuters",
-      "guid": "CBMiuAFBVV95cUxNbkFGX2kwR3FDOVZ3NEt5Y2VBYjNlTW1lOFlFNWVzWmptZUxxTkZqOUlDVHVaVjVrMklERjdRZEFsU2pLZ1BnWlBUNzhCRi1mMFMtZzBpRzlQZlE4djhfMGYtTFJpdHJ3eXd6TGU1UEZYNjFlY2dIcU5yLVVJZWNFc2hKTV9DYUhZOTBWSWFCUjlROTBETVA2UHVZRzZLd0VaMVd1bjlHbXptNEpUTFZna2RFRXdic0dq"
+      "title": "Citadel Securities Sees Warsh Delivering Surprise Fed Rate Hike - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONUZ1eU9IbkxOS3M3ckVSeFJIVDZ0eFI0Mm1RX2ZGSW9HdGlMUnNrYjlOSVcxRDkxZGlIeGV3WUlEbG1xVlpuaHprUEZGZFVzdkp1MzV6N0NmR2xWckpReVltRGNwNlh5ZFRCa09XdERHQlhVSEhKeUtJcll0VmV2ZzYtV3lCMHZ1bF90THNzUWtmSHlJOHBpbFJmbTB1c2E4NEpwMVpyQ2dOWWZZdTNpVXhXWjQ?oc=5",
+      "source": "Bloomberg.com",
+      "published_at": "Mon, 27 Jul 2026 21:42:13 GMT",
+      "summary": "Citadel Securities Sees Warsh Delivering Surprise Fed Rate Hike Bloomberg.com",
+      "guid": "CBMitAFBVV95cUxONUZ1eU9IbkxOS3M3ckVSeFJIVDZ0eFI0Mm1RX2ZGSW9HdGlMUnNrYjlOSVcxRDkxZGlIeGV3WUlEbG1xVlpuaHprUEZGZFVzdkp1MzV6N0NmR2xWckpReVltRGNwNlh5ZFRCa09XdERHQlhVSEhKeUtJcll0VmV2ZzYtV3lCMHZ1bF90THNzUWtmSHlJOHBpbFJmbTB1c2E4NEpwMVpyQ2dOWWZZdTNpVXhXWjQ"
     },
     {
-      "title": "Economy bringing mixed messages ahead of next federal reserve meeting - KFOX",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTmdveVZUZUNkS1JaNGpwWG5NVExsYXFvU3c3UXBhTnRuck5VU0tpY0RBWHU1X1RFMHhVQXFGVDVGMzNSd0w4OExDZWlJQ3A0bEptY0hsOGh6Y2w3QnUzanlZRnZpLWdCRDNsUXhRbzYtTUtVOVpvdEhya0luRDI0Z1IwVEc3dXo2aHhMdVZ3MHhkdWlMRDY5bklqR1FkMmVhOUxadXMzOTQxVG5jNVhrWXZWWHFGOXEyaVVZMUtUUjJyWU53UXVrbmtuNmR0WmViZjNPQnJnWlAyR3V4ZHdaSjhCZGc?oc=5",
-      "source": "KFOX",
-      "published_at": "Fri, 24 Jul 2026 19:52:51 GMT",
-      "summary": "Economy bringing mixed messages ahead of next federal reserve meeting KFOX",
-      "guid": "CBMi5AFBVV95cUxNTmdveVZUZUNkS1JaNGpwWG5NVExsYXFvU3c3UXBhTnRuck5VU0tpY0RBWHU1X1RFMHhVQXFGVDVGMzNSd0w4OExDZWlJQ3A0bEptY0hsOGh6Y2w3QnUzanlZRnZpLWdCRDNsUXhRbzYtTUtVOVpvdEhya0luRDI0Z1IwVEc3dXo2aHhMdVZ3MHhkdWlMRDY5bklqR1FkMmVhOUxadXMzOTQxVG5jNVhrWXZWWHFGOXEyaVVZMUtUUjJyWU53UXVrbmtuNmR0WmViZjNPQnJnWlAyR3V4ZHdaSjhCZGc"
+      "title": "Why the Federal Reserve should hike rates next week - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQb1p5Vmk0VndTMEtvVER1M1lka2Y4XzBvR285WWl2RGdyQVJPNFRFbWN6cmNXb1doMS1fcmNOX2M0ZjRpdl9ReW5IaUw1UUxFUzNLWGQ0Y1hZaXluV0l4MGJLQVZBbHBWczVjNEs0WkRaeDBvUXZSM29tTmZvVlFobXVlVzRyMF90RXo1ZkxaN29PQQ?oc=5",
+      "source": "CNBC",
+      "published_at": "Fri, 24 Jul 2026 17:54:28 GMT",
+      "summary": "Why the Federal Reserve should hike rates next week CNBC",
+      "guid": "CBMikgFBVV95cUxQb1p5Vmk0VndTMEtvVER1M1lka2Y4XzBvR285WWl2RGdyQVJPNFRFbWN6cmNXb1doMS1fcmNOX2M0ZjRpdl9ReW5IaUw1UUxFUzNLWGQ0Y1hZaXluV0l4MGJLQVZBbHBWczVjNEs0WkRaeDBvUXZSM29tTmZvVlFobXVlVzRyMF90RXo1ZkxaN29PQQ"
     }
   ]
 }
