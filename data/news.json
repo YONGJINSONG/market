@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T23:17:51Z",
+  "generated_at": "2026-07-28T00:15:04Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -23,20 +23,20 @@
       "guid": "CBMilwFBVV95cUxOYTg0V1dtaGhJZHdvNjFobVBEUV9wZmlhTS1tZktZYWZEa2g5NVJpRWs4N0NDcWQtRTFXdUgzUWV3cnMzR1Q5TnItTXhmUkRLTG5SckJqbzlpc3YwV0NEYUF2QUhyUzB0VHNRTWgtM0hWV3J0VWtPaHVBcWcxRFUyT3lTRU50QjdTYnVGNlpKVWcwZ21JQjlR"
     },
     {
-      "title": "Kevin Warsh Tests Federal Reserve Credibility - StoneX",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYmRxaVJlQ0MwclA3eDNsSHNzUmtqVV9sLW5XZmVmSGNRamtuWFotR1JSS3BxWEtsWmZvZjc3SHd1bnh4ZC1SUVYyTkRKQklIMU55TUt6VkFoY1RINnNIYWxNOHRQeXFYcm5aWWktejIyVnlSWVhjczVJLVlUd1JENWtNQ3J5YU5T?oc=5",
-      "source": "StoneX",
-      "published_at": "Mon, 27 Jul 2026 09:32:13 GMT",
-      "summary": "Kevin Warsh Tests Federal Reserve Credibility StoneX",
-      "guid": "CBMiiAFBVV95cUxPYmRxaVJlQ0MwclA3eDNsSHNzUmtqVV9sLW5XZmVmSGNRamtuWFotR1JSS3BxWEtsWmZvZjc3SHd1bnh4ZC1SUVYyTkRKQklIMU55TUt6VkFoY1RINnNIYWxNOHRQeXFYcm5aWWktejIyVnlSWVhjczVJLVlUd1JENWtNQ3J5YU5T"
-    },
-    {
       "title": "Stock Market Week Ahead: Mag 7 And The Fed — But It's All About The Cash - Investor's Business Daily",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNX3o1amMxNmdZVnRYUlpLZk9ocS16aXRTeU5xU19ZN0xFQ0dreTFKemlzMzV1MkFjQjdxVUd0ck9zTlVKVVRIWGFoX3BzOFV0UTYxT1o0MDBCWjRfV3dLcnpXa0p3YnlKdXQ3Wk1HNmVvZ2FoQk04LXVUdGgwVVlBY0FtMkczMUQ1bjhkVTV0RGtteXc5eGVXM2pGV011XzVmU29iM1R4eGwzU2dRRS1WR1doU0R2bmpCY09jQzQ3QVdzbXA3?oc=5",
       "source": "Investor's Business Daily",
       "published_at": "Sun, 26 Jul 2026 15:06:00 GMT",
       "summary": "Stock Market Week Ahead: Mag 7 And The Fed — But It's All About The Cash Investor's Business Daily",
       "guid": "CBMixAFBVV95cUxNX3o1amMxNmdZVnRYUlpLZk9ocS16aXRTeU5xU19ZN0xFQ0dreTFKemlzMzV1MkFjQjdxVUd0ck9zTlVKVVRIWGFoX3BzOFV0UTYxT1o0MDBCWjRfV3dLcnpXa0p3YnlKdXQ3Wk1HNmVvZ2FoQk04LXVUdGgwVVlBY0FtMkczMUQ1bjhkVTV0RGtteXc5eGVXM2pGV011XzVmU29iM1R4eGwzU2dRRS1WR1doU0R2bmpCY09jQzQ3QVdzbXA3"
+    },
+    {
+      "title": "Kevin Warsh Tests Federal Reserve Credibility - StoneX",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYmRxaVJlQ0MwclA3eDNsSHNzUmtqVV9sLW5XZmVmSGNRamtuWFotR1JSS3BxWEtsWmZvZjc3SHd1bnh4ZC1SUVYyTkRKQklIMU55TUt6VkFoY1RINnNIYWxNOHRQeXFYcm5aWWktejIyVnlSWVhjczVJLVlUd1JENWtNQ3J5YU5T?oc=5",
+      "source": "StoneX",
+      "published_at": "Mon, 27 Jul 2026 09:32:13 GMT",
+      "summary": "Kevin Warsh Tests Federal Reserve Credibility StoneX",
+      "guid": "CBMiiAFBVV95cUxPYmRxaVJlQ0MwclA3eDNsSHNzUmtqVV9sLW5XZmVmSGNRamtuWFotR1JSS3BxWEtsWmZvZjc3SHd1bnh4ZC1SUVYyTkRKQklIMU55TUt6VkFoY1RINnNIYWxNOHRQeXFYcm5aWWktejIyVnlSWVhjczVJLVlUd1JENWtNQ3J5YU5T"
     },
     {
       "title": "Economy bringing mixed messages ahead of this week’s Federal Reserve meeting - Baltimore Sun",
@@ -79,12 +79,12 @@
       "guid": "CBMimwFBVV95cUxPS2lrWS1DSHFVdzNGdU1TcnJqNHpEYmxFU1J4T3prS09QaGNpTGE1SlA5LXZabUZIYXdaSWNuQjZZemxKMzlrbUV5dTh1OGZSSUFvdkNsX0prYlhNajAxNV9YRmwwQTIxcTgyV0xIeWpHVVZnejBJU3dnTnpQNW81SlNfek5IdjY2c29HdmdBUmhYTTBqMUtYdWRYTQ"
     },
     {
-      "title": "Analysis of Federal Reserve Rate Hike Outlook - Intellectia AI",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSEczX0QzdjNZRkoybHVycklrUkk2YjNjeWoydDJ4aloyQ0k1cjM0eG1BNWJILXVnbFZfb2FWdE5nNExSSGtOdnBZRHQ5RFdrWVRyX2VzUUFXcG1ndmlxSFFGV1EwSnRmenFrcW44VEVMbTc5cGtlZWhTbmYxR3U1UFRTal9EUQ?oc=5",
-      "source": "Intellectia AI",
-      "published_at": "Mon, 27 Jul 2026 02:05:24 GMT",
-      "summary": "Analysis of Federal Reserve Rate Hike Outlook Intellectia AI",
-      "guid": "CBMihgFBVV95cUxPSEczX0QzdjNZRkoybHVycklrUkk2YjNjeWoydDJ4aloyQ0k1cjM0eG1BNWJILXVnbFZfb2FWdE5nNExSSGtOdnBZRHQ5RFdrWVRyX2VzUUFXcG1ndmlxSFFGV1EwSnRmenFrcW44VEVMbTc5cGtlZWhTbmYxR3U1UFRTal9EUQ"
+      "title": "US stocks sink on worries about a possible hike to interest rates this year by the Federal Reserve - AP News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcUlFaFNwNVNsa1RTZTFkTEhaMmhGLXBpZnZjeVAwaDBSSzRjZUFIMTQ3UTctckwtOXRvUDB6c0sxUGVlRWY5SUM5ZUllV1doQVhoLWkyd3IxdFdkRWJGY2J0ZGxyNmNwTEU3LVVBdDlXWVlxM2QtdGpHWmtBMGl0WkFWQzNucTVFTF9lelY3ZjdXNzFYeDhN?oc=5",
+      "source": "AP News",
+      "published_at": "Wed, 17 Jun 2026 07:00:00 GMT",
+      "summary": "US stocks sink on worries about a possible hike to interest rates this year by the Federal Reserve AP News",
+      "guid": "CBMilwFBVV95cUxQcUlFaFNwNVNsa1RTZTFkTEhaMmhGLXBpZnZjeVAwaDBSSzRjZUFIMTQ3UTctckwtOXRvUDB6c0sxUGVlRWY5SUM5ZUllV1doQVhoLWkyd3IxdFdkRWJGY2J0ZGxyNmNwTEU3LVVBdDlXWVlxM2QtdGpHWmtBMGl0WkFWQzNucTVFTF9lelY3ZjdXNzFYeDhN"
     }
   ]
 }
