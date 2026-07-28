@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T15:30:26Z",
+  "generated_at": "2026-07-28T17:06:24Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -10,9 +10,17 @@
       "title": "Weekly market commentary - BlackRock",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
       "source": "BlackRock",
-      "published_at": "Tue, 28 Jul 2026 01:06:39 GMT",
+      "published_at": "Tue, 28 Jul 2026 05:09:27 GMT",
       "summary": "Weekly market commentary BlackRock",
       "guid": "CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw"
+    },
+    {
+      "title": "Fed Meeting: Surprise Warsh Rate Hike Can't Be Ruled Out; What It Means For S&P 500 - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQajVQT3pwbmpveU10WVlKUnpNMGt0MXB2YmJ0dmFkdDE2NGdWRTlaeTlIN2t3Zl9OVzJ6em5QQzBCSUdUaUxxR0h6NnJVUk0xckpGWjZrRmRrakp4by02VUZXSHFORW03VFNJalRydnZJT04tQTJjVnpNVGZoUVQ4Zkp2QlpJb19DamYtd0RDNzdzM0tybnIzMVByTQ?oc=5",
+      "source": "Investor's Business Daily",
+      "published_at": "Tue, 28 Jul 2026 11:30:00 GMT",
+      "summary": "Fed Meeting: Surprise Warsh Rate Hike Can't Be Ruled Out; What It Means For S&P 500 Investor's Business Daily",
+      "guid": "CBMimwFBVV95cUxQajVQT3pwbmpveU10WVlKUnpNMGt0MXB2YmJ0dmFkdDE2NGdWRTlaeTlIN2t3Zl9OVzJ6em5QQzBCSUdUaUxxR0h6NnJVUk0xckpGWjZrRmRrakp4by02VUZXSHFORW03VFNJalRydnZJT04tQTJjVnpNVGZoUVQ4Zkp2QlpJb19DamYtd0RDNzdzM0tybnIzMVByTQ"
     },
     {
       "title": "US Markets Await Key Earnings and Federal Reserve Decision as AI Spending Faces Fresh Scrutiny: Dow Jones, S&P, Nasdaq, Wall Street Futures - Yahoo Finance",
@@ -39,12 +47,28 @@
       "guid": "CBMioAFBVV95cUxOQ1llTE9ZLUNHSUVGR0ttYk1aQUhCVDFiRWNxUlVVQ2g1SWJpT1hBVW9jQ21XSzFBZm9hX1ZnNHJIZmhoWm5LLWY1WDRDcEppQ3FsdkZSZGZhSmVtMU92c3BwN2hncDJBdmp1eDZkR3FfaFd5QzhrQ2FObUlUbk84Z2lENlZfOG9Ua2dUWlQzMmd3T1VIZ1U4bGFjaTQtOHZr"
     },
     {
-      "title": "Stock Market Week Ahead: Mag 7 And The Fed — But It's All About The Cash - Investor's Business Daily",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNX3o1amMxNmdZVnRYUlpLZk9ocS16aXRTeU5xU19ZN0xFQ0dreTFKemlzMzV1MkFjQjdxVUd0ck9zTlVKVVRIWGFoX3BzOFV0UTYxT1o0MDBCWjRfV3dLcnpXa0p3YnlKdXQ3Wk1HNmVvZ2FoQk04LXVUdGgwVVlBY0FtMkczMUQ1bjhkVTV0RGtteXc5eGVXM2pGV011XzVmU29iM1R4eGwzU2dRRS1WR1doU0R2bmpCY09jQzQ3QVdzbXA3?oc=5",
-      "source": "Investor's Business Daily",
-      "published_at": "Sun, 26 Jul 2026 15:06:00 GMT",
-      "summary": "Stock Market Week Ahead: Mag 7 And The Fed — But It's All About The Cash Investor's Business Daily",
-      "guid": "CBMixAFBVV95cUxNX3o1amMxNmdZVnRYUlpLZk9ocS16aXRTeU5xU19ZN0xFQ0dreTFKemlzMzV1MkFjQjdxVUd0ck9zTlVKVVRIWGFoX3BzOFV0UTYxT1o0MDBCWjRfV3dLcnpXa0p3YnlKdXQ3Wk1HNmVvZ2FoQk04LXVUdGgwVVlBY0FtMkczMUQ1bjhkVTV0RGtteXc5eGVXM2pGV011XzVmU29iM1R4eGwzU2dRRS1WR1doU0R2bmpCY09jQzQ3QVdzbXA3"
+      "title": "Most Gulf stock markets closed lower as they awaited the Federal Reserve's decision - صحيفة مال",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBwM0pZNGVVeW5EU1dKbnkzWENyTFM1by01U250clgycjZsVHllb2lETWV3VTBTeWtJRk5iX05XRFpNMlFhRjR0U0pfdGgtVFhmZ1p0YzlXWmNBbUdLRmhuYmUtSmNzaDNINXVQMk9KUQ?oc=5",
+      "source": "صحيفة مال",
+      "published_at": "Tue, 28 Jul 2026 15:52:19 GMT",
+      "summary": "Most Gulf stock markets closed lower as they awaited the Federal Reserve's decision صحيفة مال",
+      "guid": "CBMib0FVX3lxTFBwM0pZNGVVeW5EU1dKbnkzWENyTFM1by01U250clgycjZsVHllb2lETWV3VTBTeWtJRk5iX05XRFpNMlFhRjR0U0pfdGgtVFhmZ1p0YzlXWmNBbUdLRmhuYmUtSmNzaDNINXVQMk9KUQ"
+    },
+    {
+      "title": "Federal Reserve is likely to hold interest rates steady. Here's what that means for consumers - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kR3lXVW0teFY1aGxteXlZRzRvVlJBbDVpQ2MxbHkzSThtY0txbkJHNmdLSmctRUJVcDJlUXJVcHlNdDhKcHNrNjVZVXhvSzdxanN1eWZaMmo2NXRnSHJrVWlFNHFPVEdodnVlTdIBckFVX3lxTE80TE5EaWozeEYtMVY2ZEZMb214S21qMXlNZHpIQ05nMmNCVnVtaXBWMDZEVVdwaTdEYm5iYlRHZE9HbmoxV2xlalR3OUhqbFhrbFUyeVFNR1ExOXZJWkJfTVVmS2pnOC1BaEZoUzI3QXBQQQ?oc=5",
+      "source": "CNBC",
+      "published_at": "Mon, 27 Jul 2026 12:15:01 GMT",
+      "summary": "Federal Reserve is likely to hold interest rates steady. Here's what that means for consumers CNBC",
+      "guid": "CBMibEFVX3lxTE5kR3lXVW0teFY1aGxteXlZRzRvVlJBbDVpQ2MxbHkzSThtY0txbkJHNmdLSmctRUJVcDJlUXJVcHlNdDhKcHNrNjVZVXhvSzdxanN1eWZaMmo2NXRnSHJrVWlFNHFPVEdodnVlTdIBckFVX3lxTE80TE5EaWozeEYtMVY2ZEZMb214S21qMXlNZHpIQ05nMmNCVnVtaXBWMDZEVVdwaTdEYm5iYlRHZE9HbmoxV2xlalR3OUhqbFhrbFUyeVFNR1ExOXZJWkJfTVVmS2pnOC1BaEZoUzI3QXBQQQ"
+    },
+    {
+      "title": "Average Net Worth for Ages 45-54: What Drives Wealth at This Life Stage? - Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMV9OMFR5V1VocS0ySDhLNmJoLUMwZ1V0V2M2NktMZGI4WWNsZEE2NXZzczNtelZral9XNDRqU1JXTnlocUtFUkpMMXh4Uk9FcGxNOWI1cVpSTHBZbHBWYnE0YmpQZDlaZzFjZVhzUmlEaHBVZGg3Ulh6R01yb0gxZU1NaWJ4VXFsTHVwUzFMakRBOUJqazJoU1plc1FkRzRvYVl4ZUlfc09IRFk2?oc=5",
+      "source": "Investopedia",
+      "published_at": "Tue, 28 Jul 2026 14:58:45 GMT",
+      "summary": "Average Net Worth for Ages 45-54: What Drives Wealth at This Life Stage? Investopedia",
+      "guid": "CBMirAFBVV95cUxQMV9OMFR5V1VocS0ySDhLNmJoLUMwZ1V0V2M2NktMZGI4WWNsZEE2NXZzczNtelZral9XNDRqU1JXTnlocUtFUkpMMXh4Uk9FcGxNOWI1cVpSTHBZbHBWYnE0YmpQZDlaZzFjZVhzUmlEaHBVZGg3Ulh6R01yb0gxZU1NaWJ4VXFsTHVwUzFMakRBOUJqazJoU1plc1FkRzRvYVl4ZUlfc09IRFk2"
     },
     {
       "title": "Citadel Securities Sees Warsh Delivering Surprise Fed Rate Hike - Bloomberg",
@@ -55,36 +79,12 @@
       "guid": "CBMitAFBVV95cUxONUZ1eU9IbkxOS3M3ckVSeFJIVDZ0eFI0Mm1RX2ZGSW9HdGlMUnNrYjlOSVcxRDkxZGlIeGV3WUlEbG1xVlpuaHprUEZGZFVzdkp1MzV6N0NmR2xWckpReVltRGNwNlh5ZFRCa09XdERHQlhVSEhKeUtJcll0VmV2ZzYtV3lCMHZ1bF90THNzUWtmSHlJOHBpbFJmbTB1c2E4NEpwMVpyQ2dOWWZZdTNpVXhXWjQ"
     },
     {
-      "title": "AI Chip Selloff: Is a Wider Stock Market Crash Next? - ig.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUFVhZGpNbnFSYU91MkktQ3p1NFhtdzRHcXl6VDg3YlZzOF93XzZka1BXWXJHVjZ0dXV5MDIzZmFMdGF3Tl9ub0hpaTRBZnJXOURwUDZGUzZ3LWkxQktsdnlwMGJJT0J3WjlkMDVzWGhoalRWdnNHanJUbGFPRGoxQjJZbWNhLU9oTE5yTEk3SUJFT2FGQVAtMVhFNl8wN2ozQnc?oc=5",
-      "source": "ig.com",
-      "published_at": "Tue, 28 Jul 2026 12:57:10 GMT",
-      "summary": "AI Chip Selloff: Is a Wider Stock Market Crash Next? ig.com",
-      "guid": "CBMiogFBVV95cUxQUFVhZGpNbnFSYU91MkktQ3p1NFhtdzRHcXl6VDg3YlZzOF93XzZka1BXWXJHVjZ0dXV5MDIzZmFMdGF3Tl9ub0hpaTRBZnJXOURwUDZGUzZ3LWkxQktsdnlwMGJJT0J3WjlkMDVzWGhoalRWdnNHanJUbGFPRGoxQjJZbWNhLU9oTE5yTEk3SUJFT2FGQVAtMVhFNl8wN2ozQnc"
-    },
-    {
       "title": "Kevin Warsh's Federal Reserve Just Issued an 11-Word Warning to Wall Street. Here's What History Says Comes Next. - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYTg0V1dtaGhJZHdvNjFobVBEUV9wZmlhTS1tZktZYWZEa2g5NVJpRWs4N0NDcWQtRTFXdUgzUWV3cnMzR1Q5TnItTXhmUkRLTG5SckJqbzlpc3YwV0NEYUF2QUhyUzB0VHNRTWgtM0hWV3J0VWtPaHVBcWcxRFUyT3lTRU50QjdTYnVGNlpKVWcwZ21JQjlR?oc=5",
       "source": "The Motley Fool",
       "published_at": "Mon, 27 Jul 2026 15:15:00 GMT",
       "summary": "Kevin Warsh's Federal Reserve Just Issued an 11-Word Warning to Wall Street. Here's What History Says Comes Next. The Motley Fool",
       "guid": "CBMilwFBVV95cUxOYTg0V1dtaGhJZHdvNjFobVBEUV9wZmlhTS1tZktZYWZEa2g5NVJpRWs4N0NDcWQtRTFXdUgzUWV3cnMzR1Q5TnItTXhmUkRLTG5SckJqbzlpc3YwV0NEYUF2QUhyUzB0VHNRTWgtM0hWV3J0VWtPaHVBcWcxRFUyT3lTRU50QjdTYnVGNlpKVWcwZ21JQjlR"
-    },
-    {
-      "title": "Economy bringing mixed messages ahead of next federal reserve meeting - KABB",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNRE90ay1TV3RWZEhVSmVvYnVZa1pnNDJvOXVKSzJ0Si1ERkRpdTdBV1NyZjNRNnhFamJZVzZHVWlIV0JSZ2VDX3dUNGp0ZWYzOHl2eTJicERsUWlodG5LWGt5UUJEOTRranFRNWRmT1R1dmpiYTIxVGxmeWhFa042cFQyRkRfMldwaFcxc2RNc1ljdDV5SUplZTZaajdyWjl4eUtJNFpfejVpeXlzeTQ2ZEpHeVRhVlV5ZmQ1RVBicWFyMTQ1RWJaQjVWYkplV1FfSFJmNDlheDd3X0NsUGxvY0pJbDlpVUxscUQ1enJB?oc=5",
-      "source": "KABB",
-      "published_at": "Fri, 24 Jul 2026 22:25:41 GMT",
-      "summary": "Economy bringing mixed messages ahead of next federal reserve meeting KABB",
-      "guid": "CBMi7gFBVV95cUxNRE90ay1TV3RWZEhVSmVvYnVZa1pnNDJvOXVKSzJ0Si1ERkRpdTdBV1NyZjNRNnhFamJZVzZHVWlIV0JSZ2VDX3dUNGp0ZWYzOHl2eTJicERsUWlodG5LWGt5UUJEOTRranFRNWRmT1R1dmpiYTIxVGxmeWhFa042cFQyRkRfMldwaFcxc2RNc1ljdDV5SUplZTZaajdyWjl4eUtJNFpfejVpeXlzeTQ2ZEpHeVRhVlV5ZmQ1RVBicWFyMTQ1RWJaQjVWYkplV1FfSFJmNDlheDd3X0NsUGxvY0pJbDlpVUxscUQ1enJB"
-    },
-    {
-      "title": "Kevin Warsh Tests Federal Reserve Credibility - StoneX",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYmRxaVJlQ0MwclA3eDNsSHNzUmtqVV9sLW5XZmVmSGNRamtuWFotR1JSS3BxWEtsWmZvZjc3SHd1bnh4ZC1SUVYyTkRKQklIMU55TUt6VkFoY1RINnNIYWxNOHRQeXFYcm5aWWktejIyVnlSWVhjczVJLVlUd1JENWtNQ3J5YU5T?oc=5",
-      "source": "StoneX",
-      "published_at": "Mon, 27 Jul 2026 09:32:13 GMT",
-      "summary": "Kevin Warsh Tests Federal Reserve Credibility StoneX",
-      "guid": "CBMiiAFBVV95cUxPYmRxaVJlQ0MwclA3eDNsSHNzUmtqVV9sLW5XZmVmSGNRamtuWFotR1JSS3BxWEtsWmZvZjc3SHd1bnh4ZC1SUVYyTkRKQklIMU55TUt6VkFoY1RINnNIYWxNOHRQeXFYcm5aWWktejIyVnlSWVhjczVJLVlUd1JENWtNQ3J5YU5T"
     }
   ]
 }
