@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T15:33:19Z",
+  "generated_at": "2026-07-29T16:54:50Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -47,6 +47,14 @@
       "guid": "CBMiuwJBVV95cUxNeEpmTDFPUEdCRmRsamZYaEY2UnBJdFhqRzY2NzRjSGRHQ3VJOGNISkhacC1RMVpERDNNRTRacjRyV3RZUng3RFB0STFMY1RDVmpWcWNXdy1Kd1FfaDJnaERUbXFLUWR0Y1I4MHlVaTZSZTBmdUJSMXk1X0t4cXpZbUxUeG8tSVo0V05pb1FFMlV0VVVJRld2eDJtVm05Q1dCbWlrZFRtNFlrZWRSRDR1R2dGMlRwZzMwQjVpaVlIQ2hWZ2NVd3o3TWhMQndKTUpGY0lmY2pUWUpNb3NWRGpEeTlHNkFUSmlrV2d1Y2lvRHlubTE4LXNFb3JNNVlHT2YyVzd0dDdsVTlwRnh3VUgxOEhOdmphUElDREoxWFg0UjMwQTJ1SW0xc0xXeXI0YlJDUWhkSUk0VU81ekE"
     },
     {
+      "title": "The Federal Reserve Should Raise Interest Rates Today, but It Won't for One Fundamental Reason - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS1ZzN0YtSFpZMkUxRWdoUTBMRGd5Um9jd3Z4Zkt2cEpMMi1zM1RHQWZJNTFNQzJVbUNXMlZ0YjE0aW43SmpDU0JmeEU2UXdJc01nckJSQ0NKaFplZlVwZmJWOGI5d1BZQmE0SVprUEFTVlpWVE54WGNGSUR0R1FieWRlT1pPVlVRWlNTcENBT3N5bXhMYWMyZ1I5QVJUTXVH?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Wed, 29 Jul 2026 08:26:00 GMT",
+      "summary": "The Federal Reserve Should Raise Interest Rates Today, but It Won't for One Fundamental Reason Yahoo Finance",
+      "guid": "CBMioAFBVV95cUxOS1ZzN0YtSFpZMkUxRWdoUTBMRGd5Um9jd3Z4Zkt2cEpMMi1zM1RHQWZJNTFNQzJVbUNXMlZ0YjE0aW43SmpDU0JmeEU2UXdJc01nckJSQ0NKaFplZlVwZmJWOGI5d1BZQmE0SVprUEFTVlpWVE54WGNGSUR0R1FieWRlT1pPVlVRWlNTcENBT3N5bXhMYWMyZ1I5QVJUTXVH"
+    },
+    {
       "title": "US stock market today: Wall Street in red ahead of US Federal Reserve policy review; oil prices climb - The Times of India",
       "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQTVpBRFhra0Y1NGh6bjVJM0J5TV9kbmNweDYyNHRGR3phT0tSc04wRGFSX182YVFRNWl3MUgtY3dpS0RGbU5hemJzYWw5cTYzaG5IRDFwUnEzYVoxTlNZZU1UUXFkeWNjb3Azbmxza1RsZGVQRHMxZm11Zk9UbnRPZmQyRVo5NG1JSnhyRFNra290MjhhUG5ZdWk0YWVHbXpfZVA1UmZEODR3X2twY0c0UkxxRUJDWFpXclR6MjlLMnlwOGVrOHdTQlU1ai1rODNGUVdLU0UyMzFPZE1OTjBqMmNIQ0pDcTVXdUxOUjl3ZzV6ZXFnbFQyZTdXdmRWSVdCZjlBY1hBV0JSdlp6RnJCdnhLVl8xb2Y4SXoxb1ZPTHhxN3k1SE9MbEtqOGR3NkpzQkhfMmt2TzJEd9IBvwJBVV95cUxPaUpWdF81SkNTQUFYQlpVak51VG4xczhSYW11WHdiMFhhcVp2NFc5N09Pc0NzSFdYV2lzZ1MzN1AwWDg4ODc3V0lLY2JzMHRoc184endocmVrVDhkXzBKN0JvNGlpaU1BWnBQdFYteWFVUC1GUU5aeEtsYmlaeGhBUmh4ZVZCeWtKcThSa0gtYnMya3JKR2o3NmJFVjBVYzNXTnRMS0UzaGcxdzdjRjdOWHNQMWJPUi1qZC1ZR19lOGtxRVd1V211NWJrSzJsWFF3anBOT1o5UW9DRkVfbmFNMkRRck5hdzRpUk02cWRtY19POGlPN1Q0MTQwS01ibTEwNDl6RGdvTm16SHlRTVFVRUdqdURFUGNlai1HQXQzci1NbVB5RlBrTkxaWERWRXRYcG1nM2NVamNRMXpUdks0?oc=5",
       "source": "The Times of India",
@@ -63,14 +71,6 @@
       "guid": "CBMikwFBVV95cUxOa0VyLS0zSGNFWVFCVldibWYxNHM0cFlkdWFLV29sS3liQmk5VHdmT3ZoMkRfRHExQW5xWU96OUt6aHpZRFdMb2JJZ3ZONzcwREtqT1llUW1vS2FWenI3bzhMNFB4S0g5djJ2S19VRERlR3R4bGxybzlFaENLdTFBd1MtRld6M3ZmcFJYVHFkMmhUX00"
     },
     {
-      "title": "Why no one knows what to expect from the Fed decision today - CNN",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5WFlYR005RGsxTFhUTHg0M3FyX0NHMlpUUTdoQnZiWjVtQVdBVFpEMzFGM3J4eW5yc2V4ZWdoUzRyY3lETHdWUVg0Vm9MV2NnaHZKZDdkcms1cGd0UmozVmtrWXI5SzhiTnJvX2RR?oc=5",
-      "source": "CNN",
-      "published_at": "Wed, 29 Jul 2026 09:00:25 GMT",
-      "summary": "Why no one knows what to expect from the Fed decision today CNN",
-      "guid": "CBMibkFVX3lxTFB5WFlYR005RGsxTFhUTHg0M3FyX0NHMlpUUTdoQnZiWjVtQVdBVFpEMzFGM3J4eW5yc2V4ZWdoUzRyY3lETHdWUVg0Vm9MV2NnaHZKZDdkcms1cGd0UmozVmtrWXI5SzhiTnJvX2RR"
-    },
-    {
       "title": "Weekly market commentary - BlackRock",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
       "source": "BlackRock",
@@ -79,12 +79,12 @@
       "guid": "CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw"
     },
     {
-      "title": "5 Things to Know Before the Stock Market Opens on Wednesday - Investopedia",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaTZHOEhfczB0V1dHeVMwbE9PVkw2LTNJZHZzeE5mTV9pYW1iZDlHNDNCNlRCWDQ5Z3dUNlpCOE4xOGd1cWpDMWNYZ0ZXdFRCNk1tTlk1TDBCRTRsa2tyX29vdldTSVRlTlFKVUJHY2JrRkVUbDZQT3pzcm1DUDNIYTRuZ0Ztc0N3Qk5UZWo5V3YwNlhjanh5QWJWWG1UakZpa3ZlbHZCd2dmR0VKdldz?oc=5",
-      "source": "Investopedia",
-      "published_at": "Wed, 29 Jul 2026 12:15:56 GMT",
-      "summary": "5 Things to Know Before the Stock Market Opens on Wednesday Investopedia",
-      "guid": "CBMirwFBVV95cUxNaTZHOEhfczB0V1dHeVMwbE9PVkw2LTNJZHZzeE5mTV9pYW1iZDlHNDNCNlRCWDQ5Z3dUNlpCOE4xOGd1cWpDMWNYZ0ZXdFRCNk1tTlk1TDBCRTRsa2tyX29vdldTSVRlTlFKVUJHY2JrRkVUbDZQT3pzcm1DUDNIYTRuZ0Ztc0N3Qk5UZWo5V3YwNlhjanh5QWJWWG1UakZpa3ZlbHZCd2dmR0VKdldz"
+      "title": "Why no one knows what to expect from the Fed decision today - CNN",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5WFlYR005RGsxTFhUTHg0M3FyX0NHMlpUUTdoQnZiWjVtQVdBVFpEMzFGM3J4eW5yc2V4ZWdoUzRyY3lETHdWUVg0Vm9MV2NnaHZKZDdkcms1cGd0UmozVmtrWXI5SzhiTnJvX2RR?oc=5",
+      "source": "CNN",
+      "published_at": "Wed, 29 Jul 2026 09:00:25 GMT",
+      "summary": "Why no one knows what to expect from the Fed decision today CNN",
+      "guid": "CBMibkFVX3lxTFB5WFlYR005RGsxTFhUTHg0M3FyX0NHMlpUUTdoQnZiWjVtQVdBVFpEMzFGM3J4eW5yc2V4ZWdoUzRyY3lETHdWUVg0Vm9MV2NnaHZKZDdkcms1cGd0UmozVmtrWXI5SzhiTnJvX2RR"
     }
   ]
 }
