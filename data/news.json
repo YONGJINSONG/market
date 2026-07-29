@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T11:52:23Z",
+  "generated_at": "2026-07-29T13:41:37Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,12 +7,12 @@
   },
   "items": [
     {
-      "title": "Why no one knows what to expect from the Fed decision today - CNN",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5WFlYR005RGsxTFhUTHg0M3FyX0NHMlpUUTdoQnZiWjVtQVdBVFpEMzFGM3J4eW5yc2V4ZWdoUzRyY3lETHdWUVg0Vm9MV2NnaHZKZDdkcms1cGd0UmozVmtrWXI5SzhiTnJvX2RR?oc=5",
-      "source": "CNN",
-      "published_at": "Wed, 29 Jul 2026 09:00:25 GMT",
-      "summary": "Why no one knows what to expect from the Fed decision today CNN",
-      "guid": "CBMibkFVX3lxTFB5WFlYR005RGsxTFhUTHg0M3FyX0NHMlpUUTdoQnZiWjVtQVdBVFpEMzFGM3J4eW5yc2V4ZWdoUzRyY3lETHdWUVg0Vm9MV2NnaHZKZDdkcms1cGd0UmozVmtrWXI5SzhiTnJvX2RR"
+      "title": "‘Big Wednesday’ Offers a Big Test for the Stock Market - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNFRhQjcyLTBCc3VMdTJ5TjU0ZXNGdkxSUFVkeEF6UTJLeXNwMElaS0UtZEI1N1V1d0J4Qi1Da083cFU0dGpzNkk0Z2pxbnFDaTdpSEMyc0xIMjNaTGtUakZfUHktUnRONGpjeW9VdGdTQ1JsaVBTbDJUcHltTVNUN19JSDlBME5P?oc=5",
+      "source": "Barron's",
+      "published_at": "Wed, 29 Jul 2026 13:28:00 GMT",
+      "summary": "‘Big Wednesday’ Offers a Big Test for the Stock Market Barron's",
+      "guid": "CBMiiAFBVV95cUxQNFRhQjcyLTBCc3VMdTJ5TjU0ZXNGdkxSUFVkeEF6UTJLeXNwMElaS0UtZEI1N1V1d0J4Qi1Da083cFU0dGpzNkk0Z2pxbnFDaTdpSEMyc0xIMjNaTGtUakZfUHktUnRONGpjeW9VdGdTQ1JsaVBTbDJUcHltTVNUN19JSDlBME5P"
     },
     {
       "title": "The Federal Reserve is expected to keep rates unchanged for now despite high prices - LancasterOnline",
@@ -26,16 +26,16 @@
       "title": "Stock Market Investors Just Got Bad News About President Trump's Economy. It Hints at a Big Move in the S&P 500 and Nasdaq. - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOa0VyLS0zSGNFWVFCVldibWYxNHM0cFlkdWFLV29sS3liQmk5VHdmT3ZoMkRfRHExQW5xWU96OUt6aHpZRFdMb2JJZ3ZONzcwREtqT1llUW1vS2FWenI3bzhMNFB4S0g5djJ2S19VRERlR3R4bGxybzlFaENLdTFBd1MtRld6M3ZmcFJYVHFkMmhUX00?oc=5",
       "source": "The Motley Fool",
-      "published_at": "Wed, 29 Jul 2026 09:11:02 GMT",
+      "published_at": "Wed, 29 Jul 2026 09:48:00 GMT",
       "summary": "Stock Market Investors Just Got Bad News About President Trump's Economy. It Hints at a Big Move in the S&P 500 and Nasdaq. The Motley Fool",
       "guid": "CBMikwFBVV95cUxOa0VyLS0zSGNFWVFCVldibWYxNHM0cFlkdWFLV29sS3liQmk5VHdmT3ZoMkRfRHExQW5xWU96OUt6aHpZRFdMb2JJZ3ZONzcwREtqT1llUW1vS2FWenI3bzhMNFB4S0g5djJ2S19VRERlR3R4bGxybzlFaENLdTFBd1MtRld6M3ZmcFJYVHFkMmhUX00"
     },
     {
-      "title": "Stock Market Today: Dow Jones, S&P 500 Futures Rise as Investors Await Federal Reserve's Decision on Inte - Benzinga",
+      "title": "Stock Market Today: Dow Futures Slip, S&P 500, Nasdaq 100 Rise as Investors Await Federal Reserve's Decis - Benzinga",
       "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPS1kxd0VJeXM5d3VqVm9Rekg4S1QzempVRG93TzZrdDJxS1o4TnU3RDFwdDh2ZDZuR3hrWFQta0pQSUZaZml6Q1B5dHF1WFFnbDNoQmc3c1RFQ3M1T0hnLTZOQWt5Z0lyczJ5SXAxRmVpcGsyWHd1S1JrZjE0OFJKd002Y1VXaEk1RFlXbGExNU4zY0dodGRYNmxockFEXy1kTmlwV1FENF82dmluWFFsNHdFVHZQZUtMN01qU0lONlRBWXp4Rk44REpsdEJ3aGtZcWFtMmN4YlN2c2ZfVldMUDNQbjlGNjV3RWVFcHdQbF9VUF80bG9BSUZZeFgxZGVSWFhyS0hDaWY5bHRLWHlWYkdVcG1Id2pvRFJEUGdHZ2xXUi1zTEVxaGZRa3BTc2NaSzRsLWl3?oc=5",
       "source": "Benzinga",
-      "published_at": "Wed, 29 Jul 2026 09:34:04 GMT",
-      "summary": "Stock Market Today: Dow Jones, S&P 500 Futures Rise as Investors Await Federal Reserve's Decision on Inte Benzinga",
+      "published_at": "Wed, 29 Jul 2026 12:32:00 GMT",
+      "summary": "Stock Market Today: Dow Futures Slip, S&P 500, Nasdaq 100 Rise as Investors Await Federal Reserve's Decis Benzinga",
       "guid": "CBMitgJBVV95cUxPS1kxd0VJeXM5d3VqVm9Rekg4S1QzempVRG93TzZrdDJxS1o4TnU3RDFwdDh2ZDZuR3hrWFQta0pQSUZaZml6Q1B5dHF1WFFnbDNoQmc3c1RFQ3M1T0hnLTZOQWt5Z0lyczJ5SXAxRmVpcGsyWHd1S1JrZjE0OFJKd002Y1VXaEk1RFlXbGExNU4zY0dodGRYNmxockFEXy1kTmlwV1FENF82dmluWFFsNHdFVHZQZUtMN01qU0lONlRBWXp4Rk44REpsdEJ3aGtZcWFtMmN4YlN2c2ZfVldMUDNQbjlGNjV3RWVFcHdQbF9VUF80bG9BSUZZeFgxZGVSWFhyS0hDaWY5bHRLWHlWYkdVcG1Id2pvRFJEUGdHZ2xXUi1zTEVxaGZRa3BTc2NaSzRsLWl3"
     },
     {
@@ -55,36 +55,36 @@
       "guid": "CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw"
     },
     {
-      "title": "Stock Market: Will S&P 500 Open Up or Down Today? - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbm9BSk1qSVpQemlDS0J0RjNTdTQ3ZWtmTk5ZWVV6R24xcmVwRzNnT25xb0ZMQUtSYWdsbC1WeDdyc2ZYTnRmcVc0OG5KTVE2UGdUVDRRS1RqVU5UWGtFR0lPUDdzc3dyN29HVzdZeVJDUzBBWXZkNWk5RWVWa0tteVhUc3FnSWROcTVzVjBBclRaVnJaQ1U4MWFNQ1BmSFN6R1l1OTlaYnRYUQ?oc=5",
-      "source": "TradingView",
-      "published_at": "Wed, 29 Jul 2026 08:30:22 GMT",
-      "summary": "Stock Market: Will S&P 500 Open Up or Down Today? TradingView",
-      "guid": "CBMiqgFBVV95cUxQbm9BSk1qSVpQemlDS0J0RjNTdTQ3ZWtmTk5ZWVV6R24xcmVwRzNnT25xb0ZMQUtSYWdsbC1WeDdyc2ZYTnRmcVc0OG5KTVE2UGdUVDRRS1RqVU5UWGtFR0lPUDdzc3dyN29HVzdZeVJDUzBBWXZkNWk5RWVWa0tteVhUc3FnSWROcTVzVjBBclRaVnJaQ1U4MWFNQ1BmSFN6R1l1OTlaYnRYUQ"
+      "title": "The Fed meeting, Ford earnings, Trump's investment portfolio and more in Morning Squawk - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeHVlRjk1NnoyeDVNQV9JeDlmSEhFdE1ObTQ4TUFOTXplaXYzR1RHTGJKWlJ2UHFBclY0T0xTY0ltYzRXSGZsWnc1MnZ6RjRveU1sYU4wdG5zaW5VNHc4UHBFOHFENUNvVThsMWJXaDNxaGJNZjhpczdjSVpjbVFqUGQ1MHZYUHdiWlhz0gGQAUFVX3lxTE9OVUcyQXZCZV83dWk0VDNEeFM4R1R1OWtvM2NZUktFOE5VNGsyMDZKeHVNOUxDMS02RFFfQkZFRXZNbkYtcVpHbnZ6NjRfNERSTXAyVlVBWF81N3FFaUIzZ2JZUHZndWNnM1ZwVTllYVI0YnVqYnF3YlJhLVBwSlkwcU45akE3Y3labTJtRlo4Rw?oc=5",
+      "source": "CNBC",
+      "published_at": "Wed, 29 Jul 2026 12:44:04 GMT",
+      "summary": "The Fed meeting, Ford earnings, Trump's investment portfolio and more in Morning Squawk CNBC",
+      "guid": "CBMiiwFBVV95cUxNeHVlRjk1NnoyeDVNQV9JeDlmSEhFdE1ObTQ4TUFOTXplaXYzR1RHTGJKWlJ2UHFBclY0T0xTY0ltYzRXSGZsWnc1MnZ6RjRveU1sYU4wdG5zaW5VNHc4UHBFOHFENUNvVThsMWJXaDNxaGJNZjhpczdjSVpjbVFqUGQ1MHZYUHdiWlhz0gGQAUFVX3lxTE9OVUcyQXZCZV83dWk0VDNEeFM4R1R1OWtvM2NZUktFOE5VNGsyMDZKeHVNOUxDMS02RFFfQkZFRXZNbkYtcVpHbnZ6NjRfNERSTXAyVlVBWF81N3FFaUIzZ2JZUHZndWNnM1ZwVTllYVI0YnVqYnF3YlJhLVBwSlkwcU45akE3Y3labTJtRlo4Rw"
     },
     {
-      "title": "Stock market awaits Fed decision as chip selloff deepens - eciks.org",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE10ZGtIYTd2YVdXRDRLOVFVcU9OMWRXaG94T05Ya2xqenJTaFNKRktUSjJpLUtiNUFfQndrLVFPX2o2SjJIa3haRzF0em9Jejd6S01DNjVmVkw1eTZ6QkVsS2tVeTdncGYtZWpYaDRFYw?oc=5",
-      "source": "eciks.org",
-      "published_at": "Tue, 28 Jul 2026 14:34:53 GMT",
-      "summary": "Stock market awaits Fed decision as chip selloff deepens eciks.org",
-      "guid": "CBMib0FVX3lxTE10ZGtIYTd2YVdXRDRLOVFVcU9OMWRXaG94T05Ya2xqenJTaFNKRktUSjJpLUtiNUFfQndrLVFPX2o2SjJIa3haRzF0em9Jejd6S01DNjVmVkw1eTZ6QkVsS2tVeTdncGYtZWpYaDRFYw"
+      "title": "Why no one knows what to expect from the Fed decision today - CNN",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5WFlYR005RGsxTFhUTHg0M3FyX0NHMlpUUTdoQnZiWjVtQVdBVFpEMzFGM3J4eW5yc2V4ZWdoUzRyY3lETHdWUVg0Vm9MV2NnaHZKZDdkcms1cGd0UmozVmtrWXI5SzhiTnJvX2RR?oc=5",
+      "source": "CNN",
+      "published_at": "Wed, 29 Jul 2026 09:00:25 GMT",
+      "summary": "Why no one knows what to expect from the Fed decision today CNN",
+      "guid": "CBMibkFVX3lxTFB5WFlYR005RGsxTFhUTHg0M3FyX0NHMlpUUTdoQnZiWjVtQVdBVFpEMzFGM3J4eW5yc2V4ZWdoUzRyY3lETHdWUVg0Vm9MV2NnaHZKZDdkcms1cGd0UmozVmtrWXI5SzhiTnJvX2RR"
     },
     {
-      "title": "What to Look Out for in Economic Data This Week (July 27-31) - Kiplinger",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ?oc=5",
-      "source": "Kiplinger",
-      "published_at": "Fri, 24 Jul 2026 18:11:00 GMT",
-      "summary": "What to Look Out for in Economic Data This Week (July 27-31) Kiplinger",
-      "guid": "CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ"
+      "title": "5 Things to Know Before the Stock Market Opens on Wednesday - Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaTZHOEhfczB0V1dHeVMwbE9PVkw2LTNJZHZzeE5mTV9pYW1iZDlHNDNCNlRCWDQ5Z3dUNlpCOE4xOGd1cWpDMWNYZ0ZXdFRCNk1tTlk1TDBCRTRsa2tyX29vdldTSVRlTlFKVUJHY2JrRkVUbDZQT3pzcm1DUDNIYTRuZ0Ztc0N3Qk5UZWo5V3YwNlhjanh5QWJWWG1UakZpa3ZlbHZCd2dmR0VKdldz?oc=5",
+      "source": "Investopedia",
+      "published_at": "Wed, 29 Jul 2026 12:15:56 GMT",
+      "summary": "5 Things to Know Before the Stock Market Opens on Wednesday Investopedia",
+      "guid": "CBMirwFBVV95cUxNaTZHOEhfczB0V1dHeVMwbE9PVkw2LTNJZHZzeE5mTV9pYW1iZDlHNDNCNlRCWDQ5Z3dUNlpCOE4xOGd1cWpDMWNYZ0ZXdFRCNk1tTlk1TDBCRTRsa2tyX29vdldTSVRlTlFKVUJHY2JrRkVUbDZQT3pzcm1DUDNIYTRuZ0Ztc0N3Qk5UZWo5V3YwNlhjanh5QWJWWG1UakZpa3ZlbHZCd2dmR0VKdldz"
     },
     {
-      "title": "US Markets Await Key Earnings and Federal Reserve Decision as AI Spending Faces Fresh Scrutiny: Dow Jones, S&P, Nasdaq, Wall Street Futures - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSFhYQnkyemNtaG53TWl0R1FockRLWHkzMW5FU0thMmhpT0tPRzhNMTQxQjF4U2Z6QVZBU2RHNUt3MlhyUUJoTTdFRk1tS2gxMkRkSlQ1b1pMRnVTOTRpS1dkTURtZEROLUFQaElNbWV1MFh4REpGQldRbENfSVYzbUVOQWlGbDJJRVJwY0pENVA3QXZSdlhhYU1n?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Tue, 28 Jul 2026 10:52:25 GMT",
-      "summary": "US Markets Await Key Earnings and Federal Reserve Decision as AI Spending Faces Fresh Scrutiny: Dow Jones, S&P, Nasdaq, Wall Street Futures Yahoo Finance",
-      "guid": "CBMimgFBVV95cUxNSFhYQnkyemNtaG53TWl0R1FockRLWHkzMW5FU0thMmhpT0tPRzhNMTQxQjF4U2Z6QVZBU2RHNUt3MlhyUUJoTTdFRk1tS2gxMkRkSlQ1b1pMRnVTOTRpS1dkTURtZEROLUFQaElNbWV1MFh4REpGQldRbENfSVYzbUVOQWlGbDJJRVJwY0pENVA3QXZSdlhhYU1n"
+      "title": "The Federal Reserve Should Raise Interest Rates Today, but It Won't for One Fundamental Reason - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVXlZRHR6enhyaDhtMEdwTlRSOFVELWxKMkNRblZXbHh4QldLcEdnRFFLT0hIODdqbmtYWDgtVDJMbENxZEh5dkgxTl9LQ3MtRGdhblR0UnlJMzhBQUFLcHVMNWJTcFl5VTFVcWo2VEcyLWJwM2kwV0llOHVMb0VNNzZXVDZKQjVCbUVtQ1piWmFjM0k1azVr?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Wed, 29 Jul 2026 09:06:00 GMT",
+      "summary": "The Federal Reserve Should Raise Interest Rates Today, but It Won't for One Fundamental Reason The Motley Fool",
+      "guid": "CBMilwFBVV95cUxOVXlZRHR6enhyaDhtMEdwTlRSOFVELWxKMkNRblZXbHh4QldLcEdnRFFLT0hIODdqbmtYWDgtVDJMbENxZEh5dkgxTl9LQ3MtRGdhblR0UnlJMzhBQUFLcHVMNWJTcFl5VTFVcWo2VEcyLWJwM2kwV0llOHVMb0VNNzZXVDZKQjVCbUVtQ1piWmFjM0k1azVr"
     }
   ]
 }
