@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T22:36:18Z",
+  "generated_at": "2026-07-29T23:39:03Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,12 +7,36 @@
   },
   "items": [
     {
+      "title": "Wall Street is panicking over Kevin Warsh’s patience - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMXZZT1hoRmtISTFuemVaVVVVY3N1SllWSEMyMmRtTnY1UzhoSjhWdlluOUo5TG5xMEdsOXZYeWM2UmtWSXh5T3ljQWUxVmxhMVFIR1VMWFdtY0ZwcU1nOXJ1T1VoTVJ3cG9JNGpfY09sQjhHLUVqc3dLN3JSUlhWS1Vnaw?oc=5",
+      "source": "Fortune",
+      "published_at": "Wed, 29 Jul 2026 20:32:00 GMT",
+      "summary": "Wall Street is panicking over Kevin Warsh’s patience Fortune",
+      "guid": "CBMigwFBVV95cUxOMXZZT1hoRmtISTFuemVaVVVVY3N1SllWSEMyMmRtTnY1UzhoSjhWdlluOUo5TG5xMEdsOXZYeWM2UmtWSXh5T3ljQWUxVmxhMVFIR1VMWFdtY0ZwcU1nOXJ1T1VoTVJ3cG9JNGpfY09sQjhHLUVqc3dLN3JSUlhWS1Vnaw"
+    },
+    {
+      "title": "Wall Street closes down sharply after Fed holds rates unchanged - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYTBjTkgxdmttOW1mOFd3NHRiOHNOdEhqMG12bzU1WWVOcm1pTGNuazF6OGU2VkJya1dZd3lKSXRmZ0V3NFJ6eXJGbGk1SzgtQ2E1NzI0YmJQZk9uZ1lmWTZqNHpEY3lrYVZtYlNIYXllOWNYUDdxT1owV3FnX1ZUNHdyMGN4VlM0QVZpbV9PYzkzT1ktVXZLRWx6dmMtNnRIMnVIUzBfakZmMl9kS25ldGQxbw?oc=5",
+      "source": "Reuters",
+      "published_at": "Wed, 29 Jul 2026 22:56:36 GMT",
+      "summary": "Wall Street closes down sharply after Fed holds rates unchanged Reuters",
+      "guid": "CBMiswFBVV95cUxPYTBjTkgxdmttOW1mOFd3NHRiOHNOdEhqMG12bzU1WWVOcm1pTGNuazF6OGU2VkJya1dZd3lKSXRmZ0V3NFJ6eXJGbGk1SzgtQ2E1NzI0YmJQZk9uZ1lmWTZqNHpEY3lrYVZtYlNIYXllOWNYUDdxT1owV3FnX1ZUNHdyMGN4VlM0QVZpbV9PYzkzT1ktVXZLRWx6dmMtNnRIMnVIUzBfakZmMl9kS25ldGQxbw"
+    },
+    {
       "title": "Dow Posts Its Worst Day Of The Year After Federal Reserve Maintains Interest Rates - Forbes",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdmhwSjdNOFk5U1dQS3ZFeXlDMDBFcHVoN1JIdVFteEE5THNMRWNXRWtNY2t2ODNHaDIzc2Uyam9VUlg5ZnpRVUhoQkR0bGszOEdqM1lBNTdxV0V0bk9BMHF4YzNTMGhHVjdRZVV5QzctcDBiOHNZelJ4NXhuZzR2aU5iYlBkZ1dISE9pVHhJbUprcVFIM1FiMS1SQ3A3ZGloYjE1MVBFdjdTQmoyaW8taGlGLUd6WWYwVWxnMTdEOXBxdHJ4UlVlUGFMVVVVcVpETXIyUFBOTQ?oc=5",
       "source": "Forbes",
       "published_at": "Wed, 29 Jul 2026 20:20:05 GMT",
       "summary": "Dow Posts Its Worst Day Of The Year After Federal Reserve Maintains Interest Rates Forbes",
       "guid": "CBMi1wFBVV95cUxNdmhwSjdNOFk5U1dQS3ZFeXlDMDBFcHVoN1JIdVFteEE5THNMRWNXRWtNY2t2ODNHaDIzc2Uyam9VUlg5ZnpRVUhoQkR0bGszOEdqM1lBNTdxV0V0bk9BMHF4YzNTMGhHVjdRZVV5QzctcDBiOHNZelJ4NXhuZzR2aU5iYlBkZ1dISE9pVHhJbUprcVFIM1FiMS1SQ3A3ZGloYjE1MVBFdjdTQmoyaW8taGlGLUd6WWYwVWxnMTdEOXBxdHJ4UlVlUGFMVVVVcVpETXIyUFBOTQ"
+    },
+    {
+      "title": "Fed Holds Rates Steady but Three Officials Vote for Increase - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbWprLW5qMWxhbDFjaU9XY183blpJX09mY0hSOXg3dTVxZ250OFp3cFNPekxFdFkxX09jTzNNNWlFNGtjQnduS2JYX3FPdTZSUVZiMDJZYlRyeXlIX19XaGprcFp5dnhjSWxiOUNZeG16WkJqZXF2dGRIbTI3YzFGR3ZOVXkwbzBpVTFSclNWRmx3OTRPdmg1RTNvQXYzb3p2aGcyMjB2NW9Hc24tYkdsMVgyb3Q?oc=5",
+      "source": "WSJ",
+      "published_at": "Wed, 29 Jul 2026 20:57:00 GMT",
+      "summary": "Fed Holds Rates Steady but Three Officials Vote for Increase WSJ",
+      "guid": "CBMitAFBVV95cUxPbWprLW5qMWxhbDFjaU9XY183blpJX09mY0hSOXg3dTVxZ250OFp3cFNPekxFdFkxX09jTzNNNWlFNGtjQnduS2JYX3FPdTZSUVZiMDJZYlRyeXlIX19XaGprcFp5dnhjSWxiOUNZeG16WkJqZXF2dGRIbTI3YzFGR3ZOVXkwbzBpVTFSclNWRmx3OTRPdmg1RTNvQXYzb3p2aGcyMjB2NW9Hc24tYkdsMVgyb3Q"
     },
     {
       "title": "A divided Federal Reserve holds interest rates steady despite high inflation - Georgia Public Broadcasting",
@@ -31,14 +55,6 @@
       "guid": "CBMixwFBVV95cUxPSzdPQlJDTnJFOHU2M2swZGJaTnJHaWx3bUdYZWg4Yy1YRW9lRDEtSVYzOHRtenNVUDlvaDJQaERGd2RWMFN0SG5LamhlczQ3NXBWalZCd2ZaeXVkSElua1gxTUw2bEpfUFpQT0tpbUdpcU5zTDlTcGJhZ01hVF95dmRUeFh3Q2ZiWk5OUDFhZTdhZWlzUzRmWVdQMjgwS1IzOWVuU3pEQWZtSU9Ud1FNdkhZMFpBb2pnbVRYQ1JDZENEZDU0U1lF"
     },
     {
-      "title": "Wall Street closes down sharply after Fed holds rates unchanged - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYTBjTkgxdmttOW1mOFd3NHRiOHNOdEhqMG12bzU1WWVOcm1pTGNuazF6OGU2VkJya1dZd3lKSXRmZ0V3NFJ6eXJGbGk1SzgtQ2E1NzI0YmJQZk9uZ1lmWTZqNHpEY3lrYVZtYlNIYXllOWNYUDdxT1owV3FnX1ZUNHdyMGN4VlM0QVZpbV9PYzkzT1ktVXZLRWx6dmMtNnRIMnVIUzBfakZmMl9kS25ldGQxbw?oc=5",
-      "source": "Reuters",
-      "published_at": "Wed, 29 Jul 2026 21:02:53 GMT",
-      "summary": "Wall Street closes down sharply after Fed holds rates unchanged Reuters",
-      "guid": "CBMiswFBVV95cUxPYTBjTkgxdmttOW1mOFd3NHRiOHNOdEhqMG12bzU1WWVOcm1pTGNuazF6OGU2VkJya1dZd3lKSXRmZ0V3NFJ6eXJGbGk1SzgtQ2E1NzI0YmJQZk9uZ1lmWTZqNHpEY3lrYVZtYlNIYXllOWNYUDdxT1owV3FnX1ZUNHdyMGN4VlM0QVZpbV9PYzkzT1ktVXZLRWx6dmMtNnRIMnVIUzBfakZmMl9kS25ldGQxbw"
-    },
-    {
       "title": "Federal Reserve votes 9-3 to leave key rate unchanged despite persistently high inflation - LancasterOnline",
       "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOLXNGNVRyTHZ2elFsZ3FVR19NanYxMWZkaXB3eW81UmZlYkd0UXZBRWwtY2JZWFBIUFdDX1dlck5vVWdyTW1mdjN5U3lETXFsUU9ZMzR2cTJTTDJ0OE95OGVYRHd4MGZFU2lyQ1NoM3Q0OTVlbEhzYmVLTjhzbndyM3gwbi03eWMyRVlOV2hBaTExV1ItRlRYQ19HTzlXRTZqVEo1Wk9DNW9Tck5XZDhfcElCTklLcXlGZHBzbjBsTGpmVDdveDRZYmRVQnh3R3ZFUXhvTmU1NUpCT1lvQjdVWFRFaWZxNTJ0T0d3VVoxYnRmdmdCNENNeC0yOVBuYmJ3Z0dlOFdNWUFYYnN2bjd4b2JIdERKU3NC?oc=5",
       "source": "LancasterOnline",
@@ -55,36 +71,20 @@
       "guid": "CBMikwFBVV95cUxOa0VyLS0zSGNFWVFCVldibWYxNHM0cFlkdWFLV29sS3liQmk5VHdmT3ZoMkRfRHExQW5xWU96OUt6aHpZRFdMb2JJZ3ZONzcwREtqT1llUW1vS2FWenI3bzhMNFB4S0g5djJ2S19VRERlR3R4bGxybzlFaENLdTFBd1MtRld6M3ZmcFJYVHFkMmhUX00"
     },
     {
+      "title": "Asian Stocks to Fall as Fed Keeps Rates on Hold: Markets Wrap - Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORWJmVzRKLU00TG5WVm1kTks3TXNQak1mcG96YlNpMTJwTm1Lb3B3QnhzNTdaWC1sM3RYYUh1UjUxVWRhZUJiU093T09pcXZid1dhWm4xSndDZl9Yb3dKLV9qWlBLTHRIVmN2MkhDVmF4WTJfVWhWczVRV05DbjhSc0FqeW9lXzhTeTlLU2k3Tkt6TERn?oc=5",
+      "source": "Bloomberg",
+      "published_at": "Wed, 29 Jul 2026 22:11:13 GMT",
+      "summary": "Asian Stocks to Fall as Fed Keeps Rates on Hold: Markets Wrap Bloomberg",
+      "guid": "CBMilAFBVV95cUxORWJmVzRKLU00TG5WVm1kTks3TXNQak1mcG96YlNpMTJwTm1Lb3B3QnhzNTdaWC1sM3RYYUh1UjUxVWRhZUJiU093T09pcXZid1dhWm4xSndDZl9Yb3dKLV9qWlBLTHRIVmN2MkhDVmF4WTJfVWhWczVRV05DbjhSc0FqeW9lXzhTeTlLU2k3Tkt6TERn"
+    },
+    {
       "title": "Two key takeaways from the Fed’s unusually unpredictable meeting - CNN",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5WFlYR005RGsxTFhUTHg0M3FyX0NHMlpUUTdoQnZiWjVtQVdBVFpEMzFGM3J4eW5yc2V4ZWdoUzRyY3lETHdWUVg0Vm9MV2NnaHZKZDdkcms1cGd0UmozVmtrWXI5SzhiTnJvX2RR?oc=5",
       "source": "CNN",
       "published_at": "Wed, 29 Jul 2026 09:00:25 GMT",
       "summary": "Two key takeaways from the Fed’s unusually unpredictable meeting CNN",
       "guid": "CBMibkFVX3lxTFB5WFlYR005RGsxTFhUTHg0M3FyX0NHMlpUUTdoQnZiWjVtQVdBVFpEMzFGM3J4eW5yc2V4ZWdoUzRyY3lETHdWUVg0Vm9MV2NnaHZKZDdkcms1cGd0UmozVmtrWXI5SzhiTnJvX2RR"
-    },
-    {
-      "title": "Fed Holds Rates Steady but Three Officials Vote for Increase - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbWprLW5qMWxhbDFjaU9XY183blpJX09mY0hSOXg3dTVxZ250OFp3cFNPekxFdFkxX09jTzNNNWlFNGtjQnduS2JYX3FPdTZSUVZiMDJZYlRyeXlIX19XaGprcFp5dnhjSWxiOUNZeG16WkJqZXF2dGRIbTI3YzFGR3ZOVXkwbzBpVTFSclNWRmx3OTRPdmg1RTNvQXYzb3p2aGcyMjB2NW9Hc24tYkdsMVgyb3Q?oc=5",
-      "source": "WSJ",
-      "published_at": "Wed, 29 Jul 2026 20:57:00 GMT",
-      "summary": "Fed Holds Rates Steady but Three Officials Vote for Increase WSJ",
-      "guid": "CBMitAFBVV95cUxPbWprLW5qMWxhbDFjaU9XY183blpJX09mY0hSOXg3dTVxZ250OFp3cFNPekxFdFkxX09jTzNNNWlFNGtjQnduS2JYX3FPdTZSUVZiMDJZYlRyeXlIX19XaGprcFp5dnhjSWxiOUNZeG16WkJqZXF2dGRIbTI3YzFGR3ZOVXkwbzBpVTFSclNWRmx3OTRPdmg1RTNvQXYzb3p2aGcyMjB2NW9Hc24tYkdsMVgyb3Q"
-    },
-    {
-      "title": "‘Big Wednesday’ Offers a Big Test for the Stock Market - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNFRhQjcyLTBCc3VMdTJ5TjU0ZXNGdkxSUFVkeEF6UTJLeXNwMElaS0UtZEI1N1V1d0J4Qi1Da083cFU0dGpzNkk0Z2pxbnFDaTdpSEMyc0xIMjNaTGtUakZfUHktUnRONGpjeW9VdGdTQ1JsaVBTbDJUcHltTVNUN19JSDlBME5P?oc=5",
-      "source": "Barron's",
-      "published_at": "Wed, 29 Jul 2026 13:28:00 GMT",
-      "summary": "‘Big Wednesday’ Offers a Big Test for the Stock Market Barron's",
-      "guid": "CBMiiAFBVV95cUxQNFRhQjcyLTBCc3VMdTJ5TjU0ZXNGdkxSUFVkeEF6UTJLeXNwMElaS0UtZEI1N1V1d0J4Qi1Da083cFU0dGpzNkk0Z2pxbnFDaTdpSEMyc0xIMjNaTGtUakZfUHktUnRONGpjeW9VdGdTQ1JsaVBTbDJUcHltTVNUN19JSDlBME5P"
-    },
-    {
-      "title": "The Federal Reserve is expected to keep rates unchanged for now despite high prices - LancasterOnline",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOS2hCTUE0OWdFYjJLdkJmdEhNSkVFUjBPRk9HWHRFa2FkV1lpMWNBeGhxa1FRellua3E0UUNoSFR1cVNta0xnUXphM1AwelFSblVGQjNlX2R5TkNaNFJmVEJUMF9VdDczNDVzcjdxMUtTdEFMZXhpTWhMcEZGWFloNHR2WXV3cFhJUnZCbS1oXzlRb2VVNHJ5MkZMZXd1NlFja01kODB0X3Z2Q1R0blVrN0tqM2MzY0g4bUROUnM1R19vamtEenIyT3UxQ0t3QmxJSTVsZmQ5SEtweFE0OHg2V2t3MkE4b0JIU3lRYjE5cUF6VGZoblVsMjlCeDU0ME1sNGM4NG5rUWEzWHJVX1FzUw?oc=5",
-      "source": "LancasterOnline",
-      "published_at": "Wed, 29 Jul 2026 11:17:29 GMT",
-      "summary": "The Federal Reserve is expected to keep rates unchanged for now despite high prices LancasterOnline",
-      "guid": "CBMikAJBVV95cUxOS2hCTUE0OWdFYjJLdkJmdEhNSkVFUjBPRk9HWHRFa2FkV1lpMWNBeGhxa1FRellua3E0UUNoSFR1cVNta0xnUXphM1AwelFSblVGQjNlX2R5TkNaNFJmVEJUMF9VdDczNDVzcjdxMUtTdEFMZXhpTWhMcEZGWFloNHR2WXV3cFhJUnZCbS1oXzlRb2VVNHJ5MkZMZXd1NlFja01kODB0X3Z2Q1R0blVrN0tqM2MzY0g4bUROUnM1R19vamtEenIyT3UxQ0t3QmxJSTVsZmQ5SEtweFE0OHg2V2t3MkE4b0JIU3lRYjE5cUF6VGZoblVsMjlCeDU0ME1sNGM4NG5rUWEzWHJVX1FzUw"
     }
   ]
 }
