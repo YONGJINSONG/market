@@ -1,19 +1,11 @@
 {
-  "generated_at": "2026-07-29T19:39:30Z",
+  "generated_at": "2026-07-29T20:33:54Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
-    {
-      "title": "Surprise Fed Rate Hike Can't Be Ruled Out; What It Means For S&P 500 - Investor's Business Daily",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQajVQT3pwbmpveU10WVlKUnpNMGt0MXB2YmJ0dmFkdDE2NGdWRTlaeTlIN2t3Zl9OVzJ6em5QQzBCSUdUaUxxR0h6NnJVUk0xckpGWjZrRmRrakp4by02VUZXSHFORW03VFNJalRydnZJT04tQTJjVnpNVGZoUVQ4Zkp2QlpJb19DamYtd0RDNzdzM0tybnIzMVByTQ?oc=5",
-      "source": "Investor's Business Daily",
-      "published_at": "Wed, 29 Jul 2026 12:04:00 GMT",
-      "summary": "Surprise Fed Rate Hike Can't Be Ruled Out; What It Means For S&P 500 Investor's Business Daily",
-      "guid": "CBMimwFBVV95cUxQajVQT3pwbmpveU10WVlKUnpNMGt0MXB2YmJ0dmFkdDE2NGdWRTlaeTlIN2t3Zl9OVzJ6em5QQzBCSUdUaUxxR0h6NnJVUk0xckpGWjZrRmRrakp4by02VUZXSHFORW03VFNJalRydnZJT04tQTJjVnpNVGZoUVQ4Zkp2QlpJb19DamYtd0RDNzdzM0tybnIzMVByTQ"
-    },
     {
       "title": "A divided Federal Reserve holds interest rates steady despite high inflation - Georgia Public Broadcasting",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUmZJbW1PQkZtMjNpNVlsMnYwZUxtWUpaZ1A5RTJuOV9DWlE5R1EzZ2pXR0RtTHJ6MEhGazVsYjUyYjA2QmFGOEFjUWtCTjNvdzdSMnU2OEpxRGpkTmFoaG5RMkZkc3VpZFJNR1pKNjdaTmR3MXI1NUw3M0hyUGxzYkxST0JqNi1XODFHWkN6MmZTb21NU0dOaXZJZHJ1NnNVUUtLNVk0UmlxaDh6bUdB?oc=5",
@@ -39,6 +31,14 @@
       "guid": "CBMiiAFBVV95cUxQNFRhQjcyLTBCc3VMdTJ5TjU0ZXNGdkxSUFVkeEF6UTJLeXNwMElaS0UtZEI1N1V1d0J4Qi1Da083cFU0dGpzNkk0Z2pxbnFDaTdpSEMyc0xIMjNaTGtUakZfUHktUnRONGpjeW9VdGdTQ1JsaVBTbDJUcHltTVNUN19JSDlBME5P"
     },
     {
+      "title": "Stock Market Investors Just Got Bad News About President Trump's Economy. It Hints at a Big Move in the S&P 500 and Nasdaq. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOa0VyLS0zSGNFWVFCVldibWYxNHM0cFlkdWFLV29sS3liQmk5VHdmT3ZoMkRfRHExQW5xWU96OUt6aHpZRFdMb2JJZ3ZONzcwREtqT1llUW1vS2FWenI3bzhMNFB4S0g5djJ2S19VRERlR3R4bGxybzlFaENLdTFBd1MtRld6M3ZmcFJYVHFkMmhUX00?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Wed, 29 Jul 2026 09:48:00 GMT",
+      "summary": "Stock Market Investors Just Got Bad News About President Trump's Economy. It Hints at a Big Move in the S&P 500 and Nasdaq. The Motley Fool",
+      "guid": "CBMikwFBVV95cUxOa0VyLS0zSGNFWVFCVldibWYxNHM0cFlkdWFLV29sS3liQmk5VHdmT3ZoMkRfRHExQW5xWU96OUt6aHpZRFdMb2JJZ3ZONzcwREtqT1llUW1vS2FWenI3bzhMNFB4S0g5djJ2S19VRERlR3R4bGxybzlFaENLdTFBd1MtRld6M3ZmcFJYVHFkMmhUX00"
+    },
+    {
       "title": "The Federal Reserve Should Raise Interest Rates Today, but It Won't for One Fundamental Reason - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS1ZzN0YtSFpZMkUxRWdoUTBMRGd5Um9jd3Z4Zkt2cEpMMi1zM1RHQWZJNTFNQzJVbUNXMlZ0YjE0aW43SmpDU0JmeEU2UXdJc01nckJSQ0NKaFplZlVwZmJWOGI5d1BZQmE0SVprUEFTVlpWVE54WGNGSUR0R1FieWRlT1pPVlVRWlNTcENBT3N5bXhMYWMyZ1I5QVJUTXVH?oc=5",
       "source": "Yahoo Finance",
@@ -47,11 +47,11 @@
       "guid": "CBMioAFBVV95cUxOS1ZzN0YtSFpZMkUxRWdoUTBMRGd5Um9jd3Z4Zkt2cEpMMi1zM1RHQWZJNTFNQzJVbUNXMlZ0YjE0aW43SmpDU0JmeEU2UXdJc01nckJSQ0NKaFplZlVwZmJWOGI5d1BZQmE0SVprUEFTVlpWVE54WGNGSUR0R1FieWRlT1pPVlVRWlNTcENBT3N5bXhMYWMyZ1I5QVJUTXVH"
     },
     {
-      "title": "Stock Market Today: Dow Jones, S&P 500 Futures Rise as Investors Await Federal Reserve's Decision on Interest Rates—Ford Motor, Bloom Energy, Microsoft in Focus - tradingview.com",
+      "title": "Stock Market Today: Dow Jones, S&P 500 Futures Rise as Investors Await Federal Reserve's Decision on Interest Rates—Ford Motor, Bloom Energy, Microsoft in Focus - TradingView",
       "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNeEpmTDFPUEdCRmRsamZYaEY2UnBJdFhqRzY2NzRjSGRHQ3VJOGNISkhacC1RMVpERDNNRTRacjRyV3RZUng3RFB0STFMY1RDVmpWcWNXdy1Kd1FfaDJnaERUbXFLUWR0Y1I4MHlVaTZSZTBmdUJSMXk1X0t4cXpZbUxUeG8tSVo0V05pb1FFMlV0VVVJRld2eDJtVm05Q1dCbWlrZFRtNFlrZWRSRDR1R2dGMlRwZzMwQjVpaVlIQ2hWZ2NVd3o3TWhMQndKTUpGY0lmY2pUWUpNb3NWRGpEeTlHNkFUSmlrV2d1Y2lvRHlubTE4LXNFb3JNNVlHT2YyVzd0dDdsVTlwRnh3VUgxOEhOdmphUElDREoxWFg0UjMwQTJ1SW0xc0xXeXI0YlJDUWhkSUk0VU81ekE?oc=5",
-      "source": "tradingview.com",
+      "source": "TradingView",
       "published_at": "Wed, 29 Jul 2026 09:34:04 GMT",
-      "summary": "Stock Market Today: Dow Jones, S&P 500 Futures Rise as Investors Await Federal Reserve's Decision on Interest Rates—Ford Motor, Bloom Energy, Microsoft in Focus tradingview.com",
+      "summary": "Stock Market Today: Dow Jones, S&P 500 Futures Rise as Investors Await Federal Reserve's Decision on Interest Rates—Ford Motor, Bloom Energy, Microsoft in Focus TradingView",
       "guid": "CBMiuwJBVV95cUxNeEpmTDFPUEdCRmRsamZYaEY2UnBJdFhqRzY2NzRjSGRHQ3VJOGNISkhacC1RMVpERDNNRTRacjRyV3RZUng3RFB0STFMY1RDVmpWcWNXdy1Kd1FfaDJnaERUbXFLUWR0Y1I4MHlVaTZSZTBmdUJSMXk1X0t4cXpZbUxUeG8tSVo0V05pb1FFMlV0VVVJRld2eDJtVm05Q1dCbWlrZFRtNFlrZWRSRDR1R2dGMlRwZzMwQjVpaVlIQ2hWZ2NVd3o3TWhMQndKTUpGY0lmY2pUWUpNb3NWRGpEeTlHNkFUSmlrV2d1Y2lvRHlubTE4LXNFb3JNNVlHT2YyVzd0dDdsVTlwRnh3VUgxOEhOdmphUElDREoxWFg0UjMwQTJ1SW0xc0xXeXI0YlJDUWhkSUk0VU81ekE"
     },
     {
