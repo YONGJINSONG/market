@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T16:54:50Z",
+  "generated_at": "2026-07-29T18:00:22Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -13,14 +13,6 @@
       "published_at": "Wed, 29 Jul 2026 12:04:00 GMT",
       "summary": "Surprise Fed Rate Hike Can't Be Ruled Out; What It Means For S&P 500 Investor's Business Daily",
       "guid": "CBMimwFBVV95cUxQajVQT3pwbmpveU10WVlKUnpNMGt0MXB2YmJ0dmFkdDE2NGdWRTlaeTlIN2t3Zl9OVzJ6em5QQzBCSUdUaUxxR0h6NnJVUk0xckpGWjZrRmRrakp4by02VUZXSHFORW03VFNJalRydnZJT04tQTJjVnpNVGZoUVQ4Zkp2QlpJb19DamYtd0RDNzdzM0tybnIzMVByTQ"
-    },
-    {
-      "title": "The Fed meeting, Ford earnings, Trump's investment portfolio and more in Morning Squawk - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeHVlRjk1NnoyeDVNQV9JeDlmSEhFdE1ObTQ4TUFOTXplaXYzR1RHTGJKWlJ2UHFBclY0T0xTY0ltYzRXSGZsWnc1MnZ6RjRveU1sYU4wdG5zaW5VNHc4UHBFOHFENUNvVThsMWJXaDNxaGJNZjhpczdjSVpjbVFqUGQ1MHZYUHdiWlhz0gGQAUFVX3lxTE9OVUcyQXZCZV83dWk0VDNEeFM4R1R1OWtvM2NZUktFOE5VNGsyMDZKeHVNOUxDMS02RFFfQkZFRXZNbkYtcVpHbnZ6NjRfNERSTXAyVlVBWF81N3FFaUIzZ2JZUHZndWNnM1ZwVTllYVI0YnVqYnF3YlJhLVBwSlkwcU45akE3Y3labTJtRlo4Rw?oc=5",
-      "source": "CNBC",
-      "published_at": "Wed, 29 Jul 2026 12:44:04 GMT",
-      "summary": "The Fed meeting, Ford earnings, Trump's investment portfolio and more in Morning Squawk CNBC",
-      "guid": "CBMiiwFBVV95cUxNeHVlRjk1NnoyeDVNQV9JeDlmSEhFdE1ObTQ4TUFOTXplaXYzR1RHTGJKWlJ2UHFBclY0T0xTY0ltYzRXSGZsWnc1MnZ6RjRveU1sYU4wdG5zaW5VNHc4UHBFOHFENUNvVThsMWJXaDNxaGJNZjhpczdjSVpjbVFqUGQ1MHZYUHdiWlhz0gGQAUFVX3lxTE9OVUcyQXZCZV83dWk0VDNEeFM4R1R1OWtvM2NZUktFOE5VNGsyMDZKeHVNOUxDMS02RFFfQkZFRXZNbkYtcVpHbnZ6NjRfNERSTXAyVlVBWF81N3FFaUIzZ2JZUHZndWNnM1ZwVTllYVI0YnVqYnF3YlJhLVBwSlkwcU45akE3Y3labTJtRlo4Rw"
     },
     {
       "title": "‘Big Wednesday’ Offers a Big Test for the Stock Market - Barron's",
@@ -39,20 +31,20 @@
       "guid": "CBMikAJBVV95cUxOS2hCTUE0OWdFYjJLdkJmdEhNSkVFUjBPRk9HWHRFa2FkV1lpMWNBeGhxa1FRellua3E0UUNoSFR1cVNta0xnUXphM1AwelFSblVGQjNlX2R5TkNaNFJmVEJUMF9VdDczNDVzcjdxMUtTdEFMZXhpTWhMcEZGWFloNHR2WXV3cFhJUnZCbS1oXzlRb2VVNHJ5MkZMZXd1NlFja01kODB0X3Z2Q1R0blVrN0tqM2MzY0g4bUROUnM1R19vamtEenIyT3UxQ0t3QmxJSTVsZmQ5SEtweFE0OHg2V2t3MkE4b0JIU3lRYjE5cUF6VGZoblVsMjlCeDU0ME1sNGM4NG5rUWEzWHJVX1FzUw"
     },
     {
-      "title": "Stock Market Today: Dow Jones, S&P 500 Futures Rise as Investors Await Federal Reserve's Decision on Interest Rates—Ford Motor, Bloom Energy, Microsoft in Focus - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNeEpmTDFPUEdCRmRsamZYaEY2UnBJdFhqRzY2NzRjSGRHQ3VJOGNISkhacC1RMVpERDNNRTRacjRyV3RZUng3RFB0STFMY1RDVmpWcWNXdy1Kd1FfaDJnaERUbXFLUWR0Y1I4MHlVaTZSZTBmdUJSMXk1X0t4cXpZbUxUeG8tSVo0V05pb1FFMlV0VVVJRld2eDJtVm05Q1dCbWlrZFRtNFlrZWRSRDR1R2dGMlRwZzMwQjVpaVlIQ2hWZ2NVd3o3TWhMQndKTUpGY0lmY2pUWUpNb3NWRGpEeTlHNkFUSmlrV2d1Y2lvRHlubTE4LXNFb3JNNVlHT2YyVzd0dDdsVTlwRnh3VUgxOEhOdmphUElDREoxWFg0UjMwQTJ1SW0xc0xXeXI0YlJDUWhkSUk0VU81ekE?oc=5",
-      "source": "TradingView",
-      "published_at": "Wed, 29 Jul 2026 09:34:04 GMT",
-      "summary": "Stock Market Today: Dow Jones, S&P 500 Futures Rise as Investors Await Federal Reserve's Decision on Interest Rates—Ford Motor, Bloom Energy, Microsoft in Focus TradingView",
-      "guid": "CBMiuwJBVV95cUxNeEpmTDFPUEdCRmRsamZYaEY2UnBJdFhqRzY2NzRjSGRHQ3VJOGNISkhacC1RMVpERDNNRTRacjRyV3RZUng3RFB0STFMY1RDVmpWcWNXdy1Kd1FfaDJnaERUbXFLUWR0Y1I4MHlVaTZSZTBmdUJSMXk1X0t4cXpZbUxUeG8tSVo0V05pb1FFMlV0VVVJRld2eDJtVm05Q1dCbWlrZFRtNFlrZWRSRDR1R2dGMlRwZzMwQjVpaVlIQ2hWZ2NVd3o3TWhMQndKTUpGY0lmY2pUWUpNb3NWRGpEeTlHNkFUSmlrV2d1Y2lvRHlubTE4LXNFb3JNNVlHT2YyVzd0dDdsVTlwRnh3VUgxOEhOdmphUElDREoxWFg0UjMwQTJ1SW0xc0xXeXI0YlJDUWhkSUk0VU81ekE"
-    },
-    {
       "title": "The Federal Reserve Should Raise Interest Rates Today, but It Won't for One Fundamental Reason - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS1ZzN0YtSFpZMkUxRWdoUTBMRGd5Um9jd3Z4Zkt2cEpMMi1zM1RHQWZJNTFNQzJVbUNXMlZ0YjE0aW43SmpDU0JmeEU2UXdJc01nckJSQ0NKaFplZlVwZmJWOGI5d1BZQmE0SVprUEFTVlpWVE54WGNGSUR0R1FieWRlT1pPVlVRWlNTcENBT3N5bXhMYWMyZ1I5QVJUTXVH?oc=5",
       "source": "Yahoo Finance",
       "published_at": "Wed, 29 Jul 2026 08:26:00 GMT",
       "summary": "The Federal Reserve Should Raise Interest Rates Today, but It Won't for One Fundamental Reason Yahoo Finance",
       "guid": "CBMioAFBVV95cUxOS1ZzN0YtSFpZMkUxRWdoUTBMRGd5Um9jd3Z4Zkt2cEpMMi1zM1RHQWZJNTFNQzJVbUNXMlZ0YjE0aW43SmpDU0JmeEU2UXdJc01nckJSQ0NKaFplZlVwZmJWOGI5d1BZQmE0SVprUEFTVlpWVE54WGNGSUR0R1FieWRlT1pPVlVRWlNTcENBT3N5bXhMYWMyZ1I5QVJUTXVH"
+    },
+    {
+      "title": "Stock Market Today: Dow Jones, S&P 500 Futures Rise as Investors Await Federal Reserve's Decision on Interest Rates—Ford Motor, Bloom Energy, Microsoft in Focus - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNeEpmTDFPUEdCRmRsamZYaEY2UnBJdFhqRzY2NzRjSGRHQ3VJOGNISkhacC1RMVpERDNNRTRacjRyV3RZUng3RFB0STFMY1RDVmpWcWNXdy1Kd1FfaDJnaERUbXFLUWR0Y1I4MHlVaTZSZTBmdUJSMXk1X0t4cXpZbUxUeG8tSVo0V05pb1FFMlV0VVVJRld2eDJtVm05Q1dCbWlrZFRtNFlrZWRSRDR1R2dGMlRwZzMwQjVpaVlIQ2hWZ2NVd3o3TWhMQndKTUpGY0lmY2pUWUpNb3NWRGpEeTlHNkFUSmlrV2d1Y2lvRHlubTE4LXNFb3JNNVlHT2YyVzd0dDdsVTlwRnh3VUgxOEhOdmphUElDREoxWFg0UjMwQTJ1SW0xc0xXeXI0YlJDUWhkSUk0VU81ekE?oc=5",
+      "source": "TradingView",
+      "published_at": "Wed, 29 Jul 2026 09:34:04 GMT",
+      "summary": "Stock Market Today: Dow Jones, S&P 500 Futures Rise as Investors Await Federal Reserve's Decision on Interest Rates—Ford Motor, Bloom Energy, Microsoft in Focus TradingView",
+      "guid": "CBMiuwJBVV95cUxNeEpmTDFPUEdCRmRsamZYaEY2UnBJdFhqRzY2NzRjSGRHQ3VJOGNISkhacC1RMVpERDNNRTRacjRyV3RZUng3RFB0STFMY1RDVmpWcWNXdy1Kd1FfaDJnaERUbXFLUWR0Y1I4MHlVaTZSZTBmdUJSMXk1X0t4cXpZbUxUeG8tSVo0V05pb1FFMlV0VVVJRld2eDJtVm05Q1dCbWlrZFRtNFlrZWRSRDR1R2dGMlRwZzMwQjVpaVlIQ2hWZ2NVd3o3TWhMQndKTUpGY0lmY2pUWUpNb3NWRGpEeTlHNkFUSmlrV2d1Y2lvRHlubTE4LXNFb3JNNVlHT2YyVzd0dDdsVTlwRnh3VUgxOEhOdmphUElDREoxWFg0UjMwQTJ1SW0xc0xXeXI0YlJDUWhkSUk0VU81ekE"
     },
     {
       "title": "US stock market today: Wall Street in red ahead of US Federal Reserve policy review; oil prices climb - The Times of India",
@@ -85,6 +77,14 @@
       "published_at": "Wed, 29 Jul 2026 09:00:25 GMT",
       "summary": "Why no one knows what to expect from the Fed decision today CNN",
       "guid": "CBMibkFVX3lxTFB5WFlYR005RGsxTFhUTHg0M3FyX0NHMlpUUTdoQnZiWjVtQVdBVFpEMzFGM3J4eW5yc2V4ZWdoUzRyY3lETHdWUVg0Vm9MV2NnaHZKZDdkcms1cGd0UmozVmtrWXI5SzhiTnJvX2RR"
+    },
+    {
+      "title": "5 Things to Know Before the Stock Market Opens on Wednesday - Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaTZHOEhfczB0V1dHeVMwbE9PVkw2LTNJZHZzeE5mTV9pYW1iZDlHNDNCNlRCWDQ5Z3dUNlpCOE4xOGd1cWpDMWNYZ0ZXdFRCNk1tTlk1TDBCRTRsa2tyX29vdldTSVRlTlFKVUJHY2JrRkVUbDZQT3pzcm1DUDNIYTRuZ0Ztc0N3Qk5UZWo5V3YwNlhjanh5QWJWWG1UakZpa3ZlbHZCd2dmR0VKdldz?oc=5",
+      "source": "Investopedia",
+      "published_at": "Wed, 29 Jul 2026 12:15:56 GMT",
+      "summary": "5 Things to Know Before the Stock Market Opens on Wednesday Investopedia",
+      "guid": "CBMirwFBVV95cUxNaTZHOEhfczB0V1dHeVMwbE9PVkw2LTNJZHZzeE5mTV9pYW1iZDlHNDNCNlRCWDQ5Z3dUNlpCOE4xOGd1cWpDMWNYZ0ZXdFRCNk1tTlk1TDBCRTRsa2tyX29vdldTSVRlTlFKVUJHY2JrRkVUbDZQT3pzcm1DUDNIYTRuZ0Ztc0N3Qk5UZWo5V3YwNlhjanh5QWJWWG1UakZpa3ZlbHZCd2dmR0VKdldz"
     }
   ]
 }
