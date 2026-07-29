@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T21:33:17Z",
+  "generated_at": "2026-07-29T22:36:18Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,12 +7,36 @@
   },
   "items": [
     {
+      "title": "Dow Posts Its Worst Day Of The Year After Federal Reserve Maintains Interest Rates - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdmhwSjdNOFk5U1dQS3ZFeXlDMDBFcHVoN1JIdVFteEE5THNMRWNXRWtNY2t2ODNHaDIzc2Uyam9VUlg5ZnpRVUhoQkR0bGszOEdqM1lBNTdxV0V0bk9BMHF4YzNTMGhHVjdRZVV5QzctcDBiOHNZelJ4NXhuZzR2aU5iYlBkZ1dISE9pVHhJbUprcVFIM1FiMS1SQ3A3ZGloYjE1MVBFdjdTQmoyaW8taGlGLUd6WWYwVWxnMTdEOXBxdHJ4UlVlUGFMVVVVcVpETXIyUFBOTQ?oc=5",
+      "source": "Forbes",
+      "published_at": "Wed, 29 Jul 2026 20:20:05 GMT",
+      "summary": "Dow Posts Its Worst Day Of The Year After Federal Reserve Maintains Interest Rates Forbes",
+      "guid": "CBMi1wFBVV95cUxNdmhwSjdNOFk5U1dQS3ZFeXlDMDBFcHVoN1JIdVFteEE5THNMRWNXRWtNY2t2ODNHaDIzc2Uyam9VUlg5ZnpRVUhoQkR0bGszOEdqM1lBNTdxV0V0bk9BMHF4YzNTMGhHVjdRZVV5QzctcDBiOHNZelJ4NXhuZzR2aU5iYlBkZ1dISE9pVHhJbUprcVFIM1FiMS1SQ3A3ZGloYjE1MVBFdjdTQmoyaW8taGlGLUd6WWYwVWxnMTdEOXBxdHJ4UlVlUGFMVVVVcVpETXIyUFBOTQ"
+    },
+    {
       "title": "A divided Federal Reserve holds interest rates steady despite high inflation - Georgia Public Broadcasting",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUmZJbW1PQkZtMjNpNVlsMnYwZUxtWUpaZ1A5RTJuOV9DWlE5R1EzZ2pXR0RtTHJ6MEhGazVsYjUyYjA2QmFGOEFjUWtCTjNvdzdSMnU2OEpxRGpkTmFoaG5RMkZkc3VpZFJNR1pKNjdaTmR3MXI1NUw3M0hyUGxzYkxST0JqNi1XODFHWkN6MmZTb21NU0dOaXZJZHJ1NnNVUUtLNVk0UmlxaDh6bUdB?oc=5",
       "source": "Georgia Public Broadcasting",
       "published_at": "Wed, 29 Jul 2026 18:06:09 GMT",
       "summary": "A divided Federal Reserve holds interest rates steady despite high inflation Georgia Public Broadcasting",
       "guid": "CBMirwFBVV95cUxOUmZJbW1PQkZtMjNpNVlsMnYwZUxtWUpaZ1A5RTJuOV9DWlE5R1EzZ2pXR0RtTHJ6MEhGazVsYjUyYjA2QmFGOEFjUWtCTjNvdzdSMnU2OEpxRGpkTmFoaG5RMkZkc3VpZFJNR1pKNjdaTmR3MXI1NUw3M0hyUGxzYkxST0JqNi1XODFHWkN6MmZTb21NU0dOaXZJZHJ1NnNVUUtLNVk0UmlxaDh6bUdB"
+    },
+    {
+      "title": "How major US stock indexes fared Wednesday 7/29/2026 - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSzdPQlJDTnJFOHU2M2swZGJaTnJHaWx3bUdYZWg4Yy1YRW9lRDEtSVYzOHRtenNVUDlvaDJQaERGd2RWMFN0SG5LamhlczQ3NXBWalZCd2ZaeXVkSElua1gxTUw2bEpfUFpQT0tpbUdpcU5zTDlTcGJhZ01hVF95dmRUeFh3Q2ZiWk5OUDFhZTdhZWlzUzRmWVdQMjgwS1IzOWVuU3pEQWZtSU9Ud1FNdkhZMFpBb2pnbVRYQ1JDZENEZDU0U1lF?oc=5",
+      "source": "The Washington Post",
+      "published_at": "Wed, 29 Jul 2026 21:57:47 GMT",
+      "summary": "How major US stock indexes fared Wednesday 7/29/2026 The Washington Post",
+      "guid": "CBMixwFBVV95cUxPSzdPQlJDTnJFOHU2M2swZGJaTnJHaWx3bUdYZWg4Yy1YRW9lRDEtSVYzOHRtenNVUDlvaDJQaERGd2RWMFN0SG5LamhlczQ3NXBWalZCd2ZaeXVkSElua1gxTUw2bEpfUFpQT0tpbUdpcU5zTDlTcGJhZ01hVF95dmRUeFh3Q2ZiWk5OUDFhZTdhZWlzUzRmWVdQMjgwS1IzOWVuU3pEQWZtSU9Ud1FNdkhZMFpBb2pnbVRYQ1JDZENEZDU0U1lF"
+    },
+    {
+      "title": "Wall Street closes down sharply after Fed holds rates unchanged - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYTBjTkgxdmttOW1mOFd3NHRiOHNOdEhqMG12bzU1WWVOcm1pTGNuazF6OGU2VkJya1dZd3lKSXRmZ0V3NFJ6eXJGbGk1SzgtQ2E1NzI0YmJQZk9uZ1lmWTZqNHpEY3lrYVZtYlNIYXllOWNYUDdxT1owV3FnX1ZUNHdyMGN4VlM0QVZpbV9PYzkzT1ktVXZLRWx6dmMtNnRIMnVIUzBfakZmMl9kS25ldGQxbw?oc=5",
+      "source": "Reuters",
+      "published_at": "Wed, 29 Jul 2026 21:02:53 GMT",
+      "summary": "Wall Street closes down sharply after Fed holds rates unchanged Reuters",
+      "guid": "CBMiswFBVV95cUxPYTBjTkgxdmttOW1mOFd3NHRiOHNOdEhqMG12bzU1WWVOcm1pTGNuazF6OGU2VkJya1dZd3lKSXRmZ0V3NFJ6eXJGbGk1SzgtQ2E1NzI0YmJQZk9uZ1lmWTZqNHpEY3lrYVZtYlNIYXllOWNYUDdxT1owV3FnX1ZUNHdyMGN4VlM0QVZpbV9PYzkzT1ktVXZLRWx6dmMtNnRIMnVIUzBfakZmMl9kS25ldGQxbw"
     },
     {
       "title": "Federal Reserve votes 9-3 to leave key rate unchanged despite persistently high inflation - LancasterOnline",
@@ -23,27 +47,19 @@
       "guid": "CBMimAJBVV95cUxOLXNGNVRyTHZ2elFsZ3FVR19NanYxMWZkaXB3eW81UmZlYkd0UXZBRWwtY2JZWFBIUFdDX1dlck5vVWdyTW1mdjN5U3lETXFsUU9ZMzR2cTJTTDJ0OE95OGVYRHd4MGZFU2lyQ1NoM3Q0OTVlbEhzYmVLTjhzbndyM3gwbi03eWMyRVlOV2hBaTExV1ItRlRYQ19HTzlXRTZqVEo1Wk9DNW9Tck5XZDhfcElCTklLcXlGZHBzbjBsTGpmVDdveDRZYmRVQnh3R3ZFUXhvTmU1NUpCT1lvQjdVWFRFaWZxNTJ0T0d3VVoxYnRmdmdCNENNeC0yOVBuYmJ3Z0dlOFdNWUFYYnN2bjd4b2JIdERKU3NC"
     },
     {
-      "title": "Stock Market Investors Just Got Bad News About President Trump's Economy. It Hints at a Big Move in the S&P 500 and Nasdaq. - fool.com",
+      "title": "Stock Market Investors Just Got Bad News About President Trump's Economy. It Hints at a Big Move in the S&P 500 and Nasdaq. - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOa0VyLS0zSGNFWVFCVldibWYxNHM0cFlkdWFLV29sS3liQmk5VHdmT3ZoMkRfRHExQW5xWU96OUt6aHpZRFdMb2JJZ3ZONzcwREtqT1llUW1vS2FWenI3bzhMNFB4S0g5djJ2S19VRERlR3R4bGxybzlFaENLdTFBd1MtRld6M3ZmcFJYVHFkMmhUX00?oc=5",
-      "source": "fool.com",
+      "source": "The Motley Fool",
       "published_at": "Wed, 29 Jul 2026 09:48:00 GMT",
-      "summary": "Stock Market Investors Just Got Bad News About President Trump's Economy. It Hints at a Big Move in the S&P 500 and Nasdaq. fool.com",
+      "summary": "Stock Market Investors Just Got Bad News About President Trump's Economy. It Hints at a Big Move in the S&P 500 and Nasdaq. The Motley Fool",
       "guid": "CBMikwFBVV95cUxOa0VyLS0zSGNFWVFCVldibWYxNHM0cFlkdWFLV29sS3liQmk5VHdmT3ZoMkRfRHExQW5xWU96OUt6aHpZRFdMb2JJZ3ZONzcwREtqT1llUW1vS2FWenI3bzhMNFB4S0g5djJ2S19VRERlR3R4bGxybzlFaENLdTFBd1MtRld6M3ZmcFJYVHFkMmhUX00"
     },
     {
-      "title": "Stock Market Today: Dow Jones, S&P 500 Futures Rise as Investors Await Federal Reserve's Decision on Interest Rates—Ford Motor, Bloom Energy, Microsoft in Focus - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNeEpmTDFPUEdCRmRsamZYaEY2UnBJdFhqRzY2NzRjSGRHQ3VJOGNISkhacC1RMVpERDNNRTRacjRyV3RZUng3RFB0STFMY1RDVmpWcWNXdy1Kd1FfaDJnaERUbXFLUWR0Y1I4MHlVaTZSZTBmdUJSMXk1X0t4cXpZbUxUeG8tSVo0V05pb1FFMlV0VVVJRld2eDJtVm05Q1dCbWlrZFRtNFlrZWRSRDR1R2dGMlRwZzMwQjVpaVlIQ2hWZ2NVd3o3TWhMQndKTUpGY0lmY2pUWUpNb3NWRGpEeTlHNkFUSmlrV2d1Y2lvRHlubTE4LXNFb3JNNVlHT2YyVzd0dDdsVTlwRnh3VUgxOEhOdmphUElDREoxWFg0UjMwQTJ1SW0xc0xXeXI0YlJDUWhkSUk0VU81ekE?oc=5",
-      "source": "TradingView",
-      "published_at": "Wed, 29 Jul 2026 09:34:04 GMT",
-      "summary": "Stock Market Today: Dow Jones, S&P 500 Futures Rise as Investors Await Federal Reserve's Decision on Interest Rates—Ford Motor, Bloom Energy, Microsoft in Focus TradingView",
-      "guid": "CBMiuwJBVV95cUxNeEpmTDFPUEdCRmRsamZYaEY2UnBJdFhqRzY2NzRjSGRHQ3VJOGNISkhacC1RMVpERDNNRTRacjRyV3RZUng3RFB0STFMY1RDVmpWcWNXdy1Kd1FfaDJnaERUbXFLUWR0Y1I4MHlVaTZSZTBmdUJSMXk1X0t4cXpZbUxUeG8tSVo0V05pb1FFMlV0VVVJRld2eDJtVm05Q1dCbWlrZFRtNFlrZWRSRDR1R2dGMlRwZzMwQjVpaVlIQ2hWZ2NVd3o3TWhMQndKTUpGY0lmY2pUWUpNb3NWRGpEeTlHNkFUSmlrV2d1Y2lvRHlubTE4LXNFb3JNNVlHT2YyVzd0dDdsVTlwRnh3VUgxOEhOdmphUElDREoxWFg0UjMwQTJ1SW0xc0xXeXI0YlJDUWhkSUk0VU81ekE"
-    },
-    {
-      "title": "Fed holds interest rates steady for fifth-straight meeting, but inflation still clouds outlook - CNN",
+      "title": "Two key takeaways from the Fed’s unusually unpredictable meeting - CNN",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5WFlYR005RGsxTFhUTHg0M3FyX0NHMlpUUTdoQnZiWjVtQVdBVFpEMzFGM3J4eW5yc2V4ZWdoUzRyY3lETHdWUVg0Vm9MV2NnaHZKZDdkcms1cGd0UmozVmtrWXI5SzhiTnJvX2RR?oc=5",
       "source": "CNN",
       "published_at": "Wed, 29 Jul 2026 09:00:25 GMT",
-      "summary": "Fed holds interest rates steady for fifth-straight meeting, but inflation still clouds outlook CNN",
+      "summary": "Two key takeaways from the Fed’s unusually unpredictable meeting CNN",
       "guid": "CBMibkFVX3lxTFB5WFlYR005RGsxTFhUTHg0M3FyX0NHMlpUUTdoQnZiWjVtQVdBVFpEMzFGM3J4eW5yc2V4ZWdoUzRyY3lETHdWUVg0Vm9MV2NnaHZKZDdkcms1cGd0UmozVmtrWXI5SzhiTnJvX2RR"
     },
     {
@@ -69,22 +85,6 @@
       "published_at": "Wed, 29 Jul 2026 11:17:29 GMT",
       "summary": "The Federal Reserve is expected to keep rates unchanged for now despite high prices LancasterOnline",
       "guid": "CBMikAJBVV95cUxOS2hCTUE0OWdFYjJLdkJmdEhNSkVFUjBPRk9HWHRFa2FkV1lpMWNBeGhxa1FRellua3E0UUNoSFR1cVNta0xnUXphM1AwelFSblVGQjNlX2R5TkNaNFJmVEJUMF9VdDczNDVzcjdxMUtTdEFMZXhpTWhMcEZGWFloNHR2WXV3cFhJUnZCbS1oXzlRb2VVNHJ5MkZMZXd1NlFja01kODB0X3Z2Q1R0blVrN0tqM2MzY0g4bUROUnM1R19vamtEenIyT3UxQ0t3QmxJSTVsZmQ5SEtweFE0OHg2V2t3MkE4b0JIU3lRYjE5cUF6VGZoblVsMjlCeDU0ME1sNGM4NG5rUWEzWHJVX1FzUw"
-    },
-    {
-      "title": "The Federal Reserve Should Raise Interest Rates Today, but It Won't for One Fundamental Reason - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS1ZzN0YtSFpZMkUxRWdoUTBMRGd5Um9jd3Z4Zkt2cEpMMi1zM1RHQWZJNTFNQzJVbUNXMlZ0YjE0aW43SmpDU0JmeEU2UXdJc01nckJSQ0NKaFplZlVwZmJWOGI5d1BZQmE0SVprUEFTVlpWVE54WGNGSUR0R1FieWRlT1pPVlVRWlNTcENBT3N5bXhMYWMyZ1I5QVJUTXVH?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Wed, 29 Jul 2026 08:26:00 GMT",
-      "summary": "The Federal Reserve Should Raise Interest Rates Today, but It Won't for One Fundamental Reason Yahoo Finance",
-      "guid": "CBMioAFBVV95cUxOS1ZzN0YtSFpZMkUxRWdoUTBMRGd5Um9jd3Z4Zkt2cEpMMi1zM1RHQWZJNTFNQzJVbUNXMlZ0YjE0aW43SmpDU0JmeEU2UXdJc01nckJSQ0NKaFplZlVwZmJWOGI5d1BZQmE0SVprUEFTVlpWVE54WGNGSUR0R1FieWRlT1pPVlVRWlNTcENBT3N5bXhMYWMyZ1I5QVJUTXVH"
-    },
-    {
-      "title": "5 Things to Know Before the Stock Market Opens on Wednesday - Investopedia",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaTZHOEhfczB0V1dHeVMwbE9PVkw2LTNJZHZzeE5mTV9pYW1iZDlHNDNCNlRCWDQ5Z3dUNlpCOE4xOGd1cWpDMWNYZ0ZXdFRCNk1tTlk1TDBCRTRsa2tyX29vdldTSVRlTlFKVUJHY2JrRkVUbDZQT3pzcm1DUDNIYTRuZ0Ztc0N3Qk5UZWo5V3YwNlhjanh5QWJWWG1UakZpa3ZlbHZCd2dmR0VKdldz?oc=5",
-      "source": "Investopedia",
-      "published_at": "Wed, 29 Jul 2026 12:15:56 GMT",
-      "summary": "5 Things to Know Before the Stock Market Opens on Wednesday Investopedia",
-      "guid": "CBMirwFBVV95cUxNaTZHOEhfczB0V1dHeVMwbE9PVkw2LTNJZHZzeE5mTV9pYW1iZDlHNDNCNlRCWDQ5Z3dUNlpCOE4xOGd1cWpDMWNYZ0ZXdFRCNk1tTlk1TDBCRTRsa2tyX29vdldTSVRlTlFKVUJHY2JrRkVUbDZQT3pzcm1DUDNIYTRuZ0Ztc0N3Qk5UZWo5V3YwNlhjanh5QWJWWG1UakZpa3ZlbHZCd2dmR0VKdldz"
     }
   ]
 }
