@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T20:53:14Z",
+  "generated_at": "2026-07-30T21:57:10Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,11 +7,11 @@
   },
   "items": [
     {
-      "title": "The Fed Faces a Credibility Crisis—and the Stock Market Will Pay the Price - barrons.com",
+      "title": "The Fed Faces a Credibility Crisis—and the Stock Market Will Pay the Price - Barron's",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPd2k2UGxNOFRzM21hRG16dV9VTGt0NnFTYmNXOVZzazNqZ2ZTVGppSWNuR09haFNhMjIzVkhIV3ZqQkZpYWNKbGN5QUMzcEI5NEFLdmYwRG1NdFFRMkhvRFd0TU0yazV4aTRyZ1UzX29EU2NaaHp3R3FZaTI5ZDNpZHJuUkNDT2M4azB3?oc=5",
-      "source": "barrons.com",
+      "source": "Barron's",
       "published_at": "Thu, 30 Jul 2026 13:28:00 GMT",
-      "summary": "The Fed Faces a Credibility Crisis—and the Stock Market Will Pay the Price barrons.com",
+      "summary": "The Fed Faces a Credibility Crisis—and the Stock Market Will Pay the Price Barron's",
       "guid": "CBMiiwFBVV95cUxPd2k2UGxNOFRzM21hRG16dV9VTGt0NnFTYmNXOVZzazNqZ2ZTVGppSWNuR09haFNhMjIzVkhIV3ZqQkZpYWNKbGN5QUMzcEI5NEFLdmYwRG1NdFFRMkhvRFd0TU0yazV4aTRyZ1UzX29EU2NaaHp3R3FZaTI5ZDNpZHJuUkNDT2M4azB3"
     },
     {
@@ -29,14 +29,6 @@
       "published_at": "Thu, 30 Jul 2026 11:02:50 GMT",
       "summary": "Stock market tumbles as Fed holds rates, Dow drops 1,152 points eciks.org",
       "guid": "CBMifEFVX3lxTE5KbjVFNTBPSW9jY1F0NHVkTHltaTc2QXpzUm9DNk1jaWNBZFFWMVQxRGN5dnMtRFI2TGszRVR0LW1KMnVMN29xWm52TUNXTi03ajNuNHdzZC1Ya3Q3eFhjaV85TFZVWHdQOW5xXzBPRXFIVkpPVWlDYzhUTUE"
-    },
-    {
-      "title": "Warsh Hints at New Inflation Roadmap, Stoking Investor Angst - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNU0lhSkdKdjV3Q2tLTE9SVkF2d2J0Nkx5WWhacHBONzgwc1hsMUxwZ3A4TDRVNmxDUFM2QUlsVFA5YlVOZm9ZelcwZFpNNm83cGZLbUVRaHdMUUxScFhpVGw0M0NWSmVVd2xCd3FkVVlORDE2UV82MFhKNXJRYlZycWVCREJBa1FSRFlPYmE1MDBnNHpTYi1uWFFrRmdha2xKTXREeTJfWVIzUWRPeEQ4?oc=5",
-      "source": "Bloomberg.com",
-      "published_at": "Thu, 30 Jul 2026 19:45:43 GMT",
-      "summary": "Warsh Hints at New Inflation Roadmap, Stoking Investor Angst Bloomberg.com",
-      "guid": "CBMirwFBVV95cUxNU0lhSkdKdjV3Q2tLTE9SVkF2d2J0Nkx5WWhacHBONzgwc1hsMUxwZ3A4TDRVNmxDUFM2QUlsVFA5YlVOZm9ZelcwZFpNNm83cGZLbUVRaHdMUUxScFhpVGw0M0NWSmVVd2xCd3FkVVlORDE2UV82MFhKNXJRYlZycWVCREJBa1FSRFlPYmE1MDBnNHpTYi1uWFFrRmdha2xKTXREeTJfWVIzUWRPeEQ4"
     },
     {
       "title": "Dow Tumbles 1,153 Points In Worst Day Of The Year - Forbes",
@@ -61,6 +53,14 @@
       "published_at": "Wed, 29 Jul 2026 22:56:36 GMT",
       "summary": "Wall Street closes down sharply after Fed holds rates unchanged Reuters",
       "guid": "CBMiswFBVV95cUxPYTBjTkgxdmttOW1mOFd3NHRiOHNOdEhqMG12bzU1WWVOcm1pTGNuazF6OGU2VkJya1dZd3lKSXRmZ0V3NFJ6eXJGbGk1SzgtQ2E1NzI0YmJQZk9uZ1lmWTZqNHpEY3lrYVZtYlNIYXllOWNYUDdxT1owV3FnX1ZUNHdyMGN4VlM0QVZpbV9PYzkzT1ktVXZLRWx6dmMtNnRIMnVIUzBfakZmMl9kS25ldGQxbw"
+    },
+    {
+      "title": "Memphis bank passes severe economic scenario test - bizjournals.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUnp3a19uWUJ1blZSM3liQURRajBxd0ZGblJBaEl6NzdiN2hMWUJLai10MHRWN1BIeENEQnBpbE9uUUxnZ3Z5OER4cnRvakc0T3R2M3BQdWR3UHV6UGZoZ1djWnVzYzk3azlHOXRWZm5UYk9LNkhDYnJjblZEZS1YMmxwU3g2V2J4UTRXbnN1OFp6ekxNbVBERVBMNW1WV0I5OWN0QzFxXzY?oc=5",
+      "source": "bizjournals.com",
+      "published_at": "Thu, 30 Jul 2026 21:48:00 GMT",
+      "summary": "Memphis bank passes severe economic scenario test bizjournals.com",
+      "guid": "CBMiqAFBVV95cUxOUnp3a19uWUJ1blZSM3liQURRajBxd0ZGblJBaEl6NzdiN2hMWUJLai10MHRWN1BIeENEQnBpbE9uUUxnZ3Z5OER4cnRvakc0T3R2M3BQdWR3UHV6UGZoZ1djWnVzYzk3azlHOXRWZm5UYk9LNkhDYnJjblZEZS1YMmxwU3g2V2J4UTRXbnN1OFp6ekxNbVBERVBMNW1WV0I5OWN0QzFxXzY"
     },
     {
       "title": "U.S. Federal Reserve’s ‘hawkish hold’ leaves investors lacking clarity - The Japan Times",
