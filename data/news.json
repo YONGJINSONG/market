@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T13:04:23Z",
+  "generated_at": "2026-07-31T15:27:52Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -31,14 +31,6 @@
       "guid": "CBMikwFBVV95cUxOa0VyLS0zSGNFWVFCVldibWYxNHM0cFlkdWFLV29sS3liQmk5VHdmT3ZoMkRfRHExQW5xWU96OUt6aHpZRFdMb2JJZ3ZONzcwREtqT1llUW1vS2FWenI3bzhMNFB4S0g5djJ2S19VRERlR3R4bGxybzlFaENLdTFBd1MtRld6M3ZmcFJYVHFkMmhUX00"
     },
     {
-      "title": "Stock Market: Will S&P 500 Open Up or Down Today? - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcW1LZkhyazUzRExQa1hjQWlNSVJmT1Bfck1JN2pqejN5Z0g3T3ZLUVBxWFpaWTNOQ2NkRE81Yll4a0RmeGNpQ0VRdWhDX3hBQnJ6SHFGUVlJSDZYaFh2T1QxMXR4aHp5c2F4SHpFdmJtaG4wMVU1Q2c5QVlpMjdJeWZGdWJWR0c4RzhqS2I0SU1zOTd5OUt1cVdvdFBkdWVld3ZTRkhzMW9wdw?oc=5",
-      "source": "TradingView",
-      "published_at": "Fri, 31 Jul 2026 08:53:11 GMT",
-      "summary": "Stock Market: Will S&P 500 Open Up or Down Today? TradingView",
-      "guid": "CBMiqgFBVV95cUxQcW1LZkhyazUzRExQa1hjQWlNSVJmT1Bfck1JN2pqejN5Z0g3T3ZLUVBxWFpaWTNOQ2NkRE81Yll4a0RmeGNpQ0VRdWhDX3hBQnJ6SHFGUVlJSDZYaFh2T1QxMXR4aHp5c2F4SHpFdmJtaG4wMVU1Q2c5QVlpMjdJeWZGdWJWR0c4RzhqS2I0SU1zOTd5OUt1cVdvdFBkdWVld3ZTRkhzMW9wdw"
-    },
-    {
       "title": "Stock Market Today: S&P 500, Nasdaq 100 Futures Gain as Federal Reserve Holds Interest Rates—Meta, Micros - Benzinga",
       "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPakk1TmYzX0hGdldnNkViLWt3LWJuVHF0d2FneWdFd1gzQzNtcDQxUWw1THVfa0pXWW9jd0puYjhTUWwxNFBNSkpyNG5fSmRuSzktWkxzSGtkLTRGTnhHQnFsdi1xRjU4NmwwNmFJZUdiYkZvcGFNR1praEFBcFBnbGVoM1B0MWZ5cmw1RHA3OXJsLXhLem9ZaUxTNk9ZemRBUVFyeHZQSG4wempuelhxV2lSOV95TzVPekxSRlNfaFpQOE5RaWNVQ0xZUmY3X1NoOU1BdFMydkM5N01JOVpPQW9aNEdZanVQZW9NblY4WVVJancwSmdQUUtFX3NoS1d1WGpHWUppTQ?oc=5",
       "source": "Benzinga",
@@ -47,12 +39,28 @@
       "guid": "CBMihwJBVV95cUxPakk1TmYzX0hGdldnNkViLWt3LWJuVHF0d2FneWdFd1gzQzNtcDQxUWw1THVfa0pXWW9jd0puYjhTUWwxNFBNSkpyNG5fSmRuSzktWkxzSGtkLTRGTnhHQnFsdi1xRjU4NmwwNmFJZUdiYkZvcGFNR1praEFBcFBnbGVoM1B0MWZ5cmw1RHA3OXJsLXhLem9ZaUxTNk9ZemRBUVFyeHZQSG4wempuelhxV2lSOV95TzVPekxSRlNfaFpQOE5RaWNVQ0xZUmY3X1NoOU1BdFMydkM5N01JOVpPQW9aNEdZanVQZW9NblY4WVVJancwSmdQUUtFX3NoS1d1WGpHWUppTQ"
     },
     {
-      "title": "The Fed’s preferred inflation gauge cooled in June. It might not last - CNN",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPU2p5SXBiUjd6MndMSDl6VkNLYXhEM2htdXE0aF9wSmg5eF96cU1GRS1XT09aaXlEeGwyWHNoSnpSMElGc09GUVppVjhNVkMxZUx2dGpaNEJua3J5OWIxZkhwWVgzYWlNQ3lvbEdBc3Z1TE9hbVctVkJfWlJWUGVadUdWQzY?oc=5",
+      "title": "A divided Federal Reserve holds interest rates steady despite high inflation - Georgia Public Broadcasting",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMlRaLTdSU1FvTFpvMkRmRGtPTmt3YjJmZFNwSkttMEd1LXJTdV9BMC16eFNNcGtLYTAzZUNDRUs1cHpJRVQ3V19uUTBBeUgyclpWemJKcmh2NEpjRXNlalFJNXJwZDVreTdpUTNZLS1sdVpkZUlwdHB0NkoxMjFRSGQ5dmFuOV9oX1QybzgyaDdFblZiQWE2dW56ZXFSdw?oc=5",
+      "source": "Georgia Public Broadcasting",
+      "published_at": "Wed, 29 Jul 2026 18:06:09 GMT",
+      "summary": "A divided Federal Reserve holds interest rates steady despite high inflation Georgia Public Broadcasting",
+      "guid": "CBMingFBVV95cUxNMlRaLTdSU1FvTFpvMkRmRGtPTmt3YjJmZFNwSkttMEd1LXJTdV9BMC16eFNNcGtLYTAzZUNDRUs1cHpJRVQ3V19uUTBBeUgyclpWemJKcmh2NEpjRXNlalFJNXJwZDVreTdpUTNZLS1sdVpkZUlwdHB0NkoxMjFRSGQ5dmFuOV9oX1QybzgyaDdFblZiQWE2dW56ZXFSdw"
+    },
+    {
+      "title": "The Federal Reserve is expected to keep rates unchanged for now despite high prices - LancasterOnline",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQR1NTX0dnWVhmNmFuNzUyOHY3cEY1cElLSFVTNzQ1azdBRUpPbjNZc2Z3VWttU0wtNEhRck9ycU5uVWc2UmJOcFR0NFNYWWdBNng0blF6SjVkRV9aeGlLNlhJR0hCR2F2ZS1TaUVCZWNZNHBDQUJqQW0zb01XQUVLWjM1OEdxR05KY1NGQ2R4MUJmOVFOaklaNmF3b1V3Mnp5eUcwLU5STWZrR3BMMll6MElVZkhGakkyaDhsVmNYY0ZtSUFfb2hfY1g2OFNqTjVDemlRek9qMERSNUl0MjNVUGl1V3NkR1MwR3VGUHdPZnplcV9HZUIwdlNIQkY0S0pQaklYdFV1NHByREh3WHo5OU93aDZHdkNHMUE?oc=5",
+      "source": "LancasterOnline",
+      "published_at": "Wed, 29 Jul 2026 11:07:23 GMT",
+      "summary": "The Federal Reserve is expected to keep rates unchanged for now despite high prices LancasterOnline",
+      "guid": "CBMimgJBVV95cUxQR1NTX0dnWVhmNmFuNzUyOHY3cEY1cElLSFVTNzQ1azdBRUpPbjNZc2Z3VWttU0wtNEhRck9ycU5uVWc2UmJOcFR0NFNYWWdBNng0blF6SjVkRV9aeGlLNlhJR0hCR2F2ZS1TaUVCZWNZNHBDQUJqQW0zb01XQUVLWjM1OEdxR05KY1NGQ2R4MUJmOVFOaklaNmF3b1V3Mnp5eUcwLU5STWZrR3BMMll6MElVZkhGakkyaDhsVmNYY0ZtSUFfb2hfY1g2OFNqTjVDemlRek9qMERSNUl0MjNVUGl1V3NkR1MwR3VGUHdPZnplcV9HZUIwdlNIQkY0S0pQaklYdFV1NHByREh3WHo5OU93aDZHdkNHMUE"
+    },
+    {
+      "title": "Two key takeaways from the Fed’s unusually unpredictable meeting - CNN",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5WFlYR005RGsxTFhUTHg0M3FyX0NHMlpUUTdoQnZiWjVtQVdBVFpEMzFGM3J4eW5yc2V4ZWdoUzRyY3lETHdWUVg0Vm9MV2NnaHZKZDdkcms1cGd0UmozVmtrWXI5SzhiTnJvX2RR?oc=5",
       "source": "CNN",
-      "published_at": "Thu, 30 Jul 2026 12:38:19 GMT",
-      "summary": "The Fed’s preferred inflation gauge cooled in June. It might not last CNN",
-      "guid": "CBMihAFBVV95cUxPU2p5SXBiUjd6MndMSDl6VkNLYXhEM2htdXE0aF9wSmg5eF96cU1GRS1XT09aaXlEeGwyWHNoSnpSMElGc09GUVppVjhNVkMxZUx2dGpaNEJua3J5OWIxZkhwWVgzYWlNQ3lvbEdBc3Z1TE9hbVctVkJfWlJWUGVadUdWQzY"
+      "published_at": "Wed, 29 Jul 2026 09:00:25 GMT",
+      "summary": "Two key takeaways from the Fed’s unusually unpredictable meeting CNN",
+      "guid": "CBMibkFVX3lxTFB5WFlYR005RGsxTFhUTHg0M3FyX0NHMlpUUTdoQnZiWjVtQVdBVFpEMzFGM3J4eW5yc2V4ZWdoUzRyY3lETHdWUVg0Vm9MV2NnaHZKZDdkcms1cGd0UmozVmtrWXI5SzhiTnJvX2RR"
     },
     {
       "title": "The Federal Reserve Should Raise Interest Rates Today, but It Won't for One Fundamental Reason - Yahoo Finance",
@@ -63,12 +71,12 @@
       "guid": "CBMioAFBVV95cUxOS1ZzN0YtSFpZMkUxRWdoUTBMRGd5Um9jd3Z4Zkt2cEpMMi1zM1RHQWZJNTFNQzJVbUNXMlZ0YjE0aW43SmpDU0JmeEU2UXdJc01nckJSQ0NKaFplZlVwZmJWOGI5d1BZQmE0SVprUEFTVlpWVE54WGNGSUR0R1FieWRlT1pPVlVRWlNTcENBT3N5bXhMYWMyZ1I5QVJUTXVH"
     },
     {
-      "title": "The bond market to Kevin Warsh: What are you doing about inflation? - CNN",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5mVUU0YUZra21FMy1kVjNTLVZMSTF5Z2dHclBhQm9NYUZqUGF2NDl1bDhoMjlpRjdoRVZieHJFZGsxX0NjLXJ4Njh6YzRWaklBamk4cXI1NFlqWENEZlhQM0VSckFmdkI1bzJRdkJB?oc=5",
+      "title": "The Fed’s preferred inflation gauge cooled in June. It might not last - CNN",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPU2p5SXBiUjd6MndMSDl6VkNLYXhEM2htdXE0aF9wSmg5eF96cU1GRS1XT09aaXlEeGwyWHNoSnpSMElGc09GUVppVjhNVkMxZUx2dGpaNEJua3J5OWIxZkhwWVgzYWlNQ3lvbEdBc3Z1TE9hbVctVkJfWlJWUGVadUdWQzY?oc=5",
       "source": "CNN",
-      "published_at": "Wed, 29 Jul 2026 22:40:04 GMT",
-      "summary": "The bond market to Kevin Warsh: What are you doing about inflation? CNN",
-      "guid": "CBMibkFVX3lxTE5mVUU0YUZra21FMy1kVjNTLVZMSTF5Z2dHclBhQm9NYUZqUGF2NDl1bDhoMjlpRjdoRVZieHJFZGsxX0NjLXJ4Njh6YzRWaklBamk4cXI1NFlqWENEZlhQM0VSckFmdkI1bzJRdkJB"
+      "published_at": "Thu, 30 Jul 2026 12:38:19 GMT",
+      "summary": "The Fed’s preferred inflation gauge cooled in June. It might not last CNN",
+      "guid": "CBMihAFBVV95cUxPU2p5SXBiUjd6MndMSDl6VkNLYXhEM2htdXE0aF9wSmg5eF96cU1GRS1XT09aaXlEeGwyWHNoSnpSMElGc09GUVppVjhNVkMxZUx2dGpaNEJua3J5OWIxZkhwWVgzYWlNQ3lvbEdBc3Z1TE9hbVctVkJfWlJWUGVadUdWQzY"
     },
     {
       "title": "Don’t freak out about Kevin Warsh’s ‘credibility’ - CNN",
@@ -77,14 +85,6 @@
       "published_at": "Thu, 30 Jul 2026 16:57:00 GMT",
       "summary": "Don’t freak out about Kevin Warsh’s ‘credibility’ CNN",
       "guid": "CBMibkFVX3lxTE5GaFNPMjAtWnRXZGJIbWMxOHhOX0NtSG1LcFdvTTBhQkJLY3RaM09tallTTXI2bTZ4bEVCRTI1aDJvZlI1cURNR0JJRDZPNF9WWjhpNzJmVFViQldvMzhxeGoyRDRnRU5zbm1aR1Vn"
-    },
-    {
-      "title": "The Fed meeting, Ford earnings, Trump's investment portfolio and more in Morning Squawk - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeHVlRjk1NnoyeDVNQV9JeDlmSEhFdE1ObTQ4TUFOTXplaXYzR1RHTGJKWlJ2UHFBclY0T0xTY0ltYzRXSGZsWnc1MnZ6RjRveU1sYU4wdG5zaW5VNHc4UHBFOHFENUNvVThsMWJXaDNxaGJNZjhpczdjSVpjbVFqUGQ1MHZYUHdiWlhz0gGQAUFVX3lxTE9OVUcyQXZCZV83dWk0VDNEeFM4R1R1OWtvM2NZUktFOE5VNGsyMDZKeHVNOUxDMS02RFFfQkZFRXZNbkYtcVpHbnZ6NjRfNERSTXAyVlVBWF81N3FFaUIzZ2JZUHZndWNnM1ZwVTllYVI0YnVqYnF3YlJhLVBwSlkwcU45akE3Y3labTJtRlo4Rw?oc=5",
-      "source": "CNBC",
-      "published_at": "Wed, 29 Jul 2026 12:44:04 GMT",
-      "summary": "The Fed meeting, Ford earnings, Trump's investment portfolio and more in Morning Squawk CNBC",
-      "guid": "CBMiiwFBVV95cUxNeHVlRjk1NnoyeDVNQV9JeDlmSEhFdE1ObTQ4TUFOTXplaXYzR1RHTGJKWlJ2UHFBclY0T0xTY0ltYzRXSGZsWnc1MnZ6RjRveU1sYU4wdG5zaW5VNHc4UHBFOHFENUNvVThsMWJXaDNxaGJNZjhpczdjSVpjbVFqUGQ1MHZYUHdiWlhz0gGQAUFVX3lxTE9OVUcyQXZCZV83dWk0VDNEeFM4R1R1OWtvM2NZUktFOE5VNGsyMDZKeHVNOUxDMS02RFFfQkZFRXZNbkYtcVpHbnZ6NjRfNERSTXAyVlVBWF81N3FFaUIzZ2JZUHZndWNnM1ZwVTllYVI0YnVqYnF3YlJhLVBwSlkwcU45akE3Y3labTJtRlo4Rw"
     }
   ]
 }
