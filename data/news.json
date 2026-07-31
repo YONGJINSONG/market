@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T05:51:50Z",
+  "generated_at": "2026-07-31T08:30:07Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -15,28 +15,12 @@
       "guid": "CBMiiwFBVV95cUxPd2k2UGxNOFRzM21hRG16dV9VTGt0NnFTYmNXOVZzazNqZ2ZTVGppSWNuR09haFNhMjIzVkhIV3ZqQkZpYWNKbGN5QUMzcEI5NEFLdmYwRG1NdFFRMkhvRFd0TU0yazV4aTRyZ1UzX29EU2NaaHp3R3FZaTI5ZDNpZHJuUkNDT2M4azB3"
     },
     {
-      "title": "Dow Posts Its Worst Day Of The Year After Federal Reserve Maintains Interest Rates - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdmhwSjdNOFk5U1dQS3ZFeXlDMDBFcHVoN1JIdVFteEE5THNMRWNXRWtNY2t2ODNHaDIzc2Uyam9VUlg5ZnpRVUhoQkR0bGszOEdqM1lBNTdxV0V0bk9BMHF4YzNTMGhHVjdRZVV5QzctcDBiOHNZelJ4NXhuZzR2aU5iYlBkZ1dISE9pVHhJbUprcVFIM1FiMS1SQ3A3ZGloYjE1MVBFdjdTQmoyaW8taGlGLUd6WWYwVWxnMTdEOXBxdHJ4UlVlUGFMVVVVcVpETXIyUFBOTQ?oc=5",
-      "source": "Forbes",
-      "published_at": "Wed, 29 Jul 2026 20:20:05 GMT",
-      "summary": "Dow Posts Its Worst Day Of The Year After Federal Reserve Maintains Interest Rates Forbes",
-      "guid": "CBMi1wFBVV95cUxNdmhwSjdNOFk5U1dQS3ZFeXlDMDBFcHVoN1JIdVFteEE5THNMRWNXRWtNY2t2ODNHaDIzc2Uyam9VUlg5ZnpRVUhoQkR0bGszOEdqM1lBNTdxV0V0bk9BMHF4YzNTMGhHVjdRZVV5QzctcDBiOHNZelJ4NXhuZzR2aU5iYlBkZ1dISE9pVHhJbUprcVFIM1FiMS1SQ3A3ZGloYjE1MVBFdjdTQmoyaW8taGlGLUd6WWYwVWxnMTdEOXBxdHJ4UlVlUGFMVVVVcVpETXIyUFBOTQ"
-    },
-    {
-      "title": "Stock Market Today: S&P 500, Nasdaq 100 Futures Gain as Federal Reserve Holds Interest Rates—Meta, Micros - Benzinga",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPakk1TmYzX0hGdldnNkViLWt3LWJuVHF0d2FneWdFd1gzQzNtcDQxUWw1THVfa0pXWW9jd0puYjhTUWwxNFBNSkpyNG5fSmRuSzktWkxzSGtkLTRGTnhHQnFsdi1xRjU4NmwwNmFJZUdiYkZvcGFNR1praEFBcFBnbGVoM1B0MWZ5cmw1RHA3OXJsLXhLem9ZaUxTNk9ZemRBUVFyeHZQSG4wempuelhxV2lSOV95TzVPekxSRlNfaFpQOE5RaWNVQ0xZUmY3X1NoOU1BdFMydkM5N01JOVpPQW9aNEdZanVQZW9NblY4WVVJancwSmdQUUtFX3NoS1d1WGpHWUppTQ?oc=5",
-      "source": "Benzinga",
-      "published_at": "Thu, 30 Jul 2026 09:15:47 GMT",
-      "summary": "Stock Market Today: S&P 500, Nasdaq 100 Futures Gain as Federal Reserve Holds Interest Rates—Meta, Micros Benzinga",
-      "guid": "CBMihwJBVV95cUxPakk1TmYzX0hGdldnNkViLWt3LWJuVHF0d2FneWdFd1gzQzNtcDQxUWw1THVfa0pXWW9jd0puYjhTUWwxNFBNSkpyNG5fSmRuSzktWkxzSGtkLTRGTnhHQnFsdi1xRjU4NmwwNmFJZUdiYkZvcGFNR1praEFBcFBnbGVoM1B0MWZ5cmw1RHA3OXJsLXhLem9ZaUxTNk9ZemRBUVFyeHZQSG4wempuelhxV2lSOV95TzVPekxSRlNfaFpQOE5RaWNVQ0xZUmY3X1NoOU1BdFMydkM5N01JOVpPQW9aNEdZanVQZW9NblY4WVVJancwSmdQUUtFX3NoS1d1WGpHWUppTQ"
-    },
-    {
-      "title": "Stock market tumbles as Fed holds rates, Dow drops 1,152 points - eciks.org",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5KbjVFNTBPSW9jY1F0NHVkTHltaTc2QXpzUm9DNk1jaWNBZFFWMVQxRGN5dnMtRFI2TGszRVR0LW1KMnVMN29xWm52TUNXTi03ajNuNHdzZC1Ya3Q3eFhjaV85TFZVWHdQOW5xXzBPRXFIVkpPVWlDYzhUTUE?oc=5",
+      "title": "Wall Street declines after Federal Reserve keeps interest rates unchanged, pushing Treasury yields to multiyear highs - eciks.org",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZNmsyaWVyZVJxY01DVkZyQmpxYjN4ZWZGSlY2LWhIVGFMV3pOV3R2aGx1YWV6X1ktbmNFOGdXa21RLWJPMUgtNklLQWhUNVBPdUdQUWk2eXVXbjh6LUc5aXR6N2IyalhXT0RtZVRYbTVBUFhvTGc?oc=5",
       "source": "eciks.org",
-      "published_at": "Thu, 30 Jul 2026 11:02:50 GMT",
-      "summary": "Stock market tumbles as Fed holds rates, Dow drops 1,152 points eciks.org",
-      "guid": "CBMifEFVX3lxTE5KbjVFNTBPSW9jY1F0NHVkTHltaTc2QXpzUm9DNk1jaWNBZFFWMVQxRGN5dnMtRFI2TGszRVR0LW1KMnVMN29xWm52TUNXTi03ajNuNHdzZC1Ya3Q3eFhjaV85TFZVWHdQOW5xXzBPRXFIVkpPVWlDYzhUTUE"
+      "published_at": "Thu, 30 Jul 2026 15:02:29 GMT",
+      "summary": "Wall Street declines after Federal Reserve keeps interest rates unchanged, pushing Treasury yields to multiyear highs eciks.org",
+      "guid": "CBMidkFVX3lxTFBZNmsyaWVyZVJxY01DVkZyQmpxYjN4ZWZGSlY2LWhIVGFMV3pOV3R2aGx1YWV6X1ktbmNFOGdXa21RLWJPMUgtNklLQWhUNVBPdUdQUWk2eXVXbjh6LUc5aXR6N2IyalhXT0RtZVRYbTVBUFhvTGc"
     },
     {
       "title": "The Federal Reserve Should Raise Interest Rates Today, but It Won't for One Fundamental Reason - Yahoo Finance",
@@ -45,6 +29,14 @@
       "published_at": "Wed, 29 Jul 2026 08:26:00 GMT",
       "summary": "The Federal Reserve Should Raise Interest Rates Today, but It Won't for One Fundamental Reason Yahoo Finance",
       "guid": "CBMioAFBVV95cUxOS1ZzN0YtSFpZMkUxRWdoUTBMRGd5Um9jd3Z4Zkt2cEpMMi1zM1RHQWZJNTFNQzJVbUNXMlZ0YjE0aW43SmpDU0JmeEU2UXdJc01nckJSQ0NKaFplZlVwZmJWOGI5d1BZQmE0SVprUEFTVlpWVE54WGNGSUR0R1FieWRlT1pPVlVRWlNTcENBT3N5bXhMYWMyZ1I5QVJUTXVH"
+    },
+    {
+      "title": "Stock Market Today: S&P 500, Nasdaq 100 Futures Gain as Federal Reserve Holds Interest Rates—Meta, Micros - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPakk1TmYzX0hGdldnNkViLWt3LWJuVHF0d2FneWdFd1gzQzNtcDQxUWw1THVfa0pXWW9jd0puYjhTUWwxNFBNSkpyNG5fSmRuSzktWkxzSGtkLTRGTnhHQnFsdi1xRjU4NmwwNmFJZUdiYkZvcGFNR1praEFBcFBnbGVoM1B0MWZ5cmw1RHA3OXJsLXhLem9ZaUxTNk9ZemRBUVFyeHZQSG4wempuelhxV2lSOV95TzVPekxSRlNfaFpQOE5RaWNVQ0xZUmY3X1NoOU1BdFMydkM5N01JOVpPQW9aNEdZanVQZW9NblY4WVVJancwSmdQUUtFX3NoS1d1WGpHWUppTQ?oc=5",
+      "source": "Benzinga",
+      "published_at": "Thu, 30 Jul 2026 09:15:47 GMT",
+      "summary": "Stock Market Today: S&P 500, Nasdaq 100 Futures Gain as Federal Reserve Holds Interest Rates—Meta, Micros Benzinga",
+      "guid": "CBMihwJBVV95cUxPakk1TmYzX0hGdldnNkViLWt3LWJuVHF0d2FneWdFd1gzQzNtcDQxUWw1THVfa0pXWW9jd0puYjhTUWwxNFBNSkpyNG5fSmRuSzktWkxzSGtkLTRGTnhHQnFsdi1xRjU4NmwwNmFJZUdiYkZvcGFNR1praEFBcFBnbGVoM1B0MWZ5cmw1RHA3OXJsLXhLem9ZaUxTNk9ZemRBUVFyeHZQSG4wempuelhxV2lSOV95TzVPekxSRlNfaFpQOE5RaWNVQ0xZUmY3X1NoOU1BdFMydkM5N01JOVpPQW9aNEdZanVQZW9NblY4WVVJancwSmdQUUtFX3NoS1d1WGpHWUppTQ"
     },
     {
       "title": "Stock Market Investors Just Got Bad News About President Trump's Economy. It Hints at a Big Move in the S&P 500 and Nasdaq. - The Motley Fool",
@@ -63,12 +55,12 @@
       "guid": "CBMibkFVX3lxTFB5WFlYR005RGsxTFhUTHg0M3FyX0NHMlpUUTdoQnZiWjVtQVdBVFpEMzFGM3J4eW5yc2V4ZWdoUzRyY3lETHdWUVg0Vm9MV2NnaHZKZDdkcms1cGd0UmozVmtrWXI5SzhiTnJvX2RR"
     },
     {
-      "title": "Wall Street declines after Federal Reserve keeps interest rates unchanged, pushing Treasury yields to multiyear highs - eciks.org",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZNmsyaWVyZVJxY01DVkZyQmpxYjN4ZWZGSlY2LWhIVGFMV3pOV3R2aGx1YWV6X1ktbmNFOGdXa21RLWJPMUgtNklLQWhUNVBPdUdQUWk2eXVXbjh6LUc5aXR6N2IyalhXT0RtZVRYbTVBUFhvTGc?oc=5",
+      "title": "Stock market tumbles as Fed holds rates, Dow drops 1,152 points - eciks.org",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5KbjVFNTBPSW9jY1F0NHVkTHltaTc2QXpzUm9DNk1jaWNBZFFWMVQxRGN5dnMtRFI2TGszRVR0LW1KMnVMN29xWm52TUNXTi03ajNuNHdzZC1Ya3Q3eFhjaV85TFZVWHdQOW5xXzBPRXFIVkpPVWlDYzhUTUE?oc=5",
       "source": "eciks.org",
-      "published_at": "Thu, 30 Jul 2026 15:02:29 GMT",
-      "summary": "Wall Street declines after Federal Reserve keeps interest rates unchanged, pushing Treasury yields to multiyear highs eciks.org",
-      "guid": "CBMidkFVX3lxTFBZNmsyaWVyZVJxY01DVkZyQmpxYjN4ZWZGSlY2LWhIVGFMV3pOV3R2aGx1YWV6X1ktbmNFOGdXa21RLWJPMUgtNklLQWhUNVBPdUdQUWk2eXVXbjh6LUc5aXR6N2IyalhXT0RtZVRYbTVBUFhvTGc"
+      "published_at": "Thu, 30 Jul 2026 11:02:50 GMT",
+      "summary": "Stock market tumbles as Fed holds rates, Dow drops 1,152 points eciks.org",
+      "guid": "CBMifEFVX3lxTE5KbjVFNTBPSW9jY1F0NHVkTHltaTc2QXpzUm9DNk1jaWNBZFFWMVQxRGN5dnMtRFI2TGszRVR0LW1KMnVMN29xWm52TUNXTi03ajNuNHdzZC1Ya3Q3eFhjaV85TFZVWHdQOW5xXzBPRXFIVkpPVWlDYzhUTUE"
     },
     {
       "title": "The Fed’s preferred inflation gauge cooled in June. It might not last - CNN",
@@ -85,6 +77,14 @@
       "published_at": "Thu, 30 Jul 2026 16:57:00 GMT",
       "summary": "Don’t freak out about Kevin Warsh’s ‘credibility’ CNN",
       "guid": "CBMibkFVX3lxTE5GaFNPMjAtWnRXZGJIbWMxOHhOX0NtSG1LcFdvTTBhQkJLY3RaM09tallTTXI2bTZ4bEVCRTI1aDJvZlI1cURNR0JJRDZPNF9WWjhpNzJmVFViQldvMzhxeGoyRDRnRU5zbm1aR1Vn"
+    },
+    {
+      "title": "The Fed meeting, Ford earnings, Trump's investment portfolio and more in Morning Squawk - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeHVlRjk1NnoyeDVNQV9JeDlmSEhFdE1ObTQ4TUFOTXplaXYzR1RHTGJKWlJ2UHFBclY0T0xTY0ltYzRXSGZsWnc1MnZ6RjRveU1sYU4wdG5zaW5VNHc4UHBFOHFENUNvVThsMWJXaDNxaGJNZjhpczdjSVpjbVFqUGQ1MHZYUHdiWlhz0gGQAUFVX3lxTE9OVUcyQXZCZV83dWk0VDNEeFM4R1R1OWtvM2NZUktFOE5VNGsyMDZKeHVNOUxDMS02RFFfQkZFRXZNbkYtcVpHbnZ6NjRfNERSTXAyVlVBWF81N3FFaUIzZ2JZUHZndWNnM1ZwVTllYVI0YnVqYnF3YlJhLVBwSlkwcU45akE3Y3labTJtRlo4Rw?oc=5",
+      "source": "CNBC",
+      "published_at": "Wed, 29 Jul 2026 12:44:04 GMT",
+      "summary": "The Fed meeting, Ford earnings, Trump's investment portfolio and more in Morning Squawk CNBC",
+      "guid": "CBMiiwFBVV95cUxNeHVlRjk1NnoyeDVNQV9JeDlmSEhFdE1ObTQ4TUFOTXplaXYzR1RHTGJKWlJ2UHFBclY0T0xTY0ltYzRXSGZsWnc1MnZ6RjRveU1sYU4wdG5zaW5VNHc4UHBFOHFENUNvVThsMWJXaDNxaGJNZjhpczdjSVpjbVFqUGQ1MHZYUHdiWlhz0gGQAUFVX3lxTE9OVUcyQXZCZV83dWk0VDNEeFM4R1R1OWtvM2NZUktFOE5VNGsyMDZKeHVNOUxDMS02RFFfQkZFRXZNbkYtcVpHbnZ6NjRfNERSTXAyVlVBWF81N3FFaUIzZ2JZUHZndWNnM1ZwVTllYVI0YnVqYnF3YlJhLVBwSlkwcU45akE3Y3labTJtRlo4Rw"
     }
   ]
 }
