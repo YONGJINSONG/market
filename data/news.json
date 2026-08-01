@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T12:52:21Z",
+  "generated_at": "2026-08-01T14:20:08Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -15,11 +15,11 @@
       "guid": "CBMia0FVX3lxTE5YSzY4RFdrdVp5Rm5DdFJCWmQyUlNJWTFLU3B1MGRVWnEweFdDUlZwM1lZLTRyRDBFelJIMGZsbk9VcERzLUFWb0ZrWnUwNWhKWjR4OFkzUHVlcENFMkV1d2M1cDI2OERlQURR"
     },
     {
-      "title": "Prediction: The Stock Market Will Hit Big Trouble in August. Here's How Much the S&P 500 Will Drop if History Repeats. - aol.com",
+      "title": "Prediction: The Stock Market Will Hit Big Trouble in August. Here's How Much the S&P 500 Will Drop if History Repeats. - AOL.com",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMjdick1LVVBRZ1hCRnhlNjU3SDYzUzJ1WURGbGhMNWJRX1NZQWNVRldlWmpYUzVfaHBnNU5rNkV6YXhIbG8wUVcySlhzRWpyT1FwN1pxNVE4UDdmQkp4OEFYUU1tU2d6VHJ6ems5UnJLTzZlejlXYXQxSVZVeUZNWA?oc=5",
-      "source": "aol.com",
+      "source": "AOL.com",
       "published_at": "Sat, 01 Aug 2026 09:27:15 GMT",
-      "summary": "Prediction: The Stock Market Will Hit Big Trouble in August. Here's How Much the S&P 500 Will Drop if History Repeats. aol.com",
+      "summary": "Prediction: The Stock Market Will Hit Big Trouble in August. Here's How Much the S&P 500 Will Drop if History Repeats. AOL.com",
       "guid": "CBMigAFBVV95cUxQMjdick1LVVBRZ1hCRnhlNjU3SDYzUzJ1WURGbGhMNWJRX1NZQWNVRldlWmpYUzVfaHBnNU5rNkV6YXhIbG8wUVcySlhzRWpyT1FwN1pxNVE4UDdmQkp4OEFYUU1tU2d6VHJ6ems5UnJLTzZlejlXYXQxSVZVeUZNWA"
     },
     {
@@ -37,6 +37,14 @@
       "published_at": "Wed, 29 Jul 2026 20:32:00 GMT",
       "summary": "Wall Street is panicking over Kevin Warsh’s patience Fortune",
       "guid": "CBMigwFBVV95cUxOMXZZT1hoRmtISTFuemVaVVVVY3N1SllWSEMyMmRtTnY1UzhoSjhWdlluOUo5TG5xMEdsOXZYeWM2UmtWSXh5T3ljQWUxVmxhMVFIR1VMWFdtY0ZwcU1nOXJ1T1VoTVJ3cG9JNGpfY09sQjhHLUVqc3dLN3JSUlhWS1Vnaw"
+    },
+    {
+      "title": "What to Look Out for in Economic Data This Week (August 3-7) - Kiplinger",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ?oc=5",
+      "source": "Kiplinger",
+      "published_at": "Fri, 31 Jul 2026 13:53:49 GMT",
+      "summary": "What to Look Out for in Economic Data This Week (August 3-7) Kiplinger",
+      "guid": "CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ"
     },
     {
       "title": "The Federal Reserve Should Raise Interest Rates Today, but It Won't for One Fundamental Reason - Yahoo Finance",
@@ -77,14 +85,6 @@
       "published_at": "Wed, 29 Jul 2026 13:28:00 GMT",
       "summary": "‘Big Wednesday’ Offers a Big Test for the Stock Market Barron's",
       "guid": "CBMiiAFBVV95cUxQNFRhQjcyLTBCc3VMdTJ5TjU0ZXNGdkxSUFVkeEF6UTJLeXNwMElaS0UtZEI1N1V1d0J4Qi1Da083cFU0dGpzNkk0Z2pxbnFDaTdpSEMyc0xIMjNaTGtUakZfUHktUnRONGpjeW9VdGdTQ1JsaVBTbDJUcHltTVNUN19JSDlBME5P"
-    },
-    {
-      "title": "Analysis: Markets heard a dovish Kevin Warsh. The Fed chairman's own words suggest a rate hike - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVFd4MjJlY3ZBbmtITThJSG1TMFd4SjBXZ1MyLTVtVVRUMDYxaVEyNHhpMDRkZTZaaW9EekNQb18ydWVlSDRjSXB6M1A1amVpZ2tsQ1M0Qk9wWWdQTFY3NFVCRFpVdjRsWGZYZDRWY0ZfZ0JzNjJmeU1INDA3bF90d1pFUGtwQknSAYwBQVVfeXFMUGswaXg3a0FsZ215TXpjVGFva0Q4STVQRnJYX1JYMHFJam5EY0pwekd1RkI0eGhoVTJ3UXNLS2tjNWJxYVhoWlUtTGd6NDRweWt0ZUJ0V0QwTTJCRWlDSEVKZGxKbnVpWnVoWENPWl8tOFc4SmJVUUhDUmhiREZjYnlpU2cyMlNLWU81c0I?oc=5",
-      "source": "CNBC",
-      "published_at": "Fri, 31 Jul 2026 18:16:18 GMT",
-      "summary": "Analysis: Markets heard a dovish Kevin Warsh. The Fed chairman's own words suggest a rate hike CNBC",
-      "guid": "CBMihwFBVV95cUxQVFd4MjJlY3ZBbmtITThJSG1TMFd4SjBXZ1MyLTVtVVRUMDYxaVEyNHhpMDRkZTZaaW9EekNQb18ydWVlSDRjSXB6M1A1amVpZ2tsQ1M0Qk9wWWdQTFY3NFVCRFpVdjRsWGZYZDRWY0ZfZ0JzNjJmeU1INDA3bF90d1pFUGtwQknSAYwBQVVfeXFMUGswaXg3a0FsZ215TXpjVGFva0Q4STVQRnJYX1JYMHFJam5EY0pwekd1RkI0eGhoVTJ3UXNLS2tjNWJxYVhoWlUtTGd6NDRweWt0ZUJ0V0QwTTJCRWlDSEVKZGxKbnVpWnVoWENPWl8tOFc4SmJVUUhDUmhiREZjYnlpU2cyMlNLWU81c0I"
     }
   ]
 }
