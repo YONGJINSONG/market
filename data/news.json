@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-08-01T07:11:27Z",
+  "generated_at": "2026-08-01T09:18:17Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "Two key takeaways from the Fed’s unusually unpredictable meeting - CNN",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5WFlYR005RGsxTFhUTHg0M3FyX0NHMlpUUTdoQnZiWjVtQVdBVFpEMzFGM3J4eW5yc2V4ZWdoUzRyY3lETHdWUVg0Vm9MV2NnaHZKZDdkcms1cGd0UmozVmtrWXI5SzhiTnJvX2RR?oc=5",
+      "source": "CNN",
+      "published_at": "Wed, 29 Jul 2026 09:00:25 GMT",
+      "summary": "Two key takeaways from the Fed’s unusually unpredictable meeting CNN",
+      "guid": "CBMibkFVX3lxTFB5WFlYR005RGsxTFhUTHg0M3FyX0NHMlpUUTdoQnZiWjVtQVdBVFpEMzFGM3J4eW5yc2V4ZWdoUzRyY3lETHdWUVg0Vm9MV2NnaHZKZDdkcms1cGd0UmozVmtrWXI5SzhiTnJvX2RR"
+    },
     {
       "title": "The Fed Faces a Credibility Crisis—and the Stock Market Will Pay the Price - Barron's",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPd2k2UGxNOFRzM21hRG16dV9VTGt0NnFTYmNXOVZzazNqZ2ZTVGppSWNuR09haFNhMjIzVkhIV3ZqQkZpYWNKbGN5QUMzcEI5NEFLdmYwRG1NdFFRMkhvRFd0TU0yazV4aTRyZ1UzX29EU2NaaHp3R3FZaTI5ZDNpZHJuUkNDT2M4azB3?oc=5",
@@ -15,19 +23,19 @@
       "guid": "CBMiiwFBVV95cUxPd2k2UGxNOFRzM21hRG16dV9VTGt0NnFTYmNXOVZzazNqZ2ZTVGppSWNuR09haFNhMjIzVkhIV3ZqQkZpYWNKbGN5QUMzcEI5NEFLdmYwRG1NdFFRMkhvRFd0TU0yazV4aTRyZ1UzX29EU2NaaHp3R3FZaTI5ZDNpZHJuUkNDT2M4azB3"
     },
     {
-      "title": "The Federal Reserve Should Raise Interest Rates Today, but It Won't for One Fundamental Reason - Yahoo Finance",
+      "title": "The Federal Reserve Should Raise Interest Rates Today, but It Won't for One Fundamental Reason - finance.yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS1ZzN0YtSFpZMkUxRWdoUTBMRGd5Um9jd3Z4Zkt2cEpMMi1zM1RHQWZJNTFNQzJVbUNXMlZ0YjE0aW43SmpDU0JmeEU2UXdJc01nckJSQ0NKaFplZlVwZmJWOGI5d1BZQmE0SVprUEFTVlpWVE54WGNGSUR0R1FieWRlT1pPVlVRWlNTcENBT3N5bXhMYWMyZ1I5QVJUTXVH?oc=5",
-      "source": "Yahoo Finance",
+      "source": "finance.yahoo.com",
       "published_at": "Wed, 29 Jul 2026 08:26:00 GMT",
-      "summary": "The Federal Reserve Should Raise Interest Rates Today, but It Won't for One Fundamental Reason Yahoo Finance",
+      "summary": "The Federal Reserve Should Raise Interest Rates Today, but It Won't for One Fundamental Reason finance.yahoo.com",
       "guid": "CBMioAFBVV95cUxOS1ZzN0YtSFpZMkUxRWdoUTBMRGd5Um9jd3Z4Zkt2cEpMMi1zM1RHQWZJNTFNQzJVbUNXMlZ0YjE0aW43SmpDU0JmeEU2UXdJc01nckJSQ0NKaFplZlVwZmJWOGI5d1BZQmE0SVprUEFTVlpWVE54WGNGSUR0R1FieWRlT1pPVlVRWlNTcENBT3N5bXhMYWMyZ1I5QVJUTXVH"
     },
     {
-      "title": "Stock Market Investors Just Got Bad News About President Trump's Economy. It Hints at a Big Move in the S&P 500 and Nasdaq. - The Motley Fool",
+      "title": "Stock Market Investors Just Got Bad News About President Trump's Economy. It Hints at a Big Move in the S&P 500 and Nasdaq. - fool.com",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOa0VyLS0zSGNFWVFCVldibWYxNHM0cFlkdWFLV29sS3liQmk5VHdmT3ZoMkRfRHExQW5xWU96OUt6aHpZRFdMb2JJZ3ZONzcwREtqT1llUW1vS2FWenI3bzhMNFB4S0g5djJ2S19VRERlR3R4bGxybzlFaENLdTFBd1MtRld6M3ZmcFJYVHFkMmhUX00?oc=5",
-      "source": "The Motley Fool",
+      "source": "fool.com",
       "published_at": "Wed, 29 Jul 2026 09:48:00 GMT",
-      "summary": "Stock Market Investors Just Got Bad News About President Trump's Economy. It Hints at a Big Move in the S&P 500 and Nasdaq. The Motley Fool",
+      "summary": "Stock Market Investors Just Got Bad News About President Trump's Economy. It Hints at a Big Move in the S&P 500 and Nasdaq. fool.com",
       "guid": "CBMikwFBVV95cUxOa0VyLS0zSGNFWVFCVldibWYxNHM0cFlkdWFLV29sS3liQmk5VHdmT3ZoMkRfRHExQW5xWU96OUt6aHpZRFdMb2JJZ3ZONzcwREtqT1llUW1vS2FWenI3bzhMNFB4S0g5djJ2S19VRERlR3R4bGxybzlFaENLdTFBd1MtRld6M3ZmcFJYVHFkMmhUX00"
     },
     {
@@ -55,12 +63,12 @@
       "guid": "CBMiogFBVV95cUxORkJPa3I0ekJyVEI0RFJhY210TmplVHJZQ0xJNy1qenNkc0lMMHk0TmZwdDV1TEVZNmJoV3dfVlNTT3UyZHE5Q01SdmQ4eDd4WjAzZVhFMFB3VUd5QjlYXzZ5MWFRYzdIQVRVM1JMZXNyQ05aTExrejM4cHdBSktKSlJOOWxkY0V4YkNRRDZZTzlDZUYzZHlUWXdhTFUxNXJSNXc"
     },
     {
-      "title": "Two key takeaways from the Fed’s unusually unpredictable meeting - CNN",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5WFlYR005RGsxTFhUTHg0M3FyX0NHMlpUUTdoQnZiWjVtQVdBVFpEMzFGM3J4eW5yc2V4ZWdoUzRyY3lETHdWUVg0Vm9MV2NnaHZKZDdkcms1cGd0UmozVmtrWXI5SzhiTnJvX2RR?oc=5",
-      "source": "CNN",
-      "published_at": "Wed, 29 Jul 2026 09:00:25 GMT",
-      "summary": "Two key takeaways from the Fed’s unusually unpredictable meeting CNN",
-      "guid": "CBMibkFVX3lxTFB5WFlYR005RGsxTFhUTHg0M3FyX0NHMlpUUTdoQnZiWjVtQVdBVFpEMzFGM3J4eW5yc2V4ZWdoUzRyY3lETHdWUVg0Vm9MV2NnaHZKZDdkcms1cGd0UmozVmtrWXI5SzhiTnJvX2RR"
+      "title": "The Federal Reserve is expected to keep rates unchanged for now despite high prices - LancasterOnline",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQR1NTX0dnWVhmNmFuNzUyOHY3cEY1cElLSFVTNzQ1azdBRUpPbjNZc2Z3VWttU0wtNEhRck9ycU5uVWc2UmJOcFR0NFNYWWdBNng0blF6SjVkRV9aeGlLNlhJR0hCR2F2ZS1TaUVCZWNZNHBDQUJqQW0zb01XQUVLWjM1OEdxR05KY1NGQ2R4MUJmOVFOaklaNmF3b1V3Mnp5eUcwLU5STWZrR3BMMll6MElVZkhGakkyaDhsVmNYY0ZtSUFfb2hfY1g2OFNqTjVDemlRek9qMERSNUl0MjNVUGl1V3NkR1MwR3VGUHdPZnplcV9HZUIwdlNIQkY0S0pQaklYdFV1NHByREh3WHo5OU93aDZHdkNHMUE?oc=5",
+      "source": "LancasterOnline",
+      "published_at": "Wed, 29 Jul 2026 11:07:23 GMT",
+      "summary": "The Federal Reserve is expected to keep rates unchanged for now despite high prices LancasterOnline",
+      "guid": "CBMimgJBVV95cUxQR1NTX0dnWVhmNmFuNzUyOHY3cEY1cElLSFVTNzQ1azdBRUpPbjNZc2Z3VWttU0wtNEhRck9ycU5uVWc2UmJOcFR0NFNYWWdBNng0blF6SjVkRV9aeGlLNlhJR0hCR2F2ZS1TaUVCZWNZNHBDQUJqQW0zb01XQUVLWjM1OEdxR05KY1NGQ2R4MUJmOVFOaklaNmF3b1V3Mnp5eUcwLU5STWZrR3BMMll6MElVZkhGakkyaDhsVmNYY0ZtSUFfb2hfY1g2OFNqTjVDemlRek9qMERSNUl0MjNVUGl1V3NkR1MwR3VGUHdPZnplcV9HZUIwdlNIQkY0S0pQaklYdFV1NHByREh3WHo5OU93aDZHdkNHMUE"
     },
     {
       "title": "‘Big Wednesday’ Offers a Big Test for the Stock Market - Barron's",
@@ -77,14 +85,6 @@
       "published_at": "Fri, 31 Jul 2026 18:16:18 GMT",
       "summary": "Analysis: Markets heard a dovish Kevin Warsh. The Fed chairman's own words suggest a rate hike CNBC",
       "guid": "CBMihwFBVV95cUxQVFd4MjJlY3ZBbmtITThJSG1TMFd4SjBXZ1MyLTVtVVRUMDYxaVEyNHhpMDRkZTZaaW9EekNQb18ydWVlSDRjSXB6M1A1amVpZ2tsQ1M0Qk9wWWdQTFY3NFVCRFpVdjRsWGZYZDRWY0ZfZ0JzNjJmeU1INDA3bF90d1pFUGtwQknSAYwBQVVfeXFMUGswaXg3a0FsZ215TXpjVGFva0Q4STVQRnJYX1JYMHFJam5EY0pwekd1RkI0eGhoVTJ3UXNLS2tjNWJxYVhoWlUtTGd6NDRweWt0ZUJ0V0QwTTJCRWlDSEVKZGxKbnVpWnVoWENPWl8tOFc4SmJVUUhDUmhiREZjYnlpU2cyMlNLWU81c0I"
-    },
-    {
-      "title": "The Fed’s preferred inflation gauge cooled in June. It might not last - CNN",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPU2p5SXBiUjd6MndMSDl6VkNLYXhEM2htdXE0aF9wSmg5eF96cU1GRS1XT09aaXlEeGwyWHNoSnpSMElGc09GUVppVjhNVkMxZUx2dGpaNEJua3J5OWIxZkhwWVgzYWlNQ3lvbEdBc3Z1TE9hbVctVkJfWlJWUGVadUdWQzY?oc=5",
-      "source": "CNN",
-      "published_at": "Thu, 30 Jul 2026 12:38:19 GMT",
-      "summary": "The Fed’s preferred inflation gauge cooled in June. It might not last CNN",
-      "guid": "CBMihAFBVV95cUxPU2p5SXBiUjd6MndMSDl6VkNLYXhEM2htdXE0aF9wSmg5eF96cU1GRS1XT09aaXlEeGwyWHNoSnpSMElGc09GUVppVjhNVkMxZUx2dGpaNEJua3J5OWIxZkhwWVgzYWlNQ3lvbEdBc3Z1TE9hbVctVkJfWlJWUGVadUdWQzY"
     }
   ]
 }
