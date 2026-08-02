@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T09:21:22Z",
+  "generated_at": "2026-08-02T11:51:43Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,12 +7,12 @@
   },
   "items": [
     {
-      "title": "President Donald Trump Just Threw the Federal Reserve Under the Bus Yet Again Over Interest Rates - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOY1o0QWRTZjdhclhsbEZhRzVESkhLeVg4WWNVX1dweWhaWUJZblJPam5qQ1BIMTVrNjN3VENEbXFpeHVpUHg3WHpmYjNhY0VOYkhQbXhYQmg1RDVVU21fMnZvZVV4bFJ3STZXRVpzanNubjFQVExQeG55ODY0dUxkRGtvd2VOVFV1c1dJX01XV2Y3T1hTTWtycGVmLWtPWDg?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Sat, 01 Aug 2026 13:26:00 GMT",
-      "summary": "President Donald Trump Just Threw the Federal Reserve Under the Bus Yet Again Over Interest Rates Yahoo Finance",
-      "guid": "CBMinwFBVV95cUxOY1o0QWRTZjdhclhsbEZhRzVESkhLeVg4WWNVX1dweWhaWUJZblJPam5qQ1BIMTVrNjN3VENEbXFpeHVpUHg3WHpmYjNhY0VOYkhQbXhYQmg1RDVVU21fMnZvZVV4bFJ3STZXRVpzanNubjFQVExQeG55ODY0dUxkRGtvd2VOVFV1c1dJX01XV2Y3T1hTTWtycGVmLWtPWDg"
+      "title": "The New York Stock Exchange | NYSE - NYSE",
+      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE93UWVlU3g1TVNpdTNEcjI2Yk9kSHU2Tnh5Y0stVFBGRWVkLW9wbU1EbHhQaHdIOE56d2V5NXVhSQ?oc=5",
+      "source": "NYSE",
+      "published_at": "Fri, 31 Jul 2026 22:00:00 GMT",
+      "summary": "The New York Stock Exchange | NYSE NYSE",
+      "guid": "CBMiP0FVX3lxTE93UWVlU3g1TVNpdTNEcjI2Yk9kSHU2Tnh5Y0stVFBGRWVkLW9wbU1EbHhQaHdIOE56d2V5NXVhSQ"
     },
     {
       "title": "The Fed Faces a Credibility Crisis—and the Stock Market Will Pay the Price - Barron's",
@@ -21,6 +21,14 @@
       "published_at": "Thu, 30 Jul 2026 13:28:00 GMT",
       "summary": "The Fed Faces a Credibility Crisis—and the Stock Market Will Pay the Price Barron's",
       "guid": "CBMiiwFBVV95cUxPd2k2UGxNOFRzM21hRG16dV9VTGt0NnFTYmNXOVZzazNqZ2ZTVGppSWNuR09haFNhMjIzVkhIV3ZqQkZpYWNKbGN5QUMzcEI5NEFLdmYwRG1NdFFRMkhvRFd0TU0yazV4aTRyZ1UzX29EU2NaaHp3R3FZaTI5ZDNpZHJuUkNDT2M4azB3"
+    },
+    {
+      "title": "President Donald Trump Just Threw the Federal Reserve Under the Bus Yet Again Over Interest Rates - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOY1o0QWRTZjdhclhsbEZhRzVESkhLeVg4WWNVX1dweWhaWUJZblJPam5qQ1BIMTVrNjN3VENEbXFpeHVpUHg3WHpmYjNhY0VOYkhQbXhYQmg1RDVVU21fMnZvZVV4bFJ3STZXRVpzanNubjFQVExQeG55ODY0dUxkRGtvd2VOVFV1c1dJX01XV2Y3T1hTTWtycGVmLWtPWDg?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Sat, 01 Aug 2026 13:26:00 GMT",
+      "summary": "President Donald Trump Just Threw the Federal Reserve Under the Bus Yet Again Over Interest Rates Yahoo Finance",
+      "guid": "CBMinwFBVV95cUxOY1o0QWRTZjdhclhsbEZhRzVESkhLeVg4WWNVX1dweWhaWUJZblJPam5qQ1BIMTVrNjN3VENEbXFpeHVpUHg3WHpmYjNhY0VOYkhQbXhYQmg1RDVVU21fMnZvZVV4bFJ3STZXRVpzanNubjFQVExQeG55ODY0dUxkRGtvd2VOVFV1c1dJX01XV2Y3T1hTTWtycGVmLWtPWDg"
     },
     {
       "title": "What to Look Out for in Economic Data This Week (August 3-7) - Kiplinger",
@@ -77,14 +85,6 @@
       "published_at": "Thu, 30 Jul 2026 07:23:00 GMT",
       "summary": "U.S. Federal Reserve’s ‘hawkish hold’ leaves investors lacking clarity The Japan Times",
       "guid": "CBMikAFBVV95cUxQdHlpdFZKV3FtRXZkSk11Yi1UamhOMWp0TGVvaVBuTkw0d2F4dVVRSkVWb1hhSE5GV0M2eHdoV1k1TmcxdlFmbXFQT2U4VUJZSTZSVG16RXdLTHhxdGtPQWtaSWxNaU4yMmgxMnBKWXpod2h6Z0tyMGtMZTZFREFMdzVxRzNOb2tNbDJLSnNoUjQ"
-    },
-    {
-      "title": "The Federal Reserve Should Raise Interest Rates Today, but It Won't for One Fundamental Reason - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS1ZzN0YtSFpZMkUxRWdoUTBMRGd5Um9jd3Z4Zkt2cEpMMi1zM1RHQWZJNTFNQzJVbUNXMlZ0YjE0aW43SmpDU0JmeEU2UXdJc01nckJSQ0NKaFplZlVwZmJWOGI5d1BZQmE0SVprUEFTVlpWVE54WGNGSUR0R1FieWRlT1pPVlVRWlNTcENBT3N5bXhMYWMyZ1I5QVJUTXVH?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Wed, 29 Jul 2026 08:26:00 GMT",
-      "summary": "The Federal Reserve Should Raise Interest Rates Today, but It Won't for One Fundamental Reason Yahoo Finance",
-      "guid": "CBMioAFBVV95cUxOS1ZzN0YtSFpZMkUxRWdoUTBMRGd5Um9jd3Z4Zkt2cEpMMi1zM1RHQWZJNTFNQzJVbUNXMlZ0YjE0aW43SmpDU0JmeEU2UXdJc01nckJSQ0NKaFplZlVwZmJWOGI5d1BZQmE0SVprUEFTVlpWVE54WGNGSUR0R1FieWRlT1pPVlVRWlNTcENBT3N5bXhMYWMyZ1I5QVJUTXVH"
     }
   ]
 }
