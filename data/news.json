@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T16:39:03Z",
+  "generated_at": "2026-08-03T18:23:46Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,12 +7,20 @@
   },
   "items": [
     {
-      "title": "The New York Stock Exchange | NYSE - NYSE",
-      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE93UWVlU3g1TVNpdTNEcjI2Yk9kSHU2Tnh5Y0stVFBGRWVkLW9wbU1EbHhQaHdIOE56d2V5NXVhSQ?oc=5",
-      "source": "NYSE",
-      "published_at": "Fri, 31 Jul 2026 22:00:00 GMT",
-      "summary": "The New York Stock Exchange | NYSE NYSE",
-      "guid": "CBMiP0FVX3lxTE93UWVlU3g1TVNpdTNEcjI2Yk9kSHU2Tnh5Y0stVFBGRWVkLW9wbU1EbHhQaHdIOE56d2V5NXVhSQ"
+      "title": "The Federal Reserve Just Did Something That No One's Witnessed in 56 Years -- and It Has Significant Implications for the Stock Market - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSnlDOFI4Tjk3RXY2WkQzcUxuc1AwLWNGYURBZldKdlNWczd0QlRwQjZVYWFZUWYyQXpSV3JBbGpscVFCRENod2RhNEk5Z296bmtSNFAyam9EUGFEZTkyS01iVUhGTEhoNUFDR1dSTGVEbklGWGM3WjFEOG9NWXRaZEdTVkpQT3pWYUtvbWN6UE9uWmlKWVZfNEJ3?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Mon, 03 Aug 2026 08:26:00 GMT",
+      "summary": "The Federal Reserve Just Did Something That No One's Witnessed in 56 Years -- and It Has Significant Implications for the Stock Market Yahoo Finance",
+      "guid": "CBMimgFBVV95cUxQSnlDOFI4Tjk3RXY2WkQzcUxuc1AwLWNGYURBZldKdlNWczd0QlRwQjZVYWFZUWYyQXpSV3JBbGpscVFCRENod2RhNEk5Z296bmtSNFAyam9EUGFEZTkyS01iVUhGTEhoNUFDR1dSTGVEbklGWGM3WjFEOG9NWXRaZEdTVkpQT3pWYUtvbWN6UE9uWmlKWVZfNEJ3"
+    },
+    {
+      "title": "What will Kevin Warsh do if America’s economy breaks? - The Economist",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWkg0Zl9WcklWM0k5RW1oUldoWjRNMG1QMDJwNjAyM09JSHg0dThLUG0yVVVNdFM4S0xwb0ExblVGbmFXWjZmSVlscDBQUmU4YndWenduOGJ5RmlPdFhZejIzaEVaS2RYYl9GWWhMOE1wUDNMYjEzZDRncnY3SVBzZXlZRkVPWU1wLUp3LS1wVjdxQnR1QWFLQUgzUFpHNkx4QTRhXzE2SC1jTFl0YkNZ?oc=5",
+      "source": "The Economist",
+      "published_at": "Sun, 02 Aug 2026 16:12:02 GMT",
+      "summary": "What will Kevin Warsh do if America’s economy breaks? The Economist",
+      "guid": "CBMirwFBVV95cUxNWkg0Zl9WcklWM0k5RW1oUldoWjRNMG1QMDJwNjAyM09JSHg0dThLUG0yVVVNdFM4S0xwb0ExblVGbmFXWjZmSVlscDBQUmU4YndWenduOGJ5RmlPdFhZejIzaEVaS2RYYl9GWWhMOE1wUDNMYjEzZDRncnY3SVBzZXlZRkVPWU1wLUp3LS1wVjdxQnR1QWFLQUgzUFpHNkx4QTRhXzE2SC1jTFl0YkNZ"
     },
     {
       "title": "The Federal Reserve Just Did Something That No One's Witnessed in 56 Years -- and It Has Significant Implications for the Stock Market - The Motley Fool",
@@ -47,19 +55,11 @@
       "guid": "CBMibEFVX3lxTE9LMEdSSnpfYW1OaDFMcUtJanFnR0ZsWlN1Qk1EQ0JMZUgzTk5udmJ0ajRxbWVRclZmeHNfcEFYV3ZIMTh2SVd3ejREeV9SZmxUb2htVzl2YUFWeUVITmxvRlRFM3AwWW5RU3FfZA"
     },
     {
-      "title": "President Donald Trump Just Threw the Federal Reserve Under the Bus Yet Again Over Interest Rates - finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOY1o0QWRTZjdhclhsbEZhRzVESkhLeVg4WWNVX1dweWhaWUJZblJPam5qQ1BIMTVrNjN3VENEbXFpeHVpUHg3WHpmYjNhY0VOYkhQbXhYQmg1RDVVU21fMnZvZVV4bFJ3STZXRVpzanNubjFQVExQeG55ODY0dUxkRGtvd2VOVFV1c1dJX01XV2Y3T1hTTWtycGVmLWtPWDg?oc=5",
-      "source": "finance.yahoo.com",
-      "published_at": "Sat, 01 Aug 2026 13:26:00 GMT",
-      "summary": "President Donald Trump Just Threw the Federal Reserve Under the Bus Yet Again Over Interest Rates finance.yahoo.com",
-      "guid": "CBMinwFBVV95cUxOY1o0QWRTZjdhclhsbEZhRzVESkhLeVg4WWNVX1dweWhaWUJZblJPam5qQ1BIMTVrNjN3VENEbXFpeHVpUHg3WHpmYjNhY0VOYkhQbXhYQmg1RDVVU21fMnZvZVV4bFJ3STZXRVpzanNubjFQVExQeG55ODY0dUxkRGtvd2VOVFV1c1dJX01XV2Y3T1hTTWtycGVmLWtPWDg"
-    },
-    {
-      "title": "A-Share & Hong Kong Stock Market Analysis Post July Sudden Plunge: Tech Sector as Core A-Share Driving Force, Valuation Recovery Emerging for Hong Kong Stocks - 36Kr",
+      "title": "A-Share & Hong Kong Stock Market Analysis Post July Sudden Plunge: Tech Sector as Core A-Share Driving Force, Valuation Recovery Emerging for Hong Kong Stocks - 36 Kr",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02VEdXYkY3dXEzNHVpNGpOSWFZM0pYT25ONkFUMUNGTXppNXpWMWQ0c2VWbjhRQ2M5Y0lKTmFpY3JzRnQ4NG9YTkZuN0NrRVZOa0hJ?oc=5",
-      "source": "36Kr",
+      "source": "36 Kr",
       "published_at": "Mon, 03 Aug 2026 04:02:26 GMT",
-      "summary": "A-Share & Hong Kong Stock Market Analysis Post July Sudden Plunge: Tech Sector as Core A-Share Driving Force, Valuation Recovery Emerging for Hong Kong Stocks 36Kr",
+      "summary": "A-Share & Hong Kong Stock Market Analysis Post July Sudden Plunge: Tech Sector as Core A-Share Driving Force, Valuation Recovery Emerging for Hong Kong Stocks 36 Kr",
       "guid": "CBMiU0FVX3lxTE02VEdXYkY3dXEzNHVpNGpOSWFZM0pYT25ONkFUMUNGTXppNXpWMWQ0c2VWbjhRQ2M5Y0lKTmFpY3JzRnQ4NG9YTkZuN0NrRVZOa0hJ"
     },
     {
@@ -79,12 +79,12 @@
       "guid": "CBMiogFBVV95cUxORkJPa3I0ekJyVEI0RFJhY210TmplVHJZQ0xJNy1qenNkc0lMMHk0TmZwdDV1TEVZNmJoV3dfVlNTT3UyZHE5Q01SdmQ4eDd4WjAzZVhFMFB3VUd5QjlYXzZ5MWFRYzdIQVRVM1JMZXNyQ05aTExrejM4cHdBSktKSlJOOWxkY0V4YkNRRDZZTzlDZUYzZHlUWXdhTFUxNXJSNXc"
     },
     {
-      "title": "The Federal Reserve Should Raise Interest Rates Today, but It Won't for One Fundamental Reason - finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS1ZzN0YtSFpZMkUxRWdoUTBMRGd5Um9jd3Z4Zkt2cEpMMi1zM1RHQWZJNTFNQzJVbUNXMlZ0YjE0aW43SmpDU0JmeEU2UXdJc01nckJSQ0NKaFplZlVwZmJWOGI5d1BZQmE0SVprUEFTVlpWVE54WGNGSUR0R1FieWRlT1pPVlVRWlNTcENBT3N5bXhMYWMyZ1I5QVJUTXVH?oc=5",
-      "source": "finance.yahoo.com",
-      "published_at": "Wed, 29 Jul 2026 08:26:00 GMT",
-      "summary": "The Federal Reserve Should Raise Interest Rates Today, but It Won't for One Fundamental Reason finance.yahoo.com",
-      "guid": "CBMioAFBVV95cUxOS1ZzN0YtSFpZMkUxRWdoUTBMRGd5Um9jd3Z4Zkt2cEpMMi1zM1RHQWZJNTFNQzJVbUNXMlZ0YjE0aW43SmpDU0JmeEU2UXdJc01nckJSQ0NKaFplZlVwZmJWOGI5d1BZQmE0SVprUEFTVlpWVE54WGNGSUR0R1FieWRlT1pPVlVRWlNTcENBT3N5bXhMYWMyZ1I5QVJUTXVH"
+      "title": "President Donald Trump Just Threw the Federal Reserve Under the Bus Yet Again Over Interest Rates - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOY1o0QWRTZjdhclhsbEZhRzVESkhLeVg4WWNVX1dweWhaWUJZblJPam5qQ1BIMTVrNjN3VENEbXFpeHVpUHg3WHpmYjNhY0VOYkhQbXhYQmg1RDVVU21fMnZvZVV4bFJ3STZXRVpzanNubjFQVExQeG55ODY0dUxkRGtvd2VOVFV1c1dJX01XV2Y3T1hTTWtycGVmLWtPWDg?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Sat, 01 Aug 2026 13:26:00 GMT",
+      "summary": "President Donald Trump Just Threw the Federal Reserve Under the Bus Yet Again Over Interest Rates Yahoo Finance",
+      "guid": "CBMinwFBVV95cUxOY1o0QWRTZjdhclhsbEZhRzVESkhLeVg4WWNVX1dweWhaWUJZblJPam5qQ1BIMTVrNjN3VENEbXFpeHVpUHg3WHpmYjNhY0VOYkhQbXhYQmg1RDVVU21fMnZvZVV4bFJ3STZXRVpzanNubjFQVExQeG55ODY0dUxkRGtvd2VOVFV1c1dJX01XV2Y3T1hTTWtycGVmLWtPWDg"
     }
   ]
 }
