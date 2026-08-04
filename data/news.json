@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T11:53:37Z",
+  "generated_at": "2026-08-04T13:42:21Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,11 +7,11 @@
   },
   "items": [
     {
-      "title": "What will Kevin Warsh do if America’s economy breaks? - economist.com",
+      "title": "What will Kevin Warsh do if America’s economy breaks? - The Economist",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWkg0Zl9WcklWM0k5RW1oUldoWjRNMG1QMDJwNjAyM09JSHg0dThLUG0yVVVNdFM4S0xwb0ExblVGbmFXWjZmSVlscDBQUmU4YndWenduOGJ5RmlPdFhZejIzaEVaS2RYYl9GWWhMOE1wUDNMYjEzZDRncnY3SVBzZXlZRkVPWU1wLUp3LS1wVjdxQnR1QWFLQUgzUFpHNkx4QTRhXzE2SC1jTFl0YkNZ?oc=5",
-      "source": "economist.com",
+      "source": "The Economist",
       "published_at": "Sun, 02 Aug 2026 16:12:02 GMT",
-      "summary": "What will Kevin Warsh do if America’s economy breaks? economist.com",
+      "summary": "What will Kevin Warsh do if America’s economy breaks? The Economist",
       "guid": "CBMirwFBVV95cUxNWkg0Zl9WcklWM0k5RW1oUldoWjRNMG1QMDJwNjAyM09JSHg0dThLUG0yVVVNdFM4S0xwb0ExblVGbmFXWjZmSVlscDBQUmU4YndWenduOGJ5RmlPdFhZejIzaEVaS2RYYl9GWWhMOE1wUDNMYjEzZDRncnY3SVBzZXlZRkVPWU1wLUp3LS1wVjdxQnR1QWFLQUgzUFpHNkx4QTRhXzE2SC1jTFl0YkNZ"
     },
     {
@@ -31,12 +31,20 @@
       "guid": "CBMiiwFBVV95cUxPd2k2UGxNOFRzM21hRG16dV9VTGt0NnFTYmNXOVZzazNqZ2ZTVGppSWNuR09haFNhMjIzVkhIV3ZqQkZpYWNKbGN5QUMzcEI5NEFLdmYwRG1NdFFRMkhvRFd0TU0yazV4aTRyZ1UzX29EU2NaaHp3R3FZaTI5ZDNpZHJuUkNDT2M4azB3"
     },
     {
-      "title": "What to Look Out for in Economic Data This Week (August 3-7) - Kiplinger",
+      "title": "What to Look Out for in Economic Data This Week (August 3-7) - kiplinger.com",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ?oc=5",
-      "source": "Kiplinger",
+      "source": "kiplinger.com",
       "published_at": "Fri, 31 Jul 2026 13:53:49 GMT",
-      "summary": "What to Look Out for in Economic Data This Week (August 3-7) Kiplinger",
+      "summary": "What to Look Out for in Economic Data This Week (August 3-7) kiplinger.com",
       "guid": "CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ"
+    },
+    {
+      "title": "Tom Lee Predicts 2027 Will Be One Of Stock Market's ‘Best Years’ As SpaceX, Fed Risks Fade - Stocktwits",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZFRDQ3RGdndieHp4YnNfX3ZuSm0yLWNreEl4emJmdk9yX3cxYVIwRG1fak02aGFMLXloUmtBNEN6anVZZ2tCMFlYaHI4bHBGeGoyR3U4ak5uYS1vLVRkcWpfOVI0WkdoVVNJWUMwSXhhVFdLeWM2T1Utc0drQjI3ZkNlQzJpdHltcjdsNHVhb181MkhxVThlU0RRaFI3QXBZck5YSHphU2M5N211NUtTelQ3Qnk3QUxaVW13T2Rn?oc=5",
+      "source": "Stocktwits",
+      "published_at": "Mon, 03 Aug 2026 18:58:39 GMT",
+      "summary": "Tom Lee Predicts 2027 Will Be One Of Stock Market's ‘Best Years’ As SpaceX, Fed Risks Fade Stocktwits",
+      "guid": "CBMivgFBVV95cUxNZFRDQ3RGdndieHp4YnNfX3ZuSm0yLWNreEl4emJmdk9yX3cxYVIwRG1fak02aGFMLXloUmtBNEN6anVZZ2tCMFlYaHI4bHBGeGoyR3U4ak5uYS1vLVRkcWpfOVI0WkdoVVNJWUMwSXhhVFdLeWM2T1Utc0drQjI3ZkNlQzJpdHltcjdsNHVhb181MkhxVThlU0RRaFI3QXBZck5YSHphU2M5N211NUtTelQ3Qnk3QUxaVW13T2Rn"
     },
     {
       "title": "The Federal Reserve Just Did Something That No One's Witnessed in 56 Years -- and It Has Significant Implications for the Stock Market - The Motley Fool",
@@ -47,6 +55,14 @@
       "guid": "CBMilwFBVV95cUxNNi1kSGZURFplYWNQTEN5NjVqZVRCOWd2eDZpREE3eThhNXgxaWV4S3Y5THI4WmNhYU5Rd0h4YzRjbFZEY19BTVBFaWtqb0dEejFhb240X0FUam1GLURQam5WREV5NVVGanJraVYyeWVrNGlVMnhxNGVUMElQR0VlSzZfVHpWWVQtWTczYzhJQlhvTGhLRGVF"
     },
     {
+      "title": "The Federal Reserve is expected to keep rates unchanged for now despite high prices - LancasterOnline",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQR1NTX0dnWVhmNmFuNzUyOHY3cEY1cElLSFVTNzQ1azdBRUpPbjNZc2Z3VWttU0wtNEhRck9ycU5uVWc2UmJOcFR0NFNYWWdBNng0blF6SjVkRV9aeGlLNlhJR0hCR2F2ZS1TaUVCZWNZNHBDQUJqQW0zb01XQUVLWjM1OEdxR05KY1NGQ2R4MUJmOVFOaklaNmF3b1V3Mnp5eUcwLU5STWZrR3BMMll6MElVZkhGakkyaDhsVmNYY0ZtSUFfb2hfY1g2OFNqTjVDemlRek9qMERSNUl0MjNVUGl1V3NkR1MwR3VGUHdPZnplcV9HZUIwdlNIQkY0S0pQaklYdFV1NHByREh3WHo5OU93aDZHdkNHMUE?oc=5",
+      "source": "LancasterOnline",
+      "published_at": "Wed, 29 Jul 2026 11:07:23 GMT",
+      "summary": "The Federal Reserve is expected to keep rates unchanged for now despite high prices LancasterOnline",
+      "guid": "CBMimgJBVV95cUxQR1NTX0dnWVhmNmFuNzUyOHY3cEY1cElLSFVTNzQ1azdBRUpPbjNZc2Z3VWttU0wtNEhRck9ycU5uVWc2UmJOcFR0NFNYWWdBNng0blF6SjVkRV9aeGlLNlhJR0hCR2F2ZS1TaUVCZWNZNHBDQUJqQW0zb01XQUVLWjM1OEdxR05KY1NGQ2R4MUJmOVFOaklaNmF3b1V3Mnp5eUcwLU5STWZrR3BMMll6MElVZkhGakkyaDhsVmNYY0ZtSUFfb2hfY1g2OFNqTjVDemlRek9qMERSNUl0MjNVUGl1V3NkR1MwR3VGUHdPZnplcV9HZUIwdlNIQkY0S0pQaklYdFV1NHByREh3WHo5OU93aDZHdkNHMUE"
+    },
+    {
       "title": "US stocks sink on worries about a possible hike to interest rates this year by the Federal Reserve - AP News",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcUlFaFNwNVNsa1RTZTFkTEhaMmhGLXBpZnZjeVAwaDBSSzRjZUFIMTQ3UTctckwtOXRvUDB6c0sxUGVlRWY5SUM5ZUllV1doQVhoLWkyd3IxdFdkRWJGY2J0ZGxyNmNwTEU3LVVBdDlXWVlxM2QtdGpHWmtBMGl0WkFWQzNucTVFTF9lelY3ZjdXNzFYeDhN?oc=5",
       "source": "AP News",
@@ -55,20 +71,12 @@
       "guid": "CBMilwFBVV95cUxQcUlFaFNwNVNsa1RTZTFkTEhaMmhGLXBpZnZjeVAwaDBSSzRjZUFIMTQ3UTctckwtOXRvUDB6c0sxUGVlRWY5SUM5ZUllV1doQVhoLWkyd3IxdFdkRWJGY2J0ZGxyNmNwTEU3LVVBdDlXWVlxM2QtdGpHWmtBMGl0WkFWQzNucTVFTF9lelY3ZjdXNzFYeDhN"
     },
     {
-      "title": "Stock Market Week Ahead: Mag 7 And The Fed — But It's All About The Cash - Investor's Business Daily",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNX3o1amMxNmdZVnRYUlpLZk9ocS16aXRTeU5xU19ZN0xFQ0dreTFKemlzMzV1MkFjQjdxVUd0ck9zTlVKVVRIWGFoX3BzOFV0UTYxT1o0MDBCWjRfV3dLcnpXa0p3YnlKdXQ3Wk1HNmVvZ2FoQk04LXVUdGgwVVlBY0FtMkczMUQ1bjhkVTV0RGtteXc5eGVXM2pGV011XzVmU29iM1R4eGwzU2dRRS1WR1doU0R2bmpCY09jQzQ3QVdzbXA3?oc=5",
-      "source": "Investor's Business Daily",
-      "published_at": "Sun, 26 Jul 2026 15:06:00 GMT",
-      "summary": "Stock Market Week Ahead: Mag 7 And The Fed — But It's All About The Cash Investor's Business Daily",
-      "guid": "CBMixAFBVV95cUxNX3o1amMxNmdZVnRYUlpLZk9ocS16aXRTeU5xU19ZN0xFQ0dreTFKemlzMzV1MkFjQjdxVUd0ck9zTlVKVVRIWGFoX3BzOFV0UTYxT1o0MDBCWjRfV3dLcnpXa0p3YnlKdXQ3Wk1HNmVvZ2FoQk04LXVUdGgwVVlBY0FtMkczMUQ1bjhkVTV0RGtteXc5eGVXM2pGV011XzVmU29iM1R4eGwzU2dRRS1WR1doU0R2bmpCY09jQzQ3QVdzbXA3"
-    },
-    {
-      "title": "The Federal Reserve Should Raise Interest Rates Today, but It Won't for One Fundamental Reason - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS1ZzN0YtSFpZMkUxRWdoUTBMRGd5Um9jd3Z4Zkt2cEpMMi1zM1RHQWZJNTFNQzJVbUNXMlZ0YjE0aW43SmpDU0JmeEU2UXdJc01nckJSQ0NKaFplZlVwZmJWOGI5d1BZQmE0SVprUEFTVlpWVE54WGNGSUR0R1FieWRlT1pPVlVRWlNTcENBT3N5bXhMYWMyZ1I5QVJUTXVH?oc=5",
+      "title": "President Donald Trump Just Threw the Federal Reserve Under the Bus Yet Again Over Interest Rates - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOY1o0QWRTZjdhclhsbEZhRzVESkhLeVg4WWNVX1dweWhaWUJZblJPam5qQ1BIMTVrNjN3VENEbXFpeHVpUHg3WHpmYjNhY0VOYkhQbXhYQmg1RDVVU21fMnZvZVV4bFJ3STZXRVpzanNubjFQVExQeG55ODY0dUxkRGtvd2VOVFV1c1dJX01XV2Y3T1hTTWtycGVmLWtPWDg?oc=5",
       "source": "Yahoo Finance",
-      "published_at": "Wed, 29 Jul 2026 08:26:00 GMT",
-      "summary": "The Federal Reserve Should Raise Interest Rates Today, but It Won't for One Fundamental Reason Yahoo Finance",
-      "guid": "CBMioAFBVV95cUxOS1ZzN0YtSFpZMkUxRWdoUTBMRGd5Um9jd3Z4Zkt2cEpMMi1zM1RHQWZJNTFNQzJVbUNXMlZ0YjE0aW43SmpDU0JmeEU2UXdJc01nckJSQ0NKaFplZlVwZmJWOGI5d1BZQmE0SVprUEFTVlpWVE54WGNGSUR0R1FieWRlT1pPVlVRWlNTcENBT3N5bXhMYWMyZ1I5QVJUTXVH"
+      "published_at": "Sat, 01 Aug 2026 13:26:00 GMT",
+      "summary": "President Donald Trump Just Threw the Federal Reserve Under the Bus Yet Again Over Interest Rates Yahoo Finance",
+      "guid": "CBMinwFBVV95cUxOY1o0QWRTZjdhclhsbEZhRzVESkhLeVg4WWNVX1dweWhaWUJZblJPam5qQ1BIMTVrNjN3VENEbXFpeHVpUHg3WHpmYjNhY0VOYkhQbXhYQmg1RDVVU21fMnZvZVV4bFJ3STZXRVpzanNubjFQVExQeG55ODY0dUxkRGtvd2VOVFV1c1dJX01XV2Y3T1hTTWtycGVmLWtPWDg"
     },
     {
       "title": "‘Big Wednesday’ Offers a Big Test for the Stock Market - Barron's",
@@ -77,14 +85,6 @@
       "published_at": "Wed, 29 Jul 2026 13:28:00 GMT",
       "summary": "‘Big Wednesday’ Offers a Big Test for the Stock Market Barron's",
       "guid": "CBMiiAFBVV95cUxQNFRhQjcyLTBCc3VMdTJ5TjU0ZXNGdkxSUFVkeEF6UTJLeXNwMElaS0UtZEI1N1V1d0J4Qi1Da083cFU0dGpzNkk0Z2pxbnFDaTdpSEMyc0xIMjNaTGtUakZfUHktUnRONGpjeW9VdGdTQ1JsaVBTbDJUcHltTVNUN19JSDlBME5P"
-    },
-    {
-      "title": "Stock Market Investors Just Got Bad News About President Trump's Economy. It Hints at a Big Move in the S&P 500 and Nasdaq. - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOa0VyLS0zSGNFWVFCVldibWYxNHM0cFlkdWFLV29sS3liQmk5VHdmT3ZoMkRfRHExQW5xWU96OUt6aHpZRFdMb2JJZ3ZONzcwREtqT1llUW1vS2FWenI3bzhMNFB4S0g5djJ2S19VRERlR3R4bGxybzlFaENLdTFBd1MtRld6M3ZmcFJYVHFkMmhUX00?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Wed, 29 Jul 2026 09:48:00 GMT",
-      "summary": "Stock Market Investors Just Got Bad News About President Trump's Economy. It Hints at a Big Move in the S&P 500 and Nasdaq. The Motley Fool",
-      "guid": "CBMikwFBVV95cUxOa0VyLS0zSGNFWVFCVldibWYxNHM0cFlkdWFLV29sS3liQmk5VHdmT3ZoMkRfRHExQW5xWU96OUt6aHpZRFdMb2JJZ3ZONzcwREtqT1llUW1vS2FWenI3bzhMNFB4S0g5djJ2S19VRERlR3R4bGxybzlFaENLdTFBd1MtRld6M3ZmcFJYVHFkMmhUX00"
     }
   ]
 }
