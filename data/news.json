@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-08-04T19:17:11Z",
+  "generated_at": "2026-08-04T20:47:31Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "Column: The Federal Reserve maintains a steady course - Chicago Tribune",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrTWFMUkhUTEY1STRmeHIwSUhtSGZLWGtEMFRFZXU2NjhMdDB5elVsdW5lb29INmpMeW1sWXFFWkh3c0M0VVkwNHZPM2ZmZE40WS1DLVJTM25KTUMtem1melg5S1dnWWc2bmh1SDlnejM3SktaZkdIc3JJUzNiVjQ?oc=5",
+      "source": "Chicago Tribune",
+      "published_at": "Tue, 04 Aug 2026 20:10:55 GMT",
+      "summary": "Column: The Federal Reserve maintains a steady course Chicago Tribune",
+      "guid": "CBMif0FVX3lxTFBrTWFMUkhUTEY1STRmeHIwSUhtSGZLWGtEMFRFZXU2NjhMdDB5elVsdW5lb29INmpMeW1sWXFFWkh3c0M0VVkwNHZPM2ZmZE40WS1DLVJTM25KTUMtem1melg5S1dnWWc2bmh1SDlnejM3SktaZkdIc3JJUzNiVjQ"
+    },
     {
       "title": "The stock market may be walking into a Fed disaster - thestreet.com",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1NeFppTlpBV1hNckdrcjNQU0U0WVdDbE1oWjh0T0pQSmsweUhpTXkyMEMzbGxJTGJsUWlIUTREQnJTQUN6OXFzRVR5cmRaRFBGSDhRUUtXdHZCR255ei1Eakw3Vm1sQ2hhWC1LNm9MUlY0dFFnY0pKdkt6bjk?oc=5",
@@ -15,11 +23,11 @@
       "guid": "CBMifEFVX3lxTE1NeFppTlpBV1hNckdrcjNQU0U0WVdDbE1oWjh0T0pQSmsweUhpTXkyMEMzbGxJTGJsUWlIUTREQnJTQUN6OXFzRVR5cmRaRFBGSDhRUUtXdHZCR255ei1Eakw3Vm1sQ2hhWC1LNm9MUlY0dFFnY0pKdkt6bjk"
     },
     {
-      "title": "What will Kevin Warsh do if America’s economy breaks? - economist.com",
+      "title": "What will Kevin Warsh do if America’s economy breaks? - The Economist",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWkg0Zl9WcklWM0k5RW1oUldoWjRNMG1QMDJwNjAyM09JSHg0dThLUG0yVVVNdFM4S0xwb0ExblVGbmFXWjZmSVlscDBQUmU4YndWenduOGJ5RmlPdFhZejIzaEVaS2RYYl9GWWhMOE1wUDNMYjEzZDRncnY3SVBzZXlZRkVPWU1wLUp3LS1wVjdxQnR1QWFLQUgzUFpHNkx4QTRhXzE2SC1jTFl0YkNZ?oc=5",
-      "source": "economist.com",
+      "source": "The Economist",
       "published_at": "Sun, 02 Aug 2026 16:12:02 GMT",
-      "summary": "What will Kevin Warsh do if America’s economy breaks? economist.com",
+      "summary": "What will Kevin Warsh do if America’s economy breaks? The Economist",
       "guid": "CBMirwFBVV95cUxNWkg0Zl9WcklWM0k5RW1oUldoWjRNMG1QMDJwNjAyM09JSHg0dThLUG0yVVVNdFM4S0xwb0ExblVGbmFXWjZmSVlscDBQUmU4YndWenduOGJ5RmlPdFhZejIzaEVaS2RYYl9GWWhMOE1wUDNMYjEzZDRncnY3SVBzZXlZRkVPWU1wLUp3LS1wVjdxQnR1QWFLQUgzUFpHNkx4QTRhXzE2SC1jTFl0YkNZ"
     },
     {
@@ -47,11 +55,11 @@
       "guid": "CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ"
     },
     {
-      "title": "The Federal Reserve Just Did Something That No One's Witnessed in 56 Years -- and It Has Significant Implications for the Stock Market - fool.com",
+      "title": "The Federal Reserve Just Did Something That No One's Witnessed in 56 Years -- and It Has Significant Implications for the Stock Market - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNi1kSGZURFplYWNQTEN5NjVqZVRCOWd2eDZpREE3eThhNXgxaWV4S3Y5THI4WmNhYU5Rd0h4YzRjbFZEY19BTVBFaWtqb0dEejFhb240X0FUam1GLURQam5WREV5NVVGanJraVYyeWVrNGlVMnhxNGVUMElQR0VlSzZfVHpWWVQtWTczYzhJQlhvTGhLRGVF?oc=5",
-      "source": "fool.com",
+      "source": "The Motley Fool",
       "published_at": "Mon, 03 Aug 2026 09:06:00 GMT",
-      "summary": "The Federal Reserve Just Did Something That No One's Witnessed in 56 Years -- and It Has Significant Implications for the Stock Market fool.com",
+      "summary": "The Federal Reserve Just Did Something That No One's Witnessed in 56 Years -- and It Has Significant Implications for the Stock Market The Motley Fool",
       "guid": "CBMilwFBVV95cUxNNi1kSGZURFplYWNQTEN5NjVqZVRCOWd2eDZpREE3eThhNXgxaWV4S3Y5THI4WmNhYU5Rd0h4YzRjbFZEY19BTVBFaWtqb0dEejFhb240X0FUam1GLURQam5WREV5NVVGanJraVYyeWVrNGlVMnhxNGVUMElQR0VlSzZfVHpWWVQtWTczYzhJQlhvTGhLRGVF"
     },
     {
@@ -77,14 +85,6 @@
       "published_at": "Sat, 01 Aug 2026 13:26:00 GMT",
       "summary": "President Donald Trump Just Threw the Federal Reserve Under the Bus Yet Again Over Interest Rates Yahoo Finance",
       "guid": "CBMinwFBVV95cUxOY1o0QWRTZjdhclhsbEZhRzVESkhLeVg4WWNVX1dweWhaWUJZblJPam5qQ1BIMTVrNjN3VENEbXFpeHVpUHg3WHpmYjNhY0VOYkhQbXhYQmg1RDVVU21fMnZvZVV4bFJ3STZXRVpzanNubjFQVExQeG55ODY0dUxkRGtvd2VOVFV1c1dJX01XV2Y3T1hTTWtycGVmLWtPWDg"
-    },
-    {
-      "title": "‘Big Wednesday’ Offers a Big Test for the Stock Market - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNFRhQjcyLTBCc3VMdTJ5TjU0ZXNGdkxSUFVkeEF6UTJLeXNwMElaS0UtZEI1N1V1d0J4Qi1Da083cFU0dGpzNkk0Z2pxbnFDaTdpSEMyc0xIMjNaTGtUakZfUHktUnRONGpjeW9VdGdTQ1JsaVBTbDJUcHltTVNUN19JSDlBME5P?oc=5",
-      "source": "Barron's",
-      "published_at": "Wed, 29 Jul 2026 13:28:00 GMT",
-      "summary": "‘Big Wednesday’ Offers a Big Test for the Stock Market Barron's",
-      "guid": "CBMiiAFBVV95cUxQNFRhQjcyLTBCc3VMdTJ5TjU0ZXNGdkxSUFVkeEF6UTJLeXNwMElaS0UtZEI1N1V1d0J4Qi1Da083cFU0dGpzNkk0Z2pxbnFDaTdpSEMyc0xIMjNaTGtUakZfUHktUnRONGpjeW9VdGdTQ1JsaVBTbDJUcHltTVNUN19JSDlBME5P"
     }
   ]
 }
