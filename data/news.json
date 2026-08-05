@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T18:15:37Z",
+  "generated_at": "2026-08-05T20:01:37Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,36 +7,28 @@
   },
   "items": [
     {
+      "title": "The Federal Reserve Just Did Something That No One's Witnessed in 56 Years -- and It Has Significant Implications for the Stock Market - finance.yahoo.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSnlDOFI4Tjk3RXY2WkQzcUxuc1AwLWNGYURBZldKdlNWczd0QlRwQjZVYWFZUWYyQXpSV3JBbGpscVFCRENod2RhNEk5Z296bmtSNFAyam9EUGFEZTkyS01iVUhGTEhoNUFDR1dSTGVEbklGWGM3WjFEOG9NWXRaZEdTVkpQT3pWYUtvbWN6UE9uWmlKWVZfNEJ3?oc=5",
+      "source": "finance.yahoo.com",
+      "published_at": "Mon, 03 Aug 2026 08:26:00 GMT",
+      "summary": "The Federal Reserve Just Did Something That No One's Witnessed in 56 Years -- and It Has Significant Implications for the Stock Market finance.yahoo.com",
+      "guid": "CBMimgFBVV95cUxQSnlDOFI4Tjk3RXY2WkQzcUxuc1AwLWNGYURBZldKdlNWczd0QlRwQjZVYWFZUWYyQXpSV3JBbGpscVFCRENod2RhNEk5Z296bmtSNFAyam9EUGFEZTkyS01iVUhGTEhoNUFDR1dSTGVEbklGWGM3WjFEOG9NWXRaZEdTVkpQT3pWYUtvbWN6UE9uWmlKWVZfNEJ3"
+    },
+    {
+      "title": "Weekly market commentary - BlackRock",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
+      "source": "BlackRock",
+      "published_at": "Mon, 03 Aug 2026 07:00:00 GMT",
+      "summary": "Weekly market commentary BlackRock",
+      "guid": "CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw"
+    },
+    {
       "title": "In Trump’s economy, Black adults and their families face worsening job security and financial stability - Economic Policy Institute",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWmxYUFhsZEExVERsczB6NTJJR1FoODNjVlVUT0kzeVFyNDJEaVRtenZMNXBKZ256ZUk0SmJkU3cwbG92Tk04Y1JnclNPNmJ3YzJFSmNJQ056aTJzZDhXRm5zZnhiLUVjOTVTWjREeU9PaTB3OXQ1X0VxRjBRWS1xbVNmZGVHejAzM0RCeVFWby0zZWNvWUNPeVdJSlhpU2V3MWdQRnZ0eGdNMm52bkdSMkJFMzYxZF8zZlpPa08xb0lyRmRyX3c?oc=5",
       "source": "Economic Policy Institute",
       "published_at": "Tue, 04 Aug 2026 13:03:11 GMT",
       "summary": "In Trump’s economy, Black adults and their families face worsening job security and financial stability Economic Policy Institute",
       "guid": "CBMixgFBVV95cUxPWmxYUFhsZEExVERsczB6NTJJR1FoODNjVlVUT0kzeVFyNDJEaVRtenZMNXBKZ256ZUk0SmJkU3cwbG92Tk04Y1JnclNPNmJ3YzJFSmNJQ056aTJzZDhXRm5zZnhiLUVjOTVTWjREeU9PaTB3OXQ1X0VxRjBRWS1xbVNmZGVHejAzM0RCeVFWby0zZWNvWUNPeVdJSlhpU2V3MWdQRnZ0eGdNMm52bkdSMkJFMzYxZF8zZlpPa08xb0lyRmRyX3c"
-    },
-    {
-      "title": "The Federal Reserve Just Did Something That No One's Witnessed in 56 Years -- and It Has Significant Implications for the Stock Market - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSnlDOFI4Tjk3RXY2WkQzcUxuc1AwLWNGYURBZldKdlNWczd0QlRwQjZVYWFZUWYyQXpSV3JBbGpscVFCRENod2RhNEk5Z296bmtSNFAyam9EUGFEZTkyS01iVUhGTEhoNUFDR1dSTGVEbklGWGM3WjFEOG9NWXRaZEdTVkpQT3pWYUtvbWN6UE9uWmlKWVZfNEJ3?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Mon, 03 Aug 2026 08:26:00 GMT",
-      "summary": "The Federal Reserve Just Did Something That No One's Witnessed in 56 Years -- and It Has Significant Implications for the Stock Market Yahoo Finance",
-      "guid": "CBMimgFBVV95cUxQSnlDOFI4Tjk3RXY2WkQzcUxuc1AwLWNGYURBZldKdlNWczd0QlRwQjZVYWFZUWYyQXpSV3JBbGpscVFCRENod2RhNEk5Z296bmtSNFAyam9EUGFEZTkyS01iVUhGTEhoNUFDR1dSTGVEbklGWGM3WjFEOG9NWXRaZEdTVkpQT3pWYUtvbWN6UE9uWmlKWVZfNEJ3"
-    },
-    {
-      "title": "Column: The Federal Reserve maintains a steady course - Chicago Tribune",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrTWFMUkhUTEY1STRmeHIwSUhtSGZLWGtEMFRFZXU2NjhMdDB5elVsdW5lb29INmpMeW1sWXFFWkh3c0M0VVkwNHZPM2ZmZE40WS1DLVJTM25KTUMtem1melg5S1dnWWc2bmh1SDlnejM3SktaZkdIc3JJUzNiVjQ?oc=5",
-      "source": "Chicago Tribune",
-      "published_at": "Tue, 04 Aug 2026 20:10:55 GMT",
-      "summary": "Column: The Federal Reserve maintains a steady course Chicago Tribune",
-      "guid": "CBMif0FVX3lxTFBrTWFMUkhUTEY1STRmeHIwSUhtSGZLWGtEMFRFZXU2NjhMdDB5elVsdW5lb29INmpMeW1sWXFFWkh3c0M0VVkwNHZPM2ZmZE40WS1DLVJTM25KTUMtem1melg5S1dnWWc2bmh1SDlnejM3SktaZkdIc3JJUzNiVjQ"
-    },
-    {
-      "title": "What to Look Out for in Economic Data This Week (August 3-7) - Kiplinger",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ?oc=5",
-      "source": "Kiplinger",
-      "published_at": "Fri, 31 Jul 2026 13:53:49 GMT",
-      "summary": "What to Look Out for in Economic Data This Week (August 3-7) Kiplinger",
-      "guid": "CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ"
     },
     {
       "title": "The Fed Faces a Credibility Crisis—and the Stock Market Will Pay the Price - Barron's",
@@ -47,14 +39,6 @@
       "guid": "CBMiiwFBVV95cUxPd2k2UGxNOFRzM21hRG16dV9VTGt0NnFTYmNXOVZzazNqZ2ZTVGppSWNuR09haFNhMjIzVkhIV3ZqQkZpYWNKbGN5QUMzcEI5NEFLdmYwRG1NdFFRMkhvRFd0TU0yazV4aTRyZ1UzX29EU2NaaHp3R3FZaTI5ZDNpZHJuUkNDT2M4azB3"
     },
     {
-      "title": "Why the Federal Reserve should hike rates next week - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQb1p5Vmk0VndTMEtvVER1M1lka2Y4XzBvR285WWl2RGdyQVJPNFRFbWN6cmNXb1doMS1fcmNOX2M0ZjRpdl9ReW5IaUw1UUxFUzNLWGQ0Y1hZaXluV0l4MGJLQVZBbHBWczVjNEs0WkRaeDBvUXZSM29tTmZvVlFobXVlVzRyMF90RXo1ZkxaN29PQQ?oc=5",
-      "source": "CNBC",
-      "published_at": "Fri, 24 Jul 2026 07:00:00 GMT",
-      "summary": "Why the Federal Reserve should hike rates next week CNBC",
-      "guid": "CBMikgFBVV95cUxQb1p5Vmk0VndTMEtvVER1M1lka2Y4XzBvR285WWl2RGdyQVJPNFRFbWN6cmNXb1doMS1fcmNOX2M0ZjRpdl9ReW5IaUw1UUxFUzNLWGQ0Y1hZaXluV0l4MGJLQVZBbHBWczVjNEs0WkRaeDBvUXZSM29tTmZvVlFobXVlVzRyMF90RXo1ZkxaN29PQQ"
-    },
-    {
       "title": "The stock market may be walking into a Fed disaster - thestreet.com",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1NeFppTlpBV1hNckdrcjNQU0U0WVdDbE1oWjh0T0pQSmsweUhpTXkyMEMzbGxJTGJsUWlIUTREQnJTQUN6OXFzRVR5cmRaRFBGSDhRUUtXdHZCR255ei1Eakw3Vm1sQ2hhWC1LNm9MUlY0dFFnY0pKdkt6bjk?oc=5",
       "source": "thestreet.com",
@@ -63,20 +47,28 @@
       "guid": "CBMifEFVX3lxTE1NeFppTlpBV1hNckdrcjNQU0U0WVdDbE1oWjh0T0pQSmsweUhpTXkyMEMzbGxJTGJsUWlIUTREQnJTQUN6OXFzRVR5cmRaRFBGSDhRUUtXdHZCR255ei1Eakw3Vm1sQ2hhWC1LNm9MUlY0dFFnY0pKdkt6bjk"
     },
     {
-      "title": "US stocks sink on worries about a possible hike to interest rates this year by the Federal Reserve - AP News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcUlFaFNwNVNsa1RTZTFkTEhaMmhGLXBpZnZjeVAwaDBSSzRjZUFIMTQ3UTctckwtOXRvUDB6c0sxUGVlRWY5SUM5ZUllV1doQVhoLWkyd3IxdFdkRWJGY2J0ZGxyNmNwTEU3LVVBdDlXWVlxM2QtdGpHWmtBMGl0WkFWQzNucTVFTF9lelY3ZjdXNzFYeDhN?oc=5",
-      "source": "AP News",
-      "published_at": "Wed, 17 Jun 2026 07:00:00 GMT",
-      "summary": "US stocks sink on worries about a possible hike to interest rates this year by the Federal Reserve AP News",
-      "guid": "CBMilwFBVV95cUxQcUlFaFNwNVNsa1RTZTFkTEhaMmhGLXBpZnZjeVAwaDBSSzRjZUFIMTQ3UTctckwtOXRvUDB6c0sxUGVlRWY5SUM5ZUllV1doQVhoLWkyd3IxdFdkRWJGY2J0ZGxyNmNwTEU3LVVBdDlXWVlxM2QtdGpHWmtBMGl0WkFWQzNucTVFTF9lelY3ZjdXNzFYeDhN"
+      "title": "Column: The Federal Reserve maintains a steady course - Chicago Tribune",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrTWFMUkhUTEY1STRmeHIwSUhtSGZLWGtEMFRFZXU2NjhMdDB5elVsdW5lb29INmpMeW1sWXFFWkh3c0M0VVkwNHZPM2ZmZE40WS1DLVJTM25KTUMtem1melg5S1dnWWc2bmh1SDlnejM3SktaZkdIc3JJUzNiVjQ?oc=5",
+      "source": "Chicago Tribune",
+      "published_at": "Tue, 04 Aug 2026 20:10:55 GMT",
+      "summary": "Column: The Federal Reserve maintains a steady course Chicago Tribune",
+      "guid": "CBMif0FVX3lxTFBrTWFMUkhUTEY1STRmeHIwSUhtSGZLWGtEMFRFZXU2NjhMdDB5elVsdW5lb29INmpMeW1sWXFFWkh3c0M0VVkwNHZPM2ZmZE40WS1DLVJTM25KTUMtem1melg5S1dnWWc2bmh1SDlnejM3SktaZkdIc3JJUzNiVjQ"
     },
     {
-      "title": "Moody’s economist warns Fed silence on interest rates could rattle markets and put U.S. economy at risk - moneywise.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNa3JOR004OEVDbHh6My1vSGtZRHhxY21sMnhFYjhzRDYyV1RJaHc1NjVCeVZxQk5FWFl2eWViNzB0SlFRY3B5UWFKRmp4akdZOWw1ejE4d0RSbUZnXy1CVjdsU3B2SGJQbElDS1lOQWRubG5Uc2prOG1jcHIwMzd0VFNEQ19SZUs0VlhNdS1UNlJBNGp0TlE?oc=5",
-      "source": "moneywise.com",
-      "published_at": "Tue, 04 Aug 2026 19:10:03 GMT",
-      "summary": "Moody’s economist warns Fed silence on interest rates could rattle markets and put U.S. economy at risk moneywise.com",
-      "guid": "CBMilgFBVV95cUxNa3JOR004OEVDbHh6My1vSGtZRHhxY21sMnhFYjhzRDYyV1RJaHc1NjVCeVZxQk5FWFl2eWViNzB0SlFRY3B5UWFKRmp4akdZOWw1ejE4d0RSbUZnXy1CVjdsU3B2SGJQbElDS1lOQWRubG5Uc2prOG1jcHIwMzd0VFNEQ19SZUs0VlhNdS1UNlJBNGp0TlE"
+      "title": "Why the Federal Reserve should hike rates next week - cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQb1p5Vmk0VndTMEtvVER1M1lka2Y4XzBvR285WWl2RGdyQVJPNFRFbWN6cmNXb1doMS1fcmNOX2M0ZjRpdl9ReW5IaUw1UUxFUzNLWGQ0Y1hZaXluV0l4MGJLQVZBbHBWczVjNEs0WkRaeDBvUXZSM29tTmZvVlFobXVlVzRyMF90RXo1ZkxaN29PQQ?oc=5",
+      "source": "cnbc.com",
+      "published_at": "Fri, 24 Jul 2026 07:00:00 GMT",
+      "summary": "Why the Federal Reserve should hike rates next week cnbc.com",
+      "guid": "CBMikgFBVV95cUxQb1p5Vmk0VndTMEtvVER1M1lka2Y4XzBvR285WWl2RGdyQVJPNFRFbWN6cmNXb1doMS1fcmNOX2M0ZjRpdl9ReW5IaUw1UUxFUzNLWGQ0Y1hZaXluV0l4MGJLQVZBbHBWczVjNEs0WkRaeDBvUXZSM29tTmZvVlFobXVlVzRyMF90RXo1ZkxaN29PQQ"
+    },
+    {
+      "title": "What to Look Out for in Economic Data This Week (August 3-7) - Kiplinger",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ?oc=5",
+      "source": "Kiplinger",
+      "published_at": "Fri, 31 Jul 2026 13:53:49 GMT",
+      "summary": "What to Look Out for in Economic Data This Week (August 3-7) Kiplinger",
+      "guid": "CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ"
     },
     {
       "title": "Stocks drive record share of American wealth - Axios",
@@ -85,6 +77,14 @@
       "published_at": "Thu, 04 Jun 2026 07:00:00 GMT",
       "summary": "Stocks drive record share of American wealth Axios",
       "guid": "CBMibEFVX3lxTE4tREZqZEtISDliRTZVeFV4MkhkbW9ueER2Z25YRDRuNXBDaGVGLTlKMC1JUUVfWXFYT2h3YWtwemRuVU9NLVg0Qi03bEdoQlBfcVBmckN6anZtZVVTakstVlVZWWU0bm5YSmUwaQ"
+    },
+    {
+      "title": "Moody’s economist warns Fed silence on interest rates could rattle markets and put U.S. economy at risk - moneywise.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNa3JOR004OEVDbHh6My1vSGtZRHhxY21sMnhFYjhzRDYyV1RJaHc1NjVCeVZxQk5FWFl2eWViNzB0SlFRY3B5UWFKRmp4akdZOWw1ejE4d0RSbUZnXy1CVjdsU3B2SGJQbElDS1lOQWRubG5Uc2prOG1jcHIwMzd0VFNEQ19SZUs0VlhNdS1UNlJBNGp0TlE?oc=5",
+      "source": "moneywise.com",
+      "published_at": "Tue, 04 Aug 2026 19:10:03 GMT",
+      "summary": "Moody’s economist warns Fed silence on interest rates could rattle markets and put U.S. economy at risk moneywise.com",
+      "guid": "CBMilgFBVV95cUxNa3JOR004OEVDbHh6My1vSGtZRHhxY21sMnhFYjhzRDYyV1RJaHc1NjVCeVZxQk5FWFl2eWViNzB0SlFRY3B5UWFKRmp4akdZOWw1ejE4d0RSbUZnXy1CVjdsU3B2SGJQbElDS1lOQWRubG5Uc2prOG1jcHIwMzd0VFNEQ19SZUs0VlhNdS1UNlJBNGp0TlE"
     }
   ]
 }
