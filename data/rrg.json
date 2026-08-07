@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T20:03:56Z",
+  "generated_at": "2026-08-07T20:40:53Z",
   "benchmark": "SPY",
   "sectors": [
     {
@@ -75,8 +75,8 @@
           "rsMomentum": 99.89
         },
         {
-          "rsRatio": 97.88,
-          "rsMomentum": 99.29
+          "rsRatio": 97.84,
+          "rsMomentum": 99.25
         }
       ]
     },
@@ -101,8 +101,8 @@
           "rsMomentum": 102.27
         },
         {
-          "rsRatio": 96.02,
-          "rsMomentum": 99.04
+          "rsRatio": 96.04,
+          "rsMomentum": 99.07
         }
       ]
     },
@@ -127,8 +127,8 @@
           "rsMomentum": 99.29
         },
         {
-          "rsRatio": 101.04,
-          "rsMomentum": 100.4
+          "rsRatio": 101.05,
+          "rsMomentum": 100.42
         }
       ]
     },
@@ -153,8 +153,8 @@
           "rsMomentum": 100.08
         },
         {
-          "rsRatio": 96.89,
-          "rsMomentum": 99.74
+          "rsRatio": 96.88,
+          "rsMomentum": 99.73
         }
       ]
     },
@@ -179,8 +179,8 @@
           "rsMomentum": 99.55
         },
         {
-          "rsRatio": 98.83,
-          "rsMomentum": 99.93
+          "rsRatio": 98.84,
+          "rsMomentum": 99.94
         }
       ]
     },
@@ -206,7 +206,7 @@
         },
         {
           "rsRatio": 99.42,
-          "rsMomentum": 100.86
+          "rsMomentum": 100.85
         }
       ]
     },
@@ -257,8 +257,8 @@
           "rsMomentum": 99.72
         },
         {
-          "rsRatio": 96.68,
-          "rsMomentum": 100.46
+          "rsRatio": 96.66,
+          "rsMomentum": 100.43
         }
       ]
     },
@@ -283,11 +283,11 @@
           "rsMomentum": 100.31
         },
         {
-          "rsRatio": 98.74,
-          "rsMomentum": 99.46
+          "rsRatio": 98.73,
+          "rsMomentum": 99.45
         }
       ]
     }
   ],
-  "lastUpdated": "2026-08-07T20:03:56Z"
+  "lastUpdated": "2026-08-07T20:40:53Z"
 }
