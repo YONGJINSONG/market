@@ -1,19 +1,11 @@
 {
-  "generated_at": "2026-08-07T12:07:32Z",
+  "generated_at": "2026-08-07T13:34:16Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
-    {
-      "title": "Why a Fed Rate Cut Is Coming and How the Market Will React - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdG8xTDNnMVlwampYLUxubHhPc19pdlAzWHBmYm0wRGFKQVJMc1AxTmlBd2dzdTlKa0RPamp3NGJ1UjBkRVhEaHhIYkdZQ01pdVJleHphUFpzZnNqMjRVNTBwSHBGZFhDQmtBU016X09kakM0Nm5WRWljNVVoaU1lWW1NS2FYUQ?oc=5",
-      "source": "Barron's",
-      "published_at": "Thu, 06 Aug 2026 19:15:00 GMT",
-      "summary": "Why a Fed Rate Cut Is Coming and How the Market Will React Barron's",
-      "guid": "CBMihgFBVV95cUxNdG8xTDNnMVlwampYLUxubHhPc19pdlAzWHBmYm0wRGFKQVJMc1AxTmlBd2dzdTlKa0RPamp3NGJ1UjBkRVhEaHhIYkdZQ01pdVJleHphUFpzZnNqMjRVNTBwSHBGZFhDQmtBU016X09kakM0Nm5WRWljNVVoaU1lWW1NS2FYUQ"
-    },
     {
       "title": "How the Median Net Worth for Americans Ages 55-64 Compares, According to Federal Reserve Data - Investopedia",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQOE9kTkxkckhtTlhpUnhUY1Y1c2Z4dVUxUGR6ZGNkcDVWR04xeFhsTGlWdFA5bWtxUXpoeHZ1R1RXb0RHVkJmYWJ2UEdxYXp0d1pJSW5US3drdllCX0lPSElmUDluTnZtdzIyS1ZfbXdqTTdaYmZNRnQ3N29Cb2hJeEUwMEJuQjJ1RzFocjRycUw4UjVaNWpZNlJWWlhyRlgxZFlWLVY1MndUTENfU3pxdFhiRnRmMmdpTUhuVkEzTFNtVzJDSjM1ZGxn?oc=5",
@@ -31,12 +23,12 @@
       "guid": "CBMidEFVX3lxTE5OT2xiT2ZvcFJURWpLZFAyeVM2eTk0WjVyZXNfdW5IYUd0aEtrNzQtT01YREYya1dGSUY0S2MwYU1aekxSQ29tUXA3T2MyWXhUOGNsM0ZFZmhPcFMyRTB6Q1drR1NOeHRILXMyOEJRclVQNF9p"
     },
     {
-      "title": "Google's AI shake-up, tariff refunds, the interest rate outlook and more in Morning Squawk - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOFBiZEhiRjBmTzBRTEh0ZjhZaGhoc2ZfZ1FhLVlFODZHWXlUcDhaenp2NkFMcDhCcFFoV2wwRXkxd3p2NTJ0endsbEd3UmVCUzM3dnpMb2JnRU50RmJHR1YwdlViM1h0NFZCQlQyQUlpaTgtNkFhbWh0Q1MzYzVIYXgyODN2OE1KTjl1U1Z3djbSAZABQVVfeXFMTzhQYmRIYkYwZk8wUUxIdGY4WWhoaHNmX2dRYS1ZRTg2R1l5VHA4Wnp6djZBTHA4QnBRaFdsMEV5MXd6djUydHp3bGxHd1JlQlMzN3Z6TG9iZ0VOdEZiR0dWMHZVYjNYdDRWQkJUMkFJaWk4LTZBYW1odENTM2M1SGF4MjgzdjhNSk45dVNWd3Y2?oc=5",
-      "source": "CNBC",
-      "published_at": "Thu, 06 Aug 2026 12:39:00 GMT",
-      "summary": "Google's AI shake-up, tariff refunds, the interest rate outlook and more in Morning Squawk CNBC",
-      "guid": "CBMikAFBVV95cUxPOFBiZEhiRjBmTzBRTEh0ZjhZaGhoc2ZfZ1FhLVlFODZHWXlUcDhaenp2NkFMcDhCcFFoV2wwRXkxd3p2NTJ0endsbEd3UmVCUzM3dnpMb2JnRU50RmJHR1YwdlViM1h0NFZCQlQyQUlpaTgtNkFhbWh0Q1MzYzVIYXgyODN2OE1KTjl1U1Z3djbSAZABQVVfeXFMTzhQYmRIYkYwZk8wUUxIdGY4WWhoaHNmX2dRYS1ZRTg2R1l5VHA4Wnp6djZBTHA4QnBRaFdsMEV5MXd6djUydHp3bGxHd1JlQlMzN3Z6TG9iZ0VOdEZiR0dWMHZVYjNYdDRWQkJUMkFJaWk4LTZBYW1odENTM2M1SGF4MjgzdjhNSk45dVNWd3Y2"
+      "title": "The Federal Reserve Just Did Something That No One's Witnessed in 56 Years -- and It Has Significant Implications for the Stock Market - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSnlDOFI4Tjk3RXY2WkQzcUxuc1AwLWNGYURBZldKdlNWczd0QlRwQjZVYWFZUWYyQXpSV3JBbGpscVFCRENod2RhNEk5Z296bmtSNFAyam9EUGFEZTkyS01iVUhGTEhoNUFDR1dSTGVEbklGWGM3WjFEOG9NWXRaZEdTVkpQT3pWYUtvbWN6UE9uWmlKWVZfNEJ3?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Mon, 03 Aug 2026 08:26:00 GMT",
+      "summary": "The Federal Reserve Just Did Something That No One's Witnessed in 56 Years -- and It Has Significant Implications for the Stock Market Yahoo Finance",
+      "guid": "CBMimgFBVV95cUxQSnlDOFI4Tjk3RXY2WkQzcUxuc1AwLWNGYURBZldKdlNWczd0QlRwQjZVYWFZUWYyQXpSV3JBbGpscVFCRENod2RhNEk5Z296bmtSNFAyam9EUGFEZTkyS01iVUhGTEhoNUFDR1dSTGVEbklGWGM3WjFEOG9NWXRaZEdTVkpQT3pWYUtvbWN6UE9uWmlKWVZfNEJ3"
     },
     {
       "title": "ONE CYR'S VIEW: The steady course of the Federal Reserve - Imperial Valley Press Online",
@@ -47,44 +39,52 @@
       "guid": "CBMi2gFBVV95cUxNWDUxUUw5WE1MeWtZaXpoR3pNcWtpS2swYWJ4X1lXMXVSYnJGeU5sa1kzSFJMTlltYlZrYUg0a1lWdTZ2M01weHRhcmNMU3lGUjlVd2RSNTNLTlo2d1V5U00yVnVta0hDc1VDQ3ZkU0xMc3pFNzNkVkk2TFBhVVlPeWVocWlkc0Z6bXIzUEQ5TllQR2dkVHp0M2RoMUpLbDMzSlVyWVZ6WGJQODFaZE5yVl9hY3ZuY1ZpU0ViLVRQLVZaeGFjOVN0ZHhTTllXSU01Tlk1OE02eXh6dw"
     },
     {
-      "title": "The Federal Reserve Just Did Something That No One's Witnessed in 56 Years -- and It Has Significant Implications for the Stock Market - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSnlDOFI4Tjk3RXY2WkQzcUxuc1AwLWNGYURBZldKdlNWczd0QlRwQjZVYWFZUWYyQXpSV3JBbGpscVFCRENod2RhNEk5Z296bmtSNFAyam9EUGFEZTkyS01iVUhGTEhoNUFDR1dSTGVEbklGWGM3WjFEOG9NWXRaZEdTVkpQT3pWYUtvbWN6UE9uWmlKWVZfNEJ3?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Mon, 03 Aug 2026 08:26:00 GMT",
-      "summary": "The Federal Reserve Just Did Something That No One's Witnessed in 56 Years -- and It Has Significant Implications for the Stock Market Yahoo Finance",
-      "guid": "CBMimgFBVV95cUxQSnlDOFI4Tjk3RXY2WkQzcUxuc1AwLWNGYURBZldKdlNWczd0QlRwQjZVYWFZUWYyQXpSV3JBbGpscVFCRENod2RhNEk5Z296bmtSNFAyam9EUGFEZTkyS01iVUhGTEhoNUFDR1dSTGVEbklGWGM3WjFEOG9NWXRaZEdTVkpQT3pWYUtvbWN6UE9uWmlKWVZfNEJ3"
-    },
-    {
-      "title": "How Rising Oil Prices Affect the Stock Market - schaeffersresearch.com",
+      "title": "How Rising Oil Prices Affect the Stock Market - Schaeffer's Investment Research",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQY0l1VTRYWDNRczRHUDI5NW1qWWxTX1JwWkNCaGVhR0xEWi1OVkxtSUpxZzFkOUgyR3RxRlNNV2g2SWpybjQxM1ZqRTh0U1hVZ2UwZGVtNkNtUVNfYVJFU0pER015eXJpTWJjVFRWYV9tNzVqX2RNVk81T1FEMkZlR3J5anFvLWxBend3aXBEUnZpRDNyU3F0VXpoNldQVkQwOUdCRVFNSGl5WnRtaWc?oc=5",
-      "source": "schaeffersresearch.com",
+      "source": "Schaeffer's Investment Research",
       "published_at": "Thu, 06 Aug 2026 05:26:32 GMT",
-      "summary": "How Rising Oil Prices Affect the Stock Market schaeffersresearch.com",
+      "summary": "How Rising Oil Prices Affect the Stock Market Schaeffer's Investment Research",
       "guid": "CBMirgFBVV95cUxQY0l1VTRYWDNRczRHUDI5NW1qWWxTX1JwWkNCaGVhR0xEWi1OVkxtSUpxZzFkOUgyR3RxRlNNV2g2SWpybjQxM1ZqRTh0U1hVZ2UwZGVtNkNtUVNfYVJFU0pER015eXJpTWJjVFRWYV9tNzVqX2RNVk81T1FEMkZlR3J5anFvLWxBend3aXBEUnZpRDNyU3F0VXpoNldQVkQwOUdCRVFNSGl5WnRtaWc"
     },
     {
-      "title": "Stock Market Week Ahead: Mag 7 And The Fed — But It's All About The Cash - Investor's Business Daily",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNX3o1amMxNmdZVnRYUlpLZk9ocS16aXRTeU5xU19ZN0xFQ0dreTFKemlzMzV1MkFjQjdxVUd0ck9zTlVKVVRIWGFoX3BzOFV0UTYxT1o0MDBCWjRfV3dLcnpXa0p3YnlKdXQ3Wk1HNmVvZ2FoQk04LXVUdGgwVVlBY0FtMkczMUQ1bjhkVTV0RGtteXc5eGVXM2pGV011XzVmU29iM1R4eGwzU2dRRS1WR1doU0R2bmpCY09jQzQ3QVdzbXA3?oc=5",
-      "source": "Investor's Business Daily",
-      "published_at": "Sun, 26 Jul 2026 07:00:00 GMT",
-      "summary": "Stock Market Week Ahead: Mag 7 And The Fed — But It's All About The Cash Investor's Business Daily",
-      "guid": "CBMixAFBVV95cUxNX3o1amMxNmdZVnRYUlpLZk9ocS16aXRTeU5xU19ZN0xFQ0dreTFKemlzMzV1MkFjQjdxVUd0ck9zTlVKVVRIWGFoX3BzOFV0UTYxT1o0MDBCWjRfV3dLcnpXa0p3YnlKdXQ3Wk1HNmVvZ2FoQk04LXVUdGgwVVlBY0FtMkczMUQ1bjhkVTV0RGtteXc5eGVXM2pGV011XzVmU29iM1R4eGwzU2dRRS1WR1doU0R2bmpCY09jQzQ3QVdzbXA3"
+      "title": "The Fed Faces a Credibility Crisis—and the Stock Market Will Pay the Price - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPd2k2UGxNOFRzM21hRG16dV9VTGt0NnFTYmNXOVZzazNqZ2ZTVGppSWNuR09haFNhMjIzVkhIV3ZqQkZpYWNKbGN5QUMzcEI5NEFLdmYwRG1NdFFRMkhvRFd0TU0yazV4aTRyZ1UzX29EU2NaaHp3R3FZaTI5ZDNpZHJuUkNDT2M4azB3?oc=5",
+      "source": "Barron's",
+      "published_at": "Thu, 30 Jul 2026 13:28:00 GMT",
+      "summary": "The Fed Faces a Credibility Crisis—and the Stock Market Will Pay the Price Barron's",
+      "guid": "CBMiiwFBVV95cUxPd2k2UGxNOFRzM21hRG16dV9VTGt0NnFTYmNXOVZzazNqZ2ZTVGppSWNuR09haFNhMjIzVkhIV3ZqQkZpYWNKbGN5QUMzcEI5NEFLdmYwRG1NdFFRMkhvRFd0TU0yazV4aTRyZ1UzX29EU2NaaHp3R3FZaTI5ZDNpZHJuUkNDT2M4azB3"
     },
     {
-      "title": "What to Look Out for in Economic Data This Week (August 3-7) - Kiplinger",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ?oc=5",
-      "source": "Kiplinger",
-      "published_at": "Fri, 31 Jul 2026 13:53:49 GMT",
-      "summary": "What to Look Out for in Economic Data This Week (August 3-7) Kiplinger",
-      "guid": "CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ"
+      "title": "US stocks sink on worries about a possible hike to interest rates this year by the Federal Reserve - AP News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcUlFaFNwNVNsa1RTZTFkTEhaMmhGLXBpZnZjeVAwaDBSSzRjZUFIMTQ3UTctckwtOXRvUDB6c0sxUGVlRWY5SUM5ZUllV1doQVhoLWkyd3IxdFdkRWJGY2J0ZGxyNmNwTEU3LVVBdDlXWVlxM2QtdGpHWmtBMGl0WkFWQzNucTVFTF9lelY3ZjdXNzFYeDhN?oc=5",
+      "source": "AP News",
+      "published_at": "Wed, 17 Jun 2026 07:00:00 GMT",
+      "summary": "US stocks sink on worries about a possible hike to interest rates this year by the Federal Reserve AP News",
+      "guid": "CBMilwFBVV95cUxQcUlFaFNwNVNsa1RTZTFkTEhaMmhGLXBpZnZjeVAwaDBSSzRjZUFIMTQ3UTctckwtOXRvUDB6c0sxUGVlRWY5SUM5ZUllV1doQVhoLWkyd3IxdFdkRWJGY2J0ZGxyNmNwTEU3LVVBdDlXWVlxM2QtdGpHWmtBMGl0WkFWQzNucTVFTF9lelY3ZjdXNzFYeDhN"
     },
     {
-      "title": "Why the Federal Reserve should hike rates next week - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQb1p5Vmk0VndTMEtvVER1M1lka2Y4XzBvR285WWl2RGdyQVJPNFRFbWN6cmNXb1doMS1fcmNOX2M0ZjRpdl9ReW5IaUw1UUxFUzNLWGQ0Y1hZaXluV0l4MGJLQVZBbHBWczVjNEs0WkRaeDBvUXZSM29tTmZvVlFobXVlVzRyMF90RXo1ZkxaN29PQQ?oc=5",
+      "title": "Stocks drive record share of American wealth - Axios",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tREZqZEtISDliRTZVeFV4MkhkbW9ueER2Z25YRDRuNXBDaGVGLTlKMC1JUUVfWXFYT2h3YWtwemRuVU9NLVg0Qi03bEdoQlBfcVBmckN6anZtZVVTakstVlVZWWU0bm5YSmUwaQ?oc=5",
+      "source": "Axios",
+      "published_at": "Thu, 04 Jun 2026 07:00:00 GMT",
+      "summary": "Stocks drive record share of American wealth Axios",
+      "guid": "CBMibEFVX3lxTE4tREZqZEtISDliRTZVeFV4MkhkbW9ueER2Z25YRDRuNXBDaGVGLTlKMC1JUUVfWXFYT2h3YWtwemRuVU9NLVg0Qi03bEdoQlBfcVBmckN6anZtZVVTakstVlVZWWU0bm5YSmUwaQ"
+    },
+    {
+      "title": "Google's AI shake-up, tariff refunds, the interest rate outlook and more in Morning Squawk - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOFBiZEhiRjBmTzBRTEh0ZjhZaGhoc2ZfZ1FhLVlFODZHWXlUcDhaenp2NkFMcDhCcFFoV2wwRXkxd3p2NTJ0endsbEd3UmVCUzM3dnpMb2JnRU50RmJHR1YwdlViM1h0NFZCQlQyQUlpaTgtNkFhbWh0Q1MzYzVIYXgyODN2OE1KTjl1U1Z3djbSAZABQVVfeXFMTzhQYmRIYkYwZk8wUUxIdGY4WWhoaHNmX2dRYS1ZRTg2R1l5VHA4Wnp6djZBTHA4QnBRaFdsMEV5MXd6djUydHp3bGxHd1JlQlMzN3Z6TG9iZ0VOdEZiR0dWMHZVYjNYdDRWQkJUMkFJaWk4LTZBYW1odENTM2M1SGF4MjgzdjhNSk45dVNWd3Y2?oc=5",
       "source": "CNBC",
-      "published_at": "Fri, 24 Jul 2026 07:00:00 GMT",
-      "summary": "Why the Federal Reserve should hike rates next week CNBC",
-      "guid": "CBMikgFBVV95cUxQb1p5Vmk0VndTMEtvVER1M1lka2Y4XzBvR285WWl2RGdyQVJPNFRFbWN6cmNXb1doMS1fcmNOX2M0ZjRpdl9ReW5IaUw1UUxFUzNLWGQ0Y1hZaXluV0l4MGJLQVZBbHBWczVjNEs0WkRaeDBvUXZSM29tTmZvVlFobXVlVzRyMF90RXo1ZkxaN29PQQ"
+      "published_at": "Thu, 06 Aug 2026 12:39:00 GMT",
+      "summary": "Google's AI shake-up, tariff refunds, the interest rate outlook and more in Morning Squawk CNBC",
+      "guid": "CBMikAFBVV95cUxPOFBiZEhiRjBmTzBRTEh0ZjhZaGhoc2ZfZ1FhLVlFODZHWXlUcDhaenp2NkFMcDhCcFFoV2wwRXkxd3p2NTJ0endsbEd3UmVCUzM3dnpMb2JnRU50RmJHR1YwdlViM1h0NFZCQlQyQUlpaTgtNkFhbWh0Q1MzYzVIYXgyODN2OE1KTjl1U1Z3djbSAZABQVVfeXFMTzhQYmRIYkYwZk8wUUxIdGY4WWhoaHNmX2dRYS1ZRTg2R1l5VHA4Wnp6djZBTHA4QnBRaFdsMEV5MXd6djUydHp3bGxHd1JlQlMzN3Z6TG9iZ0VOdEZiR0dWMHZVYjNYdDRWQkJUMkFJaWk4LTZBYW1odENTM2M1SGF4MjgzdjhNSk45dVNWd3Y2"
+    },
+    {
+      "title": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says a Big Drop Could Follow. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSG5UVUo2Qjc0QmZXVkZkVG5DNDFUMHJVT3ZDUHZzOFBVOXVuWk55aE9ZcDVOVEFJa3Y5ZHpjNWx4YWgtb3VfSjRHQUJXMFJIV3lPcTFDSjFadXBmdENDeGx2eGMyZ2NVRjM2Mk9RYlU3X1B2OGMwWmR6ajgtMWxQUmFCMER2R1gxZk52LVZYWW1lVkxxeWp2S3dpVjA?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Wed, 01 Jul 2026 07:00:00 GMT",
+      "summary": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says a Big Drop Could Follow. Yahoo Finance",
+      "guid": "CBMinAFBVV95cUxPSG5UVUo2Qjc0QmZXVkZkVG5DNDFUMHJVT3ZDUHZzOFBVOXVuWk55aE9ZcDVOVEFJa3Y5ZHpjNWx4YWgtb3VfSjRHQUJXMFJIV3lPcTFDSjFadXBmdENDeGx2eGMyZ2NVRjM2Mk9RYlU3X1B2OGMwWmR6ajgtMWxQUmFCMER2R1gxZk52LVZYWW1lVkxxeWp2S3dpVjA"
     }
   ]
 }
