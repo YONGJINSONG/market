@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T15:17:32Z",
+  "generated_at": "2026-08-08T15:52:22Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -15,11 +15,11 @@
       "guid": "CBMid0FVX3lxTFA1V0ZsTWlIOWFIaWtZXzVQODBRZTI4aTlFYUVGQ05JQUM3V2U2eHd1Z254bWl5M3ZDblJnRkR4QlUxLXpYZ0lDNDI0QzducnRXVDdBWm5aRG5qSmRXZEl5bnhiQ21GbC1ubkhOWWUyYU0yME51WURj"
     },
     {
-      "title": "Why Kevin Warsh's Job Just Got a Lot Harder. And What It Means for the Stock Market. - fool.com",
+      "title": "Why Kevin Warsh's Job Just Got a Lot Harder. And What It Means for the Stock Market. - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQY0dLSnlKWW5CcE9nV1YxZHBHdUkya05veE0wTDFobE5tTEY1eWhWaDN1cWU3TVJlWC15N2hyS0hMZ2x0WVgtUU5QaWtpWXA1Nklva09YRDRoYWh6NWFKcVI4eGRreWJsYXpBNTJWY1VCaG5ELWM0ckJXejJLZlk0cEZBRjluNnk1ZTl4VU5OLXphX0gzQmhr?oc=5",
-      "source": "fool.com",
+      "source": "The Motley Fool",
       "published_at": "Fri, 07 Aug 2026 19:22:00 GMT",
-      "summary": "Why Kevin Warsh's Job Just Got a Lot Harder. And What It Means for the Stock Market. fool.com",
+      "summary": "Why Kevin Warsh's Job Just Got a Lot Harder. And What It Means for the Stock Market. The Motley Fool",
       "guid": "CBMilwFBVV95cUxQY0dLSnlKWW5CcE9nV1YxZHBHdUkya05veE0wTDFobE5tTEY1eWhWaDN1cWU3TVJlWC15N2hyS0hMZ2x0WVgtUU5QaWtpWXA1Nklva09YRDRoYWh6NWFKcVI4eGRreWJsYXpBNTJWY1VCaG5ELWM0ckJXejJLZlk0cEZBRjluNnk1ZTl4VU5OLXphX0gzQmhr"
     },
     {
@@ -47,6 +47,14 @@
       "guid": "CBMirgFBVV95cUxPQ0xQTnBVUExIc3JZSnJvSG53Qk9EZ2x1MVpqcXR3a1JnYThxRjhYbS1qRC1pRVR0Um5XQTlnaVhOZ3hsQmZnb1loeTV2MDd3dTVpYUdPcV9kTUxiYUo3QmZpclYwWW9GOHZWYXZkcS1hZ2RKNDhLOFBnTFQyZzcxSjU0d0VSVGZja1BoMldvWmVmYUJyVHk5Y1h0VHNfczZhSU9QSDluVnhMOUNQdUHSAbMBQVVfeXFMTTAyUnpUNDNRaVM0MGxLZk5qMVZsN0xFSFQ4VHNYWGxHaklpeE14UjU1U0QtM0k1RDNQbDhtM3c3M194QTVtZjhpbGVTTS02SktvaTRWQ0dMMjRnQ3Ryajdib0tCRldxYlFwbDZDSUIzZUtTbHJnR3R4SXpSR3k5bXpNVDdjbnl5bGRHd1lZSmdnNHFjWEVhSmtlSTNxWjdPaUZlaDQ0SmZGZ1ZLU2ZCWmwzU28"
     },
     {
+      "title": "White House renews its attempt to remove Fed Governor Lisa Cook - CNN",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE04ODZWcHFfUU44aERoSVV4TDdJUmxRZDJHcDk3RXVFRXlzaWdmeGhfNWx5R0pNb2NKazlzNUFqamNZM1FrNWVoSDF0VDBFRm45QUV3LUlaM3RKbFByT3dFRGtzRllLV3JpRWJ2T3hTenZlTHlqWXFr?oc=5",
+      "source": "CNN",
+      "published_at": "Fri, 07 Aug 2026 18:46:05 GMT",
+      "summary": "White House renews its attempt to remove Fed Governor Lisa Cook CNN",
+      "guid": "CBMid0FVX3lxTE04ODZWcHFfUU44aERoSVV4TDdJUmxRZDJHcDk3RXVFRXlzaWdmeGhfNWx5R0pNb2NKazlzNUFqamNZM1FrNWVoSDF0VDBFRm45QUV3LUlaM3RKbFByT3dFRGtzRllLV3JpRWJ2T3hTenZlTHlqWXFr"
+    },
+    {
       "title": "Why a Fed Rate Cut Is Coming and How the Market Will React - Barron's",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSERES2lGcGlzcE44UzJLUGdJY0RJc0xDRDVXbmlrVUxJS1ZtMjd6LWJvQmtZY2RSRVF5dDZxSUFkd3NNaEJPelFpUkZrUU5QaUVtMVFSWGVRODVaSDMwVVRiSFBYdkhCM2t2UmFhUEdjQWhNY21yV2pMMjdiY2tFeW9VMmE?oc=5",
       "source": "Barron's",
@@ -55,11 +63,11 @@
       "guid": "CBMihAFBVV95cUxOSERES2lGcGlzcE44UzJLUGdJY0RJc0xDRDVXbmlrVUxJS1ZtMjd6LWJvQmtZY2RSRVF5dDZxSUFkd3NNaEJPelFpUkZrUU5QaUVtMVFSWGVRODVaSDMwVVRiSFBYdkhCM2t2UmFhUEdjQWhNY21yV2pMMjdiY2tFeW9VMmE"
     },
     {
-      "title": "ONE CYR'S VIEW: The steady course of the Federal Reserve - Imperial Valley Press Online",
+      "title": "ONE CYR'S VIEW: The steady course of the Federal Reserve - ivpressonline.com",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWDUxUUw5WE1MeWtZaXpoR3pNcWtpS2swYWJ4X1lXMXVSYnJGeU5sa1kzSFJMTlltYlZrYUg0a1lWdTZ2M01weHRhcmNMU3lGUjlVd2RSNTNLTlo2d1V5U00yVnVta0hDc1VDQ3ZkU0xMc3pFNzNkVkk2TFBhVVlPeWVocWlkc0Z6bXIzUEQ5TllQR2dkVHp0M2RoMUpLbDMzSlVyWVZ6WGJQODFaZE5yVl9hY3ZuY1ZpU0ViLVRQLVZaeGFjOVN0ZHhTTllXSU01Tlk1OE02eXh6dw?oc=5",
-      "source": "Imperial Valley Press Online",
+      "source": "ivpressonline.com",
       "published_at": "Thu, 06 Aug 2026 07:00:00 GMT",
-      "summary": "ONE CYR'S VIEW: The steady course of the Federal Reserve Imperial Valley Press Online",
+      "summary": "ONE CYR'S VIEW: The steady course of the Federal Reserve ivpressonline.com",
       "guid": "CBMi2gFBVV95cUxNWDUxUUw5WE1MeWtZaXpoR3pNcWtpS2swYWJ4X1lXMXVSYnJGeU5sa1kzSFJMTlltYlZrYUg0a1lWdTZ2M01weHRhcmNMU3lGUjlVd2RSNTNLTlo2d1V5U00yVnVta0hDc1VDQ3ZkU0xMc3pFNzNkVkk2TFBhVVlPeWVocWlkc0Z6bXIzUEQ5TllQR2dkVHp0M2RoMUpLbDMzSlVyWVZ6WGJQODFaZE5yVl9hY3ZuY1ZpU0ViLVRQLVZaeGFjOVN0ZHhTTllXSU01Tlk1OE02eXh6dw"
     },
     {
@@ -77,14 +85,6 @@
       "published_at": "Fri, 07 Aug 2026 20:30:35 GMT",
       "summary": "U.S. Stock Market Today – Friday, August 7, 2026 stl.news",
       "guid": "CBMic0FVX3lxTFBXUlhEVFpOTUNrUFlLay02R0wzYy1ZY1ZtdXphZ0ZveTVLLUMxZF9GZlFVbVlOVWNqcE5tZXlfX3lPcEI1OUpManVSQ3BCVmMza2NNblBFWHNONVA1SkRrRWxkMm54N3V4ekVWU295LXY0U3c"
-    },
-    {
-      "title": "Jobs Report Shockingly Weak, But Unemployment Falls (Live) - Investor's Business Daily",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbVozOHFaaVdOLThtSXUtNDdnMDBtNjgtSU1oYUNCVFJwMXVEdnk0UEVDQ0dicGJEOVZ1TnpBU0MyZ2pRMGdqeGpCSjRsTHBUTFN2UC1zeV95cmhteFJLRktSS3ZIc3NVVVpDYW1Td3JzVEtHTm9od2NMR0UwUU9paE9lbEhLRVd3TkpSNHlqRlptNDhFRGhYT1BXTDgzMXEx?oc=5",
-      "source": "Investor's Business Daily",
-      "published_at": "Fri, 07 Aug 2026 13:38:00 GMT",
-      "summary": "Jobs Report Shockingly Weak, But Unemployment Falls (Live) Investor's Business Daily",
-      "guid": "CBMioAFBVV95cUxPbVozOHFaaVdOLThtSXUtNDdnMDBtNjgtSU1oYUNCVFJwMXVEdnk0UEVDQ0dicGJEOVZ1TnpBU0MyZ2pRMGdqeGpCSjRsTHBUTFN2UC1zeV95cmhteFJLRktSS3ZIc3NVVVpDYW1Td3JzVEtHTm9od2NMR0UwUU9paE9lbEhLRVd3TkpSNHlqRlptNDhFRGhYT1BXTDgzMXEx"
     }
   ]
 }
