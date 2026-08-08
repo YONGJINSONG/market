@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T18:20:18Z",
+  "generated_at": "2026-08-08T19:05:41Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -15,12 +15,20 @@
       "guid": "CBMingFBVV95cUxNMkZtQko0MnVLNVNHeEdadDlwMUhYR25MN25vUnhRM21Wb0QxdjdaSUp4RkFDN1pmcFNtQl9ZcWtiY3lJLXVHUHBwd2ttdms1ZFRNUUZWRDFFOVVmYmRpdDQyMFJLV2JBZklma0wtcVNYdlBKS3FXVTZ2WWhuOThBMXIyRDQ5cFVWcHU4RTVqZ2F4SXpNRjRkX2NYLTdqdw"
     },
     {
-      "title": "What the Stock Market’s Record Rally Has to Do With Rescuing the Yen - The New York Times",
+      "title": "What the Stock Market’s Record Rally Has to Do With Rescuing the Yen - nytimes.com",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA1V0ZsTWlIOWFIaWtZXzVQODBRZTI4aTlFYUVGQ05JQUM3V2U2eHd1Z254bWl5M3ZDblJnRkR4QlUxLXpYZ0lDNDI0QzducnRXVDdBWm5aRG5qSmRXZEl5bnhiQ21GbC1ubkhOWWUyYU0yME51WURj?oc=5",
-      "source": "The New York Times",
+      "source": "nytimes.com",
       "published_at": "Wed, 05 Aug 2026 16:07:49 GMT",
-      "summary": "What the Stock Market’s Record Rally Has to Do With Rescuing the Yen The New York Times",
+      "summary": "What the Stock Market’s Record Rally Has to Do With Rescuing the Yen nytimes.com",
       "guid": "CBMid0FVX3lxTFA1V0ZsTWlIOWFIaWtZXzVQODBRZTI4aTlFYUVGQ05JQUM3V2U2eHd1Z254bWl5M3ZDblJnRkR4QlUxLXpYZ0lDNDI0QzducnRXVDdBWm5aRG5qSmRXZEl5bnhiQ21GbC1ubkhOWWUyYU0yME51WURj"
+    },
+    {
+      "title": "Wall St Week Ahead: Inflation data to test record-setting US stocks, Fed rate views - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT2tydC12dWhpUnJJXzhSQXpxNFR2S2VQamVXcTAwMms4YWNSZnVwSnJEeEtMMi1WZW1EQkc2dzJwSEt0V0hBc3N1VUxHODRfZkhodk5teVg0NHBGS2xBNHVTczA2U1NvTE4xR1Y0dlVDVE5mOWpqbnIzczZiZ1drb3d5V3VWX0xOLUgwakItMF9jTXZzR3hhNWZjRXlnaklZcFg4MDZzOGtZd2RaZkhsT1laaXpST3NUR2JtVFlCNEo?oc=5",
+      "source": "Reuters",
+      "published_at": "Fri, 07 Aug 2026 10:02:00 GMT",
+      "summary": "Wall St Week Ahead: Inflation data to test record-setting US stocks, Fed rate views Reuters",
+      "guid": "CBMiwAFBVV95cUxNT2tydC12dWhpUnJJXzhSQXpxNFR2S2VQamVXcTAwMms4YWNSZnVwSnJEeEtMMi1WZW1EQkc2dzJwSEt0V0hBc3N1VUxHODRfZkhodk5teVg0NHBGS2xBNHVTczA2U1NvTE4xR1Y0dlVDVE5mOWpqbnIzczZiZ1drb3d5V3VWX0xOLUgwakItMF9jTXZzR3hhNWZjRXlnaklZcFg4MDZzOGtZd2RaZkhsT1laaXpST3NUR2JtVFlCNEo"
     },
     {
       "title": "Why Kevin Warsh's Job Just Got a Lot Harder. And What It Means for the Stock Market. - The Motley Fool",
@@ -29,14 +37,6 @@
       "published_at": "Fri, 07 Aug 2026 19:22:00 GMT",
       "summary": "Why Kevin Warsh's Job Just Got a Lot Harder. And What It Means for the Stock Market. The Motley Fool",
       "guid": "CBMilwFBVV95cUxQY0dLSnlKWW5CcE9nV1YxZHBHdUkya05veE0wTDFobE5tTEY1eWhWaDN1cWU3TVJlWC15N2hyS0hMZ2x0WVgtUU5QaWtpWXA1Nklva09YRDRoYWh6NWFKcVI4eGRreWJsYXpBNTJWY1VCaG5ELWM0ckJXejJLZlk0cEZBRjluNnk1ZTl4VU5OLXphX0gzQmhr"
-    },
-    {
-      "title": "President Donald Trump Expected the Iran War to Drive the Stock Market \"Down 20% to 25%\" -- His Prophecy May Still Come True - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOWE5EeG1ROTRXMkpxT1B5X0pBaGczS3dfeFVZM3h0QlRvbmVVZGR5YUc4bVVCQllfNUZFYlRhV2lHMFVhVVZXYXBieHU4enNpWkxzT2hXUk5RT3k5eVpWdzMyZGFfclVBLWZwdHpNWGZ5dXNoMVZseUdqUUxBMHdvV1NKV1RuanhpOGhsZllsV09NdUpPVnBOVnhnTHpxQkpsUGdodXQ0czZjbmV2OXRBWXU2WjFyZGpncHZyN29oWjVPN2FOcUdGZWNhaDY1a2Q2U1pKc1o0allTenJpeWJvemhoXy1PYWFUSXVTVkNuaWQ5T1Y4OTJyeHpoaGhjYmN0QnozZldZRkg1WTdhRldoTFQxM2d2ZmZfb1ljUFhIUkRyVE9BRFBjVWU1SE4?oc=5",
-      "source": "The Globe and Mail",
-      "published_at": "Sat, 08 Aug 2026 13:33:15 GMT",
-      "summary": "President Donald Trump Expected the Iran War to Drive the Stock Market \"Down 20% to 25%\" -- His Prophecy May Still Come True The Globe and Mail",
-      "guid": "CBMirAJBVV95cUxOWE5EeG1ROTRXMkpxT1B5X0pBaGczS3dfeFVZM3h0QlRvbmVVZGR5YUc4bVVCQllfNUZFYlRhV2lHMFVhVVZXYXBieHU4enNpWkxzT2hXUk5RT3k5eVpWdzMyZGFfclVBLWZwdHpNWGZ5dXNoMVZseUdqUUxBMHdvV1NKV1RuanhpOGhsZllsV09NdUpPVnBOVnhnTHpxQkpsUGdodXQ0czZjbmV2OXRBWXU2WjFyZGpncHZyN29oWjVPN2FOcUdGZWNhaDY1a2Q2U1pKc1o0allTenJpeWJvemhoXy1PYWFUSXVTVkNuaWQ5T1Y4OTJyeHpoaGhjYmN0QnozZldZRkg1WTdhRldoTFQxM2d2ZmZfb1ljUFhIUkRyVE9BRFBjVWU1SE4"
     },
     {
       "title": "US Stocks Rally to Records as Inflation Data Test Federal Reserve Rate Outlook - Межа. Новини України.",
@@ -55,20 +55,20 @@
       "guid": "CBMihAFBVV95cUxOSERES2lGcGlzcE44UzJLUGdJY0RJc0xDRDVXbmlrVUxJS1ZtMjd6LWJvQmtZY2RSRVF5dDZxSUFkd3NNaEJPelFpUkZrUU5QaUVtMVFSWGVRODVaSDMwVVRiSFBYdkhCM2t2UmFhUEdjQWhNY21yV2pMMjdiY2tFeW9VMmE"
     },
     {
-      "title": "Trump considering renewing push to fire Lisa Cook from Federal Reserve Board - Fox Business",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ0xQTnBVUExIc3JZSnJvSG53Qk9EZ2x1MVpqcXR3a1JnYThxRjhYbS1qRC1pRVR0Um5XQTlnaVhOZ3hsQmZnb1loeTV2MDd3dTVpYUdPcV9kTUxiYUo3QmZpclYwWW9GOHZWYXZkcS1hZ2RKNDhLOFBnTFQyZzcxSjU0d0VSVGZja1BoMldvWmVmYUJyVHk5Y1h0VHNfczZhSU9QSDluVnhMOUNQdUHSAbMBQVVfeXFMTTAyUnpUNDNRaVM0MGxLZk5qMVZsN0xFSFQ4VHNYWGxHaklpeE14UjU1U0QtM0k1RDNQbDhtM3c3M194QTVtZjhpbGVTTS02SktvaTRWQ0dMMjRnQ3Ryajdib0tCRldxYlFwbDZDSUIzZUtTbHJnR3R4SXpSR3k5bXpNVDdjbnl5bGRHd1lZSmdnNHFjWEVhSmtlSTNxWjdPaUZlaDQ0SmZGZ1ZLU2ZCWmwzU28?oc=5",
-      "source": "Fox Business",
-      "published_at": "Fri, 07 Aug 2026 18:45:00 GMT",
-      "summary": "Trump considering renewing push to fire Lisa Cook from Federal Reserve Board Fox Business",
-      "guid": "CBMirgFBVV95cUxPQ0xQTnBVUExIc3JZSnJvSG53Qk9EZ2x1MVpqcXR3a1JnYThxRjhYbS1qRC1pRVR0Um5XQTlnaVhOZ3hsQmZnb1loeTV2MDd3dTVpYUdPcV9kTUxiYUo3QmZpclYwWW9GOHZWYXZkcS1hZ2RKNDhLOFBnTFQyZzcxSjU0d0VSVGZja1BoMldvWmVmYUJyVHk5Y1h0VHNfczZhSU9QSDluVnhMOUNQdUHSAbMBQVVfeXFMTTAyUnpUNDNRaVM0MGxLZk5qMVZsN0xFSFQ4VHNYWGxHaklpeE14UjU1U0QtM0k1RDNQbDhtM3c3M194QTVtZjhpbGVTTS02SktvaTRWQ0dMMjRnQ3Ryajdib0tCRldxYlFwbDZDSUIzZUtTbHJnR3R4SXpSR3k5bXpNVDdjbnl5bGRHd1lZSmdnNHFjWEVhSmtlSTNxWjdPaUZlaDQ0SmZGZ1ZLU2ZCWmwzU28"
-    },
-    {
       "title": "ONE CYR'S VIEW: The steady course of the Federal Reserve - Imperial Valley Press Online",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWDUxUUw5WE1MeWtZaXpoR3pNcWtpS2swYWJ4X1lXMXVSYnJGeU5sa1kzSFJMTlltYlZrYUg0a1lWdTZ2M01weHRhcmNMU3lGUjlVd2RSNTNLTlo2d1V5U00yVnVta0hDc1VDQ3ZkU0xMc3pFNzNkVkk2TFBhVVlPeWVocWlkc0Z6bXIzUEQ5TllQR2dkVHp0M2RoMUpLbDMzSlVyWVZ6WGJQODFaZE5yVl9hY3ZuY1ZpU0ViLVRQLVZaeGFjOVN0ZHhTTllXSU01Tlk1OE02eXh6dw?oc=5",
       "source": "Imperial Valley Press Online",
       "published_at": "Thu, 06 Aug 2026 07:00:00 GMT",
       "summary": "ONE CYR'S VIEW: The steady course of the Federal Reserve Imperial Valley Press Online",
       "guid": "CBMi2gFBVV95cUxNWDUxUUw5WE1MeWtZaXpoR3pNcWtpS2swYWJ4X1lXMXVSYnJGeU5sa1kzSFJMTlltYlZrYUg0a1lWdTZ2M01weHRhcmNMU3lGUjlVd2RSNTNLTlo2d1V5U00yVnVta0hDc1VDQ3ZkU0xMc3pFNzNkVkk2TFBhVVlPeWVocWlkc0Z6bXIzUEQ5TllQR2dkVHp0M2RoMUpLbDMzSlVyWVZ6WGJQODFaZE5yVl9hY3ZuY1ZpU0ViLVRQLVZaeGFjOVN0ZHhTTllXSU01Tlk1OE02eXh6dw"
+    },
+    {
+      "title": "Trump considering renewing push to fire Lisa Cook from Federal Reserve Board - Fox Business",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ0xQTnBVUExIc3JZSnJvSG53Qk9EZ2x1MVpqcXR3a1JnYThxRjhYbS1qRC1pRVR0Um5XQTlnaVhOZ3hsQmZnb1loeTV2MDd3dTVpYUdPcV9kTUxiYUo3QmZpclYwWW9GOHZWYXZkcS1hZ2RKNDhLOFBnTFQyZzcxSjU0d0VSVGZja1BoMldvWmVmYUJyVHk5Y1h0VHNfczZhSU9QSDluVnhMOUNQdUHSAbMBQVVfeXFMTTAyUnpUNDNRaVM0MGxLZk5qMVZsN0xFSFQ4VHNYWGxHaklpeE14UjU1U0QtM0k1RDNQbDhtM3c3M194QTVtZjhpbGVTTS02SktvaTRWQ0dMMjRnQ3Ryajdib0tCRldxYlFwbDZDSUIzZUtTbHJnR3R4SXpSR3k5bXpNVDdjbnl5bGRHd1lZSmdnNHFjWEVhSmtlSTNxWjdPaUZlaDQ0SmZGZ1ZLU2ZCWmwzU28?oc=5",
+      "source": "Fox Business",
+      "published_at": "Fri, 07 Aug 2026 18:45:00 GMT",
+      "summary": "Trump considering renewing push to fire Lisa Cook from Federal Reserve Board Fox Business",
+      "guid": "CBMirgFBVV95cUxPQ0xQTnBVUExIc3JZSnJvSG53Qk9EZ2x1MVpqcXR3a1JnYThxRjhYbS1qRC1pRVR0Um5XQTlnaVhOZ3hsQmZnb1loeTV2MDd3dTVpYUdPcV9kTUxiYUo3QmZpclYwWW9GOHZWYXZkcS1hZ2RKNDhLOFBnTFQyZzcxSjU0d0VSVGZja1BoMldvWmVmYUJyVHk5Y1h0VHNfczZhSU9QSDluVnhMOUNQdUHSAbMBQVVfeXFMTTAyUnpUNDNRaVM0MGxLZk5qMVZsN0xFSFQ4VHNYWGxHaklpeE14UjU1U0QtM0k1RDNQbDhtM3c3M194QTVtZjhpbGVTTS02SktvaTRWQ0dMMjRnQ3Ryajdib0tCRldxYlFwbDZDSUIzZUtTbHJnR3R4SXpSR3k5bXpNVDdjbnl5bGRHd1lZSmdnNHFjWEVhSmtlSTNxWjdPaUZlaDQ0SmZGZ1ZLU2ZCWmwzU28"
     },
     {
       "title": "White House renews its attempt to remove Fed Governor Lisa Cook - CNN",
