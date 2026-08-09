@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T10:50:12Z",
+  "generated_at": "2026-08-09T11:19:07Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -23,20 +23,12 @@
       "guid": "CBMilwFBVV95cUxNZlhBejhhZWNUdDRiX05LWHFRaGJhX0ltazRRWTFPZWdvazNWX0U1WDg4NmpIb0swb1dsR21KTzg2MUc5Z21ORnJXdWFxX2xybjdsOG1lUnV4aWs3TWw3QmR5TUFfMDZ5Qkc5WVhxSWVXT2dUZDVneUxqRms3V1dBeDJvUzJtT1R4Z01NYlZNbXBBNnVBWWdF"
     },
     {
-      "title": "Why a Fed Rate Cut Is Coming and How the Market Will React - Barron's",
+      "title": "Why a Fed Rate Cut Is Coming and How the Market Will React - barrons.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSERES2lGcGlzcE44UzJLUGdJY0RJc0xDRDVXbmlrVUxJS1ZtMjd6LWJvQmtZY2RSRVF5dDZxSUFkd3NNaEJPelFpUkZrUU5QaUVtMVFSWGVRODVaSDMwVVRiSFBYdkhCM2t2UmFhUEdjQWhNY21yV2pMMjdiY2tFeW9VMmE?oc=5",
-      "source": "Barron's",
+      "source": "barrons.com",
       "published_at": "Thu, 06 Aug 2026 19:15:00 GMT",
-      "summary": "Why a Fed Rate Cut Is Coming and How the Market Will React Barron's",
+      "summary": "Why a Fed Rate Cut Is Coming and How the Market Will React barrons.com",
       "guid": "CBMihAFBVV95cUxOSERES2lGcGlzcE44UzJLUGdJY0RJc0xDRDVXbmlrVUxJS1ZtMjd6LWJvQmtZY2RSRVF5dDZxSUFkd3NNaEJPelFpUkZrUU5QaUVtMVFSWGVRODVaSDMwVVRiSFBYdkhCM2t2UmFhUEdjQWhNY21yV2pMMjdiY2tFeW9VMmE"
-    },
-    {
-      "title": "Wall Street closes at a record high after best week for stocks since April - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQV3dVSk9aRHRWTGJxemxaUWp6QUFDZ0ZHT21fblJXTUdrNnZPNGtJbHk5SC1CV3p1aTVkV3ktWGNjUHpaaWZGWmp5d0RMUGF5dmNtY1hMcnRjcDhIV1E5RGc1aVp1YVR5cWROMk9vRlRlNDhjeXhtVjRzOTZSYzdnRTJiYkpnSG83cnNjb1BkWG1xNjE3bERvNFZlQmxDMXFINTVhcU12R005RXplUHZGT2dFU3p6dw?oc=5",
-      "source": "Investing.com",
-      "published_at": "Fri, 07 Aug 2026 00:47:55 GMT",
-      "summary": "Wall Street closes at a record high after best week for stocks since April Investing.com",
-      "guid": "CBMitgFBVV95cUxQV3dVSk9aRHRWTGJxemxaUWp6QUFDZ0ZHT21fblJXTUdrNnZPNGtJbHk5SC1CV3p1aTVkV3ktWGNjUHpaaWZGWmp5d0RMUGF5dmNtY1hMcnRjcDhIV1E5RGc1aVp1YVR5cWROMk9vRlRlNDhjeXhtVjRzOTZSYzdnRTJiYkpnSG83cnNjb1BkWG1xNjE3bERvNFZlQmxDMXFINTVhcU12R005RXplUHZGT2dFU3p6dw"
     },
     {
       "title": "ONE CYR'S VIEW: The steady course of the Federal Reserve - Imperial Valley Press Online",
@@ -45,6 +37,14 @@
       "published_at": "Thu, 06 Aug 2026 07:00:00 GMT",
       "summary": "ONE CYR'S VIEW: The steady course of the Federal Reserve Imperial Valley Press Online",
       "guid": "CBMi2gFBVV95cUxNWDUxUUw5WE1MeWtZaXpoR3pNcWtpS2swYWJ4X1lXMXVSYnJGeU5sa1kzSFJMTlltYlZrYUg0a1lWdTZ2M01weHRhcmNMU3lGUjlVd2RSNTNLTlo2d1V5U00yVnVta0hDc1VDQ3ZkU0xMc3pFNzNkVkk2TFBhVVlPeWVocWlkc0Z6bXIzUEQ5TllQR2dkVHp0M2RoMUpLbDMzSlVyWVZ6WGJQODFaZE5yVl9hY3ZuY1ZpU0ViLVRQLVZaeGFjOVN0ZHhTTllXSU01Tlk1OE02eXh6dw"
+    },
+    {
+      "title": "Wall Street closes at a record high after best week for stocks since April - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQV3dVSk9aRHRWTGJxemxaUWp6QUFDZ0ZHT21fblJXTUdrNnZPNGtJbHk5SC1CV3p1aTVkV3ktWGNjUHpaaWZGWmp5d0RMUGF5dmNtY1hMcnRjcDhIV1E5RGc1aVp1YVR5cWROMk9vRlRlNDhjeXhtVjRzOTZSYzdnRTJiYkpnSG83cnNjb1BkWG1xNjE3bERvNFZlQmxDMXFINTVhcU12R005RXplUHZGT2dFU3p6dw?oc=5",
+      "source": "Investing.com",
+      "published_at": "Fri, 07 Aug 2026 00:47:55 GMT",
+      "summary": "Wall Street closes at a record high after best week for stocks since April Investing.com",
+      "guid": "CBMitgFBVV95cUxQV3dVSk9aRHRWTGJxemxaUWp6QUFDZ0ZHT21fblJXTUdrNnZPNGtJbHk5SC1CV3p1aTVkV3ktWGNjUHpaaWZGWmp5d0RMUGF5dmNtY1hMcnRjcDhIV1E5RGc1aVp1YVR5cWROMk9vRlRlNDhjeXhtVjRzOTZSYzdnRTJiYkpnSG83cnNjb1BkWG1xNjE3bERvNFZlQmxDMXFINTVhcU12R005RXplUHZGT2dFU3p6dw"
     },
     {
       "title": "White House renews its attempt to remove Fed Governor Lisa Cook - CNN",
