@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-08-10T09:44:38Z",
+  "generated_at": "2026-08-10T10:46:58Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "How Kevin Warsh is rewiring the Fed - Axios",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8teTJqbjhiWFJIbWJ2emRScjZZRzVZWF9NLXNVb2k4Q2g0NTFlZzdmSC1JQ2phc0F2X0RHMFBoRE9DRUdXZllqZGhPZ1dtS0xzWV9YNXByRlVMdFIxZERKTU5QcERtdm5PTFVRcXIteDJod0k?oc=5",
+      "source": "Axios",
+      "published_at": "Mon, 10 Aug 2026 09:04:42 GMT",
+      "summary": "How Kevin Warsh is rewiring the Fed Axios",
+      "guid": "CBMic0FVX3lxTE8teTJqbjhiWFJIbWJ2emRScjZZRzVZWF9NLXNVb2k4Q2g0NTFlZzdmSC1JQ2phc0F2X0RHMFBoRE9DRUdXZllqZGhPZ1dtS0xzWV9YNXByRlVMdFIxZERKTU5QcERtdm5PTFVRcXIteDJod0k"
+    },
     {
       "title": "Stock Market Investors Just Got Bad News From the Federal Reserve - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYmRTTHRPT2xya2JSUFd2Nld3TXFvQlRGUmxsREUwWUFBSERFNm5ITEJLUXYwMTVQRzRScUtKZExpcEloSDFwM2UwV2p2bks0czctZDFtcl80N0VyWUVKWmJLakNLQnNtUG96WW1KUVB1RlN1T1pwZlAyOEtOZ3k3Unc3clpmQ3Zta3BzSGRjTzlOZERPdThFVkNGUmc?oc=5",
@@ -31,11 +39,11 @@
       "guid": "CBMidEFVX3lxTE1xMzQ4QnhGQUZCUkp2dGU2dVhqSlFCaEJYLXZPa1lKaTZuVWpLa0ZON2prZk5HaXBsUUYyODlxX1RTMkdzcC1Ha3pOcDM1WHJsU3JFZ1VXRnExNDBoZ2FoREZYUWg4bVVlOG8tMDlZMDRTekFj"
     },
     {
-      "title": "White House renews its attempt to remove Fed Governor Lisa Cook - CNN",
+      "title": "White House renews its attempt to remove Fed Governor Lisa Cook - cnn.com",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE04ODZWcHFfUU44aERoSVV4TDdJUmxRZDJHcDk3RXVFRXlzaWdmeGhfNWx5R0pNb2NKazlzNUFqamNZM1FrNWVoSDF0VDBFRm45QUV3LUlaM3RKbFByT3dFRGtzRllLV3JpRWJ2T3hTenZlTHlqWXFr?oc=5",
-      "source": "CNN",
+      "source": "cnn.com",
       "published_at": "Fri, 07 Aug 2026 18:46:05 GMT",
-      "summary": "White House renews its attempt to remove Fed Governor Lisa Cook CNN",
+      "summary": "White House renews its attempt to remove Fed Governor Lisa Cook cnn.com",
       "guid": "CBMid0FVX3lxTE04ODZWcHFfUU44aERoSVV4TDdJUmxRZDJHcDk3RXVFRXlzaWdmeGhfNWx5R0pNb2NKazlzNUFqamNZM1FrNWVoSDF0VDBFRm45QUV3LUlaM3RKbFByT3dFRGtzRllLV3JpRWJ2T3hTenZlTHlqWXFr"
     },
     {
@@ -45,14 +53,6 @@
       "published_at": "Fri, 07 Aug 2026 11:00:00 GMT",
       "summary": "Why The Federal Reserve Might Hike Rates After The July CPI Report (NASDAQ:TLT) Seeking Alpha",
       "guid": "CBMiqwFBVV95cUxOVmFDSXlCc2N5ZTlzTUgxRUNEbnVlMUdkQXRvdWJZTnE2WnZPV0pTM1VmeXRIZmRjbGhOUXkteE13Uno0ME5wUzhxRldHR3JOZUNFWXlvbUhqd0JCdERoa2pfV0ctM3RsUnl2S3FhcUhHWkx5V1R6bUVyZjBOcm1kN2dGTXgzMWxteDhzWlU4S3dOSWJHZTJPY1BtbUVDUXVsdGNFb3FRRlNnYVU"
-    },
-    {
-      "title": "The Fed Faces a Credibility Crisis—and the Stock Market Will Pay the Price - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPd2k2UGxNOFRzM21hRG16dV9VTGt0NnFTYmNXOVZzazNqZ2ZTVGppSWNuR09haFNhMjIzVkhIV3ZqQkZpYWNKbGN5QUMzcEI5NEFLdmYwRG1NdFFRMkhvRFd0TU0yazV4aTRyZ1UzX29EU2NaaHp3R3FZaTI5ZDNpZHJuUkNDT2M4azB3?oc=5",
-      "source": "Barron's",
-      "published_at": "Thu, 30 Jul 2026 07:00:00 GMT",
-      "summary": "The Fed Faces a Credibility Crisis—and the Stock Market Will Pay the Price Barron's",
-      "guid": "CBMiiwFBVV95cUxPd2k2UGxNOFRzM21hRG16dV9VTGt0NnFTYmNXOVZzazNqZ2ZTVGppSWNuR09haFNhMjIzVkhIV3ZqQkZpYWNKbGN5QUMzcEI5NEFLdmYwRG1NdFFRMkhvRFd0TU0yazV4aTRyZ1UzX29EU2NaaHp3R3FZaTI5ZDNpZHJuUkNDT2M4azB3"
     },
     {
       "title": "Jobs Report Shockingly Weak, But Unemployment Falls (Live) - Investor's Business Daily",
@@ -71,11 +71,11 @@
       "guid": "CBMiY0FVX3lxTE1CeFdkQlY5b1lmeHB1MWN6WHU5OTFsV3JrMjBCM2NUUnl5d09uZEM3TWJkeHgwX0xqZUNMYnYySDZveXZpVjd4WkhfSDZBdDZyR1VLSVh2anRkTWVqY0xhcW9LNA"
     },
     {
-      "title": "The Federal Reserve Just Released Its August Inflation Forecast, and It Could Put the FOMC on a Collision Course for Its September Meeting - The Motley Fool",
+      "title": "The Federal Reserve Just Released Its August Inflation Forecast, and It Could Put the FOMC on a Collision Course for Its September Meeting - fool.com",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQXg0bTE5SVRCMS1RN18ycnNUTk80eXY0SGQ1ZWhCMmhTdDZQTDM1QlhBR3F3dFA4SHd0RC0teGNfeU4wVHJJMjY0SFZ0N19zVEZLcjBUdkNjZ0pRNE90WUNPZ0U5TWNHTUM0NktMM3dabGRZcFFIcjM4VHAtOGRlVTdVY1VCNk94Y0xlSm1IZFhBbHc?oc=5",
-      "source": "The Motley Fool",
+      "source": "fool.com",
       "published_at": "Mon, 10 Aug 2026 00:08:00 GMT",
-      "summary": "The Federal Reserve Just Released Its August Inflation Forecast, and It Could Put the FOMC on a Collision Course for Its September Meeting The Motley Fool",
+      "summary": "The Federal Reserve Just Released Its August Inflation Forecast, and It Could Put the FOMC on a Collision Course for Its September Meeting fool.com",
       "guid": "CBMikwFBVV95cUxOQXg0bTE5SVRCMS1RN18ycnNUTk80eXY0SGQ1ZWhCMmhTdDZQTDM1QlhBR3F3dFA4SHd0RC0teGNfeU4wVHJJMjY0SFZ0N19zVEZLcjBUdkNjZ0pRNE90WUNPZ0U5TWNHTUM0NktMM3dabGRZcFFIcjM4VHAtOGRlVTdVY1VCNk94Y0xlSm1IZFhBbHc"
     },
     {
