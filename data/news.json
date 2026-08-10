@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T11:40:07Z",
+  "generated_at": "2026-08-10T12:29:13Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -23,20 +23,52 @@
       "guid": "CBMiqAFBVV95cUxQLXhnS0h0UE1SazlYbS1jcjc1ZXdLQ3hQNFFLcUFtVWE1UGZtLW1PQWFWY0x6TW9wRmFINXBmaXlJOThjemE5Q2JtWm1BTno1SERxeDFHMDJCUjhWWkQ5M3lqeEVNUGk2bG9Mem1wOS10S3p1eUVHMUJGSUM2clgtUDNHZWRRVld5dUZ1OXFpbHcxaVNVdWUyWUhJd2ZlekNlZUE0bktBZHg"
     },
     {
-      "title": "The Bond Market Is Signaling Rising Risks. Investors Should Listen. - nytimes.com",
+      "title": "The U.S. economy is shedding jobs. Here’s why that’s good news for stocks. - MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUjlkanpTc19RQUp0ZGdIRnhQWnVqWDY4eTh1V2dyZzZlVlJYMG9CWEV2c2tXRkU5cGpJYmY1UC1DSDk4WnZhODBUcll5dWlkVGhyWkpJMHlmMkNxZzgyTFpDeXh1dFpGSzJVWVQ0bW1kWDBCWEFtZTVjUlJYWGVXYm1ObnUzUlN2aGxwSXhaV0xDRXJNZVhOYnJ6YnhRQVFaeEQ1ck54c242dw?oc=5",
+      "source": "MarketWatch",
+      "published_at": "Mon, 10 Aug 2026 11:11:00 GMT",
+      "summary": "The U.S. economy is shedding jobs. Here’s why that’s good news for stocks. MarketWatch",
+      "guid": "CBMiqgFBVV95cUxQUjlkanpTc19RQUp0ZGdIRnhQWnVqWDY4eTh1V2dyZzZlVlJYMG9CWEV2c2tXRkU5cGpJYmY1UC1DSDk4WnZhODBUcll5dWlkVGhyWkpJMHlmMkNxZzgyTFpDeXh1dFpGSzJVWVQ0bW1kWDBCWEFtZTVjUlJYWGVXYm1ObnUzUlN2aGxwSXhaV0xDRXJNZVhOYnJ6YnhRQVFaeEQ1ck54c242dw"
+    },
+    {
+      "title": "U.S. stocks closed at record highs Friday as July job losses eased Fed rate-hike concerns - eciks.org",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWVhMYVl2b2kzNnFMVGlSMktFUjdnLXd1VUJXWTIwNHNzdzQzVmJnV1V3SnM4cE9SVHdjemowSDZnd2RBdjU0b05TYjRMLUswZWtsdE9RQmZfZzFXWnJrZkFneDJfUGppTWpwRFRYQlZ3UG1NZkFOTDF1ZHlaVnNRUw?oc=5",
+      "source": "eciks.org",
+      "published_at": "Mon, 10 Aug 2026 11:02:08 GMT",
+      "summary": "U.S. stocks closed at record highs Friday as July job losses eased Fed rate-hike concerns eciks.org",
+      "guid": "CBMigAFBVV95cUxOWVhMYVl2b2kzNnFMVGlSMktFUjdnLXd1VUJXWTIwNHNzdzQzVmJnV1V3SnM4cE9SVHdjemowSDZnd2RBdjU0b05TYjRMLUswZWtsdE9RQmZfZzFXWnJrZkFneDJfUGppTWpwRFRYQlZ3UG1NZkFOTDF1ZHlaVnNRUw"
+    },
+    {
+      "title": "Emerging-Market Stocks, Currencies Gain After Soft US Jobs Data - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMTdHMjlSQUY4dE90bFF2YXM1NkRudnQ1TkFKMlczeTg5OGtFenRSeGtJdWYzT1U0UmU2NlhINktFY01SS1NyTExDV01IbW83WV9MellHcHVZYlRPSlE2cVJMTnFTcWNDcFBBLXFHc093alo1cGJ5R1ZJRFJIQUlBRXZIbTdaQXh1OEp6SHdidnlETUI2aXJ2UUktVVpING8zaFo4ZmtrM2tyOUI0OW1LR0UtNA?oc=5",
+      "source": "Bloomberg.com",
+      "published_at": "Mon, 10 Aug 2026 08:19:59 GMT",
+      "summary": "Emerging-Market Stocks, Currencies Gain After Soft US Jobs Data Bloomberg.com",
+      "guid": "CBMiswFBVV95cUxQMTdHMjlSQUY4dE90bFF2YXM1NkRudnQ1TkFKMlczeTg5OGtFenRSeGtJdWYzT1U0UmU2NlhINktFY01SS1NyTExDV01IbW83WV9MellHcHVZYlRPSlE2cVJMTnFTcWNDcFBBLXFHc093alo1cGJ5R1ZJRFJIQUlBRXZIbTdaQXh1OEp6SHdidnlETUI2aXJ2UUktVVpING8zaFo4ZmtrM2tyOUI0OW1LR0UtNA"
+    },
+    {
+      "title": "The Bond Market Is Signaling Rising Risks. Investors Should Listen. - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZlhBejhhZWNUdDRiX05LWHFRaGJhX0ltazRRWTFPZWdvazNWX0U1WDg4NmpIb0swb1dsR21KTzg2MUc5Z21ORnJXdWFxX2xybjdsOG1lUnV4aWs3TWw3QmR5TUFfMDZ5Qkc5WVhxSWVXT2dUZDVneUxqRms3V1dBeDJvUzJtT1R4Z01NYlZNbXBBNnVBWWdF?oc=5",
-      "source": "nytimes.com",
+      "source": "The New York Times",
       "published_at": "Fri, 07 Aug 2026 13:00:06 GMT",
-      "summary": "The Bond Market Is Signaling Rising Risks. Investors Should Listen. nytimes.com",
+      "summary": "The Bond Market Is Signaling Rising Risks. Investors Should Listen. The New York Times",
       "guid": "CBMilwFBVV95cUxNZlhBejhhZWNUdDRiX05LWHFRaGJhX0ltazRRWTFPZWdvazNWX0U1WDg4NmpIb0swb1dsR21KTzg2MUc5Z21ORnJXdWFxX2xybjdsOG1lUnV4aWs3TWw3QmR5TUFfMDZ5Qkc5WVhxSWVXT2dUZDVneUxqRms3V1dBeDJvUzJtT1R4Z01NYlZNbXBBNnVBWWdF"
     },
     {
-      "title": "Stock Market Investors Just Got Bad News From the Federal Reserve - The Motley Fool",
+      "title": "Stock Market Investors Just Got Bad News From the Federal Reserve - fool.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU0x1Uml3U2JwWVNjbDZjSUNkWVBTUkE3Vk5FS09sWFp3VE5kRDBYckZkUDU2c05uaVBsRTI0RXZXQmw5ZndNSk5BdUVUY01jNGNoOXhCRUtyc1dkTll0ZFJvOFhDbGtiT3l1NmpOdk5Lc3JHdktBU29XMjR2YXNaZHVQYmotMlItZVNPVkVabGhSMDJ2?oc=5",
-      "source": "The Motley Fool",
+      "source": "fool.com",
       "published_at": "Sun, 09 Aug 2026 09:12:00 GMT",
-      "summary": "Stock Market Investors Just Got Bad News From the Federal Reserve The Motley Fool",
+      "summary": "Stock Market Investors Just Got Bad News From the Federal Reserve fool.com",
       "guid": "CBMilAFBVV95cUxQU0x1Uml3U2JwWVNjbDZjSUNkWVBTUkE3Vk5FS09sWFp3VE5kRDBYckZkUDU2c05uaVBsRTI0RXZXQmw5ZndNSk5BdUVUY01jNGNoOXhCRUtyc1dkTll0ZFJvOFhDbGtiT3l1NmpOdk5Lc3JHdktBU29XMjR2YXNaZHVQYmotMlItZVNPVkVabGhSMDJ2"
+    },
+    {
+      "title": "Stock Market Today: Dow Futures Slip, S&P 500 Gains as Trump Says US Is 'Only Semi-Negotiating' With Iran—T. Rowe Price, Plug Power, BIO-Key in Focus - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPOGs5YVdIMTNGeGxid3B4RlREVDJ5UFNVMnp2bTZOLThrOHJKRVNkcElJNEhQLUFWeUxhT2FhOVdWeng3OTZtWlJOLVFfU2tLR3NSSmtxWF9RSmo2S0llQ085QnZIb0NKMU1hUmpDUW5FOW9fRFppeHRjVE5OQXR4MlNPNmlMb3BmaHZVV1EyNWJNeEx2anhDZlItUUtmTUxsTDg2WnRHbGRPMDJ2QnpSa0Y0TlN5Z3I4YldxRkRvendPT0FQODA2TmMxWTFrMTdhOUlqcXNWdnYwVXY4Z0x5WG12ZWV1MlQ3c1JFYjRMMG53bHpKdG1XQzFiRG84RkYxX2hYZmNaQ01kdlQyM0dpZ1JJSDFjVzc5NFlPaWVUbE8yMHF6TjB4VA?oc=5",
+      "source": "TradingView",
+      "published_at": "Mon, 10 Aug 2026 10:09:33 GMT",
+      "summary": "Stock Market Today: Dow Futures Slip, S&P 500 Gains as Trump Says US Is 'Only Semi-Negotiating' With Iran—T. Rowe Price, Plug Power, BIO-Key in Focus TradingView",
+      "guid": "CBMiqAJBVV95cUxPOGs5YVdIMTNGeGxid3B4RlREVDJ5UFNVMnp2bTZOLThrOHJKRVNkcElJNEhQLUFWeUxhT2FhOVdWeng3OTZtWlJOLVFfU2tLR3NSSmtxWF9RSmo2S0llQ085QnZIb0NKMU1hUmpDUW5FOW9fRFppeHRjVE5OQXR4MlNPNmlMb3BmaHZVV1EyNWJNeEx2anhDZlItUUtmTUxsTDg2WnRHbGRPMDJ2QnpSa0Y0TlN5Z3I4YldxRkRvendPT0FQODA2TmMxWTFrMTdhOUlqcXNWdnYwVXY4Z0x5WG12ZWV1MlQ3c1JFYjRMMG53bHpKdG1XQzFiRG84RkYxX2hYZmNaQ01kdlQyM0dpZ1JJSDFjVzc5NFlPaWVUbE8yMHF6TjB4VA"
     },
     {
       "title": "Stock Market Warning August 2026: What Investors Need to Know Now - Intellectia AI",
@@ -53,38 +85,6 @@
       "published_at": "Fri, 07 Aug 2026 18:46:05 GMT",
       "summary": "White House renews its attempt to remove Fed Governor Lisa Cook CNN",
       "guid": "CBMid0FVX3lxTE04ODZWcHFfUU44aERoSVV4TDdJUmxRZDJHcDk3RXVFRXlzaWdmeGhfNWx5R0pNb2NKazlzNUFqamNZM1FrNWVoSDF0VDBFRm45QUV3LUlaM3RKbFByT3dFRGtzRllLV3JpRWJ2T3hTenZlTHlqWXFr"
-    },
-    {
-      "title": "S&P 500 hits record high as weak jobs report eases rate fears - eciks.org",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1xMzQ4QnhGQUZCUkp2dGU2dVhqSlFCaEJYLXZPa1lKaTZuVWpLa0ZON2prZk5HaXBsUUYyODlxX1RTMkdzcC1Ha3pOcDM1WHJsU3JFZ1VXRnExNDBoZ2FoREZYUWg4bVVlOG8tMDlZMDRTekFj?oc=5",
-      "source": "eciks.org",
-      "published_at": "Sun, 09 Aug 2026 11:02:16 GMT",
-      "summary": "S&P 500 hits record high as weak jobs report eases rate fears eciks.org",
-      "guid": "CBMidEFVX3lxTE1xMzQ4QnhGQUZCUkp2dGU2dVhqSlFCaEJYLXZPa1lKaTZuVWpLa0ZON2prZk5HaXBsUUYyODlxX1RTMkdzcC1Ha3pOcDM1WHJsU3JFZ1VXRnExNDBoZ2FoREZYUWg4bVVlOG8tMDlZMDRTekFj"
-    },
-    {
-      "title": "Jobs Report Shockingly Weak, But Unemployment Falls (Live) - Investor's Business Daily",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbVozOHFaaVdOLThtSXUtNDdnMDBtNjgtSU1oYUNCVFJwMXVEdnk0UEVDQ0dicGJEOVZ1TnpBU0MyZ2pRMGdqeGpCSjRsTHBUTFN2UC1zeV95cmhteFJLRktSS3ZIc3NVVVpDYW1Td3JzVEtHTm9od2NMR0UwUU9paE9lbEhLRVd3TkpSNHlqRlptNDhFRGhYT1BXTDgzMXEx?oc=5",
-      "source": "Investor's Business Daily",
-      "published_at": "Fri, 07 Aug 2026 13:38:00 GMT",
-      "summary": "Jobs Report Shockingly Weak, But Unemployment Falls (Live) Investor's Business Daily",
-      "guid": "CBMioAFBVV95cUxPbVozOHFaaVdOLThtSXUtNDdnMDBtNjgtSU1oYUNCVFJwMXVEdnk0UEVDQ0dicGJEOVZ1TnpBU0MyZ2pRMGdqeGpCSjRsTHBUTFN2UC1zeV95cmhteFJLRktSS3ZIc3NVVVpDYW1Td3JzVEtHTm9od2NMR0UwUU9paE9lbEhLRVd3TkpSNHlqRlptNDhFRGhYT1BXTDgzMXEx"
-    },
-    {
-      "title": "The Federal Reserve Just Released Its August Inflation Forecast, and It Could Put the FOMC on a Collision Course for Its September Meeting - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQXg0bTE5SVRCMS1RN18ycnNUTk80eXY0SGQ1ZWhCMmhTdDZQTDM1QlhBR3F3dFA4SHd0RC0teGNfeU4wVHJJMjY0SFZ0N19zVEZLcjBUdkNjZ0pRNE90WUNPZ0U5TWNHTUM0NktMM3dabGRZcFFIcjM4VHAtOGRlVTdVY1VCNk94Y0xlSm1IZFhBbHc?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Mon, 10 Aug 2026 00:08:00 GMT",
-      "summary": "The Federal Reserve Just Released Its August Inflation Forecast, and It Could Put the FOMC on a Collision Course for Its September Meeting The Motley Fool",
-      "guid": "CBMikwFBVV95cUxOQXg0bTE5SVRCMS1RN18ycnNUTk80eXY0SGQ1ZWhCMmhTdDZQTDM1QlhBR3F3dFA4SHd0RC0teGNfeU4wVHJJMjY0SFZ0N19zVEZLcjBUdkNjZ0pRNE90WUNPZ0U5TWNHTUM0NktMM3dabGRZcFFIcjM4VHAtOGRlVTdVY1VCNk94Y0xlSm1IZFhBbHc"
-    },
-    {
-      "title": "The Fed Faces a Credibility Crisis—and the Stock Market Will Pay the Price - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPd2k2UGxNOFRzM21hRG16dV9VTGt0NnFTYmNXOVZzazNqZ2ZTVGppSWNuR09haFNhMjIzVkhIV3ZqQkZpYWNKbGN5QUMzcEI5NEFLdmYwRG1NdFFRMkhvRFd0TU0yazV4aTRyZ1UzX29EU2NaaHp3R3FZaTI5ZDNpZHJuUkNDT2M4azB3?oc=5",
-      "source": "Barron's",
-      "published_at": "Thu, 30 Jul 2026 07:00:00 GMT",
-      "summary": "The Fed Faces a Credibility Crisis—and the Stock Market Will Pay the Price Barron's",
-      "guid": "CBMiiwFBVV95cUxPd2k2UGxNOFRzM21hRG16dV9VTGt0NnFTYmNXOVZzazNqZ2ZTVGppSWNuR09haFNhMjIzVkhIV3ZqQkZpYWNKbGN5QUMzcEI5NEFLdmYwRG1NdFFRMkhvRFd0TU0yazV4aTRyZ1UzX29EU2NaaHp3R3FZaTI5ZDNpZHJuUkNDT2M4azB3"
     }
   ]
 }
