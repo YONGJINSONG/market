@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T04:16:15Z",
+  "generated_at": "2026-08-11T05:32:22Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,11 +7,19 @@
   },
   "items": [
     {
-      "title": "Federal Reserve Outlook Lifts Asian Stock Markets - finance.yahoo.com",
+      "title": "The Bond Market Is Signaling Rising Risks. Investors Should Listen. - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZlhBejhhZWNUdDRiX05LWHFRaGJhX0ltazRRWTFPZWdvazNWX0U1WDg4NmpIb0swb1dsR21KTzg2MUc5Z21ORnJXdWFxX2xybjdsOG1lUnV4aWs3TWw3QmR5TUFfMDZ5Qkc5WVhxSWVXT2dUZDVneUxqRms3V1dBeDJvUzJtT1R4Z01NYlZNbXBBNnVBWWdF?oc=5",
+      "source": "The New York Times",
+      "published_at": "Fri, 07 Aug 2026 13:00:06 GMT",
+      "summary": "The Bond Market Is Signaling Rising Risks. Investors Should Listen. The New York Times",
+      "guid": "CBMilwFBVV95cUxNZlhBejhhZWNUdDRiX05LWHFRaGJhX0ltazRRWTFPZWdvazNWX0U1WDg4NmpIb0swb1dsR21KTzg2MUc5Z21ORnJXdWFxX2xybjdsOG1lUnV4aWs3TWw3QmR5TUFfMDZ5Qkc5WVhxSWVXT2dUZDVneUxqRms3V1dBeDJvUzJtT1R4Z01NYlZNbXBBNnVBWWdF"
+    },
+    {
+      "title": "Federal Reserve Outlook Lifts Asian Stock Markets - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLXhnS0h0UE1SazlYbS1jcjc1ZXdLQ3hQNFFLcUFtVWE1UGZtLW1PQWFWY0x6TW9wRmFINXBmaXlJOThjemE5Q2JtWm1BTno1SERxeDFHMDJCUjhWWkQ5M3lqeEVNUGk2bG9Mem1wOS10S3p1eUVHMUJGSUM2clgtUDNHZWRRVld5dUZ1OXFpbHcxaVNVdWUyWUhJd2ZlekNlZUE0bktBZHg?oc=5",
-      "source": "finance.yahoo.com",
+      "source": "Yahoo Finance",
       "published_at": "Mon, 10 Aug 2026 10:36:19 GMT",
-      "summary": "Federal Reserve Outlook Lifts Asian Stock Markets finance.yahoo.com",
+      "summary": "Federal Reserve Outlook Lifts Asian Stock Markets Yahoo Finance",
       "guid": "CBMiqAFBVV95cUxQLXhnS0h0UE1SazlYbS1jcjc1ZXdLQ3hQNFFLcUFtVWE1UGZtLW1PQWFWY0x6TW9wRmFINXBmaXlJOThjemE5Q2JtWm1BTno1SERxeDFHMDJCUjhWWkQ5M3lqeEVNUGk2bG9Mem1wOS10S3p1eUVHMUJGSUM2clgtUDNHZWRRVld5dUZ1OXFpbHcxaVNVdWUyWUhJd2ZlekNlZUE0bktBZHg"
     },
     {
@@ -23,14 +31,6 @@
       "guid": "CBMic0FVX3lxTE8teTJqbjhiWFJIbWJ2emRScjZZRzVZWF9NLXNVb2k4Q2g0NTFlZzdmSC1JQ2phc0F2X0RHMFBoRE9DRUdXZllqZGhPZ1dtS0xzWV9YNXByRlVMdFIxZERKTU5QcERtdm5PTFVRcXIteDJod0k"
     },
     {
-      "title": "The Bond Market Is Signaling Rising Risks. Investors Should Listen. - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZlhBejhhZWNUdDRiX05LWHFRaGJhX0ltazRRWTFPZWdvazNWX0U1WDg4NmpIb0swb1dsR21KTzg2MUc5Z21ORnJXdWFxX2xybjdsOG1lUnV4aWs3TWw3QmR5TUFfMDZ5Qkc5WVhxSWVXT2dUZDVneUxqRms3V1dBeDJvUzJtT1R4Z01NYlZNbXBBNnVBWWdF?oc=5",
-      "source": "The New York Times",
-      "published_at": "Fri, 07 Aug 2026 13:00:06 GMT",
-      "summary": "The Bond Market Is Signaling Rising Risks. Investors Should Listen. The New York Times",
-      "guid": "CBMilwFBVV95cUxNZlhBejhhZWNUdDRiX05LWHFRaGJhX0ltazRRWTFPZWdvazNWX0U1WDg4NmpIb0swb1dsR21KTzg2MUc5Z21ORnJXdWFxX2xybjdsOG1lUnV4aWs3TWw3QmR5TUFfMDZ5Qkc5WVhxSWVXT2dUZDVneUxqRms3V1dBeDJvUzJtT1R4Z01NYlZNbXBBNnVBWWdF"
-    },
-    {
       "title": "Stock Market Investors Just Got Bad News From the Federal Reserve - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU0x1Uml3U2JwWVNjbDZjSUNkWVBTUkE3Vk5FS09sWFp3VE5kRDBYckZkUDU2c05uaVBsRTI0RXZXQmw5ZndNSk5BdUVUY01jNGNoOXhCRUtyc1dkTll0ZFJvOFhDbGtiT3l1NmpOdk5Lc3JHdktBU29XMjR2YXNaZHVQYmotMlItZVNPVkVabGhSMDJ2?oc=5",
       "source": "The Motley Fool",
@@ -39,11 +39,19 @@
       "guid": "CBMilAFBVV95cUxQU0x1Uml3U2JwWVNjbDZjSUNkWVBTUkE3Vk5FS09sWFp3VE5kRDBYckZkUDU2c05uaVBsRTI0RXZXQmw5ZndNSk5BdUVUY01jNGNoOXhCRUtyc1dkTll0ZFJvOFhDbGtiT3l1NmpOdk5Lc3JHdktBU29XMjR2YXNaZHVQYmotMlItZVNPVkVabGhSMDJ2"
     },
     {
-      "title": "Investors' eyes are on inflation this week after July's dismal jobs report - businessinsider.com",
+      "title": "Stock Market Warning Signs: What the Dot-Com Indicator Means for Investors in 2026 - Intellectia AI",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEN3pKOHhKVU0wdm9sVlpZbmNOVV85UzFXR1pyU0lZSFQ1YW1STG9PVms3YTJwQjdRSTZWM2d4RG94SWFRVlBRSFVETDFreWhhdU9KZk5aX0REc3JqZjNVSmhsbnFBaHhVd1VoaEhwSkp6VzFCRkNnRG5aYXc3ODA?oc=5",
+      "source": "Intellectia AI",
+      "published_at": "Tue, 11 Aug 2026 04:18:45 GMT",
+      "summary": "Stock Market Warning Signs: What the Dot-Com Indicator Means for Investors in 2026 Intellectia AI",
+      "guid": "CBMif0FVX3lxTFBEN3pKOHhKVU0wdm9sVlpZbmNOVV85UzFXR1pyU0lZSFQ1YW1STG9PVms3YTJwQjdRSTZWM2d4RG94SWFRVlBRSFVETDFreWhhdU9KZk5aX0REc3JqZjNVSmhsbnFBaHhVd1VoaEhwSkp6VzFCRkNnRG5aYXc3ODA"
+    },
+    {
+      "title": "Investors' eyes are on inflation this week after July's dismal jobs report - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbGVTcVlHNE9RYkFXNmdpeXpKM0tTU3paamRaaVdPRzc4QVlyallyeEQyTDNzVmlwNkhJY1drWUJ6Xy1qaUc1WXdySlZ2UEs2QU0telEzN1YtYVUyRF94UVdqTGVMVl9JV1h4anFaNjdaZ3RqNFd4NWhnd0RrMEJvMDVINzUyUnd5RmNISUpRV1o0NVBxRC1tQ3JSMDhVTXM?oc=5",
-      "source": "businessinsider.com",
+      "source": "Business Insider",
       "published_at": "Mon, 10 Aug 2026 09:51:00 GMT",
-      "summary": "Investors' eyes are on inflation this week after July's dismal jobs report businessinsider.com",
+      "summary": "Investors' eyes are on inflation this week after July's dismal jobs report Business Insider",
       "guid": "CBMinwFBVV95cUxNbGVTcVlHNE9RYkFXNmdpeXpKM0tTU3paamRaaVdPRzc4QVlyallyeEQyTDNzVmlwNkhJY1drWUJ6Xy1qaUc1WXdySlZ2UEs2QU0telEzN1YtYVUyRF94UVdqTGVMVl9JV1h4anFaNjdaZ3RqNFd4NWhnd0RrMEJvMDVINzUyUnd5RmNISUpRV1o0NVBxRC1tQ3JSMDhVTXM"
     },
     {
@@ -77,14 +85,6 @@
       "published_at": "Thu, 30 Jul 2026 07:00:00 GMT",
       "summary": "The Fed Faces a Credibility Crisis—and the Stock Market Will Pay the Price Barron's",
       "guid": "CBMiiwFBVV95cUxPd2k2UGxNOFRzM21hRG16dV9VTGt0NnFTYmNXOVZzazNqZ2ZTVGppSWNuR09haFNhMjIzVkhIV3ZqQkZpYWNKbGN5QUMzcEI5NEFLdmYwRG1NdFFRMkhvRFd0TU0yazV4aTRyZ1UzX29EU2NaaHp3R3FZaTI5ZDNpZHJuUkNDT2M4azB3"
-    },
-    {
-      "title": "Jobs Report Shockingly Weak, But Unemployment Falls (Live) - Investor's Business Daily",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbVozOHFaaVdOLThtSXUtNDdnMDBtNjgtSU1oYUNCVFJwMXVEdnk0UEVDQ0dicGJEOVZ1TnpBU0MyZ2pRMGdqeGpCSjRsTHBUTFN2UC1zeV95cmhteFJLRktSS3ZIc3NVVVpDYW1Td3JzVEtHTm9od2NMR0UwUU9paE9lbEhLRVd3TkpSNHlqRlptNDhFRGhYT1BXTDgzMXEx?oc=5",
-      "source": "Investor's Business Daily",
-      "published_at": "Fri, 07 Aug 2026 13:38:00 GMT",
-      "summary": "Jobs Report Shockingly Weak, But Unemployment Falls (Live) Investor's Business Daily",
-      "guid": "CBMioAFBVV95cUxPbVozOHFaaVdOLThtSXUtNDdnMDBtNjgtSU1oYUNCVFJwMXVEdnk0UEVDQ0dicGJEOVZ1TnpBU0MyZ2pRMGdqeGpCSjRsTHBUTFN2UC1zeV95cmhteFJLRktSS3ZIc3NVVVpDYW1Td3JzVEtHTm9od2NMR0UwUU9paE9lbEhLRVd3TkpSNHlqRlptNDhFRGhYT1BXTDgzMXEx"
     }
   ]
 }
