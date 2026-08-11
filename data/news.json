@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T12:05:26Z",
+  "generated_at": "2026-08-11T13:37:50Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,12 +7,28 @@
   },
   "items": [
     {
+      "title": "Financial Markets, Oil Prices, and Supply-Side Risks - Federal Reserve Bank of San Francisco",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNmFjYWNhVVJHZ2Y1dVZ5M3A1LTdZT01sSFVQTVJZcXpfcjNNajNyRjZXNXBpWTlST29nWFBhQ19Id05CQ3pGQXMybTBoRU9CeDFvZXNNN1dxeUVxR3dkM0wyYTZhS1ZMVTJsckdySFlzVXBQVHdGMjVWd3k4TG9idUdueERPVHRZUV95NzBKYTdfYnVVNThfTlRkeEZtNGtCY0dhc3FZMjZBQ0ZHYzRhbnBkZFNxb1JQYmczWHR3S21LYU8yeXhyNk1HRk0?oc=5",
+      "source": "Federal Reserve Bank of San Francisco",
+      "published_at": "Mon, 10 Aug 2026 17:00:00 GMT",
+      "summary": "Financial Markets, Oil Prices, and Supply-Side Risks Federal Reserve Bank of San Francisco",
+      "guid": "CBMizAFBVV95cUxPNmFjYWNhVVJHZ2Y1dVZ5M3A1LTdZT01sSFVQTVJZcXpfcjNNajNyRjZXNXBpWTlST29nWFBhQ19Id05CQ3pGQXMybTBoRU9CeDFvZXNNN1dxeUVxR3dkM0wyYTZhS1ZMVTJsckdySFlzVXBQVHdGMjVWd3k4TG9idUdueERPVHRZUV95NzBKYTdfYnVVNThfTlRkeEZtNGtCY0dhc3FZMjZBQ0ZHYzRhbnBkZFNxb1JQYmczWHR3S21LYU8yeXhyNk1HRk0"
+    },
+    {
       "title": "Bonds Are the ‘One Wrinkle on the Horizon.’ They’re a Threat to Stock Market’s Summer Party. - Barron's",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONkV2MF9oeHExamtqR0VHMnI3UWVQUVp6VEhxUmktM2tMMTZ3MFVZV29lbDBOTnRrWFBudUF0M0ozbUg0d3JGbjlCTWxuUWlZUHpaYVMydG9SZF9nb3JwTnRXWUdTSkhBbkVSMDlxOFhyZXAxQUFjc3diajhvSGpnNjRtRkpJNXI2Y0RQN2VfN0wwakk?oc=5",
       "source": "Barron's",
       "published_at": "Tue, 11 Aug 2026 10:55:00 GMT",
       "summary": "Bonds Are the ‘One Wrinkle on the Horizon.’ They’re a Threat to Stock Market’s Summer Party. Barron's",
       "guid": "CBMikwFBVV95cUxONkV2MF9oeHExamtqR0VHMnI3UWVQUVp6VEhxUmktM2tMMTZ3MFVZV29lbDBOTnRrWFBudUF0M0ozbUg0d3JGbjlCTWxuUWlZUHpaYVMydG9SZF9nb3JwTnRXWUdTSkhBbkVSMDlxOFhyZXAxQUFjc3diajhvSGpnNjRtRkpJNXI2Y0RQN2VfN0wwakk"
+    },
+    {
+      "title": "How Kevin Warsh is rewiring the Fed - Axios",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8teTJqbjhiWFJIbWJ2emRScjZZRzVZWF9NLXNVb2k4Q2g0NTFlZzdmSC1JQ2phc0F2X0RHMFBoRE9DRUdXZllqZGhPZ1dtS0xzWV9YNXByRlVMdFIxZERKTU5QcERtdm5PTFVRcXIteDJod0k?oc=5",
+      "source": "Axios",
+      "published_at": "Mon, 10 Aug 2026 21:51:34 GMT",
+      "summary": "How Kevin Warsh is rewiring the Fed Axios",
+      "guid": "CBMic0FVX3lxTE8teTJqbjhiWFJIbWJ2emRScjZZRzVZWF9NLXNVb2k4Q2g0NTFlZzdmSC1JQ2phc0F2X0RHMFBoRE9DRUdXZllqZGhPZ1dtS0xzWV9YNXByRlVMdFIxZERKTU5QcERtdm5PTFVRcXIteDJod0k"
     },
     {
       "title": "The Bond Market Is Signaling Rising Risks. Investors Should Listen. - The New York Times",
@@ -39,28 +55,12 @@
       "guid": "CBMiqgFBVV95cUxNN21Ub19xN24teHU4SHBjMkJkSzFqU19oaGwwLUdEUTUyZ0xORG83aE5naXFPSURUbWsxaHRoZVJLYnJIU3BrSUg1VlN6d3JVT2Y3LUNsMkRvdnJ5Vl9fdmxCQV9mcDJoMUlfY2RsYkFkRXZMN3FjS0pHQ1F0UFJBZExpcmhYdEMzcHdWd2dZY1BOSUZmbk1lQ182UDE0LTQteVFNeWxFWW0zUQ"
     },
     {
-      "title": "How Kevin Warsh is rewiring the Fed - Axios",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8teTJqbjhiWFJIbWJ2emRScjZZRzVZWF9NLXNVb2k4Q2g0NTFlZzdmSC1JQ2phc0F2X0RHMFBoRE9DRUdXZllqZGhPZ1dtS0xzWV9YNXByRlVMdFIxZERKTU5QcERtdm5PTFVRcXIteDJod0k?oc=5",
-      "source": "Axios",
-      "published_at": "Mon, 10 Aug 2026 09:46:48 GMT",
-      "summary": "How Kevin Warsh is rewiring the Fed Axios",
-      "guid": "CBMic0FVX3lxTE8teTJqbjhiWFJIbWJ2emRScjZZRzVZWF9NLXNVb2k4Q2g0NTFlZzdmSC1JQ2phc0F2X0RHMFBoRE9DRUdXZllqZGhPZ1dtS0xzWV9YNXByRlVMdFIxZERKTU5QcERtdm5PTFVRcXIteDJod0k"
-    },
-    {
       "title": "Stock Market Warning Signs: What the Dot-Com Indicator Means for Investors in 2026 - Intellectia AI",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEN3pKOHhKVU0wdm9sVlpZbmNOVV85UzFXR1pyU0lZSFQ1YW1STG9PVms3YTJwQjdRSTZWM2d4RG94SWFRVlBRSFVETDFreWhhdU9KZk5aX0REc3JqZjNVSmhsbnFBaHhVd1VoaEhwSkp6VzFCRkNnRG5aYXc3ODA?oc=5",
       "source": "Intellectia AI",
       "published_at": "Tue, 11 Aug 2026 04:26:53 GMT",
       "summary": "Stock Market Warning Signs: What the Dot-Com Indicator Means for Investors in 2026 Intellectia AI",
       "guid": "CBMif0FVX3lxTFBEN3pKOHhKVU0wdm9sVlpZbmNOVV85UzFXR1pyU0lZSFQ1YW1STG9PVms3YTJwQjdRSTZWM2d4RG94SWFRVlBRSFVETDFreWhhdU9KZk5aX0REc3JqZjNVSmhsbnFBaHhVd1VoaEhwSkp6VzFCRkNnRG5aYXc3ODA"
-    },
-    {
-      "title": "Arthur Cyr - The steady course of the Federal Reserve - The Crescent-News",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQcERONnZaVkwxa3BKRlI5ODdTUW1vdmNYZlo3aVpBU19JaUVfNnlFOFdmcHVYNG9jYUZxNzlFb1dRc3p6V0N6b2ZsaVg2WmxnR2ZoVEJYNGJuLXNUbUNVWWVwYUllOEVRODNMVEs5cE1GNk1jWDl3MUwtakhrMmxOV3diUDdCQzNaUmFQZWdYSExIRGxLQjlOT1JZcFRQV2tQdFI2ZDV5ZEloNHU3YXlyUUZwRXJ6Rm1xbmlhdzN3dG1yYlpwNGtVbFlCRTFfZENzUm9uX0djV1Z3aGJZcE9LOTJQRkJGU21YTlNXMDFtT2Yydw?oc=5",
-      "source": "The Crescent-News",
-      "published_at": "Tue, 11 Aug 2026 01:00:00 GMT",
-      "summary": "Arthur Cyr - The steady course of the Federal Reserve The Crescent-News",
-      "guid": "CBMi8gFBVV95cUxQcERONnZaVkwxa3BKRlI5ODdTUW1vdmNYZlo3aVpBU19JaUVfNnlFOFdmcHVYNG9jYUZxNzlFb1dRc3p6V0N6b2ZsaVg2WmxnR2ZoVEJYNGJuLXNUbUNVWWVwYUllOEVRODNMVEs5cE1GNk1jWDl3MUwtakhrMmxOV3diUDdCQzNaUmFQZWdYSExIRGxLQjlOT1JZcFRQV2tQdFI2ZDV5ZEloNHU3YXlyUUZwRXJ6Rm1xbmlhdzN3dG1yYlpwNGtVbFlCRTFfZENzUm9uX0djV1Z3aGJZcE9LOTJQRkJGU21YTlNXMDFtT2Yydw"
     },
     {
       "title": "U.S. stocks closed at record highs Friday as July job losses eased Fed rate-hike concerns - eciks.org",
@@ -71,20 +71,20 @@
       "guid": "CBMigAFBVV95cUxOWVhMYVl2b2kzNnFMVGlSMktFUjdnLXd1VUJXWTIwNHNzdzQzVmJnV1V3SnM4cE9SVHdjemowSDZnd2RBdjU0b05TYjRMLUswZWtsdE9RQmZfZzFXWnJrZkFneDJfUGppTWpwRFRYQlZ3UG1NZkFOTDF1ZHlaVnNRUw"
     },
     {
+      "title": "Arthur Cyr - The steady course of the Federal Reserve - The Crescent-News",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQcERONnZaVkwxa3BKRlI5ODdTUW1vdmNYZlo3aVpBU19JaUVfNnlFOFdmcHVYNG9jYUZxNzlFb1dRc3p6V0N6b2ZsaVg2WmxnR2ZoVEJYNGJuLXNUbUNVWWVwYUllOEVRODNMVEs5cE1GNk1jWDl3MUwtakhrMmxOV3diUDdCQzNaUmFQZWdYSExIRGxLQjlOT1JZcFRQV2tQdFI2ZDV5ZEloNHU3YXlyUUZwRXJ6Rm1xbmlhdzN3dG1yYlpwNGtVbFlCRTFfZENzUm9uX0djV1Z3aGJZcE9LOTJQRkJGU21YTlNXMDFtT2Yydw?oc=5",
+      "source": "The Crescent-News",
+      "published_at": "Tue, 11 Aug 2026 01:00:00 GMT",
+      "summary": "Arthur Cyr - The steady course of the Federal Reserve The Crescent-News",
+      "guid": "CBMi8gFBVV95cUxQcERONnZaVkwxa3BKRlI5ODdTUW1vdmNYZlo3aVpBU19JaUVfNnlFOFdmcHVYNG9jYUZxNzlFb1dRc3p6V0N6b2ZsaVg2WmxnR2ZoVEJYNGJuLXNUbUNVWWVwYUllOEVRODNMVEs5cE1GNk1jWDl3MUwtakhrMmxOV3diUDdCQzNaUmFQZWdYSExIRGxLQjlOT1JZcFRQV2tQdFI2ZDV5ZEloNHU3YXlyUUZwRXJ6Rm1xbmlhdzN3dG1yYlpwNGtVbFlCRTFfZENzUm9uX0djV1Z3aGJZcE9LOTJQRkJGU21YTlNXMDFtT2Yydw"
+    },
+    {
       "title": "Federal Reserve Outlook Lifts Asian Stock Markets - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLXhnS0h0UE1SazlYbS1jcjc1ZXdLQ3hQNFFLcUFtVWE1UGZtLW1PQWFWY0x6TW9wRmFINXBmaXlJOThjemE5Q2JtWm1BTno1SERxeDFHMDJCUjhWWkQ5M3lqeEVNUGk2bG9Mem1wOS10S3p1eUVHMUJGSUM2clgtUDNHZWRRVld5dUZ1OXFpbHcxaVNVdWUyWUhJd2ZlekNlZUE0bktBZHg?oc=5",
       "source": "Yahoo Finance",
       "published_at": "Mon, 10 Aug 2026 10:36:19 GMT",
       "summary": "Federal Reserve Outlook Lifts Asian Stock Markets Yahoo Finance",
       "guid": "CBMiqAFBVV95cUxQLXhnS0h0UE1SazlYbS1jcjc1ZXdLQ3hQNFFLcUFtVWE1UGZtLW1PQWFWY0x6TW9wRmFINXBmaXlJOThjemE5Q2JtWm1BTno1SERxeDFHMDJCUjhWWkQ5M3lqeEVNUGk2bG9Mem1wOS10S3p1eUVHMUJGSUM2clgtUDNHZWRRVld5dUZ1OXFpbHcxaVNVdWUyWUhJd2ZlekNlZUE0bktBZHg"
-    },
-    {
-      "title": "US Stocks Rally to Records as Inflation Data Test Federal Reserve Rate Outlook - Межа. Новини України.",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1CeFdkQlY5b1lmeHB1MWN6WHU5OTFsV3JrMjBCM2NUUnl5d09uZEM3TWJkeHgwX0xqZUNMYnYySDZveXZpVjd4WkhfSDZBdDZyR1VLSVh2anRkTWVqY0xhcW9LNA?oc=5",
-      "source": "Межа. Новини України.",
-      "published_at": "Sat, 08 Aug 2026 03:24:32 GMT",
-      "summary": "US Stocks Rally to Records as Inflation Data Test Federal Reserve Rate Outlook Межа. Новини України.",
-      "guid": "CBMiY0FVX3lxTE1CeFdkQlY5b1lmeHB1MWN6WHU5OTFsV3JrMjBCM2NUUnl5d09uZEM3TWJkeHgwX0xqZUNMYnYySDZveXZpVjd4WkhfSDZBdDZyR1VLSVh2anRkTWVqY0xhcW9LNA"
     }
   ]
 }
