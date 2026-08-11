@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T22:00:56Z",
+  "generated_at": "2026-08-11T22:58:51Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,20 +7,20 @@
   },
   "items": [
     {
-      "title": "Markets are still trying to figure out the Fed’s next move - CNN",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBJYnRFMmlWc3VqRXJ6TUhfbks3OXZQQm83UU5SdUZrMlQtdl9MbDM1OU03NldvUXhjVVM0QlpER1RBS2VkNjFpR3VpcTNVZmZhRy13VjVaVDJvUEExbTFGa1NRTmROb3hPQ2ZHRmN4Ync?oc=5",
-      "source": "CNN",
-      "published_at": "Tue, 11 Aug 2026 09:00:29 GMT",
-      "summary": "Markets are still trying to figure out the Fed’s next move CNN",
-      "guid": "CBMicEFVX3lxTFBJYnRFMmlWc3VqRXJ6TUhfbks3OXZQQm83UU5SdUZrMlQtdl9MbDM1OU03NldvUXhjVVM0QlpER1RBS2VkNjFpR3VpcTNVZmZhRy13VjVaVDJvUEExbTFGa1NRTmROb3hPQ2ZHRmN4Ync"
-    },
-    {
       "title": "Financial Markets, Oil Prices, and Supply-Side Risks - Federal Reserve Bank of San Francisco",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNmFjYWNhVVJHZ2Y1dVZ5M3A1LTdZT01sSFVQTVJZcXpfcjNNajNyRjZXNXBpWTlST29nWFBhQ19Id05CQ3pGQXMybTBoRU9CeDFvZXNNN1dxeUVxR3dkM0wyYTZhS1ZMVTJsckdySFlzVXBQVHdGMjVWd3k4TG9idUdueERPVHRZUV95NzBKYTdfYnVVNThfTlRkeEZtNGtCY0dhc3FZMjZBQ0ZHYzRhbnBkZFNxb1JQYmczWHR3S21LYU8yeXhyNk1HRk0?oc=5",
       "source": "Federal Reserve Bank of San Francisco",
       "published_at": "Mon, 10 Aug 2026 17:00:00 GMT",
       "summary": "Financial Markets, Oil Prices, and Supply-Side Risks Federal Reserve Bank of San Francisco",
       "guid": "CBMizAFBVV95cUxPNmFjYWNhVVJHZ2Y1dVZ5M3A1LTdZT01sSFVQTVJZcXpfcjNNajNyRjZXNXBpWTlST29nWFBhQ19Id05CQ3pGQXMybTBoRU9CeDFvZXNNN1dxeUVxR3dkM0wyYTZhS1ZMVTJsckdySFlzVXBQVHdGMjVWd3k4TG9idUdueERPVHRZUV95NzBKYTdfYnVVNThfTlRkeEZtNGtCY0dhc3FZMjZBQ0ZHYzRhbnBkZFNxb1JQYmczWHR3S21LYU8yeXhyNk1HRk0"
+    },
+    {
+      "title": "Markets are still trying to figure out the Fed’s next move - CNN",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBJYnRFMmlWc3VqRXJ6TUhfbks3OXZQQm83UU5SdUZrMlQtdl9MbDM1OU03NldvUXhjVVM0QlpER1RBS2VkNjFpR3VpcTNVZmZhRy13VjVaVDJvUEExbTFGa1NRTmROb3hPQ2ZHRmN4Ync?oc=5",
+      "source": "CNN",
+      "published_at": "Tue, 11 Aug 2026 09:00:29 GMT",
+      "summary": "Markets are still trying to figure out the Fed’s next move CNN",
+      "guid": "CBMicEFVX3lxTFBJYnRFMmlWc3VqRXJ6TUhfbks3OXZQQm83UU5SdUZrMlQtdl9MbDM1OU03NldvUXhjVVM0QlpER1RBS2VkNjFpR3VpcTNVZmZhRy13VjVaVDJvUEExbTFGa1NRTmROb3hPQ2ZHRmN4Ync"
     },
     {
       "title": "Bonds Are the ‘One Wrinkle on the Horizon.’ They’re a Threat to Stock Market’s Summer Party. - Barron's",
@@ -55,20 +55,20 @@
       "guid": "CBMic0FVX3lxTE8teTJqbjhiWFJIbWJ2emRScjZZRzVZWF9NLXNVb2k4Q2g0NTFlZzdmSC1JQ2phc0F2X0RHMFBoRE9DRUdXZllqZGhPZ1dtS0xzWV9YNXByRlVMdFIxZERKTU5QcERtdm5PTFVRcXIteDJod0k"
     },
     {
-      "title": "Stock Market today : Stock futures Edge Lower, oil price Falls under $90, Gold price above $4,400 - Eurasia Business News",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSU5acFA4N09KQUM5d1c4LTVWUnoyaVBKdHZYYzUxdWZYdVp2VXNFUVhyTlBWWmpIQ2l3cUJjdzh4RVhyeDlRWEU5Sk1NVEk1RmV4UmxjdVgtSDQ0VEFydTdIQ1JIa1JNMXRKT0RpUlRRa2N5MW1FUlItWVM2ZjZGVGVTQ2djdU53ZkRNU0VzekZKcUtOLURXN1lvdzVsVFcyR3J4VjJSemlJODVMcUhPdl8xVV9QZjNkMUkwbng2aGIyQkgzd3JjSS1JdkdyVEk?oc=5",
-      "source": "Eurasia Business News",
-      "published_at": "Tue, 11 Aug 2026 14:00:12 GMT",
-      "summary": "Stock Market today : Stock futures Edge Lower, oil price Falls under $90, Gold price above $4,400 Eurasia Business News",
-      "guid": "CBMizwFBVV95cUxNSU5acFA4N09KQUM5d1c4LTVWUnoyaVBKdHZYYzUxdWZYdVp2VXNFUVhyTlBWWmpIQ2l3cUJjdzh4RVhyeDlRWEU5Sk1NVEk1RmV4UmxjdVgtSDQ0VEFydTdIQ1JIa1JNMXRKT0RpUlRRa2N5MW1FUlItWVM2ZjZGVGVTQ2djdU53ZkRNU0VzekZKcUtOLURXN1lvdzVsVFcyR3J4VjJSemlJODVMcUhPdl8xVV9QZjNkMUkwbng2aGIyQkgzd3JjSS1JdkdyVEk"
-    },
-    {
       "title": "Stock Market: Will S&P 500 Open Up or Down Today? - TradingView",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN21Ub19xN24teHU4SHBjMkJkSzFqU19oaGwwLUdEUTUyZ0xORG83aE5naXFPSURUbWsxaHRoZVJLYnJIU3BrSUg1VlN6d3JVT2Y3LUNsMkRvdnJ5Vl9fdmxCQV9mcDJoMUlfY2RsYkFkRXZMN3FjS0pHQ1F0UFJBZExpcmhYdEMzcHdWd2dZY1BOSUZmbk1lQ182UDE0LTQteVFNeWxFWW0zUQ?oc=5",
       "source": "TradingView",
       "published_at": "Tue, 11 Aug 2026 08:32:02 GMT",
       "summary": "Stock Market: Will S&P 500 Open Up or Down Today? TradingView",
       "guid": "CBMiqgFBVV95cUxNN21Ub19xN24teHU4SHBjMkJkSzFqU19oaGwwLUdEUTUyZ0xORG83aE5naXFPSURUbWsxaHRoZVJLYnJIU3BrSUg1VlN6d3JVT2Y3LUNsMkRvdnJ5Vl9fdmxCQV9mcDJoMUlfY2RsYkFkRXZMN3FjS0pHQ1F0UFJBZExpcmhYdEMzcHdWd2dZY1BOSUZmbk1lQ182UDE0LTQteVFNeWxFWW0zUQ"
+    },
+    {
+      "title": "Stock Market today : Stock futures Edge Lower, oil price Falls under $90, Gold price above $4,400 - Eurasia Business News",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSU5acFA4N09KQUM5d1c4LTVWUnoyaVBKdHZYYzUxdWZYdVp2VXNFUVhyTlBWWmpIQ2l3cUJjdzh4RVhyeDlRWEU5Sk1NVEk1RmV4UmxjdVgtSDQ0VEFydTdIQ1JIa1JNMXRKT0RpUlRRa2N5MW1FUlItWVM2ZjZGVGVTQ2djdU53ZkRNU0VzekZKcUtOLURXN1lvdzVsVFcyR3J4VjJSemlJODVMcUhPdl8xVV9QZjNkMUkwbng2aGIyQkgzd3JjSS1JdkdyVEk?oc=5",
+      "source": "Eurasia Business News",
+      "published_at": "Tue, 11 Aug 2026 14:00:12 GMT",
+      "summary": "Stock Market today : Stock futures Edge Lower, oil price Falls under $90, Gold price above $4,400 Eurasia Business News",
+      "guid": "CBMizwFBVV95cUxNSU5acFA4N09KQUM5d1c4LTVWUnoyaVBKdHZYYzUxdWZYdVp2VXNFUVhyTlBWWmpIQ2l3cUJjdzh4RVhyeDlRWEU5Sk1NVEk1RmV4UmxjdVgtSDQ0VEFydTdIQ1JIa1JNMXRKT0RpUlRRa2N5MW1FUlItWVM2ZjZGVGVTQ2djdU53ZkRNU0VzekZKcUtOLURXN1lvdzVsVFcyR3J4VjJSemlJODVMcUhPdl8xVV9QZjNkMUkwbng2aGIyQkgzd3JjSS1JdkdyVEk"
     },
     {
       "title": "Nvidia's 'investible asset,' U.S. oil reserve shrinks, Trump's vaccine order and more in Morning Squawk - CNBC",
