@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T03:08:15Z",
+  "generated_at": "2026-08-12T04:57:35Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -31,20 +31,20 @@
       "guid": "CBMilwFBVV95cUxNZlhBejhhZWNUdDRiX05LWHFRaGJhX0ltazRRWTFPZWdvazNWX0U1WDg4NmpIb0swb1dsR21KTzg2MUc5Z21ORnJXdWFxX2xybjdsOG1lUnV4aWs3TWw3QmR5TUFfMDZ5Qkc5WVhxSWVXT2dUZDVneUxqRms3V1dBeDJvUzJtT1R4Z01NYlZNbXBBNnVBWWdF"
     },
     {
-      "title": "Bonds Are the ‘One Wrinkle on the Horizon.’ They’re a Threat to Stock Market’s Summer Party. - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONkV2MF9oeHExamtqR0VHMnI3UWVQUVp6VEhxUmktM2tMMTZ3MFVZV29lbDBOTnRrWFBudUF0M0ozbUg0d3JGbjlCTWxuUWlZUHpaYVMydG9SZF9nb3JwTnRXWUdTSkhBbkVSMDlxOFhyZXAxQUFjc3diajhvSGpnNjRtRkpJNXI2Y0RQN2VfN0wwakk?oc=5",
-      "source": "Barron's",
-      "published_at": "Tue, 11 Aug 2026 10:55:00 GMT",
-      "summary": "Bonds Are the ‘One Wrinkle on the Horizon.’ They’re a Threat to Stock Market’s Summer Party. Barron's",
-      "guid": "CBMikwFBVV95cUxONkV2MF9oeHExamtqR0VHMnI3UWVQUVp6VEhxUmktM2tMMTZ3MFVZV29lbDBOTnRrWFBudUF0M0ozbUg0d3JGbjlCTWxuUWlZUHpaYVMydG9SZF9nb3JwTnRXWUdTSkhBbkVSMDlxOFhyZXAxQUFjc3diajhvSGpnNjRtRkpJNXI2Y0RQN2VfN0wwakk"
-    },
-    {
       "title": "Stock Market Investors Just Got Bad News From the Federal Reserve - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYmRTTHRPT2xya2JSUFd2Nld3TXFvQlRGUmxsREUwWUFBSERFNm5ITEJLUXYwMTVQRzRScUtKZExpcEloSDFwM2UwV2p2bks0czctZDFtcl80N0VyWUVKWmJLakNLQnNtUG96WW1KUVB1RlN1T1pwZlAyOEtOZ3k3Unc3clpmQ3Zta3BzSGRjTzlOZERPdThFVkNGUmc?oc=5",
       "source": "Yahoo Finance",
       "published_at": "Sun, 09 Aug 2026 08:32:00 GMT",
       "summary": "Stock Market Investors Just Got Bad News From the Federal Reserve Yahoo Finance",
       "guid": "CBMinAFBVV95cUxPYmRTTHRPT2xya2JSUFd2Nld3TXFvQlRGUmxsREUwWUFBSERFNm5ITEJLUXYwMTVQRzRScUtKZExpcEloSDFwM2UwV2p2bks0czctZDFtcl80N0VyWUVKWmJLakNLQnNtUG96WW1KUVB1RlN1T1pwZlAyOEtOZ3k3Unc3clpmQ3Zta3BzSGRjTzlOZERPdThFVkNGUmc"
+    },
+    {
+      "title": "Bonds Are the ‘One Wrinkle on the Horizon.’ They’re a Threat to Stock Market’s Summer Party. - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONkV2MF9oeHExamtqR0VHMnI3UWVQUVp6VEhxUmktM2tMMTZ3MFVZV29lbDBOTnRrWFBudUF0M0ozbUg0d3JGbjlCTWxuUWlZUHpaYVMydG9SZF9nb3JwTnRXWUdTSkhBbkVSMDlxOFhyZXAxQUFjc3diajhvSGpnNjRtRkpJNXI2Y0RQN2VfN0wwakk?oc=5",
+      "source": "Barron's",
+      "published_at": "Tue, 11 Aug 2026 10:55:00 GMT",
+      "summary": "Bonds Are the ‘One Wrinkle on the Horizon.’ They’re a Threat to Stock Market’s Summer Party. Barron's",
+      "guid": "CBMikwFBVV95cUxONkV2MF9oeHExamtqR0VHMnI3UWVQUVp6VEhxUmktM2tMMTZ3MFVZV29lbDBOTnRrWFBudUF0M0ozbUg0d3JGbjlCTWxuUWlZUHpaYVMydG9SZF9nb3JwTnRXWUdTSkhBbkVSMDlxOFhyZXAxQUFjc3diajhvSGpnNjRtRkpJNXI2Y0RQN2VfN0wwakk"
     },
     {
       "title": "How Kevin Warsh is rewiring the Fed - Axios",
@@ -55,14 +55,6 @@
       "guid": "CBMic0FVX3lxTE8teTJqbjhiWFJIbWJ2emRScjZZRzVZWF9NLXNVb2k4Q2g0NTFlZzdmSC1JQ2phc0F2X0RHMFBoRE9DRUdXZllqZGhPZ1dtS0xzWV9YNXByRlVMdFIxZERKTU5QcERtdm5PTFVRcXIteDJod0k"
     },
     {
-      "title": "Stock Market: Will S&P 500 Open Up or Down Today? - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN21Ub19xN24teHU4SHBjMkJkSzFqU19oaGwwLUdEUTUyZ0xORG83aE5naXFPSURUbWsxaHRoZVJLYnJIU3BrSUg1VlN6d3JVT2Y3LUNsMkRvdnJ5Vl9fdmxCQV9mcDJoMUlfY2RsYkFkRXZMN3FjS0pHQ1F0UFJBZExpcmhYdEMzcHdWd2dZY1BOSUZmbk1lQ182UDE0LTQteVFNeWxFWW0zUQ?oc=5",
-      "source": "TradingView",
-      "published_at": "Tue, 11 Aug 2026 08:32:02 GMT",
-      "summary": "Stock Market: Will S&P 500 Open Up or Down Today? TradingView",
-      "guid": "CBMiqgFBVV95cUxNN21Ub19xN24teHU4SHBjMkJkSzFqU19oaGwwLUdEUTUyZ0xORG83aE5naXFPSURUbWsxaHRoZVJLYnJIU3BrSUg1VlN6d3JVT2Y3LUNsMkRvdnJ5Vl9fdmxCQV9mcDJoMUlfY2RsYkFkRXZMN3FjS0pHQ1F0UFJBZExpcmhYdEMzcHdWd2dZY1BOSUZmbk1lQ182UDE0LTQteVFNeWxFWW0zUQ"
-    },
-    {
       "title": "Stock Market today : Stock futures Edge Lower, oil price Falls under $90, Gold price above $4,400 - Eurasia Business News",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSU5acFA4N09KQUM5d1c4LTVWUnoyaVBKdHZYYzUxdWZYdVp2VXNFUVhyTlBWWmpIQ2l3cUJjdzh4RVhyeDlRWEU5Sk1NVEk1RmV4UmxjdVgtSDQ0VEFydTdIQ1JIa1JNMXRKT0RpUlRRa2N5MW1FUlItWVM2ZjZGVGVTQ2djdU53ZkRNU0VzekZKcUtOLURXN1lvdzVsVFcyR3J4VjJSemlJODVMcUhPdl8xVV9QZjNkMUkwbng2aGIyQkgzd3JjSS1JdkdyVEk?oc=5",
       "source": "Eurasia Business News",
@@ -71,12 +63,20 @@
       "guid": "CBMizwFBVV95cUxNSU5acFA4N09KQUM5d1c4LTVWUnoyaVBKdHZYYzUxdWZYdVp2VXNFUVhyTlBWWmpIQ2l3cUJjdzh4RVhyeDlRWEU5Sk1NVEk1RmV4UmxjdVgtSDQ0VEFydTdIQ1JIa1JNMXRKT0RpUlRRa2N5MW1FUlItWVM2ZjZGVGVTQ2djdU53ZkRNU0VzekZKcUtOLURXN1lvdzVsVFcyR3J4VjJSemlJODVMcUhPdl8xVV9QZjNkMUkwbng2aGIyQkgzd3JjSS1JdkdyVEk"
     },
     {
-      "title": "Stock Market Warning Signs: What the Dot-Com Indicator Means for Investors in 2026 - Intellectia AI",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEN3pKOHhKVU0wdm9sVlpZbmNOVV85UzFXR1pyU0lZSFQ1YW1STG9PVms3YTJwQjdRSTZWM2d4RG94SWFRVlBRSFVETDFreWhhdU9KZk5aX0REc3JqZjNVSmhsbnFBaHhVd1VoaEhwSkp6VzFCRkNnRG5aYXc3ODA?oc=5",
-      "source": "Intellectia AI",
-      "published_at": "Tue, 11 Aug 2026 04:26:53 GMT",
-      "summary": "Stock Market Warning Signs: What the Dot-Com Indicator Means for Investors in 2026 Intellectia AI",
-      "guid": "CBMif0FVX3lxTFBEN3pKOHhKVU0wdm9sVlpZbmNOVV85UzFXR1pyU0lZSFQ1YW1STG9PVms3YTJwQjdRSTZWM2d4RG94SWFRVlBRSFVETDFreWhhdU9KZk5aX0REc3JqZjNVSmhsbnFBaHhVd1VoaEhwSkp6VzFCRkNnRG5aYXc3ODA"
+      "title": "Stock Market: Will S&P 500 Open Up or Down Today? - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNN21Ub19xN24teHU4SHBjMkJkSzFqU19oaGwwLUdEUTUyZ0xORG83aE5naXFPSURUbWsxaHRoZVJLYnJIU3BrSUg1VlN6d3JVT2Y3LUNsMkRvdnJ5Vl9fdmxCQV9mcDJoMUlfY2RsYkFkRXZMN3FjS0pHQ1F0UFJBZExpcmhYdEMzcHdWd2dZY1BOSUZmbk1lQ182UDE0LTQteVFNeWxFWW0zUQ?oc=5",
+      "source": "TradingView",
+      "published_at": "Tue, 11 Aug 2026 08:32:02 GMT",
+      "summary": "Stock Market: Will S&P 500 Open Up or Down Today? TradingView",
+      "guid": "CBMiqgFBVV95cUxNN21Ub19xN24teHU4SHBjMkJkSzFqU19oaGwwLUdEUTUyZ0xORG83aE5naXFPSURUbWsxaHRoZVJLYnJIU3BrSUg1VlN6d3JVT2Y3LUNsMkRvdnJ5Vl9fdmxCQV9mcDJoMUlfY2RsYkFkRXZMN3FjS0pHQ1F0UFJBZExpcmhYdEMzcHdWd2dZY1BOSUZmbk1lQ182UDE0LTQteVFNeWxFWW0zUQ"
+    },
+    {
+      "title": "US stocks sink on worries about a possible hike to interest rates this year by the Federal Reserve - AP News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcUlFaFNwNVNsa1RTZTFkTEhaMmhGLXBpZnZjeVAwaDBSSzRjZUFIMTQ3UTctckwtOXRvUDB6c0sxUGVlRWY5SUM5ZUllV1doQVhoLWkyd3IxdFdkRWJGY2J0ZGxyNmNwTEU3LVVBdDlXWVlxM2QtdGpHWmtBMGl0WkFWQzNucTVFTF9lelY3ZjdXNzFYeDhN?oc=5",
+      "source": "AP News",
+      "published_at": "Wed, 17 Jun 2026 07:00:00 GMT",
+      "summary": "US stocks sink on worries about a possible hike to interest rates this year by the Federal Reserve AP News",
+      "guid": "CBMilwFBVV95cUxQcUlFaFNwNVNsa1RTZTFkTEhaMmhGLXBpZnZjeVAwaDBSSzRjZUFIMTQ3UTctckwtOXRvUDB6c0sxUGVlRWY5SUM5ZUllV1doQVhoLWkyd3IxdFdkRWJGY2J0ZGxyNmNwTEU3LVVBdDlXWVlxM2QtdGpHWmtBMGl0WkFWQzNucTVFTF9lelY3ZjdXNzFYeDhN"
     },
     {
       "title": "Federal Reserve Outlook Lifts Asian Stock Markets - Yahoo Finance",
