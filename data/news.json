@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T17:08:43Z",
+  "generated_at": "2026-08-12T18:04:28Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -23,14 +23,6 @@
       "guid": "CBMizAFBVV95cUxPNmFjYWNhVVJHZ2Y1dVZ5M3A1LTdZT01sSFVQTVJZcXpfcjNNajNyRjZXNXBpWTlST29nWFBhQ19Id05CQ3pGQXMybTBoRU9CeDFvZXNNN1dxeUVxR3dkM0wyYTZhS1ZMVTJsckdySFlzVXBQVHdGMjVWd3k4TG9idUdueERPVHRZUV95NzBKYTdfYnVVNThfTlRkeEZtNGtCY0dhc3FZMjZBQ0ZHYzRhbnBkZFNxb1JQYmczWHR3S21LYU8yeXhyNk1HRk0"
     },
     {
-      "title": "US Stock Futures Climb Before Key Inflation Print: Markets Wrap - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPckZOT2NsYzNTTmVMZ1V0RUNzOVJSWm1CcGFiUXV3NHl5R05GZ3Y5SHJzTDlmU2hFMHV0a0JvcVluelRiejJuMFE4Y1VoY3pMV1pMSEQ1djFKRlpJdS1lLXl6ckVobnRiNzVkT2N4QVBDeEk2MlR5VkdDSFJNdXhJX2U5REN5YXRfUHBSd0JURGU4RjFG?oc=5",
-      "source": "Bloomberg.com",
-      "published_at": "Tue, 11 Aug 2026 22:07:25 GMT",
-      "summary": "US Stock Futures Climb Before Key Inflation Print: Markets Wrap Bloomberg.com",
-      "guid": "CBMilAFBVV95cUxPckZOT2NsYzNTTmVMZ1V0RUNzOVJSWm1CcGFiUXV3NHl5R05GZ3Y5SHJzTDlmU2hFMHV0a0JvcVluelRiejJuMFE4Y1VoY3pMV1pMSEQ1djFKRlpJdS1lLXl6ckVobnRiNzVkT2N4QVBDeEk2MlR5VkdDSFJNdXhJX2U5REN5YXRfUHBSd0JURGU4RjFG"
-    },
-    {
       "title": "Markets are still trying to figure out the Fed’s next move - CNN",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBJYnRFMmlWc3VqRXJ6TUhfbks3OXZQQm83UU5SdUZrMlQtdl9MbDM1OU03NldvUXhjVVM0QlpER1RBS2VkNjFpR3VpcTNVZmZhRy13VjVaVDJvUEExbTFGa1NRTmROb3hPQ2ZHRmN4Ync?oc=5",
       "source": "CNN",
@@ -39,36 +31,44 @@
       "guid": "CBMicEFVX3lxTFBJYnRFMmlWc3VqRXJ6TUhfbks3OXZQQm83UU5SdUZrMlQtdl9MbDM1OU03NldvUXhjVVM0QlpER1RBS2VkNjFpR3VpcTNVZmZhRy13VjVaVDJvUEExbTFGa1NRTmROb3hPQ2ZHRmN4Ync"
     },
     {
-      "title": "Stock Market Investors Just Got Bad News From the Federal Reserve - fool.com",
+      "title": "US Stock Futures Climb Before Key Inflation Print: Markets Wrap - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPckZOT2NsYzNTTmVMZ1V0RUNzOVJSWm1CcGFiUXV3NHl5R05GZ3Y5SHJzTDlmU2hFMHV0a0JvcVluelRiejJuMFE4Y1VoY3pMV1pMSEQ1djFKRlpJdS1lLXl6ckVobnRiNzVkT2N4QVBDeEk2MlR5VkdDSFJNdXhJX2U5REN5YXRfUHBSd0JURGU4RjFG?oc=5",
+      "source": "Bloomberg.com",
+      "published_at": "Tue, 11 Aug 2026 22:07:25 GMT",
+      "summary": "US Stock Futures Climb Before Key Inflation Print: Markets Wrap Bloomberg.com",
+      "guid": "CBMilAFBVV95cUxPckZOT2NsYzNTTmVMZ1V0RUNzOVJSWm1CcGFiUXV3NHl5R05GZ3Y5SHJzTDlmU2hFMHV0a0JvcVluelRiejJuMFE4Y1VoY3pMV1pMSEQ1djFKRlpJdS1lLXl6ckVobnRiNzVkT2N4QVBDeEk2MlR5VkdDSFJNdXhJX2U5REN5YXRfUHBSd0JURGU4RjFG"
+    },
+    {
+      "title": "Stock Market Investors Just Got Bad News From the Federal Reserve - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU0x1Uml3U2JwWVNjbDZjSUNkWVBTUkE3Vk5FS09sWFp3VE5kRDBYckZkUDU2c05uaVBsRTI0RXZXQmw5ZndNSk5BdUVUY01jNGNoOXhCRUtyc1dkTll0ZFJvOFhDbGtiT3l1NmpOdk5Lc3JHdktBU29XMjR2YXNaZHVQYmotMlItZVNPVkVabGhSMDJ2?oc=5",
-      "source": "fool.com",
+      "source": "The Motley Fool",
       "published_at": "Sun, 09 Aug 2026 09:12:00 GMT",
-      "summary": "Stock Market Investors Just Got Bad News From the Federal Reserve fool.com",
+      "summary": "Stock Market Investors Just Got Bad News From the Federal Reserve The Motley Fool",
       "guid": "CBMilAFBVV95cUxQU0x1Uml3U2JwWVNjbDZjSUNkWVBTUkE3Vk5FS09sWFp3VE5kRDBYckZkUDU2c05uaVBsRTI0RXZXQmw5ZndNSk5BdUVUY01jNGNoOXhCRUtyc1dkTll0ZFJvOFhDbGtiT3l1NmpOdk5Lc3JHdktBU29XMjR2YXNaZHVQYmotMlItZVNPVkVabGhSMDJ2"
     },
     {
-      "title": "How Kevin Warsh is rewiring the Fed - axios.com",
+      "title": "Small investors became a major stock market force. Now, they risk getting pushed back into the dark - cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUEUxSTFzZFlPZEdMWEs5VVRfdk9hS1NzX2JjUjZiQy1Va3J6SUdyUGVDNDlRZlVFVHU3RjlFaEw1Y3J5MjQxcXUta1pXQ2JrUTFGblZxZk5KX2FHWVdGVWgwcnRkSW03WmtaaWZHNWdrZl92RWFraTFNbjhfaGwwOVpjSdIBiAFBVV95cUxOUHUtMl82d293MGpCZXpJb0hFeHNHNWFtanVUUEM2bXJCek1yYktaSm9JZWRnZU95ZTdWVXlIN0wtVWw5TEQ0VVRlMEZadmdWSGdYc2o4VndJbnFKdWVab0pYWUpzQ1dQZVNOVkhrSGNmZDZXbEd3bGoteFhBS3dxQUNNSkgtanpZ?oc=5",
+      "source": "cnbc.com",
+      "published_at": "Wed, 12 Aug 2026 15:37:25 GMT",
+      "summary": "Small investors became a major stock market force. Now, they risk getting pushed back into the dark cnbc.com",
+      "guid": "CBMigwFBVV95cUxQUEUxSTFzZFlPZEdMWEs5VVRfdk9hS1NzX2JjUjZiQy1Va3J6SUdyUGVDNDlRZlVFVHU3RjlFaEw1Y3J5MjQxcXUta1pXQ2JrUTFGblZxZk5KX2FHWVdGVWgwcnRkSW03WmtaaWZHNWdrZl92RWFraTFNbjhfaGwwOVpjSdIBiAFBVV95cUxOUHUtMl82d293MGpCZXpJb0hFeHNHNWFtanVUUEM2bXJCek1yYktaSm9JZWRnZU95ZTdWVXlIN0wtVWw5TEQ0VVRlMEZadmdWSGdYc2o4VndJbnFKdWVab0pYWUpzQ1dQZVNOVkhrSGNmZDZXbEd3bGoteFhBS3dxQUNNSkgtanpZ"
+    },
+    {
+      "title": "How Kevin Warsh is rewiring the Fed - Axios",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8teTJqbjhiWFJIbWJ2emRScjZZRzVZWF9NLXNVb2k4Q2g0NTFlZzdmSC1JQ2phc0F2X0RHMFBoRE9DRUdXZllqZGhPZ1dtS0xzWV9YNXByRlVMdFIxZERKTU5QcERtdm5PTFVRcXIteDJod0k?oc=5",
-      "source": "axios.com",
+      "source": "Axios",
       "published_at": "Mon, 10 Aug 2026 09:04:42 GMT",
-      "summary": "How Kevin Warsh is rewiring the Fed axios.com",
+      "summary": "How Kevin Warsh is rewiring the Fed Axios",
       "guid": "CBMic0FVX3lxTE8teTJqbjhiWFJIbWJ2emRScjZZRzVZWF9NLXNVb2k4Q2g0NTFlZzdmSC1JQ2phc0F2X0RHMFBoRE9DRUdXZllqZGhPZ1dtS0xzWV9YNXByRlVMdFIxZERKTU5QcERtdm5PTFVRcXIteDJod0k"
     },
     {
-      "title": "Bonds Are the ‘One Wrinkle on the Horizon.’ They’re a Threat to Stock Market’s Summer Party. - barrons.com",
+      "title": "Bonds Are the ‘One Wrinkle on the Horizon.’ They’re a Threat to Stock Market’s Summer Party. - Barron's",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONkV2MF9oeHExamtqR0VHMnI3UWVQUVp6VEhxUmktM2tMMTZ3MFVZV29lbDBOTnRrWFBudUF0M0ozbUg0d3JGbjlCTWxuUWlZUHpaYVMydG9SZF9nb3JwTnRXWUdTSkhBbkVSMDlxOFhyZXAxQUFjc3diajhvSGpnNjRtRkpJNXI2Y0RQN2VfN0wwakk?oc=5",
-      "source": "barrons.com",
+      "source": "Barron's",
       "published_at": "Tue, 11 Aug 2026 10:55:00 GMT",
-      "summary": "Bonds Are the ‘One Wrinkle on the Horizon.’ They’re a Threat to Stock Market’s Summer Party. barrons.com",
+      "summary": "Bonds Are the ‘One Wrinkle on the Horizon.’ They’re a Threat to Stock Market’s Summer Party. Barron's",
       "guid": "CBMikwFBVV95cUxONkV2MF9oeHExamtqR0VHMnI3UWVQUVp6VEhxUmktM2tMMTZ3MFVZV29lbDBOTnRrWFBudUF0M0ozbUg0d3JGbjlCTWxuUWlZUHpaYVMydG9SZF9nb3JwTnRXWUdTSkhBbkVSMDlxOFhyZXAxQUFjc3diajhvSGpnNjRtRkpJNXI2Y0RQN2VfN0wwakk"
-    },
-    {
-      "title": "Stock Market Today: S&P 500, Dow,Nasdaq 100 Futures… - inkl",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWG9aWG9VSGNlQmJ6dXpINmNnZVBQNHlrb1VVNnNnNHFXMTlXTTR4WkJQN2FGWklidHJxb1pBRmlBbGFoeEJYMUQwZWRVZzRqQUpNQU8zc2RnR3BINkhab3hBTEMza2ROTU53d042VFNRNXlncDRHcWx4c2t4eVFrd096Y19LdVlBQVd0bU5kdXFtZ3Nnb1ZQOHoyQWMxWERjVE1XWFFWVlZlVW9DN2lDYW5iSFdRdm1rOHpFR0RzMXpfRncxUF9tRVVFV19ILXY0eW5fRWRHUzhpVFU0Y01rMw?oc=5",
-      "source": "inkl",
-      "published_at": "Wed, 12 Aug 2026 09:58:23 GMT",
-      "summary": "Stock Market Today: S&P 500, Dow,Nasdaq 100 Futures… inkl",
-      "guid": "CBMi4AFBVV95cUxOWG9aWG9VSGNlQmJ6dXpINmNnZVBQNHlrb1VVNnNnNHFXMTlXTTR4WkJQN2FGWklidHJxb1pBRmlBbGFoeEJYMUQwZWRVZzRqQUpNQU8zc2RnR3BINkhab3hBTEMza2ROTU53d042VFNRNXlncDRHcWx4c2t4eVFrd096Y19LdVlBQVd0bU5kdXFtZ3Nnb1ZQOHoyQWMxWERjVE1XWFFWVlZlVW9DN2lDYW5iSFdRdm1rOHpFR0RzMXpfRncxUF9tRVVFV19ILXY0eW5fRWRHUzhpVFU0Y01rMw"
     },
     {
       "title": "US stocks sink on worries about a possible hike to interest rates this year by the Federal Reserve - AP News",
