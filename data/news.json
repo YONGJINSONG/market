@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-08-12T22:23:04Z",
+  "generated_at": "2026-08-12T23:07:25Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "Does the Equity Term Structure Respond to Monetary Policy Shocks? - Liberty Street Economics",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcGZKaVc1MHU4VUlQTzFVZDNhOTJuN2VsZ1RITGFrRzFNMGNtWFJOT3BQQTRvcUwyLXo4bWNRcWlVaG5KSVpVU3Z1UmpjemUySjhLa1RhT2xBZHdGQ2tBT1JCSkYtZ3YtT2ZUZVNpcDBRYV9qdDdBcGtPbWFCclV4R3RVcDNJbGxyWmpjbHZ4MU9WUTFjcko5R0Vob3MyZmlMV2JHMDgybDdUa0NlcUR6QlBxa21xeHU2S1pv?oc=5",
+      "source": "Liberty Street Economics",
+      "published_at": "Wed, 12 Aug 2026 11:00:26 GMT",
+      "summary": "Does the Equity Term Structure Respond to Monetary Policy Shocks? Liberty Street Economics",
+      "guid": "CBMiuwFBVV95cUxPcGZKaVc1MHU4VUlQTzFVZDNhOTJuN2VsZ1RITGFrRzFNMGNtWFJOT3BQQTRvcUwyLXo4bWNRcWlVaG5KSVpVU3Z1UmpjemUySjhLa1RhT2xBZHdGQ2tBT1JCSkYtZ3YtT2ZUZVNpcDBRYV9qdDdBcGtPbWFCclV4R3RVcDNJbGxyWmpjbHZ4MU9WUTFjcko5R0Vob3MyZmlMV2JHMDgybDdUa0NlcUR6QlBxa21xeHU2S1pv"
+    },
     {
       "title": "Financial Markets, Oil Prices, and Supply-Side Risks - Federal Reserve Bank of San Francisco",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNmFjYWNhVVJHZ2Y1dVZ5M3A1LTdZT01sSFVQTVJZcXpfcjNNajNyRjZXNXBpWTlST29nWFBhQ19Id05CQ3pGQXMybTBoRU9CeDFvZXNNN1dxeUVxR3dkM0wyYTZhS1ZMVTJsckdySFlzVXBQVHdGMjVWd3k4TG9idUdueERPVHRZUV95NzBKYTdfYnVVNThfTlRkeEZtNGtCY0dhc3FZMjZBQ0ZHYzRhbnBkZFNxb1JQYmczWHR3S21LYU8yeXhyNk1HRk0?oc=5",
@@ -15,20 +23,20 @@
       "guid": "CBMizAFBVV95cUxPNmFjYWNhVVJHZ2Y1dVZ5M3A1LTdZT01sSFVQTVJZcXpfcjNNajNyRjZXNXBpWTlST29nWFBhQ19Id05CQ3pGQXMybTBoRU9CeDFvZXNNN1dxeUVxR3dkM0wyYTZhS1ZMVTJsckdySFlzVXBQVHdGMjVWd3k4TG9idUdueERPVHRZUV95NzBKYTdfYnVVNThfTlRkeEZtNGtCY0dhc3FZMjZBQ0ZHYzRhbnBkZFNxb1JQYmczWHR3S21LYU8yeXhyNk1HRk0"
     },
     {
-      "title": "The Odds of a September Rate Hike Have Plunged, but the Federal Reserve's Job Just Became Infinitely More Challenging - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVm9vaE1jVEdITDBZV2tFNEIwaXdMX1RSWVV0NEZnOE9hZkpZU2JVdTNTNWtkTmFEdHllaWVBOWl2WDlEZlNQQUxxdTdWQk44WGdWNGYyWWpybWdiSGg3czNDVkNxMkJ4YTBVS3NDQTh3UGZheWJETG16ZFRGZmt1S2VpdENUX2NzckhaQXIwRzVYeVRwMzE0VHY2QUVVQQ?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Wed, 12 Aug 2026 08:26:00 GMT",
-      "summary": "The Odds of a September Rate Hike Have Plunged, but the Federal Reserve's Job Just Became Infinitely More Challenging Yahoo Finance",
-      "guid": "CBMingFBVV95cUxNVm9vaE1jVEdITDBZV2tFNEIwaXdMX1RSWVV0NEZnOE9hZkpZU2JVdTNTNWtkTmFEdHllaWVBOWl2WDlEZlNQQUxxdTdWQk44WGdWNGYyWWpybWdiSGg3czNDVkNxMkJ4YTBVS3NDQTh3UGZheWJETG16ZFRGZmt1S2VpdENUX2NzckhaQXIwRzVYeVRwMzE0VHY2QUVVQQ"
-    },
-    {
       "title": "Asian Stocks Poised to Gain on Benign US Inflation: Markets Wrap - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMTRRN3JpQVd6R3hwNWhGcjNrZHVzbVpjNU1jenpNZXdITUxYdlpsaWdKVVozS1VuLXFFQUhUMFVHb0JhT0J5T2h6eUZHUmxBUGNyLWtYN1ZXSWtDRWZzS2MxSHJMeVVpV1BGM1oxWk0xVFJJQjFQQVdYZ3g0bm1GYnlDUWtEak5JejBzcFpTSVBEUFpX?oc=5",
       "source": "Bloomberg.com",
       "published_at": "Wed, 12 Aug 2026 22:08:18 GMT",
       "summary": "Asian Stocks Poised to Gain on Benign US Inflation: Markets Wrap Bloomberg.com",
       "guid": "CBMilAFBVV95cUxNMTRRN3JpQVd6R3hwNWhGcjNrZHVzbVpjNU1jenpNZXdITUxYdlpsaWdKVVozS1VuLXFFQUhUMFVHb0JhT0J5T2h6eUZHUmxBUGNyLWtYN1ZXSWtDRWZzS2MxSHJMeVVpV1BGM1oxWk0xVFJJQjFQQVdYZ3g0bm1GYnlDUWtEak5JejBzcFpTSVBEUFpX"
+    },
+    {
+      "title": "The Odds of a September Rate Hike Have Plunged, but the Federal Reserve's Job Just Became Infinitely More Challenging - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVm9vaE1jVEdITDBZV2tFNEIwaXdMX1RSWVV0NEZnOE9hZkpZU2JVdTNTNWtkTmFEdHllaWVBOWl2WDlEZlNQQUxxdTdWQk44WGdWNGYyWWpybWdiSGg3czNDVkNxMkJ4YTBVS3NDQTh3UGZheWJETG16ZFRGZmt1S2VpdENUX2NzckhaQXIwRzVYeVRwMzE0VHY2QUVVQQ?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Wed, 12 Aug 2026 08:26:00 GMT",
+      "summary": "The Odds of a September Rate Hike Have Plunged, but the Federal Reserve's Job Just Became Infinitely More Challenging Yahoo Finance",
+      "guid": "CBMingFBVV95cUxNVm9vaE1jVEdITDBZV2tFNEIwaXdMX1RSWVV0NEZnOE9hZkpZU2JVdTNTNWtkTmFEdHllaWVBOWl2WDlEZlNQQUxxdTdWQk44WGdWNGYyWWpybWdiSGg3czNDVkNxMkJ4YTBVS3NDQTh3UGZheWJETG16ZFRGZmt1S2VpdENUX2NzckhaQXIwRzVYeVRwMzE0VHY2QUVVQQ"
     },
     {
       "title": "Markets are still trying to figure out the Fed’s next move - CNN",
@@ -47,14 +55,6 @@
       "guid": "CBMilAFBVV95cUxQU0x1Uml3U2JwWVNjbDZjSUNkWVBTUkE3Vk5FS09sWFp3VE5kRDBYckZkUDU2c05uaVBsRTI0RXZXQmw5ZndNSk5BdUVUY01jNGNoOXhCRUtyc1dkTll0ZFJvOFhDbGtiT3l1NmpOdk5Lc3JHdktBU29XMjR2YXNaZHVQYmotMlItZVNPVkVabGhSMDJ2"
     },
     {
-      "title": "Small investors became a major stock market force. Now, they risk getting pushed back into the dark - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUEUxSTFzZFlPZEdMWEs5VVRfdk9hS1NzX2JjUjZiQy1Va3J6SUdyUGVDNDlRZlVFVHU3RjlFaEw1Y3J5MjQxcXUta1pXQ2JrUTFGblZxZk5KX2FHWVdGVWgwcnRkSW03WmtaaWZHNWdrZl92RWFraTFNbjhfaGwwOVpjSdIBiAFBVV95cUxOUHUtMl82d293MGpCZXpJb0hFeHNHNWFtanVUUEM2bXJCek1yYktaSm9JZWRnZU95ZTdWVXlIN0wtVWw5TEQ0VVRlMEZadmdWSGdYc2o4VndJbnFKdWVab0pYWUpzQ1dQZVNOVkhrSGNmZDZXbEd3bGoteFhBS3dxQUNNSkgtanpZ?oc=5",
-      "source": "CNBC",
-      "published_at": "Wed, 12 Aug 2026 15:37:25 GMT",
-      "summary": "Small investors became a major stock market force. Now, they risk getting pushed back into the dark CNBC",
-      "guid": "CBMigwFBVV95cUxQUEUxSTFzZFlPZEdMWEs5VVRfdk9hS1NzX2JjUjZiQy1Va3J6SUdyUGVDNDlRZlVFVHU3RjlFaEw1Y3J5MjQxcXUta1pXQ2JrUTFGblZxZk5KX2FHWVdGVWgwcnRkSW03WmtaaWZHNWdrZl92RWFraTFNbjhfaGwwOVpjSdIBiAFBVV95cUxOUHUtMl82d293MGpCZXpJb0hFeHNHNWFtanVUUEM2bXJCek1yYktaSm9JZWRnZU95ZTdWVXlIN0wtVWw5TEQ0VVRlMEZadmdWSGdYc2o4VndJbnFKdWVab0pYWUpzQ1dQZVNOVkhrSGNmZDZXbEd3bGoteFhBS3dxQUNNSkgtanpZ"
-    },
-    {
       "title": "How Kevin Warsh is rewiring the Fed - Axios",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8teTJqbjhiWFJIbWJ2emRScjZZRzVZWF9NLXNVb2k4Q2g0NTFlZzdmSC1JQ2phc0F2X0RHMFBoRE9DRUdXZllqZGhPZ1dtS0xzWV9YNXByRlVMdFIxZERKTU5QcERtdm5PTFVRcXIteDJod0k?oc=5",
       "source": "Axios",
@@ -63,11 +63,19 @@
       "guid": "CBMic0FVX3lxTE8teTJqbjhiWFJIbWJ2emRScjZZRzVZWF9NLXNVb2k4Q2g0NTFlZzdmSC1JQ2phc0F2X0RHMFBoRE9DRUdXZllqZGhPZ1dtS0xzWV9YNXByRlVMdFIxZERKTU5QcERtdm5PTFVRcXIteDJod0k"
     },
     {
-      "title": "Bonds Are the ‘One Wrinkle on the Horizon.’ They’re a Threat to Stock Market’s Summer Party. - barrons.com",
+      "title": "Small investors became a major stock market force. Now, they risk getting pushed back into the dark - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUEUxSTFzZFlPZEdMWEs5VVRfdk9hS1NzX2JjUjZiQy1Va3J6SUdyUGVDNDlRZlVFVHU3RjlFaEw1Y3J5MjQxcXUta1pXQ2JrUTFGblZxZk5KX2FHWVdGVWgwcnRkSW03WmtaaWZHNWdrZl92RWFraTFNbjhfaGwwOVpjSdIBiAFBVV95cUxOUHUtMl82d293MGpCZXpJb0hFeHNHNWFtanVUUEM2bXJCek1yYktaSm9JZWRnZU95ZTdWVXlIN0wtVWw5TEQ0VVRlMEZadmdWSGdYc2o4VndJbnFKdWVab0pYWUpzQ1dQZVNOVkhrSGNmZDZXbEd3bGoteFhBS3dxQUNNSkgtanpZ?oc=5",
+      "source": "CNBC",
+      "published_at": "Wed, 12 Aug 2026 15:37:25 GMT",
+      "summary": "Small investors became a major stock market force. Now, they risk getting pushed back into the dark CNBC",
+      "guid": "CBMigwFBVV95cUxQUEUxSTFzZFlPZEdMWEs5VVRfdk9hS1NzX2JjUjZiQy1Va3J6SUdyUGVDNDlRZlVFVHU3RjlFaEw1Y3J5MjQxcXUta1pXQ2JrUTFGblZxZk5KX2FHWVdGVWgwcnRkSW03WmtaaWZHNWdrZl92RWFraTFNbjhfaGwwOVpjSdIBiAFBVV95cUxOUHUtMl82d293MGpCZXpJb0hFeHNHNWFtanVUUEM2bXJCek1yYktaSm9JZWRnZU95ZTdWVXlIN0wtVWw5TEQ0VVRlMEZadmdWSGdYc2o4VndJbnFKdWVab0pYWUpzQ1dQZVNOVkhrSGNmZDZXbEd3bGoteFhBS3dxQUNNSkgtanpZ"
+    },
+    {
+      "title": "Bonds Are the ‘One Wrinkle on the Horizon.’ They’re a Threat to Stock Market’s Summer Party. - Barron's",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONkV2MF9oeHExamtqR0VHMnI3UWVQUVp6VEhxUmktM2tMMTZ3MFVZV29lbDBOTnRrWFBudUF0M0ozbUg0d3JGbjlCTWxuUWlZUHpaYVMydG9SZF9nb3JwTnRXWUdTSkhBbkVSMDlxOFhyZXAxQUFjc3diajhvSGpnNjRtRkpJNXI2Y0RQN2VfN0wwakk?oc=5",
-      "source": "barrons.com",
+      "source": "Barron's",
       "published_at": "Tue, 11 Aug 2026 10:55:00 GMT",
-      "summary": "Bonds Are the ‘One Wrinkle on the Horizon.’ They’re a Threat to Stock Market’s Summer Party. barrons.com",
+      "summary": "Bonds Are the ‘One Wrinkle on the Horizon.’ They’re a Threat to Stock Market’s Summer Party. Barron's",
       "guid": "CBMikwFBVV95cUxONkV2MF9oeHExamtqR0VHMnI3UWVQUVp6VEhxUmktM2tMMTZ3MFVZV29lbDBOTnRrWFBudUF0M0ozbUg0d3JGbjlCTWxuUWlZUHpaYVMydG9SZF9nb3JwTnRXWUdTSkhBbkVSMDlxOFhyZXAxQUFjc3diajhvSGpnNjRtRkpJNXI2Y0RQN2VfN0wwakk"
     },
     {
@@ -77,14 +85,6 @@
       "published_at": "Wed, 17 Jun 2026 07:00:00 GMT",
       "summary": "US stocks sink on worries about a possible hike to interest rates this year by the Federal Reserve AP News",
       "guid": "CBMilwFBVV95cUxQcUlFaFNwNVNsa1RTZTFkTEhaMmhGLXBpZnZjeVAwaDBSSzRjZUFIMTQ3UTctckwtOXRvUDB6c0sxUGVlRWY5SUM5ZUllV1doQVhoLWkyd3IxdFdkRWJGY2J0ZGxyNmNwTEU3LVVBdDlXWVlxM2QtdGpHWmtBMGl0WkFWQzNucTVFTF9lelY3ZjdXNzFYeDhN"
-    },
-    {
-      "title": "Federal Reserve Outlook Lifts Asian Stock Markets - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLXhnS0h0UE1SazlYbS1jcjc1ZXdLQ3hQNFFLcUFtVWE1UGZtLW1PQWFWY0x6TW9wRmFINXBmaXlJOThjemE5Q2JtWm1BTno1SERxeDFHMDJCUjhWWkQ5M3lqeEVNUGk2bG9Mem1wOS10S3p1eUVHMUJGSUM2clgtUDNHZWRRVld5dUZ1OXFpbHcxaVNVdWUyWUhJd2ZlekNlZUE0bktBZHg?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Mon, 10 Aug 2026 10:36:19 GMT",
-      "summary": "Federal Reserve Outlook Lifts Asian Stock Markets Yahoo Finance",
-      "guid": "CBMiqAFBVV95cUxQLXhnS0h0UE1SazlYbS1jcjc1ZXdLQ3hQNFFLcUFtVWE1UGZtLW1PQWFWY0x6TW9wRmFINXBmaXlJOThjemE5Q2JtWm1BTno1SERxeDFHMDJCUjhWWkQ5M3lqeEVNUGk2bG9Mem1wOS10S3p1eUVHMUJGSUM2clgtUDNHZWRRVld5dUZ1OXFpbHcxaVNVdWUyWUhJd2ZlekNlZUE0bktBZHg"
     }
   ]
 }
