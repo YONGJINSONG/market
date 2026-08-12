@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T14:05:43Z",
+  "generated_at": "2026-08-12T15:11:33Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -15,11 +15,11 @@
       "guid": "CBMingFBVV95cUxNVm9vaE1jVEdITDBZV2tFNEIwaXdMX1RSWVV0NEZnOE9hZkpZU2JVdTNTNWtkTmFEdHllaWVBOWl2WDlEZlNQQUxxdTdWQk44WGdWNGYyWWpybWdiSGg3czNDVkNxMkJ4YTBVS3NDQTh3UGZheWJETG16ZFRGZmt1S2VpdENUX2NzckhaQXIwRzVYeVRwMzE0VHY2QUVVQQ"
     },
     {
-      "title": "Financial Markets, Oil Prices, and Supply-Side Risks - frbsf.org",
+      "title": "Financial Markets, Oil Prices, and Supply-Side Risks - Federal Reserve Bank of San Francisco",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNmFjYWNhVVJHZ2Y1dVZ5M3A1LTdZT01sSFVQTVJZcXpfcjNNajNyRjZXNXBpWTlST29nWFBhQ19Id05CQ3pGQXMybTBoRU9CeDFvZXNNN1dxeUVxR3dkM0wyYTZhS1ZMVTJsckdySFlzVXBQVHdGMjVWd3k4TG9idUdueERPVHRZUV95NzBKYTdfYnVVNThfTlRkeEZtNGtCY0dhc3FZMjZBQ0ZHYzRhbnBkZFNxb1JQYmczWHR3S21LYU8yeXhyNk1HRk0?oc=5",
-      "source": "frbsf.org",
+      "source": "Federal Reserve Bank of San Francisco",
       "published_at": "Mon, 10 Aug 2026 17:00:00 GMT",
-      "summary": "Financial Markets, Oil Prices, and Supply-Side Risks frbsf.org",
+      "summary": "Financial Markets, Oil Prices, and Supply-Side Risks Federal Reserve Bank of San Francisco",
       "guid": "CBMizAFBVV95cUxPNmFjYWNhVVJHZ2Y1dVZ5M3A1LTdZT01sSFVQTVJZcXpfcjNNajNyRjZXNXBpWTlST29nWFBhQ19Id05CQ3pGQXMybTBoRU9CeDFvZXNNN1dxeUVxR3dkM0wyYTZhS1ZMVTJsckdySFlzVXBQVHdGMjVWd3k4TG9idUdueERPVHRZUV95NzBKYTdfYnVVNThfTlRkeEZtNGtCY0dhc3FZMjZBQ0ZHYzRhbnBkZFNxb1JQYmczWHR3S21LYU8yeXhyNk1HRk0"
     },
     {
@@ -37,14 +37,6 @@
       "published_at": "Tue, 11 Aug 2026 09:00:29 GMT",
       "summary": "Markets are still trying to figure out the Fed’s next move CNN",
       "guid": "CBMicEFVX3lxTFBJYnRFMmlWc3VqRXJ6TUhfbks3OXZQQm83UU5SdUZrMlQtdl9MbDM1OU03NldvUXhjVVM0QlpER1RBS2VkNjFpR3VpcTNVZmZhRy13VjVaVDJvUEExbTFGa1NRTmROb3hPQ2ZHRmN4Ync"
-    },
-    {
-      "title": "The Odds of a September Rate Hike Have Plunged, but the Federal Reserve's Job Just Became Infinitely More Challenging - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNanhMS3RtRV9xNHVpVi0zN0V4ekg2Q1pzM2RJbW9uNGZVWHhJTDdfSElJano4S2ZidWtxMzd4Ry1LR0w4dGZ0Y0YtNXRzR2g0R25HcExNQU02MkwwQ2pvVks2SGZ6VGJ0NHp5MnJNSlNyMmlQWVM2YUNFdGJnUVhxNDIyblV1bm9QNkx2VFlTRnNMSTFLbVFScy1hUFNMdXlvMmJ2Wmw4NDBtS0htSUM3QWZaTmZUWFlHUUdVc1JHVm1tdFhnN2x4OWRKU1FUby1icHRIdEIwX04xZFpjYVBmLUs5QXVlUXgyWXNiRHlxMGFHZVpmMVpjdHFJb3dFYko3WlAzcnBGeFhVZmI0M3N3SXI4TDBmNmtVUEFnWmY4aGFSTndxMUJTZWJfTQ?oc=5",
-      "source": "The Globe and Mail",
-      "published_at": "Wed, 12 Aug 2026 08:31:25 GMT",
-      "summary": "The Odds of a September Rate Hike Have Plunged, but the Federal Reserve's Job Just Became Infinitely More Challenging The Globe and Mail",
-      "guid": "CBMiqwJBVV95cUxNanhMS3RtRV9xNHVpVi0zN0V4ekg2Q1pzM2RJbW9uNGZVWHhJTDdfSElJano4S2ZidWtxMzd4Ry1LR0w4dGZ0Y0YtNXRzR2g0R25HcExNQU02MkwwQ2pvVks2SGZ6VGJ0NHp5MnJNSlNyMmlQWVM2YUNFdGJnUVhxNDIyblV1bm9QNkx2VFlTRnNMSTFLbVFScy1hUFNMdXlvMmJ2Wmw4NDBtS0htSUM3QWZaTmZUWFlHUUdVc1JHVm1tdFhnN2x4OWRKU1FUby1icHRIdEIwX04xZFpjYVBmLUs5QXVlUXgyWXNiRHlxMGFHZVpmMVpjdHFJb3dFYko3WlAzcnBGeFhVZmI0M3N3SXI4TDBmNmtVUEFnWmY4aGFSTndxMUJTZWJfTQ"
     },
     {
       "title": "Stock Market Investors Just Got Bad News From the Federal Reserve - The Motley Fool",
@@ -79,12 +71,20 @@
       "guid": "CBMikwFBVV95cUxONkV2MF9oeHExamtqR0VHMnI3UWVQUVp6VEhxUmktM2tMMTZ3MFVZV29lbDBOTnRrWFBudUF0M0ozbUg0d3JGbjlCTWxuUWlZUHpaYVMydG9SZF9nb3JwTnRXWUdTSkhBbkVSMDlxOFhyZXAxQUFjc3diajhvSGpnNjRtRkpJNXI2Y0RQN2VfN0wwakk"
     },
     {
-      "title": "The Fed Faces a Credibility Crisis—and the Stock Market Will Pay the Price - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPd2k2UGxNOFRzM21hRG16dV9VTGt0NnFTYmNXOVZzazNqZ2ZTVGppSWNuR09haFNhMjIzVkhIV3ZqQkZpYWNKbGN5QUMzcEI5NEFLdmYwRG1NdFFRMkhvRFd0TU0yazV4aTRyZ1UzX29EU2NaaHp3R3FZaTI5ZDNpZHJuUkNDT2M4azB3?oc=5",
-      "source": "Barron's",
-      "published_at": "Thu, 30 Jul 2026 07:00:00 GMT",
-      "summary": "The Fed Faces a Credibility Crisis—and the Stock Market Will Pay the Price Barron's",
-      "guid": "CBMiiwFBVV95cUxPd2k2UGxNOFRzM21hRG16dV9VTGt0NnFTYmNXOVZzazNqZ2ZTVGppSWNuR09haFNhMjIzVkhIV3ZqQkZpYWNKbGN5QUMzcEI5NEFLdmYwRG1NdFFRMkhvRFd0TU0yazV4aTRyZ1UzX29EU2NaaHp3R3FZaTI5ZDNpZHJuUkNDT2M4azB3"
+      "title": "US stocks sink on worries about a possible hike to interest rates this year by the Federal Reserve - apnews.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcUlFaFNwNVNsa1RTZTFkTEhaMmhGLXBpZnZjeVAwaDBSSzRjZUFIMTQ3UTctckwtOXRvUDB6c0sxUGVlRWY5SUM5ZUllV1doQVhoLWkyd3IxdFdkRWJGY2J0ZGxyNmNwTEU3LVVBdDlXWVlxM2QtdGpHWmtBMGl0WkFWQzNucTVFTF9lelY3ZjdXNzFYeDhN?oc=5",
+      "source": "apnews.com",
+      "published_at": "Wed, 17 Jun 2026 07:00:00 GMT",
+      "summary": "US stocks sink on worries about a possible hike to interest rates this year by the Federal Reserve apnews.com",
+      "guid": "CBMilwFBVV95cUxQcUlFaFNwNVNsa1RTZTFkTEhaMmhGLXBpZnZjeVAwaDBSSzRjZUFIMTQ3UTctckwtOXRvUDB6c0sxUGVlRWY5SUM5ZUllV1doQVhoLWkyd3IxdFdkRWJGY2J0ZGxyNmNwTEU3LVVBdDlXWVlxM2QtdGpHWmtBMGl0WkFWQzNucTVFTF9lelY3ZjdXNzFYeDhN"
+    },
+    {
+      "title": "Stock Market Today: S&P 500, Nasdaq 100 Futures Rise… - inkl",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOWG9aWG9VSGNlQmJ6dXpINmNnZVBQNHlrb1VVNnNnNHFXMTlXTTR4WkJQN2FGWklidHJxb1pBRmlBbGFoeEJYMUQwZWRVZzRqQUpNQU8zc2RnR3BINkhab3hBTEMza2ROTU53d042VFNRNXlncDRHcWx4c2t4eVFrd096Y19LdVlBQVd0bU5kdXFtZ3Nnb1ZQOHoyQWMxWERjVE1XWFFWVlZlVW9DN2lDYW5iSFdRdm1rOHpFR0RzMXpfRncxUF9tRVVFV19ILXY0eW5fRWRHUzhpVFU0Y01rMw?oc=5",
+      "source": "inkl",
+      "published_at": "Wed, 12 Aug 2026 09:58:23 GMT",
+      "summary": "Stock Market Today: S&P 500, Nasdaq 100 Futures Rise… inkl",
+      "guid": "CBMi4AFBVV95cUxOWG9aWG9VSGNlQmJ6dXpINmNnZVBQNHlrb1VVNnNnNHFXMTlXTTR4WkJQN2FGWklidHJxb1pBRmlBbGFoeEJYMUQwZWRVZzRqQUpNQU8zc2RnR3BINkhab3hBTEMza2ROTU53d042VFNRNXlncDRHcWx4c2t4eVFrd096Y19LdVlBQVd0bU5kdXFtZ3Nnb1ZQOHoyQWMxWERjVE1XWFFWVlZlVW9DN2lDYW5iSFdRdm1rOHpFR0RzMXpfRncxUF9tRVVFV19ILXY0eW5fRWRHUzhpVFU0Y01rMw"
     }
   ]
 }
