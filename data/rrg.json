@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T16:37:55Z",
+  "generated_at": "2026-08-13T17:44:20Z",
   "benchmark": "SPY",
   "sectors": [
     {
@@ -23,8 +23,8 @@
           "rsMomentum": 100.55
         },
         {
-          "rsRatio": 102.06,
-          "rsMomentum": 100.26
+          "rsRatio": 102.13,
+          "rsMomentum": 100.32
         }
       ]
     },
@@ -49,8 +49,8 @@
           "rsMomentum": 100.46
         },
         {
-          "rsRatio": 100.7,
-          "rsMomentum": 99.66
+          "rsRatio": 100.5,
+          "rsMomentum": 99.45
         }
       ]
     },
@@ -75,8 +75,8 @@
           "rsMomentum": 100.32
         },
         {
-          "rsRatio": 99.25,
-          "rsMomentum": 99.76
+          "rsRatio": 99.28,
+          "rsMomentum": 99.8
         }
       ]
     },
@@ -101,8 +101,8 @@
           "rsMomentum": 100.09
         },
         {
-          "rsRatio": 101.54,
-          "rsMomentum": 99.36
+          "rsRatio": 101.72,
+          "rsMomentum": 99.54
         }
       ]
     },
@@ -127,8 +127,8 @@
           "rsMomentum": 98.88
         },
         {
-          "rsRatio": 98.68,
-          "rsMomentum": 100.31
+          "rsRatio": 98.74,
+          "rsMomentum": 100.37
         }
       ]
     },
@@ -153,8 +153,8 @@
           "rsMomentum": 101.08
         },
         {
-          "rsRatio": 99.65,
-          "rsMomentum": 100.73
+          "rsRatio": 99.54,
+          "rsMomentum": 100.63
         }
       ]
     },
@@ -163,24 +163,24 @@
       "symbol": "XLI",
       "trail": [
         {
-          "rsRatio": 97.79,
-          "rsMomentum": 98.58
+          "rsRatio": 98.84,
+          "rsMomentum": 99.94
         },
         {
-          "rsRatio": 97.86,
-          "rsMomentum": 100.07
+          "rsRatio": 98.93,
+          "rsMomentum": 100.09
         },
         {
-          "rsRatio": 98.86,
-          "rsMomentum": 101.03
+          "rsRatio": 100.06,
+          "rsMomentum": 101.14
         },
         {
-          "rsRatio": 98.62,
-          "rsMomentum": 99.76
+          "rsRatio": 99.97,
+          "rsMomentum": 99.91
         },
         {
-          "rsRatio": 98.4,
-          "rsMomentum": 99.77
+          "rsRatio": 99.46,
+          "rsMomentum": 99.49
         }
       ]
     },
@@ -189,24 +189,24 @@
       "symbol": "XLB",
       "trail": [
         {
-          "rsRatio": 98.86,
-          "rsMomentum": 101.32
+          "rsRatio": 99.42,
+          "rsMomentum": 100.85
         },
         {
-          "rsRatio": 99.65,
-          "rsMomentum": 100.8
+          "rsRatio": 100.16,
+          "rsMomentum": 100.74
         },
         {
-          "rsRatio": 99.26,
-          "rsMomentum": 99.6
+          "rsRatio": 100.82,
+          "rsMomentum": 100.66
         },
         {
-          "rsRatio": 98.45,
-          "rsMomentum": 99.19
+          "rsRatio": 99.74,
+          "rsMomentum": 98.93
         },
         {
-          "rsRatio": 98.71,
-          "rsMomentum": 100.26
+          "rsRatio": 99.0,
+          "rsMomentum": 99.26
         }
       ]
     },
@@ -231,8 +231,8 @@
           "rsMomentum": 101.07
         },
         {
-          "rsRatio": 99.25,
-          "rsMomentum": 100.39
+          "rsRatio": 99.11,
+          "rsMomentum": 100.25
         }
       ]
     },
@@ -241,24 +241,24 @@
       "symbol": "XLRE",
       "trail": [
         {
-          "rsRatio": 96.27,
-          "rsMomentum": 101.09
+          "rsRatio": 96.66,
+          "rsMomentum": 100.43
         },
         {
-          "rsRatio": 95.85,
-          "rsMomentum": 99.56
+          "rsRatio": 96.15,
+          "rsMomentum": 99.48
         },
         {
-          "rsRatio": 95.41,
-          "rsMomentum": 99.54
+          "rsRatio": 96.56,
+          "rsMomentum": 100.42
         },
         {
-          "rsRatio": 97.08,
-          "rsMomentum": 101.75
+          "rsRatio": 98.11,
+          "rsMomentum": 101.61
         },
         {
-          "rsRatio": 98.98,
-          "rsMomentum": 101.95
+          "rsRatio": 99.21,
+          "rsMomentum": 101.12
         }
       ]
     },
@@ -289,5 +289,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-08-13T16:37:55Z"
+  "lastUpdated": "2026-08-13T17:44:20Z"
 }
