@@ -1,16 +1,16 @@
 {
   "fear_and_greed": {
-    "score": 82,
+    "score": 80,
     "rating": "Extreme Greed"
   },
-  "generated_at": "2026-08-13T00:01:37Z",
+  "generated_at": "2026-08-13T01:05:09Z",
   "source": {
     "provider": "Yahoo Finance fallback",
     "fallback_for": "CNN Fear & Greed"
   },
   "components": {
     "momentum": 98.12,
-    "breadth": 64.66,
+    "breadth": 58.55,
     "safe_haven": 74.35,
     "volatility": 88.91
   }
