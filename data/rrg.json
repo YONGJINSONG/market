@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T11:31:42Z",
+  "generated_at": "2026-08-13T12:11:05Z",
   "benchmark": "SPY",
   "sectors": [
     {
@@ -189,24 +189,24 @@
       "symbol": "XLB",
       "trail": [
         {
-          "rsRatio": 97.57,
-          "rsMomentum": 97.39
+          "rsRatio": 98.58,
+          "rsMomentum": 99.3
         },
         {
-          "rsRatio": 98.86,
-          "rsMomentum": 101.32
+          "rsRatio": 99.42,
+          "rsMomentum": 100.85
         },
         {
-          "rsRatio": 99.65,
-          "rsMomentum": 100.8
+          "rsRatio": 100.16,
+          "rsMomentum": 100.74
         },
         {
-          "rsRatio": 99.26,
-          "rsMomentum": 99.6
+          "rsRatio": 100.82,
+          "rsMomentum": 100.66
         },
         {
-          "rsRatio": 98.45,
-          "rsMomentum": 99.19
+          "rsRatio": 99.74,
+          "rsMomentum": 98.93
         }
       ]
     },
@@ -289,5 +289,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-08-13T11:31:42Z"
+  "lastUpdated": "2026-08-13T12:11:05Z"
 }
