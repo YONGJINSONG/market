@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T15:36:20Z",
+  "generated_at": "2026-08-13T16:31:34Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -39,14 +39,6 @@
       "guid": "CBMiowFBVV95cUxPYklxZWxQWEI4bU5nVHpWUVJkQWo4YmQ5ZWpfTXNWWHBjNlE0d09NNEdtbWMtQldtbndIMzNBU1Z3TldjNEF5YUoxMHJSdHlXak50XzBMYlh4dHh2OWxVckViSjVxYUFCVlBvcnQ4Vk9vLVF0MWhGR3BidXQzOGItYUVjbnNYSk1pdS1XeTZqUGtaVTZzcDRkR1N1V0xkN0o5STBZ"
     },
     {
-      "title": "Does the Equity Term Structure Respond to Monetary Policy Shocks? - Liberty Street Economics",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcGZKaVc1MHU4VUlQTzFVZDNhOTJuN2VsZ1RITGFrRzFNMGNtWFJOT3BQQTRvcUwyLXo4bWNRcWlVaG5KSVpVU3Z1UmpjemUySjhLa1RhT2xBZHdGQ2tBT1JCSkYtZ3YtT2ZUZVNpcDBRYV9qdDdBcGtPbWFCclV4R3RVcDNJbGxyWmpjbHZ4MU9WUTFjcko5R0Vob3MyZmlMV2JHMDgybDdUa0NlcUR6QlBxa21xeHU2S1pv?oc=5",
-      "source": "Liberty Street Economics",
-      "published_at": "Wed, 12 Aug 2026 11:00:26 GMT",
-      "summary": "Does the Equity Term Structure Respond to Monetary Policy Shocks? Liberty Street Economics",
-      "guid": "CBMiuwFBVV95cUxPcGZKaVc1MHU4VUlQTzFVZDNhOTJuN2VsZ1RITGFrRzFNMGNtWFJOT3BQQTRvcUwyLXo4bWNRcWlVaG5KSVpVU3Z1UmpjemUySjhLa1RhT2xBZHdGQ2tBT1JCSkYtZ3YtT2ZUZVNpcDBRYV9qdDdBcGtPbWFCclV4R3RVcDNJbGxyWmpjbHZ4MU9WUTFjcko5R0Vob3MyZmlMV2JHMDgybDdUa0NlcUR6QlBxa21xeHU2S1pv"
-    },
-    {
       "title": "If a Stock Market Crash Is Coming, History Says This 1 Investing Move Is Crucial - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdERMTzBWenp6TWJ1YmVIWC1NN1E1VTlqZlRpUTdGd1VrTVFSMENvUnVJdlM5QTUxcFJPQm5UMWk1d0d0OUZBNUluVjJNcUdKTUVOWE5YRHp6RlpTaW13MlRIV0RLWHhzUmcxdDZpMHJfRmJoREdjRERXMHdERi1SRWQyamxEbFljSGJSUjdwTWxfdw?oc=5",
       "source": "The Motley Fool",
@@ -55,12 +47,28 @@
       "guid": "CBMikgFBVV95cUxOdERMTzBWenp6TWJ1YmVIWC1NN1E1VTlqZlRpUTdGd1VrTVFSMENvUnVJdlM5QTUxcFJPQm5UMWk1d0d0OUZBNUluVjJNcUdKTUVOWE5YRHp6RlpTaW13MlRIV0RLWHhzUmcxdDZpMHJfRmJoREdjRERXMHdERi1SRWQyamxEbFljSGJSUjdwTWxfdw"
     },
     {
+      "title": "Does the Equity Term Structure Respond to Monetary Policy Shocks? - Liberty Street Economics",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcGZKaVc1MHU4VUlQTzFVZDNhOTJuN2VsZ1RITGFrRzFNMGNtWFJOT3BQQTRvcUwyLXo4bWNRcWlVaG5KSVpVU3Z1UmpjemUySjhLa1RhT2xBZHdGQ2tBT1JCSkYtZ3YtT2ZUZVNpcDBRYV9qdDdBcGtPbWFCclV4R3RVcDNJbGxyWmpjbHZ4MU9WUTFjcko5R0Vob3MyZmlMV2JHMDgybDdUa0NlcUR6QlBxa21xeHU2S1pv?oc=5",
+      "source": "Liberty Street Economics",
+      "published_at": "Wed, 12 Aug 2026 11:00:26 GMT",
+      "summary": "Does the Equity Term Structure Respond to Monetary Policy Shocks? Liberty Street Economics",
+      "guid": "CBMiuwFBVV95cUxPcGZKaVc1MHU4VUlQTzFVZDNhOTJuN2VsZ1RITGFrRzFNMGNtWFJOT3BQQTRvcUwyLXo4bWNRcWlVaG5KSVpVU3Z1UmpjemUySjhLa1RhT2xBZHdGQ2tBT1JCSkYtZ3YtT2ZUZVNpcDBRYV9qdDdBcGtPbWFCclV4R3RVcDNJbGxyWmpjbHZ4MU9WUTFjcko5R0Vob3MyZmlMV2JHMDgybDdUa0NlcUR6QlBxa21xeHU2S1pv"
+    },
+    {
       "title": "The Odds of a September Rate Hike Have Plunged, but the Federal Reserve's Job Just Became Infinitely More Challenging - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVm9vaE1jVEdITDBZV2tFNEIwaXdMX1RSWVV0NEZnOE9hZkpZU2JVdTNTNWtkTmFEdHllaWVBOWl2WDlEZlNQQUxxdTdWQk44WGdWNGYyWWpybWdiSGg3czNDVkNxMkJ4YTBVS3NDQTh3UGZheWJETG16ZFRGZmt1S2VpdENUX2NzckhaQXIwRzVYeVRwMzE0VHY2QUVVQQ?oc=5",
       "source": "Yahoo Finance",
       "published_at": "Wed, 12 Aug 2026 08:26:00 GMT",
       "summary": "The Odds of a September Rate Hike Have Plunged, but the Federal Reserve's Job Just Became Infinitely More Challenging Yahoo Finance",
       "guid": "CBMingFBVV95cUxNVm9vaE1jVEdITDBZV2tFNEIwaXdMX1RSWVV0NEZnOE9hZkpZU2JVdTNTNWtkTmFEdHllaWVBOWl2WDlEZlNQQUxxdTdWQk44WGdWNGYyWWpybWdiSGg3czNDVkNxMkJ4YTBVS3NDQTh3UGZheWJETG16ZFRGZmt1S2VpdENUX2NzckhaQXIwRzVYeVRwMzE0VHY2QUVVQQ"
+    },
+    {
+      "title": "US stocks rise toward records as oil prices drop and inflation gets less bad - WJournalpr",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQc2FsWGNfblRGckhqeWVPMUF4MmREd3ljMkJFcnJvX3RMZHI4NExCWE1KSnJwRlNJaUo0MUd3TUlCNjBzQ3NjY0Q3Z1lyVWRINGhJaGpZWlRfdXVrR09xeHo4UllxSGdiWlgxWHdaYWJnX0lIMjE0X2JPMjVScjRpeTQtcGtaa3M5bDBCTDhqTERJRm1iQ1FxNVNheW9NV2ZwS2lpZjljUXFXXzJvbWU1WEdTVUM5U3FodHY5N0JrZWh6SDBFWTBIdmhIN2llaUNtLURRYVlpMl9aT1pRUms3dmw1dWp4dk9SUHlLd05qUlFCRDJjQ3lObTJIWQ?oc=5",
+      "source": "WJournalpr",
+      "published_at": "Thu, 13 Aug 2026 15:33:00 GMT",
+      "summary": "US stocks rise toward records as oil prices drop and inflation gets less bad WJournalpr",
+      "guid": "CBMi-wFBVV95cUxQc2FsWGNfblRGckhqeWVPMUF4MmREd3ljMkJFcnJvX3RMZHI4NExCWE1KSnJwRlNJaUo0MUd3TUlCNjBzQ3NjY0Q3Z1lyVWRINGhJaGpZWlRfdXVrR09xeHo4UllxSGdiWlgxWHdaYWJnX0lIMjE0X2JPMjVScjRpeTQtcGtaa3M5bDBCTDhqTERJRm1iQ1FxNVNheW9NV2ZwS2lpZjljUXFXXzJvbWU1WEdTVUM5U3FodHY5N0JrZWh6SDBFWTBIdmhIN2llaUNtLURRYVlpMl9aT1pRUms3dmw1dWp4dk9SUHlLd05qUlFCRDJjQ3lObTJIWQ"
     },
     {
       "title": "How Kevin Warsh is rewiring the Fed - Axios",
@@ -77,14 +85,6 @@
       "published_at": "Tue, 11 Aug 2026 22:07:25 GMT",
       "summary": "US Stock Futures Climb Before Key Inflation Print: Markets Wrap Bloomberg",
       "guid": "CBMilAFBVV95cUxPckZOT2NsYzNTTmVMZ1V0RUNzOVJSWm1CcGFiUXV3NHl5R05GZ3Y5SHJzTDlmU2hFMHV0a0JvcVluelRiejJuMFE4Y1VoY3pMV1pMSEQ1djFKRlpJdS1lLXl6ckVobnRiNzVkT2N4QVBDeEk2MlR5VkdDSFJNdXhJX2U5REN5YXRfUHBSd0JURGU4RjFG"
-    },
-    {
-      "title": "More Americans are having a harder time keeping up with their home and car payments - CNN",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hX2NzeUNXWXJ0aFN5MElEQWl5MVNQME1GZ1FSWUc4WmVKUHdrZktkSVViRU9sNzlTZmN4LWxMcXEwZHFRRkJxNGVVNVlGMTBoYzdPNGVNWnEwQ3RtSUF2YVJJUjQ0N2F2TTE1cVR5aVcwVE5v?oc=5",
-      "source": "CNN",
-      "published_at": "Tue, 11 Aug 2026 15:14:11 GMT",
-      "summary": "More Americans are having a harder time keeping up with their home and car payments CNN",
-      "guid": "CBMidEFVX3lxTE1hX2NzeUNXWXJ0aFN5MElEQWl5MVNQME1GZ1FSWUc4WmVKUHdrZktkSVViRU9sNzlTZmN4LWxMcXEwZHFRRkJxNGVVNVlGMTBoYzdPNGVNWnEwQ3RtSUF2YVJJUjQ0N2F2TTE1cVR5aVcwVE5v"
     }
   ]
 }
