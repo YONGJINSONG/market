@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T20:24:31Z",
+  "generated_at": "2026-08-13T21:16:09Z",
   "benchmark": "SPY",
   "sectors": [
     {
@@ -23,8 +23,8 @@
           "rsMomentum": 100.55
         },
         {
-          "rsRatio": 101.74,
-          "rsMomentum": 99.94
+          "rsRatio": 101.76,
+          "rsMomentum": 99.97
         }
       ]
     },
@@ -205,8 +205,8 @@
           "rsMomentum": 98.93
         },
         {
-          "rsRatio": 98.87,
-          "rsMomentum": 99.13
+          "rsRatio": 98.88,
+          "rsMomentum": 99.14
         }
       ]
     },
@@ -289,5 +289,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-08-13T20:24:31Z"
+  "lastUpdated": "2026-08-13T21:16:09Z"
 }
