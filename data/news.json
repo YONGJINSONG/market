@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T22:38:37Z",
+  "generated_at": "2026-08-14T22:56:45Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -31,20 +31,20 @@
       "guid": "CBMiqAFBVV95cUxQaXg3dWZDOTRkTFdPQWN3eGs5M1pjLXpfOVB3amxuMWZJQUR6V2tjc191UGkzUExldFhRcHJGbnAxbzNQUjdUOW9YOXBZOUpYMFJmc3dDaVNPbGpCa2dsZEFZNFRBbm5PUURBLXEwaDBBenBuZ3lVVnpmRmtBWFlTSUtjdWNvS3RtckpOVlZRZjRNS09SbjV3ZzN2R3d0NmNwVTZOaHJ2ZzM"
     },
     {
-      "title": "Fed Rate Hike Odds Fall As Amazon Prime Day Effect Hits Retail Sales - Investor's Business Daily",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUjlaMnhtaGxDcGZzZFdpTjBDclVqYmdQUkE2Q0VaMEVQY1FldUhJbVM2VVpDZ3pJd2dieFA1RHI5YlNYeGc2empyczA5NTd3Yk5BdlpjSVJ1WVhYaGNGOXVpSU5BbUhQWGpPS0lQWDk4ZGgwUjlHeTBGSXRhSTJNVHpwUE1vMk05VzFYTEZ4MHJidGlwejNGX3RRa2R0QndtOVE?oc=5",
-      "source": "Investor's Business Daily",
-      "published_at": "Fri, 14 Aug 2026 14:33:00 GMT",
-      "summary": "Fed Rate Hike Odds Fall As Amazon Prime Day Effect Hits Retail Sales Investor's Business Daily",
-      "guid": "CBMiogFBVV95cUxPUjlaMnhtaGxDcGZzZFdpTjBDclVqYmdQUkE2Q0VaMEVQY1FldUhJbVM2VVpDZ3pJd2dieFA1RHI5YlNYeGc2empyczA5NTd3Yk5BdlpjSVJ1WVhYaGNGOXVpSU5BbUhQWGpPS0lQWDk4ZGgwUjlHeTBGSXRhSTJNVHpwUE1vMk05VzFYTEZ4MHJidGlwejNGX3RRa2R0QndtOVE"
-    },
-    {
       "title": "Wall Street slips from its record following the latest weak update on the U.S. economy - BNN Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTmphMUxQWHFjNGRsTnFrWVVLV09ueWk1d0hLWnBOdURTeFVWa2FXZmNxYmRPUmJkbUZwSTFPbEdhX05ZcHdVRXFCWlNEeV9meEdHN25fRFRZX0lpSU85dlFDaFhmeXJoLVBxSGYwdzlyRGg2eXZhbUhPZS1hVkdVbDZQVmp2bTUtVXFnUGwwa0lKdFNIMXdrQUllVVRlRVJPRG56UGhSZkx5bm9hbVlSVld0VW5vQ1VzVjJuZ1NIcHprZFgtSTg0Q1F3?oc=5",
       "source": "BNN Bloomberg",
       "published_at": "Fri, 14 Aug 2026 20:25:53 GMT",
       "summary": "Wall Street slips from its record following the latest weak update on the U.S. economy BNN Bloomberg",
       "guid": "CBMiygFBVV95cUxPTmphMUxQWHFjNGRsTnFrWVVLV09ueWk1d0hLWnBOdURTeFVWa2FXZmNxYmRPUmJkbUZwSTFPbEdhX05ZcHdVRXFCWlNEeV9meEdHN25fRFRZX0lpSU85dlFDaFhmeXJoLVBxSGYwdzlyRGg2eXZhbUhPZS1hVkdVbDZQVmp2bTUtVXFnUGwwa0lKdFNIMXdrQUllVVRlRVJPRG56UGhSZkx5bm9hbVlSVld0VW5vQ1VzVjJuZ1NIcHprZFgtSTg0Q1F3"
+    },
+    {
+      "title": "Fed Rate Hike Odds Fall As Amazon Prime Day Effect Hits Retail Sales - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUjlaMnhtaGxDcGZzZFdpTjBDclVqYmdQUkE2Q0VaMEVQY1FldUhJbVM2VVpDZ3pJd2dieFA1RHI5YlNYeGc2empyczA5NTd3Yk5BdlpjSVJ1WVhYaGNGOXVpSU5BbUhQWGpPS0lQWDk4ZGgwUjlHeTBGSXRhSTJNVHpwUE1vMk05VzFYTEZ4MHJidGlwejNGX3RRa2R0QndtOVE?oc=5",
+      "source": "Investor's Business Daily",
+      "published_at": "Fri, 14 Aug 2026 14:33:00 GMT",
+      "summary": "Fed Rate Hike Odds Fall As Amazon Prime Day Effect Hits Retail Sales Investor's Business Daily",
+      "guid": "CBMiogFBVV95cUxPUjlaMnhtaGxDcGZzZFdpTjBDclVqYmdQUkE2Q0VaMEVQY1FldUhJbVM2VVpDZ3pJd2dieFA1RHI5YlNYeGc2empyczA5NTd3Yk5BdlpjSVJ1WVhYaGNGOXVpSU5BbUhQWGpPS0lQWDk4ZGgwUjlHeTBGSXRhSTJNVHpwUE1vMk05VzFYTEZ4MHJidGlwejNGX3RRa2R0QndtOVE"
     },
     {
       "title": "Why federal government’s monthly inflation report has an effect on Wall Street - Baltimore Sun",
@@ -55,11 +55,11 @@
       "guid": "CBMiugFBVV95cUxPMzk3QnVnNFgxejNJQWZ2czZIZTRfUWRrdVVRZE9aSTFhLS1mLThnUzVMN3BaeDhXSVBQeEdZSFdYMEdJUFhoaG01X21PQVUyWm5HZm9Ba3lTOWRWRGw3Q0Rmdnp2c19zNGFXX1dhMm1rRjR6dEg2QU5ueE9SSTZEa1lLeDVkWlBiT2VLb0d5WjQ5ZmZwNXVxdjZ4VVpURkdPZjRkaFI2X0hHT0dUcW9lVTBGMldGUWRjcFE"
     },
     {
-      "title": "Stocks Churn as US Threats Against Iran Lift Crude: Markets Wrap - Bloomberg",
+      "title": "Stocks Churn as US Threats Against Iran Lift Crude: Markets Wrap - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWk9LT09OZ0o3aE1weXpUM0V0XzMzblRONDFQM2JqZFdWaUZ1RkJOV1BPRWM5eWtIczJReUhRY243d1pGMkRTU2ZENTI1ZWU3ZHdnVXNMRDJVQWk2eHBQRFNUN1VDMlZJczFKTVYxZy1Ecm5EbldNVEV5cVh0TmFmUzJWX2xhSXpNWTl3NUdBSXJiZ0h4Znd6V19FNG1WazNUemExeC1wVEdEaHlNdGt6bHdB?oc=5",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "published_at": "Thu, 13 Aug 2026 22:10:41 GMT",
-      "summary": "Stocks Churn as US Threats Against Iran Lift Crude: Markets Wrap Bloomberg",
+      "summary": "Stocks Churn as US Threats Against Iran Lift Crude: Markets Wrap Bloomberg.com",
       "guid": "CBMisgFBVV95cUxNWk9LT09OZ0o3aE1weXpUM0V0XzMzblRONDFQM2JqZFdWaUZ1RkJOV1BPRWM5eWtIczJReUhRY243d1pGMkRTU2ZENTI1ZWU3ZHdnVXNMRDJVQWk2eHBQRFNUN1VDMlZJczFKTVYxZy1Ecm5EbldNVEV5cVh0TmFmUzJWX2xhSXpNWTl3NUdBSXJiZ0h4Znd6V19FNG1WazNUemExeC1wVEdEaHlNdGt6bHdB"
     },
     {
