@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-08-14T18:03:18Z",
+  "generated_at": "2026-08-14T19:10:18Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "Stock Market Today: S&P 500 Slips From Record as US Retail Sales Fall - Eurasia Business News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSnFmMUwzaVE3MUp5V1A2R3FKU0huSE5jQlVLN0pScXl0Y3hYUHl5OWlnM1JmRU5SZEN4dkFLUnNfakdxR3Y1MWFpRHdtZ2hwTVVTblZwNlZBZTF4UzVZTno3R1VBUTl1UnJtT1Rha1dBUk81LWRRREhwVTVsenJqYzg4R3pwT1NkbDZaQU4xNmxrWUUzMkZ5WXVDTlppaE1KSTlvVHk4T1NhNVJCNXg0MQ?oc=5",
+      "source": "Eurasia Business News",
+      "published_at": "Fri, 14 Aug 2026 18:25:58 GMT",
+      "summary": "Stock Market Today: S&P 500 Slips From Record as US Retail Sales Fall Eurasia Business News",
+      "guid": "CBMisAFBVV95cUxPSnFmMUwzaVE3MUp5V1A2R3FKU0huSE5jQlVLN0pScXl0Y3hYUHl5OWlnM1JmRU5SZEN4dkFLUnNfakdxR3Y1MWFpRHdtZ2hwTVVTblZwNlZBZTF4UzVZTno3R1VBUTl1UnJtT1Rha1dBUk81LWRRREhwVTVsenJqYzg4R3pwT1NkbDZaQU4xNmxrWUUzMkZ5WXVDTlppaE1KSTlvVHk4T1NhNVJCNXg0MQ"
+    },
     {
       "title": "Fed Rate Hike Odds Fall As Amazon Prime Day Effect Hits Retail Sales - Investor's Business Daily",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUjlaMnhtaGxDcGZzZFdpTjBDclVqYmdQUkE2Q0VaMEVQY1FldUhJbVM2VVpDZ3pJd2dieFA1RHI5YlNYeGc2empyczA5NTd3Yk5BdlpjSVJ1WVhYaGNGOXVpSU5BbUhQWGpPS0lQWDk4ZGgwUjlHeTBGSXRhSTJNVHpwUE1vMk05VzFYTEZ4MHJidGlwejNGX3RRa2R0QndtOVE?oc=5",
@@ -45,14 +53,6 @@
       "published_at": "Thu, 13 Aug 2026 22:10:41 GMT",
       "summary": "Stocks Churn as US Threats Against Iran Lift Crude: Markets Wrap Bloomberg.com",
       "guid": "CBMisgFBVV95cUxNWk9LT09OZ0o3aE1weXpUM0V0XzMzblRONDFQM2JqZFdWaUZ1RkJOV1BPRWM5eWtIczJReUhRY243d1pGMkRTU2ZENTI1ZWU3ZHdnVXNMRDJVQWk2eHBQRFNUN1VDMlZJczFKTVYxZy1Ecm5EbldNVEV5cVh0TmFmUzJWX2xhSXpNWTl3NUdBSXJiZ0h4Znd6V19FNG1WazNUemExeC1wVEdEaHlNdGt6bHdB"
-    },
-    {
-      "title": "Stock Market Today: S&P 500 Closes at Record High as Treasury Yields Retreat, Oil price Falls to $ 87 - Eurasia Business News",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYzRXa01hRmpDZGx6OHZqaldfODM4ejR0c0NyNGlBUnBDMWloSDEwQlZPVWp2QmVxYWl0SGlSWjl1VW1UaE1aMDNhdW95QXpzTmFmVDNONi1IZDlLY1BoaXVfLXhOX3V0U0oxVG1BcS0xa3l0REpPbWNQa2h6X283WDNEMkRvM0ZadHlHUFFKNjh1NW5NMGtaM2g0Y2EwOFYtQTBmSWtMdEdlZVVFdXdib043QW9FVlBJbVpmUGZ3UzBtMEZ3bm9IcUlWSS1PbHZUNmZkZ01IOA?oc=5",
-      "source": "Eurasia Business News",
-      "published_at": "Thu, 13 Aug 2026 21:49:55 GMT",
-      "summary": "Stock Market Today: S&P 500 Closes at Record High as Treasury Yields Retreat, Oil price Falls to $ 87 Eurasia Business News",
-      "guid": "CBMi1wFBVV95cUxPYzRXa01hRmpDZGx6OHZqaldfODM4ejR0c0NyNGlBUnBDMWloSDEwQlZPVWp2QmVxYWl0SGlSWjl1VW1UaE1aMDNhdW95QXpzTmFmVDNONi1IZDlLY1BoaXVfLXhOX3V0U0oxVG1BcS0xa3l0REpPbWNQa2h6X283WDNEMkRvM0ZadHlHUFFKNjh1NW5NMGtaM2g0Y2EwOFYtQTBmSWtMdEdlZVVFdXdib043QW9FVlBJbVpmUGZ3UzBtMEZ3bm9IcUlWSS1PbHZUNmZkZ01IOA"
     },
     {
       "title": "Stock Market Investors Just Got Bad News From the Federal Reserve - The Motley Fool",
