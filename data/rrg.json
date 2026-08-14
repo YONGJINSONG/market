@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T15:33:48Z",
+  "generated_at": "2026-08-14T16:19:27Z",
   "benchmark": "SPY",
   "sectors": [
     {
@@ -23,8 +23,8 @@
           "rsMomentum": 99.97
         },
         {
-          "rsRatio": 100.95,
-          "rsMomentum": 99.2
+          "rsRatio": 100.97,
+          "rsMomentum": 99.22
         }
       ]
     },
@@ -49,8 +49,8 @@
           "rsMomentum": 99.46
         },
         {
-          "rsRatio": 100.29,
-          "rsMomentum": 99.79
+          "rsRatio": 100.32,
+          "rsMomentum": 99.82
         }
       ]
     },
@@ -75,8 +75,8 @@
           "rsMomentum": 100.15
         },
         {
-          "rsRatio": 99.94,
-          "rsMomentum": 100.3
+          "rsRatio": 99.92,
+          "rsMomentum": 100.29
         }
       ]
     },
@@ -101,8 +101,8 @@
           "rsMomentum": 99.48
         },
         {
-          "rsRatio": 103.22,
-          "rsMomentum": 101.53
+          "rsRatio": 103.35,
+          "rsMomentum": 101.65
         }
       ]
     },
@@ -127,8 +127,8 @@
           "rsMomentum": 99.73
         },
         {
-          "rsRatio": 98.96,
-          "rsMomentum": 100.21
+          "rsRatio": 98.97,
+          "rsMomentum": 100.22
         }
       ]
     },
@@ -153,8 +153,8 @@
           "rsMomentum": 100.8
         },
         {
-          "rsRatio": 100.36,
-          "rsMomentum": 100.64
+          "rsRatio": 100.34,
+          "rsMomentum": 100.63
         }
       ]
     },
@@ -179,8 +179,8 @@
           "rsMomentum": 99.33
         },
         {
-          "rsRatio": 99.96,
-          "rsMomentum": 100.67
+          "rsRatio": 99.89,
+          "rsMomentum": 100.6
         }
       ]
     },
@@ -205,8 +205,8 @@
           "rsMomentum": 99.14
         },
         {
-          "rsRatio": 99.51,
-          "rsMomentum": 100.63
+          "rsRatio": 99.41,
+          "rsMomentum": 100.54
         }
       ]
     },
@@ -257,8 +257,8 @@
           "rsMomentum": 101.95
         },
         {
-          "rsRatio": 99.47,
-          "rsMomentum": 100.2
+          "rsRatio": 99.46,
+          "rsMomentum": 100.19
         }
       ]
     },
@@ -283,11 +283,11 @@
           "rsMomentum": 102.12
         },
         {
-          "rsRatio": 100.32,
-          "rsMomentum": 99.62
+          "rsRatio": 100.3,
+          "rsMomentum": 99.6
         }
       ]
     }
   ],
-  "lastUpdated": "2026-08-14T15:33:48Z"
+  "lastUpdated": "2026-08-14T16:19:27Z"
 }
