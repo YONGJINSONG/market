@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T00:10:32Z",
+  "generated_at": "2026-08-14T02:48:06Z",
   "benchmark": "SPY",
   "sectors": [
     {
@@ -111,24 +111,24 @@
       "symbol": "XLY",
       "trail": [
         {
-          "rsRatio": 101.05,
-          "rsMomentum": 100.42
+          "rsRatio": 101.22,
+          "rsMomentum": 101.02
         },
         {
-          "rsRatio": 100.61,
-          "rsMomentum": 99.56
+          "rsRatio": 100.73,
+          "rsMomentum": 99.52
         },
         {
-          "rsRatio": 100.38,
-          "rsMomentum": 99.77
+          "rsRatio": 99.49,
+          "rsMomentum": 98.77
         },
         {
-          "rsRatio": 99.02,
-          "rsMomentum": 98.65
+          "rsRatio": 98.37,
+          "rsMomentum": 98.88
         },
         {
-          "rsRatio": 98.75,
-          "rsMomentum": 99.73
+          "rsRatio": 98.96,
+          "rsMomentum": 100.6
         }
       ]
     },
@@ -289,5 +289,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-08-14T00:10:32Z"
+  "lastUpdated": "2026-08-14T02:48:06Z"
 }

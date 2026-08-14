@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T00:04:12Z",
+  "generated_at": "2026-08-14T02:41:46Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,19 +7,19 @@
   },
   "items": [
     {
-      "title": "Financial Markets, Oil Prices, and Supply-Side Risks - Federal Reserve Bank of San Francisco",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNmFjYWNhVVJHZ2Y1dVZ5M3A1LTdZT01sSFVQTVJZcXpfcjNNajNyRjZXNXBpWTlST29nWFBhQ19Id05CQ3pGQXMybTBoRU9CeDFvZXNNN1dxeUVxR3dkM0wyYTZhS1ZMVTJsckdySFlzVXBQVHdGMjVWd3k4TG9idUdueERPVHRZUV95NzBKYTdfYnVVNThfTlRkeEZtNGtCY0dhc3FZMjZBQ0ZHYzRhbnBkZFNxb1JQYmczWHR3S21LYU8yeXhyNk1HRk0?oc=5",
-      "source": "Federal Reserve Bank of San Francisco",
-      "published_at": "Mon, 10 Aug 2026 17:00:00 GMT",
-      "summary": "Financial Markets, Oil Prices, and Supply-Side Risks Federal Reserve Bank of San Francisco",
-      "guid": "CBMizAFBVV95cUxPNmFjYWNhVVJHZ2Y1dVZ5M3A1LTdZT01sSFVQTVJZcXpfcjNNajNyRjZXNXBpWTlST29nWFBhQ19Id05CQ3pGQXMybTBoRU9CeDFvZXNNN1dxeUVxR3dkM0wyYTZhS1ZMVTJsckdySFlzVXBQVHdGMjVWd3k4TG9idUdueERPVHRZUV95NzBKYTdfYnVVNThfTlRkeEZtNGtCY0dhc3FZMjZBQ0ZHYzRhbnBkZFNxb1JQYmczWHR3S21LYU8yeXhyNk1HRk0"
+      "title": "S&P 500 notches record-high close as rate-hike worries ease - reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUHR2anJaRElybkU1MUtsS1JsREMyQW90SU9hRXAwblVMSDdMZ1d2bDRBUTczVy1pQVh6ZnpDWnhUR3ZqSjNpTXYyektQN0JsSTNaS3MxQVJQLVlvakRnUzAxelE5RFkwMWRqY3ZJUGk4THRXblEtejVuUDdYS3MtVDd3ZEFtN3ItS05JWGxwTklCSkg3YXRQbUZhRDdRWngxVC1xWHgzMVR2TWJPYzZFaFZRV3hHNFpQbm5SZTRacw?oc=5",
+      "source": "reuters.com",
+      "published_at": "Thu, 13 Aug 2026 23:35:02 GMT",
+      "summary": "S&P 500 notches record-high close as rate-hike worries ease reuters.com",
+      "guid": "CBMivwFBVV95cUxPUHR2anJaRElybkU1MUtsS1JsREMyQW90SU9hRXAwblVMSDdMZ1d2bDRBUTczVy1pQVh6ZnpDWnhUR3ZqSjNpTXYyektQN0JsSTNaS3MxQVJQLVlvakRnUzAxelE5RFkwMWRqY3ZJUGk4THRXblEtejVuUDdYS3MtVDd3ZEFtN3ItS05JWGxwTklCSkg3YXRQbUZhRDdRWngxVC1xWHgzMVR2TWJPYzZFaFZRV3hHNFpQbm5SZTRacw"
     },
     {
-      "title": "Asian Stocks Set for Gains as US Inflation Cools: Markets Wrap - Bloomberg.com",
+      "title": "Asian Stocks Rise as US Inflation, Tech Spur Gains: Markets Wrap - Bloomberg",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWk9LT09OZ0o3aE1weXpUM0V0XzMzblRONDFQM2JqZFdWaUZ1RkJOV1BPRWM5eWtIczJReUhRY243d1pGMkRTU2ZENTI1ZWU3ZHdnVXNMRDJVQWk2eHBQRFNUN1VDMlZJczFKTVYxZy1Ecm5EbldNVEV5cVh0TmFmUzJWX2xhSXpNWTl3NUdBSXJiZ0h4Znd6V19FNG1WazNUemExeC1wVEdEaHlNdGt6bHdB?oc=5",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "published_at": "Thu, 13 Aug 2026 22:10:41 GMT",
-      "summary": "Asian Stocks Set for Gains as US Inflation Cools: Markets Wrap Bloomberg.com",
+      "summary": "Asian Stocks Rise as US Inflation, Tech Spur Gains: Markets Wrap Bloomberg",
       "guid": "CBMisgFBVV95cUxNWk9LT09OZ0o3aE1weXpUM0V0XzMzblRONDFQM2JqZFdWaUZ1RkJOV1BPRWM5eWtIczJReUhRY243d1pGMkRTU2ZENTI1ZWU3ZHdnVXNMRDJVQWk2eHBQRFNUN1VDMlZJczFKTVYxZy1Ecm5EbldNVEV5cVh0TmFmUzJWX2xhSXpNWTl3NUdBSXJiZ0h4Znd6V19FNG1WazNUemExeC1wVEdEaHlNdGt6bHdB"
     },
     {
@@ -55,36 +55,36 @@
       "guid": "CBMingFBVV95cUxNVm9vaE1jVEdITDBZV2tFNEIwaXdMX1RSWVV0NEZnOE9hZkpZU2JVdTNTNWtkTmFEdHllaWVBOWl2WDlEZlNQQUxxdTdWQk44WGdWNGYyWWpybWdiSGg3czNDVkNxMkJ4YTBVS3NDQTh3UGZheWJETG16ZFRGZmt1S2VpdENUX2NzckhaQXIwRzVYeVRwMzE0VHY2QUVVQQ"
     },
     {
-      "title": "Stocks gain as US inflation worries ease, oil slips - France 24",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSHdrR2xTWV8xNGlBVjBwZ3lNaEhVWUl2NjJuTHItdzRtQ2s1UE5LMjBnZzJNTlUyRmpqaHRBM3hkVWsxNlIwR2xSVVV0a0RDSy0yZkJlQWNRMFhEMC1rcml0ZFNGSENnT2VtLUotMnJDNUNFY2tJMkUtQnJzR0FORkxtcnI2UXU1X3pjVEdUQ2FIZjllWEFfWjJZbVFydlVKZXlYbG5IcGFpbVFPQlFpcQ?oc=5",
-      "source": "France 24",
-      "published_at": "Thu, 13 Aug 2026 02:39:09 GMT",
-      "summary": "Stocks gain as US inflation worries ease, oil slips France 24",
-      "guid": "CBMisAFBVV95cUxQSHdrR2xTWV8xNGlBVjBwZ3lNaEhVWUl2NjJuTHItdzRtQ2s1UE5LMjBnZzJNTlUyRmpqaHRBM3hkVWsxNlIwR2xSVVV0a0RDSy0yZkJlQWNRMFhEMC1rcml0ZFNGSENnT2VtLUotMnJDNUNFY2tJMkUtQnJzR0FORkxtcnI2UXU1X3pjVEdUQ2FIZjllWEFfWjJZbVFydlVKZXlYbG5IcGFpbVFPQlFpcQ"
-    },
-    {
-      "title": "S&P 500 ends higher as CoreWeave results fuel AI optimism - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYklxZWxQWEI4bU5nVHpWUVJkQWo4YmQ5ZWpfTXNWWHBjNlE0d09NNEdtbWMtQldtbndIMzNBU1Z3TldjNEF5YUoxMHJSdHlXak50XzBMYlh4dHh2OWxVckViSjVxYUFCVlBvcnQ4Vk9vLVF0MWhGR3BidXQzOGItYUVjbnNYSk1pdS1XeTZqUGtaVTZzcDRkR1N1V0xkN0o5STBZ?oc=5",
-      "source": "Reuters",
-      "published_at": "Wed, 12 Aug 2026 23:02:09 GMT",
-      "summary": "S&P 500 ends higher as CoreWeave results fuel AI optimism Reuters",
-      "guid": "CBMiowFBVV95cUxPYklxZWxQWEI4bU5nVHpWUVJkQWo4YmQ5ZWpfTXNWWHBjNlE0d09NNEdtbWMtQldtbndIMzNBU1Z3TldjNEF5YUoxMHJSdHlXak50XzBMYlh4dHh2OWxVckViSjVxYUFCVlBvcnQ4Vk9vLVF0MWhGR3BidXQzOGItYUVjbnNYSk1pdS1XeTZqUGtaVTZzcDRkR1N1V0xkN0o5STBZ"
-    },
-    {
-      "title": "Stocks steady as US inflation worries ease, oil slips - citynewsokc.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQV09URV9IQXV1RUluSkVFTXd3MU1jaWxTY1l0VjNSejc4NER5UVEyQlI2WEtaX29wdFlRaEV0Tkk3cThGQVlwOHdJU2F6N25xa2FiTWh2UEdNMnAyQTJLNnF2WU56SGdzOEdoTjdUWWVsNUY1QnU5UFkyTDEtQXpUdXJFaUhJMms0VkNrdFdZVl9oc1E2bjBUMW5iLWtpUG90YkhTNDlqTUdkY20yMGNtTU93U05hUS1kZkVwY0Z0bjQ1ellibmpXZExUTGd5dkNa?oc=5",
-      "source": "citynewsokc.com",
-      "published_at": "Thu, 13 Aug 2026 16:12:00 GMT",
-      "summary": "Stocks steady as US inflation worries ease, oil slips citynewsokc.com",
-      "guid": "CBMi0AFBVV95cUxQV09URV9IQXV1RUluSkVFTXd3MU1jaWxTY1l0VjNSejc4NER5UVEyQlI2WEtaX29wdFlRaEV0Tkk3cThGQVlwOHdJU2F6N25xa2FiTWh2UEdNMnAyQTJLNnF2WU56SGdzOEdoTjdUWWVsNUY1QnU5UFkyTDEtQXpUdXJFaUhJMms0VkNrdFdZVl9oc1E2bjBUMW5iLWtpUG90YkhTNDlqTUdkY20yMGNtTU93U05hUS1kZkVwY0Z0bjQ1ellibmpXZExUTGd5dkNa"
-    },
-    {
       "title": "How Kevin Warsh is rewiring the Fed - Axios",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8teTJqbjhiWFJIbWJ2emRScjZZRzVZWF9NLXNVb2k4Q2g0NTFlZzdmSC1JQ2phc0F2X0RHMFBoRE9DRUdXZllqZGhPZ1dtS0xzWV9YNXByRlVMdFIxZERKTU5QcERtdm5PTFVRcXIteDJod0k?oc=5",
       "source": "Axios",
       "published_at": "Mon, 10 Aug 2026 09:04:42 GMT",
       "summary": "How Kevin Warsh is rewiring the Fed Axios",
       "guid": "CBMic0FVX3lxTE8teTJqbjhiWFJIbWJ2emRScjZZRzVZWF9NLXNVb2k4Q2g0NTFlZzdmSC1JQ2phc0F2X0RHMFBoRE9DRUdXZllqZGhPZ1dtS0xzWV9YNXByRlVMdFIxZERKTU5QcERtdm5PTFVRcXIteDJod0k"
+    },
+    {
+      "title": "The Fed Faces a Credibility Crisis—and the Stock Market Will Pay the Price - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPd2k2UGxNOFRzM21hRG16dV9VTGt0NnFTYmNXOVZzazNqZ2ZTVGppSWNuR09haFNhMjIzVkhIV3ZqQkZpYWNKbGN5QUMzcEI5NEFLdmYwRG1NdFFRMkhvRFd0TU0yazV4aTRyZ1UzX29EU2NaaHp3R3FZaTI5ZDNpZHJuUkNDT2M4azB3?oc=5",
+      "source": "Barron's",
+      "published_at": "Thu, 30 Jul 2026 07:00:00 GMT",
+      "summary": "The Fed Faces a Credibility Crisis—and the Stock Market Will Pay the Price Barron's",
+      "guid": "CBMiiwFBVV95cUxPd2k2UGxNOFRzM21hRG16dV9VTGt0NnFTYmNXOVZzazNqZ2ZTVGppSWNuR09haFNhMjIzVkhIV3ZqQkZpYWNKbGN5QUMzcEI5NEFLdmYwRG1NdFFRMkhvRFd0TU0yazV4aTRyZ1UzX29EU2NaaHp3R3FZaTI5ZDNpZHJuUkNDT2M4azB3"
+    },
+    {
+      "title": "Stock Market Investors Just Got Bad News From the Federal Reserve - fool.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU0x1Uml3U2JwWVNjbDZjSUNkWVBTUkE3Vk5FS09sWFp3VE5kRDBYckZkUDU2c05uaVBsRTI0RXZXQmw5ZndNSk5BdUVUY01jNGNoOXhCRUtyc1dkTll0ZFJvOFhDbGtiT3l1NmpOdk5Lc3JHdktBU29XMjR2YXNaZHVQYmotMlItZVNPVkVabGhSMDJ2?oc=5",
+      "source": "fool.com",
+      "published_at": "Sun, 09 Aug 2026 09:12:00 GMT",
+      "summary": "Stock Market Investors Just Got Bad News From the Federal Reserve fool.com",
+      "guid": "CBMilAFBVV95cUxQU0x1Uml3U2JwWVNjbDZjSUNkWVBTUkE3Vk5FS09sWFp3VE5kRDBYckZkUDU2c05uaVBsRTI0RXZXQmw5ZndNSk5BdUVUY01jNGNoOXhCRUtyc1dkTll0ZFJvOFhDbGtiT3l1NmpOdk5Lc3JHdktBU29XMjR2YXNaZHVQYmotMlItZVNPVkVabGhSMDJ2"
+    },
+    {
+      "title": "US Stocks Rally to Records as Inflation Data Test Federal Reserve Rate Outlook - Межа. Новини України.",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1CeFdkQlY5b1lmeHB1MWN6WHU5OTFsV3JrMjBCM2NUUnl5d09uZEM3TWJkeHgwX0xqZUNMYnYySDZveXZpVjd4WkhfSDZBdDZyR1VLSVh2anRkTWVqY0xhcW9LNA?oc=5",
+      "source": "Межа. Новини України.",
+      "published_at": "Sat, 08 Aug 2026 03:24:32 GMT",
+      "summary": "US Stocks Rally to Records as Inflation Data Test Federal Reserve Rate Outlook Межа. Новини України.",
+      "guid": "CBMiY0FVX3lxTE1CeFdkQlY5b1lmeHB1MWN6WHU5OTFsV3JrMjBCM2NUUnl5d09uZEM3TWJkeHgwX0xqZUNMYnYySDZveXZpVjd4WkhfSDZBdDZyR1VLSVh2anRkTWVqY0xhcW9LNA"
     }
   ]
 }
