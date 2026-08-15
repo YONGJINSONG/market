@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T14:36:06Z",
+  "generated_at": "2026-08-15T14:56:13Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,12 +7,12 @@
   },
   "items": [
     {
-      "title": "Stock Market Today: S&P 500 Slips From Record as US Retail Sales Fall - eurasiabusinessnews.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSnFmMUwzaVE3MUp5V1A2R3FKU0huSE5jQlVLN0pScXl0Y3hYUHl5OWlnM1JmRU5SZEN4dkFLUnNfakdxR3Y1MWFpRHdtZ2hwTVVTblZwNlZBZTF4UzVZTno3R1VBUTl1UnJtT1Rha1dBUk81LWRRREhwVTVsenJqYzg4R3pwT1NkbDZaQU4xNmxrWUUzMkZ5WXVDTlppaE1KSTlvVHk4T1NhNVJCNXg0MQ?oc=5",
-      "source": "eurasiabusinessnews.com",
-      "published_at": "Fri, 14 Aug 2026 18:25:58 GMT",
-      "summary": "Stock Market Today: S&P 500 Slips From Record as US Retail Sales Fall eurasiabusinessnews.com",
-      "guid": "CBMisAFBVV95cUxPSnFmMUwzaVE3MUp5V1A2R3FKU0huSE5jQlVLN0pScXl0Y3hYUHl5OWlnM1JmRU5SZEN4dkFLUnNfakdxR3Y1MWFpRHdtZ2hwTVVTblZwNlZBZTF4UzVZTno3R1VBUTl1UnJtT1Rha1dBUk81LWRRREhwVTVsenJqYzg4R3pwT1NkbDZaQU4xNmxrWUUzMkZ5WXVDTlppaE1KSTlvVHk4T1NhNVJCNXg0MQ"
+      "title": "Can Singapore ever build a proper stock market? - economist.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaXg3dWZDOTRkTFdPQWN3eGs5M1pjLXpfOVB3amxuMWZJQUR6V2tjc191UGkzUExldFhRcHJGbnAxbzNQUjdUOW9YOXBZOUpYMFJmc3dDaVNPbGpCa2dsZEFZNFRBbm5PUURBLXEwaDBBenBuZ3lVVnpmRmtBWFlTSUtjdWNvS3RtckpOVlZRZjRNS09SbjV3ZzN2R3d0NmNwVTZOaHJ2ZzM?oc=5",
+      "source": "economist.com",
+      "published_at": "Thu, 13 Aug 2026 08:37:16 GMT",
+      "summary": "Can Singapore ever build a proper stock market? economist.com",
+      "guid": "CBMiqAFBVV95cUxQaXg3dWZDOTRkTFdPQWN3eGs5M1pjLXpfOVB3amxuMWZJQUR6V2tjc191UGkzUExldFhRcHJGbnAxbzNQUjdUOW9YOXBZOUpYMFJmc3dDaVNPbGpCa2dsZEFZNFRBbm5PUURBLXEwaDBBenBuZ3lVVnpmRmtBWFlTSUtjdWNvS3RtckpOVlZRZjRNS09SbjV3ZzN2R3d0NmNwVTZOaHJ2ZzM"
     },
     {
       "title": "Does the Equity Term Structure Respond to Monetary Policy Shocks? - Liberty Street Economics",
@@ -23,12 +23,12 @@
       "guid": "CBMiuwFBVV95cUxPcGZKaVc1MHU4VUlQTzFVZDNhOTJuN2VsZ1RITGFrRzFNMGNtWFJOT3BQQTRvcUwyLXo4bWNRcWlVaG5KSVpVU3Z1UmpjemUySjhLa1RhT2xBZHdGQ2tBT1JCSkYtZ3YtT2ZUZVNpcDBRYV9qdDdBcGtPbWFCclV4R3RVcDNJbGxyWmpjbHZ4MU9WUTFjcko5R0Vob3MyZmlMV2JHMDgybDdUa0NlcUR6QlBxa21xeHU2S1pv"
     },
     {
-      "title": "Can Singapore ever build a proper stock market? - The Economist",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaXg3dWZDOTRkTFdPQWN3eGs5M1pjLXpfOVB3amxuMWZJQUR6V2tjc191UGkzUExldFhRcHJGbnAxbzNQUjdUOW9YOXBZOUpYMFJmc3dDaVNPbGpCa2dsZEFZNFRBbm5PUURBLXEwaDBBenBuZ3lVVnpmRmtBWFlTSUtjdWNvS3RtckpOVlZRZjRNS09SbjV3ZzN2R3d0NmNwVTZOaHJ2ZzM?oc=5",
-      "source": "The Economist",
-      "published_at": "Thu, 13 Aug 2026 08:37:16 GMT",
-      "summary": "Can Singapore ever build a proper stock market? The Economist",
-      "guid": "CBMiqAFBVV95cUxQaXg3dWZDOTRkTFdPQWN3eGs5M1pjLXpfOVB3amxuMWZJQUR6V2tjc191UGkzUExldFhRcHJGbnAxbzNQUjdUOW9YOXBZOUpYMFJmc3dDaVNPbGpCa2dsZEFZNFRBbm5PUURBLXEwaDBBenBuZ3lVVnpmRmtBWFlTSUtjdWNvS3RtckpOVlZRZjRNS09SbjV3ZzN2R3d0NmNwVTZOaHJ2ZzM"
+      "title": "Stock Market Today: S&P 500 Slips From Record as US Retail Sales Fall - eurasiabusinessnews.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSnFmMUwzaVE3MUp5V1A2R3FKU0huSE5jQlVLN0pScXl0Y3hYUHl5OWlnM1JmRU5SZEN4dkFLUnNfakdxR3Y1MWFpRHdtZ2hwTVVTblZwNlZBZTF4UzVZTno3R1VBUTl1UnJtT1Rha1dBUk81LWRRREhwVTVsenJqYzg4R3pwT1NkbDZaQU4xNmxrWUUzMkZ5WXVDTlppaE1KSTlvVHk4T1NhNVJCNXg0MQ?oc=5",
+      "source": "eurasiabusinessnews.com",
+      "published_at": "Fri, 14 Aug 2026 18:25:58 GMT",
+      "summary": "Stock Market Today: S&P 500 Slips From Record as US Retail Sales Fall eurasiabusinessnews.com",
+      "guid": "CBMisAFBVV95cUxPSnFmMUwzaVE3MUp5V1A2R3FKU0huSE5jQlVLN0pScXl0Y3hYUHl5OWlnM1JmRU5SZEN4dkFLUnNfakdxR3Y1MWFpRHdtZ2hwTVVTblZwNlZBZTF4UzVZTno3R1VBUTl1UnJtT1Rha1dBUk81LWRRREhwVTVsenJqYzg4R3pwT1NkbDZaQU4xNmxrWUUzMkZ5WXVDTlppaE1KSTlvVHk4T1NhNVJCNXg0MQ"
     },
     {
       "title": "US retail sales post first decline in nine months in July - Reuters",
@@ -47,12 +47,12 @@
       "guid": "CBMisgFBVV95cUxNWk9LT09OZ0o3aE1weXpUM0V0XzMzblRONDFQM2JqZFdWaUZ1RkJOV1BPRWM5eWtIczJReUhRY243d1pGMkRTU2ZENTI1ZWU3ZHdnVXNMRDJVQWk2eHBQRFNUN1VDMlZJczFKTVYxZy1Ecm5EbldNVEV5cVh0TmFmUzJWX2xhSXpNWTl3NUdBSXJiZ0h4Znd6V19FNG1WazNUemExeC1wVEdEaHlNdGt6bHdB"
     },
     {
-      "title": "Stock Market Investors Just Got Bad News From the Federal Reserve - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU0x1Uml3U2JwWVNjbDZjSUNkWVBTUkE3Vk5FS09sWFp3VE5kRDBYckZkUDU2c05uaVBsRTI0RXZXQmw5ZndNSk5BdUVUY01jNGNoOXhCRUtyc1dkTll0ZFJvOFhDbGtiT3l1NmpOdk5Lc3JHdktBU29XMjR2YXNaZHVQYmotMlItZVNPVkVabGhSMDJ2?oc=5",
+      "title": "If a Stock Market Crash Is Coming, History Says This 1 Investing Move Is Crucial - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdERMTzBWenp6TWJ1YmVIWC1NN1E1VTlqZlRpUTdGd1VrTVFSMENvUnVJdlM5QTUxcFJPQm5UMWk1d0d0OUZBNUluVjJNcUdKTUVOWE5YRHp6RlpTaW13MlRIV0RLWHhzUmcxdDZpMHJfRmJoREdjRERXMHdERi1SRWQyamxEbFljSGJSUjdwTWxfdw?oc=5",
       "source": "The Motley Fool",
-      "published_at": "Sun, 09 Aug 2026 09:12:00 GMT",
-      "summary": "Stock Market Investors Just Got Bad News From the Federal Reserve The Motley Fool",
-      "guid": "CBMilAFBVV95cUxQU0x1Uml3U2JwWVNjbDZjSUNkWVBTUkE3Vk5FS09sWFp3VE5kRDBYckZkUDU2c05uaVBsRTI0RXZXQmw5ZndNSk5BdUVUY01jNGNoOXhCRUtyc1dkTll0ZFJvOFhDbGtiT3l1NmpOdk5Lc3JHdktBU29XMjR2YXNaZHVQYmotMlItZVNPVkVabGhSMDJ2"
+      "published_at": "Thu, 13 Aug 2026 15:55:00 GMT",
+      "summary": "If a Stock Market Crash Is Coming, History Says This 1 Investing Move Is Crucial The Motley Fool",
+      "guid": "CBMikgFBVV95cUxOdERMTzBWenp6TWJ1YmVIWC1NN1E1VTlqZlRpUTdGd1VrTVFSMENvUnVJdlM5QTUxcFJPQm5UMWk1d0d0OUZBNUluVjJNcUdKTUVOWE5YRHp6RlpTaW13MlRIV0RLWHhzUmcxdDZpMHJfRmJoREdjRERXMHdERi1SRWQyamxEbFljSGJSUjdwTWxfdw"
     },
     {
       "title": "Fed Rate Hike Odds Fall As Amazon Prime Day Effect Hits Retail Sales - Investor's Business Daily",
@@ -79,12 +79,12 @@
       "guid": "CBMiVkFVX3lxTE1ZaWk3UVdBWHB1Z0VMUkd1VGN1WkcyMjgyd2hvYmpZWVlyTE5yLXdRWFFJdGltNE1rLU1kRXltS0gtR0pWd3c5Rk9jdmlkLW9mbU11eHhn"
     },
     {
-      "title": "Why federal government’s monthly inflation report has an effect on Wall Street - Baltimore Sun",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMzk3QnVnNFgxejNJQWZ2czZIZTRfUWRrdVVRZE9aSTFhLS1mLThnUzVMN3BaeDhXSVBQeEdZSFdYMEdJUFhoaG01X21PQVUyWm5HZm9Ba3lTOWRWRGw3Q0Rmdnp2c19zNGFXX1dhMm1rRjR6dEg2QU5ueE9SSTZEa1lLeDVkWlBiT2VLb0d5WjQ5ZmZwNXVxdjZ4VVpURkdPZjRkaFI2X0hHT0dUcW9lVTBGMldGUWRjcFE?oc=5",
-      "source": "Baltimore Sun",
-      "published_at": "Fri, 14 Aug 2026 13:11:19 GMT",
-      "summary": "Why federal government’s monthly inflation report has an effect on Wall Street Baltimore Sun",
-      "guid": "CBMiugFBVV95cUxPMzk3QnVnNFgxejNJQWZ2czZIZTRfUWRrdVVRZE9aSTFhLS1mLThnUzVMN3BaeDhXSVBQeEdZSFdYMEdJUFhoaG01X21PQVUyWm5HZm9Ba3lTOWRWRGw3Q0Rmdnp2c19zNGFXX1dhMm1rRjR6dEg2QU5ueE9SSTZEa1lLeDVkWlBiT2VLb0d5WjQ5ZmZwNXVxdjZ4VVpURkdPZjRkaFI2X0hHT0dUcW9lVTBGMldGUWRjcFE"
+      "title": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says a Big Drop Could Follow. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSG5UVUo2Qjc0QmZXVkZkVG5DNDFUMHJVT3ZDUHZzOFBVOXVuWk55aE9ZcDVOVEFJa3Y5ZHpjNWx4YWgtb3VfSjRHQUJXMFJIV3lPcTFDSjFadXBmdENDeGx2eGMyZ2NVRjM2Mk9RYlU3X1B2OGMwWmR6ajgtMWxQUmFCMER2R1gxZk52LVZYWW1lVkxxeWp2S3dpVjA?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Wed, 01 Jul 2026 07:00:00 GMT",
+      "summary": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says a Big Drop Could Follow. Yahoo Finance",
+      "guid": "CBMinAFBVV95cUxPSG5UVUo2Qjc0QmZXVkZkVG5DNDFUMHJVT3ZDUHZzOFBVOXVuWk55aE9ZcDVOVEFJa3Y5ZHpjNWx4YWgtb3VfSjRHQUJXMFJIV3lPcTFDSjFadXBmdENDeGx2eGMyZ2NVRjM2Mk9RYlU3X1B2OGMwWmR6ajgtMWxQUmFCMER2R1gxZk52LVZYWW1lVkxxeWp2S3dpVjA"
     }
   ]
 }
