@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T07:58:58Z",
+  "generated_at": "2026-08-15T08:25:55Z",
   "source": {
     "provider": "Yahoo Finance",
     "endpoint": "https://query1.finance.yahoo.com/v8/finance/chart/{symbol}"
@@ -39,9 +39,9 @@
       "symbol": "DJI",
       "quote_symbol": "^DJI",
       "name": "Dow Jones Industrial Average",
-      "price": 53732.4,
-      "change": -107.58828124999854,
-      "change_percent": -0.19982968920419808,
+      "price": 53732.41,
+      "change": -107.57828124999651,
+      "change_percent": -0.1998111156488886,
       "up": false,
       "currency": "USD",
       "market_state": null,
@@ -54,9 +54,9 @@
       "symbol": "BTC",
       "quote_symbol": "BTC-USD",
       "name": "Bitcoin",
-      "price": 63005.66,
-      "change": 30.066250000003492,
-      "change_percent": 0.04774270190982279,
+      "price": 62983.26,
+      "change": 7.666250000002037,
+      "change_percent": 0.012173366765600423,
       "up": true,
       "currency": "USD",
       "market_state": null,
