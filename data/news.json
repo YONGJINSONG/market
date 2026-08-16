@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T11:12:12Z",
+  "generated_at": "2026-08-16T11:32:37Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,20 +7,20 @@
   },
   "items": [
     {
+      "title": "Can Singapore ever build a proper stock market? - economist.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaXg3dWZDOTRkTFdPQWN3eGs5M1pjLXpfOVB3amxuMWZJQUR6V2tjc191UGkzUExldFhRcHJGbnAxbzNQUjdUOW9YOXBZOUpYMFJmc3dDaVNPbGpCa2dsZEFZNFRBbm5PUURBLXEwaDBBenBuZ3lVVnpmRmtBWFlTSUtjdWNvS3RtckpOVlZRZjRNS09SbjV3ZzN2R3d0NmNwVTZOaHJ2ZzM?oc=5",
+      "source": "economist.com",
+      "published_at": "Thu, 13 Aug 2026 08:37:16 GMT",
+      "summary": "Can Singapore ever build a proper stock market? economist.com",
+      "guid": "CBMiqAFBVV95cUxQaXg3dWZDOTRkTFdPQWN3eGs5M1pjLXpfOVB3amxuMWZJQUR6V2tjc191UGkzUExldFhRcHJGbnAxbzNQUjdUOW9YOXBZOUpYMFJmc3dDaVNPbGpCa2dsZEFZNFRBbm5PUURBLXEwaDBBenBuZ3lVVnpmRmtBWFlTSUtjdWNvS3RtckpOVlZRZjRNS09SbjV3ZzN2R3d0NmNwVTZOaHJ2ZzM"
+    },
+    {
       "title": "Does the Equity Term Structure Respond to Monetary Policy Shocks? - Liberty Street Economics",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcGZKaVc1MHU4VUlQTzFVZDNhOTJuN2VsZ1RITGFrRzFNMGNtWFJOT3BQQTRvcUwyLXo4bWNRcWlVaG5KSVpVU3Z1UmpjemUySjhLa1RhT2xBZHdGQ2tBT1JCSkYtZ3YtT2ZUZVNpcDBRYV9qdDdBcGtPbWFCclV4R3RVcDNJbGxyWmpjbHZ4MU9WUTFjcko5R0Vob3MyZmlMV2JHMDgybDdUa0NlcUR6QlBxa21xeHU2S1pv?oc=5",
       "source": "Liberty Street Economics",
       "published_at": "Wed, 12 Aug 2026 11:00:26 GMT",
       "summary": "Does the Equity Term Structure Respond to Monetary Policy Shocks? Liberty Street Economics",
       "guid": "CBMiuwFBVV95cUxPcGZKaVc1MHU4VUlQTzFVZDNhOTJuN2VsZ1RITGFrRzFNMGNtWFJOT3BQQTRvcUwyLXo4bWNRcWlVaG5KSVpVU3Z1UmpjemUySjhLa1RhT2xBZHdGQ2tBT1JCSkYtZ3YtT2ZUZVNpcDBRYV9qdDdBcGtPbWFCclV4R3RVcDNJbGxyWmpjbHZ4MU9WUTFjcko5R0Vob3MyZmlMV2JHMDgybDdUa0NlcUR6QlBxa21xeHU2S1pv"
-    },
-    {
-      "title": "Can Singapore ever build a proper stock market? - The Economist",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaXg3dWZDOTRkTFdPQWN3eGs5M1pjLXpfOVB3amxuMWZJQUR6V2tjc191UGkzUExldFhRcHJGbnAxbzNQUjdUOW9YOXBZOUpYMFJmc3dDaVNPbGpCa2dsZEFZNFRBbm5PUURBLXEwaDBBenBuZ3lVVnpmRmtBWFlTSUtjdWNvS3RtckpOVlZRZjRNS09SbjV3ZzN2R3d0NmNwVTZOaHJ2ZzM?oc=5",
-      "source": "The Economist",
-      "published_at": "Thu, 13 Aug 2026 08:37:16 GMT",
-      "summary": "Can Singapore ever build a proper stock market? The Economist",
-      "guid": "CBMiqAFBVV95cUxQaXg3dWZDOTRkTFdPQWN3eGs5M1pjLXpfOVB3amxuMWZJQUR6V2tjc191UGkzUExldFhRcHJGbnAxbzNQUjdUOW9YOXBZOUpYMFJmc3dDaVNPbGpCa2dsZEFZNFRBbm5PUURBLXEwaDBBenBuZ3lVVnpmRmtBWFlTSUtjdWNvS3RtckpOVlZRZjRNS09SbjV3ZzN2R3d0NmNwVTZOaHJ2ZzM"
     },
     {
       "title": "Stocks Churn as US Threats Against Iran Lift Crude: Markets Wrap - Bloomberg.com",
@@ -39,6 +39,14 @@
       "guid": "CBMikgFBVV95cUxOdERMTzBWenp6TWJ1YmVIWC1NN1E1VTlqZlRpUTdGd1VrTVFSMENvUnVJdlM5QTUxcFJPQm5UMWk1d0d0OUZBNUluVjJNcUdKTUVOWE5YRHp6RlpTaW13MlRIV0RLWHhzUmcxdDZpMHJfRmJoREdjRERXMHdERi1SRWQyamxEbFljSGJSUjdwTWxfdw"
     },
     {
+      "title": "Fed Rate Hike Odds Fall As Amazon Prime Day Effect Hits Retail Sales - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUjlaMnhtaGxDcGZzZFdpTjBDclVqYmdQUkE2Q0VaMEVQY1FldUhJbVM2VVpDZ3pJd2dieFA1RHI5YlNYeGc2empyczA5NTd3Yk5BdlpjSVJ1WVhYaGNGOXVpSU5BbUhQWGpPS0lQWDk4ZGgwUjlHeTBGSXRhSTJNVHpwUE1vMk05VzFYTEZ4MHJidGlwejNGX3RRa2R0QndtOVE?oc=5",
+      "source": "Investor's Business Daily",
+      "published_at": "Fri, 14 Aug 2026 14:33:00 GMT",
+      "summary": "Fed Rate Hike Odds Fall As Amazon Prime Day Effect Hits Retail Sales Investor's Business Daily",
+      "guid": "CBMiogFBVV95cUxPUjlaMnhtaGxDcGZzZFdpTjBDclVqYmdQUkE2Q0VaMEVQY1FldUhJbVM2VVpDZ3pJd2dieFA1RHI5YlNYeGc2empyczA5NTd3Yk5BdlpjSVJ1WVhYaGNGOXVpSU5BbUhQWGpPS0lQWDk4ZGgwUjlHeTBGSXRhSTJNVHpwUE1vMk05VzFYTEZ4MHJidGlwejNGX3RRa2R0QndtOVE"
+    },
+    {
       "title": "Stock Market Investors Just Got Bad News From the Federal Reserve - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYmRTTHRPT2xya2JSUFd2Nld3TXFvQlRGUmxsREUwWUFBSERFNm5ITEJLUXYwMTVQRzRScUtKZExpcEloSDFwM2UwV2p2bks0czctZDFtcl80N0VyWUVKWmJLakNLQnNtUG96WW1KUVB1RlN1T1pwZlAyOEtOZ3k3Unc3clpmQ3Zta3BzSGRjTzlOZERPdThFVkNGUmc?oc=5",
       "source": "Yahoo Finance",
@@ -47,11 +55,19 @@
       "guid": "CBMinAFBVV95cUxPYmRTTHRPT2xya2JSUFd2Nld3TXFvQlRGUmxsREUwWUFBSERFNm5ITEJLUXYwMTVQRzRScUtKZExpcEloSDFwM2UwV2p2bks0czctZDFtcl80N0VyWUVKWmJLakNLQnNtUG96WW1KUVB1RlN1T1pwZlAyOEtOZ3k3Unc3clpmQ3Zta3BzSGRjTzlOZERPdThFVkNGUmc"
     },
     {
-      "title": "Why federal government’s monthly inflation report has an effect on Wall Street - Baltimore Sun",
+      "title": "How Kevin Warsh is rewiring the Fed - Axios",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8teTJqbjhiWFJIbWJ2emRScjZZRzVZWF9NLXNVb2k4Q2g0NTFlZzdmSC1JQ2phc0F2X0RHMFBoRE9DRUdXZllqZGhPZ1dtS0xzWV9YNXByRlVMdFIxZERKTU5QcERtdm5PTFVRcXIteDJod0k?oc=5",
+      "source": "Axios",
+      "published_at": "Mon, 10 Aug 2026 09:04:42 GMT",
+      "summary": "How Kevin Warsh is rewiring the Fed Axios",
+      "guid": "CBMic0FVX3lxTE8teTJqbjhiWFJIbWJ2emRScjZZRzVZWF9NLXNVb2k4Q2g0NTFlZzdmSC1JQ2phc0F2X0RHMFBoRE9DRUdXZllqZGhPZ1dtS0xzWV9YNXByRlVMdFIxZERKTU5QcERtdm5PTFVRcXIteDJod0k"
+    },
+    {
+      "title": "Why federal government’s monthly inflation report has an effect on Wall Street - baltimoresun.com",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMzk3QnVnNFgxejNJQWZ2czZIZTRfUWRrdVVRZE9aSTFhLS1mLThnUzVMN3BaeDhXSVBQeEdZSFdYMEdJUFhoaG01X21PQVUyWm5HZm9Ba3lTOWRWRGw3Q0Rmdnp2c19zNGFXX1dhMm1rRjR6dEg2QU5ueE9SSTZEa1lLeDVkWlBiT2VLb0d5WjQ5ZmZwNXVxdjZ4VVpURkdPZjRkaFI2X0hHT0dUcW9lVTBGMldGUWRjcFE?oc=5",
-      "source": "Baltimore Sun",
+      "source": "baltimoresun.com",
       "published_at": "Fri, 14 Aug 2026 13:11:19 GMT",
-      "summary": "Why federal government’s monthly inflation report has an effect on Wall Street Baltimore Sun",
+      "summary": "Why federal government’s monthly inflation report has an effect on Wall Street baltimoresun.com",
       "guid": "CBMiugFBVV95cUxPMzk3QnVnNFgxejNJQWZ2czZIZTRfUWRrdVVRZE9aSTFhLS1mLThnUzVMN3BaeDhXSVBQeEdZSFdYMEdJUFhoaG01X21PQVUyWm5HZm9Ba3lTOWRWRGw3Q0Rmdnp2c19zNGFXX1dhMm1rRjR6dEg2QU5ueE9SSTZEa1lLeDVkWlBiT2VLb0d5WjQ5ZmZwNXVxdjZ4VVpURkdPZjRkaFI2X0hHT0dUcW9lVTBGMldGUWRjcFE"
     },
     {
@@ -63,28 +79,12 @@
       "guid": "CBMiiwFBVV95cUxPd2k2UGxNOFRzM21hRG16dV9VTGt0NnFTYmNXOVZzazNqZ2ZTVGppSWNuR09haFNhMjIzVkhIV3ZqQkZpYWNKbGN5QUMzcEI5NEFLdmYwRG1NdFFRMkhvRFd0TU0yazV4aTRyZ1UzX29EU2NaaHp3R3FZaTI5ZDNpZHJuUkNDT2M4azB3"
     },
     {
-      "title": "Fed Rate Hike Odds Fall As Amazon Prime Day Effect Hits Retail Sales - Investor's Business Daily",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUjlaMnhtaGxDcGZzZFdpTjBDclVqYmdQUkE2Q0VaMEVQY1FldUhJbVM2VVpDZ3pJd2dieFA1RHI5YlNYeGc2empyczA5NTd3Yk5BdlpjSVJ1WVhYaGNGOXVpSU5BbUhQWGpPS0lQWDk4ZGgwUjlHeTBGSXRhSTJNVHpwUE1vMk05VzFYTEZ4MHJidGlwejNGX3RRa2R0QndtOVE?oc=5",
-      "source": "Investor's Business Daily",
-      "published_at": "Fri, 14 Aug 2026 14:33:00 GMT",
-      "summary": "Fed Rate Hike Odds Fall As Amazon Prime Day Effect Hits Retail Sales Investor's Business Daily",
-      "guid": "CBMiogFBVV95cUxPUjlaMnhtaGxDcGZzZFdpTjBDclVqYmdQUkE2Q0VaMEVQY1FldUhJbVM2VVpDZ3pJd2dieFA1RHI5YlNYeGc2empyczA5NTd3Yk5BdlpjSVJ1WVhYaGNGOXVpSU5BbUhQWGpPS0lQWDk4ZGgwUjlHeTBGSXRhSTJNVHpwUE1vMk05VzFYTEZ4MHJidGlwejNGX3RRa2R0QndtOVE"
-    },
-    {
-      "title": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says a Big Drop Could Follow. - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSG5UVUo2Qjc0QmZXVkZkVG5DNDFUMHJVT3ZDUHZzOFBVOXVuWk55aE9ZcDVOVEFJa3Y5ZHpjNWx4YWgtb3VfSjRHQUJXMFJIV3lPcTFDSjFadXBmdENDeGx2eGMyZ2NVRjM2Mk9RYlU3X1B2OGMwWmR6ajgtMWxQUmFCMER2R1gxZk52LVZYWW1lVkxxeWp2S3dpVjA?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Wed, 01 Jul 2026 07:00:00 GMT",
-      "summary": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says a Big Drop Could Follow. Yahoo Finance",
-      "guid": "CBMinAFBVV95cUxPSG5UVUo2Qjc0QmZXVkZkVG5DNDFUMHJVT3ZDUHZzOFBVOXVuWk55aE9ZcDVOVEFJa3Y5ZHpjNWx4YWgtb3VfSjRHQUJXMFJIV3lPcTFDSjFadXBmdENDeGx2eGMyZ2NVRjM2Mk9RYlU3X1B2OGMwWmR6ajgtMWxQUmFCMER2R1gxZk52LVZYWW1lVkxxeWp2S3dpVjA"
-    },
-    {
-      "title": "How Kevin Warsh is rewiring the Fed - Axios",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8teTJqbjhiWFJIbWJ2emRScjZZRzVZWF9NLXNVb2k4Q2g0NTFlZzdmSC1JQ2phc0F2X0RHMFBoRE9DRUdXZllqZGhPZ1dtS0xzWV9YNXByRlVMdFIxZERKTU5QcERtdm5PTFVRcXIteDJod0k?oc=5",
-      "source": "Axios",
-      "published_at": "Mon, 10 Aug 2026 09:04:42 GMT",
-      "summary": "How Kevin Warsh is rewiring the Fed Axios",
-      "guid": "CBMic0FVX3lxTE8teTJqbjhiWFJIbWJ2emRScjZZRzVZWF9NLXNVb2k4Q2g0NTFlZzdmSC1JQ2phc0F2X0RHMFBoRE9DRUdXZllqZGhPZ1dtS0xzWV9YNXByRlVMdFIxZERKTU5QcERtdm5PTFVRcXIteDJod0k"
+      "title": "Charles Payne: Kevin Warsh wants to change how Federal Reserve fights inflation - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZaWk3UVdBWHB1Z0VMUkd1VGN1WkcyMjgyd2hvYmpZWVlyTE5yLXdRWFFJdGltNE1rLU1kRXltS0gtR0pWd3c5Rk9jdmlkLW9mbU11eHhn?oc=5",
+      "source": "Fox News",
+      "published_at": "Fri, 14 Aug 2026 23:37:06 GMT",
+      "summary": "Charles Payne: Kevin Warsh wants to change how Federal Reserve fights inflation Fox News",
+      "guid": "CBMiVkFVX3lxTE1ZaWk3UVdBWHB1Z0VMUkd1VGN1WkcyMjgyd2hvYmpZWVlyTE5yLXdRWFFJdGltNE1rLU1kRXltS0gtR0pWd3c5Rk9jdmlkLW9mbU11eHhn"
     }
   ]
 }
