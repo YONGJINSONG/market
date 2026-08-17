@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T23:11:33Z",
+  "generated_at": "2026-08-17T23:34:22Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -23,14 +23,6 @@
       "guid": "CBMimAFBVV95cUxOZUtKVldWZzhScENJenZBNlc1MHk4X3dHR0d3aDFiSGswSEJpcGs4N2VsZGw1ZXZyd25Wei1fZ2gtVGVUYU1rUXBsLWExeU0zeUViUW5mM2tqXzdXRnNkeGQzUzc5b0ljNkxVSHBxaUNuOEtkbVFCemNuTm0zUUtNcldyYnk4S3JDTE5OSmF0VndJd1NwM2RpTw"
     },
     {
-      "title": "Why federal government’s monthly inflation report has an effect on Wall Street - Baltimore Sun",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMzk3QnVnNFgxejNJQWZ2czZIZTRfUWRrdVVRZE9aSTFhLS1mLThnUzVMN3BaeDhXSVBQeEdZSFdYMEdJUFhoaG01X21PQVUyWm5HZm9Ba3lTOWRWRGw3Q0Rmdnp2c19zNGFXX1dhMm1rRjR6dEg2QU5ueE9SSTZEa1lLeDVkWlBiT2VLb0d5WjQ5ZmZwNXVxdjZ4VVpURkdPZjRkaFI2X0hHT0dUcW9lVTBGMldGUWRjcFE?oc=5",
-      "source": "Baltimore Sun",
-      "published_at": "Sat, 15 Aug 2026 04:05:09 GMT",
-      "summary": "Why federal government’s monthly inflation report has an effect on Wall Street Baltimore Sun",
-      "guid": "CBMiugFBVV95cUxPMzk3QnVnNFgxejNJQWZ2czZIZTRfUWRrdVVRZE9aSTFhLS1mLThnUzVMN3BaeDhXSVBQeEdZSFdYMEdJUFhoaG01X21PQVUyWm5HZm9Ba3lTOWRWRGw3Q0Rmdnp2c19zNGFXX1dhMm1rRjR6dEg2QU5ueE9SSTZEa1lLeDVkWlBiT2VLb0d5WjQ5ZmZwNXVxdjZ4VVpURkdPZjRkaFI2X0hHT0dUcW9lVTBGMldGUWRjcFE"
-    },
-    {
       "title": "Does the Equity Term Structure Respond to Monetary Policy Shocks? - Liberty Street Economics",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcGZKaVc1MHU4VUlQTzFVZDNhOTJuN2VsZ1RITGFrRzFNMGNtWFJOT3BQQTRvcUwyLXo4bWNRcWlVaG5KSVpVU3Z1UmpjemUySjhLa1RhT2xBZHdGQ2tBT1JCSkYtZ3YtT2ZUZVNpcDBRYV9qdDdBcGtPbWFCclV4R3RVcDNJbGxyWmpjbHZ4MU9WUTFjcko5R0Vob3MyZmlMV2JHMDgybDdUa0NlcUR6QlBxa21xeHU2S1pv?oc=5",
       "source": "Liberty Street Economics",
@@ -47,20 +39,28 @@
       "guid": "CBMif0FVX3lxTE55dExzamdUeVZvRFJCdTRRVnhib2o5ZWt4QVkzVXYwVGpzNXh6VXJGcTlTU0RGTzdvNm5NMzRNZW5uWXNERDE5OTVvZm1IazlwU25aV1VKc1hqWk5sZ2p0dHplN2p6RjdMNl9JaVk4SUkxc2Rhc0RPNlJNM0taT00"
     },
     {
-      "title": "S&P 500 Record High August 2026: Inflation Cooling & AI Stocks Rally - Intellectia AI",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOd2hMUlZzdHRhYVRvMVhfdlNQSC15LWdUUmVuN3ppV3JYV2FfYV9yMTQ3RkkzdVNBTWstVkxxLTRsQVBNV1Z1S01YOTBHVDV0M0FLUFFrMllOWC1Yd3JQWlgzT3N3cTBDUUlSR3ZqcUFQS3o0TnFsZHFrV1ZDRi1Md05B?oc=5",
-      "source": "Intellectia AI",
-      "published_at": "Mon, 17 Aug 2026 04:16:55 GMT",
-      "summary": "S&P 500 Record High August 2026: Inflation Cooling & AI Stocks Rally Intellectia AI",
-      "guid": "CBMiggFBVV95cUxOd2hMUlZzdHRhYVRvMVhfdlNQSC15LWdUUmVuN3ppV3JYV2FfYV9yMTQ3RkkzdVNBTWstVkxxLTRsQVBNV1Z1S01YOTBHVDV0M0FLUFFrMllOWC1Yd3JQWlgzT3N3cTBDUUlSR3ZqcUFQS3o0TnFsZHFrV1ZDRi1Md05B"
-    },
-    {
       "title": "Stock Market: Will S&P 500 Open Up or Down Today? - TradingView",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTFFEbWVBWENHeWVRZ2hUYW05SG5UNWpSV2ZIVXVheEFYNlZaekp1SWRjTnVHelYyc0d3cHJ1VzZQM3JHZUZ3QVhUSzhDa2ViWi00WnpDVm80MFFIOFJ6VmdkbzZySXdOc2MxbnlXUXdKOTJxdm5UWDdtMDVuSFhhQm01YzJLU2FRNnBTZVJmYzR4SzdVSDd0MUlGUTJwRnNjSVNoSFBzdnVVZw?oc=5",
       "source": "TradingView",
       "published_at": "Mon, 17 Aug 2026 06:22:00 GMT",
       "summary": "Stock Market: Will S&P 500 Open Up or Down Today? TradingView",
       "guid": "CBMiqgFBVV95cUxPTFFEbWVBWENHeWVRZ2hUYW05SG5UNWpSV2ZIVXVheEFYNlZaekp1SWRjTnVHelYyc0d3cHJ1VzZQM3JHZUZ3QVhUSzhDa2ViWi00WnpDVm80MFFIOFJ6VmdkbzZySXdOc2MxbnlXUXdKOTJxdm5UWDdtMDVuSFhhQm01YzJLU2FRNnBTZVJmYzR4SzdVSDd0MUlGUTJwRnNjSVNoSFBzdnVVZw"
+    },
+    {
+      "title": "Why federal government’s monthly inflation report has an effect on Wall Street - baltimoresun.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMzk3QnVnNFgxejNJQWZ2czZIZTRfUWRrdVVRZE9aSTFhLS1mLThnUzVMN3BaeDhXSVBQeEdZSFdYMEdJUFhoaG01X21PQVUyWm5HZm9Ba3lTOWRWRGw3Q0Rmdnp2c19zNGFXX1dhMm1rRjR6dEg2QU5ueE9SSTZEa1lLeDVkWlBiT2VLb0d5WjQ5ZmZwNXVxdjZ4VVpURkdPZjRkaFI2X0hHT0dUcW9lVTBGMldGUWRjcFE?oc=5",
+      "source": "baltimoresun.com",
+      "published_at": "Sat, 15 Aug 2026 04:05:09 GMT",
+      "summary": "Why federal government’s monthly inflation report has an effect on Wall Street baltimoresun.com",
+      "guid": "CBMiugFBVV95cUxPMzk3QnVnNFgxejNJQWZ2czZIZTRfUWRrdVVRZE9aSTFhLS1mLThnUzVMN3BaeDhXSVBQeEdZSFdYMEdJUFhoaG01X21PQVUyWm5HZm9Ba3lTOWRWRGw3Q0Rmdnp2c19zNGFXX1dhMm1rRjR6dEg2QU5ueE9SSTZEa1lLeDVkWlBiT2VLb0d5WjQ5ZmZwNXVxdjZ4VVpURkdPZjRkaFI2X0hHT0dUcW9lVTBGMldGUWRjcFE"
+    },
+    {
+      "title": "S&P 500 Record High August 2026: Inflation Cooling & AI Stocks Rally - Intellectia AI",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOd2hMUlZzdHRhYVRvMVhfdlNQSC15LWdUUmVuN3ppV3JYV2FfYV9yMTQ3RkkzdVNBTWstVkxxLTRsQVBNV1Z1S01YOTBHVDV0M0FLUFFrMllOWC1Yd3JQWlgzT3N3cTBDUUlSR3ZqcUFQS3o0TnFsZHFrV1ZDRi1Md05B?oc=5",
+      "source": "Intellectia AI",
+      "published_at": "Mon, 17 Aug 2026 04:16:55 GMT",
+      "summary": "S&P 500 Record High August 2026: Inflation Cooling & AI Stocks Rally Intellectia AI",
+      "guid": "CBMiggFBVV95cUxOd2hMUlZzdHRhYVRvMVhfdlNQSC15LWdUUmVuN3ppV3JYV2FfYV9yMTQ3RkkzdVNBTWstVkxxLTRsQVBNV1Z1S01YOTBHVDV0M0FLUFFrMllOWC1Yd3JQWlgzT3N3cTBDUUlSR3ZqcUFQS3o0TnFsZHFrV1ZDRi1Md05B"
     },
     {
       "title": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says a Big Drop Could Follow. - Yahoo Finance",
@@ -71,20 +71,20 @@
       "guid": "CBMinAFBVV95cUxPSG5UVUo2Qjc0QmZXVkZkVG5DNDFUMHJVT3ZDUHZzOFBVOXVuWk55aE9ZcDVOVEFJa3Y5ZHpjNWx4YWgtb3VfSjRHQUJXMFJIV3lPcTFDSjFadXBmdENDeGx2eGMyZ2NVRjM2Mk9RYlU3X1B2OGMwWmR6ajgtMWxQUmFCMER2R1gxZk52LVZYWW1lVkxxeWp2S3dpVjA"
     },
     {
-      "title": "Stock Market Investors Just Got Bad News From the Federal Reserve - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU0x1Uml3U2JwWVNjbDZjSUNkWVBTUkE3Vk5FS09sWFp3VE5kRDBYckZkUDU2c05uaVBsRTI0RXZXQmw5ZndNSk5BdUVUY01jNGNoOXhCRUtyc1dkTll0ZFJvOFhDbGtiT3l1NmpOdk5Lc3JHdktBU29XMjR2YXNaZHVQYmotMlItZVNPVkVabGhSMDJ2?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Sun, 09 Aug 2026 07:00:00 GMT",
-      "summary": "Stock Market Investors Just Got Bad News From the Federal Reserve The Motley Fool",
-      "guid": "CBMilAFBVV95cUxQU0x1Uml3U2JwWVNjbDZjSUNkWVBTUkE3Vk5FS09sWFp3VE5kRDBYckZkUDU2c05uaVBsRTI0RXZXQmw5ZndNSk5BdUVUY01jNGNoOXhCRUtyc1dkTll0ZFJvOFhDbGtiT3l1NmpOdk5Lc3JHdktBU29XMjR2YXNaZHVQYmotMlItZVNPVkVabGhSMDJ2"
+      "title": "Fed Rate Hike Odds Fall As Amazon Prime Day Effect Hits Retail Sales - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUjlaMnhtaGxDcGZzZFdpTjBDclVqYmdQUkE2Q0VaMEVQY1FldUhJbVM2VVpDZ3pJd2dieFA1RHI5YlNYeGc2empyczA5NTd3Yk5BdlpjSVJ1WVhYaGNGOXVpSU5BbUhQWGpPS0lQWDk4ZGgwUjlHeTBGSXRhSTJNVHpwUE1vMk05VzFYTEZ4MHJidGlwejNGX3RRa2R0QndtOVE?oc=5",
+      "source": "Investor's Business Daily",
+      "published_at": "Fri, 14 Aug 2026 14:33:00 GMT",
+      "summary": "Fed Rate Hike Odds Fall As Amazon Prime Day Effect Hits Retail Sales Investor's Business Daily",
+      "guid": "CBMiogFBVV95cUxPUjlaMnhtaGxDcGZzZFdpTjBDclVqYmdQUkE2Q0VaMEVQY1FldUhJbVM2VVpDZ3pJd2dieFA1RHI5YlNYeGc2empyczA5NTd3Yk5BdlpjSVJ1WVhYaGNGOXVpSU5BbUhQWGpPS0lQWDk4ZGgwUjlHeTBGSXRhSTJNVHpwUE1vMk05VzFYTEZ4MHJidGlwejNGX3RRa2R0QndtOVE"
     },
     {
-      "title": "The Fed's Balance Sheet Moves Markets More Than Rates Do for BITSTAMP:BTCUSD by VertexQore - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOV0p4T1gtbmF1QnlmZnEwendsWVdwU1Z6RWNKLV9oY0pzdTZLU2dQdHJLd0l1T0JtRmxqbEhGQXNXQnhsWmhOekJyZVE3VERTVHNJZFJaVkFzMUZQUHR1Qk9TLTNsMVF0RWY0SUdfaW5ISVJPOEctdGY5cC1sY1dUejJwTVVQZmpZRFRCenhwRk5jMnN4blQxVkVuNm9tSTc0Mkd5Z1FLZzBHYm8?oc=5",
-      "source": "TradingView",
-      "published_at": "Mon, 17 Aug 2026 08:22:20 GMT",
-      "summary": "The Fed's Balance Sheet Moves Markets More Than Rates Do for BITSTAMP:BTCUSD by VertexQore TradingView",
-      "guid": "CBMiqwFBVV95cUxOV0p4T1gtbmF1QnlmZnEwendsWVdwU1Z6RWNKLV9oY0pzdTZLU2dQdHJLd0l1T0JtRmxqbEhGQXNXQnhsWmhOekJyZVE3VERTVHNJZFJaVkFzMUZQUHR1Qk9TLTNsMVF0RWY0SUdfaW5ISVJPOEctdGY5cC1sY1dUejJwTVVQZmpZRFRCenhwRk5jMnN4blQxVkVuNm9tSTc0Mkd5Z1FLZzBHYm8"
+      "title": "US stocks sink on worries about a possible hike to interest rates this year by the Federal Reserve - AP News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcUlFaFNwNVNsa1RTZTFkTEhaMmhGLXBpZnZjeVAwaDBSSzRjZUFIMTQ3UTctckwtOXRvUDB6c0sxUGVlRWY5SUM5ZUllV1doQVhoLWkyd3IxdFdkRWJGY2J0ZGxyNmNwTEU3LVVBdDlXWVlxM2QtdGpHWmtBMGl0WkFWQzNucTVFTF9lelY3ZjdXNzFYeDhN?oc=5",
+      "source": "AP News",
+      "published_at": "Wed, 17 Jun 2026 07:00:00 GMT",
+      "summary": "US stocks sink on worries about a possible hike to interest rates this year by the Federal Reserve AP News",
+      "guid": "CBMilwFBVV95cUxQcUlFaFNwNVNsa1RTZTFkTEhaMmhGLXBpZnZjeVAwaDBSSzRjZUFIMTQ3UTctckwtOXRvUDB6c0sxUGVlRWY5SUM5ZUllV1doQVhoLWkyd3IxdFdkRWJGY2J0ZGxyNmNwTEU3LVVBdDlXWVlxM2QtdGpHWmtBMGl0WkFWQzNucTVFTF9lelY3ZjdXNzFYeDhN"
     }
   ]
 }
