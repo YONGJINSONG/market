@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T21:20:59Z",
+  "generated_at": "2026-08-17T21:46:58Z",
   "benchmark": "SPY",
   "sectors": [
     {
@@ -241,24 +241,24 @@
       "symbol": "XLRE",
       "trail": [
         {
-          "rsRatio": 96.56,
-          "rsMomentum": 100.42
+          "rsRatio": 96.15,
+          "rsMomentum": 99.48
         },
         {
-          "rsRatio": 98.11,
-          "rsMomentum": 101.61
+          "rsRatio": 97.37,
+          "rsMomentum": 101.26
         },
         {
-          "rsRatio": 99.33,
-          "rsMomentum": 101.24
+          "rsRatio": 99.27,
+          "rsMomentum": 101.95
         },
         {
-          "rsRatio": 100.2,
-          "rsMomentum": 100.88
+          "rsRatio": 99.4,
+          "rsMomentum": 100.13
         },
         {
-          "rsRatio": 99.98,
-          "rsMomentum": 99.77
+          "rsRatio": 99.06,
+          "rsMomentum": 99.66
         }
       ]
     },
@@ -289,5 +289,5 @@
       ]
     }
   ],
-  "lastUpdated": "2026-08-17T21:20:59Z"
+  "lastUpdated": "2026-08-17T21:46:58Z"
 }
