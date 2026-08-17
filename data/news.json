@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T00:33:10Z",
+  "generated_at": "2026-08-17T02:07:17Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,20 +7,12 @@
   },
   "items": [
     {
-      "title": "Does the Equity Term Structure Respond to Monetary Policy Shocks? - Liberty Street Economics",
+      "title": "Does the Equity Term Structure Respond to Monetary Policy Shocks? - libertystreeteconomics.newyorkfed.org",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcGZKaVc1MHU4VUlQTzFVZDNhOTJuN2VsZ1RITGFrRzFNMGNtWFJOT3BQQTRvcUwyLXo4bWNRcWlVaG5KSVpVU3Z1UmpjemUySjhLa1RhT2xBZHdGQ2tBT1JCSkYtZ3YtT2ZUZVNpcDBRYV9qdDdBcGtPbWFCclV4R3RVcDNJbGxyWmpjbHZ4MU9WUTFjcko5R0Vob3MyZmlMV2JHMDgybDdUa0NlcUR6QlBxa21xeHU2S1pv?oc=5",
-      "source": "Liberty Street Economics",
+      "source": "libertystreeteconomics.newyorkfed.org",
       "published_at": "Wed, 12 Aug 2026 11:00:26 GMT",
-      "summary": "Does the Equity Term Structure Respond to Monetary Policy Shocks? Liberty Street Economics",
+      "summary": "Does the Equity Term Structure Respond to Monetary Policy Shocks? libertystreeteconomics.newyorkfed.org",
       "guid": "CBMiuwFBVV95cUxPcGZKaVc1MHU4VUlQTzFVZDNhOTJuN2VsZ1RITGFrRzFNMGNtWFJOT3BQQTRvcUwyLXo4bWNRcWlVaG5KSVpVU3Z1UmpjemUySjhLa1RhT2xBZHdGQ2tBT1JCSkYtZ3YtT2ZUZVNpcDBRYV9qdDdBcGtPbWFCclV4R3RVcDNJbGxyWmpjbHZ4MU9WUTFjcko5R0Vob3MyZmlMV2JHMDgybDdUa0NlcUR6QlBxa21xeHU2S1pv"
-    },
-    {
-      "title": "Nvidia is becoming the 'Federal Reserve of AI' - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcFMybWlDMWJQR0pOSzlWbGN0ZmlZa0xfb19qLXEzRDR5cUUwU25uS1JBRVAxV09oNkhaN1NVT3FnaEZyejJZUnZzYkNsLTJvZUp2MWMwWXJtYW5rbDdmOEtUUzZpMTJDZDNyTFF4Ti01eXBEUzJ1YU1TTkN2WWd0aFR0MHBHTU1mc3c?oc=5",
-      "source": "Seeking Alpha",
-      "published_at": "Sun, 16 Aug 2026 11:22:39 GMT",
-      "summary": "Nvidia is becoming the 'Federal Reserve of AI' Seeking Alpha",
-      "guid": "CBMiigFBVV95cUxNcFMybWlDMWJQR0pOSzlWbGN0ZmlZa0xfb19qLXEzRDR5cUUwU25uS1JBRVAxV09oNkhaN1NVT3FnaEZyejJZUnZzYkNsLTJvZUp2MWMwWXJtYW5rbDdmOEtUUzZpMTJDZDNyTFF4Ti01eXBEUzJ1YU1TTkN2WWd0aFR0MHBHTU1mc3c"
     },
     {
       "title": "Stocks Churn as US Threats Against Iran Lift Crude: Markets Wrap - Bloomberg.com",
@@ -31,20 +23,20 @@
       "guid": "CBMisgFBVV95cUxNWk9LT09OZ0o3aE1weXpUM0V0XzMzblRONDFQM2JqZFdWaUZ1RkJOV1BPRWM5eWtIczJReUhRY243d1pGMkRTU2ZENTI1ZWU3ZHdnVXNMRDJVQWk2eHBQRFNUN1VDMlZJczFKTVYxZy1Ecm5EbldNVEV5cVh0TmFmUzJWX2xhSXpNWTl3NUdBSXJiZ0h4Znd6V19FNG1WazNUemExeC1wVEdEaHlNdGt6bHdB"
     },
     {
+      "title": "Nvidia is becoming the 'Federal Reserve of AI' - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcFMybWlDMWJQR0pOSzlWbGN0ZmlZa0xfb19qLXEzRDR5cUUwU25uS1JBRVAxV09oNkhaN1NVT3FnaEZyejJZUnZzYkNsLTJvZUp2MWMwWXJtYW5rbDdmOEtUUzZpMTJDZDNyTFF4Ti01eXBEUzJ1YU1TTkN2WWd0aFR0MHBHTU1mc3c?oc=5",
+      "source": "Seeking Alpha",
+      "published_at": "Sun, 16 Aug 2026 11:22:39 GMT",
+      "summary": "Nvidia is becoming the 'Federal Reserve of AI' Seeking Alpha",
+      "guid": "CBMiigFBVV95cUxNcFMybWlDMWJQR0pOSzlWbGN0ZmlZa0xfb19qLXEzRDR5cUUwU25uS1JBRVAxV09oNkhaN1NVT3FnaEZyejJZUnZzYkNsLTJvZUp2MWMwWXJtYW5rbDdmOEtUUzZpMTJDZDNyTFF4Ti01eXBEUzJ1YU1TTkN2WWd0aFR0MHBHTU1mc3c"
+    },
+    {
       "title": "US retail sales post first decline in nine months in July - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSUpsdlVVb2FPYVpWSk4wT3hkMFo0eHhoZDBfemp1cVJ5b0pVeUREcVRMRE8yQjlYVE9NdDQ2VmlVbEt0RHZXYUgwYlZGNnVuMUgxUW9FdDRORnU1TGI5b0xWZGdTNzNQQXlzb1pfdDNkejhDX1RqZmpoamstRXZoYjExRnZ0WWdVMVRR?oc=5",
       "source": "Reuters",
       "published_at": "Fri, 14 Aug 2026 19:08:50 GMT",
       "summary": "US retail sales post first decline in nine months in July Reuters",
       "guid": "CBMiiwFBVV95cUxQSUpsdlVVb2FPYVpWSk4wT3hkMFo0eHhoZDBfemp1cVJ5b0pVeUREcVRMRE8yQjlYVE9NdDQ2VmlVbEt0RHZXYUgwYlZGNnVuMUgxUW9FdDRORnU1TGI5b0xWZGdTNzNQQXlzb1pfdDNkejhDX1RqZmpoamstRXZoYjExRnZ0WWdVMVRR"
-    },
-    {
-      "title": "If a Stock Market Crash Is Coming, History Says This 1 Investing Move Is Crucial - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdERMTzBWenp6TWJ1YmVIWC1NN1E1VTlqZlRpUTdGd1VrTVFSMENvUnVJdlM5QTUxcFJPQm5UMWk1d0d0OUZBNUluVjJNcUdKTUVOWE5YRHp6RlpTaW13MlRIV0RLWHhzUmcxdDZpMHJfRmJoREdjRERXMHdERi1SRWQyamxEbFljSGJSUjdwTWxfdw?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Thu, 13 Aug 2026 15:55:00 GMT",
-      "summary": "If a Stock Market Crash Is Coming, History Says This 1 Investing Move Is Crucial The Motley Fool",
-      "guid": "CBMikgFBVV95cUxOdERMTzBWenp6TWJ1YmVIWC1NN1E1VTlqZlRpUTdGd1VrTVFSMENvUnVJdlM5QTUxcFJPQm5UMWk1d0d0OUZBNUluVjJNcUdKTUVOWE5YRHp6RlpTaW13MlRIV0RLWHhzUmcxdDZpMHJfRmJoREdjRERXMHdERi1SRWQyamxEbFljSGJSUjdwTWxfdw"
     },
     {
       "title": "Fed Rate Hike Odds Fall As Amazon Prime Day Effect Hits Retail Sales - Investor's Business Daily",
@@ -55,20 +47,28 @@
       "guid": "CBMiogFBVV95cUxPUjlaMnhtaGxDcGZzZFdpTjBDclVqYmdQUkE2Q0VaMEVQY1FldUhJbVM2VVpDZ3pJd2dieFA1RHI5YlNYeGc2empyczA5NTd3Yk5BdlpjSVJ1WVhYaGNGOXVpSU5BbUhQWGpPS0lQWDk4ZGgwUjlHeTBGSXRhSTJNVHpwUE1vMk05VzFYTEZ4MHJidGlwejNGX3RRa2R0QndtOVE"
     },
     {
-      "title": "Korea stocks eye Fed signals as inflation eases and bond risks loom - CHOSUNBIZ - Chosunbiz",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOR3Z2cVZMdmIyRm83Z1hTdWcxRmN5Sk1IX1dOYlU4ZHpQR0ZRNXhlZmRJa3lBVkJBNURPOUhoWnNjTTZTcjFOc1RLS21xY2hlUXFLbVFFdHNFTEJ2VDJfRHhqR1ptLUxLX09zV3hBSzZxLVFqMklaTlVtaDNwa2hjTNIBlAFBVV95cUxPaVdSVkoyOVd0NkpnaTdoZzVXR0ZnOVRKQVVHaXdhNTFUZ29HTHhyT2EwUEEwZW1FckV0X29CUUtwcDJNcUE2UlhncXVHNmV1eXR6STZoRHpiVmZ4QUpBX1hRLVZlSGxidG9fX2JVbksyS2dqanI5Vlp1UmNodnV3OXFqT1ZIazdJREozTDJGYnVldHVJ?oc=5",
-      "source": "Chosunbiz",
-      "published_at": "Sun, 16 Aug 2026 21:01:00 GMT",
-      "summary": "Korea stocks eye Fed signals as inflation eases and bond risks loom - CHOSUNBIZ Chosunbiz",
-      "guid": "CBMigAFBVV95cUxOR3Z2cVZMdmIyRm83Z1hTdWcxRmN5Sk1IX1dOYlU4ZHpQR0ZRNXhlZmRJa3lBVkJBNURPOUhoWnNjTTZTcjFOc1RLS21xY2hlUXFLbVFFdHNFTEJ2VDJfRHhqR1ptLUxLX09zV3hBSzZxLVFqMklaTlVtaDNwa2hjTNIBlAFBVV95cUxPaVdSVkoyOVd0NkpnaTdoZzVXR0ZnOVRKQVVHaXdhNTFUZ29HTHhyT2EwUEEwZW1FckV0X29CUUtwcDJNcUE2UlhncXVHNmV1eXR6STZoRHpiVmZ4QUpBX1hRLVZlSGxidG9fX2JVbksyS2dqanI5Vlp1UmNodnV3OXFqT1ZIazdJREozTDJGYnVldHVJ"
-    },
-    {
       "title": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says a Big Drop Could Follow. - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSG5UVUo2Qjc0QmZXVkZkVG5DNDFUMHJVT3ZDUHZzOFBVOXVuWk55aE9ZcDVOVEFJa3Y5ZHpjNWx4YWgtb3VfSjRHQUJXMFJIV3lPcTFDSjFadXBmdENDeGx2eGMyZ2NVRjM2Mk9RYlU3X1B2OGMwWmR6ajgtMWxQUmFCMER2R1gxZk52LVZYWW1lVkxxeWp2S3dpVjA?oc=5",
       "source": "Yahoo Finance",
       "published_at": "Wed, 01 Jul 2026 07:00:00 GMT",
       "summary": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says a Big Drop Could Follow. Yahoo Finance",
       "guid": "CBMinAFBVV95cUxPSG5UVUo2Qjc0QmZXVkZkVG5DNDFUMHJVT3ZDUHZzOFBVOXVuWk55aE9ZcDVOVEFJa3Y5ZHpjNWx4YWgtb3VfSjRHQUJXMFJIV3lPcTFDSjFadXBmdENDeGx2eGMyZ2NVRjM2Mk9RYlU3X1B2OGMwWmR6ajgtMWxQUmFCMER2R1gxZk52LVZYWW1lVkxxeWp2S3dpVjA"
+    },
+    {
+      "title": "Stock Market Investors Just Got Bad News From the Federal Reserve - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU0x1Uml3U2JwWVNjbDZjSUNkWVBTUkE3Vk5FS09sWFp3VE5kRDBYckZkUDU2c05uaVBsRTI0RXZXQmw5ZndNSk5BdUVUY01jNGNoOXhCRUtyc1dkTll0ZFJvOFhDbGtiT3l1NmpOdk5Lc3JHdktBU29XMjR2YXNaZHVQYmotMlItZVNPVkVabGhSMDJ2?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Sun, 09 Aug 2026 09:12:00 GMT",
+      "summary": "Stock Market Investors Just Got Bad News From the Federal Reserve The Motley Fool",
+      "guid": "CBMilAFBVV95cUxQU0x1Uml3U2JwWVNjbDZjSUNkWVBTUkE3Vk5FS09sWFp3VE5kRDBYckZkUDU2c05uaVBsRTI0RXZXQmw5ZndNSk5BdUVUY01jNGNoOXhCRUtyc1dkTll0ZFJvOFhDbGtiT3l1NmpOdk5Lc3JHdktBU29XMjR2YXNaZHVQYmotMlItZVNPVkVabGhSMDJ2"
+    },
+    {
+      "title": "Korea stocks eye Fed signals as inflation eases and bond risks loom - CHOSUNBIZ - Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOR3Z2cVZMdmIyRm83Z1hTdWcxRmN5Sk1IX1dOYlU4ZHpQR0ZRNXhlZmRJa3lBVkJBNURPOUhoWnNjTTZTcjFOc1RLS21xY2hlUXFLbVFFdHNFTEJ2VDJfRHhqR1ptLUxLX09zV3hBSzZxLVFqMklaTlVtaDNwa2hjTNIBlAFBVV95cUxPaVdSVkoyOVd0NkpnaTdoZzVXR0ZnOVRKQVVHaXdhNTFUZ29HTHhyT2EwUEEwZW1FckV0X29CUUtwcDJNcUE2UlhncXVHNmV1eXR6STZoRHpiVmZ4QUpBX1hRLVZlSGxidG9fX2JVbksyS2dqanI5Vlp1UmNodnV3OXFqT1ZIazdJREozTDJGYnVldHVJ?oc=5",
+      "source": "Chosunbiz",
+      "published_at": "Sun, 16 Aug 2026 21:01:00 GMT",
+      "summary": "Korea stocks eye Fed signals as inflation eases and bond risks loom - CHOSUNBIZ Chosunbiz",
+      "guid": "CBMigAFBVV95cUxOR3Z2cVZMdmIyRm83Z1hTdWcxRmN5Sk1IX1dOYlU4ZHpQR0ZRNXhlZmRJa3lBVkJBNURPOUhoWnNjTTZTcjFOc1RLS21xY2hlUXFLbVFFdHNFTEJ2VDJfRHhqR1ptLUxLX09zV3hBSzZxLVFqMklaTlVtaDNwa2hjTNIBlAFBVV95cUxPaVdSVkoyOVd0NkpnaTdoZzVXR0ZnOVRKQVVHaXdhNTFUZ29HTHhyT2EwUEEwZW1FckV0X29CUUtwcDJNcUE2UlhncXVHNmV1eXR6STZoRHpiVmZ4QUpBX1hRLVZlSGxidG9fX2JVbksyS2dqanI5Vlp1UmNodnV3OXFqT1ZIazdJREozTDJGYnVldHVJ"
     },
     {
       "title": "US stocks sink on worries about a possible hike to interest rates this year by the Federal Reserve - AP News",
@@ -79,11 +79,11 @@
       "guid": "CBMilwFBVV95cUxQcUlFaFNwNVNsa1RTZTFkTEhaMmhGLXBpZnZjeVAwaDBSSzRjZUFIMTQ3UTctckwtOXRvUDB6c0sxUGVlRWY5SUM5ZUllV1doQVhoLWkyd3IxdFdkRWJGY2J0ZGxyNmNwTEU3LVVBdDlXWVlxM2QtdGpHWmtBMGl0WkFWQzNucTVFTF9lelY3ZjdXNzFYeDhN"
     },
     {
-      "title": "Why federal government’s monthly inflation report has an effect on Wall Street - Baltimore Sun",
+      "title": "Why federal government’s monthly inflation report has an effect on Wall Street - baltimoresun.com",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMzk3QnVnNFgxejNJQWZ2czZIZTRfUWRrdVVRZE9aSTFhLS1mLThnUzVMN3BaeDhXSVBQeEdZSFdYMEdJUFhoaG01X21PQVUyWm5HZm9Ba3lTOWRWRGw3Q0Rmdnp2c19zNGFXX1dhMm1rRjR6dEg2QU5ueE9SSTZEa1lLeDVkWlBiT2VLb0d5WjQ5ZmZwNXVxdjZ4VVpURkdPZjRkaFI2X0hHT0dUcW9lVTBGMldGUWRjcFE?oc=5",
-      "source": "Baltimore Sun",
+      "source": "baltimoresun.com",
       "published_at": "Fri, 14 Aug 2026 13:11:19 GMT",
-      "summary": "Why federal government’s monthly inflation report has an effect on Wall Street Baltimore Sun",
+      "summary": "Why federal government’s monthly inflation report has an effect on Wall Street baltimoresun.com",
       "guid": "CBMiugFBVV95cUxPMzk3QnVnNFgxejNJQWZ2czZIZTRfUWRrdVVRZE9aSTFhLS1mLThnUzVMN3BaeDhXSVBQeEdZSFdYMEdJUFhoaG01X21PQVUyWm5HZm9Ba3lTOWRWRGw3Q0Rmdnp2c19zNGFXX1dhMm1rRjR6dEg2QU5ueE9SSTZEa1lLeDVkWlBiT2VLb0d5WjQ5ZmZwNXVxdjZ4VVpURkdPZjRkaFI2X0hHT0dUcW9lVTBGMldGUWRjcFE"
     }
   ]
