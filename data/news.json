@@ -1,19 +1,11 @@
 {
-  "generated_at": "2026-08-17T11:41:06Z",
+  "generated_at": "2026-08-17T11:57:02Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
-    {
-      "title": "U.S. Futures Mostly Higher as Iran Ceasefire Set to Expire - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWUVTb1JsTmxxRTUxSENvaXg4bzNUVy1UT1ZPaTJuUko0UUV4TEZWX3NVZldOcWp4ODlHOVhoTzlUMlh5UW13bE5XR3FxVWRxZnp0ckg1ZUtYT1pWSlpLQlBpT0M2ak1nUXdLOXpnc3preWc4U3QtZjhjZy1XSW1jVDZWOTNIU2gwVk9nS1E3eFN6RGRacXhsTkZLZEViYlFKUi1j?oc=5",
-      "source": "WSJ",
-      "published_at": "Mon, 17 Aug 2026 08:40:00 GMT",
-      "summary": "U.S. Futures Mostly Higher as Iran Ceasefire Set to Expire WSJ",
-      "guid": "CBMiowFBVV95cUxPWUVTb1JsTmxxRTUxSENvaXg4bzNUVy1UT1ZPaTJuUko0UUV4TEZWX3NVZldOcWp4ODlHOVhoTzlUMlh5UW13bE5XR3FxVWRxZnp0ckg1ZUtYT1pWSlpLQlBpT0M2ak1nUXdLOXpnc3preWc4U3QtZjhjZy1XSW1jVDZWOTNIU2gwVk9nS1E3eFN6RGRacXhsTkZLZEViYlFKUi1j"
-    },
     {
       "title": "Fed Chair Kevin Warsh's Job Just Got Much Easier. Here's What's Likely Next for the Stock Market As a Result. - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZUtKVldWZzhScENJenZBNlc1MHk4X3dHR0d3aDFiSGswSEJpcGs4N2VsZGw1ZXZyd25Wei1fZ2gtVGVUYU1rUXBsLWExeU0zeUViUW5mM2tqXzdXRnNkeGQzUzc5b0ljNkxVSHBxaUNuOEtkbVFCemNuTm0zUUtNcldyYnk4S3JDTE5OSmF0VndJd1NwM2RpTw?oc=5",
@@ -55,11 +47,11 @@
       "guid": "CBMiogFBVV95cUxPUjlaMnhtaGxDcGZzZFdpTjBDclVqYmdQUkE2Q0VaMEVQY1FldUhJbVM2VVpDZ3pJd2dieFA1RHI5YlNYeGc2empyczA5NTd3Yk5BdlpjSVJ1WVhYaGNGOXVpSU5BbUhQWGpPS0lQWDk4ZGgwUjlHeTBGSXRhSTJNVHpwUE1vMk05VzFYTEZ4MHJidGlwejNGX3RRa2R0QndtOVE"
     },
     {
-      "title": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says a Big Drop Could Follow. - finance.yahoo.com",
+      "title": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says a Big Drop Could Follow. - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSG5UVUo2Qjc0QmZXVkZkVG5DNDFUMHJVT3ZDUHZzOFBVOXVuWk55aE9ZcDVOVEFJa3Y5ZHpjNWx4YWgtb3VfSjRHQUJXMFJIV3lPcTFDSjFadXBmdENDeGx2eGMyZ2NVRjM2Mk9RYlU3X1B2OGMwWmR6ajgtMWxQUmFCMER2R1gxZk52LVZYWW1lVkxxeWp2S3dpVjA?oc=5",
-      "source": "finance.yahoo.com",
+      "source": "Yahoo Finance",
       "published_at": "Wed, 01 Jul 2026 07:00:00 GMT",
-      "summary": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says a Big Drop Could Follow. finance.yahoo.com",
+      "summary": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says a Big Drop Could Follow. Yahoo Finance",
       "guid": "CBMinAFBVV95cUxPSG5UVUo2Qjc0QmZXVkZkVG5DNDFUMHJVT3ZDUHZzOFBVOXVuWk55aE9ZcDVOVEFJa3Y5ZHpjNWx4YWgtb3VfSjRHQUJXMFJIV3lPcTFDSjFadXBmdENDeGx2eGMyZ2NVRjM2Mk9RYlU3X1B2OGMwWmR6ajgtMWxQUmFCMER2R1gxZk52LVZYWW1lVkxxeWp2S3dpVjA"
     },
     {
@@ -85,6 +77,14 @@
       "published_at": "Thu, 30 Jul 2026 07:00:00 GMT",
       "summary": "The Fed Faces a Credibility Crisis—and the Stock Market Will Pay the Price Barron's",
       "guid": "CBMiiwFBVV95cUxPd2k2UGxNOFRzM21hRG16dV9VTGt0NnFTYmNXOVZzazNqZ2ZTVGppSWNuR09haFNhMjIzVkhIV3ZqQkZpYWNKbGN5QUMzcEI5NEFLdmYwRG1NdFFRMkhvRFd0TU0yazV4aTRyZ1UzX29EU2NaaHp3R3FZaTI5ZDNpZHJuUkNDT2M4azB3"
+    },
+    {
+      "title": "Stocks drive record share of American wealth - Axios",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tREZqZEtISDliRTZVeFV4MkhkbW9ueER2Z25YRDRuNXBDaGVGLTlKMC1JUUVfWXFYT2h3YWtwemRuVU9NLVg0Qi03bEdoQlBfcVBmckN6anZtZVVTakstVlVZWWU0bm5YSmUwaQ?oc=5",
+      "source": "Axios",
+      "published_at": "Thu, 04 Jun 2026 07:00:00 GMT",
+      "summary": "Stocks drive record share of American wealth Axios",
+      "guid": "CBMibEFVX3lxTE4tREZqZEtISDliRTZVeFV4MkhkbW9ueER2Z25YRDRuNXBDaGVGLTlKMC1JUUVfWXFYT2h3YWtwemRuVU9NLVg0Qi03bEdoQlBfcVBmckN6anZtZVVTakstVlVZWWU0bm5YSmUwaQ"
     }
   ]
 }
