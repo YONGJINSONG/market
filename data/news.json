@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T00:38:13Z",
+  "generated_at": "2026-08-18T02:03:55Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,19 +7,27 @@
   },
   "items": [
     {
-      "title": "Stock market today: Dow, S&P 500, Nasdaq fall, Oil price above $88 - eurasiabusinessnews.com",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq fall, Oil price above $88 - Eurasia Business News",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTTlhVGhKYXpXUzZtS2lJUHV1LVVwVVpTVnFVMmpjenRrMVVpbVJnRGVXRDFydmRNQ3hXQXRnODBJVUI0Wk1Zbl9iUkFMUENBaUx4OU1pQVBRMmRZM1NLRlA0cVJFQXVlZ1A1SEpjdGNZZWp0VHk1NVhqYURsUnl6YUpONEtZcEZRZjFycG1kcWhsd044Q1h5LS1zT0Z6X0k0SUdxM1J5UQ?oc=5",
-      "source": "eurasiabusinessnews.com",
+      "source": "Eurasia Business News",
       "published_at": "Mon, 17 Aug 2026 23:14:26 GMT",
-      "summary": "Stock market today: Dow, S&P 500, Nasdaq fall, Oil price above $88 eurasiabusinessnews.com",
+      "summary": "Stock market today: Dow, S&P 500, Nasdaq fall, Oil price above $88 Eurasia Business News",
       "guid": "CBMipwFBVV95cUxNTTlhVGhKYXpXUzZtS2lJUHV1LVVwVVpTVnFVMmpjenRrMVVpbVJnRGVXRDFydmRNQ3hXQXRnODBJVUI0Wk1Zbl9iUkFMUENBaUx4OU1pQVBRMmRZM1NLRlA0cVJFQXVlZ1A1SEpjdGNZZWp0VHk1NVhqYURsUnl6YUpONEtZcEZRZjFycG1kcWhsd044Q1h5LS1zT0Z6X0k0SUdxM1J5UQ"
     },
     {
-      "title": "Fed Chair Kevin Warsh's Job Just Got Much Easier. Here's What's Likely Next for the Stock Market As a Result. - The Motley Fool",
+      "title": "Dallas Fed: Loan Demand, Volume Continue Strong Growth - Fort Worth Inc.",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdFpFNWE2TVJBZll0YWtidzkxc1dneFlQdDRjQ0JiMThNSkVwdlQ3dkpvR3dycFhSanVyc0EtaG1pMjdySG5EdGdwQTFlcmNSdW5iT2pyTURnVmpmUU9TdFp3MVA4cEF3MUFCbVEwNmJzQXNzbERRbFRYX1NPOUtvZnJqeWJ0aFpPNXJr?oc=5",
+      "source": "Fort Worth Inc.",
+      "published_at": "Mon, 17 Aug 2026 20:08:00 GMT",
+      "summary": "Dallas Fed: Loan Demand, Volume Continue Strong Growth Fort Worth Inc.",
+      "guid": "CBMiiwFBVV95cUxPdFpFNWE2TVJBZll0YWtidzkxc1dneFlQdDRjQ0JiMThNSkVwdlQ3dkpvR3dycFhSanVyc0EtaG1pMjdySG5EdGdwQTFlcmNSdW5iT2pyTURnVmpmUU9TdFp3MVA4cEF3MUFCbVEwNmJzQXNzbERRbFRYX1NPOUtvZnJqeWJ0aFpPNXJr"
+    },
+    {
+      "title": "Fed Chair Kevin Warsh's Job Just Got Much Easier. Here's What's Likely Next for the Stock Market As a Result. - fool.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZUtKVldWZzhScENJenZBNlc1MHk4X3dHR0d3aDFiSGswSEJpcGs4N2VsZGw1ZXZyd25Wei1fZ2gtVGVUYU1rUXBsLWExeU0zeUViUW5mM2tqXzdXRnNkeGQzUzc5b0ljNkxVSHBxaUNuOEtkbVFCemNuTm0zUUtNcldyYnk4S3JDTE5OSmF0VndJd1NwM2RpTw?oc=5",
-      "source": "The Motley Fool",
+      "source": "fool.com",
       "published_at": "Mon, 17 Aug 2026 09:24:00 GMT",
-      "summary": "Fed Chair Kevin Warsh's Job Just Got Much Easier. Here's What's Likely Next for the Stock Market As a Result. The Motley Fool",
+      "summary": "Fed Chair Kevin Warsh's Job Just Got Much Easier. Here's What's Likely Next for the Stock Market As a Result. fool.com",
       "guid": "CBMimAFBVV95cUxOZUtKVldWZzhScENJenZBNlc1MHk4X3dHR0d3aDFiSGswSEJpcGs4N2VsZGw1ZXZyd25Wei1fZ2gtVGVUYU1rUXBsLWExeU0zeUViUW5mM2tqXzdXRnNkeGQzUzc5b0ljNkxVSHBxaUNuOEtkbVFCemNuTm0zUUtNcldyYnk4S3JDTE5OSmF0VndJd1NwM2RpTw"
     },
     {
@@ -47,11 +55,11 @@
       "guid": "CBMiqgFBVV95cUxPTFFEbWVBWENHeWVRZ2hUYW05SG5UNWpSV2ZIVXVheEFYNlZaekp1SWRjTnVHelYyc0d3cHJ1VzZQM3JHZUZ3QVhUSzhDa2ViWi00WnpDVm80MFFIOFJ6VmdkbzZySXdOc2MxbnlXUXdKOTJxdm5UWDdtMDVuSFhhQm01YzJLU2FRNnBTZVJmYzR4SzdVSDd0MUlGUTJwRnNjSVNoSFBzdnVVZw"
     },
     {
-      "title": "Why federal government’s monthly inflation report has an effect on Wall Street - baltimoresun.com",
+      "title": "Why federal government’s monthly inflation report has an effect on Wall Street - Baltimore Sun",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMzk3QnVnNFgxejNJQWZ2czZIZTRfUWRrdVVRZE9aSTFhLS1mLThnUzVMN3BaeDhXSVBQeEdZSFdYMEdJUFhoaG01X21PQVUyWm5HZm9Ba3lTOWRWRGw3Q0Rmdnp2c19zNGFXX1dhMm1rRjR6dEg2QU5ueE9SSTZEa1lLeDVkWlBiT2VLb0d5WjQ5ZmZwNXVxdjZ4VVpURkdPZjRkaFI2X0hHT0dUcW9lVTBGMldGUWRjcFE?oc=5",
-      "source": "baltimoresun.com",
+      "source": "Baltimore Sun",
       "published_at": "Sat, 15 Aug 2026 04:05:09 GMT",
-      "summary": "Why federal government’s monthly inflation report has an effect on Wall Street baltimoresun.com",
+      "summary": "Why federal government’s monthly inflation report has an effect on Wall Street Baltimore Sun",
       "guid": "CBMiugFBVV95cUxPMzk3QnVnNFgxejNJQWZ2czZIZTRfUWRrdVVRZE9aSTFhLS1mLThnUzVMN3BaeDhXSVBQeEdZSFdYMEdJUFhoaG01X21PQVUyWm5HZm9Ba3lTOWRWRGw3Q0Rmdnp2c19zNGFXX1dhMm1rRjR6dEg2QU5ueE9SSTZEa1lLeDVkWlBiT2VLb0d5WjQ5ZmZwNXVxdjZ4VVpURkdPZjRkaFI2X0hHT0dUcW9lVTBGMldGUWRjcFE"
     },
     {
@@ -63,14 +71,6 @@
       "guid": "CBMinAFBVV95cUxPSG5UVUo2Qjc0QmZXVkZkVG5DNDFUMHJVT3ZDUHZzOFBVOXVuWk55aE9ZcDVOVEFJa3Y5ZHpjNWx4YWgtb3VfSjRHQUJXMFJIV3lPcTFDSjFadXBmdENDeGx2eGMyZ2NVRjM2Mk9RYlU3X1B2OGMwWmR6ajgtMWxQUmFCMER2R1gxZk52LVZYWW1lVkxxeWp2S3dpVjA"
     },
     {
-      "title": "S&P 500 Record High August 2026: Inflation Cooling & AI Stocks Rally - Intellectia AI",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOd2hMUlZzdHRhYVRvMVhfdlNQSC15LWdUUmVuN3ppV3JYV2FfYV9yMTQ3RkkzdVNBTWstVkxxLTRsQVBNV1Z1S01YOTBHVDV0M0FLUFFrMllOWC1Yd3JQWlgzT3N3cTBDUUlSR3ZqcUFQS3o0TnFsZHFrV1ZDRi1Md05B?oc=5",
-      "source": "Intellectia AI",
-      "published_at": "Mon, 17 Aug 2026 04:16:55 GMT",
-      "summary": "S&P 500 Record High August 2026: Inflation Cooling & AI Stocks Rally Intellectia AI",
-      "guid": "CBMiggFBVV95cUxOd2hMUlZzdHRhYVRvMVhfdlNQSC15LWdUUmVuN3ppV3JYV2FfYV9yMTQ3RkkzdVNBTWstVkxxLTRsQVBNV1Z1S01YOTBHVDV0M0FLUFFrMllOWC1Yd3JQWlgzT3N3cTBDUUlSR3ZqcUFQS3o0TnFsZHFrV1ZDRi1Md05B"
-    },
-    {
       "title": "Fed Rate Hike Odds Fall As Amazon Prime Day Effect Hits Retail Sales - Investor's Business Daily",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUjlaMnhtaGxDcGZzZFdpTjBDclVqYmdQUkE2Q0VaMEVQY1FldUhJbVM2VVpDZ3pJd2dieFA1RHI5YlNYeGc2empyczA5NTd3Yk5BdlpjSVJ1WVhYaGNGOXVpSU5BbUhQWGpPS0lQWDk4ZGgwUjlHeTBGSXRhSTJNVHpwUE1vMk05VzFYTEZ4MHJidGlwejNGX3RRa2R0QndtOVE?oc=5",
       "source": "Investor's Business Daily",
@@ -79,12 +79,12 @@
       "guid": "CBMiogFBVV95cUxPUjlaMnhtaGxDcGZzZFdpTjBDclVqYmdQUkE2Q0VaMEVQY1FldUhJbVM2VVpDZ3pJd2dieFA1RHI5YlNYeGc2empyczA5NTd3Yk5BdlpjSVJ1WVhYaGNGOXVpSU5BbUhQWGpPS0lQWDk4ZGgwUjlHeTBGSXRhSTJNVHpwUE1vMk05VzFYTEZ4MHJidGlwejNGX3RRa2R0QndtOVE"
     },
     {
-      "title": "Stock Market Today: Stock index futures are Mixed as Oil Prices Rise, Gold price at $4,385 - eurasiabusinessnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPc2tXbHUwdzBya09ZQ0wxMDFKcC10di1lanRUdWg4MVEwNDFrOWNaS2h6YVNBSHNmLTZCY3BpVGlGRm5jOHhYclRtaWxFVXJpUjlyaWRoUXo5WXlQQVotclNROUVraHVVNlEyclpLdW1DS2hRMHNVUHZld25KN25LRHhJYXdndENGYjVYNHVYV2dQQnJ3T2YycGUyYUExTGtYMDhTaWtCalNjUjRleWxBSm9jb1RrZDNJSmtRYlhMTnFBTjRCZ1hydUx3?oc=5",
-      "source": "eurasiabusinessnews.com",
-      "published_at": "Mon, 17 Aug 2026 13:33:12 GMT",
-      "summary": "Stock Market Today: Stock index futures are Mixed as Oil Prices Rise, Gold price at $4,385 eurasiabusinessnews.com",
-      "guid": "CBMiygFBVV95cUxPc2tXbHUwdzBya09ZQ0wxMDFKcC10di1lanRUdWg4MVEwNDFrOWNaS2h6YVNBSHNmLTZCY3BpVGlGRm5jOHhYclRtaWxFVXJpUjlyaWRoUXo5WXlQQVotclNROUVraHVVNlEyclpLdW1DS2hRMHNVUHZld25KN25LRHhJYXdndENGYjVYNHVYV2dQQnJ3T2YycGUyYUExTGtYMDhTaWtCalNjUjRleWxBSm9jb1RrZDNJSmtRYlhMTnFBTjRCZ1hydUx3"
+      "title": "US stocks sink on worries about a possible hike to interest rates this year by the Federal Reserve - AP News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcUlFaFNwNVNsa1RTZTFkTEhaMmhGLXBpZnZjeVAwaDBSSzRjZUFIMTQ3UTctckwtOXRvUDB6c0sxUGVlRWY5SUM5ZUllV1doQVhoLWkyd3IxdFdkRWJGY2J0ZGxyNmNwTEU3LVVBdDlXWVlxM2QtdGpHWmtBMGl0WkFWQzNucTVFTF9lelY3ZjdXNzFYeDhN?oc=5",
+      "source": "AP News",
+      "published_at": "Wed, 17 Jun 2026 07:00:00 GMT",
+      "summary": "US stocks sink on worries about a possible hike to interest rates this year by the Federal Reserve AP News",
+      "guid": "CBMilwFBVV95cUxQcUlFaFNwNVNsa1RTZTFkTEhaMmhGLXBpZnZjeVAwaDBSSzRjZUFIMTQ3UTctckwtOXRvUDB6c0sxUGVlRWY5SUM5ZUllV1doQVhoLWkyd3IxdFdkRWJGY2J0ZGxyNmNwTEU3LVVBdDlXWVlxM2QtdGpHWmtBMGl0WkFWQzNucTVFTF9lelY3ZjdXNzFYeDhN"
     }
   ]
 }
