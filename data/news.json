@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T08:59:40Z",
+  "generated_at": "2026-08-18T09:33:11Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -47,20 +47,12 @@
       "guid": "CBMiugFBVV95cUxPMzk3QnVnNFgxejNJQWZ2czZIZTRfUWRrdVVRZE9aSTFhLS1mLThnUzVMN3BaeDhXSVBQeEdZSFdYMEdJUFhoaG01X21PQVUyWm5HZm9Ba3lTOWRWRGw3Q0Rmdnp2c19zNGFXX1dhMm1rRjR6dEg2QU5ueE9SSTZEa1lLeDVkWlBiT2VLb0d5WjQ5ZmZwNXVxdjZ4VVpURkdPZjRkaFI2X0hHT0dUcW9lVTBGMldGUWRjcFE"
     },
     {
-      "title": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says a Big Drop Could Follow. - Yahoo Finance",
+      "title": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says a Big Drop Could Follow. - finance.yahoo.com",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSG5UVUo2Qjc0QmZXVkZkVG5DNDFUMHJVT3ZDUHZzOFBVOXVuWk55aE9ZcDVOVEFJa3Y5ZHpjNWx4YWgtb3VfSjRHQUJXMFJIV3lPcTFDSjFadXBmdENDeGx2eGMyZ2NVRjM2Mk9RYlU3X1B2OGMwWmR6ajgtMWxQUmFCMER2R1gxZk52LVZYWW1lVkxxeWp2S3dpVjA?oc=5",
-      "source": "Yahoo Finance",
+      "source": "finance.yahoo.com",
       "published_at": "Wed, 01 Jul 2026 07:00:00 GMT",
-      "summary": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says a Big Drop Could Follow. Yahoo Finance",
+      "summary": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says a Big Drop Could Follow. finance.yahoo.com",
       "guid": "CBMinAFBVV95cUxPSG5UVUo2Qjc0QmZXVkZkVG5DNDFUMHJVT3ZDUHZzOFBVOXVuWk55aE9ZcDVOVEFJa3Y5ZHpjNWx4YWgtb3VfSjRHQUJXMFJIV3lPcTFDSjFadXBmdENDeGx2eGMyZ2NVRjM2Mk9RYlU3X1B2OGMwWmR6ajgtMWxQUmFCMER2R1gxZk52LVZYWW1lVkxxeWp2S3dpVjA"
-    },
-    {
-      "title": "Fed Chair Kevin Warsh's Job Just Got Much Easier. Here's What's Likely Next for the Stock Market As a Result. - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZUtKVldWZzhScENJenZBNlc1MHk4X3dHR0d3aDFiSGswSEJpcGs4N2VsZGw1ZXZyd25Wei1fZ2gtVGVUYU1rUXBsLWExeU0zeUViUW5mM2tqXzdXRnNkeGQzUzc5b0ljNkxVSHBxaUNuOEtkbVFCemNuTm0zUUtNcldyYnk4S3JDTE5OSmF0VndJd1NwM2RpTw?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Mon, 17 Aug 2026 09:24:00 GMT",
-      "summary": "Fed Chair Kevin Warsh's Job Just Got Much Easier. Here's What's Likely Next for the Stock Market As a Result. The Motley Fool",
-      "guid": "CBMimAFBVV95cUxOZUtKVldWZzhScENJenZBNlc1MHk4X3dHR0d3aDFiSGswSEJpcGs4N2VsZGw1ZXZyd25Wei1fZ2gtVGVUYU1rUXBsLWExeU0zeUViUW5mM2tqXzdXRnNkeGQzUzc5b0ljNkxVSHBxaUNuOEtkbVFCemNuTm0zUUtNcldyYnk4S3JDTE5OSmF0VndJd1NwM2RpTw"
     },
     {
       "title": "Stock Market Trading Summary, Monday, August 17th, 2026 - stl.news",
@@ -69,6 +61,14 @@
       "published_at": "Mon, 17 Aug 2026 20:25:50 GMT",
       "summary": "Stock Market Trading Summary, Monday, August 17th, 2026 stl.news",
       "guid": "CBMif0FVX3lxTE55dExzamdUeVZvRFJCdTRRVnhib2o5ZWt4QVkzVXYwVGpzNXh6VXJGcTlTU0RGTzdvNm5NMzRNZW5uWXNERDE5OTVvZm1IazlwU25aV1VKc1hqWk5sZ2p0dHplN2p6RjdMNl9JaVk4SUkxc2Rhc0RPNlJNM0taT00"
+    },
+    {
+      "title": "Fed Chair Kevin Warsh's Job Just Got Much Easier. Here's What's Likely Next for the Stock Market As a Result. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZUtKVldWZzhScENJenZBNlc1MHk4X3dHR0d3aDFiSGswSEJpcGs4N2VsZGw1ZXZyd25Wei1fZ2gtVGVUYU1rUXBsLWExeU0zeUViUW5mM2tqXzdXRnNkeGQzUzc5b0ljNkxVSHBxaUNuOEtkbVFCemNuTm0zUUtNcldyYnk4S3JDTE5OSmF0VndJd1NwM2RpTw?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Mon, 17 Aug 2026 09:24:00 GMT",
+      "summary": "Fed Chair Kevin Warsh's Job Just Got Much Easier. Here's What's Likely Next for the Stock Market As a Result. The Motley Fool",
+      "guid": "CBMimAFBVV95cUxOZUtKVldWZzhScENJenZBNlc1MHk4X3dHR0d3aDFiSGswSEJpcGs4N2VsZGw1ZXZyd25Wei1fZ2gtVGVUYU1rUXBsLWExeU0zeUViUW5mM2tqXzdXRnNkeGQzUzc5b0ljNkxVSHBxaUNuOEtkbVFCemNuTm0zUUtNcldyYnk4S3JDTE5OSmF0VndJd1NwM2RpTw"
     },
     {
       "title": "Stock Market: Will S&P 500 Open Up or Down Today? - TradingView",
