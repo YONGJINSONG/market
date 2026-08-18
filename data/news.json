@@ -1,19 +1,11 @@
 {
-  "generated_at": "2026-08-18T19:03:47Z",
+  "generated_at": "2026-08-18T19:37:13Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
-    {
-      "title": "Why federal government’s monthly inflation report has an effect on Wall Street - baltimoresun.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMzk3QnVnNFgxejNJQWZ2czZIZTRfUWRrdVVRZE9aSTFhLS1mLThnUzVMN3BaeDhXSVBQeEdZSFdYMEdJUFhoaG01X21PQVUyWm5HZm9Ba3lTOWRWRGw3Q0Rmdnp2c19zNGFXX1dhMm1rRjR6dEg2QU5ueE9SSTZEa1lLeDVkWlBiT2VLb0d5WjQ5ZmZwNXVxdjZ4VVpURkdPZjRkaFI2X0hHT0dUcW9lVTBGMldGUWRjcFE?oc=5",
-      "source": "baltimoresun.com",
-      "published_at": "Sat, 15 Aug 2026 04:05:09 GMT",
-      "summary": "Why federal government’s monthly inflation report has an effect on Wall Street baltimoresun.com",
-      "guid": "CBMiugFBVV95cUxPMzk3QnVnNFgxejNJQWZ2czZIZTRfUWRrdVVRZE9aSTFhLS1mLThnUzVMN3BaeDhXSVBQeEdZSFdYMEdJUFhoaG01X21PQVUyWm5HZm9Ba3lTOWRWRGw3Q0Rmdnp2c19zNGFXX1dhMm1rRjR6dEg2QU5ueE9SSTZEa1lLeDVkWlBiT2VLb0d5WjQ5ZmZwNXVxdjZ4VVpURkdPZjRkaFI2X0hHT0dUcW9lVTBGMldGUWRjcFE"
-    },
     {
       "title": "Does the Equity Term Structure Respond to Monetary Policy Shocks? - Liberty Street Economics",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcGZKaVc1MHU4VUlQTzFVZDNhOTJuN2VsZ1RITGFrRzFNMGNtWFJOT3BQQTRvcUwyLXo4bWNRcWlVaG5KSVpVU3Z1UmpjemUySjhLa1RhT2xBZHdGQ2tBT1JCSkYtZ3YtT2ZUZVNpcDBRYV9qdDdBcGtPbWFCclV4R3RVcDNJbGxyWmpjbHZ4MU9WUTFjcko5R0Vob3MyZmlMV2JHMDgybDdUa0NlcUR6QlBxa21xeHU2S1pv?oc=5",
@@ -23,19 +15,19 @@
       "guid": "CBMiuwFBVV95cUxPcGZKaVc1MHU4VUlQTzFVZDNhOTJuN2VsZ1RITGFrRzFNMGNtWFJOT3BQQTRvcUwyLXo4bWNRcWlVaG5KSVpVU3Z1UmpjemUySjhLa1RhT2xBZHdGQ2tBT1JCSkYtZ3YtT2ZUZVNpcDBRYV9qdDdBcGtPbWFCclV4R3RVcDNJbGxyWmpjbHZ4MU9WUTFjcko5R0Vob3MyZmlMV2JHMDgybDdUa0NlcUR6QlBxa21xeHU2S1pv"
     },
     {
-      "title": "Rising Oil Prices and Stock Market Impact: 2026 Investor Guide - Intellectia AI",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8yb2QyNE83UDZwNDhsdUM5Qm1IZjk3Mndud09jVkotNWJTc000c3NHQWc2VVBnTFVhRG1pbmVuSFlnYzRCNFhjOEJiaG5TNzN2QlNGNEwyT1ZYOWxHMFQxZTlJdFlISjdFX1RUakY0Z0lWbnBHY2FqUFhn?oc=5",
-      "source": "Intellectia AI",
-      "published_at": "Tue, 18 Aug 2026 04:13:01 GMT",
-      "summary": "Rising Oil Prices and Stock Market Impact: 2026 Investor Guide Intellectia AI",
-      "guid": "CBMiekFVX3lxTE8yb2QyNE83UDZwNDhsdUM5Qm1IZjk3Mndud09jVkotNWJTc000c3NHQWc2VVBnTFVhRG1pbmVuSFlnYzRCNFhjOEJiaG5TNzN2QlNGNEwyT1ZYOWxHMFQxZTlJdFlISjdFX1RUakY0Z0lWbnBHY2FqUFhn"
+      "title": "Why federal government’s monthly inflation report has an effect on Wall Street - Baltimore Sun",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMzk3QnVnNFgxejNJQWZ2czZIZTRfUWRrdVVRZE9aSTFhLS1mLThnUzVMN3BaeDhXSVBQeEdZSFdYMEdJUFhoaG01X21PQVUyWm5HZm9Ba3lTOWRWRGw3Q0Rmdnp2c19zNGFXX1dhMm1rRjR6dEg2QU5ueE9SSTZEa1lLeDVkWlBiT2VLb0d5WjQ5ZmZwNXVxdjZ4VVpURkdPZjRkaFI2X0hHT0dUcW9lVTBGMldGUWRjcFE?oc=5",
+      "source": "Baltimore Sun",
+      "published_at": "Sat, 15 Aug 2026 04:05:09 GMT",
+      "summary": "Why federal government’s monthly inflation report has an effect on Wall Street Baltimore Sun",
+      "guid": "CBMiugFBVV95cUxPMzk3QnVnNFgxejNJQWZ2czZIZTRfUWRrdVVRZE9aSTFhLS1mLThnUzVMN3BaeDhXSVBQeEdZSFdYMEdJUFhoaG01X21PQVUyWm5HZm9Ba3lTOWRWRGw3Q0Rmdnp2c19zNGFXX1dhMm1rRjR6dEg2QU5ueE9SSTZEa1lLeDVkWlBiT2VLb0d5WjQ5ZmZwNXVxdjZ4VVpURkdPZjRkaFI2X0hHT0dUcW9lVTBGMldGUWRjcFE"
     },
     {
-      "title": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says a Big Drop Could Follow. - finance.yahoo.com",
+      "title": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says a Big Drop Could Follow. - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSG5UVUo2Qjc0QmZXVkZkVG5DNDFUMHJVT3ZDUHZzOFBVOXVuWk55aE9ZcDVOVEFJa3Y5ZHpjNWx4YWgtb3VfSjRHQUJXMFJIV3lPcTFDSjFadXBmdENDeGx2eGMyZ2NVRjM2Mk9RYlU3X1B2OGMwWmR6ajgtMWxQUmFCMER2R1gxZk52LVZYWW1lVkxxeWp2S3dpVjA?oc=5",
-      "source": "finance.yahoo.com",
+      "source": "Yahoo Finance",
       "published_at": "Wed, 01 Jul 2026 07:00:00 GMT",
-      "summary": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says a Big Drop Could Follow. finance.yahoo.com",
+      "summary": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says a Big Drop Could Follow. Yahoo Finance",
       "guid": "CBMinAFBVV95cUxPSG5UVUo2Qjc0QmZXVkZkVG5DNDFUMHJVT3ZDUHZzOFBVOXVuWk55aE9ZcDVOVEFJa3Y5ZHpjNWx4YWgtb3VfSjRHQUJXMFJIV3lPcTFDSjFadXBmdENDeGx2eGMyZ2NVRjM2Mk9RYlU3X1B2OGMwWmR6ajgtMWxQUmFCMER2R1gxZk52LVZYWW1lVkxxeWp2S3dpVjA"
     },
     {
@@ -47,36 +39,12 @@
       "guid": "CBMimAFBVV95cUxOZUtKVldWZzhScENJenZBNlc1MHk4X3dHR0d3aDFiSGswSEJpcGs4N2VsZGw1ZXZyd25Wei1fZ2gtVGVUYU1rUXBsLWExeU0zeUViUW5mM2tqXzdXRnNkeGQzUzc5b0ljNkxVSHBxaUNuOEtkbVFCemNuTm0zUUtNcldyYnk4S3JDTE5OSmF0VndJd1NwM2RpTw"
     },
     {
-      "title": "Stock Market Investors Just Got Bad News From the Federal Reserve - finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYmRTTHRPT2xya2JSUFd2Nld3TXFvQlRGUmxsREUwWUFBSERFNm5ITEJLUXYwMTVQRzRScUtKZExpcEloSDFwM2UwV2p2bks0czctZDFtcl80N0VyWUVKWmJLakNLQnNtUG96WW1KUVB1RlN1T1pwZlAyOEtOZ3k3Unc3clpmQ3Zta3BzSGRjTzlOZERPdThFVkNGUmc?oc=5",
-      "source": "finance.yahoo.com",
-      "published_at": "Sun, 09 Aug 2026 07:00:00 GMT",
-      "summary": "Stock Market Investors Just Got Bad News From the Federal Reserve finance.yahoo.com",
-      "guid": "CBMinAFBVV95cUxPYmRTTHRPT2xya2JSUFd2Nld3TXFvQlRGUmxsREUwWUFBSERFNm5ITEJLUXYwMTVQRzRScUtKZExpcEloSDFwM2UwV2p2bks0czctZDFtcl80N0VyWUVKWmJLakNLQnNtUG96WW1KUVB1RlN1T1pwZlAyOEtOZ3k3Unc3clpmQ3Zta3BzSGRjTzlOZERPdThFVkNGUmc"
-    },
-    {
-      "title": "The Fed Faces a Credibility Crisis—and the Stock Market Will Pay the Price - barrons.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPd2k2UGxNOFRzM21hRG16dV9VTGt0NnFTYmNXOVZzazNqZ2ZTVGppSWNuR09haFNhMjIzVkhIV3ZqQkZpYWNKbGN5QUMzcEI5NEFLdmYwRG1NdFFRMkhvRFd0TU0yazV4aTRyZ1UzX29EU2NaaHp3R3FZaTI5ZDNpZHJuUkNDT2M4azB3?oc=5",
-      "source": "barrons.com",
-      "published_at": "Thu, 30 Jul 2026 07:00:00 GMT",
-      "summary": "The Fed Faces a Credibility Crisis—and the Stock Market Will Pay the Price barrons.com",
-      "guid": "CBMiiwFBVV95cUxPd2k2UGxNOFRzM21hRG16dV9VTGt0NnFTYmNXOVZzazNqZ2ZTVGppSWNuR09haFNhMjIzVkhIV3ZqQkZpYWNKbGN5QUMzcEI5NEFLdmYwRG1NdFFRMkhvRFd0TU0yazV4aTRyZ1UzX29EU2NaaHp3R3FZaTI5ZDNpZHJuUkNDT2M4azB3"
-    },
-    {
-      "title": "Stock Market Investors Just Got Bad News From the Federal Reserve - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU0x1Uml3U2JwWVNjbDZjSUNkWVBTUkE3Vk5FS09sWFp3VE5kRDBYckZkUDU2c05uaVBsRTI0RXZXQmw5ZndNSk5BdUVUY01jNGNoOXhCRUtyc1dkTll0ZFJvOFhDbGtiT3l1NmpOdk5Lc3JHdktBU29XMjR2YXNaZHVQYmotMlItZVNPVkVabGhSMDJ2?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Sun, 09 Aug 2026 07:00:00 GMT",
-      "summary": "Stock Market Investors Just Got Bad News From the Federal Reserve The Motley Fool",
-      "guid": "CBMilAFBVV95cUxQU0x1Uml3U2JwWVNjbDZjSUNkWVBTUkE3Vk5FS09sWFp3VE5kRDBYckZkUDU2c05uaVBsRTI0RXZXQmw5ZndNSk5BdUVUY01jNGNoOXhCRUtyc1dkTll0ZFJvOFhDbGtiT3l1NmpOdk5Lc3JHdktBU29XMjR2YXNaZHVQYmotMlItZVNPVkVabGhSMDJ2"
-    },
-    {
-      "title": "Stocks drive record share of American wealth - axios.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tREZqZEtISDliRTZVeFV4MkhkbW9ueER2Z25YRDRuNXBDaGVGLTlKMC1JUUVfWXFYT2h3YWtwemRuVU9NLVg0Qi03bEdoQlBfcVBmckN6anZtZVVTakstVlVZWWU0bm5YSmUwaQ?oc=5",
-      "source": "axios.com",
-      "published_at": "Thu, 04 Jun 2026 07:00:00 GMT",
-      "summary": "Stocks drive record share of American wealth axios.com",
-      "guid": "CBMibEFVX3lxTE4tREZqZEtISDliRTZVeFV4MkhkbW9ueER2Z25YRDRuNXBDaGVGLTlKMC1JUUVfWXFYT2h3YWtwemRuVU9NLVg0Qi03bEdoQlBfcVBmckN6anZtZVVTakstVlVZWWU0bm5YSmUwaQ"
+      "title": "Rising Oil Prices and Stock Market Impact: 2026 Investor Guide - Intellectia AI",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8yb2QyNE83UDZwNDhsdUM5Qm1IZjk3Mndud09jVkotNWJTc000c3NHQWc2VVBnTFVhRG1pbmVuSFlnYzRCNFhjOEJiaG5TNzN2QlNGNEwyT1ZYOWxHMFQxZTlJdFlISjdFX1RUakY0Z0lWbnBHY2FqUFhn?oc=5",
+      "source": "Intellectia AI",
+      "published_at": "Tue, 18 Aug 2026 04:13:01 GMT",
+      "summary": "Rising Oil Prices and Stock Market Impact: 2026 Investor Guide Intellectia AI",
+      "guid": "CBMiekFVX3lxTE8yb2QyNE83UDZwNDhsdUM5Qm1IZjk3Mndud09jVkotNWJTc000c3NHQWc2VVBnTFVhRG1pbmVuSFlnYzRCNFhjOEJiaG5TNzN2QlNGNEwyT1ZYOWxHMFQxZTlJdFlISjdFX1RUakY0Z0lWbnBHY2FqUFhn"
     },
     {
       "title": "Dallas Fed: Loan Demand, Volume Continue Strong Growth - Fort Worth Inc.",
@@ -85,6 +53,38 @@
       "published_at": "Mon, 17 Aug 2026 20:08:00 GMT",
       "summary": "Dallas Fed: Loan Demand, Volume Continue Strong Growth Fort Worth Inc.",
       "guid": "CBMiiwFBVV95cUxPdFpFNWE2TVJBZll0YWtidzkxc1dneFlQdDRjQ0JiMThNSkVwdlQ3dkpvR3dycFhSanVyc0EtaG1pMjdySG5EdGdwQTFlcmNSdW5iT2pyTURnVmpmUU9TdFp3MVA4cEF3MUFCbVEwNmJzQXNzbERRbFRYX1NPOUtvZnJqeWJ0aFpPNXJr"
+    },
+    {
+      "title": "Nvidia is becoming the 'Federal Reserve of AI' - Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcFMybWlDMWJQR0pOSzlWbGN0ZmlZa0xfb19qLXEzRDR5cUUwU25uS1JBRVAxV09oNkhaN1NVT3FnaEZyejJZUnZzYkNsLTJvZUp2MWMwWXJtYW5rbDdmOEtUUzZpMTJDZDNyTFF4Ti01eXBEUzJ1YU1TTkN2WWd0aFR0MHBHTU1mc3c?oc=5",
+      "source": "Seeking Alpha",
+      "published_at": "Sun, 16 Aug 2026 11:22:39 GMT",
+      "summary": "Nvidia is becoming the 'Federal Reserve of AI' Seeking Alpha",
+      "guid": "CBMiigFBVV95cUxNcFMybWlDMWJQR0pOSzlWbGN0ZmlZa0xfb19qLXEzRDR5cUUwU25uS1JBRVAxV09oNkhaN1NVT3FnaEZyejJZUnZzYkNsLTJvZUp2MWMwWXJtYW5rbDdmOEtUUzZpMTJDZDNyTFF4Ti01eXBEUzJ1YU1TTkN2WWd0aFR0MHBHTU1mc3c"
+    },
+    {
+      "title": "US stocks sink on worries about a possible hike to interest rates this year by the Federal Reserve - AP News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcUlFaFNwNVNsa1RTZTFkTEhaMmhGLXBpZnZjeVAwaDBSSzRjZUFIMTQ3UTctckwtOXRvUDB6c0sxUGVlRWY5SUM5ZUllV1doQVhoLWkyd3IxdFdkRWJGY2J0ZGxyNmNwTEU3LVVBdDlXWVlxM2QtdGpHWmtBMGl0WkFWQzNucTVFTF9lelY3ZjdXNzFYeDhN?oc=5",
+      "source": "AP News",
+      "published_at": "Wed, 17 Jun 2026 07:00:00 GMT",
+      "summary": "US stocks sink on worries about a possible hike to interest rates this year by the Federal Reserve AP News",
+      "guid": "CBMilwFBVV95cUxQcUlFaFNwNVNsa1RTZTFkTEhaMmhGLXBpZnZjeVAwaDBSSzRjZUFIMTQ3UTctckwtOXRvUDB6c0sxUGVlRWY5SUM5ZUllV1doQVhoLWkyd3IxdFdkRWJGY2J0ZGxyNmNwTEU3LVVBdDlXWVlxM2QtdGpHWmtBMGl0WkFWQzNucTVFTF9lelY3ZjdXNzFYeDhN"
+    },
+    {
+      "title": "Stocks drive record share of American wealth - Axios",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tREZqZEtISDliRTZVeFV4MkhkbW9ueER2Z25YRDRuNXBDaGVGLTlKMC1JUUVfWXFYT2h3YWtwemRuVU9NLVg0Qi03bEdoQlBfcVBmckN6anZtZVVTakstVlVZWWU0bm5YSmUwaQ?oc=5",
+      "source": "Axios",
+      "published_at": "Thu, 04 Jun 2026 07:00:00 GMT",
+      "summary": "Stocks drive record share of American wealth Axios",
+      "guid": "CBMibEFVX3lxTE4tREZqZEtISDliRTZVeFV4MkhkbW9ueER2Z25YRDRuNXBDaGVGLTlKMC1JUUVfWXFYT2h3YWtwemRuVU9NLVg0Qi03bEdoQlBfcVBmckN6anZtZVVTakstVlVZWWU0bm5YSmUwaQ"
+    },
+    {
+      "title": "Surging equities and the trickle-up economy - realeconomy.rsmus.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43TFhjLThoWVRJQmpVelVESVh5bUlTcnN5YUxOX29tT0lIRjBKa3BQbzBwa1FGS2oyR09IQW0wcngzMHYyUzdzQkl2RUlhZkVzdTE2dEdBTkxjYkgyYWJlX1Jra2pHb3d0TERydW1EQ3RIWVlidjU5eXJESXptcEU?oc=5",
+      "source": "realeconomy.rsmus.com",
+      "published_at": "Mon, 22 Jun 2026 07:00:00 GMT",
+      "summary": "Surging equities and the trickle-up economy realeconomy.rsmus.com",
+      "guid": "CBMif0FVX3lxTE43TFhjLThoWVRJQmpVelVESVh5bUlTcnN5YUxOX29tT0lIRjBKa3BQbzBwa1FGS2oyR09IQW0wcngzMHYyUzdzQkl2RUlhZkVzdTE2dEdBTkxjYkgyYWJlX1Jra2pHb3d0TERydW1EQ3RIWVlidjU5eXJESXptcEU"
     }
   ]
 }
