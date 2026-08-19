@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-08-19T11:14:05Z",
+  "generated_at": "2026-08-19T11:39:32Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "Stock Market Today: S&P 500, Nasdaq 100 Futures Rise as Trump Says 'No Talks' Are Happening With Iran—Keysight Technologies, Mercury Systems, SK Hynix in Focus - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQSmtqZi0xU1I3c2wxQktUOF9LOTlJZjlHTHdXaTFZcDluZTY0SGJYNWRsencwWkxtV19xRTd2cGt6RDVXcWhoUk9Ka1pEOHlsMHRoQ3RsUHEzdzhzV0dVUnZCY0NUU2lYSWlhOHJxd1NhMTF1dTNDRmZJSVlaamtvM2VyZlNjY3lncEFBRXFoamdfNVZBQjVrYXB1WTZhcExnYVFWdXM2ZDA5Z2xKMWxFemZJSkVKMFM0M0ItdVZRa2ZpSVNtZHZIN0dxZ0xLQUZhYm91MXl4ODNqNlMwOWJNdVo5d18tUzFQRjZrLXVNRHdlNHpHM1JFLUlJMFJUY3Z1Ny0wSFVLS0NTVy1Gc2tPc0I4eFFIVnp4QUNvSHFKX3pLV19MLUhiY2NKNjItYjBxazV4LTRuaw?oc=5",
+      "source": "TradingView",
+      "published_at": "Wed, 19 Aug 2026 09:37:25 GMT",
+      "summary": "Stock Market Today: S&P 500, Nasdaq 100 Futures Rise as Trump Says 'No Talks' Are Happening With Iran—Keysight Technologies, Mercury Systems, SK Hynix in Focus TradingView",
+      "guid": "CBMitwJBVV95cUxQSmtqZi0xU1I3c2wxQktUOF9LOTlJZjlHTHdXaTFZcDluZTY0SGJYNWRsencwWkxtV19xRTd2cGt6RDVXcWhoUk9Ka1pEOHlsMHRoQ3RsUHEzdzhzV0dVUnZCY0NUU2lYSWlhOHJxd1NhMTF1dTNDRmZJSVlaamtvM2VyZlNjY3lncEFBRXFoamdfNVZBQjVrYXB1WTZhcExnYVFWdXM2ZDA5Z2xKMWxFemZJSkVKMFM0M0ItdVZRa2ZpSVNtZHZIN0dxZ0xLQUZhYm91MXl4ODNqNlMwOWJNdVo5d18tUzFQRjZrLXVNRHdlNHpHM1JFLUlJMFJUY3Z1Ny0wSFVLS0NTVy1Gc2tPc0I4eFFIVnp4QUNvSHFKX3pLV19MLUhiY2NKNjItYjBxazV4LTRuaw"
+    },
     {
       "title": "Fed Chair Kevin Warsh Testified to Congress That the Fed Has \"Only a Target, and It's 2%,\" Rejecting Any Soft Inflation Goal. What Does That Mean for Rate-Sensitive Stocks? - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONGxhZjUyQm11M2VPYlBPNWk1TjVPa3lIckZsRUNSc2dhV1YxdC1sMllGNlRIbnQ0VnE5NHU1ZkdUV0lWR3hYOXdFOXR3eHVqeFNSazJTUWdSSmxRUHlaX2RCZWc3QmxEV2ptSUlaMjh5MTk5X3VEVFlERzk3eE5neEUwYkNZcF8yVl9LSHlKOHNLNTVncGNJVA?oc=5",
@@ -63,28 +71,20 @@
       "guid": "CBMiiwFBVV95cUxPdFpFNWE2TVJBZll0YWtidzkxc1dneFlQdDRjQ0JiMThNSkVwdlQ3dkpvR3dycFhSanVyc0EtaG1pMjdySG5EdGdwQTFlcmNSdW5iT2pyTURnVmpmUU9TdFp3MVA4cEF3MUFCbVEwNmJzQXNzbERRbFRYX1NPOUtvZnJqeWJ0aFpPNXJr"
     },
     {
+      "title": "US stocks sink on worries about a possible hike to interest rates this year by the Federal Reserve - apnews.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcUlFaFNwNVNsa1RTZTFkTEhaMmhGLXBpZnZjeVAwaDBSSzRjZUFIMTQ3UTctckwtOXRvUDB6c0sxUGVlRWY5SUM5ZUllV1doQVhoLWkyd3IxdFdkRWJGY2J0ZGxyNmNwTEU3LVVBdDlXWVlxM2QtdGpHWmtBMGl0WkFWQzNucTVFTF9lelY3ZjdXNzFYeDhN?oc=5",
+      "source": "apnews.com",
+      "published_at": "Wed, 17 Jun 2026 07:00:00 GMT",
+      "summary": "US stocks sink on worries about a possible hike to interest rates this year by the Federal Reserve apnews.com",
+      "guid": "CBMilwFBVV95cUxQcUlFaFNwNVNsa1RTZTFkTEhaMmhGLXBpZnZjeVAwaDBSSzRjZUFIMTQ3UTctckwtOXRvUDB6c0sxUGVlRWY5SUM5ZUllV1doQVhoLWkyd3IxdFdkRWJGY2J0ZGxyNmNwTEU3LVVBdDlXWVlxM2QtdGpHWmtBMGl0WkFWQzNucTVFTF9lelY3ZjdXNzFYeDhN"
+    },
+    {
       "title": "Long-end yields have quietly breached key levels, leaving the Federal Reserve potentially powerless this time. - Moomoo",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVVM1Z1pDdXpEVDJkcWF2TDZab1FQa0U5emF0Nk05M0F3X09SeWxKQ1RIeUN6eU9pSzMxSFQzM3J5bVRGWUswM2FNN2E4MmxTT3VTRldQLTYzd2otVUpEZkJOamZHWjQ4NjBhZWVPS3hFeXNSNkYyaGo5ZlVVbTlsT1ljaTZyM2hybk13RzNjVTZXblZNcHpfN1lQQUJMcTRFSkRrVw?oc=5",
       "source": "Moomoo",
       "published_at": "Tue, 18 Aug 2026 11:29:08 GMT",
       "summary": "Long-end yields have quietly breached key levels, leaving the Federal Reserve potentially powerless this time. Moomoo",
       "guid": "CBMipAFBVV95cUxOVVM1Z1pDdXpEVDJkcWF2TDZab1FQa0U5emF0Nk05M0F3X09SeWxKQ1RIeUN6eU9pSzMxSFQzM3J5bVRGWUswM2FNN2E4MmxTT3VTRldQLTYzd2otVUpEZkJOamZHWjQ4NjBhZWVPS3hFeXNSNkYyaGo5ZlVVbTlsT1ljaTZyM2hybk13RzNjVTZXblZNcHpfN1lQQUJMcTRFSkRrVw"
-    },
-    {
-      "title": "US stocks sink on worries about a possible hike to interest rates this year by the Federal Reserve - AP News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcUlFaFNwNVNsa1RTZTFkTEhaMmhGLXBpZnZjeVAwaDBSSzRjZUFIMTQ3UTctckwtOXRvUDB6c0sxUGVlRWY5SUM5ZUllV1doQVhoLWkyd3IxdFdkRWJGY2J0ZGxyNmNwTEU3LVVBdDlXWVlxM2QtdGpHWmtBMGl0WkFWQzNucTVFTF9lelY3ZjdXNzFYeDhN?oc=5",
-      "source": "AP News",
-      "published_at": "Wed, 17 Jun 2026 07:00:00 GMT",
-      "summary": "US stocks sink on worries about a possible hike to interest rates this year by the Federal Reserve AP News",
-      "guid": "CBMilwFBVV95cUxQcUlFaFNwNVNsa1RTZTFkTEhaMmhGLXBpZnZjeVAwaDBSSzRjZUFIMTQ3UTctckwtOXRvUDB6c0sxUGVlRWY5SUM5ZUllV1doQVhoLWkyd3IxdFdkRWJGY2J0ZGxyNmNwTEU3LVVBdDlXWVlxM2QtdGpHWmtBMGl0WkFWQzNucTVFTF9lelY3ZjdXNzFYeDhN"
-    },
-    {
-      "title": "Stocks drive record share of American wealth - Axios",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tREZqZEtISDliRTZVeFV4MkhkbW9ueER2Z25YRDRuNXBDaGVGLTlKMC1JUUVfWXFYT2h3YWtwemRuVU9NLVg0Qi03bEdoQlBfcVBmckN6anZtZVVTakstVlVZWWU0bm5YSmUwaQ?oc=5",
-      "source": "Axios",
-      "published_at": "Thu, 04 Jun 2026 07:00:00 GMT",
-      "summary": "Stocks drive record share of American wealth Axios",
-      "guid": "CBMibEFVX3lxTE4tREZqZEtISDliRTZVeFV4MkhkbW9ueER2Z25YRDRuNXBDaGVGLTlKMC1JUUVfWXFYT2h3YWtwemRuVU9NLVg0Qi03bEdoQlBfcVBmckN6anZtZVVTakstVlVZWWU0bm5YSmUwaQ"
     }
   ]
 }
