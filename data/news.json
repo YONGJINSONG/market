@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T23:12:17Z",
+  "generated_at": "2026-08-19T23:34:29Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -15,12 +15,28 @@
       "guid": "CBMitAFBVV95cUxQWEp5ODBDWGVqYUZ1eEdFS1BxODduekpEZFB0Vm9YcmFCeW9IYnV1eUNFeHpJZ3lLT0NMSk9OazBVZE1xZmJvMnlBZjNjSWpodkEtd09CdmpOT0VSQVJvZDNHRWNFQWxMU1ZxR05UOE92SXd6WTllbEhBQUotZjhVVUdZckw5UloxS1JqamtJcGNzVFVwS3hjNXdXR2VjcFJuMnlReWFIN1dLbHBldzhKWndMTTY"
     },
     {
+      "title": "US treasury doubles debt buyback to steady bond market amid inflation fears - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRGE5RGFuOHBlV1NBOER4NFJnN2NkVWFMYTVOYXQ2YjFjNmlGWUxRTFpZbGRrVDJ6cVBMQ1VxX2RCcUpDVzZfbVk1ME10RGJHeThldTNDYUpGQ1pnd1gyTFdpZVRDY296Z3F6NnBXbjROUDRkdUVKbmFEXzBYLTFDQjl2cnNFSnUxd1NkN3B2LTlvVzZWNDJTMQ?oc=5",
+      "source": "The Guardian",
+      "published_at": "Wed, 19 Aug 2026 14:57:00 GMT",
+      "summary": "US treasury doubles debt buyback to steady bond market amid inflation fears The Guardian",
+      "guid": "CBMimAFBVV95cUxPRGE5RGFuOHBlV1NBOER4NFJnN2NkVWFMYTVOYXQ2YjFjNmlGWUxRTFpZbGRrVDJ6cVBMQ1VxX2RCcUpDVzZfbVk1ME10RGJHeThldTNDYUpGQ1pnd1gyTFdpZVRDY296Z3F6NnBXbjROUDRkdUVKbmFEXzBYLTFDQjl2cnNFSnUxd1NkN3B2LTlvVzZWNDJTMQ"
+    },
+    {
       "title": "Monetary Policy Stance and Financial Conditions - Atlanta - Federal Reserve Bank",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSE1GZlhQcm1pUk9Ga3ZIOG5RVmhLTzZTRnlQTHpnVkhLU19pX0pjcnowSkQxMkxqbGNBN2dMV1poc3BPd2hGNDRpY2FEbGpZRThHeVJwSEVBekZDVlBIMjF0SU1DSHdkZk5haFFpNXo3UzBYbUEwb0c5enBnRElvbkx0cERNQ0V6b1lmSjBYZ0JzQko3N1ZlQ1BQSlFFU0M4U3FVTVF4VUN6cC1GSzhrYjVleWswSm4taXJtVXFLNzJHbVFkV0FucnppOEQ4Z0tJcUhB?oc=5",
       "source": "Atlanta - Federal Reserve Bank",
       "published_at": "Tue, 18 Aug 2026 14:36:50 GMT",
       "summary": "Monetary Policy Stance and Financial Conditions Atlanta - Federal Reserve Bank",
       "guid": "CBMi0wFBVV95cUxQSE1GZlhQcm1pUk9Ga3ZIOG5RVmhLTzZTRnlQTHpnVkhLU19pX0pjcnowSkQxMkxqbGNBN2dMV1poc3BPd2hGNDRpY2FEbGpZRThHeVJwSEVBekZDVlBIMjF0SU1DSHdkZk5haFFpNXo3UzBYbUEwb0c5enBnRElvbkx0cERNQ0V6b1lmSjBYZ0JzQko3N1ZlQ1BQSlFFU0M4U3FVTVF4VUN6cC1GSzhrYjVleWswSm4taXJtVXFLNzJHbVFkV0FucnppOEQ4Z0tJcUhB"
+    },
+    {
+      "title": "Fed Governor Calls for Federal Digital Asset Rules - Briefs Finance",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPc090bnJ6VWFxVldVXzB0RTlveUZvNkk2RkdENXllZlVoU1BLWmFOQ3FuTzJMc09fUUdFUGJXWS1IQktsMkVLeHRVaHA5b1lqN3JNSW8wUlFWSUp1U200bWFLdk5UQ3d2U2JxUzFTWTlqWTVsSFBlRFhDa09WVW1mb2I2ODE?oc=5",
+      "source": "Briefs Finance",
+      "published_at": "Wed, 19 Aug 2026 21:29:20 GMT",
+      "summary": "Fed Governor Calls for Federal Digital Asset Rules Briefs Finance",
+      "guid": "CBMihAFBVV95cUxPc090bnJ6VWFxVldVXzB0RTlveUZvNkk2RkdENXllZlVoU1BLWmFOQ3FuTzJMc09fUUdFUGJXWS1IQktsMkVLeHRVaHA5b1lqN3JNSW8wUlFWSUp1U200bWFLdk5UQ3d2U2JxUzFTWTlqWTVsSFBlRFhDa09WVW1mb2I2ODE"
     },
     {
       "title": "Stock Market Futures Mixed: Dow Jones Gains, Nasdaq 100 Drops as Trump Says 'No Talks' Are Happening With Iran— Keysight Technologies, Mercury Systems, SK Hynix in Focus (UPDATED) - TradingView",
@@ -69,22 +85,6 @@
       "published_at": "Tue, 18 Aug 2026 11:29:08 GMT",
       "summary": "Long-end yields have quietly breached key levels, leaving the Federal Reserve potentially powerless this time. Moomoo",
       "guid": "CBMipAFBVV95cUxOVVM1Z1pDdXpEVDJkcWF2TDZab1FQa0U5emF0Nk05M0F3X09SeWxKQ1RIeUN6eU9pSzMxSFQzM3J5bVRGWUswM2FNN2E4MmxTT3VTRldQLTYzd2otVUpEZkJOamZHWjQ4NjBhZWVPS3hFeXNSNkYyaGo5ZlVVbTlsT1ljaTZyM2hybk13RzNjVTZXblZNcHpfN1lQQUJMcTRFSkRrVw"
-    },
-    {
-      "title": "Treasury doubles debt buybacks as Bessent moves to steady bond market - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQN1dkbVJYY1BSZVN0VHZfNE9NSUVfaklpeUh5LTVLUTltMmxFX296QVNtSmtwYnh2ajZqYnlmRnJYXzc2Qk9CRm1PUnhGeVhTeGhJbVh5R3IwaGZWczhIaTF6WFpRbzRhM2tqekN0V2ZWQUozUHV6ZG9VeHNIRktITHo0bTJRTkxXY2dHd0swRWM1SEhzQTVEYlZ2ZTV1QXIxMEc0VTRzZ0pSRUpieFZsVnc4bEFwbFphUGhqZmxyZTlJd9IBxwFBVV95cUxQYUJJNDU3ZGxHeXNXMENUQXYzY3VVOU1JVmxEb0NJUExweVZiWGRLZmZqTE5HUHpKenJ3NTM0Vzk5UVBFRm1VUEdUOVVoOVBscS1kbmRWTDhHYmV3STdOd0dYOWRRUVZ2TWNSVUY5eTFENklCWTc4WnZoSDdUeHBFQ0NjbG5WOFVVYzRlaTEwT05KU0F6UHl2dXRWaHhCVkY3WVNvb3VDWml3djFhRm9VZFJQU3d1WFh1RG96OHpCdWZqdWlVMlZz?oc=5",
-      "source": "CNBC",
-      "published_at": "Wed, 19 Aug 2026 12:50:20 GMT",
-      "summary": "Treasury doubles debt buybacks as Bessent moves to steady bond market CNBC",
-      "guid": "CBMiwgFBVV95cUxQN1dkbVJYY1BSZVN0VHZfNE9NSUVfaklpeUh5LTVLUTltMmxFX296QVNtSmtwYnh2ajZqYnlmRnJYXzc2Qk9CRm1PUnhGeVhTeGhJbVh5R3IwaGZWczhIaTF6WFpRbzRhM2tqekN0V2ZWQUozUHV6ZG9VeHNIRktITHo0bTJRTkxXY2dHd0swRWM1SEhzQTVEYlZ2ZTV1QXIxMEc0VTRzZ0pSRUpieFZsVnc4bEFwbFphUGhqZmxyZTlJd9IBxwFBVV95cUxQYUJJNDU3ZGxHeXNXMENUQXYzY3VVOU1JVmxEb0NJUExweVZiWGRLZmZqTE5HUHpKenJ3NTM0Vzk5UVBFRm1VUEdUOVVoOVBscS1kbmRWTDhHYmV3STdOd0dYOWRRUVZ2TWNSVUY5eTFENklCWTc4WnZoSDdUeHBFQ0NjbG5WOFVVYzRlaTEwT05KU0F6UHl2dXRWaHhCVkY3WVNvb3VDWml3djFhRm9VZFJQU3d1WFh1RG96OHpCdWZqdWlVMlZz"
-    },
-    {
-      "title": "How Kevin Warsh is rewiring the Fed - Axios",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8teTJqbjhiWFJIbWJ2emRScjZZRzVZWF9NLXNVb2k4Q2g0NTFlZzdmSC1JQ2phc0F2X0RHMFBoRE9DRUdXZllqZGhPZ1dtS0xzWV9YNXByRlVMdFIxZERKTU5QcERtdm5PTFVRcXIteDJod0k?oc=5",
-      "source": "Axios",
-      "published_at": "Mon, 10 Aug 2026 07:00:00 GMT",
-      "summary": "How Kevin Warsh is rewiring the Fed Axios",
-      "guid": "CBMic0FVX3lxTE8teTJqbjhiWFJIbWJ2emRScjZZRzVZWF9NLXNVb2k4Q2g0NTFlZzdmSC1JQ2phc0F2X0RHMFBoRE9DRUdXZllqZGhPZ1dtS0xzWV9YNXByRlVMdFIxZERKTU5QcERtdm5PTFVRcXIteDJod0k"
     }
   ]
 }
