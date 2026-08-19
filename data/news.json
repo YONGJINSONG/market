@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T06:22:48Z",
+  "generated_at": "2026-08-19T07:12:20Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,19 +7,27 @@
   },
   "items": [
     {
-      "title": "U.S. government debt yields are surging at a bad time. Here's what's behind the move - CNBC",
+      "title": "U.S. government debt yields are surging at a bad time. Here's what's behind the move - cnbc.com",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWFJ4QWF6ZXRKT3NEQzd5U1J5bi1JVGQwZnotbWZGeVNzZEdhdGVGQy00RnJDSUtVZE1VYVR5bFYzcDBKZktkX2xXNVJubmUtZ1VlZDR3RXNHQXVkcVNNVExodkNwcHRQVEV0UzMyZEZjS2Z6bkFQZ3I3Nm9kTTkxOFNaalhnN2FzQTRkcWpVdWpYMVFfa0J0Zi1xRTZHdDhyNVV5V0FtZFlrb0dxUkJ0ZDBKdkJPbGfSAbwBQVVfeXFMTWVadE82UFBkbndVWks0UzdhajNTZlhaVDdnLVhnTlpOQUJqWHBPbFRxMFpZSi1fOXp6em5NalBzSnNfMzY4MW1YVWdMLWwyMUxpNnV4YVd0V09kN1pCWEtYREI0dHMwN2NaQ2NjTm5zWFhNQi12MlZTLXdaLUU3SnRQUmFhbk1KaXpPNHpzNjFiZGk3M0dVOXNUQW1laWRxRXczRFBidW94NGpRbC1ZM01nMGhNSkdyMl84MTk?oc=5",
-      "source": "CNBC",
+      "source": "cnbc.com",
       "published_at": "Tue, 18 Aug 2026 17:25:20 GMT",
-      "summary": "U.S. government debt yields are surging at a bad time. Here's what's behind the move CNBC",
+      "summary": "U.S. government debt yields are surging at a bad time. Here's what's behind the move cnbc.com",
       "guid": "CBMitwFBVV95cUxPWFJ4QWF6ZXRKT3NEQzd5U1J5bi1JVGQwZnotbWZGeVNzZEdhdGVGQy00RnJDSUtVZE1VYVR5bFYzcDBKZktkX2xXNVJubmUtZ1VlZDR3RXNHQXVkcVNNVExodkNwcHRQVEV0UzMyZEZjS2Z6bkFQZ3I3Nm9kTTkxOFNaalhnN2FzQTRkcWpVdWpYMVFfa0J0Zi1xRTZHdDhyNVV5V0FtZFlrb0dxUkJ0ZDBKdkJPbGfSAbwBQVVfeXFMTWVadE82UFBkbndVWks0UzdhajNTZlhaVDdnLVhnTlpOQUJqWHBPbFRxMFpZSi1fOXp6em5NalBzSnNfMzY4MW1YVWdMLWwyMUxpNnV4YVd0V09kN1pCWEtYREI0dHMwN2NaQ2NjTm5zWFhNQi12MlZTLXdaLUU3SnRQUmFhbk1KaXpPNHpzNjFiZGk3M0dVOXNUQW1laWRxRXczRFBidW94NGpRbC1ZM01nMGhNSkdyMl84MTk"
     },
     {
-      "title": "Fed Chair Kevin Warsh Testified to Congress That the Fed Has \"Only a Target, and It's 2%,\" Rejecting Any Soft Inflation Goal. What Does That Mean for Rate-Sensitive Stocks? - The Motley Fool",
+      "title": "Why Treasury Yields Are Surging—and What It Means for Your Money - Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQ0hVdkRUS2NQLTlfMmRmZHpPeTBhOWQtUWg2Zk5kdHpCV2VuWXNRMnBEVHFrci1scElfMmNVeXFtV1NpOTdoQjdYN0Z1MXZHR3hyZjRmNkFzbUwtU1hPa1BpZS0tYk9lSzlfVUVIV2pZRXpEbEJsaXhIZWNWV05NcTRMMjdlVzFQNjN6Vmdrd3hyLVhuSEtHYzZXTmFTR2FrMkxIZQ?oc=5",
+      "source": "Investopedia",
+      "published_at": "Wed, 19 Aug 2026 00:05:02 GMT",
+      "summary": "Why Treasury Yields Are Surging—and What It Means for Your Money Investopedia",
+      "guid": "CBMipAFBVV95cUxOQ0hVdkRUS2NQLTlfMmRmZHpPeTBhOWQtUWg2Zk5kdHpCV2VuWXNRMnBEVHFrci1scElfMmNVeXFtV1NpOTdoQjdYN0Z1MXZHR3hyZjRmNkFzbUwtU1hPa1BpZS0tYk9lSzlfVUVIV2pZRXpEbEJsaXhIZWNWV05NcTRMMjdlVzFQNjN6Vmdrd3hyLVhuSEtHYzZXTmFTR2FrMkxIZQ"
+    },
+    {
+      "title": "Fed Chair Kevin Warsh Testified to Congress That the Fed Has \"Only a Target, and It's 2%,\" Rejecting Any Soft Inflation Goal. What Does That Mean for Rate-Sensitive Stocks? - fool.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONGxhZjUyQm11M2VPYlBPNWk1TjVPa3lIckZsRUNSc2dhV1YxdC1sMllGNlRIbnQ0VnE5NHU1ZkdUV0lWR3hYOXdFOXR3eHVqeFNSazJTUWdSSmxRUHlaX2RCZWc3QmxEV2ptSUlaMjh5MTk5X3VEVFlERzk3eE5neEUwYkNZcF8yVl9LSHlKOHNLNTVncGNJVA?oc=5",
-      "source": "The Motley Fool",
+      "source": "fool.com",
       "published_at": "Wed, 19 Aug 2026 02:39:16 GMT",
-      "summary": "Fed Chair Kevin Warsh Testified to Congress That the Fed Has \"Only a Target, and It's 2%,\" Rejecting Any Soft Inflation Goal. What Does That Mean for Rate-Sensitive Stocks? The Motley Fool",
+      "summary": "Fed Chair Kevin Warsh Testified to Congress That the Fed Has \"Only a Target, and It's 2%,\" Rejecting Any Soft Inflation Goal. What Does That Mean for Rate-Sensitive Stocks? fool.com",
       "guid": "CBMimAFBVV95cUxONGxhZjUyQm11M2VPYlBPNWk1TjVPa3lIckZsRUNSc2dhV1YxdC1sMllGNlRIbnQ0VnE5NHU1ZkdUV0lWR3hYOXdFOXR3eHVqeFNSazJTUWdSSmxRUHlaX2RCZWc3QmxEV2ptSUlaMjh5MTk5X3VEVFlERzk3eE5neEUwYkNZcF8yVl9LSHlKOHNLNTVncGNJVA"
     },
     {
@@ -31,20 +39,20 @@
       "guid": "CBMid0FVX3lxTFA1V0ZsTWlIOWFIaWtZXzVQODBRZTI4aTlFYUVGQ05JQUM3V2U2eHd1Z254bWl5M3ZDblJnRkR4QlUxLXpYZ0lDNDI0QzducnRXVDdBWm5aRG5qSmRXZEl5bnhiQ21GbC1ubkhOWWUyYU0yME51WURj"
     },
     {
-      "title": "Rising Oil Prices and Stock Market Impact: August 2026 Investor Guide - Intellectia AI",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNb0JWMGptbGstci1FU2JMNFA2SjFrZzlHWkNjTzdocTBZczV6OWxCSkNha3A5aGxOV1FDZTFvNk1tbFRFRTNHNi1vOWhYVm1NTVl4dnFiZWtmRkxjSDVqcTRLVjRONk5pcEtsSVlwNEx0eEk3d3NRUzQxeGlwWV9RUmtQNA?oc=5",
-      "source": "Intellectia AI",
-      "published_at": "Tue, 18 Aug 2026 21:43:05 GMT",
-      "summary": "Rising Oil Prices and Stock Market Impact: August 2026 Investor Guide Intellectia AI",
-      "guid": "CBMigwFBVV95cUxNb0JWMGptbGstci1FU2JMNFA2SjFrZzlHWkNjTzdocTBZczV6OWxCSkNha3A5aGxOV1FDZTFvNk1tbFRFRTNHNi1vOWhYVm1NTVl4dnFiZWtmRkxjSDVqcTRLVjRONk5pcEtsSVlwNEx0eEk3d3NRUzQxeGlwWV9RUmtQNA"
-    },
-    {
       "title": "Does the Equity Term Structure Respond to Monetary Policy Shocks? - Liberty Street Economics",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcGZKaVc1MHU4VUlQTzFVZDNhOTJuN2VsZ1RITGFrRzFNMGNtWFJOT3BQQTRvcUwyLXo4bWNRcWlVaG5KSVpVU3Z1UmpjemUySjhLa1RhT2xBZHdGQ2tBT1JCSkYtZ3YtT2ZUZVNpcDBRYV9qdDdBcGtPbWFCclV4R3RVcDNJbGxyWmpjbHZ4MU9WUTFjcko5R0Vob3MyZmlMV2JHMDgybDdUa0NlcUR6QlBxa21xeHU2S1pv?oc=5",
       "source": "Liberty Street Economics",
       "published_at": "Wed, 12 Aug 2026 11:00:26 GMT",
       "summary": "Does the Equity Term Structure Respond to Monetary Policy Shocks? Liberty Street Economics",
       "guid": "CBMiuwFBVV95cUxPcGZKaVc1MHU4VUlQTzFVZDNhOTJuN2VsZ1RITGFrRzFNMGNtWFJOT3BQQTRvcUwyLXo4bWNRcWlVaG5KSVpVU3Z1UmpjemUySjhLa1RhT2xBZHdGQ2tBT1JCSkYtZ3YtT2ZUZVNpcDBRYV9qdDdBcGtPbWFCclV4R3RVcDNJbGxyWmpjbHZ4MU9WUTFjcko5R0Vob3MyZmlMV2JHMDgybDdUa0NlcUR6QlBxa21xeHU2S1pv"
+    },
+    {
+      "title": "Rising Oil Prices and Stock Market Impact: August 2026 Investor Guide - Intellectia AI",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNb0JWMGptbGstci1FU2JMNFA2SjFrZzlHWkNjTzdocTBZczV6OWxCSkNha3A5aGxOV1FDZTFvNk1tbFRFRTNHNi1vOWhYVm1NTVl4dnFiZWtmRkxjSDVqcTRLVjRONk5pcEtsSVlwNEx0eEk3d3NRUzQxeGlwWV9RUmtQNA?oc=5",
+      "source": "Intellectia AI",
+      "published_at": "Tue, 18 Aug 2026 21:43:05 GMT",
+      "summary": "Rising Oil Prices and Stock Market Impact: August 2026 Investor Guide Intellectia AI",
+      "guid": "CBMigwFBVV95cUxNb0JWMGptbGstci1FU2JMNFA2SjFrZzlHWkNjTzdocTBZczV6OWxCSkNha3A5aGxOV1FDZTFvNk1tbFRFRTNHNi1vOWhYVm1NTVl4dnFiZWtmRkxjSDVqcTRLVjRONk5pcEtsSVlwNEx0eEk3d3NRUzQxeGlwWV9RUmtQNA"
     },
     {
       "title": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says a Big Drop Could Follow. - Yahoo Finance",
@@ -77,14 +85,6 @@
       "published_at": "Thu, 04 Jun 2026 07:00:00 GMT",
       "summary": "Stocks drive record share of American wealth Axios",
       "guid": "CBMibEFVX3lxTE4tREZqZEtISDliRTZVeFV4MkhkbW9ueER2Z25YRDRuNXBDaGVGLTlKMC1JUUVfWXFYT2h3YWtwemRuVU9NLVg0Qi03bEdoQlBfcVBmckN6anZtZVVTakstVlVZWWU0bm5YSmUwaQ"
-    },
-    {
-      "title": "Nvidia is becoming the 'Federal Reserve of AI' - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcFMybWlDMWJQR0pOSzlWbGN0ZmlZa0xfb19qLXEzRDR5cUUwU25uS1JBRVAxV09oNkhaN1NVT3FnaEZyejJZUnZzYkNsLTJvZUp2MWMwWXJtYW5rbDdmOEtUUzZpMTJDZDNyTFF4Ti01eXBEUzJ1YU1TTkN2WWd0aFR0MHBHTU1mc3c?oc=5",
-      "source": "Seeking Alpha",
-      "published_at": "Sun, 16 Aug 2026 11:22:39 GMT",
-      "summary": "Nvidia is becoming the 'Federal Reserve of AI' Seeking Alpha",
-      "guid": "CBMiigFBVV95cUxNcFMybWlDMWJQR0pOSzlWbGN0ZmlZa0xfb19qLXEzRDR5cUUwU25uS1JBRVAxV09oNkhaN1NVT3FnaEZyejJZUnZzYkNsLTJvZUp2MWMwWXJtYW5rbDdmOEtUUzZpMTJDZDNyTFF4Ti01eXBEUzJ1YU1TTkN2WWd0aFR0MHBHTU1mc3c"
     }
   ]
 }
