@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-08-19T04:26:04Z",
+  "generated_at": "2026-08-19T04:59:12Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "U.S. government debt yields are surging at a bad time. Here's what's behind the move - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWFJ4QWF6ZXRKT3NEQzd5U1J5bi1JVGQwZnotbWZGeVNzZEdhdGVGQy00RnJDSUtVZE1VYVR5bFYzcDBKZktkX2xXNVJubmUtZ1VlZDR3RXNHQXVkcVNNVExodkNwcHRQVEV0UzMyZEZjS2Z6bkFQZ3I3Nm9kTTkxOFNaalhnN2FzQTRkcWpVdWpYMVFfa0J0Zi1xRTZHdDhyNVV5V0FtZFlrb0dxUkJ0ZDBKdkJPbGfSAbwBQVVfeXFMTWVadE82UFBkbndVWks0UzdhajNTZlhaVDdnLVhnTlpOQUJqWHBPbFRxMFpZSi1fOXp6em5NalBzSnNfMzY4MW1YVWdMLWwyMUxpNnV4YVd0V09kN1pCWEtYREI0dHMwN2NaQ2NjTm5zWFhNQi12MlZTLXdaLUU3SnRQUmFhbk1KaXpPNHpzNjFiZGk3M0dVOXNUQW1laWRxRXczRFBidW94NGpRbC1ZM01nMGhNSkdyMl84MTk?oc=5",
+      "source": "CNBC",
+      "published_at": "Tue, 18 Aug 2026 17:25:20 GMT",
+      "summary": "U.S. government debt yields are surging at a bad time. Here's what's behind the move CNBC",
+      "guid": "CBMitwFBVV95cUxPWFJ4QWF6ZXRKT3NEQzd5U1J5bi1JVGQwZnotbWZGeVNzZEdhdGVGQy00RnJDSUtVZE1VYVR5bFYzcDBKZktkX2xXNVJubmUtZ1VlZDR3RXNHQXVkcVNNVExodkNwcHRQVEV0UzMyZEZjS2Z6bkFQZ3I3Nm9kTTkxOFNaalhnN2FzQTRkcWpVdWpYMVFfa0J0Zi1xRTZHdDhyNVV5V0FtZFlrb0dxUkJ0ZDBKdkJPbGfSAbwBQVVfeXFMTWVadE82UFBkbndVWks0UzdhajNTZlhaVDdnLVhnTlpOQUJqWHBPbFRxMFpZSi1fOXp6em5NalBzSnNfMzY4MW1YVWdMLWwyMUxpNnV4YVd0V09kN1pCWEtYREI0dHMwN2NaQ2NjTm5zWFhNQi12MlZTLXdaLUU3SnRQUmFhbk1KaXpPNHpzNjFiZGk3M0dVOXNUQW1laWRxRXczRFBidW94NGpRbC1ZM01nMGhNSkdyMl84MTk"
+    },
     {
       "title": "Fed Chair Kevin Warsh Testified to Congress That the Fed Has \"Only a Target, and It's 2%,\" Rejecting Any Soft Inflation Goal. What Does That Mean for Rate-Sensitive Stocks? - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONGxhZjUyQm11M2VPYlBPNWk1TjVPa3lIckZsRUNSc2dhV1YxdC1sMllGNlRIbnQ0VnE5NHU1ZkdUV0lWR3hYOXdFOXR3eHVqeFNSazJTUWdSSmxRUHlaX2RCZWc3QmxEV2ptSUlaMjh5MTk5X3VEVFlERzk3eE5neEUwYkNZcF8yVl9LSHlKOHNLNTVncGNJVA?oc=5",
@@ -15,12 +23,12 @@
       "guid": "CBMimAFBVV95cUxONGxhZjUyQm11M2VPYlBPNWk1TjVPa3lIckZsRUNSc2dhV1YxdC1sMllGNlRIbnQ0VnE5NHU1ZkdUV0lWR3hYOXdFOXR3eHVqeFNSazJTUWdSSmxRUHlaX2RCZWc3QmxEV2ptSUlaMjh5MTk5X3VEVFlERzk3eE5neEUwYkNZcF8yVl9LSHlKOHNLNTVncGNJVA"
     },
     {
-      "title": "U.S. government debt yields are surging at a bad time. Here's what's behind the move - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWFJ4QWF6ZXRKT3NEQzd5U1J5bi1JVGQwZnotbWZGeVNzZEdhdGVGQy00RnJDSUtVZE1VYVR5bFYzcDBKZktkX2xXNVJubmUtZ1VlZDR3RXNHQXVkcVNNVExodkNwcHRQVEV0UzMyZEZjS2Z6bkFQZ3I3Nm9kTTkxOFNaalhnN2FzQTRkcWpVdWpYMVFfa0J0Zi1xRTZHdDhyNVV5V0FtZFlrb0dxUkJ0ZDBKdkJPbGfSAbwBQVVfeXFMTWVadE82UFBkbndVWks0UzdhajNTZlhaVDdnLVhnTlpOQUJqWHBPbFRxMFpZSi1fOXp6em5NalBzSnNfMzY4MW1YVWdMLWwyMUxpNnV4YVd0V09kN1pCWEtYREI0dHMwN2NaQ2NjTm5zWFhNQi12MlZTLXdaLUU3SnRQUmFhbk1KaXpPNHpzNjFiZGk3M0dVOXNUQW1laWRxRXczRFBidW94NGpRbC1ZM01nMGhNSkdyMl84MTk?oc=5",
-      "source": "CNBC",
-      "published_at": "Tue, 18 Aug 2026 17:25:20 GMT",
-      "summary": "U.S. government debt yields are surging at a bad time. Here's what's behind the move CNBC",
-      "guid": "CBMitwFBVV95cUxPWFJ4QWF6ZXRKT3NEQzd5U1J5bi1JVGQwZnotbWZGeVNzZEdhdGVGQy00RnJDSUtVZE1VYVR5bFYzcDBKZktkX2xXNVJubmUtZ1VlZDR3RXNHQXVkcVNNVExodkNwcHRQVEV0UzMyZEZjS2Z6bkFQZ3I3Nm9kTTkxOFNaalhnN2FzQTRkcWpVdWpYMVFfa0J0Zi1xRTZHdDhyNVV5V0FtZFlrb0dxUkJ0ZDBKdkJPbGfSAbwBQVVfeXFMTWVadE82UFBkbndVWks0UzdhajNTZlhaVDdnLVhnTlpOQUJqWHBPbFRxMFpZSi1fOXp6em5NalBzSnNfMzY4MW1YVWdMLWwyMUxpNnV4YVd0V09kN1pCWEtYREI0dHMwN2NaQ2NjTm5zWFhNQi12MlZTLXdaLUU3SnRQUmFhbk1KaXpPNHpzNjFiZGk3M0dVOXNUQW1laWRxRXczRFBidW94NGpRbC1ZM01nMGhNSkdyMl84MTk"
+      "title": "What the Stock Market’s Record Rally Has to Do With Rescuing the Yen - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA1V0ZsTWlIOWFIaWtZXzVQODBRZTI4aTlFYUVGQ05JQUM3V2U2eHd1Z254bWl5M3ZDblJnRkR4QlUxLXpYZ0lDNDI0QzducnRXVDdBWm5aRG5qSmRXZEl5bnhiQ21GbC1ubkhOWWUyYU0yME51WURj?oc=5",
+      "source": "The New York Times",
+      "published_at": "Wed, 05 Aug 2026 07:00:00 GMT",
+      "summary": "What the Stock Market’s Record Rally Has to Do With Rescuing the Yen The New York Times",
+      "guid": "CBMid0FVX3lxTFA1V0ZsTWlIOWFIaWtZXzVQODBRZTI4aTlFYUVGQ05JQUM3V2U2eHd1Z254bWl5M3ZDblJnRkR4QlUxLXpYZ0lDNDI0QzducnRXVDdBWm5aRG5qSmRXZEl5bnhiQ21GbC1ubkhOWWUyYU0yME51WURj"
     },
     {
       "title": "Rising Oil Prices and Stock Market Impact: August 2026 Investor Guide - Intellectia AI",
@@ -71,20 +79,12 @@
       "guid": "CBMibEFVX3lxTE4tREZqZEtISDliRTZVeFV4MkhkbW9ueER2Z25YRDRuNXBDaGVGLTlKMC1JUUVfWXFYT2h3YWtwemRuVU9NLVg0Qi03bEdoQlBfcVBmckN6anZtZVVTakstVlVZWWU0bm5YSmUwaQ"
     },
     {
-      "title": "Nvidia is becoming the 'Federal Reserve of AI' - Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcFMybWlDMWJQR0pOSzlWbGN0ZmlZa0xfb19qLXEzRDR5cUUwU25uS1JBRVAxV09oNkhaN1NVT3FnaEZyejJZUnZzYkNsLTJvZUp2MWMwWXJtYW5rbDdmOEtUUzZpMTJDZDNyTFF4Ti01eXBEUzJ1YU1TTkN2WWd0aFR0MHBHTU1mc3c?oc=5",
-      "source": "Seeking Alpha",
-      "published_at": "Sun, 16 Aug 2026 11:22:39 GMT",
-      "summary": "Nvidia is becoming the 'Federal Reserve of AI' Seeking Alpha",
-      "guid": "CBMiigFBVV95cUxNcFMybWlDMWJQR0pOSzlWbGN0ZmlZa0xfb19qLXEzRDR5cUUwU25uS1JBRVAxV09oNkhaN1NVT3FnaEZyejJZUnZzYkNsLTJvZUp2MWMwWXJtYW5rbDdmOEtUUzZpMTJDZDNyTFF4Ti01eXBEUzJ1YU1TTkN2WWd0aFR0MHBHTU1mc3c"
-    },
-    {
-      "title": "Surging equities and the trickle-up economy - The Real Economy Blog",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43TFhjLThoWVRJQmpVelVESVh5bUlTcnN5YUxOX29tT0lIRjBKa3BQbzBwa1FGS2oyR09IQW0wcngzMHYyUzdzQkl2RUlhZkVzdTE2dEdBTkxjYkgyYWJlX1Jra2pHb3d0TERydW1EQ3RIWVlidjU5eXJESXptcEU?oc=5",
-      "source": "The Real Economy Blog",
-      "published_at": "Mon, 22 Jun 2026 07:00:00 GMT",
-      "summary": "Surging equities and the trickle-up economy The Real Economy Blog",
-      "guid": "CBMif0FVX3lxTE43TFhjLThoWVRJQmpVelVESVh5bUlTcnN5YUxOX29tT0lIRjBKa3BQbzBwa1FGS2oyR09IQW0wcngzMHYyUzdzQkl2RUlhZkVzdTE2dEdBTkxjYkgyYWJlX1Jra2pHb3d0TERydW1EQ3RIWVlidjU5eXJESXptcEU"
+      "title": "The Bond Market Is Signaling Rising Risks. Investors Should Listen. - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZlhBejhhZWNUdDRiX05LWHFRaGJhX0ltazRRWTFPZWdvazNWX0U1WDg4NmpIb0swb1dsR21KTzg2MUc5Z21ORnJXdWFxX2xybjdsOG1lUnV4aWs3TWw3QmR5TUFfMDZ5Qkc5WVhxSWVXT2dUZDVneUxqRms3V1dBeDJvUzJtT1R4Z01NYlZNbXBBNnVBWWdF?oc=5",
+      "source": "The New York Times",
+      "published_at": "Fri, 07 Aug 2026 07:00:00 GMT",
+      "summary": "The Bond Market Is Signaling Rising Risks. Investors Should Listen. The New York Times",
+      "guid": "CBMilwFBVV95cUxNZlhBejhhZWNUdDRiX05LWHFRaGJhX0ltazRRWTFPZWdvazNWX0U1WDg4NmpIb0swb1dsR21KTzg2MUc5Z21ORnJXdWFxX2xybjdsOG1lUnV4aWs3TWw3QmR5TUFfMDZ5Qkc5WVhxSWVXT2dUZDVneUxqRms3V1dBeDJvUzJtT1R4Z01NYlZNbXBBNnVBWWdF"
     }
   ]
 }
