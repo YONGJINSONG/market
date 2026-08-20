@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T18:20:48Z",
+  "generated_at": "2026-08-20T19:07:40Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -39,20 +39,20 @@
       "guid": "CBMiswFBVV95cUxQNkRiaGxKd2dkSkRtbl84WDVOVDdicFFmcUdPOGZTTy1lS2pVQVBHZGI4YTgzZ010cENNSEZsaFh5bHZPZ2Y5OXFvUDdHSUVUYmNBblJZaG1OeUwxRXZNWkxwM0dYNUk2QmtoSTFDVDgtLVVXbzJUWDVYZE5fRGdnYUNZTEV6M2U5UHlBY3VJX0JkVDNpMjRBMjF6YUhNWHRnZTlmRE40UUlkbDMxTEo1NXd0dw"
     },
     {
-      "title": "Bessent moves to curb Treasury yields, putting new pressure on Warsh's Fed - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNXzEwTmtqMDh4SVVSLWdwUHgzbDF6dVJST2wzY0JHVzhXX0dOZGF0ZjdRLUhfRkZ4cW16ZE5Yb0N6TEZBUC1SbzJOaDBMMDEtOWhEc0MwV1FERWlQLUVCVnZUYk5RdWNPY0J0bkRyMW9qQVFxY2F1MHNkZVU1emdnZUpCYmdzUdIBiwFBVV95cUxOT2NBRklGTmdfOE9SS1NuU3QteFQ2Y1ZvX0E4ZDRZTXpOYlE2VzVsQWRMbzlOTWRQWGVDblRYWHBUXzVKXzFuMlhrd29BWllfN25QS3RvRmgtLXR1N3plNzIxQ2RrOWFQNHlSY0tMbXFUcTN2T3BwTUlMd1ZnNmd5T0JWaEN2WHVnRFJv?oc=5",
-      "source": "CNBC",
-      "published_at": "Wed, 19 Aug 2026 20:02:32 GMT",
-      "summary": "Bessent moves to curb Treasury yields, putting new pressure on Warsh's Fed CNBC",
-      "guid": "CBMihgFBVV95cUxNXzEwTmtqMDh4SVVSLWdwUHgzbDF6dVJST2wzY0JHVzhXX0dOZGF0ZjdRLUhfRkZ4cW16ZE5Yb0N6TEZBUC1SbzJOaDBMMDEtOWhEc0MwV1FERWlQLUVCVnZUYk5RdWNPY0J0bkRyMW9qQVFxY2F1MHNkZVU1emdnZUpCYmdzUdIBiwFBVV95cUxOT2NBRklGTmdfOE9SS1NuU3QteFQ2Y1ZvX0E4ZDRZTXpOYlE2VzVsQWRMbzlOTWRQWGVDblRYWHBUXzVKXzFuMlhrd29BWllfN25QS3RvRmgtLXR1N3plNzIxQ2RrOWFQNHlSY0tMbXFUcTN2T3BwTUlMd1ZnNmd5T0JWaEN2WHVnRFJv"
-    },
-    {
       "title": "What the Stock Market’s Record Rally Has to Do With Rescuing the Yen - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA1V0ZsTWlIOWFIaWtZXzVQODBRZTI4aTlFYUVGQ05JQUM3V2U2eHd1Z254bWl5M3ZDblJnRkR4QlUxLXpYZ0lDNDI0QzducnRXVDdBWm5aRG5qSmRXZEl5bnhiQ21GbC1ubkhOWWUyYU0yME51WURj?oc=5",
       "source": "The New York Times",
       "published_at": "Wed, 05 Aug 2026 07:00:00 GMT",
       "summary": "What the Stock Market’s Record Rally Has to Do With Rescuing the Yen The New York Times",
       "guid": "CBMid0FVX3lxTFA1V0ZsTWlIOWFIaWtZXzVQODBRZTI4aTlFYUVGQ05JQUM3V2U2eHd1Z254bWl5M3ZDblJnRkR4QlUxLXpYZ0lDNDI0QzducnRXVDdBWm5aRG5qSmRXZEl5bnhiQ21GbC1ubkhOWWUyYU0yME51WURj"
+    },
+    {
+      "title": "Bessent moves to curb Treasury yields, putting new pressure on Warsh's Fed - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNXzEwTmtqMDh4SVVSLWdwUHgzbDF6dVJST2wzY0JHVzhXX0dOZGF0ZjdRLUhfRkZ4cW16ZE5Yb0N6TEZBUC1SbzJOaDBMMDEtOWhEc0MwV1FERWlQLUVCVnZUYk5RdWNPY0J0bkRyMW9qQVFxY2F1MHNkZVU1emdnZUpCYmdzUdIBiwFBVV95cUxOT2NBRklGTmdfOE9SS1NuU3QteFQ2Y1ZvX0E4ZDRZTXpOYlE2VzVsQWRMbzlOTWRQWGVDblRYWHBUXzVKXzFuMlhrd29BWllfN25QS3RvRmgtLXR1N3plNzIxQ2RrOWFQNHlSY0tMbXFUcTN2T3BwTUlMd1ZnNmd5T0JWaEN2WHVnRFJv?oc=5",
+      "source": "CNBC",
+      "published_at": "Wed, 19 Aug 2026 20:02:32 GMT",
+      "summary": "Bessent moves to curb Treasury yields, putting new pressure on Warsh's Fed CNBC",
+      "guid": "CBMihgFBVV95cUxNXzEwTmtqMDh4SVVSLWdwUHgzbDF6dVJST2wzY0JHVzhXX0dOZGF0ZjdRLUhfRkZ4cW16ZE5Yb0N6TEZBUC1SbzJOaDBMMDEtOWhEc0MwV1FERWlQLUVCVnZUYk5RdWNPY0J0bkRyMW9qQVFxY2F1MHNkZVU1emdnZUpCYmdzUdIBiwFBVV95cUxOT2NBRklGTmdfOE9SS1NuU3QteFQ2Y1ZvX0E4ZDRZTXpOYlE2VzVsQWRMbzlOTWRQWGVDblRYWHBUXzVKXzFuMlhrd29BWllfN25QS3RvRmgtLXR1N3plNzIxQ2RrOWFQNHlSY0tMbXFUcTN2T3BwTUlMd1ZnNmd5T0JWaEN2WHVnRFJv"
     },
     {
       "title": "US treasury doubles debt buyback to steady bond market amid inflation fears - The Guardian",
@@ -79,12 +79,12 @@
       "guid": "CBMilAFBVV95cUxQU0x1Uml3U2JwWVNjbDZjSUNkWVBTUkE3Vk5FS09sWFp3VE5kRDBYckZkUDU2c05uaVBsRTI0RXZXQmw5ZndNSk5BdUVUY01jNGNoOXhCRUtyc1dkTll0ZFJvOFhDbGtiT3l1NmpOdk5Lc3JHdktBU29XMjR2YXNaZHVQYmotMlItZVNPVkVabGhSMDJ2"
     },
     {
-      "title": "Stock Market Futures Mixed: Dow Jones Gains, Nasdaq 100 Drops as Trump Says 'No Talks' Are Happening With Iran— Keysight Technologies, Mercury Systems, SK Hynix in Focus (UPDATED) - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNb21PWlVKRUlUX3ZFc0pkdkpBbDJhVUFxcjhEX0x6YmRNOUVBUmpzUDJmenhMdkFhZFdUNmhFeGwwZHVlMWMxOTNyVFZ2MFpiN1poZS1qcUFSTkN6WnljRmZSM0NkQ0JPeTJrY3BvRUtfNXNDS1IwcmFkLTdLbmZSUk9jOGlCT0RoMHQxRU53cWFORGU4eVNVQUpacnozbGp1dkd1U2xDUVlNNjFaYjIzeTJ5YjQ4NVZvLUlza1E3NUJhOS1pTmhHamMtOTQ0MzBTOW5HaGliYWo1Zm5hYllXRlZLY3p2dmVFZzE1bmNFcWxGVXFUOFlUQzl4cEtubGl3Nlhpc21iTl8xcEQ0TmZyaGpsV1ZDdEdTVk1DNG1ZZDV3WXVWbmtITHNGeUYwamNYTU5PQk9xMUVpRS1KTmk1eEFoeFByR1R6ZEVQUGt3?oc=5",
-      "source": "TradingView",
-      "published_at": "Wed, 19 Aug 2026 12:32:40 GMT",
-      "summary": "Stock Market Futures Mixed: Dow Jones Gains, Nasdaq 100 Drops as Trump Says 'No Talks' Are Happening With Iran— Keysight Technologies, Mercury Systems, SK Hynix in Focus (UPDATED) TradingView",
-      "guid": "CBMizgJBVV95cUxNb21PWlVKRUlUX3ZFc0pkdkpBbDJhVUFxcjhEX0x6YmRNOUVBUmpzUDJmenhMdkFhZFdUNmhFeGwwZHVlMWMxOTNyVFZ2MFpiN1poZS1qcUFSTkN6WnljRmZSM0NkQ0JPeTJrY3BvRUtfNXNDS1IwcmFkLTdLbmZSUk9jOGlCT0RoMHQxRU53cWFORGU4eVNVQUpacnozbGp1dkd1U2xDUVlNNjFaYjIzeTJ5YjQ4NVZvLUlza1E3NUJhOS1pTmhHamMtOTQ0MzBTOW5HaGliYWo1Zm5hYllXRlZLY3p2dmVFZzE1bmNFcWxGVXFUOFlUQzl4cEtubGl3Nlhpc21iTl8xcEQ0TmZyaGpsV1ZDdEdTVk1DNG1ZZDV3WXVWbmtITHNGeUYwamNYTU5PQk9xMUVpRS1KTmk1eEFoeFByR1R6ZEVQUGt3"
+      "title": "Long-end yields have quietly breached key levels, leaving the Federal Reserve potentially powerless this time. - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVVM1Z1pDdXpEVDJkcWF2TDZab1FQa0U5emF0Nk05M0F3X09SeWxKQ1RIeUN6eU9pSzMxSFQzM3J5bVRGWUswM2FNN2E4MmxTT3VTRldQLTYzd2otVUpEZkJOamZHWjQ4NjBhZWVPS3hFeXNSNkYyaGo5ZlVVbTlsT1ljaTZyM2hybk13RzNjVTZXblZNcHpfN1lQQUJMcTRFSkRrVw?oc=5",
+      "source": "Moomoo",
+      "published_at": "Tue, 18 Aug 2026 11:29:08 GMT",
+      "summary": "Long-end yields have quietly breached key levels, leaving the Federal Reserve potentially powerless this time. Moomoo",
+      "guid": "CBMipAFBVV95cUxOVVM1Z1pDdXpEVDJkcWF2TDZab1FQa0U5emF0Nk05M0F3X09SeWxKQ1RIeUN6eU9pSzMxSFQzM3J5bVRGWUswM2FNN2E4MmxTT3VTRldQLTYzd2otVUpEZkJOamZHWjQ4NjBhZWVPS3hFeXNSNkYyaGo5ZlVVbTlsT1ljaTZyM2hybk13RzNjVTZXblZNcHpfN1lQQUJMcTRFSkRrVw"
     }
   ]
 }
