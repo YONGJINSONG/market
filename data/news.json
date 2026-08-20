@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T03:55:32Z",
+  "generated_at": "2026-08-20T04:25:32Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,11 +7,11 @@
   },
   "items": [
     {
-      "title": "Bessent acts to break bond market fever, head off rising borrowing costs - The Washington Post",
+      "title": "Bessent acts to break bond market fever, head off rising borrowing costs - washingtonpost.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWEp5ODBDWGVqYUZ1eEdFS1BxODduekpEZFB0Vm9YcmFCeW9IYnV1eUNFeHpJZ3lLT0NMSk9OazBVZE1xZmJvMnlBZjNjSWpodkEtd09CdmpOT0VSQVJvZDNHRWNFQWxMU1ZxR05UOE92SXd6WTllbEhBQUotZjhVVUdZckw5UloxS1JqamtJcGNzVFVwS3hjNXdXR2VjcFJuMnlReWFIN1dLbHBldzhKWndMTTY?oc=5",
-      "source": "The Washington Post",
+      "source": "washingtonpost.com",
       "published_at": "Thu, 20 Aug 2026 02:59:28 GMT",
-      "summary": "Bessent acts to break bond market fever, head off rising borrowing costs The Washington Post",
+      "summary": "Bessent acts to break bond market fever, head off rising borrowing costs washingtonpost.com",
       "guid": "CBMitAFBVV95cUxQWEp5ODBDWGVqYUZ1eEdFS1BxODduekpEZFB0Vm9YcmFCeW9IYnV1eUNFeHpJZ3lLT0NMSk9OazBVZE1xZmJvMnlBZjNjSWpodkEtd09CdmpOT0VSQVJvZDNHRWNFQWxMU1ZxR05UOE92SXd6WTllbEhBQUotZjhVVUdZckw5UloxS1JqamtJcGNzVFVwS3hjNXdXR2VjcFJuMnlReWFIN1dLbHBldzhKWndMTTY"
     },
     {
@@ -47,6 +47,14 @@
       "guid": "CBMid0FVX3lxTFA1V0ZsTWlIOWFIaWtZXzVQODBRZTI4aTlFYUVGQ05JQUM3V2U2eHd1Z254bWl5M3ZDblJnRkR4QlUxLXpYZ0lDNDI0QzducnRXVDdBWm5aRG5qSmRXZEl5bnhiQ21GbC1ubkhOWWUyYU0yME51WURj"
     },
     {
+      "title": "Fed Governor Calls for Federal Digital Asset Rules - Briefs Finance",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPc090bnJ6VWFxVldVXzB0RTlveUZvNkk2RkdENXllZlVoU1BLWmFOQ3FuTzJMc09fUUdFUGJXWS1IQktsMkVLeHRVaHA5b1lqN3JNSW8wUlFWSUp1U200bWFLdk5UQ3d2U2JxUzFTWTlqWTVsSFBlRFhDa09WVW1mb2I2ODE?oc=5",
+      "source": "Briefs Finance",
+      "published_at": "Wed, 19 Aug 2026 17:29:20 GMT",
+      "summary": "Fed Governor Calls for Federal Digital Asset Rules Briefs Finance",
+      "guid": "CBMihAFBVV95cUxPc090bnJ6VWFxVldVXzB0RTlveUZvNkk2RkdENXllZlVoU1BLWmFOQ3FuTzJMc09fUUdFUGJXWS1IQktsMkVLeHRVaHA5b1lqN3JNSW8wUlFWSUp1U200bWFLdk5UQ3d2U2JxUzFTWTlqWTVsSFBlRFhDa09WVW1mb2I2ODE"
+    },
+    {
       "title": "Does the Equity Term Structure Respond to Monetary Policy Shocks? - Liberty Street Economics",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcGZKaVc1MHU4VUlQTzFVZDNhOTJuN2VsZ1RITGFrRzFNMGNtWFJOT3BQQTRvcUwyLXo4bWNRcWlVaG5KSVpVU3Z1UmpjemUySjhLa1RhT2xBZHdGQ2tBT1JCSkYtZ3YtT2ZUZVNpcDBRYV9qdDdBcGtPbWFCclV4R3RVcDNJbGxyWmpjbHZ4MU9WUTFjcko5R0Vob3MyZmlMV2JHMDgybDdUa0NlcUR6QlBxa21xeHU2S1pv?oc=5",
       "source": "Liberty Street Economics",
@@ -63,28 +71,20 @@
       "guid": "CBMimAFBVV95cUxOZUtKVldWZzhScENJenZBNlc1MHk4X3dHR0d3aDFiSGswSEJpcGs4N2VsZGw1ZXZyd25Wei1fZ2gtVGVUYU1rUXBsLWExeU0zeUViUW5mM2tqXzdXRnNkeGQzUzc5b0ljNkxVSHBxaUNuOEtkbVFCemNuTm0zUUtNcldyYnk4S3JDTE5OSmF0VndJd1NwM2RpTw"
     },
     {
-      "title": "Stock Market Investors Just Got Bad News From the Federal Reserve - finance.yahoo.com",
+      "title": "Stock Market Investors Just Got Bad News From the Federal Reserve - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYmRTTHRPT2xya2JSUFd2Nld3TXFvQlRGUmxsREUwWUFBSERFNm5ITEJLUXYwMTVQRzRScUtKZExpcEloSDFwM2UwV2p2bks0czctZDFtcl80N0VyWUVKWmJLakNLQnNtUG96WW1KUVB1RlN1T1pwZlAyOEtOZ3k3Unc3clpmQ3Zta3BzSGRjTzlOZERPdThFVkNGUmc?oc=5",
-      "source": "finance.yahoo.com",
+      "source": "Yahoo Finance",
       "published_at": "Sun, 09 Aug 2026 07:00:00 GMT",
-      "summary": "Stock Market Investors Just Got Bad News From the Federal Reserve finance.yahoo.com",
+      "summary": "Stock Market Investors Just Got Bad News From the Federal Reserve Yahoo Finance",
       "guid": "CBMinAFBVV95cUxPYmRTTHRPT2xya2JSUFd2Nld3TXFvQlRGUmxsREUwWUFBSERFNm5ITEJLUXYwMTVQRzRScUtKZExpcEloSDFwM2UwV2p2bks0czctZDFtcl80N0VyWUVKWmJLakNLQnNtUG96WW1KUVB1RlN1T1pwZlAyOEtOZ3k3Unc3clpmQ3Zta3BzSGRjTzlOZERPdThFVkNGUmc"
     },
     {
-      "title": "Long-end yields have quietly breached key levels, leaving the Federal Reserve potentially powerless this time. - Moomoo",
+      "title": "Long-end yields have quietly breached key levels, leaving the Federal Reserve potentially powerless this time. - moomoo.com",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVVM1Z1pDdXpEVDJkcWF2TDZab1FQa0U5emF0Nk05M0F3X09SeWxKQ1RIeUN6eU9pSzMxSFQzM3J5bVRGWUswM2FNN2E4MmxTT3VTRldQLTYzd2otVUpEZkJOamZHWjQ4NjBhZWVPS3hFeXNSNkYyaGo5ZlVVbTlsT1ljaTZyM2hybk13RzNjVTZXblZNcHpfN1lQQUJMcTRFSkRrVw?oc=5",
-      "source": "Moomoo",
+      "source": "moomoo.com",
       "published_at": "Tue, 18 Aug 2026 11:29:08 GMT",
-      "summary": "Long-end yields have quietly breached key levels, leaving the Federal Reserve potentially powerless this time. Moomoo",
+      "summary": "Long-end yields have quietly breached key levels, leaving the Federal Reserve potentially powerless this time. moomoo.com",
       "guid": "CBMipAFBVV95cUxOVVM1Z1pDdXpEVDJkcWF2TDZab1FQa0U5emF0Nk05M0F3X09SeWxKQ1RIeUN6eU9pSzMxSFQzM3J5bVRGWUswM2FNN2E4MmxTT3VTRldQLTYzd2otVUpEZkJOamZHWjQ4NjBhZWVPS3hFeXNSNkYyaGo5ZlVVbTlsT1ljaTZyM2hybk13RzNjVTZXblZNcHpfN1lQQUJMcTRFSkRrVw"
-    },
-    {
-      "title": "Treasury doubles debt buybacks as Bessent moves to steady bond market - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQN1dkbVJYY1BSZVN0VHZfNE9NSUVfaklpeUh5LTVLUTltMmxFX296QVNtSmtwYnh2ajZqYnlmRnJYXzc2Qk9CRm1PUnhGeVhTeGhJbVh5R3IwaGZWczhIaTF6WFpRbzRhM2tqekN0V2ZWQUozUHV6ZG9VeHNIRktITHo0bTJRTkxXY2dHd0swRWM1SEhzQTVEYlZ2ZTV1QXIxMEc0VTRzZ0pSRUpieFZsVnc4bEFwbFphUGhqZmxyZTlJd9IBxwFBVV95cUxQYUJJNDU3ZGxHeXNXMENUQXYzY3VVOU1JVmxEb0NJUExweVZiWGRLZmZqTE5HUHpKenJ3NTM0Vzk5UVBFRm1VUEdUOVVoOVBscS1kbmRWTDhHYmV3STdOd0dYOWRRUVZ2TWNSVUY5eTFENklCWTc4WnZoSDdUeHBFQ0NjbG5WOFVVYzRlaTEwT05KU0F6UHl2dXRWaHhCVkY3WVNvb3VDWml3djFhRm9VZFJQU3d1WFh1RG96OHpCdWZqdWlVMlZz?oc=5",
-      "source": "CNBC",
-      "published_at": "Wed, 19 Aug 2026 12:50:20 GMT",
-      "summary": "Treasury doubles debt buybacks as Bessent moves to steady bond market CNBC",
-      "guid": "CBMiwgFBVV95cUxQN1dkbVJYY1BSZVN0VHZfNE9NSUVfaklpeUh5LTVLUTltMmxFX296QVNtSmtwYnh2ajZqYnlmRnJYXzc2Qk9CRm1PUnhGeVhTeGhJbVh5R3IwaGZWczhIaTF6WFpRbzRhM2tqekN0V2ZWQUozUHV6ZG9VeHNIRktITHo0bTJRTkxXY2dHd0swRWM1SEhzQTVEYlZ2ZTV1QXIxMEc0VTRzZ0pSRUpieFZsVnc4bEFwbFphUGhqZmxyZTlJd9IBxwFBVV95cUxQYUJJNDU3ZGxHeXNXMENUQXYzY3VVOU1JVmxEb0NJUExweVZiWGRLZmZqTE5HUHpKenJ3NTM0Vzk5UVBFRm1VUEdUOVVoOVBscS1kbmRWTDhHYmV3STdOd0dYOWRRUVZ2TWNSVUY5eTFENklCWTc4WnZoSDdUeHBFQ0NjbG5WOFVVYzRlaTEwT05KU0F6UHl2dXRWaHhCVkY3WVNvb3VDWml3djFhRm9VZFJQU3d1WFh1RG96OHpCdWZqdWlVMlZz"
     }
   ]
 }
