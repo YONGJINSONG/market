@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T23:34:29Z",
+  "generated_at": "2026-08-19T23:55:46Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -31,14 +31,6 @@
       "guid": "CBMi0wFBVV95cUxQSE1GZlhQcm1pUk9Ga3ZIOG5RVmhLTzZTRnlQTHpnVkhLU19pX0pjcnowSkQxMkxqbGNBN2dMV1poc3BPd2hGNDRpY2FEbGpZRThHeVJwSEVBekZDVlBIMjF0SU1DSHdkZk5haFFpNXo3UzBYbUEwb0c5enBnRElvbkx0cERNQ0V6b1lmSjBYZ0JzQko3N1ZlQ1BQSlFFU0M4U3FVTVF4VUN6cC1GSzhrYjVleWswSm4taXJtVXFLNzJHbVFkV0FucnppOEQ4Z0tJcUhB"
     },
     {
-      "title": "Fed Governor Calls for Federal Digital Asset Rules - Briefs Finance",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPc090bnJ6VWFxVldVXzB0RTlveUZvNkk2RkdENXllZlVoU1BLWmFOQ3FuTzJMc09fUUdFUGJXWS1IQktsMkVLeHRVaHA5b1lqN3JNSW8wUlFWSUp1U200bWFLdk5UQ3d2U2JxUzFTWTlqWTVsSFBlRFhDa09WVW1mb2I2ODE?oc=5",
-      "source": "Briefs Finance",
-      "published_at": "Wed, 19 Aug 2026 21:29:20 GMT",
-      "summary": "Fed Governor Calls for Federal Digital Asset Rules Briefs Finance",
-      "guid": "CBMihAFBVV95cUxPc090bnJ6VWFxVldVXzB0RTlveUZvNkk2RkdENXllZlVoU1BLWmFOQ3FuTzJMc09fUUdFUGJXWS1IQktsMkVLeHRVaHA5b1lqN3JNSW8wUlFWSUp1U200bWFLdk5UQ3d2U2JxUzFTWTlqWTVsSFBlRFhDa09WVW1mb2I2ODE"
-    },
-    {
       "title": "Stock Market Futures Mixed: Dow Jones Gains, Nasdaq 100 Drops as Trump Says 'No Talks' Are Happening With Iran— Keysight Technologies, Mercury Systems, SK Hynix in Focus (UPDATED) - TradingView",
       "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNb21PWlVKRUlUX3ZFc0pkdkpBbDJhVUFxcjhEX0x6YmRNOUVBUmpzUDJmenhMdkFhZFdUNmhFeGwwZHVlMWMxOTNyVFZ2MFpiN1poZS1qcUFSTkN6WnljRmZSM0NkQ0JPeTJrY3BvRUtfNXNDS1IwcmFkLTdLbmZSUk9jOGlCT0RoMHQxRU53cWFORGU4eVNVQUpacnozbGp1dkd1U2xDUVlNNjFaYjIzeTJ5YjQ4NVZvLUlza1E3NUJhOS1pTmhHamMtOTQ0MzBTOW5HaGliYWo1Zm5hYllXRlZLY3p2dmVFZzE1bmNFcWxGVXFUOFlUQzl4cEtubGl3Nlhpc21iTl8xcEQ0TmZyaGpsV1ZDdEdTVk1DNG1ZZDV3WXVWbmtITHNGeUYwamNYTU5PQk9xMUVpRS1KTmk1eEFoeFByR1R6ZEVQUGt3?oc=5",
       "source": "TradingView",
@@ -47,11 +39,11 @@
       "guid": "CBMizgJBVV95cUxNb21PWlVKRUlUX3ZFc0pkdkpBbDJhVUFxcjhEX0x6YmRNOUVBUmpzUDJmenhMdkFhZFdUNmhFeGwwZHVlMWMxOTNyVFZ2MFpiN1poZS1qcUFSTkN6WnljRmZSM0NkQ0JPeTJrY3BvRUtfNXNDS1IwcmFkLTdLbmZSUk9jOGlCT0RoMHQxRU53cWFORGU4eVNVQUpacnozbGp1dkd1U2xDUVlNNjFaYjIzeTJ5YjQ4NVZvLUlza1E3NUJhOS1pTmhHamMtOTQ0MzBTOW5HaGliYWo1Zm5hYllXRlZLY3p2dmVFZzE1bmNFcWxGVXFUOFlUQzl4cEtubGl3Nlhpc21iTl8xcEQ0TmZyaGpsV1ZDdEdTVk1DNG1ZZDV3WXVWbmtITHNGeUYwamNYTU5PQk9xMUVpRS1KTmk1eEFoeFByR1R6ZEVQUGt3"
     },
     {
-      "title": "What the Stock Market’s Record Rally Has to Do With Rescuing the Yen - nytimes.com",
+      "title": "What the Stock Market’s Record Rally Has to Do With Rescuing the Yen - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA1V0ZsTWlIOWFIaWtZXzVQODBRZTI4aTlFYUVGQ05JQUM3V2U2eHd1Z254bWl5M3ZDblJnRkR4QlUxLXpYZ0lDNDI0QzducnRXVDdBWm5aRG5qSmRXZEl5bnhiQ21GbC1ubkhOWWUyYU0yME51WURj?oc=5",
-      "source": "nytimes.com",
+      "source": "The New York Times",
       "published_at": "Wed, 05 Aug 2026 07:00:00 GMT",
-      "summary": "What the Stock Market’s Record Rally Has to Do With Rescuing the Yen nytimes.com",
+      "summary": "What the Stock Market’s Record Rally Has to Do With Rescuing the Yen The New York Times",
       "guid": "CBMid0FVX3lxTFA1V0ZsTWlIOWFIaWtZXzVQODBRZTI4aTlFYUVGQ05JQUM3V2U2eHd1Z254bWl5M3ZDblJnRkR4QlUxLXpYZ0lDNDI0QzducnRXVDdBWm5aRG5qSmRXZEl5bnhiQ21GbC1ubkhOWWUyYU0yME51WURj"
     },
     {
@@ -77,6 +69,14 @@
       "published_at": "Sun, 09 Aug 2026 07:00:00 GMT",
       "summary": "Stock Market Investors Just Got Bad News From the Federal Reserve Yahoo Finance",
       "guid": "CBMinAFBVV95cUxPYmRTTHRPT2xya2JSUFd2Nld3TXFvQlRGUmxsREUwWUFBSERFNm5ITEJLUXYwMTVQRzRScUtKZExpcEloSDFwM2UwV2p2bks0czctZDFtcl80N0VyWUVKWmJLakNLQnNtUG96WW1KUVB1RlN1T1pwZlAyOEtOZ3k3Unc3clpmQ3Zta3BzSGRjTzlOZERPdThFVkNGUmc"
+    },
+    {
+      "title": "Treasury doubles debt buybacks as Bessent moves to steady bond market - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQN1dkbVJYY1BSZVN0VHZfNE9NSUVfaklpeUh5LTVLUTltMmxFX296QVNtSmtwYnh2ajZqYnlmRnJYXzc2Qk9CRm1PUnhGeVhTeGhJbVh5R3IwaGZWczhIaTF6WFpRbzRhM2tqekN0V2ZWQUozUHV6ZG9VeHNIRktITHo0bTJRTkxXY2dHd0swRWM1SEhzQTVEYlZ2ZTV1QXIxMEc0VTRzZ0pSRUpieFZsVnc4bEFwbFphUGhqZmxyZTlJd9IBxwFBVV95cUxQYUJJNDU3ZGxHeXNXMENUQXYzY3VVOU1JVmxEb0NJUExweVZiWGRLZmZqTE5HUHpKenJ3NTM0Vzk5UVBFRm1VUEdUOVVoOVBscS1kbmRWTDhHYmV3STdOd0dYOWRRUVZ2TWNSVUY5eTFENklCWTc4WnZoSDdUeHBFQ0NjbG5WOFVVYzRlaTEwT05KU0F6UHl2dXRWaHhCVkY3WVNvb3VDWml3djFhRm9VZFJQU3d1WFh1RG96OHpCdWZqdWlVMlZz?oc=5",
+      "source": "CNBC",
+      "published_at": "Wed, 19 Aug 2026 12:50:20 GMT",
+      "summary": "Treasury doubles debt buybacks as Bessent moves to steady bond market CNBC",
+      "guid": "CBMiwgFBVV95cUxQN1dkbVJYY1BSZVN0VHZfNE9NSUVfaklpeUh5LTVLUTltMmxFX296QVNtSmtwYnh2ajZqYnlmRnJYXzc2Qk9CRm1PUnhGeVhTeGhJbVh5R3IwaGZWczhIaTF6WFpRbzRhM2tqekN0V2ZWQUozUHV6ZG9VeHNIRktITHo0bTJRTkxXY2dHd0swRWM1SEhzQTVEYlZ2ZTV1QXIxMEc0VTRzZ0pSRUpieFZsVnc4bEFwbFphUGhqZmxyZTlJd9IBxwFBVV95cUxQYUJJNDU3ZGxHeXNXMENUQXYzY3VVOU1JVmxEb0NJUExweVZiWGRLZmZqTE5HUHpKenJ3NTM0Vzk5UVBFRm1VUEdUOVVoOVBscS1kbmRWTDhHYmV3STdOd0dYOWRRUVZ2TWNSVUY5eTFENklCWTc4WnZoSDdUeHBFQ0NjbG5WOFVVYzRlaTEwT05KU0F6UHl2dXRWaHhCVkY3WVNvb3VDWml3djFhRm9VZFJQU3d1WFh1RG96OHpCdWZqdWlVMlZz"
     },
     {
       "title": "Long-end yields have quietly breached key levels, leaving the Federal Reserve potentially powerless this time. - Moomoo",
