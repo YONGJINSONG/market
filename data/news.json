@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T05:00:27Z",
+  "generated_at": "2026-08-20T05:43:12Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,12 +7,20 @@
   },
   "items": [
     {
-      "title": "Bessent acts to break bond market fever, head off rising borrowing costs - The Washington Post",
+      "title": "Bessent acts to break bond market fever, head off rising borrowing costs - washingtonpost.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWEp5ODBDWGVqYUZ1eEdFS1BxODduekpEZFB0Vm9YcmFCeW9IYnV1eUNFeHpJZ3lLT0NMSk9OazBVZE1xZmJvMnlBZjNjSWpodkEtd09CdmpOT0VSQVJvZDNHRWNFQWxMU1ZxR05UOE92SXd6WTllbEhBQUotZjhVVUdZckw5UloxS1JqamtJcGNzVFVwS3hjNXdXR2VjcFJuMnlReWFIN1dLbHBldzhKWndMTTY?oc=5",
-      "source": "The Washington Post",
+      "source": "washingtonpost.com",
       "published_at": "Thu, 20 Aug 2026 02:59:28 GMT",
-      "summary": "Bessent acts to break bond market fever, head off rising borrowing costs The Washington Post",
+      "summary": "Bessent acts to break bond market fever, head off rising borrowing costs washingtonpost.com",
       "guid": "CBMitAFBVV95cUxQWEp5ODBDWGVqYUZ1eEdFS1BxODduekpEZFB0Vm9YcmFCeW9IYnV1eUNFeHpJZ3lLT0NMSk9OazBVZE1xZmJvMnlBZjNjSWpodkEtd09CdmpOT0VSQVJvZDNHRWNFQWxMU1ZxR05UOE92SXd6WTllbEhBQUotZjhVVUdZckw5UloxS1JqamtJcGNzVFVwS3hjNXdXR2VjcFJuMnlReWFIN1dLbHBldzhKWndMTTY"
+    },
+    {
+      "title": "Monetary Policy Stance and Financial Conditions - Atlanta - Federal Reserve Bank",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSE1GZlhQcm1pUk9Ga3ZIOG5RVmhLTzZTRnlQTHpnVkhLU19pX0pjcnowSkQxMkxqbGNBN2dMV1poc3BPd2hGNDRpY2FEbGpZRThHeVJwSEVBekZDVlBIMjF0SU1DSHdkZk5haFFpNXo3UzBYbUEwb0c5enBnRElvbkx0cERNQ0V6b1lmSjBYZ0JzQko3N1ZlQ1BQSlFFU0M4U3FVTVF4VUN6cC1GSzhrYjVleWswSm4taXJtVXFLNzJHbVFkV0FucnppOEQ4Z0tJcUhB?oc=5",
+      "source": "Atlanta - Federal Reserve Bank",
+      "published_at": "Tue, 18 Aug 2026 14:36:50 GMT",
+      "summary": "Monetary Policy Stance and Financial Conditions Atlanta - Federal Reserve Bank",
+      "guid": "CBMi0wFBVV95cUxQSE1GZlhQcm1pUk9Ga3ZIOG5RVmhLTzZTRnlQTHpnVkhLU19pX0pjcnowSkQxMkxqbGNBN2dMV1poc3BPd2hGNDRpY2FEbGpZRThHeVJwSEVBekZDVlBIMjF0SU1DSHdkZk5haFFpNXo3UzBYbUEwb0c5enBnRElvbkx0cERNQ0V6b1lmSjBYZ0JzQko3N1ZlQ1BQSlFFU0M4U3FVTVF4VUN6cC1GSzhrYjVleWswSm4taXJtVXFLNzJHbVFkV0FucnppOEQ4Z0tJcUhB"
     },
     {
       "title": "US treasury doubles debt buyback to steady bond market amid inflation fears - The Guardian",
@@ -23,12 +31,12 @@
       "guid": "CBMimAFBVV95cUxPRGE5RGFuOHBlV1NBOER4NFJnN2NkVWFMYTVOYXQ2YjFjNmlGWUxRTFpZbGRrVDJ6cVBMQ1VxX2RCcUpDVzZfbVk1ME10RGJHeThldTNDYUpGQ1pnd1gyTFdpZVRDY296Z3F6NnBXbjROUDRkdUVKbmFEXzBYLTFDQjl2cnNFSnUxd1NkN3B2LTlvVzZWNDJTMQ"
     },
     {
-      "title": "Monetary Policy Stance and Financial Conditions - Atlanta - Federal Reserve Bank",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSE1GZlhQcm1pUk9Ga3ZIOG5RVmhLTzZTRnlQTHpnVkhLU19pX0pjcnowSkQxMkxqbGNBN2dMV1poc3BPd2hGNDRpY2FEbGpZRThHeVJwSEVBekZDVlBIMjF0SU1DSHdkZk5haFFpNXo3UzBYbUEwb0c5enBnRElvbkx0cERNQ0V6b1lmSjBYZ0JzQko3N1ZlQ1BQSlFFU0M4U3FVTVF4VUN6cC1GSzhrYjVleWswSm4taXJtVXFLNzJHbVFkV0FucnppOEQ4Z0tJcUhB?oc=5",
-      "source": "Atlanta - Federal Reserve Bank",
-      "published_at": "Tue, 18 Aug 2026 14:36:50 GMT",
-      "summary": "Monetary Policy Stance and Financial Conditions Atlanta - Federal Reserve Bank",
-      "guid": "CBMi0wFBVV95cUxQSE1GZlhQcm1pUk9Ga3ZIOG5RVmhLTzZTRnlQTHpnVkhLU19pX0pjcnowSkQxMkxqbGNBN2dMV1poc3BPd2hGNDRpY2FEbGpZRThHeVJwSEVBekZDVlBIMjF0SU1DSHdkZk5haFFpNXo3UzBYbUEwb0c5enBnRElvbkx0cERNQ0V6b1lmSjBYZ0JzQko3N1ZlQ1BQSlFFU0M4U3FVTVF4VUN6cC1GSzhrYjVleWswSm4taXJtVXFLNzJHbVFkV0FucnppOEQ4Z0tJcUhB"
+      "title": "Treasury doubles debt buybacks as Bessent moves to steady bond market - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQN1dkbVJYY1BSZVN0VHZfNE9NSUVfaklpeUh5LTVLUTltMmxFX296QVNtSmtwYnh2ajZqYnlmRnJYXzc2Qk9CRm1PUnhGeVhTeGhJbVh5R3IwaGZWczhIaTF6WFpRbzRhM2tqekN0V2ZWQUozUHV6ZG9VeHNIRktITHo0bTJRTkxXY2dHd0swRWM1SEhzQTVEYlZ2ZTV1QXIxMEc0VTRzZ0pSRUpieFZsVnc4bEFwbFphUGhqZmxyZTlJd9IBxwFBVV95cUxQYUJJNDU3ZGxHeXNXMENUQXYzY3VVOU1JVmxEb0NJUExweVZiWGRLZmZqTE5HUHpKenJ3NTM0Vzk5UVBFRm1VUEdUOVVoOVBscS1kbmRWTDhHYmV3STdOd0dYOWRRUVZ2TWNSVUY5eTFENklCWTc4WnZoSDdUeHBFQ0NjbG5WOFVVYzRlaTEwT05KU0F6UHl2dXRWaHhCVkY3WVNvb3VDWml3djFhRm9VZFJQU3d1WFh1RG96OHpCdWZqdWlVMlZz?oc=5",
+      "source": "CNBC",
+      "published_at": "Wed, 19 Aug 2026 12:50:20 GMT",
+      "summary": "Treasury doubles debt buybacks as Bessent moves to steady bond market CNBC",
+      "guid": "CBMiwgFBVV95cUxQN1dkbVJYY1BSZVN0VHZfNE9NSUVfaklpeUh5LTVLUTltMmxFX296QVNtSmtwYnh2ajZqYnlmRnJYXzc2Qk9CRm1PUnhGeVhTeGhJbVh5R3IwaGZWczhIaTF6WFpRbzRhM2tqekN0V2ZWQUozUHV6ZG9VeHNIRktITHo0bTJRTkxXY2dHd0swRWM1SEhzQTVEYlZ2ZTV1QXIxMEc0VTRzZ0pSRUpieFZsVnc4bEFwbFphUGhqZmxyZTlJd9IBxwFBVV95cUxQYUJJNDU3ZGxHeXNXMENUQXYzY3VVOU1JVmxEb0NJUExweVZiWGRLZmZqTE5HUHpKenJ3NTM0Vzk5UVBFRm1VUEdUOVVoOVBscS1kbmRWTDhHYmV3STdOd0dYOWRRUVZ2TWNSVUY5eTFENklCWTc4WnZoSDdUeHBFQ0NjbG5WOFVVYzRlaTEwT05KU0F6UHl2dXRWaHhCVkY3WVNvb3VDWml3djFhRm9VZFJQU3d1WFh1RG96OHpCdWZqdWlVMlZz"
     },
     {
       "title": "Stock Market Futures Mixed: Dow Jones Gains, Nasdaq 100 Drops as Trump Says 'No Talks' Are Happening With Iran— Keysight Technologies, Mercury Systems, SK Hynix in Focus (UPDATED) - TradingView",
@@ -77,14 +85,6 @@
       "published_at": "Tue, 18 Aug 2026 11:29:08 GMT",
       "summary": "Long-end yields have quietly breached key levels, leaving the Federal Reserve potentially powerless this time. Moomoo",
       "guid": "CBMipAFBVV95cUxOVVM1Z1pDdXpEVDJkcWF2TDZab1FQa0U5emF0Nk05M0F3X09SeWxKQ1RIeUN6eU9pSzMxSFQzM3J5bVRGWUswM2FNN2E4MmxTT3VTRldQLTYzd2otVUpEZkJOamZHWjQ4NjBhZWVPS3hFeXNSNkYyaGo5ZlVVbTlsT1ljaTZyM2hybk13RzNjVTZXblZNcHpfN1lQQUJMcTRFSkRrVw"
-    },
-    {
-      "title": "Treasury doubles debt buybacks as Bessent moves to steady bond market - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQN1dkbVJYY1BSZVN0VHZfNE9NSUVfaklpeUh5LTVLUTltMmxFX296QVNtSmtwYnh2ajZqYnlmRnJYXzc2Qk9CRm1PUnhGeVhTeGhJbVh5R3IwaGZWczhIaTF6WFpRbzRhM2tqekN0V2ZWQUozUHV6ZG9VeHNIRktITHo0bTJRTkxXY2dHd0swRWM1SEhzQTVEYlZ2ZTV1QXIxMEc0VTRzZ0pSRUpieFZsVnc4bEFwbFphUGhqZmxyZTlJd9IBxwFBVV95cUxQYUJJNDU3ZGxHeXNXMENUQXYzY3VVOU1JVmxEb0NJUExweVZiWGRLZmZqTE5HUHpKenJ3NTM0Vzk5UVBFRm1VUEdUOVVoOVBscS1kbmRWTDhHYmV3STdOd0dYOWRRUVZ2TWNSVUY5eTFENklCWTc4WnZoSDdUeHBFQ0NjbG5WOFVVYzRlaTEwT05KU0F6UHl2dXRWaHhCVkY3WVNvb3VDWml3djFhRm9VZFJQU3d1WFh1RG96OHpCdWZqdWlVMlZz?oc=5",
-      "source": "CNBC",
-      "published_at": "Wed, 19 Aug 2026 12:50:20 GMT",
-      "summary": "Treasury doubles debt buybacks as Bessent moves to steady bond market CNBC",
-      "guid": "CBMiwgFBVV95cUxQN1dkbVJYY1BSZVN0VHZfNE9NSUVfaklpeUh5LTVLUTltMmxFX296QVNtSmtwYnh2ajZqYnlmRnJYXzc2Qk9CRm1PUnhGeVhTeGhJbVh5R3IwaGZWczhIaTF6WFpRbzRhM2tqekN0V2ZWQUozUHV6ZG9VeHNIRktITHo0bTJRTkxXY2dHd0swRWM1SEhzQTVEYlZ2ZTV1QXIxMEc0VTRzZ0pSRUpieFZsVnc4bEFwbFphUGhqZmxyZTlJd9IBxwFBVV95cUxQYUJJNDU3ZGxHeXNXMENUQXYzY3VVOU1JVmxEb0NJUExweVZiWGRLZmZqTE5HUHpKenJ3NTM0Vzk5UVBFRm1VUEdUOVVoOVBscS1kbmRWTDhHYmV3STdOd0dYOWRRUVZ2TWNSVUY5eTFENklCWTc4WnZoSDdUeHBFQ0NjbG5WOFVVYzRlaTEwT05KU0F6UHl2dXRWaHhCVkY3WVNvb3VDWml3djFhRm9VZFJQU3d1WFh1RG96OHpCdWZqdWlVMlZz"
     }
   ]
 }
