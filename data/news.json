@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T11:15:43Z",
+  "generated_at": "2026-08-20T11:49:01Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -34,7 +34,7 @@
       "title": "Stock Market Today: Treasury Buybacks Lift Tech as Chips, Crypto and Moderna Lead - investingLive",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNkRiaGxKd2dkSkRtbl84WDVOVDdicFFmcUdPOGZTTy1lS2pVQVBHZGI4YTgzZ010cENNSEZsaFh5bHZPZ2Y5OXFvUDdHSUVUYmNBblJZaG1OeUwxRXZNWkxwM0dYNUk2QmtoSTFDVDgtLVVXbzJUWDVYZE5fRGdnYUNZTEV6M2U5UHlBY3VJX0JkVDNpMjRBMjF6YUhNWHRnZTlmRE40UUlkbDMxTEo1NXd0dw?oc=5",
       "source": "investingLive",
-      "published_at": "Thu, 20 Aug 2026 07:36:10 GMT",
+      "published_at": "Thu, 20 Aug 2026 07:16:50 GMT",
       "summary": "Stock Market Today: Treasury Buybacks Lift Tech as Chips, Crypto and Moderna Lead investingLive",
       "guid": "CBMiswFBVV95cUxQNkRiaGxKd2dkSkRtbl84WDVOVDdicFFmcUdPOGZTTy1lS2pVQVBHZGI4YTgzZ010cENNSEZsaFh5bHZPZ2Y5OXFvUDdHSUVUYmNBblJZaG1OeUwxRXZNWkxwM0dYNUk2QmtoSTFDVDgtLVVXbzJUWDVYZE5fRGdnYUNZTEV6M2U5UHlBY3VJX0JkVDNpMjRBMjF6YUhNWHRnZTlmRE40UUlkbDMxTEo1NXd0dw"
     },
@@ -71,20 +71,20 @@
       "guid": "CBMiuwFBVV95cUxPcGZKaVc1MHU4VUlQTzFVZDNhOTJuN2VsZ1RITGFrRzFNMGNtWFJOT3BQQTRvcUwyLXo4bWNRcWlVaG5KSVpVU3Z1UmpjemUySjhLa1RhT2xBZHdGQ2tBT1JCSkYtZ3YtT2ZUZVNpcDBRYV9qdDdBcGtPbWFCclV4R3RVcDNJbGxyWmpjbHZ4MU9WUTFjcko5R0Vob3MyZmlMV2JHMDgybDdUa0NlcUR6QlBxa21xeHU2S1pv"
     },
     {
-      "title": "Stock Market Futures Mixed: Dow Jones Gains, Nasdaq 100 Drops as Trump Says 'No Talks' Are Happening With Iran— Keysight Technologies, Mercury Systems, SK Hynix in Focus (UPDATED) - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNb21PWlVKRUlUX3ZFc0pkdkpBbDJhVUFxcjhEX0x6YmRNOUVBUmpzUDJmenhMdkFhZFdUNmhFeGwwZHVlMWMxOTNyVFZ2MFpiN1poZS1qcUFSTkN6WnljRmZSM0NkQ0JPeTJrY3BvRUtfNXNDS1IwcmFkLTdLbmZSUk9jOGlCT0RoMHQxRU53cWFORGU4eVNVQUpacnozbGp1dkd1U2xDUVlNNjFaYjIzeTJ5YjQ4NVZvLUlza1E3NUJhOS1pTmhHamMtOTQ0MzBTOW5HaGliYWo1Zm5hYllXRlZLY3p2dmVFZzE1bmNFcWxGVXFUOFlUQzl4cEtubGl3Nlhpc21iTl8xcEQ0TmZyaGpsV1ZDdEdTVk1DNG1ZZDV3WXVWbmtITHNGeUYwamNYTU5PQk9xMUVpRS1KTmk1eEFoeFByR1R6ZEVQUGt3?oc=5",
-      "source": "TradingView",
-      "published_at": "Wed, 19 Aug 2026 12:32:40 GMT",
-      "summary": "Stock Market Futures Mixed: Dow Jones Gains, Nasdaq 100 Drops as Trump Says 'No Talks' Are Happening With Iran— Keysight Technologies, Mercury Systems, SK Hynix in Focus (UPDATED) TradingView",
-      "guid": "CBMizgJBVV95cUxNb21PWlVKRUlUX3ZFc0pkdkpBbDJhVUFxcjhEX0x6YmRNOUVBUmpzUDJmenhMdkFhZFdUNmhFeGwwZHVlMWMxOTNyVFZ2MFpiN1poZS1qcUFSTkN6WnljRmZSM0NkQ0JPeTJrY3BvRUtfNXNDS1IwcmFkLTdLbmZSUk9jOGlCT0RoMHQxRU53cWFORGU4eVNVQUpacnozbGp1dkd1U2xDUVlNNjFaYjIzeTJ5YjQ4NVZvLUlza1E3NUJhOS1pTmhHamMtOTQ0MzBTOW5HaGliYWo1Zm5hYllXRlZLY3p2dmVFZzE1bmNFcWxGVXFUOFlUQzl4cEtubGl3Nlhpc21iTl8xcEQ0TmZyaGpsV1ZDdEdTVk1DNG1ZZDV3WXVWbmtITHNGeUYwamNYTU5PQk9xMUVpRS1KTmk1eEFoeFByR1R6ZEVQUGt3"
-    },
-    {
       "title": "Stock Market Investors Just Got Bad News From the Federal Reserve - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU0x1Uml3U2JwWVNjbDZjSUNkWVBTUkE3Vk5FS09sWFp3VE5kRDBYckZkUDU2c05uaVBsRTI0RXZXQmw5ZndNSk5BdUVUY01jNGNoOXhCRUtyc1dkTll0ZFJvOFhDbGtiT3l1NmpOdk5Lc3JHdktBU29XMjR2YXNaZHVQYmotMlItZVNPVkVabGhSMDJ2?oc=5",
       "source": "The Motley Fool",
       "published_at": "Sun, 09 Aug 2026 07:00:00 GMT",
       "summary": "Stock Market Investors Just Got Bad News From the Federal Reserve The Motley Fool",
       "guid": "CBMilAFBVV95cUxQU0x1Uml3U2JwWVNjbDZjSUNkWVBTUkE3Vk5FS09sWFp3VE5kRDBYckZkUDU2c05uaVBsRTI0RXZXQmw5ZndNSk5BdUVUY01jNGNoOXhCRUtyc1dkTll0ZFJvOFhDbGtiT3l1NmpOdk5Lc3JHdktBU29XMjR2YXNaZHVQYmotMlItZVNPVkVabGhSMDJ2"
+    },
+    {
+      "title": "Stock Market Futures Mixed: Dow Jones Gains, Nasdaq 100 Drops as Trump Says 'No Talks' Are Happening With Iran— Keysight Technologies, Mercury Systems, SK Hynix in Focus (UPDATED) - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNb21PWlVKRUlUX3ZFc0pkdkpBbDJhVUFxcjhEX0x6YmRNOUVBUmpzUDJmenhMdkFhZFdUNmhFeGwwZHVlMWMxOTNyVFZ2MFpiN1poZS1qcUFSTkN6WnljRmZSM0NkQ0JPeTJrY3BvRUtfNXNDS1IwcmFkLTdLbmZSUk9jOGlCT0RoMHQxRU53cWFORGU4eVNVQUpacnozbGp1dkd1U2xDUVlNNjFaYjIzeTJ5YjQ4NVZvLUlza1E3NUJhOS1pTmhHamMtOTQ0MzBTOW5HaGliYWo1Zm5hYllXRlZLY3p2dmVFZzE1bmNFcWxGVXFUOFlUQzl4cEtubGl3Nlhpc21iTl8xcEQ0TmZyaGpsV1ZDdEdTVk1DNG1ZZDV3WXVWbmtITHNGeUYwamNYTU5PQk9xMUVpRS1KTmk1eEFoeFByR1R6ZEVQUGt3?oc=5",
+      "source": "TradingView",
+      "published_at": "Wed, 19 Aug 2026 12:32:40 GMT",
+      "summary": "Stock Market Futures Mixed: Dow Jones Gains, Nasdaq 100 Drops as Trump Says 'No Talks' Are Happening With Iran— Keysight Technologies, Mercury Systems, SK Hynix in Focus (UPDATED) TradingView",
+      "guid": "CBMizgJBVV95cUxNb21PWlVKRUlUX3ZFc0pkdkpBbDJhVUFxcjhEX0x6YmRNOUVBUmpzUDJmenhMdkFhZFdUNmhFeGwwZHVlMWMxOTNyVFZ2MFpiN1poZS1qcUFSTkN6WnljRmZSM0NkQ0JPeTJrY3BvRUtfNXNDS1IwcmFkLTdLbmZSUk9jOGlCT0RoMHQxRU53cWFORGU4eVNVQUpacnozbGp1dkd1U2xDUVlNNjFaYjIzeTJ5YjQ4NVZvLUlza1E3NUJhOS1pTmhHamMtOTQ0MzBTOW5HaGliYWo1Zm5hYllXRlZLY3p2dmVFZzE1bmNFcWxGVXFUOFlUQzl4cEtubGl3Nlhpc21iTl8xcEQ0TmZyaGpsV1ZDdEdTVk1DNG1ZZDV3WXVWbmtITHNGeUYwamNYTU5PQk9xMUVpRS1KTmk1eEFoeFByR1R6ZEVQUGt3"
     }
   ]
 }
