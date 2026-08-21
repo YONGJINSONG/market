@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-08-20T23:56:52Z",
+  "generated_at": "2026-08-21T00:53:18Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "Opinion: The bond market is going to burst the stock-market bubble - MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPS2o2SDREdjdxbm5NUnJGMkVjT2JULVYzZ1Rfamx6Sy16WDdmNkoyMERXVEVtZkxXc0NlMkxraFRXaTdUUlJ2MnYtOV9UZUtEZm5BNlU0RUdGVkpIcmZzS1hxc0dDeVl2WWRXQTlmS1IyT2FPZEpuR3hnM0NFVEstX3dVY0NhUGpBZ0lVTDk5WWVSUEJfT2VnelJkQXIwWno1bVE?oc=5",
+      "source": "MarketWatch",
+      "published_at": "Thu, 20 Aug 2026 19:06:00 GMT",
+      "summary": "Opinion: The bond market is going to burst the stock-market bubble MarketWatch",
+      "guid": "CBMiogFBVV95cUxPS2o2SDREdjdxbm5NUnJGMkVjT2JULVYzZ1Rfamx6Sy16WDdmNkoyMERXVEVtZkxXc0NlMkxraFRXaTdUUlJ2MnYtOV9UZUtEZm5BNlU0RUdGVkpIcmZzS1hxc0dDeVl2WWRXQTlmS1IyT2FPZEpuR3hnM0NFVEstX3dVY0NhUGpBZ0lVTDk5WWVSUEJfT2VnelJkQXIwWno1bVE"
+    },
     {
       "title": "Bessent acts to break bond market fever, head off rising borrowing costs - The Washington Post",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWEp5ODBDWGVqYUZ1eEdFS1BxODduekpEZFB0Vm9YcmFCeW9IYnV1eUNFeHpJZ3lLT0NMSk9OazBVZE1xZmJvMnlBZjNjSWpodkEtd09CdmpOT0VSQVJvZDNHRWNFQWxMU1ZxR05UOE92SXd6WTllbEhBQUotZjhVVUdZckw5UloxS1JqamtJcGNzVFVwS3hjNXdXR2VjcFJuMnlReWFIN1dLbHBldzhKWndMTTY?oc=5",
@@ -23,20 +31,20 @@
       "guid": "CBMi0wFBVV95cUxQSE1GZlhQcm1pUk9Ga3ZIOG5RVmhLTzZTRnlQTHpnVkhLU19pX0pjcnowSkQxMkxqbGNBN2dMV1poc3BPd2hGNDRpY2FEbGpZRThHeVJwSEVBekZDVlBIMjF0SU1DSHdkZk5haFFpNXo3UzBYbUEwb0c5enBnRElvbkx0cERNQ0V6b1lmSjBYZ0JzQko3N1ZlQ1BQSlFFU0M4U3FVTVF4VUN6cC1GSzhrYjVleWswSm4taXJtVXFLNzJHbVFkV0FucnppOEQ4Z0tJcUhB"
     },
     {
-      "title": "Treasury's upsized buybacks may complicate Fed's monetary policy work - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeUNFNVY4V1prRFU5SG40RlZMSHNaWkI2dDBMeGNxWVpEcExuU2FsRU03cDBkWWJvLThHWXhmZy1tWW15VnNnRDVYTlJwODIyb21PczdaZzVUc25WRmQzb0drazZaM2xTcEYtYmF0LWtUdjJyNl9ueHB6bjBuUHJPN2NTUE5NaURMNVV6bTk2MzZCb1RwR0lEN0ZOYkMwM0tFZG5CZ1F2RHdhWmVQamJNUm1Nb1VKeUFJTHZkckY1WG4?oc=5",
-      "source": "Reuters",
-      "published_at": "Thu, 20 Aug 2026 05:01:00 GMT",
-      "summary": "Treasury's upsized buybacks may complicate Fed's monetary policy work Reuters",
-      "guid": "CBMiwAFBVV95cUxOeUNFNVY4V1prRFU5SG40RlZMSHNaWkI2dDBMeGNxWVpEcExuU2FsRU03cDBkWWJvLThHWXhmZy1tWW15VnNnRDVYTlJwODIyb21PczdaZzVUc25WRmQzb0drazZaM2xTcEYtYmF0LWtUdjJyNl9ueHB6bjBuUHJPN2NTUE5NaURMNVV6bTk2MzZCb1RwR0lEN0ZOYkMwM0tFZG5CZ1F2RHdhWmVQamJNUm1Nb1VKeUFJTHZkckY1WG4"
-    },
-    {
       "title": "Ex-Fed Chief Dudley Warns Stocks Are in Bubble Territory as Treasury Boosts Buybacks - BeInCrypto",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE04cVFONVBZamR2NXBlYm9QN3k3cndZd0FWcTlubzYxQWVkTjNack8xV3RaOWwtaVhiVjdpd2w0eXFsQ1NFVTNqLXZHWEV4Ym5NS0x2YU55M3daRTVxS2UzRWFJZHFuQQ?oc=5",
       "source": "BeInCrypto",
       "published_at": "Thu, 20 Aug 2026 23:28:00 GMT",
       "summary": "Ex-Fed Chief Dudley Warns Stocks Are in Bubble Territory as Treasury Boosts Buybacks BeInCrypto",
       "guid": "CBMiZkFVX3lxTE04cVFONVBZamR2NXBlYm9QN3k3cndZd0FWcTlubzYxQWVkTjNack8xV3RaOWwtaVhiVjdpd2w0eXFsQ1NFVTNqLXZHWEV4Ym5NS0x2YU55M3daRTVxS2UzRWFJZHFuQQ"
+    },
+    {
+      "title": "Treasury's upsized buybacks may complicate Fed's monetary policy work - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeUNFNVY4V1prRFU5SG40RlZMSHNaWkI2dDBMeGNxWVpEcExuU2FsRU03cDBkWWJvLThHWXhmZy1tWW15VnNnRDVYTlJwODIyb21PczdaZzVUc25WRmQzb0drazZaM2xTcEYtYmF0LWtUdjJyNl9ueHB6bjBuUHJPN2NTUE5NaURMNVV6bTk2MzZCb1RwR0lEN0ZOYkMwM0tFZG5CZ1F2RHdhWmVQamJNUm1Nb1VKeUFJTHZkckY1WG4?oc=5",
+      "source": "Reuters",
+      "published_at": "Thu, 20 Aug 2026 05:01:00 GMT",
+      "summary": "Treasury's upsized buybacks may complicate Fed's monetary policy work Reuters",
+      "guid": "CBMiwAFBVV95cUxOeUNFNVY4V1prRFU5SG40RlZMSHNaWkI2dDBMeGNxWVpEcExuU2FsRU03cDBkWWJvLThHWXhmZy1tWW15VnNnRDVYTlJwODIyb21PczdaZzVUc25WRmQzb0drazZaM2xTcEYtYmF0LWtUdjJyNl9ueHB6bjBuUHJPN2NTUE5NaURMNVV6bTk2MzZCb1RwR0lEN0ZOYkMwM0tFZG5CZ1F2RHdhWmVQamJNUm1Nb1VKeUFJTHZkckY1WG4"
     },
     {
       "title": "What the Stock Market’s Record Rally Has to Do With Rescuing the Yen - The New York Times",
@@ -53,14 +61,6 @@
       "published_at": "Thu, 20 Aug 2026 07:46:35 GMT",
       "summary": "Stock Market Today: Treasury Buybacks Lift Tech as Chips, Crypto and Moderna Lead investingLive",
       "guid": "CBMiswFBVV95cUxQNkRiaGxKd2dkSkRtbl84WDVOVDdicFFmcUdPOGZTTy1lS2pVQVBHZGI4YTgzZ010cENNSEZsaFh5bHZPZ2Y5OXFvUDdHSUVUYmNBblJZaG1OeUwxRXZNWkxwM0dYNUk2QmtoSTFDVDgtLVVXbzJUWDVYZE5fRGdnYUNZTEV6M2U5UHlBY3VJX0JkVDNpMjRBMjF6YUhNWHRnZTlmRE40UUlkbDMxTEo1NXd0dw"
-    },
-    {
-      "title": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says a Big Drop Could Follow. - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSG5UVUo2Qjc0QmZXVkZkVG5DNDFUMHJVT3ZDUHZzOFBVOXVuWk55aE9ZcDVOVEFJa3Y5ZHpjNWx4YWgtb3VfSjRHQUJXMFJIV3lPcTFDSjFadXBmdENDeGx2eGMyZ2NVRjM2Mk9RYlU3X1B2OGMwWmR6ajgtMWxQUmFCMER2R1gxZk52LVZYWW1lVkxxeWp2S3dpVjA?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Wed, 01 Jul 2026 07:00:00 GMT",
-      "summary": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says a Big Drop Could Follow. Yahoo Finance",
-      "guid": "CBMinAFBVV95cUxPSG5UVUo2Qjc0QmZXVkZkVG5DNDFUMHJVT3ZDUHZzOFBVOXVuWk55aE9ZcDVOVEFJa3Y5ZHpjNWx4YWgtb3VfSjRHQUJXMFJIV3lPcTFDSjFadXBmdENDeGx2eGMyZ2NVRjM2Mk9RYlU3X1B2OGMwWmR6ajgtMWxQUmFCMER2R1gxZk52LVZYWW1lVkxxeWp2S3dpVjA"
     },
     {
       "title": "Treasury doubles debt buybacks as Bessent moves to steady bond market - CNBC",
