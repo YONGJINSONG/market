@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T21:44:46Z",
+  "generated_at": "2026-08-21T21:59:34Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,20 +7,20 @@
   },
   "items": [
     {
-      "title": "Bessent acts to break bond market fever, head off rising borrowing costs - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWEp5ODBDWGVqYUZ1eEdFS1BxODduekpEZFB0Vm9YcmFCeW9IYnV1eUNFeHpJZ3lLT0NMSk9OazBVZE1xZmJvMnlBZjNjSWpodkEtd09CdmpOT0VSQVJvZDNHRWNFQWxMU1ZxR05UOE92SXd6WTllbEhBQUotZjhVVUdZckw5UloxS1JqamtJcGNzVFVwS3hjNXdXR2VjcFJuMnlReWFIN1dLbHBldzhKWndMTTY?oc=5",
-      "source": "The Washington Post",
-      "published_at": "Thu, 20 Aug 2026 02:59:28 GMT",
-      "summary": "Bessent acts to break bond market fever, head off rising borrowing costs The Washington Post",
-      "guid": "CBMitAFBVV95cUxQWEp5ODBDWGVqYUZ1eEdFS1BxODduekpEZFB0Vm9YcmFCeW9IYnV1eUNFeHpJZ3lLT0NMSk9OazBVZE1xZmJvMnlBZjNjSWpodkEtd09CdmpOT0VSQVJvZDNHRWNFQWxMU1ZxR05UOE92SXd6WTllbEhBQUotZjhVVUdZckw5UloxS1JqamtJcGNzVFVwS3hjNXdXR2VjcFJuMnlReWFIN1dLbHBldzhKWndMTTY"
-    },
-    {
       "title": "The Federal Government Has Borrowed Trillions. Who Owns All that Debt? - Peter G. Peterson Foundation",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPU2JGWkFQbjItRUg5RXhBbEloTkZtMnZ5QXlNVG00U050QzgzMVhJM1RVdUNhcXJWVmJFR1RVTTF3Q0dTc19sR3JfNG05SEVMX3V6c000SURJSHFOOHpKVUtJTlNKb0tqemdjSWVZTU5pMjFHbVI0NzNmOHlEdDJUU3Exb0Y2eXdqUlhOaVdiZUZUS3dPQ2FVbkdzZ1o5UUxsS29rSQ?oc=5",
       "source": "Peter G. Peterson Foundation",
       "published_at": "Wed, 19 Aug 2026 07:00:00 GMT",
       "summary": "The Federal Government Has Borrowed Trillions. Who Owns All that Debt? Peter G. Peterson Foundation",
       "guid": "CBMipAFBVV95cUxPU2JGWkFQbjItRUg5RXhBbEloTkZtMnZ5QXlNVG00U050QzgzMVhJM1RVdUNhcXJWVmJFR1RVTTF3Q0dTc19sR3JfNG05SEVMX3V6c000SURJSHFOOHpKVUtJTlNKb0tqemdjSWVZTU5pMjFHbVI0NzNmOHlEdDJUU3Exb0Y2eXdqUlhOaVdiZUZUS3dPQ2FVbkdzZ1o5UUxsS29rSQ"
+    },
+    {
+      "title": "Bessent acts to break bond market fever, head off rising borrowing costs - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWEp5ODBDWGVqYUZ1eEdFS1BxODduekpEZFB0Vm9YcmFCeW9IYnV1eUNFeHpJZ3lLT0NMSk9OazBVZE1xZmJvMnlBZjNjSWpodkEtd09CdmpOT0VSQVJvZDNHRWNFQWxMU1ZxR05UOE92SXd6WTllbEhBQUotZjhVVUdZckw5UloxS1JqamtJcGNzVFVwS3hjNXdXR2VjcFJuMnlReWFIN1dLbHBldzhKWndMTTY?oc=5",
+      "source": "The Washington Post",
+      "published_at": "Thu, 20 Aug 2026 02:59:28 GMT",
+      "summary": "Bessent acts to break bond market fever, head off rising borrowing costs The Washington Post",
+      "guid": "CBMitAFBVV95cUxQWEp5ODBDWGVqYUZ1eEdFS1BxODduekpEZFB0Vm9YcmFCeW9IYnV1eUNFeHpJZ3lLT0NMSk9OazBVZE1xZmJvMnlBZjNjSWpodkEtd09CdmpOT0VSQVJvZDNHRWNFQWxMU1ZxR05UOE92SXd6WTllbEhBQUotZjhVVUdZckw5UloxS1JqamtJcGNzVFVwS3hjNXdXR2VjcFJuMnlReWFIN1dLbHBldzhKWndMTTY"
     },
     {
       "title": "What to Look Out for in Economic Data This Week (August 17-21) - Kiplinger",
@@ -39,14 +39,6 @@
       "guid": "CBMiogFBVV95cUxPS2o2SDREdjdxbm5NUnJGMkVjT2JULVYzZ1Rfamx6Sy16WDdmNkoyMERXVEVtZkxXc0NlMkxraFRXaTdUUlJ2MnYtOV9UZUtEZm5BNlU0RUdGVkpIcmZzS1hxc0dDeVl2WWRXQTlmS1IyT2FPZEpuR3hnM0NFVEstX3dVY0NhUGpBZ0lVTDk5WWVSUEJfT2VnelJkQXIwWno1bVE"
     },
     {
-      "title": "The Bond Market Is Signaling Rising Risks. Investors Should Listen. - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZlhBejhhZWNUdDRiX05LWHFRaGJhX0ltazRRWTFPZWdvazNWX0U1WDg4NmpIb0swb1dsR21KTzg2MUc5Z21ORnJXdWFxX2xybjdsOG1lUnV4aWs3TWw3QmR5TUFfMDZ5Qkc5WVhxSWVXT2dUZDVneUxqRms3V1dBeDJvUzJtT1R4Z01NYlZNbXBBNnVBWWdF?oc=5",
-      "source": "The New York Times",
-      "published_at": "Fri, 07 Aug 2026 07:00:00 GMT",
-      "summary": "The Bond Market Is Signaling Rising Risks. Investors Should Listen. The New York Times",
-      "guid": "CBMilwFBVV95cUxNZlhBejhhZWNUdDRiX05LWHFRaGJhX0ltazRRWTFPZWdvazNWX0U1WDg4NmpIb0swb1dsR21KTzg2MUc5Z21ORnJXdWFxX2xybjdsOG1lUnV4aWs3TWw3QmR5TUFfMDZ5Qkc5WVhxSWVXT2dUZDVneUxqRms3V1dBeDJvUzJtT1R4Z01NYlZNbXBBNnVBWWdF"
-    },
-    {
       "title": "The Fed meeting, Ford earnings, Trump's investment portfolio and more in Morning Squawk - CNBC",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeHVlRjk1NnoyeDVNQV9JeDlmSEhFdE1ObTQ4TUFOTXplaXYzR1RHTGJKWlJ2UHFBclY0T0xTY0ltYzRXSGZsWnc1MnZ6RjRveU1sYU4wdG5zaW5VNHc4UHBFOHFENUNvVThsMWJXaDNxaGJNZjhpczdjSVpjbVFqUGQ1MHZYUHdiWlhz0gGQAUFVX3lxTE9OVUcyQXZCZV83dWk0VDNEeFM4R1R1OWtvM2NZUktFOE5VNGsyMDZKeHVNOUxDMS02RFFfQkZFRXZNbkYtcVpHbnZ6NjRfNERSTXAyVlVBWF81N3FFaUIzZ2JZUHZndWNnM1ZwVTllYVI0YnVqYnF3YlJhLVBwSlkwcU45akE3Y3labTJtRlo4Rw?oc=5",
       "source": "CNBC",
@@ -55,20 +47,12 @@
       "guid": "CBMiiwFBVV95cUxNeHVlRjk1NnoyeDVNQV9JeDlmSEhFdE1ObTQ4TUFOTXplaXYzR1RHTGJKWlJ2UHFBclY0T0xTY0ltYzRXSGZsWnc1MnZ6RjRveU1sYU4wdG5zaW5VNHc4UHBFOHFENUNvVThsMWJXaDNxaGJNZjhpczdjSVpjbVFqUGQ1MHZYUHdiWlhz0gGQAUFVX3lxTE9OVUcyQXZCZV83dWk0VDNEeFM4R1R1OWtvM2NZUktFOE5VNGsyMDZKeHVNOUxDMS02RFFfQkZFRXZNbkYtcVpHbnZ6NjRfNERSTXAyVlVBWF81N3FFaUIzZ2JZUHZndWNnM1ZwVTllYVI0YnVqYnF3YlJhLVBwSlkwcU45akE3Y3labTJtRlo4Rw"
     },
     {
-      "title": "Stock Market Investors Just Got Bad News From the Federal Reserve - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYmRTTHRPT2xya2JSUFd2Nld3TXFvQlRGUmxsREUwWUFBSERFNm5ITEJLUXYwMTVQRzRScUtKZExpcEloSDFwM2UwV2p2bks0czctZDFtcl80N0VyWUVKWmJLakNLQnNtUG96WW1KUVB1RlN1T1pwZlAyOEtOZ3k3Unc3clpmQ3Zta3BzSGRjTzlOZERPdThFVkNGUmc?oc=5",
+      "title": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says a Big Drop Could Follow. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSG5UVUo2Qjc0QmZXVkZkVG5DNDFUMHJVT3ZDUHZzOFBVOXVuWk55aE9ZcDVOVEFJa3Y5ZHpjNWx4YWgtb3VfSjRHQUJXMFJIV3lPcTFDSjFadXBmdENDeGx2eGMyZ2NVRjM2Mk9RYlU3X1B2OGMwWmR6ajgtMWxQUmFCMER2R1gxZk52LVZYWW1lVkxxeWp2S3dpVjA?oc=5",
       "source": "Yahoo Finance",
-      "published_at": "Sun, 09 Aug 2026 07:00:00 GMT",
-      "summary": "Stock Market Investors Just Got Bad News From the Federal Reserve Yahoo Finance",
-      "guid": "CBMinAFBVV95cUxPYmRTTHRPT2xya2JSUFd2Nld3TXFvQlRGUmxsREUwWUFBSERFNm5ITEJLUXYwMTVQRzRScUtKZExpcEloSDFwM2UwV2p2bks0czctZDFtcl80N0VyWUVKWmJLakNLQnNtUG96WW1KUVB1RlN1T1pwZlAyOEtOZ3k3Unc3clpmQ3Zta3BzSGRjTzlOZERPdThFVkNGUmc"
-    },
-    {
-      "title": "Technology Stocks Lift Equities as Treasuries Rise: Markets Wrap - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRm5iVEpILVhFaFAzUHBRYWlac1czaWdxenR2dUd5dEN1T2dkcDFxbTBBenhacUlMVGlLSW1PUFp3Z2phVk51TTFiUEVCMHZiUWt0UDNka1Itbi16Mm8wOWswRUswUE1IR2VhVVhBNFFkbm5QWlZpN1FZdU85cXJGREZzYVdiUTU5OGVkQXFDbWN2dnVF?oc=5",
-      "source": "Bloomberg.com",
-      "published_at": "Sun, 16 Aug 2026 22:14:58 GMT",
-      "summary": "Technology Stocks Lift Equities as Treasuries Rise: Markets Wrap Bloomberg.com",
-      "guid": "CBMilAFBVV95cUxPRm5iVEpILVhFaFAzUHBRYWlac1czaWdxenR2dUd5dEN1T2dkcDFxbTBBenhacUlMVGlLSW1PUFp3Z2phVk51TTFiUEVCMHZiUWt0UDNka1Itbi16Mm8wOWswRUswUE1IR2VhVVhBNFFkbm5QWlZpN1FZdU85cXJGREZzYVdiUTU5OGVkQXFDbWN2dnVF"
+      "published_at": "Wed, 01 Jul 2026 07:00:00 GMT",
+      "summary": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says a Big Drop Could Follow. Yahoo Finance",
+      "guid": "CBMinAFBVV95cUxPSG5UVUo2Qjc0QmZXVkZkVG5DNDFUMHJVT3ZDUHZzOFBVOXVuWk55aE9ZcDVOVEFJa3Y5ZHpjNWx4YWgtb3VfSjRHQUJXMFJIV3lPcTFDSjFadXBmdENDeGx2eGMyZ2NVRjM2Mk9RYlU3X1B2OGMwWmR6ajgtMWxQUmFCMER2R1gxZk52LVZYWW1lVkxxeWp2S3dpVjA"
     },
     {
       "title": "Treasury's upsized buybacks may complicate Fed's monetary policy work - Reuters",
@@ -79,12 +63,28 @@
       "guid": "CBMiwAFBVV95cUxOeUNFNVY4V1prRFU5SG40RlZMSHNaWkI2dDBMeGNxWVpEcExuU2FsRU03cDBkWWJvLThHWXhmZy1tWW15VnNnRDVYTlJwODIyb21PczdaZzVUc25WRmQzb0drazZaM2xTcEYtYmF0LWtUdjJyNl9ueHB6bjBuUHJPN2NTUE5NaURMNVV6bTk2MzZCb1RwR0lEN0ZOYkMwM0tFZG5CZ1F2RHdhWmVQamJNUm1Nb1VKeUFJTHZkckY1WG4"
     },
     {
-      "title": "Does the Equity Term Structure Respond to Monetary Policy Shocks? - Liberty Street Economics",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcGZKaVc1MHU4VUlQTzFVZDNhOTJuN2VsZ1RITGFrRzFNMGNtWFJOT3BQQTRvcUwyLXo4bWNRcWlVaG5KSVpVU3Z1UmpjemUySjhLa1RhT2xBZHdGQ2tBT1JCSkYtZ3YtT2ZUZVNpcDBRYV9qdDdBcGtPbWFCclV4R3RVcDNJbGxyWmpjbHZ4MU9WUTFjcko5R0Vob3MyZmlMV2JHMDgybDdUa0NlcUR6QlBxa21xeHU2S1pv?oc=5",
-      "source": "Liberty Street Economics",
-      "published_at": "Wed, 12 Aug 2026 11:00:26 GMT",
-      "summary": "Does the Equity Term Structure Respond to Monetary Policy Shocks? Liberty Street Economics",
-      "guid": "CBMiuwFBVV95cUxPcGZKaVc1MHU4VUlQTzFVZDNhOTJuN2VsZ1RITGFrRzFNMGNtWFJOT3BQQTRvcUwyLXo4bWNRcWlVaG5KSVpVU3Z1UmpjemUySjhLa1RhT2xBZHdGQ2tBT1JCSkYtZ3YtT2ZUZVNpcDBRYV9qdDdBcGtPbWFCclV4R3RVcDNJbGxyWmpjbHZ4MU9WUTFjcko5R0Vob3MyZmlMV2JHMDgybDdUa0NlcUR6QlBxa21xeHU2S1pv"
+      "title": "Technology Stocks Lift Equities as Treasuries Rise: Markets Wrap - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRm5iVEpILVhFaFAzUHBRYWlac1czaWdxenR2dUd5dEN1T2dkcDFxbTBBenhacUlMVGlLSW1PUFp3Z2phVk51TTFiUEVCMHZiUWt0UDNka1Itbi16Mm8wOWswRUswUE1IR2VhVVhBNFFkbm5QWlZpN1FZdU85cXJGREZzYVdiUTU5OGVkQXFDbWN2dnVF?oc=5",
+      "source": "Bloomberg.com",
+      "published_at": "Sun, 16 Aug 2026 22:14:58 GMT",
+      "summary": "Technology Stocks Lift Equities as Treasuries Rise: Markets Wrap Bloomberg.com",
+      "guid": "CBMilAFBVV95cUxPRm5iVEpILVhFaFAzUHBRYWlac1czaWdxenR2dUd5dEN1T2dkcDFxbTBBenhacUlMVGlLSW1PUFp3Z2phVk51TTFiUEVCMHZiUWt0UDNka1Itbi16Mm8wOWswRUswUE1IR2VhVVhBNFFkbm5QWlZpN1FZdU85cXJGREZzYVdiUTU5OGVkQXFDbWN2dnVF"
+    },
+    {
+      "title": "Stock Market Investors Just Got Bad News From the Federal Reserve - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU0x1Uml3U2JwWVNjbDZjSUNkWVBTUkE3Vk5FS09sWFp3VE5kRDBYckZkUDU2c05uaVBsRTI0RXZXQmw5ZndNSk5BdUVUY01jNGNoOXhCRUtyc1dkTll0ZFJvOFhDbGtiT3l1NmpOdk5Lc3JHdktBU29XMjR2YXNaZHVQYmotMlItZVNPVkVabGhSMDJ2?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Sun, 09 Aug 2026 07:00:00 GMT",
+      "summary": "Stock Market Investors Just Got Bad News From the Federal Reserve The Motley Fool",
+      "guid": "CBMilAFBVV95cUxQU0x1Uml3U2JwWVNjbDZjSUNkWVBTUkE3Vk5FS09sWFp3VE5kRDBYckZkUDU2c05uaVBsRTI0RXZXQmw5ZndNSk5BdUVUY01jNGNoOXhCRUtyc1dkTll0ZFJvOFhDbGtiT3l1NmpOdk5Lc3JHdktBU29XMjR2YXNaZHVQYmotMlItZVNPVkVabGhSMDJ2"
+    },
+    {
+      "title": "US stocks sink on worries about a possible hike to interest rates this year by the Federal Reserve - AP News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcUlFaFNwNVNsa1RTZTFkTEhaMmhGLXBpZnZjeVAwaDBSSzRjZUFIMTQ3UTctckwtOXRvUDB6c0sxUGVlRWY5SUM5ZUllV1doQVhoLWkyd3IxdFdkRWJGY2J0ZGxyNmNwTEU3LVVBdDlXWVlxM2QtdGpHWmtBMGl0WkFWQzNucTVFTF9lelY3ZjdXNzFYeDhN?oc=5",
+      "source": "AP News",
+      "published_at": "Wed, 17 Jun 2026 07:00:00 GMT",
+      "summary": "US stocks sink on worries about a possible hike to interest rates this year by the Federal Reserve AP News",
+      "guid": "CBMilwFBVV95cUxQcUlFaFNwNVNsa1RTZTFkTEhaMmhGLXBpZnZjeVAwaDBSSzRjZUFIMTQ3UTctckwtOXRvUDB6c0sxUGVlRWY5SUM5ZUllV1doQVhoLWkyd3IxdFdkRWJGY2J0ZGxyNmNwTEU3LVVBdDlXWVlxM2QtdGpHWmtBMGl0WkFWQzNucTVFTF9lelY3ZjdXNzFYeDhN"
     }
   ]
 }
