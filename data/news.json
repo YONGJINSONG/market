@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T11:33:51Z",
+  "generated_at": "2026-08-22T11:55:16Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -47,6 +47,14 @@
       "guid": "CBMilAFBVV95cUxQU0x1Uml3U2JwWVNjbDZjSUNkWVBTUkE3Vk5FS09sWFp3VE5kRDBYckZkUDU2c05uaVBsRTI0RXZXQmw5ZndNSk5BdUVUY01jNGNoOXhCRUtyc1dkTll0ZFJvOFhDbGtiT3l1NmpOdk5Lc3JHdktBU29XMjR2YXNaZHVQYmotMlItZVNPVkVabGhSMDJ2"
     },
     {
+      "title": "The Bond Market Is Signaling Rising Risks. Investors Should Listen. - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZlhBejhhZWNUdDRiX05LWHFRaGJhX0ltazRRWTFPZWdvazNWX0U1WDg4NmpIb0swb1dsR21KTzg2MUc5Z21ORnJXdWFxX2xybjdsOG1lUnV4aWs3TWw3QmR5TUFfMDZ5Qkc5WVhxSWVXT2dUZDVneUxqRms3V1dBeDJvUzJtT1R4Z01NYlZNbXBBNnVBWWdF?oc=5",
+      "source": "The New York Times",
+      "published_at": "Fri, 07 Aug 2026 07:00:00 GMT",
+      "summary": "The Bond Market Is Signaling Rising Risks. Investors Should Listen. The New York Times",
+      "guid": "CBMilwFBVV95cUxNZlhBejhhZWNUdDRiX05LWHFRaGJhX0ltazRRWTFPZWdvazNWX0U1WDg4NmpIb0swb1dsR21KTzg2MUc5Z21ORnJXdWFxX2xybjdsOG1lUnV4aWs3TWw3QmR5TUFfMDZ5Qkc5WVhxSWVXT2dUZDVneUxqRms3V1dBeDJvUzJtT1R4Z01NYlZNbXBBNnVBWWdF"
+    },
+    {
       "title": "Opinion: The bond market is going to burst the stock-market bubble - MarketWatch",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPS2o2SDREdjdxbm5NUnJGMkVjT2JULVYzZ1Rfamx6Sy16WDdmNkoyMERXVEVtZkxXc0NlMkxraFRXaTdUUlJ2MnYtOV9UZUtEZm5BNlU0RUdGVkpIcmZzS1hxc0dDeVl2WWRXQTlmS1IyT2FPZEpuR3hnM0NFVEstX3dVY0NhUGpBZ0lVTDk5WWVSUEJfT2VnelJkQXIwWno1bVE?oc=5",
       "source": "MarketWatch",
@@ -69,14 +77,6 @@
       "published_at": "Sun, 16 Aug 2026 22:14:58 GMT",
       "summary": "Technology Stocks Lift Equities as Treasuries Rise: Markets Wrap Bloomberg",
       "guid": "CBMilAFBVV95cUxPRm5iVEpILVhFaFAzUHBRYWlac1czaWdxenR2dUd5dEN1T2dkcDFxbTBBenhacUlMVGlLSW1PUFp3Z2phVk51TTFiUEVCMHZiUWt0UDNka1Itbi16Mm8wOWswRUswUE1IR2VhVVhBNFFkbm5QWlZpN1FZdU85cXJGREZzYVdiUTU5OGVkQXFDbWN2dnVF"
-    },
-    {
-      "title": "Treasury's upsized buybacks may complicate Fed's monetary policy work - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeUNFNVY4V1prRFU5SG40RlZMSHNaWkI2dDBMeGNxWVpEcExuU2FsRU03cDBkWWJvLThHWXhmZy1tWW15VnNnRDVYTlJwODIyb21PczdaZzVUc25WRmQzb0drazZaM2xTcEYtYmF0LWtUdjJyNl9ueHB6bjBuUHJPN2NTUE5NaURMNVV6bTk2MzZCb1RwR0lEN0ZOYkMwM0tFZG5CZ1F2RHdhWmVQamJNUm1Nb1VKeUFJTHZkckY1WG4?oc=5",
-      "source": "Reuters",
-      "published_at": "Thu, 20 Aug 2026 05:01:00 GMT",
-      "summary": "Treasury's upsized buybacks may complicate Fed's monetary policy work Reuters",
-      "guid": "CBMiwAFBVV95cUxOeUNFNVY4V1prRFU5SG40RlZMSHNaWkI2dDBMeGNxWVpEcExuU2FsRU03cDBkWWJvLThHWXhmZy1tWW15VnNnRDVYTlJwODIyb21PczdaZzVUc25WRmQzb0drazZaM2xTcEYtYmF0LWtUdjJyNl9ueHB6bjBuUHJPN2NTUE5NaURMNVV6bTk2MzZCb1RwR0lEN0ZOYkMwM0tFZG5CZ1F2RHdhWmVQamJNUm1Nb1VKeUFJTHZkckY1WG4"
     },
     {
       "title": "Does the Equity Term Structure Respond to Monetary Policy Shocks? - Liberty Street Economics",
