@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T04:36:11Z",
+  "generated_at": "2026-08-23T05:05:52Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -31,14 +31,6 @@
       "guid": "CBMimAFBVV95cUxPRUo1T2VJb0JyWURNWmRZR21SN3FmY2Nrak4ySnJ2a2ZpSXpHSy1CSnhGcVpKODF5d29weDhjUE5yNU40amZwSGtDdGhkeE5rdUt5MS13cTd2MUhOUFROUmhZZFpjdS1Yd2V0c21Zc0F6alo5d29xYzV4QlcwR090cnJwWG9jSzctWkttQ2s1clJtWVpqS0hscQ"
     },
     {
-      "title": "Recent Economic and Financial Developments - Federal Reserve (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KWEN6M3VsdUJpS3YyUzBfc0JpcHhrY3J4LXhhUE90UkdqS1N1OWxCZGw1cWxveExZZ1RfM0dXM1pNMk9HRVctTGNBM2xrQ2Npbjl5OFJkQV9sajMxWHhQSGpXSzNfcGppZDhEaHFraFhUZ0puWFE?oc=5",
-      "source": "Federal Reserve (.gov)",
-      "published_at": "Fri, 17 Jul 2026 06:37:05 GMT",
-      "summary": "Recent Economic and Financial Developments Federal Reserve (.gov)",
-      "guid": "CBMidkFVX3lxTE9KWEN6M3VsdUJpS3YyUzBfc0JpcHhrY3J4LXhhUE90UkdqS1N1OWxCZGw1cWxveExZZ1RfM0dXM1pNMk9HRVctTGNBM2xrQ2Npbjl5OFJkQV9sajMxWHhQSGpXSzNfcGppZDhEaHFraFhUZ0puWFE"
-    },
-    {
       "title": "The Bond Market Is Signaling Rising Risks. Investors Should Listen. - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZlhBejhhZWNUdDRiX05LWHFRaGJhX0ltazRRWTFPZWdvazNWX0U1WDg4NmpIb0swb1dsR21KTzg2MUc5Z21ORnJXdWFxX2xybjdsOG1lUnV4aWs3TWw3QmR5TUFfMDZ5Qkc5WVhxSWVXT2dUZDVneUxqRms3V1dBeDJvUzJtT1R4Z01NYlZNbXBBNnVBWWdF?oc=5",
       "source": "The New York Times",
@@ -53,14 +45,6 @@
       "published_at": "Thu, 20 Aug 2026 19:06:00 GMT",
       "summary": "Opinion: The bond market is going to burst the stock-market bubble MarketWatch",
       "guid": "CBMiogFBVV95cUxPS2o2SDREdjdxbm5NUnJGMkVjT2JULVYzZ1Rfamx6Sy16WDdmNkoyMERXVEVtZkxXc0NlMkxraFRXaTdUUlJ2MnYtOV9UZUtEZm5BNlU0RUdGVkpIcmZzS1hxc0dDeVl2WWRXQTlmS1IyT2FPZEpuR3hnM0NFVEstX3dVY0NhUGpBZ0lVTDk5WWVSUEJfT2VnelJkQXIwWno1bVE"
-    },
-    {
-      "title": "The Fed meeting, Ford earnings, Trump's investment portfolio and more in Morning Squawk - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeHVlRjk1NnoyeDVNQV9JeDlmSEhFdE1ObTQ4TUFOTXplaXYzR1RHTGJKWlJ2UHFBclY0T0xTY0ltYzRXSGZsWnc1MnZ6RjRveU1sYU4wdG5zaW5VNHc4UHBFOHFENUNvVThsMWJXaDNxaGJNZjhpczdjSVpjbVFqUGQ1MHZYUHdiWlhz0gGQAUFVX3lxTE9OVUcyQXZCZV83dWk0VDNEeFM4R1R1OWtvM2NZUktFOE5VNGsyMDZKeHVNOUxDMS02RFFfQkZFRXZNbkYtcVpHbnZ6NjRfNERSTXAyVlVBWF81N3FFaUIzZ2JZUHZndWNnM1ZwVTllYVI0YnVqYnF3YlJhLVBwSlkwcU45akE3Y3labTJtRlo4Rw?oc=5",
-      "source": "CNBC",
-      "published_at": "Wed, 29 Jul 2026 07:00:00 GMT",
-      "summary": "The Fed meeting, Ford earnings, Trump's investment portfolio and more in Morning Squawk CNBC",
-      "guid": "CBMiiwFBVV95cUxNeHVlRjk1NnoyeDVNQV9JeDlmSEhFdE1ObTQ4TUFOTXplaXYzR1RHTGJKWlJ2UHFBclY0T0xTY0ltYzRXSGZsWnc1MnZ6RjRveU1sYU4wdG5zaW5VNHc4UHBFOHFENUNvVThsMWJXaDNxaGJNZjhpczdjSVpjbVFqUGQ1MHZYUHdiWlhz0gGQAUFVX3lxTE9OVUcyQXZCZV83dWk0VDNEeFM4R1R1OWtvM2NZUktFOE5VNGsyMDZKeHVNOUxDMS02RFFfQkZFRXZNbkYtcVpHbnZ6NjRfNERSTXAyVlVBWF81N3FFaUIzZ2JZUHZndWNnM1ZwVTllYVI0YnVqYnF3YlJhLVBwSlkwcU45akE3Y3labTJtRlo4Rw"
     },
     {
       "title": "Does the Equity Term Structure Respond to Monetary Policy Shocks? - Liberty Street Economics",
@@ -79,12 +63,28 @@
       "guid": "CBMiwAFBVV95cUxOeUNFNVY4V1prRFU5SG40RlZMSHNaWkI2dDBMeGNxWVpEcExuU2FsRU03cDBkWWJvLThHWXhmZy1tWW15VnNnRDVYTlJwODIyb21PczdaZzVUc25WRmQzb0drazZaM2xTcEYtYmF0LWtUdjJyNl9ueHB6bjBuUHJPN2NTUE5NaURMNVV6bTk2MzZCb1RwR0lEN0ZOYkMwM0tFZG5CZ1F2RHdhWmVQamJNUm1Nb1VKeUFJTHZkckY1WG4"
     },
     {
-      "title": "U.S. Federal Reserve’s ‘hawkish hold’ leaves investors lacking clarity - The Japan Times",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdHlpdFZKV3FtRXZkSk11Yi1UamhOMWp0TGVvaVBuTkw0d2F4dVVRSkVWb1hhSE5GV0M2eHdoV1k1TmcxdlFmbXFQT2U4VUJZSTZSVG16RXdLTHhxdGtPQWtaSWxNaU4yMmgxMnBKWXpod2h6Z0tyMGtMZTZFREFMdzVxRzNOb2tNbDJLSnNoUjQ?oc=5",
-      "source": "The Japan Times",
-      "published_at": "Thu, 30 Jul 2026 07:00:00 GMT",
-      "summary": "U.S. Federal Reserve’s ‘hawkish hold’ leaves investors lacking clarity The Japan Times",
-      "guid": "CBMikAFBVV95cUxQdHlpdFZKV3FtRXZkSk11Yi1UamhOMWp0TGVvaVBuTkw0d2F4dVVRSkVWb1hhSE5GV0M2eHdoV1k1TmcxdlFmbXFQT2U4VUJZSTZSVG16RXdLTHhxdGtPQWtaSWxNaU4yMmgxMnBKWXpod2h6Z0tyMGtMZTZFREFMdzVxRzNOb2tNbDJLSnNoUjQ"
+      "title": "The Fed meeting, Ford earnings, Trump's investment portfolio and more in Morning Squawk - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeHVlRjk1NnoyeDVNQV9JeDlmSEhFdE1ObTQ4TUFOTXplaXYzR1RHTGJKWlJ2UHFBclY0T0xTY0ltYzRXSGZsWnc1MnZ6RjRveU1sYU4wdG5zaW5VNHc4UHBFOHFENUNvVThsMWJXaDNxaGJNZjhpczdjSVpjbVFqUGQ1MHZYUHdiWlhz0gGQAUFVX3lxTE9OVUcyQXZCZV83dWk0VDNEeFM4R1R1OWtvM2NZUktFOE5VNGsyMDZKeHVNOUxDMS02RFFfQkZFRXZNbkYtcVpHbnZ6NjRfNERSTXAyVlVBWF81N3FFaUIzZ2JZUHZndWNnM1ZwVTllYVI0YnVqYnF3YlJhLVBwSlkwcU45akE3Y3labTJtRlo4Rw?oc=5",
+      "source": "CNBC",
+      "published_at": "Wed, 29 Jul 2026 07:00:00 GMT",
+      "summary": "The Fed meeting, Ford earnings, Trump's investment portfolio and more in Morning Squawk CNBC",
+      "guid": "CBMiiwFBVV95cUxNeHVlRjk1NnoyeDVNQV9JeDlmSEhFdE1ObTQ4TUFOTXplaXYzR1RHTGJKWlJ2UHFBclY0T0xTY0ltYzRXSGZsWnc1MnZ6RjRveU1sYU4wdG5zaW5VNHc4UHBFOHFENUNvVThsMWJXaDNxaGJNZjhpczdjSVpjbVFqUGQ1MHZYUHdiWlhz0gGQAUFVX3lxTE9OVUcyQXZCZV83dWk0VDNEeFM4R1R1OWtvM2NZUktFOE5VNGsyMDZKeHVNOUxDMS02RFFfQkZFRXZNbkYtcVpHbnZ6NjRfNERSTXAyVlVBWF81N3FFaUIzZ2JZUHZndWNnM1ZwVTllYVI0YnVqYnF3YlJhLVBwSlkwcU45akE3Y3labTJtRlo4Rw"
+    },
+    {
+      "title": "Technology Stocks Lift Equities as Treasuries Rise: Markets Wrap - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRm5iVEpILVhFaFAzUHBRYWlac1czaWdxenR2dUd5dEN1T2dkcDFxbTBBenhacUlMVGlLSW1PUFp3Z2phVk51TTFiUEVCMHZiUWt0UDNka1Itbi16Mm8wOWswRUswUE1IR2VhVVhBNFFkbm5QWlZpN1FZdU85cXJGREZzYVdiUTU5OGVkQXFDbWN2dnVF?oc=5",
+      "source": "Bloomberg.com",
+      "published_at": "Sun, 16 Aug 2026 22:14:58 GMT",
+      "summary": "Technology Stocks Lift Equities as Treasuries Rise: Markets Wrap Bloomberg.com",
+      "guid": "CBMilAFBVV95cUxPRm5iVEpILVhFaFAzUHBRYWlac1czaWdxenR2dUd5dEN1T2dkcDFxbTBBenhacUlMVGlLSW1PUFp3Z2phVk51TTFiUEVCMHZiUWt0UDNka1Itbi16Mm8wOWswRUswUE1IR2VhVVhBNFFkbm5QWlZpN1FZdU85cXJGREZzYVdiUTU5OGVkQXFDbWN2dnVF"
+    },
+    {
+      "title": "Recent Economic and Financial Developments - Federal Reserve (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KWEN6M3VsdUJpS3YyUzBfc0JpcHhrY3J4LXhhUE90UkdqS1N1OWxCZGw1cWxveExZZ1RfM0dXM1pNMk9HRVctTGNBM2xrQ2Npbjl5OFJkQV9sajMxWHhQSGpXSzNfcGppZDhEaHFraFhUZ0puWFE?oc=5",
+      "source": "Federal Reserve (.gov)",
+      "published_at": "Fri, 17 Jul 2026 06:37:05 GMT",
+      "summary": "Recent Economic and Financial Developments Federal Reserve (.gov)",
+      "guid": "CBMidkFVX3lxTE9KWEN6M3VsdUJpS3YyUzBfc0JpcHhrY3J4LXhhUE90UkdqS1N1OWxCZGw1cWxveExZZ1RfM0dXM1pNMk9HRVctTGNBM2xrQ2Npbjl5OFJkQV9sajMxWHhQSGpXSzNfcGppZDhEaHFraFhUZ0puWFE"
     }
   ]
 }
