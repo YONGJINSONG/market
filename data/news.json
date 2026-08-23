@@ -1,19 +1,11 @@
 {
-  "generated_at": "2026-08-23T20:36:02Z",
+  "generated_at": "2026-08-23T20:56:12Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
-    {
-      "title": "An alarmed bond market gets the Trump administration to act again - PBS",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbkdjRlNLRi13YW5NR2w5dmtidXU1X1VHbzV3NnU1T1hReVYxTHZwMWhBRmJnUHJWVmZSZjFRVWF2dEFzaWdxTlhWTDNsQ19DMWliS0pzN3VjeERRLTRRaEhLekx5SndKZ1djMmJuMEhRRDZaZG1wazhrcEJlSFo5MVRDazZnVS11SGt4anZNcDV5ZnU4NllUWE1raXdoY1RnaFktctIBqgFBVV95cUxQcmx0SDZHMWx3b2x1cm42NzRXRU53Yk1idmtPVGRTQS04cllBS3MyZ1Bsc3ZxLUUyeDlybFRiWU5HaWx0OWUxU1U5bFNXcXZhUU5HRTgyVjdzT1ZIdzlDZGhsR1Y1WjVNa0daUnJIX3VsdW05RU1Ta2xOMlZSa3JsaW1yS3BELUlNMTZ5QWNWNHhpMGkzUmVoaHJJcEl4VFZpa0dNUEljNXlEdw?oc=5",
-      "source": "PBS",
-      "published_at": "Wed, 19 Aug 2026 20:22:01 GMT",
-      "summary": "An alarmed bond market gets the Trump administration to act again PBS",
-      "guid": "CBMipAFBVV95cUxNbkdjRlNLRi13YW5NR2w5dmtidXU1X1VHbzV3NnU1T1hReVYxTHZwMWhBRmJnUHJWVmZSZjFRVWF2dEFzaWdxTlhWTDNsQ19DMWliS0pzN3VjeERRLTRRaEhLekx5SndKZ1djMmJuMEhRRDZaZG1wazhrcEJlSFo5MVRDazZnVS11SGt4anZNcDV5ZnU4NllUWE1raXdoY1RnaFktctIBqgFBVV95cUxQcmx0SDZHMWx3b2x1cm42NzRXRU53Yk1idmtPVGRTQS04cllBS3MyZ1Bsc3ZxLUUyeDlybFRiWU5HaWx0OWUxU1U5bFNXcXZhUU5HRTgyVjdzT1ZIdzlDZGhsR1Y1WjVNa0daUnJIX3VsdW05RU1Ta2xOMlZSa3JsaW1yS3BELUlNMTZ5QWNWNHhpMGkzUmVoaHJJcEl4VFZpa0dNUEljNXlEdw"
-    },
     {
       "title": "This S&P 500 Stock Pays a 2.67% Dividend Yield and Has Increased Its Payout in 17 Straight Years. Here's Why None of This Matters to Investors as Much as the Federal Reserve and Kevin Warsh. - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNV2xMWTZpOU5KZjZuWWxxZUwxVGxLTFhabnBiYmpwc2NBb2NzcnRFVXd1blpleWxGNmhHcUpZNGpNd1lYMDVGalVhSU1FTmQtRDZPZUhSam5NYUNTcGpMQWZXSVhCQm11SlRrcU91VE90S1FNQUtEZFMwZHE0ckNTazdoNGZEaWVlVlZB?oc=5",
@@ -71,6 +63,14 @@
       "guid": "CBMikAFBVV95cUxQdHlpdFZKV3FtRXZkSk11Yi1UamhOMWp0TGVvaVBuTkw0d2F4dVVRSkVWb1hhSE5GV0M2eHdoV1k1TmcxdlFmbXFQT2U4VUJZSTZSVG16RXdLTHhxdGtPQWtaSWxNaU4yMmgxMnBKWXpod2h6Z0tyMGtMZTZFREFMdzVxRzNOb2tNbDJLSnNoUjQ"
     },
     {
+      "title": "Technology Stocks Lift Equities as Treasuries Rise: Markets Wrap - Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRm5iVEpILVhFaFAzUHBRYWlac1czaWdxenR2dUd5dEN1T2dkcDFxbTBBenhacUlMVGlLSW1PUFp3Z2phVk51TTFiUEVCMHZiUWt0UDNka1Itbi16Mm8wOWswRUswUE1IR2VhVVhBNFFkbm5QWlZpN1FZdU85cXJGREZzYVdiUTU5OGVkQXFDbWN2dnVF?oc=5",
+      "source": "Bloomberg",
+      "published_at": "Sun, 16 Aug 2026 22:14:58 GMT",
+      "summary": "Technology Stocks Lift Equities as Treasuries Rise: Markets Wrap Bloomberg",
+      "guid": "CBMilAFBVV95cUxPRm5iVEpILVhFaFAzUHBRYWlac1czaWdxenR2dUd5dEN1T2dkcDFxbTBBenhacUlMVGlLSW1PUFp3Z2phVk51TTFiUEVCMHZiUWt0UDNka1Itbi16Mm8wOWswRUswUE1IR2VhVVhBNFFkbm5QWlZpN1FZdU85cXJGREZzYVdiUTU5OGVkQXFDbWN2dnVF"
+    },
+    {
       "title": "Why a Fed Rate Cut Is Coming and How the Market Will React - Barron's",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSERES2lGcGlzcE44UzJLUGdJY0RJc0xDRDVXbmlrVUxJS1ZtMjd6LWJvQmtZY2RSRVF5dDZxSUFkd3NNaEJPelFpUkZrUU5QaUVtMVFSWGVRODVaSDMwVVRiSFBYdkhCM2t2UmFhUEdjQWhNY21yV2pMMjdiY2tFeW9VMmE?oc=5",
       "source": "Barron's",
@@ -79,12 +79,12 @@
       "guid": "CBMihAFBVV95cUxOSERES2lGcGlzcE44UzJLUGdJY0RJc0xDRDVXbmlrVUxJS1ZtMjd6LWJvQmtZY2RSRVF5dDZxSUFkd3NNaEJPelFpUkZrUU5QaUVtMVFSWGVRODVaSDMwVVRiSFBYdkhCM2t2UmFhUEdjQWhNY21yV2pMMjdiY2tFeW9VMmE"
     },
     {
-      "title": "Technology Stocks Lift Equities as Treasuries Rise: Markets Wrap - Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRm5iVEpILVhFaFAzUHBRYWlac1czaWdxenR2dUd5dEN1T2dkcDFxbTBBenhacUlMVGlLSW1PUFp3Z2phVk51TTFiUEVCMHZiUWt0UDNka1Itbi16Mm8wOWswRUswUE1IR2VhVVhBNFFkbm5QWlZpN1FZdU85cXJGREZzYVdiUTU5OGVkQXFDbWN2dnVF?oc=5",
-      "source": "Bloomberg",
-      "published_at": "Sun, 16 Aug 2026 22:14:58 GMT",
-      "summary": "Technology Stocks Lift Equities as Treasuries Rise: Markets Wrap Bloomberg",
-      "guid": "CBMilAFBVV95cUxPRm5iVEpILVhFaFAzUHBRYWlac1czaWdxenR2dUd5dEN1T2dkcDFxbTBBenhacUlMVGlLSW1PUFp3Z2phVk51TTFiUEVCMHZiUWt0UDNka1Itbi16Mm8wOWswRUswUE1IR2VhVVhBNFFkbm5QWlZpN1FZdU85cXJGREZzYVdiUTU5OGVkQXFDbWN2dnVF"
+      "title": "This S&P 500 Stock Pays a 2.67% Dividend Yield and Has Increased Its Payout in 17 Straight Years. Here's Why None of This Matters to Investors as Much as the Federal Reserve and Kevin Warsh. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRUo1T2VJb0JyWURNWmRZR21SN3FmY2Nrak4ySnJ2a2ZpSXpHSy1CSnhGcVpKODF5d29weDhjUE5yNU40amZwSGtDdGhkeE5rdUt5MS13cTd2MUhOUFROUmhZZFpjdS1Yd2V0c21Zc0F6alo5d29xYzV4QlcwR090cnJwWG9jSzctWkttQ2s1clJtWVpqS0hscQ?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Sat, 22 Aug 2026 18:00:00 GMT",
+      "summary": "This S&P 500 Stock Pays a 2.67% Dividend Yield and Has Increased Its Payout in 17 Straight Years. Here's Why None of This Matters to Investors as Much as the Federal Reserve and Kevin Warsh. The Motley Fool",
+      "guid": "CBMimAFBVV95cUxPRUo1T2VJb0JyWURNWmRZR21SN3FmY2Nrak4ySnJ2a2ZpSXpHSy1CSnhGcVpKODF5d29weDhjUE5yNU40amZwSGtDdGhkeE5rdUt5MS13cTd2MUhOUFROUmhZZFpjdS1Yd2V0c21Zc0F6alo5d29xYzV4QlcwR090cnJwWG9jSzctWkttQ2s1clJtWVpqS0hscQ"
     }
   ]
 }
