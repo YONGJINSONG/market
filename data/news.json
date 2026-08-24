@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T03:13:53Z",
+  "generated_at": "2026-08-24T04:04:34Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,20 +7,36 @@
   },
   "items": [
     {
-      "title": "How do changing interest rates affect the stock market in 2026 - U.S. Bank",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVVJpa2pCR3B0TmxRZGlpSmRZaFctZ21ybGtrVUVBMFozZ0xiSGFRY0ZZdGNWaV80dnhHUTR2TTVoSnZEU190aGtMamY2MDAxT0hYYzRXcUl5OUEyOGRGYWlBbm54T3ppaEZWRWtyV01EOEJGcVRaM2xROWlCX2FxSFYxX1NXeUQwZmJLS3pqcGhCWjR5RVJrNlhmbUtRcy1EUGJLaFI4UTNkUHg4emNPUE95cTc0bnlDcklaaG5EcWhBeVU?oc=5",
-      "source": "U.S. Bank",
-      "published_at": "Mon, 03 Aug 2026 07:00:00 GMT",
-      "summary": "How do changing interest rates affect the stock market in 2026 U.S. Bank",
-      "guid": "CBMiwwFBVV95cUxQVVJpa2pCR3B0TmxRZGlpSmRZaFctZ21ybGtrVUVBMFozZ0xiSGFRY0ZZdGNWaV80dnhHUTR2TTVoSnZEU190aGtMamY2MDAxT0hYYzRXcUl5OUEyOGRGYWlBbm54T3ppaEZWRWtyV01EOEJGcVRaM2xROWlCX2FxSFYxX1NXeUQwZmJLS3pqcGhCWjR5RVJrNlhmbUtRcy1EUGJLaFI4UTNkUHg4emNPUE95cTc0bnlDcklaaG5EcWhBeVU"
-    },
-    {
       "title": "This S&P 500 Stock Pays a 2.67% Dividend Yield and Has Increased Its Payout in 17 Straight Years. Here's Why None of This Matters to Investors as Much as the Federal Reserve and Kevin Warsh. - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNV2xMWTZpOU5KZjZuWWxxZUwxVGxLTFhabnBiYmpwc2NBb2NzcnRFVXd1blpleWxGNmhHcUpZNGpNd1lYMDVGalVhSU1FTmQtRDZPZUhSam5NYUNTcGpMQWZXSVhCQm11SlRrcU91VE90S1FNQUtEZFMwZHE0ckNTazdoNGZEaWVlVlZB?oc=5",
       "source": "Yahoo Finance",
       "published_at": "Sat, 22 Aug 2026 17:20:00 GMT",
       "summary": "This S&P 500 Stock Pays a 2.67% Dividend Yield and Has Increased Its Payout in 17 Straight Years. Here's Why None of This Matters to Investors as Much as the Federal Reserve and Kevin Warsh. Yahoo Finance",
       "guid": "CBMiiwFBVV95cUxNV2xMWTZpOU5KZjZuWWxxZUwxVGxLTFhabnBiYmpwc2NBb2NzcnRFVXd1blpleWxGNmhHcUpZNGpNd1lYMDVGalVhSU1FTmQtRDZPZUhSam5NYUNTcGpMQWZXSVhCQm11SlRrcU91VE90S1FNQUtEZFMwZHE0ckNTazdoNGZEaWVlVlZB"
+    },
+    {
+      "title": "It Won’t Take Much to Burst the Stock Market Bubble - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU3ZmRHRyeTZrOHFsdDBFdG9Yb2pXR1gyZUZZSjcxektkTWVoYUVlekplMGphZW16ak5qNEZQZ0R1Z3hBNGQxX1JMRHBvc0hsRXc3VWtTUlpDa1VpdjFiOWpUc3Q3ck90ZklncUVWU0RxQTB3X3J6Mms2WURoTGVzUWNoUnlkTDl6THhKV1BISU5HUnoxTGk5ZGdQSFgteHduMVBPNnNBSFA4WFpXMm81ZE9kdl9MU1Z3?oc=5",
+      "source": "Bloomberg.com",
+      "published_at": "Thu, 20 Aug 2026 09:00:01 GMT",
+      "summary": "It Won’t Take Much to Burst the Stock Market Bubble Bloomberg.com",
+      "guid": "CBMiuAFBVV95cUxPU3ZmRHRyeTZrOHFsdDBFdG9Yb2pXR1gyZUZZSjcxektkTWVoYUVlekplMGphZW16ak5qNEZQZ0R1Z3hBNGQxX1JMRHBvc0hsRXc3VWtTUlpDa1VpdjFiOWpUc3Q3ck90ZklncUVWU0RxQTB3X3J6Mms2WURoTGVzUWNoUnlkTDl6THhKV1BISU5HUnoxTGk5ZGdQSFgteHduMVBPNnNBSFA4WFpXMm81ZE9kdl9MU1Z3"
+    },
+    {
+      "title": "Stock Market Investors Just Got Bad News From the Federal Reserve - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU0x1Uml3U2JwWVNjbDZjSUNkWVBTUkE3Vk5FS09sWFp3VE5kRDBYckZkUDU2c05uaVBsRTI0RXZXQmw5ZndNSk5BdUVUY01jNGNoOXhCRUtyc1dkTll0ZFJvOFhDbGtiT3l1NmpOdk5Lc3JHdktBU29XMjR2YXNaZHVQYmotMlItZVNPVkVabGhSMDJ2?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Sun, 09 Aug 2026 07:00:00 GMT",
+      "summary": "Stock Market Investors Just Got Bad News From the Federal Reserve The Motley Fool",
+      "guid": "CBMilAFBVV95cUxQU0x1Uml3U2JwWVNjbDZjSUNkWVBTUkE3Vk5FS09sWFp3VE5kRDBYckZkUDU2c05uaVBsRTI0RXZXQmw5ZndNSk5BdUVUY01jNGNoOXhCRUtyc1dkTll0ZFJvOFhDbGtiT3l1NmpOdk5Lc3JHdktBU29XMjR2YXNaZHVQYmotMlItZVNPVkVabGhSMDJ2"
+    },
+    {
+      "title": "The Bond Market Is Signaling Rising Risks. Investors Should Listen. - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZlhBejhhZWNUdDRiX05LWHFRaGJhX0ltazRRWTFPZWdvazNWX0U1WDg4NmpIb0swb1dsR21KTzg2MUc5Z21ORnJXdWFxX2xybjdsOG1lUnV4aWs3TWw3QmR5TUFfMDZ5Qkc5WVhxSWVXT2dUZDVneUxqRms3V1dBeDJvUzJtT1R4Z01NYlZNbXBBNnVBWWdF?oc=5",
+      "source": "The New York Times",
+      "published_at": "Fri, 07 Aug 2026 07:00:00 GMT",
+      "summary": "The Bond Market Is Signaling Rising Risks. Investors Should Listen. The New York Times",
+      "guid": "CBMilwFBVV95cUxNZlhBejhhZWNUdDRiX05LWHFRaGJhX0ltazRRWTFPZWdvazNWX0U1WDg4NmpIb0swb1dsR21KTzg2MUc5Z21ORnJXdWFxX2xybjdsOG1lUnV4aWs3TWw3QmR5TUFfMDZ5Qkc5WVhxSWVXT2dUZDVneUxqRms3V1dBeDJvUzJtT1R4Z01NYlZNbXBBNnVBWWdF"
     },
     {
       "title": "Opinion: The bond market is going to burst the stock-market bubble - MarketWatch",
@@ -31,6 +47,22 @@
       "guid": "CBMiogFBVV95cUxPS2o2SDREdjdxbm5NUnJGMkVjT2JULVYzZ1Rfamx6Sy16WDdmNkoyMERXVEVtZkxXc0NlMkxraFRXaTdUUlJ2MnYtOV9UZUtEZm5BNlU0RUdGVkpIcmZzS1hxc0dDeVl2WWRXQTlmS1IyT2FPZEpuR3hnM0NFVEstX3dVY0NhUGpBZ0lVTDk5WWVSUEJfT2VnelJkQXIwWno1bVE"
     },
     {
+      "title": "Does the Equity Term Structure Respond to Monetary Policy Shocks? - Liberty Street Economics",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcGZKaVc1MHU4VUlQTzFVZDNhOTJuN2VsZ1RITGFrRzFNMGNtWFJOT3BQQTRvcUwyLXo4bWNRcWlVaG5KSVpVU3Z1UmpjemUySjhLa1RhT2xBZHdGQ2tBT1JCSkYtZ3YtT2ZUZVNpcDBRYV9qdDdBcGtPbWFCclV4R3RVcDNJbGxyWmpjbHZ4MU9WUTFjcko5R0Vob3MyZmlMV2JHMDgybDdUa0NlcUR6QlBxa21xeHU2S1pv?oc=5",
+      "source": "Liberty Street Economics",
+      "published_at": "Wed, 12 Aug 2026 11:00:26 GMT",
+      "summary": "Does the Equity Term Structure Respond to Monetary Policy Shocks? Liberty Street Economics",
+      "guid": "CBMiuwFBVV95cUxPcGZKaVc1MHU4VUlQTzFVZDNhOTJuN2VsZ1RITGFrRzFNMGNtWFJOT3BQQTRvcUwyLXo4bWNRcWlVaG5KSVpVU3Z1UmpjemUySjhLa1RhT2xBZHdGQ2tBT1JCSkYtZ3YtT2ZUZVNpcDBRYV9qdDdBcGtPbWFCclV4R3RVcDNJbGxyWmpjbHZ4MU9WUTFjcko5R0Vob3MyZmlMV2JHMDgybDdUa0NlcUR6QlBxa21xeHU2S1pv"
+    },
+    {
+      "title": "Recent Economic and Financial Developments - Federal Reserve Board (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KWEN6M3VsdUJpS3YyUzBfc0JpcHhrY3J4LXhhUE90UkdqS1N1OWxCZGw1cWxveExZZ1RfM0dXM1pNMk9HRVctTGNBM2xrQ2Npbjl5OFJkQV9sajMxWHhQSGpXSzNfcGppZDhEaHFraFhUZ0puWFE?oc=5",
+      "source": "Federal Reserve Board (.gov)",
+      "published_at": "Fri, 17 Jul 2026 06:37:05 GMT",
+      "summary": "Recent Economic and Financial Developments Federal Reserve Board (.gov)",
+      "guid": "CBMidkFVX3lxTE9KWEN6M3VsdUJpS3YyUzBfc0JpcHhrY3J4LXhhUE90UkdqS1N1OWxCZGw1cWxveExZZ1RfM0dXM1pNMk9HRVctTGNBM2xrQ2Npbjl5OFJkQV9sajMxWHhQSGpXSzNfcGppZDhEaHFraFhUZ0puWFE"
+    },
+    {
       "title": "This S&P 500 Stock Pays a 2.67% Dividend Yield and Has Increased Its Payout in 17 Straight Years. Here's Why None of This Matters to Investors as Much as the Federal Reserve and Kevin Warsh. - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRUo1T2VJb0JyWURNWmRZR21SN3FmY2Nrak4ySnJ2a2ZpSXpHSy1CSnhGcVpKODF5d29weDhjUE5yNU40amZwSGtDdGhkeE5rdUt5MS13cTd2MUhOUFROUmhZZFpjdS1Yd2V0c21Zc0F6alo5d29xYzV4QlcwR090cnJwWG9jSzctWkttQ2s1clJtWVpqS0hscQ?oc=5",
       "source": "The Motley Fool",
@@ -39,52 +71,20 @@
       "guid": "CBMimAFBVV95cUxPRUo1T2VJb0JyWURNWmRZR21SN3FmY2Nrak4ySnJ2a2ZpSXpHSy1CSnhGcVpKODF5d29weDhjUE5yNU40amZwSGtDdGhkeE5rdUt5MS13cTd2MUhOUFROUmhZZFpjdS1Yd2V0c21Zc0F6alo5d29xYzV4QlcwR090cnJwWG9jSzctWkttQ2s1clJtWVpqS0hscQ"
     },
     {
-      "title": "Stock Market Under the Trump Administration: What is Driving Markets in 2026? - U.S. Bank",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcUowVHR1VXAzd0Zfamw1MkVSejFsRGo1bkdGdHhjNVBZVFdwU3VpcE5neGJOeWl6RmdQVkFsYlcxNEVTRGg3WHNYSGR1d1BpTjV4T2NqdWdER3ZtQ0RVbU40WTcyRXRaTEM5bFZteVlYNE5EYkM1M1BaR0lYTGlUeFlTeDhVMzRaWFFqZEZhcGc3RFJoZy1qZy1mTGViQQ?oc=5",
-      "source": "U.S. Bank",
-      "published_at": "Tue, 11 Aug 2026 07:00:00 GMT",
-      "summary": "Stock Market Under the Trump Administration: What is Driving Markets in 2026? U.S. Bank",
-      "guid": "CBMingFBVV95cUxPcUowVHR1VXAzd0Zfamw1MkVSejFsRGo1bkdGdHhjNVBZVFdwU3VpcE5neGJOeWl6RmdQVkFsYlcxNEVTRGg3WHNYSGR1d1BpTjV4T2NqdWdER3ZtQ0RVbU40WTcyRXRaTEM5bFZteVlYNE5EYkM1M1BaR0lYTGlUeFlTeDhVMzRaWFFqZEZhcGc3RFJoZy1qZy1mTGViQQ"
+      "title": "The Fed meeting, Ford earnings, Trump's investment portfolio and more in Morning Squawk - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeHVlRjk1NnoyeDVNQV9JeDlmSEhFdE1ObTQ4TUFOTXplaXYzR1RHTGJKWlJ2UHFBclY0T0xTY0ltYzRXSGZsWnc1MnZ6RjRveU1sYU4wdG5zaW5VNHc4UHBFOHFENUNvVThsMWJXaDNxaGJNZjhpczdjSVpjbVFqUGQ1MHZYUHdiWlhz0gGQAUFVX3lxTE9OVUcyQXZCZV83dWk0VDNEeFM4R1R1OWtvM2NZUktFOE5VNGsyMDZKeHVNOUxDMS02RFFfQkZFRXZNbkYtcVpHbnZ6NjRfNERSTXAyVlVBWF81N3FFaUIzZ2JZUHZndWNnM1ZwVTllYVI0YnVqYnF3YlJhLVBwSlkwcU45akE3Y3labTJtRlo4Rw?oc=5",
+      "source": "CNBC",
+      "published_at": "Wed, 29 Jul 2026 07:00:00 GMT",
+      "summary": "The Fed meeting, Ford earnings, Trump's investment portfolio and more in Morning Squawk CNBC",
+      "guid": "CBMiiwFBVV95cUxNeHVlRjk1NnoyeDVNQV9JeDlmSEhFdE1ObTQ4TUFOTXplaXYzR1RHTGJKWlJ2UHFBclY0T0xTY0ltYzRXSGZsWnc1MnZ6RjRveU1sYU4wdG5zaW5VNHc4UHBFOHFENUNvVThsMWJXaDNxaGJNZjhpczdjSVpjbVFqUGQ1MHZYUHdiWlhz0gGQAUFVX3lxTE9OVUcyQXZCZV83dWk0VDNEeFM4R1R1OWtvM2NZUktFOE5VNGsyMDZKeHVNOUxDMS02RFFfQkZFRXZNbkYtcVpHbnZ6NjRfNERSTXAyVlVBWF81N3FFaUIzZ2JZUHZndWNnM1ZwVTllYVI0YnVqYnF3YlJhLVBwSlkwcU45akE3Y3labTJtRlo4Rw"
     },
     {
-      "title": "Geopolitics, crude oil prices likely to drive stock market movements - Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUEdfeXQ4NUtDUnhfX0J5SS1ibllwSUJfYWh5SDl0UzdYN3FuMFdoc3lJRmJtazdqSDA1YnlIYnI4dTU5NmtNb0NZMFBjaE1YVjhWaEgxT1BrRDZsSWg5ZURYeHF6XzF0aC1YdnI4SmJnQVJOektucHpYY2VmdnYzWWpmSUNGX0w4bmlEbEVMenBNbVZ6OXVyYjdkV2w4UE95VTJtU1NBaVZaQjllUmxhajhSYlhrZHpoWTlRMC1DdmRwQUdlTUh3VWt3QzFKaUHSAdQBQVVfeXFMTko4T2cyRjRPeGl1eHVjUU1xOU5kVEplODY5VThWVDVLQW84RlNOa1VfX3JyNHNUOHdfTHNVbHRvQ0tvR0k0YTBDSnJmNVdCbnJvTjR1TFNtY0I1ZnNBanJQOTY1U3kxUF9JaE9UWDcwMGpVV0VnRS1jdWJYOTc1QXB3ejFMcDhSc0dkVEQ3Y2FZLTU2QzZoMl9CTjVxWmpwS3VPS3dfNUtGSnE2T3hIdERlX01tNVRhZk12eTVvV0t5M0lQZTk0c01mX2pTWXlISVd1d3g?oc=5",
-      "source": "Business Standard",
-      "published_at": "Sun, 23 Aug 2026 08:07:56 GMT",
-      "summary": "Geopolitics, crude oil prices likely to drive stock market movements Business Standard",
-      "guid": "CBMizwFBVV95cUxOUEdfeXQ4NUtDUnhfX0J5SS1ibllwSUJfYWh5SDl0UzdYN3FuMFdoc3lJRmJtazdqSDA1YnlIYnI4dTU5NmtNb0NZMFBjaE1YVjhWaEgxT1BrRDZsSWg5ZURYeHF6XzF0aC1YdnI4SmJnQVJOektucHpYY2VmdnYzWWpmSUNGX0w4bmlEbEVMenBNbVZ6OXVyYjdkV2w4UE95VTJtU1NBaVZaQjllUmxhajhSYlhrZHpoWTlRMC1DdmRwQUdlTUh3VWt3QzFKaUHSAdQBQVVfeXFMTko4T2cyRjRPeGl1eHVjUU1xOU5kVEplODY5VThWVDVLQW84RlNOa1VfX3JyNHNUOHdfTHNVbHRvQ0tvR0k0YTBDSnJmNVdCbnJvTjR1TFNtY0I1ZnNBanJQOTY1U3kxUF9JaE9UWDcwMGpVV0VnRS1jdWJYOTc1QXB3ejFMcDhSc0dkVEQ3Y2FZLTU2QzZoMl9CTjVxWmpwS3VPS3dfNUtGSnE2T3hIdERlX01tNVRhZk12eTVvV0t5M0lQZTk0c01mX2pTWXlISVd1d3g"
-    },
-    {
-      "title": "The Fed - India and the Global Economy - Federal Reserve Board (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOb0VMUUhBOFYyVmlaTDhuVGlRdG9zMUZUQkdpNXVmZE84UXNrcHRET1lYSVF0TGdnenctM0FQUzJCcWFGMXBFVVprSGtlUVh0b2toZUVFbDB6cTZSX0lRYS02MVlmdDc1Y3A2cE9jaExwUG9Nb3psTWNEVkw2SGxTandiRUxJdDU3WkZTWFhxOGhCN09nWm1zZ2lPYktCeTQ?oc=5",
-      "source": "Federal Reserve Board (.gov)",
-      "published_at": "Wed, 08 Apr 2026 07:00:00 GMT",
-      "summary": "The Fed - India and the Global Economy Federal Reserve Board (.gov)",
-      "guid": "CBMinwFBVV95cUxOb0VMUUhBOFYyVmlaTDhuVGlRdG9zMUZUQkdpNXVmZE84UXNrcHRET1lYSVF0TGdnenctM0FQUzJCcWFGMXBFVVprSGtlUVh0b2toZUVFbDB6cTZSX0lRYS02MVlmdDc1Y3A2cE9jaExwUG9Nb3psTWNEVkw2SGxTandiRUxJdDU3WkZTWFhxOGhCN09nWm1zZ2lPYktCeTQ"
-    },
-    {
-      "title": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says a Big Drop Could Follow. - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSG5UVUo2Qjc0QmZXVkZkVG5DNDFUMHJVT3ZDUHZzOFBVOXVuWk55aE9ZcDVOVEFJa3Y5ZHpjNWx4YWgtb3VfSjRHQUJXMFJIV3lPcTFDSjFadXBmdENDeGx2eGMyZ2NVRjM2Mk9RYlU3X1B2OGMwWmR6ajgtMWxQUmFCMER2R1gxZk52LVZYWW1lVkxxeWp2S3dpVjA?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Wed, 01 Jul 2026 07:00:00 GMT",
-      "summary": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says a Big Drop Could Follow. Yahoo Finance",
-      "guid": "CBMinAFBVV95cUxPSG5UVUo2Qjc0QmZXVkZkVG5DNDFUMHJVT3ZDUHZzOFBVOXVuWk55aE9ZcDVOVEFJa3Y5ZHpjNWx4YWgtb3VfSjRHQUJXMFJIV3lPcTFDSjFadXBmdENDeGx2eGMyZ2NVRjM2Mk9RYlU3X1B2OGMwWmR6ajgtMWxQUmFCMER2R1gxZk52LVZYWW1lVkxxeWp2S3dpVjA"
-    },
-    {
-      "title": "The Federal Reserve Is Raising Red Flags, and the Stock Market Isn't Listening - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRjJsN0JkeGxvWlM2R2dFenRqOHZqRFlreGZsYjZHbTBtUVh4VGdDMHVQeS1IcGJZZXNHUFFSbFFJWHZmZDRtVG9XMURsOFJ4RmpnUHU3Q19fRlN4STBab1d2RXBNMVdoWGFUcVlmNzVYNG9LTG94VWVCdHpXUTJ1NF9yMzNPa2szdTV3UXM0ejB0NFE4UHVneFh0Rko?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Sun, 22 Mar 2026 07:00:00 GMT",
-      "summary": "The Federal Reserve Is Raising Red Flags, and the Stock Market Isn't Listening Yahoo Finance",
-      "guid": "CBMinAFBVV95cUxQRjJsN0JkeGxvWlM2R2dFenRqOHZqRFlreGZsYjZHbTBtUVh4VGdDMHVQeS1IcGJZZXNHUFFSbFFJWHZmZDRtVG9XMURsOFJ4RmpnUHU3Q19fRlN4STBab1d2RXBNMVdoWGFUcVlmNzVYNG9LTG94VWVCdHpXUTJ1NF9yMzNPa2szdTV3UXM0ejB0NFE4UHVneFh0Rko"
-    },
-    {
-      "title": "What Causes “Jumps” in Stock Prices? - Federal Reserve Bank of St. Louis",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNlU3bVlaY05yZmRvNlVELU8yV25yT2ozUmJtT1lJbG1HelVoMGt4d1lVNHZkR3BrZkt4VzRRSXZjT3FHUXlLbHNZWkh3R1dYaWNjV3ZzNE9ROWJpQmZ3cFpwdEdLbXR6T00wamtwbmdLcF9RUDA3eEU5aUp1QWZwV0pMUDJrZ0hj?oc=5",
-      "source": "Federal Reserve Bank of St. Louis",
-      "published_at": "Mon, 29 Sep 2025 07:00:00 GMT",
-      "summary": "What Causes “Jumps” in Stock Prices? Federal Reserve Bank of St. Louis",
-      "guid": "CBMiiAFBVV95cUxPNlU3bVlaY05yZmRvNlVELU8yV25yT2ozUmJtT1lJbG1HelVoMGt4d1lVNHZkR3BrZkt4VzRRSXZjT3FHUXlLbHNZWkh3R1dYaWNjV3ZzNE9ROWJpQmZ3cFpwdEdLbXR6T00wamtwbmdLcF9RUDA3eEU5aUp1QWZwV0pMUDJrZ0hj"
+      "title": "Kevin Warsh can’t reopen the Strait of Hormuz - CNN",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5XSDkwY0luVnFYQkRpVi1OWXJYN2FjLUhlbEJSMGpCWkp5aHFmOXRROEUtLXZYSHFWdGZwOHVuQW1vMVFFRlZSUG4zTld0djlFSk1uZGFGaHRCOHlFdFU2REhjdU9oYkVOZG1ZRjRVcmVCOEdIeXRZcndR?oc=5",
+      "source": "CNN",
+      "published_at": "Tue, 28 Jul 2026 07:00:00 GMT",
+      "summary": "Kevin Warsh can’t reopen the Strait of Hormuz CNN",
+      "guid": "CBMiekFVX3lxTE5XSDkwY0luVnFYQkRpVi1OWXJYN2FjLUhlbEJSMGpCWkp5aHFmOXRROEUtLXZYSHFWdGZwOHVuQW1vMVFFRlZSUG4zTld0djlFSk1uZGFGaHRCOHlFdFU2REhjdU9oYkVOZG1ZRjRVcmVCOEdIeXRZcndR"
     }
   ]
 }
