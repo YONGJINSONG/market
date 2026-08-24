@@ -1,19 +1,11 @@
 {
-  "generated_at": "2026-08-24T19:50:44Z",
+  "generated_at": "2026-08-24T20:16:24Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
-    {
-      "title": "Stock Market: Will S&P 500 Open Up or Down Today? - Benzinga",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRmtYY0U0OE54U0IyNXhvLWozWUxFZ1BlLWljMmJXd1dLUUR1S1RHcVRYY1BDZ1k3aWpzTzJER1c5cmVNR1V3Y0prdXk3cWdjbExGOWp3aVdGSFB1MW1BVm03UUdadUhONU00dVlDeEtYWkZZRF9KVmNBMXRnVWpRX0ZENTQ0VHRyZEJtNjRsYzZLQlpjSUEzb2VuS0hVR3ZzdEJNaUx5WUpvMzNxZ3RVam83Y2dvcVU?oc=5",
-      "source": "Benzinga",
-      "published_at": "Mon, 24 Aug 2026 06:05:38 GMT",
-      "summary": "Stock Market: Will S&P 500 Open Up or Down Today? Benzinga",
-      "guid": "CBMitwFBVV95cUxNRmtYY0U0OE54U0IyNXhvLWozWUxFZ1BlLWljMmJXd1dLUUR1S1RHcVRYY1BDZ1k3aWpzTzJER1c5cmVNR1V3Y0prdXk3cWdjbExGOWp3aVdGSFB1MW1BVm03UUdadUhONU00dVlDeEtYWkZZRF9KVmNBMXRnVWpRX0ZENTQ0VHRyZEJtNjRsYzZLQlpjSUEzb2VuS0hVR3ZzdEJNaUx5WUpvMzNxZ3RVam83Y2dvcVU"
-    },
     {
       "title": "Stock Market Today: S&P 500, Nasdaq 100 Futures Slip Ahead of Data-Heavy Week, Nvidia Earnings, and Jackson Hole—BABA, PMI, BIRK in Focus - TradingView",
       "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQdTVhUjNHanNId1pRbElGSFJEMlZIdmJJcGNDVEJxWmFER1g4TDFYMWVMOWd3U1V0eHF2LXNmRGFZT2F1Zmg4UHNraWswN19hSFJ2WEJCZ1pjZ1NCSzk1N01rYmkyY1VmS0pYNnhJUTc5bzJ5STg1YjAzWmNxd01mcXp1b1FUN0JUX2dRNVRNTkZvcGNUbVNick5ISnZRYWg4SUJOMnFBd3ozX3FKVXE3cDdNV1B3ZFhWT296OTJjZjlkUXMyZTFKZ0p5aTlicVFVcnduRld1TG10MVdrN3RmazZTM1djaFRQb0lDbjhJNngxU0Rpb21SX2M0Y3dac3NzdE9MOEJlQ2FLRW91WGFOdE1Eb2s1c3JxZHc?oc=5",
@@ -77,6 +69,14 @@
       "published_at": "Thu, 04 Jun 2026 07:00:00 GMT",
       "summary": "Stocks drive record share of American wealth Axios",
       "guid": "CBMibEFVX3lxTE4tREZqZEtISDliRTZVeFV4MkhkbW9ueER2Z25YRDRuNXBDaGVGLTlKMC1JUUVfWXFYT2h3YWtwemRuVU9NLVg0Qi03bEdoQlBfcVBmckN6anZtZVVTakstVlVZWWU0bm5YSmUwaQ"
+    },
+    {
+      "title": "U.S. Federal Reserve’s ‘hawkish hold’ leaves investors lacking clarity - The Japan Times",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdHlpdFZKV3FtRXZkSk11Yi1UamhOMWp0TGVvaVBuTkw0d2F4dVVRSkVWb1hhSE5GV0M2eHdoV1k1TmcxdlFmbXFQT2U4VUJZSTZSVG16RXdLTHhxdGtPQWtaSWxNaU4yMmgxMnBKWXpod2h6Z0tyMGtMZTZFREFMdzVxRzNOb2tNbDJLSnNoUjQ?oc=5",
+      "source": "The Japan Times",
+      "published_at": "Thu, 30 Jul 2026 07:00:00 GMT",
+      "summary": "U.S. Federal Reserve’s ‘hawkish hold’ leaves investors lacking clarity The Japan Times",
+      "guid": "CBMikAFBVV95cUxQdHlpdFZKV3FtRXZkSk11Yi1UamhOMWp0TGVvaVBuTkw0d2F4dVVRSkVWb1hhSE5GV0M2eHdoV1k1TmcxdlFmbXFQT2U4VUJZSTZSVG16RXdLTHhxdGtPQWtaSWxNaU4yMmgxMnBKWXpod2h6Z0tyMGtMZTZFREFMdzVxRzNOb2tNbDJLSnNoUjQ"
     },
     {
       "title": "Kevin Warsh can’t reopen the Strait of Hormuz - CNN",
