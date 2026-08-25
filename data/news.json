@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-08-25T22:44:08Z",
+  "generated_at": "2026-08-25T23:02:42Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "Morgan Stanley sends clear signal on stock market, oil prices - thestreet.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMGJYRU8xNHVsY1FYMUtKalhBeVY3Nl9iSW5VQUs3bk5vWDVfMGtSQXpxZUxXdlVyel84UDJkM2YxWWw3UXpfWFhaRkRnRVY4N1gtNG5YclJMV3pMMlZCbDVmS19hR3QzM0tZQk1zaGg0QzZkZHNoRGVlcmtra2FTV2FhVWg3R0ZjYkI2R1JEWjA4dTlTazNSUlJRYTJ6YXNhUGFBWTR2TDNpNkFwUmVYZVYyX0VmWFhidjh5M3dtcEZzRjhx?oc=5",
+      "source": "thestreet.com",
+      "published_at": "Tue, 25 Aug 2026 18:25:52 GMT",
+      "summary": "Morgan Stanley sends clear signal on stock market, oil prices thestreet.com",
+      "guid": "CBMixAFBVV95cUxPMGJYRU8xNHVsY1FYMUtKalhBeVY3Nl9iSW5VQUs3bk5vWDVfMGtSQXpxZUxXdlVyel84UDJkM2YxWWw3UXpfWFhaRkRnRVY4N1gtNG5YclJMV3pMMlZCbDVmS19hR3QzM0tZQk1zaGg0QzZkZHNoRGVlcmtra2FTV2FhVWg3R0ZjYkI2R1JEWjA4dTlTazNSUlJRYTJ6YXNhUGFBWTR2TDNpNkFwUmVYZVYyX0VmWFhidjh5M3dtcEZzRjhx"
+    },
     {
       "title": "This S&P 500 Stock Pays a 2.67% Dividend Yield and Has Increased Its Payout in 17 Straight Years. Here's Why None of This Matters to Investors as Much as the Federal Reserve and Kevin Warsh. - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNV2xMWTZpOU5KZjZuWWxxZUwxVGxLTFhabnBiYmpwc2NBb2NzcnRFVXd1blpleWxGNmhHcUpZNGpNd1lYMDVGalVhSU1FTmQtRDZPZUhSam5NYUNTcGpMQWZXSVhCQm11SlRrcU91VE90S1FNQUtEZFMwZHE0ckNTazdoNGZEaWVlVlZB?oc=5",
@@ -77,14 +85,6 @@
       "published_at": "Tue, 28 Jul 2026 07:00:00 GMT",
       "summary": "Kevin Warsh can’t reopen the Strait of Hormuz CNN",
       "guid": "CBMiekFVX3lxTE5XSDkwY0luVnFYQkRpVi1OWXJYN2FjLUhlbEJSMGpCWkp5aHFmOXRROEUtLXZYSHFWdGZwOHVuQW1vMVFFRlZSUG4zTld0djlFSk1uZGFGaHRCOHlFdFU2REhjdU9oYkVOZG1ZRjRVcmVCOEdIeXRZcndR"
-    },
-    {
-      "title": "The Fed meeting, Ford earnings, Trump's investment portfolio and more in Morning Squawk - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeHVlRjk1NnoyeDVNQV9JeDlmSEhFdE1ObTQ4TUFOTXplaXYzR1RHTGJKWlJ2UHFBclY0T0xTY0ltYzRXSGZsWnc1MnZ6RjRveU1sYU4wdG5zaW5VNHc4UHBFOHFENUNvVThsMWJXaDNxaGJNZjhpczdjSVpjbVFqUGQ1MHZYUHdiWlhz0gGQAUFVX3lxTE9OVUcyQXZCZV83dWk0VDNEeFM4R1R1OWtvM2NZUktFOE5VNGsyMDZKeHVNOUxDMS02RFFfQkZFRXZNbkYtcVpHbnZ6NjRfNERSTXAyVlVBWF81N3FFaUIzZ2JZUHZndWNnM1ZwVTllYVI0YnVqYnF3YlJhLVBwSlkwcU45akE3Y3labTJtRlo4Rw?oc=5",
-      "source": "CNBC",
-      "published_at": "Wed, 29 Jul 2026 07:00:00 GMT",
-      "summary": "The Fed meeting, Ford earnings, Trump's investment portfolio and more in Morning Squawk CNBC",
-      "guid": "CBMiiwFBVV95cUxNeHVlRjk1NnoyeDVNQV9JeDlmSEhFdE1ObTQ4TUFOTXplaXYzR1RHTGJKWlJ2UHFBclY0T0xTY0ltYzRXSGZsWnc1MnZ6RjRveU1sYU4wdG5zaW5VNHc4UHBFOHFENUNvVThsMWJXaDNxaGJNZjhpczdjSVpjbVFqUGQ1MHZYUHdiWlhz0gGQAUFVX3lxTE9OVUcyQXZCZV83dWk0VDNEeFM4R1R1OWtvM2NZUktFOE5VNGsyMDZKeHVNOUxDMS02RFFfQkZFRXZNbkYtcVpHbnZ6NjRfNERSTXAyVlVBWF81N3FFaUIzZ2JZUHZndWNnM1ZwVTllYVI0YnVqYnF3YlJhLVBwSlkwcU45akE3Y3labTJtRlo4Rw"
     }
   ]
 }
