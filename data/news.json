@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T09:06:54Z",
+  "generated_at": "2026-08-25T09:48:57Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,28 +7,20 @@
   },
   "items": [
     {
+      "title": "This S&P 500 Stock Pays a 2.67% Dividend Yield and Has Increased Its Payout in 17 Straight Years. Here's Why None of This Matters to Investors as Much as the Federal Reserve and Kevin Warsh. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNV2xMWTZpOU5KZjZuWWxxZUwxVGxLTFhabnBiYmpwc2NBb2NzcnRFVXd1blpleWxGNmhHcUpZNGpNd1lYMDVGalVhSU1FTmQtRDZPZUhSam5NYUNTcGpMQWZXSVhCQm11SlRrcU91VE90S1FNQUtEZFMwZHE0ckNTazdoNGZEaWVlVlZB?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Sat, 22 Aug 2026 17:20:00 GMT",
+      "summary": "This S&P 500 Stock Pays a 2.67% Dividend Yield and Has Increased Its Payout in 17 Straight Years. Here's Why None of This Matters to Investors as Much as the Federal Reserve and Kevin Warsh. Yahoo Finance",
+      "guid": "CBMiiwFBVV95cUxNV2xMWTZpOU5KZjZuWWxxZUwxVGxLTFhabnBiYmpwc2NBb2NzcnRFVXd1blpleWxGNmhHcUpZNGpNd1lYMDVGalVhSU1FTmQtRDZPZUhSam5NYUNTcGpMQWZXSVhCQm11SlRrcU91VE90S1FNQUtEZFMwZHE0ckNTazdoNGZEaWVlVlZB"
+    },
+    {
       "title": "Stock Market Investors Just Got Bad News From the Federal Reserve - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU0x1Uml3U2JwWVNjbDZjSUNkWVBTUkE3Vk5FS09sWFp3VE5kRDBYckZkUDU2c05uaVBsRTI0RXZXQmw5ZndNSk5BdUVUY01jNGNoOXhCRUtyc1dkTll0ZFJvOFhDbGtiT3l1NmpOdk5Lc3JHdktBU29XMjR2YXNaZHVQYmotMlItZVNPVkVabGhSMDJ2?oc=5",
       "source": "The Motley Fool",
       "published_at": "Sun, 09 Aug 2026 07:00:00 GMT",
       "summary": "Stock Market Investors Just Got Bad News From the Federal Reserve The Motley Fool",
       "guid": "CBMilAFBVV95cUxQU0x1Uml3U2JwWVNjbDZjSUNkWVBTUkE3Vk5FS09sWFp3VE5kRDBYckZkUDU2c05uaVBsRTI0RXZXQmw5ZndNSk5BdUVUY01jNGNoOXhCRUtyc1dkTll0ZFJvOFhDbGtiT3l1NmpOdk5Lc3JHdktBU29XMjR2YXNaZHVQYmotMlItZVNPVkVabGhSMDJ2"
-    },
-    {
-      "title": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says a Big Drop Could Follow. - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSG5UVUo2Qjc0QmZXVkZkVG5DNDFUMHJVT3ZDUHZzOFBVOXVuWk55aE9ZcDVOVEFJa3Y5ZHpjNWx4YWgtb3VfSjRHQUJXMFJIV3lPcTFDSjFadXBmdENDeGx2eGMyZ2NVRjM2Mk9RYlU3X1B2OGMwWmR6ajgtMWxQUmFCMER2R1gxZk52LVZYWW1lVkxxeWp2S3dpVjA?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Wed, 01 Jul 2026 07:00:00 GMT",
-      "summary": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says a Big Drop Could Follow. Yahoo Finance",
-      "guid": "CBMinAFBVV95cUxPSG5UVUo2Qjc0QmZXVkZkVG5DNDFUMHJVT3ZDUHZzOFBVOXVuWk55aE9ZcDVOVEFJa3Y5ZHpjNWx4YWgtb3VfSjRHQUJXMFJIV3lPcTFDSjFadXBmdENDeGx2eGMyZ2NVRjM2Mk9RYlU3X1B2OGMwWmR6ajgtMWxQUmFCMER2R1gxZk52LVZYWW1lVkxxeWp2S3dpVjA"
-    },
-    {
-      "title": "Stock Market Today: S&P 500, Nasdaq 100 Futures Slip Ahead of Data-Heavy Week, Nvidia Earnings, and Jackson Hole—BABA, PMI, BIRK in Focus - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQdTVhUjNHanNId1pRbElGSFJEMlZIdmJJcGNDVEJxWmFER1g4TDFYMWVMOWd3U1V0eHF2LXNmRGFZT2F1Zmg4UHNraWswN19hSFJ2WEJCZ1pjZ1NCSzk1N01rYmkyY1VmS0pYNnhJUTc5bzJ5STg1YjAzWmNxd01mcXp1b1FUN0JUX2dRNVRNTkZvcGNUbVNick5ISnZRYWg4SUJOMnFBd3ozX3FKVXE3cDdNV1B3ZFhWT296OTJjZjlkUXMyZTFKZ0p5aTlicVFVcnduRld1TG10MVdrN3RmazZTM1djaFRQb0lDbjhJNngxU0Rpb21SX2M0Y3dac3NzdE9MOEJlQ2FLRW91WGFOdE1Eb2s1c3JxZHc?oc=5",
-      "source": "TradingView",
-      "published_at": "Mon, 24 Aug 2026 09:30:08 GMT",
-      "summary": "Stock Market Today: S&P 500, Nasdaq 100 Futures Slip Ahead of Data-Heavy Week, Nvidia Earnings, and Jackson Hole—BABA, PMI, BIRK in Focus TradingView",
-      "guid": "CBMimgJBVV95cUxQdTVhUjNHanNId1pRbElGSFJEMlZIdmJJcGNDVEJxWmFER1g4TDFYMWVMOWd3U1V0eHF2LXNmRGFZT2F1Zmg4UHNraWswN19hSFJ2WEJCZ1pjZ1NCSzk1N01rYmkyY1VmS0pYNnhJUTc5bzJ5STg1YjAzWmNxd01mcXp1b1FUN0JUX2dRNVRNTkZvcGNUbVNick5ISnZRYWg4SUJOMnFBd3ozX3FKVXE3cDdNV1B3ZFhWT296OTJjZjlkUXMyZTFKZ0p5aTlicVFVcnduRld1TG10MVdrN3RmazZTM1djaFRQb0lDbjhJNngxU0Rpb21SX2M0Y3dac3NzdE9MOEJlQ2FLRW91WGFOdE1Eb2s1c3JxZHc"
     },
     {
       "title": "Does the Equity Term Structure Respond to Monetary Policy Shocks? - Liberty Street Economics",
@@ -47,20 +39,20 @@
       "guid": "CBMilwFBVV95cUxQcUlFaFNwNVNsa1RTZTFkTEhaMmhGLXBpZnZjeVAwaDBSSzRjZUFIMTQ3UTctckwtOXRvUDB6c0sxUGVlRWY5SUM5ZUllV1doQVhoLWkyd3IxdFdkRWJGY2J0ZGxyNmNwTEU3LVVBdDlXWVlxM2QtdGpHWmtBMGl0WkFWQzNucTVFTF9lelY3ZjdXNzFYeDhN"
     },
     {
-      "title": "Treasury May Tap $950B Reserve to Boost Debt Purchases - Briefs Finance",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZ1ZWckh2ekVKNDZiUVFjdDVMOVZqb3ozaHdQMjJpeDNYa0dfRlp1aVdUR1Q4UjIzNUo0ZnVOb3BrSkVFdl9vd1FwN0QyQkJZN016SkFCTXpybXE2RzNXV0t6OGJMYVN4QUFycmNSS3J3RnNwbVQ2MzlfRjUzSUU3UmFQOTNVQXRR?oc=5",
-      "source": "Briefs Finance",
-      "published_at": "Mon, 24 Aug 2026 15:14:57 GMT",
-      "summary": "Treasury May Tap $950B Reserve to Boost Debt Purchases Briefs Finance",
-      "guid": "CBMiiAFBVV95cUxOZ1ZWckh2ekVKNDZiUVFjdDVMOVZqb3ozaHdQMjJpeDNYa0dfRlp1aVdUR1Q4UjIzNUo0ZnVOb3BrSkVFdl9vd1FwN0QyQkJZN016SkFCTXpybXE2RzNXV0t6OGJMYVN4QUFycmNSS3J3RnNwbVQ2MzlfRjUzSUU3UmFQOTNVQXRR"
-    },
-    {
       "title": "U.S. Federal Reserve’s ‘hawkish hold’ leaves investors lacking clarity - The Japan Times",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdHlpdFZKV3FtRXZkSk11Yi1UamhOMWp0TGVvaVBuTkw0d2F4dVVRSkVWb1hhSE5GV0M2eHdoV1k1TmcxdlFmbXFQT2U4VUJZSTZSVG16RXdLTHhxdGtPQWtaSWxNaU4yMmgxMnBKWXpod2h6Z0tyMGtMZTZFREFMdzVxRzNOb2tNbDJLSnNoUjQ?oc=5",
       "source": "The Japan Times",
       "published_at": "Thu, 30 Jul 2026 07:00:00 GMT",
       "summary": "U.S. Federal Reserve’s ‘hawkish hold’ leaves investors lacking clarity The Japan Times",
       "guid": "CBMikAFBVV95cUxQdHlpdFZKV3FtRXZkSk11Yi1UamhOMWp0TGVvaVBuTkw0d2F4dVVRSkVWb1hhSE5GV0M2eHdoV1k1TmcxdlFmbXFQT2U4VUJZSTZSVG16RXdLTHhxdGtPQWtaSWxNaU4yMmgxMnBKWXpod2h6Z0tyMGtMZTZFREFMdzVxRzNOb2tNbDJLSnNoUjQ"
+    },
+    {
+      "title": "Treasury May Tap $950B Reserve to Boost Debt Purchases - Briefs Finance",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZ1ZWckh2ekVKNDZiUVFjdDVMOVZqb3ozaHdQMjJpeDNYa0dfRlp1aVdUR1Q4UjIzNUo0ZnVOb3BrSkVFdl9vd1FwN0QyQkJZN016SkFCTXpybXE2RzNXV0t6OGJMYVN4QUFycmNSS3J3RnNwbVQ2MzlfRjUzSUU3UmFQOTNVQXRR?oc=5",
+      "source": "Briefs Finance",
+      "published_at": "Mon, 24 Aug 2026 15:14:57 GMT",
+      "summary": "Treasury May Tap $950B Reserve to Boost Debt Purchases Briefs Finance",
+      "guid": "CBMiiAFBVV95cUxOZ1ZWckh2ekVKNDZiUVFjdDVMOVZqb3ozaHdQMjJpeDNYa0dfRlp1aVdUR1Q4UjIzNUo0ZnVOb3BrSkVFdl9vd1FwN0QyQkJZN016SkFCTXpybXE2RzNXV0t6OGJMYVN4QUFycmNSS3J3RnNwbVQ2MzlfRjUzSUU3UmFQOTNVQXRR"
     },
     {
       "title": "Surging equities and the trickle-up economy - The Real Economy Blog",
@@ -85,6 +77,14 @@
       "published_at": "Wed, 29 Jul 2026 07:00:00 GMT",
       "summary": "The Fed meeting, Ford earnings, Trump's investment portfolio and more in Morning Squawk CNBC",
       "guid": "CBMiiwFBVV95cUxNeHVlRjk1NnoyeDVNQV9JeDlmSEhFdE1ObTQ4TUFOTXplaXYzR1RHTGJKWlJ2UHFBclY0T0xTY0ltYzRXSGZsWnc1MnZ6RjRveU1sYU4wdG5zaW5VNHc4UHBFOHFENUNvVThsMWJXaDNxaGJNZjhpczdjSVpjbVFqUGQ1MHZYUHdiWlhz0gGQAUFVX3lxTE9OVUcyQXZCZV83dWk0VDNEeFM4R1R1OWtvM2NZUktFOE5VNGsyMDZKeHVNOUxDMS02RFFfQkZFRXZNbkYtcVpHbnZ6NjRfNERSTXAyVlVBWF81N3FFaUIzZ2JZUHZndWNnM1ZwVTllYVI0YnVqYnF3YlJhLVBwSlkwcU45akE3Y3labTJtRlo4Rw"
+    },
+    {
+      "title": "This S&P 500 Stock Pays a 2.67% Dividend Yield and Has Increased Its Payout in 17 Straight Years. Here's Why None of This Matters to Investors as Much as the Federal Reserve and Kevin Warsh. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRUo1T2VJb0JyWURNWmRZR21SN3FmY2Nrak4ySnJ2a2ZpSXpHSy1CSnhGcVpKODF5d29weDhjUE5yNU40amZwSGtDdGhkeE5rdUt5MS13cTd2MUhOUFROUmhZZFpjdS1Yd2V0c21Zc0F6alo5d29xYzV4QlcwR090cnJwWG9jSzctWkttQ2s1clJtWVpqS0hscQ?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Sat, 22 Aug 2026 18:00:00 GMT",
+      "summary": "This S&P 500 Stock Pays a 2.67% Dividend Yield and Has Increased Its Payout in 17 Straight Years. Here's Why None of This Matters to Investors as Much as the Federal Reserve and Kevin Warsh. The Motley Fool",
+      "guid": "CBMimAFBVV95cUxPRUo1T2VJb0JyWURNWmRZR21SN3FmY2Nrak4ySnJ2a2ZpSXpHSy1CSnhGcVpKODF5d29weDhjUE5yNU40amZwSGtDdGhkeE5rdUt5MS13cTd2MUhOUFROUmhZZFpjdS1Yd2V0c21Zc0F6alo5d29xYzV4QlcwR090cnJwWG9jSzctWkttQ2s1clJtWVpqS0hscQ"
     }
   ]
 }
