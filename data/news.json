@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T10:16:33Z",
+  "generated_at": "2026-08-26T10:57:21Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -31,14 +31,6 @@
       "guid": "CBMilAFBVV95cUxQU0x1Uml3U2JwWVNjbDZjSUNkWVBTUkE3Vk5FS09sWFp3VE5kRDBYckZkUDU2c05uaVBsRTI0RXZXQmw5ZndNSk5BdUVUY01jNGNoOXhCRUtyc1dkTll0ZFJvOFhDbGtiT3l1NmpOdk5Lc3JHdktBU29XMjR2YXNaZHVQYmotMlItZVNPVkVabGhSMDJ2"
     },
     {
-      "title": "Will Warsh Hit Reset With Markets at Jackson Hole? - Investopedia",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORWZZR05jSEhBRVpEdkZjMmxTRlh1VVpFb1RYY3o2S285V2ZkdHNrbjNTY2ozUVFKS2o0NDc5UjJ1bWVwZ0poWmVrcFF0T1N5bm5WOTVfTTYxT1RkT1lnalhwOERwbGtvSlFiWlVYbFl4ZjIxNEk3cEoyZlB6YjA5dmtwc2hfemJrUGwtWkVpVzI?oc=5",
-      "source": "Investopedia",
-      "published_at": "Mon, 24 Aug 2026 20:33:25 GMT",
-      "summary": "Will Warsh Hit Reset With Markets at Jackson Hole? Investopedia",
-      "guid": "CBMikAFBVV95cUxORWZZR05jSEhBRVpEdkZjMmxTRlh1VVpFb1RYY3o2S285V2ZkdHNrbjNTY2ozUVFKS2o0NDc5UjJ1bWVwZ0poWmVrcFF0T1N5bm5WOTVfTTYxT1RkT1lnalhwOERwbGtvSlFiWlVYbFl4ZjIxNEk3cEoyZlB6YjA5dmtwc2hfemJrUGwtWkVpVzI"
-    },
-    {
       "title": "The Bond Market Is Signaling Rising Risks. Investors Should Listen. - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZlhBejhhZWNUdDRiX05LWHFRaGJhX0ltazRRWTFPZWdvazNWX0U1WDg4NmpIb0swb1dsR21KTzg2MUc5Z21ORnJXdWFxX2xybjdsOG1lUnV4aWs3TWw3QmR5TUFfMDZ5Qkc5WVhxSWVXT2dUZDVneUxqRms3V1dBeDJvUzJtT1R4Z01NYlZNbXBBNnVBWWdF?oc=5",
       "source": "The New York Times",
@@ -55,28 +47,36 @@
       "guid": "CBMiuwFBVV95cUxPcGZKaVc1MHU4VUlQTzFVZDNhOTJuN2VsZ1RITGFrRzFNMGNtWFJOT3BQQTRvcUwyLXo4bWNRcWlVaG5KSVpVU3Z1UmpjemUySjhLa1RhT2xBZHdGQ2tBT1JCSkYtZ3YtT2ZUZVNpcDBRYV9qdDdBcGtPbWFCclV4R3RVcDNJbGxyWmpjbHZ4MU9WUTFjcko5R0Vob3MyZmlMV2JHMDgybDdUa0NlcUR6QlBxa21xeHU2S1pv"
     },
     {
-      "title": "US stocks sink on worries about a possible hike to interest rates this year by the Federal Reserve - AP News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcUlFaFNwNVNsa1RTZTFkTEhaMmhGLXBpZnZjeVAwaDBSSzRjZUFIMTQ3UTctckwtOXRvUDB6c0sxUGVlRWY5SUM5ZUllV1doQVhoLWkyd3IxdFdkRWJGY2J0ZGxyNmNwTEU3LVVBdDlXWVlxM2QtdGpHWmtBMGl0WkFWQzNucTVFTF9lelY3ZjdXNzFYeDhN?oc=5",
-      "source": "AP News",
-      "published_at": "Wed, 17 Jun 2026 07:00:00 GMT",
-      "summary": "US stocks sink on worries about a possible hike to interest rates this year by the Federal Reserve AP News",
-      "guid": "CBMilwFBVV95cUxQcUlFaFNwNVNsa1RTZTFkTEhaMmhGLXBpZnZjeVAwaDBSSzRjZUFIMTQ3UTctckwtOXRvUDB6c0sxUGVlRWY5SUM5ZUllV1doQVhoLWkyd3IxdFdkRWJGY2J0ZGxyNmNwTEU3LVVBdDlXWVlxM2QtdGpHWmtBMGl0WkFWQzNucTVFTF9lelY3ZjdXNzFYeDhN"
+      "title": "Why a Fed Rate Cut Is Coming and How the Market Will React - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSERES2lGcGlzcE44UzJLUGdJY0RJc0xDRDVXbmlrVUxJS1ZtMjd6LWJvQmtZY2RSRVF5dDZxSUFkd3NNaEJPelFpUkZrUU5QaUVtMVFSWGVRODVaSDMwVVRiSFBYdkhCM2t2UmFhUEdjQWhNY21yV2pMMjdiY2tFeW9VMmE?oc=5",
+      "source": "Barron's",
+      "published_at": "Thu, 06 Aug 2026 07:00:00 GMT",
+      "summary": "Why a Fed Rate Cut Is Coming and How the Market Will React Barron's",
+      "guid": "CBMihAFBVV95cUxOSERES2lGcGlzcE44UzJLUGdJY0RJc0xDRDVXbmlrVUxJS1ZtMjd6LWJvQmtZY2RSRVF5dDZxSUFkd3NNaEJPelFpUkZrUU5QaUVtMVFSWGVRODVaSDMwVVRiSFBYdkhCM2t2UmFhUEdjQWhNY21yV2pMMjdiY2tFeW9VMmE"
     },
     {
-      "title": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says a Big Drop Could Follow. - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSG5UVUo2Qjc0QmZXVkZkVG5DNDFUMHJVT3ZDUHZzOFBVOXVuWk55aE9ZcDVOVEFJa3Y5ZHpjNWx4YWgtb3VfSjRHQUJXMFJIV3lPcTFDSjFadXBmdENDeGx2eGMyZ2NVRjM2Mk9RYlU3X1B2OGMwWmR6ajgtMWxQUmFCMER2R1gxZk52LVZYWW1lVkxxeWp2S3dpVjA?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Wed, 01 Jul 2026 07:00:00 GMT",
-      "summary": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says a Big Drop Could Follow. Yahoo Finance",
-      "guid": "CBMinAFBVV95cUxPSG5UVUo2Qjc0QmZXVkZkVG5DNDFUMHJVT3ZDUHZzOFBVOXVuWk55aE9ZcDVOVEFJa3Y5ZHpjNWx4YWgtb3VfSjRHQUJXMFJIV3lPcTFDSjFadXBmdENDeGx2eGMyZ2NVRjM2Mk9RYlU3X1B2OGMwWmR6ajgtMWxQUmFCMER2R1gxZk52LVZYWW1lVkxxeWp2S3dpVjA"
+      "title": "How Kevin Warsh is rewiring the Fed - Axios",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8teTJqbjhiWFJIbWJ2emRScjZZRzVZWF9NLXNVb2k4Q2g0NTFlZzdmSC1JQ2phc0F2X0RHMFBoRE9DRUdXZllqZGhPZ1dtS0xzWV9YNXByRlVMdFIxZERKTU5QcERtdm5PTFVRcXIteDJod0k?oc=5",
+      "source": "Axios",
+      "published_at": "Mon, 10 Aug 2026 07:00:00 GMT",
+      "summary": "How Kevin Warsh is rewiring the Fed Axios",
+      "guid": "CBMic0FVX3lxTE8teTJqbjhiWFJIbWJ2emRScjZZRzVZWF9NLXNVb2k4Q2g0NTFlZzdmSC1JQ2phc0F2X0RHMFBoRE9DRUdXZllqZGhPZ1dtS0xzWV9YNXByRlVMdFIxZERKTU5QcERtdm5PTFVRcXIteDJod0k"
     },
     {
-      "title": "Alan Greenspan, former head of Federal Reserve, dies at 100 - CNN",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA1WDJXSmRrSnpUMkNvb013Z1VJWm1zVVNQOUwtYXRFRFMtMWVSV3hveGpERTdrMXg0XzBSaFc3ZG5HWU9leEMzbUFhcm1uT0FHVzlod1VNNnhadDJsdTQwUjdtTTYzck4wbUFkekQ4UQ?oc=5",
-      "source": "CNN",
-      "published_at": "Mon, 22 Jun 2026 07:00:00 GMT",
-      "summary": "Alan Greenspan, former head of Federal Reserve, dies at 100 CNN",
-      "guid": "CBMib0FVX3lxTFA1WDJXSmRrSnpUMkNvb013Z1VJWm1zVVNQOUwtYXRFRFMtMWVSV3hveGpERTdrMXg0XzBSaFc3ZG5HWU9leEMzbUFhcm1uT0FHVzlod1VNNnhadDJsdTQwUjdtTTYzck4wbUFkekQ4UQ"
+      "title": "U.S. Federal Reserve’s ‘hawkish hold’ leaves investors lacking clarity - The Japan Times",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdHlpdFZKV3FtRXZkSk11Yi1UamhOMWp0TGVvaVBuTkw0d2F4dVVRSkVWb1hhSE5GV0M2eHdoV1k1TmcxdlFmbXFQT2U4VUJZSTZSVG16RXdLTHhxdGtPQWtaSWxNaU4yMmgxMnBKWXpod2h6Z0tyMGtMZTZFREFMdzVxRzNOb2tNbDJLSnNoUjQ?oc=5",
+      "source": "The Japan Times",
+      "published_at": "Thu, 30 Jul 2026 07:00:00 GMT",
+      "summary": "U.S. Federal Reserve’s ‘hawkish hold’ leaves investors lacking clarity The Japan Times",
+      "guid": "CBMikAFBVV95cUxQdHlpdFZKV3FtRXZkSk11Yi1UamhOMWp0TGVvaVBuTkw0d2F4dVVRSkVWb1hhSE5GV0M2eHdoV1k1TmcxdlFmbXFQT2U4VUJZSTZSVG16RXdLTHhxdGtPQWtaSWxNaU4yMmgxMnBKWXpod2h6Z0tyMGtMZTZFREFMdzVxRzNOb2tNbDJLSnNoUjQ"
+    },
+    {
+      "title": "Technology Stocks Lift Equities as Treasuries Rise: Markets Wrap - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRm5iVEpILVhFaFAzUHBRYWlac1czaWdxenR2dUd5dEN1T2dkcDFxbTBBenhacUlMVGlLSW1PUFp3Z2phVk51TTFiUEVCMHZiUWt0UDNka1Itbi16Mm8wOWswRUswUE1IR2VhVVhBNFFkbm5QWlZpN1FZdU85cXJGREZzYVdiUTU5OGVkQXFDbWN2dnVF?oc=5",
+      "source": "Bloomberg.com",
+      "published_at": "Sun, 16 Aug 2026 07:00:00 GMT",
+      "summary": "Technology Stocks Lift Equities as Treasuries Rise: Markets Wrap Bloomberg.com",
+      "guid": "CBMilAFBVV95cUxPRm5iVEpILVhFaFAzUHBRYWlac1czaWdxenR2dUd5dEN1T2dkcDFxbTBBenhacUlMVGlLSW1PUFp3Z2phVk51TTFiUEVCMHZiUWt0UDNka1Itbi16Mm8wOWswRUswUE1IR2VhVVhBNFFkbm5QWlZpN1FZdU85cXJGREZzYVdiUTU5OGVkQXFDbWN2dnVF"
     },
     {
       "title": "‘All hat, no cattle’: Markets question Fed’s inflation credibility amid elevated bond yields - Yahoo Finance",
