@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T13:30:48Z",
+  "generated_at": "2026-08-26T14:23:05Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,20 +7,12 @@
   },
   "items": [
     {
-      "title": "High asset prices, not low interest rates, are driving inflation - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTDFwSEROWmxGdnRfenJJOTZ1UTR4dVUwZ1FaLUI0YkFubVcwQm53WF9iTkVyRXNMazhwdkNxem53eDBlUzBwM3BiSUpFdEM2cWhJeUlPa1MzRFlzTktLaE1jOXBKTUE5TV93SEk1Y00wOWt1U296X2ZfaTlKd1Z2NTFTd1I?oc=5",
-      "source": "Financial Times",
-      "published_at": "Mon, 24 Aug 2026 12:00:01 GMT",
-      "summary": "High asset prices, not low interest rates, are driving inflation Financial Times",
-      "guid": "CBMihAFBVV95cUxOTDFwSEROWmxGdnRfenJJOTZ1UTR4dVUwZ1FaLUI0YkFubVcwQm53WF9iTkVyRXNMazhwdkNxem53eDBlUzBwM3BiSUpFdEM2cWhJeUlPa1MzRFlzTktLaE1jOXBKTUE5TV93SEk1Y00wOWt1U296X2ZfaTlKd1Z2NTFTd1I"
-    },
-    {
-      "title": "Stock Market Investors Just Got Bad News From the Federal Reserve - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU0x1Uml3U2JwWVNjbDZjSUNkWVBTUkE3Vk5FS09sWFp3VE5kRDBYckZkUDU2c05uaVBsRTI0RXZXQmw5ZndNSk5BdUVUY01jNGNoOXhCRUtyc1dkTll0ZFJvOFhDbGtiT3l1NmpOdk5Lc3JHdktBU29XMjR2YXNaZHVQYmotMlItZVNPVkVabGhSMDJ2?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Sun, 09 Aug 2026 07:00:00 GMT",
-      "summary": "Stock Market Investors Just Got Bad News From the Federal Reserve The Motley Fool",
-      "guid": "CBMilAFBVV95cUxQU0x1Uml3U2JwWVNjbDZjSUNkWVBTUkE3Vk5FS09sWFp3VE5kRDBYckZkUDU2c05uaVBsRTI0RXZXQmw5ZndNSk5BdUVUY01jNGNoOXhCRUtyc1dkTll0ZFJvOFhDbGtiT3l1NmpOdk5Lc3JHdktBU29XMjR2YXNaZHVQYmotMlItZVNPVkVabGhSMDJ2"
+      "title": "Fed’s preferred inflation gauge shows core prices rose 3.3% annually in July - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSVVsa2NwekdQT3BYM2xVT0g2YnNRZE5DVVJEVEo5Q0xkSXhnYTNlck5JQ1U2a2U3Y1dVdFZqMlU3ZU9CVzNFbVBpdERTSmtrZldKZUw5c1dSLVAxU3Q0bzUzZjAwNXFheGJGcDdjVEQtWU1sdlVkRUNLOExUdy1VVXBKR0t2VENtbzZoWDlzaUItZ0RNaURuUkUxOUxQMGdrN0hpNUpXVHNCS3JUTGp0b2VoWTNYdkh5TjQtZTNIQdIBxAFBVV95cUxNNy1Wc1cya0tNay0wRGduUFBkZnhtM2RlcVBIeVRzTmVSb0hTT3ZHMzk0dndGa1ZnUS1MdENyMzE3bHpySEQ1RmVjTjM5cFVWRDduTTJtWmNKVGV6MG9JZExkYnFCdVg2ZjB3a0o3amo3SkVLRDhNXzgweG9DZHYxamdKN05yMUlleVR5ZG5tUkNyR2ZpQjBOLWtUZmdmWXQ3aDlJRVFpUWROTnY4SDVycXdfTl9DMkl2RG5CVVR2bDRtNHl6?oc=5",
+      "source": "CNBC",
+      "published_at": "Wed, 26 Aug 2026 12:32:36 GMT",
+      "summary": "Fed’s preferred inflation gauge shows core prices rose 3.3% annually in July CNBC",
+      "guid": "CBMivwFBVV95cUxPSVVsa2NwekdQT3BYM2xVT0g2YnNRZE5DVVJEVEo5Q0xkSXhnYTNlck5JQ1U2a2U3Y1dVdFZqMlU3ZU9CVzNFbVBpdERTSmtrZldKZUw5c1dSLVAxU3Q0bzUzZjAwNXFheGJGcDdjVEQtWU1sdlVkRUNLOExUdy1VVXBKR0t2VENtbzZoWDlzaUItZ0RNaURuUkUxOUxQMGdrN0hpNUpXVHNCS3JUTGp0b2VoWTNYdkh5TjQtZTNIQdIBxAFBVV95cUxNNy1Wc1cya0tNay0wRGduUFBkZnhtM2RlcVBIeVRzTmVSb0hTT3ZHMzk0dndGa1ZnUS1MdENyMzE3bHpySEQ1RmVjTjM5cFVWRDduTTJtWmNKVGV6MG9JZExkYnFCdVg2ZjB3a0o3amo3SkVLRDhNXzgweG9DZHYxamdKN05yMUlleVR5ZG5tUkNyR2ZpQjBOLWtUZmdmWXQ3aDlJRVFpUWROTnY4SDVycXdfTl9DMkl2RG5CVVR2bDRtNHl6"
     },
     {
       "title": "Two key takeaways from the Fed’s unusually unpredictable meeting - CNN",
@@ -31,6 +23,14 @@
       "guid": "CBMibkFVX3lxTFB5WFlYR005RGsxTFhUTHg0M3FyX0NHMlpUUTdoQnZiWjVtQVdBVFpEMzFGM3J4eW5yc2V4ZWdoUzRyY3lETHdWUVg0Vm9MV2NnaHZKZDdkcms1cGd0UmozVmtrWXI5SzhiTnJvX2RR"
     },
     {
+      "title": "Stock Market Investors Just Got Bad News From the Federal Reserve - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU0x1Uml3U2JwWVNjbDZjSUNkWVBTUkE3Vk5FS09sWFp3VE5kRDBYckZkUDU2c05uaVBsRTI0RXZXQmw5ZndNSk5BdUVUY01jNGNoOXhCRUtyc1dkTll0ZFJvOFhDbGtiT3l1NmpOdk5Lc3JHdktBU29XMjR2YXNaZHVQYmotMlItZVNPVkVabGhSMDJ2?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Sun, 09 Aug 2026 07:00:00 GMT",
+      "summary": "Stock Market Investors Just Got Bad News From the Federal Reserve The Motley Fool",
+      "guid": "CBMilAFBVV95cUxQU0x1Uml3U2JwWVNjbDZjSUNkWVBTUkE3Vk5FS09sWFp3VE5kRDBYckZkUDU2c05uaVBsRTI0RXZXQmw5ZndNSk5BdUVUY01jNGNoOXhCRUtyc1dkTll0ZFJvOFhDbGtiT3l1NmpOdk5Lc3JHdktBU29XMjR2YXNaZHVQYmotMlItZVNPVkVabGhSMDJ2"
+    },
+    {
       "title": "Does the Equity Term Structure Respond to Monetary Policy Shocks? - Liberty Street Economics",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcGZKaVc1MHU4VUlQTzFVZDNhOTJuN2VsZ1RITGFrRzFNMGNtWFJOT3BQQTRvcUwyLXo4bWNRcWlVaG5KSVpVU3Z1UmpjemUySjhLa1RhT2xBZHdGQ2tBT1JCSkYtZ3YtT2ZUZVNpcDBRYV9qdDdBcGtPbWFCclV4R3RVcDNJbGxyWmpjbHZ4MU9WUTFjcko5R0Vob3MyZmlMV2JHMDgybDdUa0NlcUR6QlBxa21xeHU2S1pv?oc=5",
       "source": "Liberty Street Economics",
@@ -39,44 +39,28 @@
       "guid": "CBMiuwFBVV95cUxPcGZKaVc1MHU4VUlQTzFVZDNhOTJuN2VsZ1RITGFrRzFNMGNtWFJOT3BQQTRvcUwyLXo4bWNRcWlVaG5KSVpVU3Z1UmpjemUySjhLa1RhT2xBZHdGQ2tBT1JCSkYtZ3YtT2ZUZVNpcDBRYV9qdDdBcGtPbWFCclV4R3RVcDNJbGxyWmpjbHZ4MU9WUTFjcko5R0Vob3MyZmlMV2JHMDgybDdUa0NlcUR6QlBxa21xeHU2S1pv"
     },
     {
-      "title": "US stock futures flat ahead of PCE inflation data, Nvidia earnings - CNBC TV18",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdEd4Z0Z2OTVqM09NV2dqNUJSV2gxX1ZWZ2hhdVh4MHJTcmM2NzU4MF9PdlRnZE1uTkNSbm1iRExOaFNjZmNRQVhfa0lWMTRMZTFWWllsNkg0MUNKc1MwNk95TWRQRUtLV2tEbnhGblBPalhydTZSX0dZdmFKMUg5aHZaTi1PZW9aeHg4SkYtYW9qUllveXRLUkItVjFOUlhtdzR2aExrQ21PSFo0TURMdlJhMXNBUzDSAbwBQVVfeXFMTlNqSVdhbWF5V3Z5OEJvVUJsOVdjUjVRWlJUTTUzdHcxQ0pxYU1uMGdOanBub0ZKcml0T0pWY3IxQ0tsajZUdmRvMlRFbGZpZDR6ZUJqUFFjT3ZxN1NJMWR6SGtaQW9mZ2NFYWVPMk9SemFiWGZ3WHpEbDcweFZIakdfMXZwNkU2SmF5VTRrS0pZUUdZSWpwdmFOZi1zVjNDR0JFZXhlZWRtSklLNzVCRXFXbF9za2lQdDV5SF8?oc=5",
-      "source": "CNBC TV18",
-      "published_at": "Wed, 26 Aug 2026 13:03:27 GMT",
-      "summary": "US stock futures flat ahead of PCE inflation data, Nvidia earnings CNBC TV18",
-      "guid": "CBMitwFBVV95cUxNdEd4Z0Z2OTVqM09NV2dqNUJSV2gxX1ZWZ2hhdVh4MHJTcmM2NzU4MF9PdlRnZE1uTkNSbm1iRExOaFNjZmNRQVhfa0lWMTRMZTFWWllsNkg0MUNKc1MwNk95TWRQRUtLV2tEbnhGblBPalhydTZSX0dZdmFKMUg5aHZaTi1PZW9aeHg4SkYtYW9qUllveXRLUkItVjFOUlhtdzR2aExrQ21PSFo0TURMdlJhMXNBUzDSAbwBQVVfeXFMTlNqSVdhbWF5V3Z5OEJvVUJsOVdjUjVRWlJUTTUzdHcxQ0pxYU1uMGdOanBub0ZKcml0T0pWY3IxQ0tsajZUdmRvMlRFbGZpZDR6ZUJqUFFjT3ZxN1NJMWR6SGtaQW9mZ2NFYWVPMk9SemFiWGZ3WHpEbDcweFZIakdfMXZwNkU2SmF5VTRrS0pZUUdZSWpwdmFOZi1zVjNDR0JFZXhlZWRtSklLNzVCRXFXbF9za2lQdDV5SF8"
+      "title": "US stocks sink on worries about a possible hike to interest rates this year by the Federal Reserve - AP News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcUlFaFNwNVNsa1RTZTFkTEhaMmhGLXBpZnZjeVAwaDBSSzRjZUFIMTQ3UTctckwtOXRvUDB6c0sxUGVlRWY5SUM5ZUllV1doQVhoLWkyd3IxdFdkRWJGY2J0ZGxyNmNwTEU3LVVBdDlXWVlxM2QtdGpHWmtBMGl0WkFWQzNucTVFTF9lelY3ZjdXNzFYeDhN?oc=5",
+      "source": "AP News",
+      "published_at": "Wed, 17 Jun 2026 07:00:00 GMT",
+      "summary": "US stocks sink on worries about a possible hike to interest rates this year by the Federal Reserve AP News",
+      "guid": "CBMilwFBVV95cUxQcUlFaFNwNVNsa1RTZTFkTEhaMmhGLXBpZnZjeVAwaDBSSzRjZUFIMTQ3UTctckwtOXRvUDB6c0sxUGVlRWY5SUM5ZUllV1doQVhoLWkyd3IxdFdkRWJGY2J0ZGxyNmNwTEU3LVVBdDlXWVlxM2QtdGpHWmtBMGl0WkFWQzNucTVFTF9lelY3ZjdXNzFYeDhN"
     },
     {
-      "title": "Why a Fed Rate Cut Is Coming and How the Market Will React - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSERES2lGcGlzcE44UzJLUGdJY0RJc0xDRDVXbmlrVUxJS1ZtMjd6LWJvQmtZY2RSRVF5dDZxSUFkd3NNaEJPelFpUkZrUU5QaUVtMVFSWGVRODVaSDMwVVRiSFBYdkhCM2t2UmFhUEdjQWhNY21yV2pMMjdiY2tFeW9VMmE?oc=5",
-      "source": "Barron's",
-      "published_at": "Thu, 06 Aug 2026 07:00:00 GMT",
-      "summary": "Why a Fed Rate Cut Is Coming and How the Market Will React Barron's",
-      "guid": "CBMihAFBVV95cUxOSERES2lGcGlzcE44UzJLUGdJY0RJc0xDRDVXbmlrVUxJS1ZtMjd6LWJvQmtZY2RSRVF5dDZxSUFkd3NNaEJPelFpUkZrUU5QaUVtMVFSWGVRODVaSDMwVVRiSFBYdkhCM2t2UmFhUEdjQWhNY21yV2pMMjdiY2tFeW9VMmE"
+      "title": "Surging equities and the trickle-up economy - The Real Economy Blog",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43TFhjLThoWVRJQmpVelVESVh5bUlTcnN5YUxOX29tT0lIRjBKa3BQbzBwa1FGS2oyR09IQW0wcngzMHYyUzdzQkl2RUlhZkVzdTE2dEdBTkxjYkgyYWJlX1Jra2pHb3d0TERydW1EQ3RIWVlidjU5eXJESXptcEU?oc=5",
+      "source": "The Real Economy Blog",
+      "published_at": "Mon, 22 Jun 2026 07:00:00 GMT",
+      "summary": "Surging equities and the trickle-up economy The Real Economy Blog",
+      "guid": "CBMif0FVX3lxTE43TFhjLThoWVRJQmpVelVESVh5bUlTcnN5YUxOX29tT0lIRjBKa3BQbzBwa1FGS2oyR09IQW0wcngzMHYyUzdzQkl2RUlhZkVzdTE2dEdBTkxjYkgyYWJlX1Jra2pHb3d0TERydW1EQ3RIWVlidjU5eXJESXptcEU"
     },
     {
-      "title": "Technology Stocks Lift Equities as Treasuries Rise: Markets Wrap - Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRm5iVEpILVhFaFAzUHBRYWlac1czaWdxenR2dUd5dEN1T2dkcDFxbTBBenhacUlMVGlLSW1PUFp3Z2phVk51TTFiUEVCMHZiUWt0UDNka1Itbi16Mm8wOWswRUswUE1IR2VhVVhBNFFkbm5QWlZpN1FZdU85cXJGREZzYVdiUTU5OGVkQXFDbWN2dnVF?oc=5",
-      "source": "Bloomberg",
-      "published_at": "Sun, 16 Aug 2026 07:00:00 GMT",
-      "summary": "Technology Stocks Lift Equities as Treasuries Rise: Markets Wrap Bloomberg",
-      "guid": "CBMilAFBVV95cUxPRm5iVEpILVhFaFAzUHBRYWlac1czaWdxenR2dUd5dEN1T2dkcDFxbTBBenhacUlMVGlLSW1PUFp3Z2phVk51TTFiUEVCMHZiUWt0UDNka1Itbi16Mm8wOWswRUswUE1IR2VhVVhBNFFkbm5QWlZpN1FZdU85cXJGREZzYVdiUTU5OGVkQXFDbWN2dnVF"
-    },
-    {
-      "title": "How Kevin Warsh is rewiring the Fed - Axios",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8teTJqbjhiWFJIbWJ2emRScjZZRzVZWF9NLXNVb2k4Q2g0NTFlZzdmSC1JQ2phc0F2X0RHMFBoRE9DRUdXZllqZGhPZ1dtS0xzWV9YNXByRlVMdFIxZERKTU5QcERtdm5PTFVRcXIteDJod0k?oc=5",
-      "source": "Axios",
-      "published_at": "Mon, 10 Aug 2026 07:00:00 GMT",
-      "summary": "How Kevin Warsh is rewiring the Fed Axios",
-      "guid": "CBMic0FVX3lxTE8teTJqbjhiWFJIbWJ2emRScjZZRzVZWF9NLXNVb2k4Q2g0NTFlZzdmSC1JQ2phc0F2X0RHMFBoRE9DRUdXZllqZGhPZ1dtS0xzWV9YNXByRlVMdFIxZERKTU5QcERtdm5PTFVRcXIteDJod0k"
-    },
-    {
-      "title": "U.S. Federal Reserve’s ‘hawkish hold’ leaves investors lacking clarity - The Japan Times",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdHlpdFZKV3FtRXZkSk11Yi1UamhOMWp0TGVvaVBuTkw0d2F4dVVRSkVWb1hhSE5GV0M2eHdoV1k1TmcxdlFmbXFQT2U4VUJZSTZSVG16RXdLTHhxdGtPQWtaSWxNaU4yMmgxMnBKWXpod2h6Z0tyMGtMZTZFREFMdzVxRzNOb2tNbDJLSnNoUjQ?oc=5",
-      "source": "The Japan Times",
-      "published_at": "Thu, 30 Jul 2026 07:00:00 GMT",
-      "summary": "U.S. Federal Reserve’s ‘hawkish hold’ leaves investors lacking clarity The Japan Times",
-      "guid": "CBMikAFBVV95cUxQdHlpdFZKV3FtRXZkSk11Yi1UamhOMWp0TGVvaVBuTkw0d2F4dVVRSkVWb1hhSE5GV0M2eHdoV1k1TmcxdlFmbXFQT2U4VUJZSTZSVG16RXdLTHhxdGtPQWtaSWxNaU4yMmgxMnBKWXpod2h6Z0tyMGtMZTZFREFMdzVxRzNOb2tNbDJLSnNoUjQ"
+      "title": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says a Big Drop Could Follow. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSG5UVUo2Qjc0QmZXVkZkVG5DNDFUMHJVT3ZDUHZzOFBVOXVuWk55aE9ZcDVOVEFJa3Y5ZHpjNWx4YWgtb3VfSjRHQUJXMFJIV3lPcTFDSjFadXBmdENDeGx2eGMyZ2NVRjM2Mk9RYlU3X1B2OGMwWmR6ajgtMWxQUmFCMER2R1gxZk52LVZYWW1lVkxxeWp2S3dpVjA?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Wed, 01 Jul 2026 07:00:00 GMT",
+      "summary": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says a Big Drop Could Follow. Yahoo Finance",
+      "guid": "CBMinAFBVV95cUxPSG5UVUo2Qjc0QmZXVkZkVG5DNDFUMHJVT3ZDUHZzOFBVOXVuWk55aE9ZcDVOVEFJa3Y5ZHpjNWx4YWgtb3VfSjRHQUJXMFJIV3lPcTFDSjFadXBmdENDeGx2eGMyZ2NVRjM2Mk9RYlU3X1B2OGMwWmR6ajgtMWxQUmFCMER2R1gxZk52LVZYWW1lVkxxeWp2S3dpVjA"
     },
     {
       "title": "‘All hat, no cattle’: Markets question Fed’s inflation credibility amid elevated bond yields - Yahoo Finance",
@@ -85,6 +69,22 @@
       "published_at": "Tue, 04 Aug 2026 07:00:00 GMT",
       "summary": "‘All hat, no cattle’: Markets question Fed’s inflation credibility amid elevated bond yields Yahoo Finance",
       "guid": "CBMizgFBVV95cUxNX0U2TnlYYTByU250UEhiTTQ0bm9xZDZRVElEbDZZak9FQVE0ZFMxZDFVVXlEX1BsRnA2QVg3N1ZjdTlvajRRWWpmamljeTBzQnk1XzdsRzBkTGV1QlFiZVZ6QTJfb282QV9mTWsxNUJHTXdIR3paaTQxcXlha2NBd21uQkVtMmlBbkctSUN0anRmQXhmWVluVk14ZDBWTDlCZ1hkR0JaMWtXcmVqdHdJQ2JMcVVEMVVyM0ppUjhuTHFWbU1CMWI4dTVJel90QQ"
+    },
+    {
+      "title": "Alan Greenspan, former head of Federal Reserve, dies at 100 | CNN Business - CNN",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA1WDJXSmRrSnpUMkNvb013Z1VJWm1zVVNQOUwtYXRFRFMtMWVSV3hveGpERTdrMXg0XzBSaFc3ZG5HWU9leEMzbUFhcm1uT0FHVzlod1VNNnhadDJsdTQwUjdtTTYzck4wbUFkekQ4UQ?oc=5",
+      "source": "CNN",
+      "published_at": "Mon, 22 Jun 2026 07:00:00 GMT",
+      "summary": "Alan Greenspan, former head of Federal Reserve, dies at 100 | CNN Business CNN",
+      "guid": "CBMib0FVX3lxTFA1WDJXSmRrSnpUMkNvb013Z1VJWm1zVVNQOUwtYXRFRFMtMWVSV3hveGpERTdrMXg0XzBSaFc3ZG5HWU9leEMzbUFhcm1uT0FHVzlod1VNNnhadDJsdTQwUjdtTTYzck4wbUFkekQ4UQ"
+    },
+    {
+      "title": "The Fed meeting, Ford earnings, Trump's investment portfolio and more in Morning Squawk - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeHVlRjk1NnoyeDVNQV9JeDlmSEhFdE1ObTQ4TUFOTXplaXYzR1RHTGJKWlJ2UHFBclY0T0xTY0ltYzRXSGZsWnc1MnZ6RjRveU1sYU4wdG5zaW5VNHc4UHBFOHFENUNvVThsMWJXaDNxaGJNZjhpczdjSVpjbVFqUGQ1MHZYUHdiWlhz0gGQAUFVX3lxTE9OVUcyQXZCZV83dWk0VDNEeFM4R1R1OWtvM2NZUktFOE5VNGsyMDZKeHVNOUxDMS02RFFfQkZFRXZNbkYtcVpHbnZ6NjRfNERSTXAyVlVBWF81N3FFaUIzZ2JZUHZndWNnM1ZwVTllYVI0YnVqYnF3YlJhLVBwSlkwcU45akE3Y3labTJtRlo4Rw?oc=5",
+      "source": "CNBC",
+      "published_at": "Wed, 29 Jul 2026 07:00:00 GMT",
+      "summary": "The Fed meeting, Ford earnings, Trump's investment portfolio and more in Morning Squawk CNBC",
+      "guid": "CBMiiwFBVV95cUxNeHVlRjk1NnoyeDVNQV9JeDlmSEhFdE1ObTQ4TUFOTXplaXYzR1RHTGJKWlJ2UHFBclY0T0xTY0ltYzRXSGZsWnc1MnZ6RjRveU1sYU4wdG5zaW5VNHc4UHBFOHFENUNvVThsMWJXaDNxaGJNZjhpczdjSVpjbVFqUGQ1MHZYUHdiWlhz0gGQAUFVX3lxTE9OVUcyQXZCZV83dWk0VDNEeFM4R1R1OWtvM2NZUktFOE5VNGsyMDZKeHVNOUxDMS02RFFfQkZFRXZNbkYtcVpHbnZ6NjRfNERSTXAyVlVBWF81N3FFaUIzZ2JZUHZndWNnM1ZwVTllYVI0YnVqYnF3YlJhLVBwSlkwcU45akE3Y3labTJtRlo4Rw"
     }
   ]
 }
