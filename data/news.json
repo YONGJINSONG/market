@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T18:23:42Z",
+  "generated_at": "2026-08-26T20:19:11Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,28 +7,28 @@
   },
   "items": [
     {
+      "title": "US says Chinese hackers hit hospitals, NASA, Senate and more - CNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ1hDYmdTVEpoVjc2VmxxQkw1WkNQMTBNWFA1X05rRl8xWGc5M28telBsbXNRX01mcHhRWnZ5aEZlX3l2T3BDTTZGR1pvRnlNRHlNYVhMd0NFblkzQU1TVVpOdTMtWUJyT1RPeV9Fd1dxcGZDZHdpdmwyRDUyYnRXTUI4ODhfWE0?oc=5",
+      "source": "CNN",
+      "published_at": "Wed, 26 Aug 2026 13:26:50 GMT",
+      "summary": "US says Chinese hackers hit hospitals, NASA, Senate and more CNN",
+      "guid": "CBMihwFBVV95cUxOQ1hDYmdTVEpoVjc2VmxxQkw1WkNQMTBNWFA1X05rRl8xWGc5M28telBsbXNRX01mcHhRWnZ5aEZlX3l2T3BDTTZGR1pvRnlNRHlNYVhMd0NFblkzQU1TVVpOdTMtWUJyT1RPeV9Fd1dxcGZDZHdpdmwyRDUyYnRXTUI4ODhfWE0"
+    },
+    {
+      "title": "PCE Inflation Data Sets High Bar For Warsh's Jackson Hole Speech - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMTBobjZEUmp5SVhFMU5JT09lMGlXMEd6WjJWZkxJYTZSbHhwZEkxM21Gdm1nVTRQWUhKTmZVbnVVcmpBbmZ2eTM2d1NEbU9MTFVxYi00WFN2WkRGeEZfWTFnYVh2TDM1MWJlczNRWjJ4eFpQOTJlc3NVd0hlaTd6eTZrSHNnMmZjVmU3T2Zn?oc=5",
+      "source": "Investor's Business Daily",
+      "published_at": "Wed, 26 Aug 2026 13:23:00 GMT",
+      "summary": "PCE Inflation Data Sets High Bar For Warsh's Jackson Hole Speech Investor's Business Daily",
+      "guid": "CBMijgFBVV95cUxQMTBobjZEUmp5SVhFMU5JT09lMGlXMEd6WjJWZkxJYTZSbHhwZEkxM21Gdm1nVTRQWUhKTmZVbnVVcmpBbmZ2eTM2d1NEbU9MTFVxYi00WFN2WkRGeEZfWTFnYVh2TDM1MWJlczNRWjJ4eFpQOTJlc3NVd0hlaTd6eTZrSHNnMmZjVmU3T2Zn"
+    },
+    {
       "title": "Dollar and bond markets 'on edge' ahead of Jackson Hole as Bessent's market intervention piles pressure on Warsh - CNBC",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNU0hZSlJGTWhSN1dwLXpFZE41QXo1eGZXNEloblBob21wN28waFdjTjNKRFNVMDJJYkEzN2RsYy1Kb3Nib0JVMlotS2o5aHFPYzhmNGlZYjJSMTlaSzVWRUFKcTV4N1BpNGduVFFfR09zRHBscVBZbFdqSzBxNDlsQm1zX3M0NGxlcEVyWHBR0gGTAUFVX3lxTE02bThtd3JFb01NS1FtSEZGdWtoM1BKeHhJU3FNWWpPeHNVSnV5OElRQ29MOWFwWDRid19NdjFFQzdrWGduQWFwSkFHSEFZRnlBSFU3elhIbUU2VlBTSXQ1Y1hIYWtWcVd1VVNxQnpqNWxVbFB0Rnk1elZQSzY0Vm9WSThHRTlaaWYtc3QxVDBOZ2dtbw?oc=5",
       "source": "CNBC",
       "published_at": "Wed, 26 Aug 2026 13:00:11 GMT",
       "summary": "Dollar and bond markets 'on edge' ahead of Jackson Hole as Bessent's market intervention piles pressure on Warsh CNBC",
       "guid": "CBMijgFBVV95cUxNU0hZSlJGTWhSN1dwLXpFZE41QXo1eGZXNEloblBob21wN28waFdjTjNKRFNVMDJJYkEzN2RsYy1Kb3Nib0JVMlotS2o5aHFPYzhmNGlZYjJSMTlaSzVWRUFKcTV4N1BpNGduVFFfR09zRHBscVBZbFdqSzBxNDlsQm1zX3M0NGxlcEVyWHBR0gGTAUFVX3lxTE02bThtd3JFb01NS1FtSEZGdWtoM1BKeHhJU3FNWWpPeHNVSnV5OElRQ29MOWFwWDRid19NdjFFQzdrWGduQWFwSkFHSEFZRnlBSFU3elhIbUU2VlBTSXQ1Y1hIYWtWcVd1VVNxQnpqNWxVbFB0Rnk1elZQSzY0Vm9WSThHRTlaaWYtc3QxVDBOZ2dtbw"
-    },
-    {
-      "title": "US says Chinese cyber spies targeted hospitals, government agencies and the military - CNN",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ1hDYmdTVEpoVjc2VmxxQkw1WkNQMTBNWFA1X05rRl8xWGc5M28telBsbXNRX01mcHhRWnZ5aEZlX3l2T3BDTTZGR1pvRnlNRHlNYVhMd0NFblkzQU1TVVpOdTMtWUJyT1RPeV9Fd1dxcGZDZHdpdmwyRDUyYnRXTUI4ODhfWE0?oc=5",
-      "source": "CNN",
-      "published_at": "Wed, 26 Aug 2026 13:26:50 GMT",
-      "summary": "US says Chinese cyber spies targeted hospitals, government agencies and the military CNN",
-      "guid": "CBMihwFBVV95cUxOQ1hDYmdTVEpoVjc2VmxxQkw1WkNQMTBNWFA1X05rRl8xWGc5M28telBsbXNRX01mcHhRWnZ5aEZlX3l2T3BDTTZGR1pvRnlNRHlNYVhMd0NFblkzQU1TVVpOdTMtWUJyT1RPeV9Fd1dxcGZDZHdpdmwyRDUyYnRXTUI4ODhfWE0"
-    },
-    {
-      "title": "Fed’s preferred inflation gauge shows core prices rose 3.3% annually in July - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSVVsa2NwekdQT3BYM2xVT0g2YnNRZE5DVVJEVEo5Q0xkSXhnYTNlck5JQ1U2a2U3Y1dVdFZqMlU3ZU9CVzNFbVBpdERTSmtrZldKZUw5c1dSLVAxU3Q0bzUzZjAwNXFheGJGcDdjVEQtWU1sdlVkRUNLOExUdy1VVXBKR0t2VENtbzZoWDlzaUItZ0RNaURuUkUxOUxQMGdrN0hpNUpXVHNCS3JUTGp0b2VoWTNYdkh5TjQtZTNIQdIBxAFBVV95cUxNNy1Wc1cya0tNay0wRGduUFBkZnhtM2RlcVBIeVRzTmVSb0hTT3ZHMzk0dndGa1ZnUS1MdENyMzE3bHpySEQ1RmVjTjM5cFVWRDduTTJtWmNKVGV6MG9JZExkYnFCdVg2ZjB3a0o3amo3SkVLRDhNXzgweG9DZHYxamdKN05yMUlleVR5ZG5tUkNyR2ZpQjBOLWtUZmdmWXQ3aDlJRVFpUWROTnY4SDVycXdfTl9DMkl2RG5CVVR2bDRtNHl6?oc=5",
-      "source": "CNBC",
-      "published_at": "Wed, 26 Aug 2026 12:32:36 GMT",
-      "summary": "Fed’s preferred inflation gauge shows core prices rose 3.3% annually in July CNBC",
-      "guid": "CBMivwFBVV95cUxPSVVsa2NwekdQT3BYM2xVT0g2YnNRZE5DVVJEVEo5Q0xkSXhnYTNlck5JQ1U2a2U3Y1dVdFZqMlU3ZU9CVzNFbVBpdERTSmtrZldKZUw5c1dSLVAxU3Q0bzUzZjAwNXFheGJGcDdjVEQtWU1sdlVkRUNLOExUdy1VVXBKR0t2VENtbzZoWDlzaUItZ0RNaURuUkUxOUxQMGdrN0hpNUpXVHNCS3JUTGp0b2VoWTNYdkh5TjQtZTNIQdIBxAFBVV95cUxNNy1Wc1cya0tNay0wRGduUFBkZnhtM2RlcVBIeVRzTmVSb0hTT3ZHMzk0dndGa1ZnUS1MdENyMzE3bHpySEQ1RmVjTjM5cFVWRDduTTJtWmNKVGV6MG9JZExkYnFCdVg2ZjB3a0o3amo3SkVLRDhNXzgweG9DZHYxamdKN05yMUlleVR5ZG5tUkNyR2ZpQjBOLWtUZmdmWXQ3aDlJRVFpUWROTnY4SDVycXdfTl9DMkl2RG5CVVR2bDRtNHl6"
     },
     {
       "title": "Stock Market Investors Just Got Bad News From the Federal Reserve - The Motley Fool",
@@ -71,20 +71,20 @@
       "guid": "CBMikAFBVV95cUxQdHlpdFZKV3FtRXZkSk11Yi1UamhOMWp0TGVvaVBuTkw0d2F4dVVRSkVWb1hhSE5GV0M2eHdoV1k1TmcxdlFmbXFQT2U4VUJZSTZSVG16RXdLTHhxdGtPQWtaSWxNaU4yMmgxMnBKWXpod2h6Z0tyMGtMZTZFREFMdzVxRzNOb2tNbDJLSnNoUjQ"
     },
     {
+      "title": "Fed’s preferred inflation gauge shows core prices rose 3.3% annually in July - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSVVsa2NwekdQT3BYM2xVT0g2YnNRZE5DVVJEVEo5Q0xkSXhnYTNlck5JQ1U2a2U3Y1dVdFZqMlU3ZU9CVzNFbVBpdERTSmtrZldKZUw5c1dSLVAxU3Q0bzUzZjAwNXFheGJGcDdjVEQtWU1sdlVkRUNLOExUdy1VVXBKR0t2VENtbzZoWDlzaUItZ0RNaURuUkUxOUxQMGdrN0hpNUpXVHNCS3JUTGp0b2VoWTNYdkh5TjQtZTNIQdIBxAFBVV95cUxNNy1Wc1cya0tNay0wRGduUFBkZnhtM2RlcVBIeVRzTmVSb0hTT3ZHMzk0dndGa1ZnUS1MdENyMzE3bHpySEQ1RmVjTjM5cFVWRDduTTJtWmNKVGV6MG9JZExkYnFCdVg2ZjB3a0o3amo3SkVLRDhNXzgweG9DZHYxamdKN05yMUlleVR5ZG5tUkNyR2ZpQjBOLWtUZmdmWXQ3aDlJRVFpUWROTnY4SDVycXdfTl9DMkl2RG5CVVR2bDRtNHl6?oc=5",
+      "source": "CNBC",
+      "published_at": "Wed, 26 Aug 2026 12:32:36 GMT",
+      "summary": "Fed’s preferred inflation gauge shows core prices rose 3.3% annually in July CNBC",
+      "guid": "CBMivwFBVV95cUxPSVVsa2NwekdQT3BYM2xVT0g2YnNRZE5DVVJEVEo5Q0xkSXhnYTNlck5JQ1U2a2U3Y1dVdFZqMlU3ZU9CVzNFbVBpdERTSmtrZldKZUw5c1dSLVAxU3Q0bzUzZjAwNXFheGJGcDdjVEQtWU1sdlVkRUNLOExUdy1VVXBKR0t2VENtbzZoWDlzaUItZ0RNaURuUkUxOUxQMGdrN0hpNUpXVHNCS3JUTGp0b2VoWTNYdkh5TjQtZTNIQdIBxAFBVV95cUxNNy1Wc1cya0tNay0wRGduUFBkZnhtM2RlcVBIeVRzTmVSb0hTT3ZHMzk0dndGa1ZnUS1MdENyMzE3bHpySEQ1RmVjTjM5cFVWRDduTTJtWmNKVGV6MG9JZExkYnFCdVg2ZjB3a0o3amo3SkVLRDhNXzgweG9DZHYxamdKN05yMUlleVR5ZG5tUkNyR2ZpQjBOLWtUZmdmWXQ3aDlJRVFpUWROTnY4SDVycXdfTl9DMkl2RG5CVVR2bDRtNHl6"
+    },
+    {
       "title": "Two key takeaways from the Fed’s unusually unpredictable meeting - CNN",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5WFlYR005RGsxTFhUTHg0M3FyX0NHMlpUUTdoQnZiWjVtQVdBVFpEMzFGM3J4eW5yc2V4ZWdoUzRyY3lETHdWUVg0Vm9MV2NnaHZKZDdkcms1cGd0UmozVmtrWXI5SzhiTnJvX2RR?oc=5",
       "source": "CNN",
       "published_at": "Wed, 29 Jul 2026 07:00:00 GMT",
       "summary": "Two key takeaways from the Fed’s unusually unpredictable meeting CNN",
       "guid": "CBMibkFVX3lxTFB5WFlYR005RGsxTFhUTHg0M3FyX0NHMlpUUTdoQnZiWjVtQVdBVFpEMzFGM3J4eW5yc2V4ZWdoUzRyY3lETHdWUVg0Vm9MV2NnaHZKZDdkcms1cGd0UmozVmtrWXI5SzhiTnJvX2RR"
-    },
-    {
-      "title": "‘All hat, no cattle’: Markets question Fed’s inflation credibility amid elevated bond yields - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNX0U2TnlYYTByU250UEhiTTQ0bm9xZDZRVElEbDZZak9FQVE0ZFMxZDFVVXlEX1BsRnA2QVg3N1ZjdTlvajRRWWpmamljeTBzQnk1XzdsRzBkTGV1QlFiZVZ6QTJfb282QV9mTWsxNUJHTXdIR3paaTQxcXlha2NBd21uQkVtMmlBbkctSUN0anRmQXhmWVluVk14ZDBWTDlCZ1hkR0JaMWtXcmVqdHdJQ2JMcVVEMVVyM0ppUjhuTHFWbU1CMWI4dTVJel90QQ?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Tue, 04 Aug 2026 07:00:00 GMT",
-      "summary": "‘All hat, no cattle’: Markets question Fed’s inflation credibility amid elevated bond yields Yahoo Finance",
-      "guid": "CBMizgFBVV95cUxNX0U2TnlYYTByU250UEhiTTQ0bm9xZDZRVElEbDZZak9FQVE0ZFMxZDFVVXlEX1BsRnA2QVg3N1ZjdTlvajRRWWpmamljeTBzQnk1XzdsRzBkTGV1QlFiZVZ6QTJfb282QV9mTWsxNUJHTXdIR3paaTQxcXlha2NBd21uQkVtMmlBbkctSUN0anRmQXhmWVluVk14ZDBWTDlCZ1hkR0JaMWtXcmVqdHdJQ2JMcVVEMVVyM0ppUjhuTHFWbU1CMWI4dTVJel90QQ"
     }
   ]
 }
