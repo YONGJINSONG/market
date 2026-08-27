@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T23:49:07Z",
+  "generated_at": "2026-08-27T05:30:54Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -23,6 +23,14 @@
       "guid": "CBMigwFBVV95cUxNVjhCRmZhUHJ6dEZFVGNSN1ZiYmttRDBJZGw4R2xJYS1raTI5RGd3ZUt5amlkZkNYMDhqcnhNLVJtc0NsbEJET1NKVk94Z3FIdEJ4bHdTal90dXgxTXZvU3JGMy1WMGQ3V00xME9wdHd6ZC1oY3IxQlZMX0Y1aUhmcW5xbw"
     },
     {
+      "title": "Stock Market Today: Wall Street Retreats Slightly as Investors Await Nvidia Earnings - Eurasia Business News",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNmlXQ05DUFlzR0ZlVGdRUlFYUF9iSFlCZXl6T1FYazJ0X3BINEVpdldQWHR1cHpzVDBaUWJnMHJMOGxyQkdqTkRpUlhkOEh2QmlHSkhLZUlGcWR4eENFWUp3VDVwamJZWUhPbUNpX3BYZWdfZVlzWkg3UjYxdTlXTjNsTlpyNl94SkVaVjExcHlUajdYM0lDTFotSk01Q0hjLWZRS2V4S0l6bFJlZTFQRDVEVE4xVkVLU0tFV1c2VURDdVNMZXc?oc=5",
+      "source": "Eurasia Business News",
+      "published_at": "Wed, 26 Aug 2026 19:50:23 GMT",
+      "summary": "Stock Market Today: Wall Street Retreats Slightly as Investors Await Nvidia Earnings Eurasia Business News",
+      "guid": "CBMixgFBVV95cUxQNmlXQ05DUFlzR0ZlVGdRUlFYUF9iSFlCZXl6T1FYazJ0X3BINEVpdldQWHR1cHpzVDBaUWJnMHJMOGxyQkdqTkRpUlhkOEh2QmlHSkhLZUlGcWR4eENFWUp3VDVwamJZWUhPbUNpX3BYZWdfZVlzWkg3UjYxdTlXTjNsTlpyNl94SkVaVjExcHlUajdYM0lDTFotSk01Q0hjLWZRS2V4S0l6bFJlZTFQRDVEVE4xVkVLU0tFV1c2VURDdVNMZXc"
+    },
+    {
       "title": "US says Chinese hackers hit hospitals, NASA, Senate and more - CNN",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ1hDYmdTVEpoVjc2VmxxQkw1WkNQMTBNWFA1X05rRl8xWGc5M28telBsbXNRX01mcHhRWnZ5aEZlX3l2T3BDTTZGR1pvRnlNRHlNYVhMd0NFblkzQU1TVVpOdTMtWUJyT1RPeV9Fd1dxcGZDZHdpdmwyRDUyYnRXTUI4ODhfWE0?oc=5",
       "source": "CNN",
@@ -32,11 +40,19 @@
     },
     {
       "title": "Dollar and bond markets 'on edge' ahead of Jackson Hole as Bessent's market intervention piles pressure on Warsh - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNU0hZSlJGTWhSN1dwLXpFZE41QXo1eGZXNEloblBob21wN28waFdjTjNKRFNVMDJJYkEzN2RsYy1Kb3Nib0JVMlotS2o5aHFPYzhmNGlZYjJSMTlaSzVWRUFKcTV4N1BpNGduVFFfR09zRHBscVBZbFdqSzBxNDlsQm1zX3M0NGxlcEVyWHBR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNU0hZSlJGTWhSN1dwLXpFZE41QXo1eGZXNEloblBob21wN28waFdjTjNKRFNVMDJJYkEzN2RsYy1Kb3Nib0JVMlotS2o5aHFPYzhmNGlZYjJSMTlaSzVWRUFKcTV4N1BpNGduVFFfR09zRHBscVBZbFdqSzBxNDlsQm1zX3M0NGxlcEVyWHBR0gGTAUFVX3lxTE02bThtd3JFb01NS1FtSEZGdWtoM1BKeHhJU3FNWWpPeHNVSnV5OElRQ29MOWFwWDRid19NdjFFQzdrWGduQWFwSkFHSEFZRnlBSFU3elhIbUU2VlBTSXQ1Y1hIYWtWcVd1VVNxQnpqNWxVbFB0Rnk1elZQSzY0Vm9WSThHRTlaaWYtc3QxVDBOZ2dtbw?oc=5",
       "source": "CNBC",
       "published_at": "Wed, 26 Aug 2026 13:00:11 GMT",
       "summary": "Dollar and bond markets 'on edge' ahead of Jackson Hole as Bessent's market intervention piles pressure on Warsh CNBC",
-      "guid": "CBMijgFBVV95cUxNU0hZSlJGTWhSN1dwLXpFZE41QXo1eGZXNEloblBob21wN28waFdjTjNKRFNVMDJJYkEzN2RsYy1Kb3Nib0JVMlotS2o5aHFPYzhmNGlZYjJSMTlaSzVWRUFKcTV4N1BpNGduVFFfR09zRHBscVBZbFdqSzBxNDlsQm1zX3M0NGxlcEVyWHBR"
+      "guid": "CBMijgFBVV95cUxNU0hZSlJGTWhSN1dwLXpFZE41QXo1eGZXNEloblBob21wN28waFdjTjNKRFNVMDJJYkEzN2RsYy1Kb3Nib0JVMlotS2o5aHFPYzhmNGlZYjJSMTlaSzVWRUFKcTV4N1BpNGduVFFfR09zRHBscVBZbFdqSzBxNDlsQm1zX3M0NGxlcEVyWHBR0gGTAUFVX3lxTE02bThtd3JFb01NS1FtSEZGdWtoM1BKeHhJU3FNWWpPeHNVSnV5OElRQ29MOWFwWDRid19NdjFFQzdrWGduQWFwSkFHSEFZRnlBSFU3elhIbUU2VlBTSXQ1Y1hIYWtWcVd1VVNxQnpqNWxVbFB0Rnk1elZQSzY0Vm9WSThHRTlaaWYtc3QxVDBOZ2dtbw"
+    },
+    {
+      "title": "Today’s Market Recap: Nvidia Earnings Beat Expectations, Strong PCE Inflation Weighs on Market Sentiment as Focus Turns to Jackson Hole Meeting - TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMUlJQVZnYTI5by1QYm5IVUVTMjcxUkxiVGF5Njh0Vlo3d0Izbm93aGlKZzRvNkN0OTVhbHU5cjNEb3Nsd0pvNGxEcVZ1dnNoaDhqOXlOM252VnVuZ0dFWnN2M29OeVpndTdlRWo4c05JVFRhR2lNMWZ5VHlLQ1VtbktIVFozcTM0X0lUTUsxT0pVRlpBbHdVM0drNGJ0Vk9UU2FpT2RGeUZWQmhQX1VHNmJEb2RFM0hTOE8taEt6a1h1MS1hWHRUbkJKdFg5bnpmY3p2UVQ1N1FtUQ?oc=5",
+      "source": "TradingKey",
+      "published_at": "Thu, 27 Aug 2026 00:50:56 GMT",
+      "summary": "Today’s Market Recap: Nvidia Earnings Beat Expectations, Strong PCE Inflation Weighs on Market Sentiment as Focus Turns to Jackson Hole Meeting TradingKey",
+      "guid": "CBMi2gFBVV95cUxNMUlJQVZnYTI5by1QYm5IVUVTMjcxUkxiVGF5Njh0Vlo3d0Izbm93aGlKZzRvNkN0OTVhbHU5cjNEb3Nsd0pvNGxEcVZ1dnNoaDhqOXlOM252VnVuZ0dFWnN2M29OeVpndTdlRWo4c05JVFRhR2lNMWZ5VHlLQ1VtbktIVFozcTM0X0lUTUsxT0pVRlpBbHdVM0drNGJ0Vk9UU2FpT2RGeUZWQmhQX1VHNmJEb2RFM0hTOE8taEt6a1h1MS1hWHRUbkJKdFg5bnpmY3p2UVQ1N1FtUQ"
     },
     {
       "title": "Stock Market Investors Just Got Bad News From the Federal Reserve - The Motley Fool",
@@ -47,36 +63,20 @@
       "guid": "CBMilAFBVV95cUxQU0x1Uml3U2JwWVNjbDZjSUNkWVBTUkE3Vk5FS09sWFp3VE5kRDBYckZkUDU2c05uaVBsRTI0RXZXQmw5ZndNSk5BdUVUY01jNGNoOXhCRUtyc1dkTll0ZFJvOFhDbGtiT3l1NmpOdk5Lc3JHdktBU29XMjR2YXNaZHVQYmotMlItZVNPVkVabGhSMDJ2"
     },
     {
+      "title": "The Bond Market Is Signaling Rising Risks. Investors Should Listen. - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZlhBejhhZWNUdDRiX05LWHFRaGJhX0ltazRRWTFPZWdvazNWX0U1WDg4NmpIb0swb1dsR21KTzg2MUc5Z21ORnJXdWFxX2xybjdsOG1lUnV4aWs3TWw3QmR5TUFfMDZ5Qkc5WVhxSWVXT2dUZDVneUxqRms3V1dBeDJvUzJtT1R4Z01NYlZNbXBBNnVBWWdF?oc=5",
+      "source": "The New York Times",
+      "published_at": "Fri, 07 Aug 2026 07:00:00 GMT",
+      "summary": "The Bond Market Is Signaling Rising Risks. Investors Should Listen. The New York Times",
+      "guid": "CBMilwFBVV95cUxNZlhBejhhZWNUdDRiX05LWHFRaGJhX0ltazRRWTFPZWdvazNWX0U1WDg4NmpIb0swb1dsR21KTzg2MUc5Z21ORnJXdWFxX2xybjdsOG1lUnV4aWs3TWw3QmR5TUFfMDZ5Qkc5WVhxSWVXT2dUZDVneUxqRms3V1dBeDJvUzJtT1R4Z01NYlZNbXBBNnVBWWdF"
+    },
+    {
       "title": "Does the Equity Term Structure Respond to Monetary Policy Shocks? - Liberty Street Economics",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcGZKaVc1MHU4VUlQTzFVZDNhOTJuN2VsZ1RITGFrRzFNMGNtWFJOT3BQQTRvcUwyLXo4bWNRcWlVaG5KSVpVU3Z1UmpjemUySjhLa1RhT2xBZHdGQ2tBT1JCSkYtZ3YtT2ZUZVNpcDBRYV9qdDdBcGtPbWFCclV4R3RVcDNJbGxyWmpjbHZ4MU9WUTFjcko5R0Vob3MyZmlMV2JHMDgybDdUa0NlcUR6QlBxa21xeHU2S1pv?oc=5",
       "source": "Liberty Street Economics",
       "published_at": "Wed, 12 Aug 2026 07:00:00 GMT",
       "summary": "Does the Equity Term Structure Respond to Monetary Policy Shocks? Liberty Street Economics",
       "guid": "CBMiuwFBVV95cUxPcGZKaVc1MHU4VUlQTzFVZDNhOTJuN2VsZ1RITGFrRzFNMGNtWFJOT3BQQTRvcUwyLXo4bWNRcWlVaG5KSVpVU3Z1UmpjemUySjhLa1RhT2xBZHdGQ2tBT1JCSkYtZ3YtT2ZUZVNpcDBRYV9qdDdBcGtPbWFCclV4R3RVcDNJbGxyWmpjbHZ4MU9WUTFjcko5R0Vob3MyZmlMV2JHMDgybDdUa0NlcUR6QlBxa21xeHU2S1pv"
-    },
-    {
-      "title": "Nvidia's Earnings Surprise... Domestic Stock Market Expected to Open Higher [Good Morning Market] - 아시아경제",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4NGJ3ME5MbE1Xd2FQR0dldjNzVlgtT1pFbFUxYThTdGs5SXJ2eUc4aDU3U2pYS2pyU2hxSHdoeHNjT1ZHUGJFYnNYZUFUcVZkT09fVTdnQXV2TDZEUE04S19sUUU?oc=5",
-      "source": "아시아경제",
-      "published_at": "Wed, 26 Aug 2026 23:09:54 GMT",
-      "summary": "Nvidia's Earnings Surprise... Domestic Stock Market Expected to Open Higher [Good Morning Market] 아시아경제",
-      "guid": "CBMiZEFVX3lxTFA4NGJ3ME5MbE1Xd2FQR0dldjNzVlgtT1pFbFUxYThTdGs5SXJ2eUc4aDU3U2pYS2pyU2hxSHdoeHNjT1ZHUGJFYnNYZUFUcVZkT09fVTdnQXV2TDZEUE04S19sUUU"
-    },
-    {
-      "title": "US stocks sink on worries about a possible hike to interest rates this year by the Federal Reserve - AP News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcUlFaFNwNVNsa1RTZTFkTEhaMmhGLXBpZnZjeVAwaDBSSzRjZUFIMTQ3UTctckwtOXRvUDB6c0sxUGVlRWY5SUM5ZUllV1doQVhoLWkyd3IxdFdkRWJGY2J0ZGxyNmNwTEU3LVVBdDlXWVlxM2QtdGpHWmtBMGl0WkFWQzNucTVFTF9lelY3ZjdXNzFYeDhN?oc=5",
-      "source": "AP News",
-      "published_at": "Wed, 17 Jun 2026 07:00:00 GMT",
-      "summary": "US stocks sink on worries about a possible hike to interest rates this year by the Federal Reserve AP News",
-      "guid": "CBMilwFBVV95cUxQcUlFaFNwNVNsa1RTZTFkTEhaMmhGLXBpZnZjeVAwaDBSSzRjZUFIMTQ3UTctckwtOXRvUDB6c0sxUGVlRWY5SUM5ZUllV1doQVhoLWkyd3IxdFdkRWJGY2J0ZGxyNmNwTEU3LVVBdDlXWVlxM2QtdGpHWmtBMGl0WkFWQzNucTVFTF9lelY3ZjdXNzFYeDhN"
-    },
-    {
-      "title": "Two key takeaways from the Fed’s unusually unpredictable meeting - CNN",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5WFlYR005RGsxTFhUTHg0M3FyX0NHMlpUUTdoQnZiWjVtQVdBVFpEMzFGM3J4eW5yc2V4ZWdoUzRyY3lETHdWUVg0Vm9MV2NnaHZKZDdkcms1cGd0UmozVmtrWXI5SzhiTnJvX2RR?oc=5",
-      "source": "CNN",
-      "published_at": "Wed, 29 Jul 2026 07:00:00 GMT",
-      "summary": "Two key takeaways from the Fed’s unusually unpredictable meeting CNN",
-      "guid": "CBMibkFVX3lxTFB5WFlYR005RGsxTFhUTHg0M3FyX0NHMlpUUTdoQnZiWjVtQVdBVFpEMzFGM3J4eW5yc2V4ZWdoUzRyY3lETHdWUVg0Vm9MV2NnaHZKZDdkcms1cGd0UmozVmtrWXI5SzhiTnJvX2RR"
     },
     {
       "title": "Fed’s preferred inflation gauge shows core prices rose 3.3% annually in July - CNBC",
