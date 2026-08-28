@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-08-27T16:47:29Z",
+  "generated_at": "2026-08-28T01:12:05Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "How will stocks perform when the Fed chair speaks at Jackson Hole? Here’s what history tells us. - MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQTBpclBJREdMVGktakVobW1UbXVES2tSclNoaTlDeHpfUjQtdFhRVFhWLVZDQW5YaEtSYTE5U0tBSmFkdnJVUGM2Y1F3ekF0d2JYTVAxWFY5bTl0M0VISk1tNHVYeE5SU0UtWlRZQmdsN3dNMm1kRVNyV1JUanR2M0F3UVMzaTZNai1HS09zVV80RVZYYV91d0FGak41OUs4ZDBVMnpQMFhuaDlzU1V5TlJ0aVFSTzNSU2pob05MNGlDU1RxdE52bGF3N1AxRjB3ZFE?oc=5",
+      "source": "MarketWatch",
+      "published_at": "Thu, 27 Aug 2026 18:31:00 GMT",
+      "summary": "How will stocks perform when the Fed chair speaks at Jackson Hole? Here’s what history tells us. MarketWatch",
+      "guid": "CBMi0gFBVV95cUxNQTBpclBJREdMVGktakVobW1UbXVES2tSclNoaTlDeHpfUjQtdFhRVFhWLVZDQW5YaEtSYTE5U0tBSmFkdnJVUGM2Y1F3ekF0d2JYTVAxWFY5bTl0M0VISk1tNHVYeE5SU0UtWlRZQmdsN3dNMm1kRVNyV1JUanR2M0F3UVMzaTZNai1HS09zVV80RVZYYV91d0FGak41OUs4ZDBVMnpQMFhuaDlzU1V5TlJ0aVFSTzNSU2pob05MNGlDU1RxdE52bGF3N1AxRjB3ZFE"
+    },
     {
       "title": "Kevin Warsh has a plan for the Fed. Scott Bessent is getting in the way - CNN",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBOTV9WV0xXOE5zenN1Vkt5cVBtamtwaFpPUFVUM0FYWUdHby01N1RsbWg5VnZlMThlTm5mVWp1ekg2MVA1UTZ1VG43VFhFekVjNEJkT0tYbklOSEtEMFFJYzFCQXZ4ZWoxSEJiMlE0dGxsbWNtVWl5X1Rn?oc=5",
@@ -23,12 +31,20 @@
       "guid": "CBMilwFBVV95cUxPc3RBVmE5SDZkNmIyMDc5VFI2TE5Wemtwa0FmTmlhLU1pWERuNERfdktiU2JSOXplcU5weTRQUEFlUHJQVVE5NU90LUk3ZlBzamNBT1BJZEkwdXhiby1wNVdpcTR2eGdwU2g0MlB3NFFtZG5uLXlZbXlzUEdESFI0MnBzRkd3QTU3bWpocHhwUHJsRURxSUZN"
     },
     {
-      "title": "Stock Market Investors (and the Federal Reserve) Just Got Bad News from Treasury Secretary Scott Bessent - Currently.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNN280bnJ3S3YzbFREcGpUbi1lZU91TEJBdVFYd1Q1cWFyc0tJcHBfY3ZvMHdjS0gyS005Y0RyZlFqTjd5M3VaQTg0OTREYXdMQ1F6STRRV1pLZTJhTFViV0pyLWNzSDFDZi15dzdKbzh5bDZheWh1ZExfd05vY0gtNW1EelVXMzU3S3pua2NWOA?oc=5",
-      "source": "Currently.com",
-      "published_at": "Thu, 27 Aug 2026 08:52:00 GMT",
-      "summary": "Stock Market Investors (and the Federal Reserve) Just Got Bad News from Treasury Secretary Scott Bessent Currently.com",
-      "guid": "CBMijwFBVV95cUxNN280bnJ3S3YzbFREcGpUbi1lZU91TEJBdVFYd1Q1cWFyc0tJcHBfY3ZvMHdjS0gyS005Y0RyZlFqTjd5M3VaQTg0OTREYXdMQ1F6STRRV1pLZTJhTFViV0pyLWNzSDFDZi15dzdKbzh5bDZheWh1ZExfd05vY0gtNW1EelVXMzU3S3pua2NWOA"
+      "title": "Dollar and bond markets 'on edge' ahead of Jackson Hole as Bessent's market intervention piles pressure on Warsh - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNU0hZSlJGTWhSN1dwLXpFZE41QXo1eGZXNEloblBob21wN28waFdjTjNKRFNVMDJJYkEzN2RsYy1Kb3Nib0JVMlotS2o5aHFPYzhmNGlZYjJSMTlaSzVWRUFKcTV4N1BpNGduVFFfR09zRHBscVBZbFdqSzBxNDlsQm1zX3M0NGxlcEVyWHBR0gGTAUFVX3lxTE02bThtd3JFb01NS1FtSEZGdWtoM1BKeHhJU3FNWWpPeHNVSnV5OElRQ29MOWFwWDRid19NdjFFQzdrWGduQWFwSkFHSEFZRnlBSFU3elhIbUU2VlBTSXQ1Y1hIYWtWcVd1VVNxQnpqNWxVbFB0Rnk1elZQSzY0Vm9WSThHRTlaaWYtc3QxVDBOZ2dtbw?oc=5",
+      "source": "CNBC",
+      "published_at": "Wed, 26 Aug 2026 13:00:11 GMT",
+      "summary": "Dollar and bond markets 'on edge' ahead of Jackson Hole as Bessent's market intervention piles pressure on Warsh CNBC",
+      "guid": "CBMijgFBVV95cUxNU0hZSlJGTWhSN1dwLXpFZE41QXo1eGZXNEloblBob21wN28waFdjTjNKRFNVMDJJYkEzN2RsYy1Kb3Nib0JVMlotS2o5aHFPYzhmNGlZYjJSMTlaSzVWRUFKcTV4N1BpNGduVFFfR09zRHBscVBZbFdqSzBxNDlsQm1zX3M0NGxlcEVyWHBR0gGTAUFVX3lxTE02bThtd3JFb01NS1FtSEZGdWtoM1BKeHhJU3FNWWpPeHNVSnV5OElRQ29MOWFwWDRid19NdjFFQzdrWGduQWFwSkFHSEFZRnlBSFU3elhIbUU2VlBTSXQ1Y1hIYWtWcVd1VVNxQnpqNWxVbFB0Rnk1elZQSzY0Vm9WSThHRTlaaWYtc3QxVDBOZ2dtbw"
+    },
+    {
+      "title": "Stock Market Investors (and the Federal Reserve) Just Got Bad News from Treasury Secretary Scott Bessent - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPUkY3Tm12SUFwMmNZUXlGNVVmTXZ3dmNYSXRuUzZ6bUQxRHF3S0tXU1VxMlY4eHBYWDFqMnhES0JWS0dmcV9iR2M0c1dhTmx4Z2VxS2JZTXhGc1E2NDJJc3NYNjJZd2tQY0syOURpTXFyMmUwNGI2TXl3eFJpTEg0VGhMSTJ0QTNzYUZrZlhIbm9KcVo0MTVUaW9KV1I1ZkRCMjVNWF9HTGx5RmVJNWkyY1F4aFJ0a1FPR2llWHB5TG1wcXRvaFZ6alVCd2xzSXBPQ05FNmh6MUJsaHJuVmpFZkxTREs4RzFtQkdyWXpmSzNyVmdwYW9mbTFua05fMXNfQllKUUdWSFdwLVVsTml0OEtUTEVrQQ?oc=5",
+      "source": "The Globe and Mail",
+      "published_at": "Thu, 27 Aug 2026 09:07:34 GMT",
+      "summary": "Stock Market Investors (and the Federal Reserve) Just Got Bad News from Treasury Secretary Scott Bessent The Globe and Mail",
+      "guid": "CBMilgJBVV95cUxPUkY3Tm12SUFwMmNZUXlGNVVmTXZ3dmNYSXRuUzZ6bUQxRHF3S0tXU1VxMlY4eHBYWDFqMnhES0JWS0dmcV9iR2M0c1dhTmx4Z2VxS2JZTXhGc1E2NDJJc3NYNjJZd2tQY0syOURpTXFyMmUwNGI2TXl3eFJpTEg0VGhMSTJ0QTNzYUZrZlhIbm9KcVo0MTVUaW9KV1I1ZkRCMjVNWF9HTGx5RmVJNWkyY1F4aFJ0a1FPR2llWHB5TG1wcXRvaFZ6alVCd2xzSXBPQ05FNmh6MUJsaHJuVmpFZkxTREs4RzFtQkdyWXpmSzNyVmdwYW9mbTFua05fMXNfQllKUUdWSFdwLVVsTml0OEtUTEVrQQ"
     },
     {
       "title": "U.S. Stocks Overnight | U.S. Inflation Remains Above the Federal Reserve’s 2% Target for the 65th Consecutive Month; Three Major Indices Close Lower; NVIDIA (NVDA.US) Shares Dip Then Rise Following Earnings Report - Moomoo",
@@ -47,14 +63,6 @@
       "guid": "CBMikwFBVV95cUxOalctVHJfU0xxM1d5V0x3WFY1bUpMTl8xdEJzZHczTWpDTmpyeHhsQTNaQ0NCampxZGpST0J1SXlVYmxqS1B1aE5RNi1jd3BpMnNxTmJrd3ZFY2gySllka2hPTmJYYzFkeWtMZENjRkNwTTBVNV9uSmRmNTdaMjNQV1VsR2UwMXRpY1l1TVN6R3NsWUU"
     },
     {
-      "title": "Dollar and bond markets 'on edge' ahead of Jackson Hole as Bessent's market intervention piles pressure on Warsh - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNU0hZSlJGTWhSN1dwLXpFZE41QXo1eGZXNEloblBob21wN28waFdjTjNKRFNVMDJJYkEzN2RsYy1Kb3Nib0JVMlotS2o5aHFPYzhmNGlZYjJSMTlaSzVWRUFKcTV4N1BpNGduVFFfR09zRHBscVBZbFdqSzBxNDlsQm1zX3M0NGxlcEVyWHBR0gGTAUFVX3lxTE02bThtd3JFb01NS1FtSEZGdWtoM1BKeHhJU3FNWWpPeHNVSnV5OElRQ29MOWFwWDRid19NdjFFQzdrWGduQWFwSkFHSEFZRnlBSFU3elhIbUU2VlBTSXQ1Y1hIYWtWcVd1VVNxQnpqNWxVbFB0Rnk1elZQSzY0Vm9WSThHRTlaaWYtc3QxVDBOZ2dtbw?oc=5",
-      "source": "CNBC",
-      "published_at": "Wed, 26 Aug 2026 13:00:11 GMT",
-      "summary": "Dollar and bond markets 'on edge' ahead of Jackson Hole as Bessent's market intervention piles pressure on Warsh CNBC",
-      "guid": "CBMijgFBVV95cUxNU0hZSlJGTWhSN1dwLXpFZE41QXo1eGZXNEloblBob21wN28waFdjTjNKRFNVMDJJYkEzN2RsYy1Kb3Nib0JVMlotS2o5aHFPYzhmNGlZYjJSMTlaSzVWRUFKcTV4N1BpNGduVFFfR09zRHBscVBZbFdqSzBxNDlsQm1zX3M0NGxlcEVyWHBR0gGTAUFVX3lxTE02bThtd3JFb01NS1FtSEZGdWtoM1BKeHhJU3FNWWpPeHNVSnV5OElRQ29MOWFwWDRid19NdjFFQzdrWGduQWFwSkFHSEFZRnlBSFU3elhIbUU2VlBTSXQ1Y1hIYWtWcVd1VVNxQnpqNWxVbFB0Rnk1elZQSzY0Vm9WSThHRTlaaWYtc3QxVDBOZ2dtbw"
-    },
-    {
       "title": "Does the Equity Term Structure Respond to Monetary Policy Shocks? - Liberty Street Economics",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcGZKaVc1MHU4VUlQTzFVZDNhOTJuN2VsZ1RITGFrRzFNMGNtWFJOT3BQQTRvcUwyLXo4bWNRcWlVaG5KSVpVU3Z1UmpjemUySjhLa1RhT2xBZHdGQ2tBT1JCSkYtZ3YtT2ZUZVNpcDBRYV9qdDdBcGtPbWFCclV4R3RVcDNJbGxyWmpjbHZ4MU9WUTFjcko5R0Vob3MyZmlMV2JHMDgybDdUa0NlcUR6QlBxa21xeHU2S1pv?oc=5",
       "source": "Liberty Street Economics",
@@ -69,14 +77,6 @@
       "published_at": "Sun, 16 Aug 2026 07:00:00 GMT",
       "summary": "Technology Stocks Lift Equities as Treasuries Rise: Markets Wrap Bloomberg.com",
       "guid": "CBMilAFBVV95cUxPRm5iVEpILVhFaFAzUHBRYWlac1czaWdxenR2dUd5dEN1T2dkcDFxbTBBenhacUlMVGlLSW1PUFp3Z2phVk51TTFiUEVCMHZiUWt0UDNka1Itbi16Mm8wOWswRUswUE1IR2VhVVhBNFFkbm5QWlZpN1FZdU85cXJGREZzYVdiUTU5OGVkQXFDbWN2dnVF"
-    },
-    {
-      "title": "The Bond Market Is Signaling Rising Risks. Investors Should Listen. - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZlhBejhhZWNUdDRiX05LWHFRaGJhX0ltazRRWTFPZWdvazNWX0U1WDg4NmpIb0swb1dsR21KTzg2MUc5Z21ORnJXdWFxX2xybjdsOG1lUnV4aWs3TWw3QmR5TUFfMDZ5Qkc5WVhxSWVXT2dUZDVneUxqRms3V1dBeDJvUzJtT1R4Z01NYlZNbXBBNnVBWWdF?oc=5",
-      "source": "The New York Times",
-      "published_at": "Fri, 07 Aug 2026 07:00:00 GMT",
-      "summary": "The Bond Market Is Signaling Rising Risks. Investors Should Listen. The New York Times",
-      "guid": "CBMilwFBVV95cUxNZlhBejhhZWNUdDRiX05LWHFRaGJhX0ltazRRWTFPZWdvazNWX0U1WDg4NmpIb0swb1dsR21KTzg2MUc5Z21ORnJXdWFxX2xybjdsOG1lUnV4aWs3TWw3QmR5TUFfMDZ5Qkc5WVhxSWVXT2dUZDVneUxqRms3V1dBeDJvUzJtT1R4Z01NYlZNbXBBNnVBWWdF"
     },
     {
       "title": "US says Chinese hackers hit hospitals, NASA, Senate and more - CNN",
