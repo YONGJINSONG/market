@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-08-29T03:51:50Z",
+  "generated_at": "2026-08-29T15:18:21Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "The Fed confronts a powerful new economic force - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcTd5UUJ2NXhhSmlMMXQ4c2tPdk5TNW5nTURrdWVCaDV6SlJpWWt2LUNSeDJpT1Q3OEtjdU1xV2ZOZnRRemtZRElucXNDdXQ5bVVQNFNkOUZwOTBEMC1hS1NSTFotQW9XaTFpY0k5QUtETkZndUpscDQwbm1qR2lYMFJyOU1oVzdfUFVuV05NaFBqczdIbHlWVUd6dndaeFg4OGFKampkWDBzSTJsejEzVkJYY2NzaXM?oc=5",
+      "source": "The Washington Post",
+      "published_at": "Sat, 29 Aug 2026 15:02:50 GMT",
+      "summary": "The Fed confronts a powerful new economic force The Washington Post",
+      "guid": "CBMitwFBVV95cUxPcTd5UUJ2NXhhSmlMMXQ4c2tPdk5TNW5nTURrdWVCaDV6SlJpWWt2LUNSeDJpT1Q3OEtjdU1xV2ZOZnRRemtZRElucXNDdXQ5bVVQNFNkOUZwOTBEMC1hS1NSTFotQW9XaTFpY0k5QUtETkZndUpscDQwbm1qR2lYMFJyOU1oVzdfUFVuV05NaFBqczdIbHlWVUd6dndaeFg4OGFKampkWDBzSTJsejEzVkJYY2NzaXM"
+    },
     {
       "title": "Fed Chairman Kevin Warsh stays quiet on interest rates but calls inflation ‘concerning’ - CNN",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbjF5NXdpa2tQQ1M3clJsek03MERfTC1DMk11UkJzS09CM1RDY0pTTGwxUmtEdzFKSlNHM1dlN2VkZWxWUk5zekxia0pOOGQ1cTJURGxVSzI4N3Noamh4WEVvZHNuQjg1RHFVQlhiUGtLZDF3QjNVVTZwS25NU1NkMHlfOA?oc=5",
@@ -15,20 +23,12 @@
       "guid": "CBMigwFBVV95cUxNbjF5NXdpa2tQQ1M3clJsek03MERfTC1DMk11UkJzS09CM1RDY0pTTGwxUmtEdzFKSlNHM1dlN2VkZWxWUk5zekxia0pOOGQ1cTJURGxVSzI4N3Noamh4WEVvZHNuQjg1RHFVQlhiUGtLZDF3QjNVVTZwS25NU1NkMHlfOA"
     },
     {
-      "title": "WATCH: Fed Chair Warsh signals stubborn inflation may require rate hikes in Jackson Hole speech - PBS",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeTZYd1JtU2tpSmRvbTJqT2J5VHpCQzJMVFR5WWJlZ3ppLTNjU3prR01jeUtWSXVEbWZScmw5S2RfdmVES3dEOThSeGwwMGVvOWs5NWpjNjU3M3JFdmpsVlRyaFJ6cEU4SWptdUM2MWotckR3dDYzSkxzUUJyOEtWbDFkMzJWZG1sSWd3d3Q3d3BndjlIb2ZfaGthSDlWdFZESEpkdERKbEJ4VnVGRmJGZFRR?oc=5",
-      "source": "PBS",
-      "published_at": "Fri, 28 Aug 2026 14:00:04 GMT",
-      "summary": "WATCH: Fed Chair Warsh signals stubborn inflation may require rate hikes in Jackson Hole speech PBS",
-      "guid": "CBMisgFBVV95cUxNeTZYd1JtU2tpSmRvbTJqT2J5VHpCQzJMVFR5WWJlZ3ppLTNjU3prR01jeUtWSXVEbWZScmw5S2RfdmVES3dEOThSeGwwMGVvOWs5NWpjNjU3M3JFdmpsVlRyaFJ6cEU4SWptdUM2MWotckR3dDYzSkxzUUJyOEtWbDFkMzJWZG1sSWd3d3Q3d3BndjlIb2ZfaGthSDlWdFZESEpkdERKbEJ4VnVGRmJGZFRR"
-    },
-    {
-      "title": "US stocks hold steady after expectations rise for the Federal Reserve to raise interest rates - ABC Columbia",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONUwyZnZCT1lwTGFuM3ZUbEMtYmxtMVg4SndmWEJRaEFWYmdtbW51N2VlTDRrRjFaVzdtc0NCREUwWk9PcGx1YzQwX25GQlU0NGZPRFp5MElEcFF6Nlpncm9WcWdkbTRIeHlyQmZ0RTU3RWUtWnRFLWYwRk5FdnZIcmlITFNqR2R5TWZfM1FpeXpUNEk2aG5zRF9Bd1ZvaEdHOGQwYUR2cjBlaERkWVp6TjY3VmVyNFU3N1d6ZjdxUkhINmJKX1lERnNWNHpOUQ?oc=5",
-      "source": "ABC Columbia",
-      "published_at": "Fri, 28 Aug 2026 15:14:50 GMT",
-      "summary": "US stocks hold steady after expectations rise for the Federal Reserve to raise interest rates ABC Columbia",
-      "guid": "CBMizgFBVV95cUxONUwyZnZCT1lwTGFuM3ZUbEMtYmxtMVg4SndmWEJRaEFWYmdtbW51N2VlTDRrRjFaVzdtc0NCREUwWk9PcGx1YzQwX25GQlU0NGZPRFp5MElEcFF6Nlpncm9WcWdkbTRIeHlyQmZ0RTU3RWUtWnRFLWYwRk5FdnZIcmlITFNqR2R5TWZfM1FpeXpUNEk2aG5zRF9Bd1ZvaEdHOGQwYUR2cjBlaERkWVp6TjY3VmVyNFU3N1d6ZjdxUkhINmJKX1lERnNWNHpOUQ"
+      "title": "The bond market prepares for a hike to interest rates, while US stocks drift lower - LancasterOnline",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOZnNRNE5mMUNWUW1KSjZlMEFLWk5ucVVKSk9LQ1U0Z3FhbEV5Q3hYTURTbzZ0eF9rV3pOb0xwMHdJRENvTzRKaWp6b3R0YUZxUnQteVhtMlU2ZFYyRFFiT1ktdXo1N3NiMUhteV94QW1Fa3Fxa1B5Q1BRdUlmTkp1ay1ycy1kZXRua1FpRzh1N3NFVUtSVGdQMDh1bGhZUkZBR21zOTU2TDhfVTFBSjR1bGdwVlRSbzZGR21jVG55U1lyZzBCWUFhbHJSR1g1bVBwUXFFdzE0Z3VFSzlSTEZfTFhkLTRoYUhUbWo3TTZhM3JMVzFLNExjQW1oWmN3VGpqcDNRZC13UDNzaGZRbWc?oc=5",
+      "source": "LancasterOnline",
+      "published_at": "Sat, 29 Aug 2026 02:08:06 GMT",
+      "summary": "The bond market prepares for a hike to interest rates, while US stocks drift lower LancasterOnline",
+      "guid": "CBMijgJBVV95cUxOZnNRNE5mMUNWUW1KSjZlMEFLWk5ucVVKSk9LQ1U0Z3FhbEV5Q3hYTURTbzZ0eF9rV3pOb0xwMHdJRENvTzRKaWp6b3R0YUZxUnQteVhtMlU2ZFYyRFFiT1ktdXo1N3NiMUhteV94QW1Fa3Fxa1B5Q1BRdUlmTkp1ay1ycy1kZXRua1FpRzh1N3NFVUtSVGdQMDh1bGhZUkZBR21zOTU2TDhfVTFBSjR1bGdwVlRSbzZGR21jVG55U1lyZzBCWUFhbHJSR1g1bVBwUXFFdzE0Z3VFSzlSTEZfTFhkLTRoYUhUbWo3TTZhM3JMVzFLNExjQW1oWmN3VGpqcDNRZC13UDNzaGZRbWc"
     },
     {
       "title": "Wall Street ends lower after Fed Chair Warsh reaffirms inflation fight - Reuters",
@@ -39,20 +39,20 @@
       "guid": "CBMirwFBVV95cUxPYzh4MV92bkEtZUxKUlZLdW5KN2RKeGVEa2xtekxiVnhNbF9RMWxGVGRCZkZJOWEwQkhaVEhBV2hpb3A2S000Vjd0VklkeTdqRFJGeXpYTFdwb19mclEtbEtneVB0M3VlWE84Q0tGeVdhcUM4QU90a2Rmb1pfR3ljSFNWaDVWbGhFT3lLMzQtQnl2VmR5S2lsVUF1RWQyN2diQWdwaHlqUGRwV3lyUkZJ"
     },
     {
-      "title": "Investors Expect Higher Rates After Fed Chairman’s Inflation Pledge - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZVVNSWJVV19KbXhlZEVYaEU2eUlsUUVaeGV0QjBlYUtKU0ZZOEg0MExlOFBobmk5YkFPUVoyRlJjMnh5WmxQWWNCTHo4NTZBdVdYSVBLeVVDS0czcGVKNWRGM1RNT1NMTUtQOEk1WHVHTHlvQ0p2Zjg3SUoyQ1lqSVpVUDRGdmdaek5zSjVpTnc4dw?oc=5",
-      "source": "The New York Times",
-      "published_at": "Fri, 28 Aug 2026 18:49:59 GMT",
-      "summary": "Investors Expect Higher Rates After Fed Chairman’s Inflation Pledge The New York Times",
-      "guid": "CBMikgFBVV95cUxQZVVNSWJVV19KbXhlZEVYaEU2eUlsUUVaeGV0QjBlYUtKU0ZZOEg0MExlOFBobmk5YkFPUVoyRlJjMnh5WmxQWWNCTHo4NTZBdVdYSVBLeVVDS0czcGVKNWRGM1RNT1NMTUtQOEk1WHVHTHlvQ0p2Zjg3SUoyQ1lqSVpVUDRGdmdaek5zSjVpTnc4dw"
-    },
-    {
       "title": "Jackson Hole History Shows Fed Chief Rarely Shocks Stock Market - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdUtZRGxfeWNMdzRlVEI4TmwwaS0zYTJkWlBYd01aNHNlckd3YzRtVktuVUI3ZGdTWkcwNjdVUnZRM0JSeFVBVV8xVU1ERjJvZmdyU21jRXY3aUlMcV9lMUo1bk8xc3VIdVRmLUFieDUwS09CSUhQalVYaEZUY0Q5RGZnYTNocmZMR3lDVDZIU3piSkNBZlVMRTgzajhzRWlGdV9nVUt4RkZaNU80T1o1Vlh4Q3E?oc=5",
       "source": "Bloomberg.com",
       "published_at": "Fri, 28 Aug 2026 09:30:00 GMT",
       "summary": "Jackson Hole History Shows Fed Chief Rarely Shocks Stock Market Bloomberg.com",
       "guid": "CBMitAFBVV95cUxOdUtZRGxfeWNMdzRlVEI4TmwwaS0zYTJkWlBYd01aNHNlckd3YzRtVktuVUI3ZGdTWkcwNjdVUnZRM0JSeFVBVV8xVU1ERjJvZmdyU21jRXY3aUlMcV9lMUo1bk8xc3VIdVRmLUFieDUwS09CSUhQalVYaEZUY0Q5RGZnYTNocmZMR3lDVDZIU3piSkNBZlVMRTgzajhzRWlGdV9nVUt4RkZaNU80T1o1Vlh4Q3E"
+    },
+    {
+      "title": "WATCH: Fed Chair Warsh signals stubborn inflation may require rate hikes in Jackson Hole speech - PBS",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeTZYd1JtU2tpSmRvbTJqT2J5VHpCQzJMVFR5WWJlZ3ppLTNjU3prR01jeUtWSXVEbWZScmw5S2RfdmVES3dEOThSeGwwMGVvOWs5NWpjNjU3M3JFdmpsVlRyaFJ6cEU4SWptdUM2MWotckR3dDYzSkxzUUJyOEtWbDFkMzJWZG1sSWd3d3Q3d3BndjlIb2ZfaGthSDlWdFZESEpkdERKbEJ4VnVGRmJGZFRR?oc=5",
+      "source": "PBS",
+      "published_at": "Fri, 28 Aug 2026 14:00:04 GMT",
+      "summary": "WATCH: Fed Chair Warsh signals stubborn inflation may require rate hikes in Jackson Hole speech PBS",
+      "guid": "CBMisgFBVV95cUxNeTZYd1JtU2tpSmRvbTJqT2J5VHpCQzJMVFR5WWJlZ3ppLTNjU3prR01jeUtWSXVEbWZScmw5S2RfdmVES3dEOThSeGwwMGVvOWs5NWpjNjU3M3JFdmpsVlRyaFJ6cEU4SWptdUM2MWotckR3dDYzSkxzUUJyOEtWbDFkMzJWZG1sSWd3d3Q3d3BndjlIb2ZfaGthSDlWdFZESEpkdERKbEJ4VnVGRmJGZFRR"
     },
     {
       "title": "Jackson Hole History Shows Fed Chief Rarely Shocks Stock Market - Yahoo Finance",
@@ -63,28 +63,28 @@
       "guid": "CBMimwFBVV95cUxQdHFYOHdJbTNvMXlrWUVEdnJPSzY3MzdXdV9FeEQ1QU51NE5jakVMWWtVM3BDV0h2dUJXdHRGNGwyX3g3aEhxbXJUQmwzdDhWc0Q3U0otWjZQMGZSTkVyTHlmN2IxbUtiRmRXNURwcUhYb3JzQTlzcHpnb01xanVrTU5vanlNcTQ3Q1RpSXYzU004X01iR1BCSmVIYw"
     },
     {
-      "title": "Wall Street is stuck in a holding pattern ahead of a big speech by the head of the Federal Reserve - WDEF",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQckN3RzN4WTh6NXExVkV5dFhjVHp3TUlNdk00QnZHTGNraU05U2JqZTIxdzI5dmNHOUUzeFE5ZFI5WVgzMnRDNWtZRk96U0lHRGRsYzlVSkdMUGQxSHo0cHpfRmpjaXIzY0NfYkFtMkNZcmt6Qkk4WGEyZ2lSQTF3Wlc1SXdLbTJIeXF4MXQ1MFFwOXJwQnVBNmg0Q1VMZjAza1pTVXhmdTd5RXVQMmdVYUNPdnBBbGQ3LUxiYg?oc=5",
-      "source": "WDEF",
-      "published_at": "Fri, 28 Aug 2026 15:25:17 GMT",
-      "summary": "Wall Street is stuck in a holding pattern ahead of a big speech by the head of the Federal Reserve WDEF",
-      "guid": "CBMivAFBVV95cUxQckN3RzN4WTh6NXExVkV5dFhjVHp3TUlNdk00QnZHTGNraU05U2JqZTIxdzI5dmNHOUUzeFE5ZFI5WVgzMnRDNWtZRk96U0lHRGRsYzlVSkdMUGQxSHo0cHpfRmpjaXIzY0NfYkFtMkNZcmt6Qkk4WGEyZ2lSQTF3Wlc1SXdLbTJIeXF4MXQ1MFFwOXJwQnVBNmg0Q1VMZjAza1pTVXhmdTd5RXVQMmdVYUNPdnBBbGQ3LUxiYg"
+      "title": "US stocks hold steady after expectations rise for the Federal Reserve to raise interest rates - ABC Columbia",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONUwyZnZCT1lwTGFuM3ZUbEMtYmxtMVg4SndmWEJRaEFWYmdtbW51N2VlTDRrRjFaVzdtc0NCREUwWk9PcGx1YzQwX25GQlU0NGZPRFp5MElEcFF6Nlpncm9WcWdkbTRIeHlyQmZ0RTU3RWUtWnRFLWYwRk5FdnZIcmlITFNqR2R5TWZfM1FpeXpUNEk2aG5zRF9Bd1ZvaEdHOGQwYUR2cjBlaERkWVp6TjY3VmVyNFU3N1d6ZjdxUkhINmJKX1lERnNWNHpOUQ?oc=5",
+      "source": "ABC Columbia",
+      "published_at": "Fri, 28 Aug 2026 15:14:50 GMT",
+      "summary": "US stocks hold steady after expectations rise for the Federal Reserve to raise interest rates ABC Columbia",
+      "guid": "CBMizgFBVV95cUxONUwyZnZCT1lwTGFuM3ZUbEMtYmxtMVg4SndmWEJRaEFWYmdtbW51N2VlTDRrRjFaVzdtc0NCREUwWk9PcGx1YzQwX25GQlU0NGZPRFp5MElEcFF6Nlpncm9WcWdkbTRIeHlyQmZ0RTU3RWUtWnRFLWYwRk5FdnZIcmlITFNqR2R5TWZfM1FpeXpUNEk2aG5zRF9Bd1ZvaEdHOGQwYUR2cjBlaERkWVp6TjY3VmVyNFU3N1d6ZjdxUkhINmJKX1lERnNWNHpOUQ"
     },
     {
-      "title": "Stock Market Today: Warsh Comments Boost Rate-Hike Bets as Wall Street Trades Choppily - Eurasia Business News",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSWZfZjdNaHhjZ0dSX0otZzZSRDNMNUN5czZBTnFIWTNNLUptRGRVNERsMEhlWHUyNEREcWpoeG81ejFZcko1TEE2RXpJUUJsb21kZjF3SFI0MHNqQTc4TnU1RHFsUURqX1RQdU1jRVg0cm1SUmtDWGtkaHppOXdaS3lQUUZ5U3pXM0lLZXczRmZTUUNBRHR1ZExDeEZ1RTFBWTNLT2tneUs2X1lGeUxfVFlnT2VLdUxVVjlqNktJWlplSnNFLU5QRg?oc=5",
-      "source": "Eurasia Business News",
-      "published_at": "Fri, 28 Aug 2026 18:15:38 GMT",
-      "summary": "Stock Market Today: Warsh Comments Boost Rate-Hike Bets as Wall Street Trades Choppily Eurasia Business News",
-      "guid": "CBMiyAFBVV95cUxPSWZfZjdNaHhjZ0dSX0otZzZSRDNMNUN5czZBTnFIWTNNLUptRGRVNERsMEhlWHUyNEREcWpoeG81ejFZcko1TEE2RXpJUUJsb21kZjF3SFI0MHNqQTc4TnU1RHFsUURqX1RQdU1jRVg0cm1SUmtDWGtkaHppOXdaS3lQUUZ5U3pXM0lLZXczRmZTUUNBRHR1ZExDeEZ1RTFBWTNLT2tneUs2X1lGeUxfVFlnT2VLdUxVVjlqNktJWlplSnNFLU5QRg"
+      "title": "US Consumer Confidence Edged Down Slightly in August - The Conference Board",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE55NEtKdEpyWFB2eWJwRlBkWGlkZFlMdXA3MENDbkRqLXJwa1RBNC1DZVMyajMxWXlab0VYbWFyT0Mzc3p2UHlOOU1jVG5DZkNkeFNxcnRBZHdub1dpa0hiNWNpRTZkLXhNcHdVNw?oc=5",
+      "source": "The Conference Board",
+      "published_at": "Tue, 25 Aug 2026 07:00:00 GMT",
+      "summary": "US Consumer Confidence Edged Down Slightly in August The Conference Board",
+      "guid": "CBMibEFVX3lxTE55NEtKdEpyWFB2eWJwRlBkWGlkZFlMdXA3MENDbkRqLXJwa1RBNC1DZVMyajMxWXlab0VYbWFyT0Mzc3p2UHlOOU1jVG5DZkNkeFNxcnRBZHdub1dpa0hiNWNpRTZkLXhNcHdVNw"
     },
     {
-      "title": "Fed Chairman Warsh expresses concern about inflation, advocates for 'quieter' central bank - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSDgxMWMxLTZHbGRNUGgxeExaV0VyY2dqZ0ZaeVJaZTNsQ28wSldKeEpYRGN5NEpRNmV1Vjl3QWdheHFoSHFGQ3ZRSEVQQnZWd3R1OWw2dEhlQzBDS1hoanFlWlRaN0YwbVZIN2tUTE91LTRWWEI2MXBVVl9VczFCNm1LVjFFY0c5a3FCZHpFdDDSAZYBQVVfeXFMUC1lQUszSmUyc2dXV1FDVFA0QnFtWXVsLXVicFp0NDk5MVUzX01jOHhaRTBvcm1PbDRpWTFRUWZOa1I1LXNMUnJHX1pxNnlmbWdSUExuLTh6SU5qdEJJVU5vUU1FMDdpSkJMb0dvWUpDeFFjV0VoVWQtRXhpYmozS3pnc0Q4T1BjZXZ3VEpBT0JKOHV6eEpB?oc=5",
-      "source": "CNBC",
-      "published_at": "Fri, 28 Aug 2026 14:00:06 GMT",
-      "summary": "Fed Chairman Warsh expresses concern about inflation, advocates for 'quieter' central bank CNBC",
-      "guid": "CBMikAFBVV95cUxPSDgxMWMxLTZHbGRNUGgxeExaV0VyY2dqZ0ZaeVJaZTNsQ28wSldKeEpYRGN5NEpRNmV1Vjl3QWdheHFoSHFGQ3ZRSEVQQnZWd3R1OWw2dEhlQzBDS1hoanFlWlRaN0YwbVZIN2tUTE91LTRWWEI2MXBVVl9VczFCNm1LVjFFY0c5a3FCZHpFdDDSAZYBQVVfeXFMUC1lQUszSmUyc2dXV1FDVFA0QnFtWXVsLXVicFp0NDk5MVUzX01jOHhaRTBvcm1PbDRpWTFRUWZOa1I1LXNMUnJHX1pxNnlmbWdSUExuLTh6SU5qdEJJVU5vUU1FMDdpSkJMb0dvWUpDeFFjV0VoVWQtRXhpYmozS3pnc0Q4T1BjZXZ3VEpBT0JKOHV6eEpB"
+      "title": "What to Look Out for in Economic Data This Week (August 31-September 4) - Kiplinger",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ?oc=5",
+      "source": "Kiplinger",
+      "published_at": "Fri, 28 Aug 2026 17:00:16 GMT",
+      "summary": "What to Look Out for in Economic Data This Week (August 31-September 4) Kiplinger",
+      "guid": "CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ"
     }
   ]
 }
