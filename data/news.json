@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T01:21:37Z",
+  "generated_at": "2026-08-30T06:53:34Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -15,14 +15,6 @@
       "guid": "CBMigwFBVV95cUxNbjF5NXdpa2tQQ1M3clJsek03MERfTC1DMk11UkJzS09CM1RDY0pTTGwxUmtEdzFKSlNHM1dlN2VkZWxWUk5zekxia0pOOGQ1cTJURGxVSzI4N3Noamh4WEVvZHNuQjg1RHFVQlhiUGtLZDF3QjNVVTZwS25NU1NkMHlfOA"
     },
     {
-      "title": "The Fed confronts a powerful new economic force - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcTd5UUJ2NXhhSmlMMXQ4c2tPdk5TNW5nTURrdWVCaDV6SlJpWWt2LUNSeDJpT1Q3OEtjdU1xV2ZOZnRRemtZRElucXNDdXQ5bVVQNFNkOUZwOTBEMC1hS1NSTFotQW9XaTFpY0k5QUtETkZndUpscDQwbm1qR2lYMFJyOU1oVzdfUFVuV05NaFBqczdIbHlWVUd6dndaeFg4OGFKampkWDBzSTJsejEzVkJYY2NzaXM?oc=5",
-      "source": "The Washington Post",
-      "published_at": "Sat, 29 Aug 2026 16:00:00 GMT",
-      "summary": "The Fed confronts a powerful new economic force The Washington Post",
-      "guid": "CBMitwFBVV95cUxPcTd5UUJ2NXhhSmlMMXQ4c2tPdk5TNW5nTURrdWVCaDV6SlJpWWt2LUNSeDJpT1Q3OEtjdU1xV2ZOZnRRemtZRElucXNDdXQ5bVVQNFNkOUZwOTBEMC1hS1NSTFotQW9XaTFpY0k5QUtETkZndUpscDQwbm1qR2lYMFJyOU1oVzdfUFVuV05NaFBqczdIbHlWVUd6dndaeFg4OGFKampkWDBzSTJsejEzVkJYY2NzaXM"
-    },
-    {
       "title": "Jackson Hole History Shows Fed Chief Rarely Shocks Stock Market - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdUtZRGxfeWNMdzRlVEI4TmwwaS0zYTJkWlBYd01aNHNlckd3YzRtVktuVUI3ZGdTWkcwNjdVUnZRM0JSeFVBVV8xVU1ERjJvZmdyU21jRXY3aUlMcV9lMUo1bk8xc3VIdVRmLUFieDUwS09CSUhQalVYaEZUY0Q5RGZnYTNocmZMR3lDVDZIU3piSkNBZlVMRTgzajhzRWlGdV9nVUt4RkZaNU80T1o1Vlh4Q3E?oc=5",
       "source": "Bloomberg.com",
@@ -31,12 +23,20 @@
       "guid": "CBMitAFBVV95cUxOdUtZRGxfeWNMdzRlVEI4TmwwaS0zYTJkWlBYd01aNHNlckd3YzRtVktuVUI3ZGdTWkcwNjdVUnZRM0JSeFVBVV8xVU1ERjJvZmdyU21jRXY3aUlMcV9lMUo1bk8xc3VIdVRmLUFieDUwS09CSUhQalVYaEZUY0Q5RGZnYTNocmZMR3lDVDZIU3piSkNBZlVMRTgzajhzRWlGdV9nVUt4RkZaNU80T1o1Vlh4Q3E"
     },
     {
-      "title": "The bond market prepares for a hike to interest rates, while US stocks drift lower - LancasterOnline",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOZnNRNE5mMUNWUW1KSjZlMEFLWk5ucVVKSk9LQ1U0Z3FhbEV5Q3hYTURTbzZ0eF9rV3pOb0xwMHdJRENvTzRKaWp6b3R0YUZxUnQteVhtMlU2ZFYyRFFiT1ktdXo1N3NiMUhteV94QW1Fa3Fxa1B5Q1BRdUlmTkp1ay1ycy1kZXRua1FpRzh1N3NFVUtSVGdQMDh1bGhZUkZBR21zOTU2TDhfVTFBSjR1bGdwVlRSbzZGR21jVG55U1lyZzBCWUFhbHJSR1g1bVBwUXFFdzE0Z3VFSzlSTEZfTFhkLTRoYUhUbWo3TTZhM3JMVzFLNExjQW1oWmN3VGpqcDNRZC13UDNzaGZRbWc?oc=5",
-      "source": "LancasterOnline",
-      "published_at": "Sat, 29 Aug 2026 02:08:06 GMT",
-      "summary": "The bond market prepares for a hike to interest rates, while US stocks drift lower LancasterOnline",
-      "guid": "CBMijgJBVV95cUxOZnNRNE5mMUNWUW1KSjZlMEFLWk5ucVVKSk9LQ1U0Z3FhbEV5Q3hYTURTbzZ0eF9rV3pOb0xwMHdJRENvTzRKaWp6b3R0YUZxUnQteVhtMlU2ZFYyRFFiT1ktdXo1N3NiMUhteV94QW1Fa3Fxa1B5Q1BRdUlmTkp1ay1ycy1kZXRua1FpRzh1N3NFVUtSVGdQMDh1bGhZUkZBR21zOTU2TDhfVTFBSjR1bGdwVlRSbzZGR21jVG55U1lyZzBCWUFhbHJSR1g1bVBwUXFFdzE0Z3VFSzlSTEZfTFhkLTRoYUhUbWo3TTZhM3JMVzFLNExjQW1oWmN3VGpqcDNRZC13UDNzaGZRbWc"
+      "title": "The Fed confronts a powerful new economic force - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcTd5UUJ2NXhhSmlMMXQ4c2tPdk5TNW5nTURrdWVCaDV6SlJpWWt2LUNSeDJpT1Q3OEtjdU1xV2ZOZnRRemtZRElucXNDdXQ5bVVQNFNkOUZwOTBEMC1hS1NSTFotQW9XaTFpY0k5QUtETkZndUpscDQwbm1qR2lYMFJyOU1oVzdfUFVuV05NaFBqczdIbHlWVUd6dndaeFg4OGFKampkWDBzSTJsejEzVkJYY2NzaXM?oc=5",
+      "source": "The Washington Post",
+      "published_at": "Sat, 29 Aug 2026 16:00:00 GMT",
+      "summary": "The Fed confronts a powerful new economic force The Washington Post",
+      "guid": "CBMitwFBVV95cUxPcTd5UUJ2NXhhSmlMMXQ4c2tPdk5TNW5nTURrdWVCaDV6SlJpWWt2LUNSeDJpT1Q3OEtjdU1xV2ZOZnRRemtZRElucXNDdXQ5bVVQNFNkOUZwOTBEMC1hS1NSTFotQW9XaTFpY0k5QUtETkZndUpscDQwbm1qR2lYMFJyOU1oVzdfUFVuV05NaFBqczdIbHlWVUd6dndaeFg4OGFKampkWDBzSTJsejEzVkJYY2NzaXM"
+    },
+    {
+      "title": "Fed Chairman Warsh Seeks to Calm Elevated Inflation Concerns - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeXgwVmE4SkVPN3VMZkRoUGc5MTlnNlgyRHo2NVhZNGpSWmtPZ09oTnczOWtoX3M5QjlqdnN2d0cyRW5lZTNKYUhGRHdVdGk3VS1MSkFkczJ2dzQ2RkoyV2FNZVJaZ01OY3dnMUxMU0R0QmF3Q3hsTVEtT0RjQnhUX2hzcC05TjlQ?oc=5",
+      "source": "The New York Times",
+      "published_at": "Sat, 29 Aug 2026 20:07:00 GMT",
+      "summary": "Fed Chairman Warsh Seeks to Calm Elevated Inflation Concerns The New York Times",
+      "guid": "CBMiiAFBVV95cUxOeXgwVmE4SkVPN3VMZkRoUGc5MTlnNlgyRHo2NVhZNGpSWmtPZ09oTnczOWtoX3M5QjlqdnN2d0cyRW5lZTNKYUhGRHdVdGk3VS1MSkFkczJ2dzQ2RkoyV2FNZVJaZ01OY3dnMUxMU0R0QmF3Q3hsTVEtT0RjQnhUX2hzcC05TjlQ"
     },
     {
       "title": "WATCH: Fed Chair Warsh signals stubborn inflation may require rate hikes in Jackson Hole speech - PBS",
@@ -45,14 +45,6 @@
       "published_at": "Fri, 28 Aug 2026 14:00:04 GMT",
       "summary": "WATCH: Fed Chair Warsh signals stubborn inflation may require rate hikes in Jackson Hole speech PBS",
       "guid": "CBMisgFBVV95cUxNeTZYd1JtU2tpSmRvbTJqT2J5VHpCQzJMVFR5WWJlZ3ppLTNjU3prR01jeUtWSXVEbWZScmw5S2RfdmVES3dEOThSeGwwMGVvOWs5NWpjNjU3M3JFdmpsVlRyaFJ6cEU4SWptdUM2MWotckR3dDYzSkxzUUJyOEtWbDFkMzJWZG1sSWd3d3Q3d3BndjlIb2ZfaGthSDlWdFZESEpkdERKbEJ4VnVGRmJGZFRR"
-    },
-    {
-      "title": "Stock Market Investors (and the Federal Reserve) Just Got Bad News from Treasury Secretary Scott Bessent - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOENVMG4xZE1SeDdzLVVoNW83akxZSjBjcUFXVENJMjdaVXNtWGNOSTkzWjVpeUI1N0xJQ2F5emhESGV3R3BlMmE1cnhIc2duT2tuNkdXLUs4S3p3ZnVtUmFQZTBGR2xEa2NuNC0ySFZsYUU0NDhXV1NEbkpIWGw5ajBLN1B5MEgzTGJITjQzcklMZkxpZFdGWnkwLWxfT1k5c3c?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Thu, 27 Aug 2026 08:52:00 GMT",
-      "summary": "Stock Market Investors (and the Federal Reserve) Just Got Bad News from Treasury Secretary Scott Bessent Yahoo Finance",
-      "guid": "CBMiogFBVV95cUxNOENVMG4xZE1SeDdzLVVoNW83akxZSjBjcUFXVENJMjdaVXNtWGNOSTkzWjVpeUI1N0xJQ2F5emhESGV3R3BlMmE1cnhIc2duT2tuNkdXLUs4S3p3ZnVtUmFQZTBGR2xEa2NuNC0ySFZsYUU0NDhXV1NEbkpIWGw5ajBLN1B5MEgzTGJITjQzcklMZkxpZFdGWnkwLWxfT1k5c3c"
     },
     {
       "title": "US stocks hold steady after expectations rise for the Federal Reserve to raise interest rates - ABC Columbia",
@@ -71,6 +63,14 @@
       "guid": "CBMi0gFBVV95cUxNQTBpclBJREdMVGktakVobW1UbXVES2tSclNoaTlDeHpfUjQtdFhRVFhWLVZDQW5YaEtSYTE5U0tBSmFkdnJVUGM2Y1F3ekF0d2JYTVAxWFY5bTl0M0VISk1tNHVYeE5SU0UtWlRZQmdsN3dNMm1kRVNyV1JUanR2M0F3UVMzaTZNai1HS09zVV80RVZYYV91d0FGak41OUs4ZDBVMnpQMFhuaDlzU1V5TlJ0aVFSTzNSU2pob05MNGlDU1RxdE52bGF3N1AxRjB3ZFE"
     },
     {
+      "title": "The bond market prepares for a hike to interest rates, while US stocks drift lower - LancasterOnline",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOZnNRNE5mMUNWUW1KSjZlMEFLWk5ucVVKSk9LQ1U0Z3FhbEV5Q3hYTURTbzZ0eF9rV3pOb0xwMHdJRENvTzRKaWp6b3R0YUZxUnQteVhtMlU2ZFYyRFFiT1ktdXo1N3NiMUhteV94QW1Fa3Fxa1B5Q1BRdUlmTkp1ay1ycy1kZXRua1FpRzh1N3NFVUtSVGdQMDh1bGhZUkZBR21zOTU2TDhfVTFBSjR1bGdwVlRSbzZGR21jVG55U1lyZzBCWUFhbHJSR1g1bVBwUXFFdzE0Z3VFSzlSTEZfTFhkLTRoYUhUbWo3TTZhM3JMVzFLNExjQW1oWmN3VGpqcDNRZC13UDNzaGZRbWc?oc=5",
+      "source": "LancasterOnline",
+      "published_at": "Sat, 29 Aug 2026 02:08:06 GMT",
+      "summary": "The bond market prepares for a hike to interest rates, while US stocks drift lower LancasterOnline",
+      "guid": "CBMijgJBVV95cUxOZnNRNE5mMUNWUW1KSjZlMEFLWk5ucVVKSk9LQ1U0Z3FhbEV5Q3hYTURTbzZ0eF9rV3pOb0xwMHdJRENvTzRKaWp6b3R0YUZxUnQteVhtMlU2ZFYyRFFiT1ktdXo1N3NiMUhteV94QW1Fa3Fxa1B5Q1BRdUlmTkp1ay1ycy1kZXRua1FpRzh1N3NFVUtSVGdQMDh1bGhZUkZBR21zOTU2TDhfVTFBSjR1bGdwVlRSbzZGR21jVG55U1lyZzBCWUFhbHJSR1g1bVBwUXFFdzE0Z3VFSzlSTEZfTFhkLTRoYUhUbWo3TTZhM3JMVzFLNExjQW1oWmN3VGpqcDNRZC13UDNzaGZRbWc"
+    },
+    {
       "title": "Wall Street ends lower after Fed Chair Warsh reaffirms inflation fight - Reuters",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYzh4MV92bkEtZUxKUlZLdW5KN2RKeGVEa2xtekxiVnhNbF9RMWxGVGRCZkZJOWEwQkhaVEhBV2hpb3A2S000Vjd0VklkeTdqRFJGeXpYTFdwb19mclEtbEtneVB0M3VlWE84Q0tGeVdhcUM4QU90a2Rmb1pfR3ljSFNWaDVWbGhFT3lLMzQtQnl2VmR5S2lsVUF1RWQyN2diQWdwaHlqUGRwV3lyUkZJ?oc=5",
       "source": "Reuters",
@@ -79,12 +79,12 @@
       "guid": "CBMirwFBVV95cUxPYzh4MV92bkEtZUxKUlZLdW5KN2RKeGVEa2xtekxiVnhNbF9RMWxGVGRCZkZJOWEwQkhaVEhBV2hpb3A2S000Vjd0VklkeTdqRFJGeXpYTFdwb19mclEtbEtneVB0M3VlWE84Q0tGeVdhcUM4QU90a2Rmb1pfR3ljSFNWaDVWbGhFT3lLMzQtQnl2VmR5S2lsVUF1RWQyN2diQWdwaHlqUGRwV3lyUkZJ"
     },
     {
-      "title": "US Consumer Confidence Edged Down Slightly in August - The Conference Board",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE55NEtKdEpyWFB2eWJwRlBkWGlkZFlMdXA3MENDbkRqLXJwa1RBNC1DZVMyajMxWXlab0VYbWFyT0Mzc3p2UHlOOU1jVG5DZkNkeFNxcnRBZHdub1dpa0hiNWNpRTZkLXhNcHdVNw?oc=5",
-      "source": "The Conference Board",
-      "published_at": "Tue, 25 Aug 2026 07:00:00 GMT",
-      "summary": "US Consumer Confidence Edged Down Slightly in August The Conference Board",
-      "guid": "CBMibEFVX3lxTE55NEtKdEpyWFB2eWJwRlBkWGlkZFlMdXA3MENDbkRqLXJwa1RBNC1DZVMyajMxWXlab0VYbWFyT0Mzc3p2UHlOOU1jVG5DZkNkeFNxcnRBZHdub1dpa0hiNWNpRTZkLXhNcHdVNw"
+      "title": "Stock Market Investors (and the Federal Reserve) Just Got Bad News from Treasury Secretary Scott Bessent - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOENVMG4xZE1SeDdzLVVoNW83akxZSjBjcUFXVENJMjdaVXNtWGNOSTkzWjVpeUI1N0xJQ2F5emhESGV3R3BlMmE1cnhIc2duT2tuNkdXLUs4S3p3ZnVtUmFQZTBGR2xEa2NuNC0ySFZsYUU0NDhXV1NEbkpIWGw5ajBLN1B5MEgzTGJITjQzcklMZkxpZFdGWnkwLWxfT1k5c3c?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Thu, 27 Aug 2026 08:52:00 GMT",
+      "summary": "Stock Market Investors (and the Federal Reserve) Just Got Bad News from Treasury Secretary Scott Bessent Yahoo Finance",
+      "guid": "CBMiogFBVV95cUxNOENVMG4xZE1SeDdzLVVoNW83akxZSjBjcUFXVENJMjdaVXNtWGNOSTkzWjVpeUI1N0xJQ2F5emhESGV3R3BlMmE1cnhIc2duT2tuNkdXLUs4S3p3ZnVtUmFQZTBGR2xEa2NuNC0ySFZsYUU0NDhXV1NEbkpIWGw5ajBLN1B5MEgzTGJITjQzcklMZkxpZFdGWnkwLWxfT1k5c3c"
     }
   ]
 }
