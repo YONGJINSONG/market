@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T21:25:00Z",
+  "generated_at": "2026-09-02T23:25:25Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -15,28 +15,36 @@
       "guid": "CBMi0AFBVV95cUxOYTBzZEUwUk5XQmpmbTV4WWhEdWp2dGNxaGlJWE03aGFUQk13VFZVTjhUZ2dGOUVOSXFfOWR2X3FERkg3bDVXQmJfa3lIY2dXZ2hoUFgtNE9yWmY3SmprbEZUcmdCRVJfb3otWEpSTEJISkNNQTZBaUgxaUZ0cXF4Mmt5WFBieTQ5UlJjOVJUMFhlU3pZeW9Wc1FCTUNoTDBiR0FWczlJTy1sZGljdC1pSUJRSy04cmhfQ1kzOVV2UDhHMHIwSUh6amNiVHBGNTBW"
     },
     {
-      "title": "Weekly market commentary - BlackRock",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
-      "source": "BlackRock",
-      "published_at": "Mon, 31 Aug 2026 07:00:00 GMT",
-      "summary": "Weekly market commentary BlackRock",
-      "guid": "CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw"
-    },
-    {
-      "title": "BofA says the coming jobs report is just an appetizer for the next Fed meeting - Business Insider",
+      "title": "BofA says the coming jobs report is just an appetizer for the next Fed meeting - businessinsider.com",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMmNoczlwOE03US1IdzhsMGYyQUxXLXBESmMxekc4bzFSdUhwOFJ5QVZqY1EtRDJMMXZkSFl3Q0NNVDVUZGpPRDRyWUlncXJRem81TzRFdWJxOGoyUjhDZTNvR0d3WTJObXZUMlV1TkY1QUJhTlE1cU5PUE1aLXNPdVlzbEgza1N5b3dWWHBORjVMMUE5ejZaZzFab0YtNk0zUXhTV3NqTQ?oc=5",
-      "source": "Business Insider",
+      "source": "businessinsider.com",
       "published_at": "Wed, 02 Sep 2026 19:34:01 GMT",
-      "summary": "BofA says the coming jobs report is just an appetizer for the next Fed meeting Business Insider",
+      "summary": "BofA says the coming jobs report is just an appetizer for the next Fed meeting businessinsider.com",
       "guid": "CBMipwFBVV95cUxPMmNoczlwOE03US1IdzhsMGYyQUxXLXBESmMxekc4bzFSdUhwOFJ5QVZqY1EtRDJMMXZkSFl3Q0NNVDVUZGpPRDRyWUlncXJRem81TzRFdWJxOGoyUjhDZTNvR0d3WTJObXZUMlV1TkY1QUJhTlE1cU5PUE1aLXNPdVlzbEgza1N5b3dWWHBORjVMMUE5ejZaZzFab0YtNk0zUXhTV3NqTQ"
     },
     {
-      "title": "Stocks are sexy, but bonds are the most important market in the world - Axios",
+      "title": "Weekly market commentary - blackrock.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
+      "source": "blackrock.com",
+      "published_at": "Mon, 31 Aug 2026 07:00:00 GMT",
+      "summary": "Weekly market commentary blackrock.com",
+      "guid": "CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw"
+    },
+    {
+      "title": "Stocks are sexy, but bonds are the most important market in the world - axios.com",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1rNjdHWnVKUlhtRkFhbm9nVHdKdEQ2X25MSkhsLTRtVTZvak4tSmY1a2QyaG9XaHdzbWxuSEJjelAyWE53ZktYam9hVE45T0kyOWFQWGVXRUZBN3prT3JwMXFsWWZ4UTNTZDZJMjFtY28?oc=5",
-      "source": "Axios",
+      "source": "axios.com",
       "published_at": "Mon, 31 Aug 2026 11:18:13 GMT",
-      "summary": "Stocks are sexy, but bonds are the most important market in the world Axios",
+      "summary": "Stocks are sexy, but bonds are the most important market in the world axios.com",
       "guid": "CBMicEFVX3lxTE1rNjdHWnVKUlhtRkFhbm9nVHdKdEQ2X25MSkhsLTRtVTZvak4tSmY1a2QyaG9XaHdzbWxuSEJjelAyWE53ZktYam9hVE45T0kyOWFQWGVXRUZBN3prT3JwMXFsWWZ4UTNTZDZJMjFtY28"
+    },
+    {
+      "title": "Uncertainty builds around inflation, stock market. What could be next. - Detroit Free Press",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxObHBzRXVNMG1zak5VejNBVk5nNmdJblBhNWFDZzN1RXAtNENuQXBzMEJuV0duYUtXLUtzR29lVzF4cjJuSWplWTBiQzEzZUZnRFR1ZGlvTkNvZC1LV3hWMUMyTk1FTkoyMFhlZkwwa2lMMjBTREdGcTRkaUpQS1p6cXg2NlBDTTQwQ3hjVmdMWnZGcC1acHFnU1F6NkxsYVB2aUVyY1NWMGFQa0NUMTc0VGc4QjNrOEhUdVdIRWJVb3F4cnRTbXBIdG5QblE1U2hFaS1fNlpZdXNKMGRKcWs2WGc5a1lTT2xUU0Fv?oc=5",
+      "source": "Detroit Free Press",
+      "published_at": "Tue, 01 Sep 2026 21:12:00 GMT",
+      "summary": "Uncertainty builds around inflation, stock market. What could be next. Detroit Free Press",
+      "guid": "CBMi6wFBVV95cUxObHBzRXVNMG1zak5VejNBVk5nNmdJblBhNWFDZzN1RXAtNENuQXBzMEJuV0duYUtXLUtzR29lVzF4cjJuSWplWTBiQzEzZUZnRFR1ZGlvTkNvZC1LV3hWMUMyTk1FTkoyMFhlZkwwa2lMMjBTREdGcTRkaUpQS1p6cXg2NlBDTTQwQ3hjVmdMWnZGcC1acHFnU1F6NkxsYVB2aUVyY1NWMGFQa0NUMTc0VGc4QjNrOEhUdVdIRWJVb3F4cnRTbXBIdG5QblE1U2hFaS1fNlpZdXNKMGRKcWs2WGc5a1lTT2xUU0Fv"
     },
     {
       "title": "No rate-hiking map from the Federal Reserve - invesco.com",
@@ -63,28 +71,20 @@
       "guid": "CBMingJBVV95cUxNbThSdWkyQ3JTYWlpdXEtQXQ5MWlRTll4ZWw2c01KUV96QnRnVDE2Wl9hWHJKT2djNkpDdGJ1ZzIxbG0zNUIwVTJPazZnZWVIZEJPWlZyOEtrVHpKbnFhVi1OWC1uTkstbzY0YXB5c2RPYjdoOGlaaHJjZ1pNVGhRelhvQjJzRDBYUnRZR3lFRUZXZVdRbmZDSVB0dUxvMTZ0eGRKVXA4MzhNTzRNS3NyLXBQQmthbW4ycnZ4V1ZFRFdCZjlkQjkyZE9vMXNWWVYyZEFpenhJa2JmazRvRHhaNWRPVkZVV2hsU3VlYXF5dGpaazYtMlphYmhBNmtsWFEtNkc2eS00RW9BSlFpX3ZPd3dtWjZNZy12RGI5WjZn"
     },
     {
+      "title": "Warsh Sounds Hawkish, but Will There Be a September Rate Hike in the US? - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPX3UyMFBOaTd4REtkSERIa2lZV3FfSFJxanBOQkFORkh4ZWNJT3JfZmxvaTNFdUpVMkJPNkxic0VrSXJhZVlkQUtWZDRMQ1BVTGtLMTFFZUQ1cGdRemJjMW5lenk2TzRUMnQ2X0hUcXJXdElyYzdVWmItUVdnam5ISGJET1dUeHdnNTVMVEQtVV9Fb3F2RU9yLTNSZEoxbVFz?oc=5",
+      "source": "Morningstar",
+      "published_at": "Mon, 31 Aug 2026 10:10:53 GMT",
+      "summary": "Warsh Sounds Hawkish, but Will There Be a September Rate Hike in the US? Morningstar",
+      "guid": "CBMioAFBVV95cUxPX3UyMFBOaTd4REtkSERIa2lZV3FfSFJxanBOQkFORkh4ZWNJT3JfZmxvaTNFdUpVMkJPNkxic0VrSXJhZVlkQUtWZDRMQ1BVTGtLMTFFZUQ1cGdRemJjMW5lenk2TzRUMnQ2X0hUcXJXdElyYzdVWmItUVdnam5ISGJET1dUeHdnNTVMVEQtVV9Fb3F2RU9yLTNSZEoxbVFz"
+    },
+    {
       "title": "Recent Economic and Financial Developments - Federal Reserve (.gov)",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KWEN6M3VsdUJpS3YyUzBfc0JpcHhrY3J4LXhhUE90UkdqS1N1OWxCZGw1cWxveExZZ1RfM0dXM1pNMk9HRVctTGNBM2xrQ2Npbjl5OFJkQV9sajMxWHhQSGpXSzNfcGppZDhEaHFraFhUZ0puWFE?oc=5",
       "source": "Federal Reserve (.gov)",
       "published_at": "Fri, 17 Jul 2026 06:37:05 GMT",
       "summary": "Recent Economic and Financial Developments Federal Reserve (.gov)",
       "guid": "CBMidkFVX3lxTE9KWEN6M3VsdUJpS3YyUzBfc0JpcHhrY3J4LXhhUE90UkdqS1N1OWxCZGw1cWxveExZZ1RfM0dXM1pNMk9HRVctTGNBM2xrQ2Npbjl5OFJkQV9sajMxWHhQSGpXSzNfcGppZDhEaHFraFhUZ0puWFE"
-    },
-    {
-      "title": "US stocks hold steady after expectations rise for the Federal Reserve to raise interest rates - reflector.com",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQSHhZenZaNkZiLTZVb0lObU9iZXktLVhWV1AzUWZQcE52YnVvNGlOV1pEMVVHU05rQjkwY1ZXR0xNUjdDa2NoNF9uQmNrS2hpbzRvQlpCRlQ1UzVuOERJZ1Zody1NUmU3TDJ0N3k2NlQ4YkJXWmRpZUVUZVpnLW4zU1h4UjhWdTU4MzNHOXEyc1Y3MUwtQlVOeXJqbGU3cFNaVjU0ZDdueHVWdHpZUHZQcHQ0WDZjOW1PLURYLXNIS1ZCWWhUUGh2Slc3MnFwZ1JrbUc2TV8zeERkaFNLSzBZTHRCZGV1WHFKWE5Ja29ia1htdHlMRS1RR0RKcDlDQUdjeVZfdjRwYUd2dThydGR1eA?oc=5",
-      "source": "reflector.com",
-      "published_at": "Fri, 28 Aug 2026 14:58:38 GMT",
-      "summary": "US stocks hold steady after expectations rise for the Federal Reserve to raise interest rates reflector.com",
-      "guid": "CBMikAJBVV95cUxQSHhZenZaNkZiLTZVb0lObU9iZXktLVhWV1AzUWZQcE52YnVvNGlOV1pEMVVHU05rQjkwY1ZXR0xNUjdDa2NoNF9uQmNrS2hpbzRvQlpCRlQ1UzVuOERJZ1Zody1NUmU3TDJ0N3k2NlQ4YkJXWmRpZUVUZVpnLW4zU1h4UjhWdTU4MzNHOXEyc1Y3MUwtQlVOeXJqbGU3cFNaVjU0ZDdueHVWdHpZUHZQcHQ0WDZjOW1PLURYLXNIS1ZCWWhUUGh2Slc3MnFwZ1JrbUc2TV8zeERkaFNLSzBZTHRCZGV1WHFKWE5Ja29ia1htdHlMRS1RR0RKcDlDQUdjeVZfdjRwYUd2dThydGR1eA"
-    },
-    {
-      "title": "Stock Market Investors Just Got Bad News From the Federal Reserve - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYmRTTHRPT2xya2JSUFd2Nld3TXFvQlRGUmxsREUwWUFBSERFNm5ITEJLUXYwMTVQRzRScUtKZExpcEloSDFwM2UwV2p2bks0czctZDFtcl80N0VyWUVKWmJLakNLQnNtUG96WW1KUVB1RlN1T1pwZlAyOEtOZ3k3Unc3clpmQ3Zta3BzSGRjTzlOZERPdThFVkNGUmc?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Sun, 09 Aug 2026 07:00:00 GMT",
-      "summary": "Stock Market Investors Just Got Bad News From the Federal Reserve Yahoo Finance",
-      "guid": "CBMinAFBVV95cUxPYmRTTHRPT2xya2JSUFd2Nld3TXFvQlRGUmxsREUwWUFBSERFNm5ITEJLUXYwMTVQRzRScUtKZExpcEloSDFwM2UwV2p2bks0czctZDFtcl80N0VyWUVKWmJLakNLQnNtUG96WW1KUVB1RlN1T1pwZlAyOEtOZ3k3Unc3clpmQ3Zta3BzSGRjTzlOZERPdThFVkNGUmc"
     }
   ]
 }
