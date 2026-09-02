@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T01:46:20Z",
+  "generated_at": "2026-09-02T06:33:17Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,12 +7,28 @@
   },
   "items": [
     {
+      "title": "Uncertainty builds around inflation, stock market. What could be next. - freep.com",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxObHBzRXVNMG1zak5VejNBVk5nNmdJblBhNWFDZzN1RXAtNENuQXBzMEJuV0duYUtXLUtzR29lVzF4cjJuSWplWTBiQzEzZUZnRFR1ZGlvTkNvZC1LV3hWMUMyTk1FTkoyMFhlZkwwa2lMMjBTREdGcTRkaUpQS1p6cXg2NlBDTTQwQ3hjVmdMWnZGcC1acHFnU1F6NkxsYVB2aUVyY1NWMGFQa0NUMTc0VGc4QjNrOEhUdVdIRWJVb3F4cnRTbXBIdG5QblE1U2hFaS1fNlpZdXNKMGRKcWs2WGc5a1lTT2xUU0Fv?oc=5",
+      "source": "freep.com",
+      "published_at": "Tue, 01 Sep 2026 21:12:00 GMT",
+      "summary": "Uncertainty builds around inflation, stock market. What could be next. freep.com",
+      "guid": "CBMi6wFBVV95cUxObHBzRXVNMG1zak5VejNBVk5nNmdJblBhNWFDZzN1RXAtNENuQXBzMEJuV0duYUtXLUtzR29lVzF4cjJuSWplWTBiQzEzZUZnRFR1ZGlvTkNvZC1LV3hWMUMyTk1FTkoyMFhlZkwwa2lMMjBTREdGcTRkaUpQS1p6cXg2NlBDTTQwQ3hjVmdMWnZGcC1acHFnU1F6NkxsYVB2aUVyY1NWMGFQa0NUMTc0VGc4QjNrOEhUdVdIRWJVb3F4cnRTbXBIdG5QblE1U2hFaS1fNlpZdXNKMGRKcWs2WGc5a1lTT2xUU0Fv"
+    },
+    {
       "title": "Weekly market commentary - BlackRock",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
       "source": "BlackRock",
       "published_at": "Mon, 31 Aug 2026 07:00:00 GMT",
       "summary": "Weekly market commentary BlackRock",
       "guid": "CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw"
+    },
+    {
+      "title": "US borrowing costs hit fresh highs over inflation fears - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yRnc3NXVUUlI3NGJFTDJRbmg3MFJJWFlqT1NpYUlZRnZSNGF3MGFFVDBWbVVDWlNmMUx2bm5TcWFCbGRmOGlOcnhkUFhFLVJnNXZkUUxMZnVEUQ?oc=5",
+      "source": "BBC",
+      "published_at": "Tue, 01 Sep 2026 15:51:51 GMT",
+      "summary": "US borrowing costs hit fresh highs over inflation fears BBC",
+      "guid": "CBMiWkFVX3lxTE5yRnc3NXVUUlI3NGJFTDJRbmg3MFJJWFlqT1NpYUlZRnZSNGF3MGFFVDBWbVVDWlNmMUx2bm5TcWFCbGRmOGlOcnhkUFhFLVJnNXZkUUxMZnVEUQ"
     },
     {
       "title": "No rate-hiking map from the Federal Reserve - invesco.com",
@@ -31,28 +47,20 @@
       "guid": "CBMingJBVV95cUxNbThSdWkyQ3JTYWlpdXEtQXQ5MWlRTll4ZWw2c01KUV96QnRnVDE2Wl9hWHJKT2djNkpDdGJ1ZzIxbG0zNUIwVTJPazZnZWVIZEJPWlZyOEtrVHpKbnFhVi1OWC1uTkstbzY0YXB5c2RPYjdoOGlaaHJjZ1pNVGhRelhvQjJzRDBYUnRZR3lFRUZXZVdRbmZDSVB0dUxvMTZ0eGRKVXA4MzhNTzRNS3NyLXBQQmthbW4ycnZ4V1ZFRFdCZjlkQjkyZE9vMXNWWVYyZEFpenhJa2JmazRvRHhaNWRPVkZVV2hsU3VlYXF5dGpaazYtMlphYmhBNmtsWFEtNkc2eS00RW9BSlFpX3ZPd3dtWjZNZy12RGI5WjZn"
     },
     {
+      "title": "Warsh Sounds Hawkish, but Will There Be a September Rate Hike in the US? - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPX3UyMFBOaTd4REtkSERIa2lZV3FfSFJxanBOQkFORkh4ZWNJT3JfZmxvaTNFdUpVMkJPNkxic0VrSXJhZVlkQUtWZDRMQ1BVTGtLMTFFZUQ1cGdRemJjMW5lenk2TzRUMnQ2X0hUcXJXdElyYzdVWmItUVdnam5ISGJET1dUeHdnNTVMVEQtVV9Fb3F2RU9yLTNSZEoxbVFz?oc=5",
+      "source": "Morningstar",
+      "published_at": "Mon, 31 Aug 2026 10:10:53 GMT",
+      "summary": "Warsh Sounds Hawkish, but Will There Be a September Rate Hike in the US? Morningstar",
+      "guid": "CBMioAFBVV95cUxPX3UyMFBOaTd4REtkSERIa2lZV3FfSFJxanBOQkFORkh4ZWNJT3JfZmxvaTNFdUpVMkJPNkxic0VrSXJhZVlkQUtWZDRMQ1BVTGtLMTFFZUQ1cGdRemJjMW5lenk2TzRUMnQ2X0hUcXJXdElyYzdVWmItUVdnam5ISGJET1dUeHdnNTVMVEQtVV9Fb3F2RU9yLTNSZEoxbVFz"
+    },
+    {
       "title": "The Fed confronts a powerful new economic force - The Washington Post",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcTd5UUJ2NXhhSmlMMXQ4c2tPdk5TNW5nTURrdWVCaDV6SlJpWWt2LUNSeDJpT1Q3OEtjdU1xV2ZOZnRRemtZRElucXNDdXQ5bVVQNFNkOUZwOTBEMC1hS1NSTFotQW9XaTFpY0k5QUtETkZndUpscDQwbm1qR2lYMFJyOU1oVzdfUFVuV05NaFBqczdIbHlWVUd6dndaeFg4OGFKampkWDBzSTJsejEzVkJYY2NzaXM?oc=5",
       "source": "The Washington Post",
       "published_at": "Sat, 29 Aug 2026 16:00:00 GMT",
       "summary": "The Fed confronts a powerful new economic force The Washington Post",
       "guid": "CBMitwFBVV95cUxPcTd5UUJ2NXhhSmlMMXQ4c2tPdk5TNW5nTURrdWVCaDV6SlJpWWt2LUNSeDJpT1Q3OEtjdU1xV2ZOZnRRemtZRElucXNDdXQ5bVVQNFNkOUZwOTBEMC1hS1NSTFotQW9XaTFpY0k5QUtETkZndUpscDQwbm1qR2lYMFJyOU1oVzdfUFVuV05NaFBqczdIbHlWVUd6dndaeFg4OGFKampkWDBzSTJsejEzVkJYY2NzaXM"
-    },
-    {
-      "title": "US stocks hold steady after expectations rise for the Federal Reserve to raise interest rates - ABC Columbia",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONUwyZnZCT1lwTGFuM3ZUbEMtYmxtMVg4SndmWEJRaEFWYmdtbW51N2VlTDRrRjFaVzdtc0NCREUwWk9PcGx1YzQwX25GQlU0NGZPRFp5MElEcFF6Nlpncm9WcWdkbTRIeHlyQmZ0RTU3RWUtWnRFLWYwRk5FdnZIcmlITFNqR2R5TWZfM1FpeXpUNEk2aG5zRF9Bd1ZvaEdHOGQwYUR2cjBlaERkWVp6TjY3VmVyNFU3N1d6ZjdxUkhINmJKX1lERnNWNHpOUQ?oc=5",
-      "source": "ABC Columbia",
-      "published_at": "Fri, 28 Aug 2026 15:10:00 GMT",
-      "summary": "US stocks hold steady after expectations rise for the Federal Reserve to raise interest rates ABC Columbia",
-      "guid": "CBMizgFBVV95cUxONUwyZnZCT1lwTGFuM3ZUbEMtYmxtMVg4SndmWEJRaEFWYmdtbW51N2VlTDRrRjFaVzdtc0NCREUwWk9PcGx1YzQwX25GQlU0NGZPRFp5MElEcFF6Nlpncm9WcWdkbTRIeHlyQmZ0RTU3RWUtWnRFLWYwRk5FdnZIcmlITFNqR2R5TWZfM1FpeXpUNEk2aG5zRF9Bd1ZvaEdHOGQwYUR2cjBlaERkWVp6TjY3VmVyNFU3N1d6ZjdxUkhINmJKX1lERnNWNHpOUQ"
-    },
-    {
-      "title": "Fed Governor Barr says he'll support rate hike if inflation doesn't ease - cnbc.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYjJEQkpQaHVwaXRUZzRneE9IQklMelB1MFBGTExfR1Q3My1XRExYWm1Ic3NPcGZEUHM1OE9rX29qMXQzQ1BndXZYZFVtc1MxbnlaNWFCdi1UR2hnY1ZLOUdDLXZxbnVSNnpCSTBFZ00zVFJ5RWFfRE9fX25DTmdUcVduc3RDZ1hxQV9qanlWWHZTckxRWU9VbXlVbnhHQ2dQMkl1NUxDTkltNEXSAbABQVVfeXFMTmJvSThnNVNUM0RrZmo5RThJTzhEbGc2OFVlU0pOa0lnSF9ZZWJ3WnludnJVN0VGWDFfd2Z1ZllpUUpSWkFtTjY2RmZxV01OSWRuak9sWVRBM2tFUmZmTjRzZ2lmeElJSFBLdm9RdkRMMmprWkc3SUJoOWYzRTh5THctY2ZFUlhLRVAwZnlGeVBtLTdKcTJoVzl0REVKV2EzeW00bWlUQzJxSkFvTlNNbFk?oc=5",
-      "source": "cnbc.com",
-      "published_at": "Tue, 01 Sep 2026 13:05:11 GMT",
-      "summary": "Fed Governor Barr says he'll support rate hike if inflation doesn't ease cnbc.com",
-      "guid": "CBMiqwFBVV95cUxNYjJEQkpQaHVwaXRUZzRneE9IQklMelB1MFBGTExfR1Q3My1XRExYWm1Ic3NPcGZEUHM1OE9rX29qMXQzQ1BndXZYZFVtc1MxbnlaNWFCdi1UR2hnY1ZLOUdDLXZxbnVSNnpCSTBFZ00zVFJ5RWFfRE9fX25DTmdUcVduc3RDZ1hxQV9qanlWWHZTckxRWU9VbXlVbnhHQ2dQMkl1NUxDTkltNEXSAbABQVVfeXFMTmJvSThnNVNUM0RrZmo5RThJTzhEbGc2OFVlU0pOa0lnSF9ZZWJ3WnludnJVN0VGWDFfd2Z1ZllpUUpSWkFtTjY2RmZxV01OSWRuak9sWVRBM2tFUmZmTjRzZ2lmeElJSFBLdm9RdkRMMmprWkc3SUJoOWYzRTh5THctY2ZFUlhLRVAwZnlGeVBtLTdKcTJoVzl0REVKV2EzeW00bWlUQzJxSkFvTlNNbFk"
     },
     {
       "title": "Recent Economic and Financial Developments - Federal Reserve (.gov)",
@@ -63,28 +71,20 @@
       "guid": "CBMidkFVX3lxTE9KWEN6M3VsdUJpS3YyUzBfc0JpcHhrY3J4LXhhUE90UkdqS1N1OWxCZGw1cWxveExZZ1RfM0dXM1pNMk9HRVctTGNBM2xrQ2Npbjl5OFJkQV9sajMxWHhQSGpXSzNfcGppZDhEaHFraFhUZ0puWFE"
     },
     {
-      "title": "Stock Market Investors (and the Federal Reserve) Just Got Bad News from Treasury Secretary Scott Bessent - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc3RBVmE5SDZkNmIyMDc5VFI2TE5Wemtwa0FmTmlhLU1pWERuNERfdktiU2JSOXplcU5weTRQUEFlUHJQVVE5NU90LUk3ZlBzamNBT1BJZEkwdXhiby1wNVdpcTR2eGdwU2g0MlB3NFFtZG5uLXlZbXlzUEdESFI0MnBzRkd3QTU3bWpocHhwUHJsRURxSUZN?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Thu, 27 Aug 2026 09:32:00 GMT",
-      "summary": "Stock Market Investors (and the Federal Reserve) Just Got Bad News from Treasury Secretary Scott Bessent The Motley Fool",
-      "guid": "CBMilwFBVV95cUxPc3RBVmE5SDZkNmIyMDc5VFI2TE5Wemtwa0FmTmlhLU1pWERuNERfdktiU2JSOXplcU5weTRQUEFlUHJQVVE5NU90LUk3ZlBzamNBT1BJZEkwdXhiby1wNVdpcTR2eGdwU2g0MlB3NFFtZG5uLXlZbXlzUEdESFI0MnBzRkd3QTU3bWpocHhwUHJsRURxSUZN"
-    },
-    {
-      "title": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says a Big Drop Could Follow. - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSG5UVUo2Qjc0QmZXVkZkVG5DNDFUMHJVT3ZDUHZzOFBVOXVuWk55aE9ZcDVOVEFJa3Y5ZHpjNWx4YWgtb3VfSjRHQUJXMFJIV3lPcTFDSjFadXBmdENDeGx2eGMyZ2NVRjM2Mk9RYlU3X1B2OGMwWmR6ajgtMWxQUmFCMER2R1gxZk52LVZYWW1lVkxxeWp2S3dpVjA?oc=5",
+      "title": "Stock Market Investors (and the Federal Reserve) Just Got Bad News from Treasury Secretary Scott Bessent - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOENVMG4xZE1SeDdzLVVoNW83akxZSjBjcUFXVENJMjdaVXNtWGNOSTkzWjVpeUI1N0xJQ2F5emhESGV3R3BlMmE1cnhIc2duT2tuNkdXLUs4S3p3ZnVtUmFQZTBGR2xEa2NuNC0ySFZsYUU0NDhXV1NEbkpIWGw5ajBLN1B5MEgzTGJITjQzcklMZkxpZFdGWnkwLWxfT1k5c3c?oc=5",
       "source": "Yahoo Finance",
-      "published_at": "Wed, 01 Jul 2026 07:00:00 GMT",
-      "summary": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says a Big Drop Could Follow. Yahoo Finance",
-      "guid": "CBMinAFBVV95cUxPSG5UVUo2Qjc0QmZXVkZkVG5DNDFUMHJVT3ZDUHZzOFBVOXVuWk55aE9ZcDVOVEFJa3Y5ZHpjNWx4YWgtb3VfSjRHQUJXMFJIV3lPcTFDSjFadXBmdENDeGx2eGMyZ2NVRjM2Mk9RYlU3X1B2OGMwWmR6ajgtMWxQUmFCMER2R1gxZk52LVZYWW1lVkxxeWp2S3dpVjA"
+      "published_at": "Thu, 27 Aug 2026 08:52:00 GMT",
+      "summary": "Stock Market Investors (and the Federal Reserve) Just Got Bad News from Treasury Secretary Scott Bessent Yahoo Finance",
+      "guid": "CBMiogFBVV95cUxNOENVMG4xZE1SeDdzLVVoNW83akxZSjBjcUFXVENJMjdaVXNtWGNOSTkzWjVpeUI1N0xJQ2F5emhESGV3R3BlMmE1cnhIc2duT2tuNkdXLUs4S3p3ZnVtUmFQZTBGR2xEa2NuNC0ySFZsYUU0NDhXV1NEbkpIWGw5ajBLN1B5MEgzTGJITjQzcklMZkxpZFdGWnkwLWxfT1k5c3c"
     },
     {
-      "title": "Financial Markets, Oil Prices, and Supply-Side Risks - Federal Reserve Bank of San Francisco",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNmFjYWNhVVJHZ2Y1dVZ5M3A1LTdZT01sSFVQTVJZcXpfcjNNajNyRjZXNXBpWTlST29nWFBhQ19Id05CQ3pGQXMybTBoRU9CeDFvZXNNN1dxeUVxR3dkM0wyYTZhS1ZMVTJsckdySFlzVXBQVHdGMjVWd3k4TG9idUdueERPVHRZUV95NzBKYTdfYnVVNThfTlRkeEZtNGtCY0dhc3FZMjZBQ0ZHYzRhbnBkZFNxb1JQYmczWHR3S21LYU8yeXhyNk1HRk0?oc=5",
-      "source": "Federal Reserve Bank of San Francisco",
-      "published_at": "Mon, 10 Aug 2026 07:00:00 GMT",
-      "summary": "Financial Markets, Oil Prices, and Supply-Side Risks Federal Reserve Bank of San Francisco",
-      "guid": "CBMizAFBVV95cUxPNmFjYWNhVVJHZ2Y1dVZ5M3A1LTdZT01sSFVQTVJZcXpfcjNNajNyRjZXNXBpWTlST29nWFBhQ19Id05CQ3pGQXMybTBoRU9CeDFvZXNNN1dxeUVxR3dkM0wyYTZhS1ZMVTJsckdySFlzVXBQVHdGMjVWd3k4TG9idUdueERPVHRZUV95NzBKYTdfYnVVNThfTlRkeEZtNGtCY0dhc3FZMjZBQ0ZHYzRhbnBkZFNxb1JQYmczWHR3S21LYU8yeXhyNk1HRk0"
+      "title": "The Stock Market Sounds an Alarm as Investors Get Bad News About President Trump's Economy. History Says This Will Happen Next. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRmVubVliWmVFdHl3YVhOQVlCRWcyZHlMZFhuZFN5V2Iwb2hjMDB4U3lQMkdGeUd1ZVhHOUxvLUhQTTIxNUY0ZzZsemNKVllhQ200UEJLY1Z4SWJmdUU5N3N2RHpqaFNreFkzRWRfRnpRaTRRZE5wblBvYjFCQWQ5MDlWcEtaRlRBTF9GUFFkZGQ1cHUtQi1jNQ?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Mon, 31 Aug 2026 09:48:00 GMT",
+      "summary": "The Stock Market Sounds an Alarm as Investors Get Bad News About President Trump's Economy. History Says This Will Happen Next. The Motley Fool",
+      "guid": "CBMimAFBVV95cUxNRmVubVliWmVFdHl3YVhOQVlCRWcyZHlMZFhuZFN5V2Iwb2hjMDB4U3lQMkdGeUd1ZVhHOUxvLUhQTTIxNUY0ZzZsemNKVllhQ200UEJLY1Z4SWJmdUU5N3N2RHpqaFNreFkzRWRfRnpRaTRRZE5wblBvYjFCQWQ5MDlWcEtaRlRBTF9GUFFkZGQ1cHUtQi1jNQ"
     }
   ]
 }
