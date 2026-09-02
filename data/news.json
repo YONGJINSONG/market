@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T11:42:21Z",
+  "generated_at": "2026-09-02T15:17:06Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,11 +7,19 @@
   },
   "items": [
     {
-      "title": "Weekly market commentary - blackrock.com",
+      "title": "Kevin Warsh Just Sent the Stock Market a Blunt 5-Word Warning. Here's What History Says Comes Next. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdURoeFVmdlQ3eTZkU2JKbUFwYkhxRmNkWFNJSDRPOTZIMDdRX0ZJNnF0ejJjbnEwRmdQaTF4eDRmMU0tSmVOaGktR1RzbUJ5MXdhRjhUR0lySHk4V2xGZXRPa0M2RHlHeGtnT19aRDlxbTh4UjNLdDhJVkM3dkhnRU0zN1dFbEd2Vl8tWlEzeF84QXA5Wi1Sbw?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Wed, 02 Sep 2026 12:42:38 GMT",
+      "summary": "Kevin Warsh Just Sent the Stock Market a Blunt 5-Word Warning. Here's What History Says Comes Next. The Motley Fool",
+      "guid": "CBMimAFBVV95cUxPdURoeFVmdlQ3eTZkU2JKbUFwYkhxRmNkWFNJSDRPOTZIMDdRX0ZJNnF0ejJjbnEwRmdQaTF4eDRmMU0tSmVOaGktR1RzbUJ5MXdhRjhUR0lySHk4V2xGZXRPa0M2RHlHeGtnT19aRDlxbTh4UjNLdDhJVkM3dkhnRU0zN1dFbEd2Vl8tWlEzeF84QXA5Wi1Sbw"
+    },
+    {
+      "title": "Weekly market commentary - BlackRock",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
-      "source": "blackrock.com",
+      "source": "BlackRock",
       "published_at": "Mon, 31 Aug 2026 07:00:00 GMT",
-      "summary": "Weekly market commentary blackrock.com",
+      "summary": "Weekly market commentary BlackRock",
       "guid": "CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw"
     },
     {
@@ -47,28 +55,12 @@
       "guid": "CBMizgFBVV95cUxOeHZ6MnEtQ3NrbkxwSkVWRXZyN1V2WjhUUlIzdHN6dWkwY3ROSlBwbk0wV3FFUmQwbU8yRWNVYXI4OEJrTGF3bC1uVTY3NUJrbWJ4Um5rSDV1RlJoYWhoejljeEw4Q0lNU0tYUHJJVWxQNEdXdUhOTENtMmRQT3VyWlFYZ0JZRFpzV00zcUNYaFBNNVN0NldEbUw0d3d1OElNV05OOUZMcmlBZ1c0b1loN3pEU0FxR1M4MWw5eDBUWFV6eldLM0k4NWZMcGJjQQ"
     },
     {
-      "title": "Warsh Sounds Hawkish, but Will There Be a September Rate Hike in the US? - Morningstar",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPX3UyMFBOaTd4REtkSERIa2lZV3FfSFJxanBOQkFORkh4ZWNJT3JfZmxvaTNFdUpVMkJPNkxic0VrSXJhZVlkQUtWZDRMQ1BVTGtLMTFFZUQ1cGdRemJjMW5lenk2TzRUMnQ2X0hUcXJXdElyYzdVWmItUVdnam5ISGJET1dUeHdnNTVMVEQtVV9Fb3F2RU9yLTNSZEoxbVFz?oc=5",
-      "source": "Morningstar",
-      "published_at": "Mon, 31 Aug 2026 10:10:53 GMT",
-      "summary": "Warsh Sounds Hawkish, but Will There Be a September Rate Hike in the US? Morningstar",
-      "guid": "CBMioAFBVV95cUxPX3UyMFBOaTd4REtkSERIa2lZV3FfSFJxanBOQkFORkh4ZWNJT3JfZmxvaTNFdUpVMkJPNkxic0VrSXJhZVlkQUtWZDRMQ1BVTGtLMTFFZUQ1cGdRemJjMW5lenk2TzRUMnQ2X0hUcXJXdElyYzdVWmItUVdnam5ISGJET1dUeHdnNTVMVEQtVV9Fb3F2RU9yLTNSZEoxbVFz"
-    },
-    {
-      "title": "The Fed confronts a powerful new economic force - The Washington Post",
+      "title": "The Fed confronts a powerful new economic force - washingtonpost.com",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcTd5UUJ2NXhhSmlMMXQ4c2tPdk5TNW5nTURrdWVCaDV6SlJpWWt2LUNSeDJpT1Q3OEtjdU1xV2ZOZnRRemtZRElucXNDdXQ5bVVQNFNkOUZwOTBEMC1hS1NSTFotQW9XaTFpY0k5QUtETkZndUpscDQwbm1qR2lYMFJyOU1oVzdfUFVuV05NaFBqczdIbHlWVUd6dndaeFg4OGFKampkWDBzSTJsejEzVkJYY2NzaXM?oc=5",
-      "source": "The Washington Post",
+      "source": "washingtonpost.com",
       "published_at": "Sat, 29 Aug 2026 16:00:00 GMT",
-      "summary": "The Fed confronts a powerful new economic force The Washington Post",
+      "summary": "The Fed confronts a powerful new economic force washingtonpost.com",
       "guid": "CBMitwFBVV95cUxPcTd5UUJ2NXhhSmlMMXQ4c2tPdk5TNW5nTURrdWVCaDV6SlJpWWt2LUNSeDJpT1Q3OEtjdU1xV2ZOZnRRemtZRElucXNDdXQ5bVVQNFNkOUZwOTBEMC1hS1NSTFotQW9XaTFpY0k5QUtETkZndUpscDQwbm1qR2lYMFJyOU1oVzdfUFVuV05NaFBqczdIbHlWVUd6dndaeFg4OGFKampkWDBzSTJsejEzVkJYY2NzaXM"
-    },
-    {
-      "title": "US stocks hold steady after expectations rise for the Federal Reserve to raise interest rates - ABC Columbia",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONUwyZnZCT1lwTGFuM3ZUbEMtYmxtMVg4SndmWEJRaEFWYmdtbW51N2VlTDRrRjFaVzdtc0NCREUwWk9PcGx1YzQwX25GQlU0NGZPRFp5MElEcFF6Nlpncm9WcWdkbTRIeHlyQmZ0RTU3RWUtWnRFLWYwRk5FdnZIcmlITFNqR2R5TWZfM1FpeXpUNEk2aG5zRF9Bd1ZvaEdHOGQwYUR2cjBlaERkWVp6TjY3VmVyNFU3N1d6ZjdxUkhINmJKX1lERnNWNHpOUQ?oc=5",
-      "source": "ABC Columbia",
-      "published_at": "Fri, 28 Aug 2026 15:10:00 GMT",
-      "summary": "US stocks hold steady after expectations rise for the Federal Reserve to raise interest rates ABC Columbia",
-      "guid": "CBMizgFBVV95cUxONUwyZnZCT1lwTGFuM3ZUbEMtYmxtMVg4SndmWEJRaEFWYmdtbW51N2VlTDRrRjFaVzdtc0NCREUwWk9PcGx1YzQwX25GQlU0NGZPRFp5MElEcFF6Nlpncm9WcWdkbTRIeHlyQmZ0RTU3RWUtWnRFLWYwRk5FdnZIcmlITFNqR2R5TWZfM1FpeXpUNEk2aG5zRF9Bd1ZvaEdHOGQwYUR2cjBlaERkWVp6TjY3VmVyNFU3N1d6ZjdxUkhINmJKX1lERnNWNHpOUQ"
     },
     {
       "title": "Recent Economic and Financial Developments - Federal Reserve Board (.gov)",
@@ -79,12 +71,20 @@
       "guid": "CBMidkFVX3lxTE9KWEN6M3VsdUJpS3YyUzBfc0JpcHhrY3J4LXhhUE90UkdqS1N1OWxCZGw1cWxveExZZ1RfM0dXM1pNMk9HRVctTGNBM2xrQ2Npbjl5OFJkQV9sajMxWHhQSGpXSzNfcGppZDhEaHFraFhUZ0puWFE"
     },
     {
-      "title": "Stock Market Investors (and the Federal Reserve) Just Got Bad News from Treasury Secretary Scott Bessent - finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOENVMG4xZE1SeDdzLVVoNW83akxZSjBjcUFXVENJMjdaVXNtWGNOSTkzWjVpeUI1N0xJQ2F5emhESGV3R3BlMmE1cnhIc2duT2tuNkdXLUs4S3p3ZnVtUmFQZTBGR2xEa2NuNC0ySFZsYUU0NDhXV1NEbkpIWGw5ajBLN1B5MEgzTGJITjQzcklMZkxpZFdGWnkwLWxfT1k5c3c?oc=5",
-      "source": "finance.yahoo.com",
-      "published_at": "Thu, 27 Aug 2026 08:52:00 GMT",
-      "summary": "Stock Market Investors (and the Federal Reserve) Just Got Bad News from Treasury Secretary Scott Bessent finance.yahoo.com",
-      "guid": "CBMiogFBVV95cUxNOENVMG4xZE1SeDdzLVVoNW83akxZSjBjcUFXVENJMjdaVXNtWGNOSTkzWjVpeUI1N0xJQ2F5emhESGV3R3BlMmE1cnhIc2duT2tuNkdXLUs4S3p3ZnVtUmFQZTBGR2xEa2NuNC0ySFZsYUU0NDhXV1NEbkpIWGw5ajBLN1B5MEgzTGJITjQzcklMZkxpZFdGWnkwLWxfT1k5c3c"
+      "title": "US stocks hold steady after expectations rise for the Federal Reserve to raise interest rates - ABC Columbia",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONUwyZnZCT1lwTGFuM3ZUbEMtYmxtMVg4SndmWEJRaEFWYmdtbW51N2VlTDRrRjFaVzdtc0NCREUwWk9PcGx1YzQwX25GQlU0NGZPRFp5MElEcFF6Nlpncm9WcWdkbTRIeHlyQmZ0RTU3RWUtWnRFLWYwRk5FdnZIcmlITFNqR2R5TWZfM1FpeXpUNEk2aG5zRF9Bd1ZvaEdHOGQwYUR2cjBlaERkWVp6TjY3VmVyNFU3N1d6ZjdxUkhINmJKX1lERnNWNHpOUQ?oc=5",
+      "source": "ABC Columbia",
+      "published_at": "Fri, 28 Aug 2026 15:10:00 GMT",
+      "summary": "US stocks hold steady after expectations rise for the Federal Reserve to raise interest rates ABC Columbia",
+      "guid": "CBMizgFBVV95cUxONUwyZnZCT1lwTGFuM3ZUbEMtYmxtMVg4SndmWEJRaEFWYmdtbW51N2VlTDRrRjFaVzdtc0NCREUwWk9PcGx1YzQwX25GQlU0NGZPRFp5MElEcFF6Nlpncm9WcWdkbTRIeHlyQmZ0RTU3RWUtWnRFLWYwRk5FdnZIcmlITFNqR2R5TWZfM1FpeXpUNEk2aG5zRF9Bd1ZvaEdHOGQwYUR2cjBlaERkWVp6TjY3VmVyNFU3N1d6ZjdxUkhINmJKX1lERnNWNHpOUQ"
+    },
+    {
+      "title": "Federal Reserve: Election-year hikes and long-end rates risks – TD Securities - FXStreet",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYzd5YUJ1V0t3cXR5bklEWnRrWHlnc2lmQWNzaUVKajRJQ29LcklWcThvcUpaM1d2YzQwT2E3SDNqeWVaS2daYlJYR1JqT0NEblUzNG5XTGNhYlJpcEtYXzBkZXRJcUd5YjZPSVlCbHFSTHdwSmFLY19ZNTBkUzZZVEliUUxyMWtiY2ZOR2lBOXJRZ1NsQTdpaEJiWlBQOUdoTTlzZlNORU1XT3ZDa1FQNGl3dGhjbV9P?oc=5",
+      "source": "FXStreet",
+      "published_at": "Wed, 02 Sep 2026 12:05:16 GMT",
+      "summary": "Federal Reserve: Election-year hikes and long-end rates risks – TD Securities FXStreet",
+      "guid": "CBMiuAFBVV95cUxNYzd5YUJ1V0t3cXR5bklEWnRrWHlnc2lmQWNzaUVKajRJQ29LcklWcThvcUpaM1d2YzQwT2E3SDNqeWVaS2daYlJYR1JqT0NEblUzNG5XTGNhYlJpcEtYXzBkZXRJcUd5YjZPSVlCbHFSTHdwSmFLY19ZNTBkUzZZVEliUUxyMWtiY2ZOR2lBOXJRZ1NsQTdpaEJiWlBQOUdoTTlzZlNORU1XT3ZDa1FQNGl3dGhjbV9P"
     }
   ]
 }
