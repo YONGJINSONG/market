@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T23:50:46Z",
+  "generated_at": "2026-09-02T01:46:20Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,12 +7,12 @@
   },
   "items": [
     {
-      "title": "Stocks are sexy, but bonds are the most important market in the world - Axios",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1rNjdHWnVKUlhtRkFhbm9nVHdKdEQ2X25MSkhsLTRtVTZvak4tSmY1a2QyaG9XaHdzbWxuSEJjelAyWE53ZktYam9hVE45T0kyOWFQWGVXRUZBN3prT3JwMXFsWWZ4UTNTZDZJMjFtY28?oc=5",
-      "source": "Axios",
-      "published_at": "Mon, 31 Aug 2026 11:18:13 GMT",
-      "summary": "Stocks are sexy, but bonds are the most important market in the world Axios",
-      "guid": "CBMicEFVX3lxTE1rNjdHWnVKUlhtRkFhbm9nVHdKdEQ2X25MSkhsLTRtVTZvak4tSmY1a2QyaG9XaHdzbWxuSEJjelAyWE53ZktYam9hVE45T0kyOWFQWGVXRUZBN3prT3JwMXFsWWZ4UTNTZDZJMjFtY28"
+      "title": "Weekly market commentary - BlackRock",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
+      "source": "BlackRock",
+      "published_at": "Mon, 31 Aug 2026 07:00:00 GMT",
+      "summary": "Weekly market commentary BlackRock",
+      "guid": "CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw"
     },
     {
       "title": "No rate-hiking map from the Federal Reserve - invesco.com",
@@ -31,6 +31,14 @@
       "guid": "CBMingJBVV95cUxNbThSdWkyQ3JTYWlpdXEtQXQ5MWlRTll4ZWw2c01KUV96QnRnVDE2Wl9hWHJKT2djNkpDdGJ1ZzIxbG0zNUIwVTJPazZnZWVIZEJPWlZyOEtrVHpKbnFhVi1OWC1uTkstbzY0YXB5c2RPYjdoOGlaaHJjZ1pNVGhRelhvQjJzRDBYUnRZR3lFRUZXZVdRbmZDSVB0dUxvMTZ0eGRKVXA4MzhNTzRNS3NyLXBQQmthbW4ycnZ4V1ZFRFdCZjlkQjkyZE9vMXNWWVYyZEFpenhJa2JmazRvRHhaNWRPVkZVV2hsU3VlYXF5dGpaazYtMlphYmhBNmtsWFEtNkc2eS00RW9BSlFpX3ZPd3dtWjZNZy12RGI5WjZn"
     },
     {
+      "title": "The Fed confronts a powerful new economic force - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcTd5UUJ2NXhhSmlMMXQ4c2tPdk5TNW5nTURrdWVCaDV6SlJpWWt2LUNSeDJpT1Q3OEtjdU1xV2ZOZnRRemtZRElucXNDdXQ5bVVQNFNkOUZwOTBEMC1hS1NSTFotQW9XaTFpY0k5QUtETkZndUpscDQwbm1qR2lYMFJyOU1oVzdfUFVuV05NaFBqczdIbHlWVUd6dndaeFg4OGFKampkWDBzSTJsejEzVkJYY2NzaXM?oc=5",
+      "source": "The Washington Post",
+      "published_at": "Sat, 29 Aug 2026 16:00:00 GMT",
+      "summary": "The Fed confronts a powerful new economic force The Washington Post",
+      "guid": "CBMitwFBVV95cUxPcTd5UUJ2NXhhSmlMMXQ4c2tPdk5TNW5nTURrdWVCaDV6SlJpWWt2LUNSeDJpT1Q3OEtjdU1xV2ZOZnRRemtZRElucXNDdXQ5bVVQNFNkOUZwOTBEMC1hS1NSTFotQW9XaTFpY0k5QUtETkZndUpscDQwbm1qR2lYMFJyOU1oVzdfUFVuV05NaFBqczdIbHlWVUd6dndaeFg4OGFKampkWDBzSTJsejEzVkJYY2NzaXM"
+    },
+    {
       "title": "US stocks hold steady after expectations rise for the Federal Reserve to raise interest rates - ABC Columbia",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONUwyZnZCT1lwTGFuM3ZUbEMtYmxtMVg4SndmWEJRaEFWYmdtbW51N2VlTDRrRjFaVzdtc0NCREUwWk9PcGx1YzQwX25GQlU0NGZPRFp5MElEcFF6Nlpncm9WcWdkbTRIeHlyQmZ0RTU3RWUtWnRFLWYwRk5FdnZIcmlITFNqR2R5TWZfM1FpeXpUNEk2aG5zRF9Bd1ZvaEdHOGQwYUR2cjBlaERkWVp6TjY3VmVyNFU3N1d6ZjdxUkhINmJKX1lERnNWNHpOUQ?oc=5",
       "source": "ABC Columbia",
@@ -39,12 +47,12 @@
       "guid": "CBMizgFBVV95cUxONUwyZnZCT1lwTGFuM3ZUbEMtYmxtMVg4SndmWEJRaEFWYmdtbW51N2VlTDRrRjFaVzdtc0NCREUwWk9PcGx1YzQwX25GQlU0NGZPRFp5MElEcFF6Nlpncm9WcWdkbTRIeHlyQmZ0RTU3RWUtWnRFLWYwRk5FdnZIcmlITFNqR2R5TWZfM1FpeXpUNEk2aG5zRF9Bd1ZvaEdHOGQwYUR2cjBlaERkWVp6TjY3VmVyNFU3N1d6ZjdxUkhINmJKX1lERnNWNHpOUQ"
     },
     {
-      "title": "The Fed confronts a powerful new economic force - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcTd5UUJ2NXhhSmlMMXQ4c2tPdk5TNW5nTURrdWVCaDV6SlJpWWt2LUNSeDJpT1Q3OEtjdU1xV2ZOZnRRemtZRElucXNDdXQ5bVVQNFNkOUZwOTBEMC1hS1NSTFotQW9XaTFpY0k5QUtETkZndUpscDQwbm1qR2lYMFJyOU1oVzdfUFVuV05NaFBqczdIbHlWVUd6dndaeFg4OGFKampkWDBzSTJsejEzVkJYY2NzaXM?oc=5",
-      "source": "The Washington Post",
-      "published_at": "Sat, 29 Aug 2026 16:00:00 GMT",
-      "summary": "The Fed confronts a powerful new economic force The Washington Post",
-      "guid": "CBMitwFBVV95cUxPcTd5UUJ2NXhhSmlMMXQ4c2tPdk5TNW5nTURrdWVCaDV6SlJpWWt2LUNSeDJpT1Q3OEtjdU1xV2ZOZnRRemtZRElucXNDdXQ5bVVQNFNkOUZwOTBEMC1hS1NSTFotQW9XaTFpY0k5QUtETkZndUpscDQwbm1qR2lYMFJyOU1oVzdfUFVuV05NaFBqczdIbHlWVUd6dndaeFg4OGFKampkWDBzSTJsejEzVkJYY2NzaXM"
+      "title": "Fed Governor Barr says he'll support rate hike if inflation doesn't ease - cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYjJEQkpQaHVwaXRUZzRneE9IQklMelB1MFBGTExfR1Q3My1XRExYWm1Ic3NPcGZEUHM1OE9rX29qMXQzQ1BndXZYZFVtc1MxbnlaNWFCdi1UR2hnY1ZLOUdDLXZxbnVSNnpCSTBFZ00zVFJ5RWFfRE9fX25DTmdUcVduc3RDZ1hxQV9qanlWWHZTckxRWU9VbXlVbnhHQ2dQMkl1NUxDTkltNEXSAbABQVVfeXFMTmJvSThnNVNUM0RrZmo5RThJTzhEbGc2OFVlU0pOa0lnSF9ZZWJ3WnludnJVN0VGWDFfd2Z1ZllpUUpSWkFtTjY2RmZxV01OSWRuak9sWVRBM2tFUmZmTjRzZ2lmeElJSFBLdm9RdkRMMmprWkc3SUJoOWYzRTh5THctY2ZFUlhLRVAwZnlGeVBtLTdKcTJoVzl0REVKV2EzeW00bWlUQzJxSkFvTlNNbFk?oc=5",
+      "source": "cnbc.com",
+      "published_at": "Tue, 01 Sep 2026 13:05:11 GMT",
+      "summary": "Fed Governor Barr says he'll support rate hike if inflation doesn't ease cnbc.com",
+      "guid": "CBMiqwFBVV95cUxNYjJEQkpQaHVwaXRUZzRneE9IQklMelB1MFBGTExfR1Q3My1XRExYWm1Ic3NPcGZEUHM1OE9rX29qMXQzQ1BndXZYZFVtc1MxbnlaNWFCdi1UR2hnY1ZLOUdDLXZxbnVSNnpCSTBFZ00zVFJ5RWFfRE9fX25DTmdUcVduc3RDZ1hxQV9qanlWWHZTckxRWU9VbXlVbnhHQ2dQMkl1NUxDTkltNEXSAbABQVVfeXFMTmJvSThnNVNUM0RrZmo5RThJTzhEbGc2OFVlU0pOa0lnSF9ZZWJ3WnludnJVN0VGWDFfd2Z1ZllpUUpSWkFtTjY2RmZxV01OSWRuak9sWVRBM2tFUmZmTjRzZ2lmeElJSFBLdm9RdkRMMmprWkc3SUJoOWYzRTh5THctY2ZFUlhLRVAwZnlGeVBtLTdKcTJoVzl0REVKV2EzeW00bWlUQzJxSkFvTlNNbFk"
     },
     {
       "title": "Recent Economic and Financial Developments - Federal Reserve (.gov)",
@@ -55,12 +63,12 @@
       "guid": "CBMidkFVX3lxTE9KWEN6M3VsdUJpS3YyUzBfc0JpcHhrY3J4LXhhUE90UkdqS1N1OWxCZGw1cWxveExZZ1RfM0dXM1pNMk9HRVctTGNBM2xrQ2Npbjl5OFJkQV9sajMxWHhQSGpXSzNfcGppZDhEaHFraFhUZ0puWFE"
     },
     {
-      "title": "Here Are Tuesday’s Top Wall Street Analyst Research Calls: Akamai Technologies, Arista Networks, Booking Holdings, Cisco Systems, Dell Technologies, Duolingo, Robinhood Markets, PG&E, and More - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPZUtqbGZDbjdPeWRQQzBYdGtLLWJvUFVsZDRRSGFub1JaWV9QU1NuX1ZGc0p2NGVaRHpINWs5ck9CR3RfSW1IVEZaakFycFZjSFd1cGVBaXdVTnRlclZGUVUwT1VCazhkdlFpRDE2R1J3Vm13a01sanJjSE9yWFM4a2t4TFVWX0dxMEkxUWtfaUlXZlZ5N1Z0RGd2elQ3RHVWOE9ybW9iWGJuRlZkdnlOYkNFWEpVVDNVRTgzSXpVN2VvUHoza0p0YlluM3VtSGJlRmNnR25VaVpEZDUxWTRQN1gxVzl4azE0NTdpdVZNc1ZDU29SNUREQmJQWEFyRTdHUzNPdTU0TlBEMTJJRVBtQ0lZT2NWaUhZVDBmTF9DWjRPVDJXTHdfZ1lxLWg1bEx5YlRFeFZuOUozdXBzTXh0UXdZZFVBQjdX?oc=5",
-      "source": "24/7 Wall St.",
-      "published_at": "Tue, 01 Sep 2026 11:57:00 GMT",
-      "summary": "Here Are Tuesday’s Top Wall Street Analyst Research Calls: Akamai Technologies, Arista Networks, Booking Holdings, Cisco Systems, Dell Technologies, Duolingo, Robinhood Markets, PG&E, and More 24/7 Wall St.",
-      "guid": "CBMiyAJBVV95cUxPZUtqbGZDbjdPeWRQQzBYdGtLLWJvUFVsZDRRSGFub1JaWV9QU1NuX1ZGc0p2NGVaRHpINWs5ck9CR3RfSW1IVEZaakFycFZjSFd1cGVBaXdVTnRlclZGUVUwT1VCazhkdlFpRDE2R1J3Vm13a01sanJjSE9yWFM4a2t4TFVWX0dxMEkxUWtfaUlXZlZ5N1Z0RGd2elQ3RHVWOE9ybW9iWGJuRlZkdnlOYkNFWEpVVDNVRTgzSXpVN2VvUHoza0p0YlluM3VtSGJlRmNnR25VaVpEZDUxWTRQN1gxVzl4azE0NTdpdVZNc1ZDU29SNUREQmJQWEFyRTdHUzNPdTU0TlBEMTJJRVBtQ0lZT2NWaUhZVDBmTF9DWjRPVDJXTHdfZ1lxLWg1bEx5YlRFeFZuOUozdXBzTXh0UXdZZFVBQjdX"
+      "title": "Stock Market Investors (and the Federal Reserve) Just Got Bad News from Treasury Secretary Scott Bessent - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc3RBVmE5SDZkNmIyMDc5VFI2TE5Wemtwa0FmTmlhLU1pWERuNERfdktiU2JSOXplcU5weTRQUEFlUHJQVVE5NU90LUk3ZlBzamNBT1BJZEkwdXhiby1wNVdpcTR2eGdwU2g0MlB3NFFtZG5uLXlZbXlzUEdESFI0MnBzRkd3QTU3bWpocHhwUHJsRURxSUZN?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Thu, 27 Aug 2026 09:32:00 GMT",
+      "summary": "Stock Market Investors (and the Federal Reserve) Just Got Bad News from Treasury Secretary Scott Bessent The Motley Fool",
+      "guid": "CBMilwFBVV95cUxPc3RBVmE5SDZkNmIyMDc5VFI2TE5Wemtwa0FmTmlhLU1pWERuNERfdktiU2JSOXplcU5weTRQUEFlUHJQVVE5NU90LUk3ZlBzamNBT1BJZEkwdXhiby1wNVdpcTR2eGdwU2g0MlB3NFFtZG5uLXlZbXlzUEdESFI0MnBzRkd3QTU3bWpocHhwUHJsRURxSUZN"
     },
     {
       "title": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says a Big Drop Could Follow. - Yahoo Finance",
@@ -77,14 +85,6 @@
       "published_at": "Mon, 10 Aug 2026 07:00:00 GMT",
       "summary": "Financial Markets, Oil Prices, and Supply-Side Risks Federal Reserve Bank of San Francisco",
       "guid": "CBMizAFBVV95cUxPNmFjYWNhVVJHZ2Y1dVZ5M3A1LTdZT01sSFVQTVJZcXpfcjNNajNyRjZXNXBpWTlST29nWFBhQ19Id05CQ3pGQXMybTBoRU9CeDFvZXNNN1dxeUVxR3dkM0wyYTZhS1ZMVTJsckdySFlzVXBQVHdGMjVWd3k4TG9idUdueERPVHRZUV95NzBKYTdfYnVVNThfTlRkeEZtNGtCY0dhc3FZMjZBQ0ZHYzRhbnBkZFNxb1JQYmczWHR3S21LYU8yeXhyNk1HRk0"
-    },
-    {
-      "title": "Stock Market Investors Just Got Bad News From the Federal Reserve - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU0x1Uml3U2JwWVNjbDZjSUNkWVBTUkE3Vk5FS09sWFp3VE5kRDBYckZkUDU2c05uaVBsRTI0RXZXQmw5ZndNSk5BdUVUY01jNGNoOXhCRUtyc1dkTll0ZFJvOFhDbGtiT3l1NmpOdk5Lc3JHdktBU29XMjR2YXNaZHVQYmotMlItZVNPVkVabGhSMDJ2?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Sun, 09 Aug 2026 07:00:00 GMT",
-      "summary": "Stock Market Investors Just Got Bad News From the Federal Reserve The Motley Fool",
-      "guid": "CBMilAFBVV95cUxQU0x1Uml3U2JwWVNjbDZjSUNkWVBTUkE3Vk5FS09sWFp3VE5kRDBYckZkUDU2c05uaVBsRTI0RXZXQmw5ZndNSk5BdUVUY01jNGNoOXhCRUtyc1dkTll0ZFJvOFhDbGtiT3l1NmpOdk5Lc3JHdktBU29XMjR2YXNaZHVQYmotMlItZVNPVkVabGhSMDJ2"
     }
   ]
 }
