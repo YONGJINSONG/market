@@ -1,11 +1,27 @@
 {
-  "generated_at": "2026-09-04T13:45:41Z",
+  "generated_at": "2026-09-04T17:13:54Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "Trump says he will cease trading with top partners unless Fed lowers rates - cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5DR2V2VXJ0VlhJWnhaN1VmZTFPZWYyZGVfY3JuaTNaaDJuX3pWQ3Y3QXRlM0JiY1pjZmtfaGZlNHhCaDhkV3MwWlYxNkNfM3pjMWtja0c3QjJLRWNuV1RpMjd4VVg?oc=5",
+      "source": "cnn.com",
+      "published_at": "Fri, 04 Sep 2026 14:22:44 GMT",
+      "summary": "Trump says he will cease trading with top partners unless Fed lowers rates cnn.com",
+      "guid": "CBMiZEFVX3lxTE5DR2V2VXJ0VlhJWnhaN1VmZTFPZWYyZGVfY3JuaTNaaDJuX3pWQ3Y3QXRlM0JiY1pjZmtfaGZlNHhCaDhkV3MwWlYxNkNfM3pjMWtja0c3QjJLRWNuV1RpMjd4VVg"
+    },
+    {
+      "title": "A Stock-Market Safe Haven Seen as ‘Canary in Coal Mine’ for Risk - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRFdhVVpTbUFvSkpCZzNqNkdVNUpvNHV5dkpjVGFkbEtpdUhnX2pmXzRFQ3dWMWUzOHZlZlpudjJRaDB4NWNaelZSZXdZVkw2aVQ0a2FTWDVqaXZaaHJtSE96UkxUYTFLNkRvUU5MWDVyVmxTTVNJZUMxa1JPdEk3cmJKQTZGSnZUem5EaFRCSW1qdFVKTVBGVEY2UHVlYUUtdzluT2tnNk1zRVVEWXZsa19tMA?oc=5",
+      "source": "Bloomberg.com",
+      "published_at": "Fri, 04 Sep 2026 11:48:12 GMT",
+      "summary": "A Stock-Market Safe Haven Seen as ‘Canary in Coal Mine’ for Risk Bloomberg.com",
+      "guid": "CBMiswFBVV95cUxNRFdhVVpTbUFvSkpCZzNqNkdVNUpvNHV5dkpjVGFkbEtpdUhnX2pmXzRFQ3dWMWUzOHZlZlpudjJRaDB4NWNaelZSZXdZVkw2aVQ0a2FTWDVqaXZaaHJtSE96UkxUYTFLNkRvUU5MWDVyVmxTTVNJZUMxa1JPdEk3cmJKQTZGSnZUem5EaFRCSW1qdFVKTVBGVEY2UHVlYUUtdzluT2tnNk1zRVVEWXZsa19tMA"
+    },
     {
       "title": "Detroit Free Press | Uncertainty Builds Around Inflation, Stock Market. What Could Be Next? - Loyola Marymount University",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMzViUkJkdmdOWU5zZTNUVTZYMVRIVjgwYWhqZWJLekc2UWdjeVhWWHNJSmZiRnBLaFpBUThPNWNKOWZBSnBJTVowUGlrRlp1NXNLZ1JTSnhpRW9VTThCUUhzMnRkcjQ5SklyaVlkY3RhQUp0a2g5UFFoTHpMRE51M25xaWhEUlBMRDR3RTF2am0yWmNCY0Vkc3ZKVlhkVEFOSmh3Y0hyNDB0c0pSY3ZYd0IwMHBtN09yMXNWNWNJaWZPSGc3ZzNB?oc=5",
@@ -15,36 +31,20 @@
       "guid": "CBMixwFBVV95cUxOMzViUkJkdmdOWU5zZTNUVTZYMVRIVjgwYWhqZWJLekc2UWdjeVhWWHNJSmZiRnBLaFpBUThPNWNKOWZBSnBJTVowUGlrRlp1NXNLZ1JTSnhpRW9VTThCUUhzMnRkcjQ5SklyaVlkY3RhQUp0a2g5UFFoTHpMRE51M25xaWhEUlBMRDR3RTF2am0yWmNCY0Vkc3ZKVlhkVEFOSmh3Y0hyNDB0c0pSY3ZYd0IwMHBtN09yMXNWNWNJaWZPSGc3ZzNB"
     },
     {
-      "title": "Stock Market: Will S&P 500 Open Up or Down Today? - Benzinga",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaFJTZ2VPWDBHVUhxRi1pNzRnVkV5YjdKMzdfczZkZ09oaWVTR2NaT3d5SjFIeDRXeUx4d1Z3ZFpQSG1nVXR4Qi1jLUFRZEtBQy1DdFFDN2FaaHg3YUZjRGlKeGtaa3Q3NUxDZHUtM2FndHpzZE9Fd3NJam9iODFoRkdPcHF1UnJvSkxvLW5GaTFUS0dNeDN2OXoya0pvZzBINEszYlhUYWoyLS1kTHRhYTV6RWE2aDg?oc=5",
-      "source": "Benzinga",
-      "published_at": "Fri, 04 Sep 2026 06:04:40 GMT",
-      "summary": "Stock Market: Will S&P 500 Open Up or Down Today? Benzinga",
-      "guid": "CBMitwFBVV95cUxOaFJTZ2VPWDBHVUhxRi1pNzRnVkV5YjdKMzdfczZkZ09oaWVTR2NaT3d5SjFIeDRXeUx4d1Z3ZFpQSG1nVXR4Qi1jLUFRZEtBQy1DdFFDN2FaaHg3YUZjRGlKeGtaa3Q3NUxDZHUtM2FndHpzZE9Fd3NJam9iODFoRkdPcHF1UnJvSkxvLW5GaTFUS0dNeDN2OXoya0pvZzBINEszYlhUYWoyLS1kTHRhYTV6RWE2aDg"
-    },
-    {
-      "title": "Global bonds sell off as Middle East conflict escalates, further stoking inflation fears - CNN",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5USXlYc1JQOEFTU0FBQ3dTSDVWYzBtNzBWLTJxeVlyQnBFcmY2dlRIeUFreGh2UlZLREY5TmV5cENUazNBSFNvV2NBVTh3REptZEdTMW9qd2d3QXBMQkRrRE05ZTA4SlhfUGlZ?oc=5",
-      "source": "CNN",
-      "published_at": "Tue, 01 Sep 2026 13:05:00 GMT",
-      "summary": "Global bonds sell off as Middle East conflict escalates, further stoking inflation fears CNN",
-      "guid": "CBMia0FVX3lxTE5USXlYc1JQOEFTU0FBQ3dTSDVWYzBtNzBWLTJxeVlyQnBFcmY2dlRIeUFreGh2UlZLREY5TmV5cENUazNBSFNvV2NBVTh3REptZEdTMW9qd2d3QXBMQkRrRE05ZTA4SlhfUGlZ"
-    },
-    {
-      "title": "Weekly market commentary - BlackRock",
+      "title": "Weekly market commentary - blackrock.com",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
-      "source": "BlackRock",
+      "source": "blackrock.com",
       "published_at": "Mon, 31 Aug 2026 07:00:00 GMT",
-      "summary": "Weekly market commentary BlackRock",
+      "summary": "Weekly market commentary blackrock.com",
       "guid": "CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw"
     },
     {
-      "title": "US Stocks and Treasuries Steady Ahead of Jobs Data: Markets Wrap - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaktoYVRBb3N2SC1rN2s4X05rbWgtWE0xeFRDak9DOXV5Zlppd2Rsbml6bXJObVNkNjJuS1I4UzdxUG5XV1pqd3JPUUFxUWUzU1E1TmlSeVdZeFNzN3NNVjVPVE5qYmZHYUppMFdfVG1aV2NscTlvTnQyNGJyTDA5QUJNLUF3U1l0dmJ0d2ZPcFVtbV9a?oc=5",
-      "source": "Bloomberg.com",
-      "published_at": "Thu, 03 Sep 2026 22:14:26 GMT",
-      "summary": "US Stocks and Treasuries Steady Ahead of Jobs Data: Markets Wrap Bloomberg.com",
-      "guid": "CBMilAFBVV95cUxQaktoYVRBb3N2SC1rN2s4X05rbWgtWE0xeFRDak9DOXV5Zlppd2Rsbml6bXJObVNkNjJuS1I4UzdxUG5XV1pqd3JPUUFxUWUzU1E1TmlSeVdZeFNzN3NNVjVPVE5qYmZHYUppMFdfVG1aV2NscTlvTnQyNGJyTDA5QUJNLUF3U1l0dmJ0d2ZPcFVtbV9a"
+      "title": "Trump Issues Stark Threat To Federal Reserve: \"Lower The Rate Or I'll Stop Trading With Countries With Which We Have A Deficit\" - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOWWhQdXpvel9OX2M5enV0ekVVamwweGZvUGVMTVhwczl1Rm54eXRBWWVPd0hkTVk5aHhneXdUZjYtMms5elJHUE5BS0JFUUxWVWg1R1BURGRpXzZKcjl4bEFkNmk2VFNRZzMxOEFuaEZRODlzSExicWM2NEdaSDc1NENHNm9BZ2hIY3EyLXJINFVIcW50Yl9YdDFCQ0tCbXFUcWlSOU9CY1hoenNjN2ZISjBxYUdOdFdfZUxzSjV4SjBXVkNNdkE4SFg4OWxFZ0lETk01OVl1YzVicm15TFNHcmdpeDlRbHVwaldfTnViblo5NlJyVWxVVkRKcw?oc=5",
+      "source": "24/7 Wall St.",
+      "published_at": "Fri, 04 Sep 2026 14:27:00 GMT",
+      "summary": "Trump Issues Stark Threat To Federal Reserve: \"Lower The Rate Or I'll Stop Trading With Countries With Which We Have A Deficit\" 24/7 Wall St.",
+      "guid": "CBMi-wFBVV95cUxOWWhQdXpvel9OX2M5enV0ekVVamwweGZvUGVMTVhwczl1Rm54eXRBWWVPd0hkTVk5aHhneXdUZjYtMms5elJHUE5BS0JFUUxWVWg1R1BURGRpXzZKcjl4bEFkNmk2VFNRZzMxOEFuaEZRODlzSExicWM2NEdaSDc1NENHNm9BZ2hIY3EyLXJINFVIcW50Yl9YdDFCQ0tCbXFUcWlSOU9CY1hoenNjN2ZISjBxYUdOdFdfZUxzSjV4SjBXVkNNdkE4SFg4OWxFZ0lETk01OVl1YzVicm15TFNHcmdpeDlRbHVwaldfTnViblo5NlJyVWxVVkRKcw"
     },
     {
       "title": "No rate-hiking map from the Federal Reserve - invesco.com",
@@ -79,12 +79,12 @@
       "guid": "CBMi1gFBVV95cUxOVmRkbElMU1FXQjRfTUQzVldXNVQ1TktDekgtT2Q1cThUQWJzZno2OHc1dDY2Z2JVdDl0N3pRX0JiZFVlUW8wSENySUtRTk9zT2huMlVPMGlVRzltaV9wZmp4QjI5MnFhbDR5bFIwV0NpWUFwQkxLRmZ0OGFXUzZTM0xaMmVYVnd0anQ1bG1zRFVfODZHdGp1RmpFZDVyODdmZF93UVVBT0tKZTA4Wkk2WHpURE8zSU5wUUNkV09wd0ZYV2lFZ2pkLXdFTlZ2N042NTNzc3RR"
     },
     {
-      "title": "Federal Reserve Chairman Kevin Wash's speech on the Jackson Hole debut stage is acting as a big vari.. - mk.co.kr",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96MVBMVHFjTGg2MFJOaG94a1NSR1lHQm5zclJyVk1oZWE1MVV6QlR2Zk5XVnJ2TjhIYmJGYXVkNFJpdDhfU0paZHRrRkl3dms?oc=5",
-      "source": "mk.co.kr",
-      "published_at": "Fri, 04 Sep 2026 11:43:39 GMT",
-      "summary": "Federal Reserve Chairman Kevin Wash's speech on the Jackson Hole debut stage is acting as a big vari.. mk.co.kr",
-      "guid": "CBMiT0FVX3lxTE96MVBMVHFjTGg2MFJOaG94a1NSR1lHQm5zclJyVk1oZWE1MVV6QlR2Zk5XVnJ2TjhIYmJGYXVkNFJpdDhfU0paZHRrRkl3dms"
+      "title": "Trump Issues Stark Threat To Federal Reserve: “Lower The Rate Or I’ll Stop Trading With Countries With Which We Have A Deficit” - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQzR0UDVhblRSRExuazJkR3IxaW5KUVJKbjRmckZWQnJBYm90RTlsUk5DTThlZ2F6aFBhQzdVWlp4a2pGS3FzNklJZElUcS1FSUNPSGZFTWY1elF4LWJQN05TRy1wZE5zRDczYXRnR3hBRlNWSmFLWHphcE5nbVVhazg4eXc0SktpRC1OVXZIZlE0Vi1LNHNJTkpzamc5ZkE?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Fri, 04 Sep 2026 14:27:55 GMT",
+      "summary": "Trump Issues Stark Threat To Federal Reserve: “Lower The Rate Or I’ll Stop Trading With Countries With Which We Have A Deficit” Yahoo Finance",
+      "guid": "CBMinwFBVV95cUxQQzR0UDVhblRSRExuazJkR3IxaW5KUVJKbjRmckZWQnJBYm90RTlsUk5DTThlZ2F6aFBhQzdVWlp4a2pGS3FzNklJZElUcS1FSUNPSGZFTWY1elF4LWJQN05TRy1wZE5zRDczYXRnR3hBRlNWSmFLWHphcE5nbVVhazg4eXc0SktpRC1OVXZIZlE0Vi1LNHNJTkpzamc5ZkE"
     }
   ]
 }
