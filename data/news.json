@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T17:13:54Z",
+  "generated_at": "2026-09-04T19:34:59Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,11 +7,11 @@
   },
   "items": [
     {
-      "title": "Trump says he will cease trading with top partners unless Fed lowers rates - cnn.com",
+      "title": "Trump says he will cease trading with top partners unless Fed lowers rates - CNN",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5DR2V2VXJ0VlhJWnhaN1VmZTFPZWYyZGVfY3JuaTNaaDJuX3pWQ3Y3QXRlM0JiY1pjZmtfaGZlNHhCaDhkV3MwWlYxNkNfM3pjMWtja0c3QjJLRWNuV1RpMjd4VVg?oc=5",
-      "source": "cnn.com",
+      "source": "CNN",
       "published_at": "Fri, 04 Sep 2026 14:22:44 GMT",
-      "summary": "Trump says he will cease trading with top partners unless Fed lowers rates cnn.com",
+      "summary": "Trump says he will cease trading with top partners unless Fed lowers rates CNN",
       "guid": "CBMiZEFVX3lxTE5DR2V2VXJ0VlhJWnhaN1VmZTFPZWYyZGVfY3JuaTNaaDJuX3pWQ3Y3QXRlM0JiY1pjZmtfaGZlNHhCaDhkV3MwWlYxNkNfM3pjMWtja0c3QjJLRWNuV1RpMjd4VVg"
     },
     {
@@ -31,20 +31,20 @@
       "guid": "CBMixwFBVV95cUxOMzViUkJkdmdOWU5zZTNUVTZYMVRIVjgwYWhqZWJLekc2UWdjeVhWWHNJSmZiRnBLaFpBUThPNWNKOWZBSnBJTVowUGlrRlp1NXNLZ1JTSnhpRW9VTThCUUhzMnRkcjQ5SklyaVlkY3RhQUp0a2g5UFFoTHpMRE51M25xaWhEUlBMRDR3RTF2am0yWmNCY0Vkc3ZKVlhkVEFOSmh3Y0hyNDB0c0pSY3ZYd0IwMHBtN09yMXNWNWNJaWZPSGc3ZzNB"
     },
     {
+      "title": "Strong Jobs Report May Tilt Fed Toward Rate Hike; Trump Freaks Out - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jZlg5aGdQaWVtWnltOVVNSmZwYWI3aUN6VWFmYXNxMXVLWVQ3S3AwYXl2TS1ZSzV3RkhfUHBaS3BrT3dqYWoxN2FJanBpOUd3cEgtNnhrQklyS0ZNckVGRmZFekdDVzRmMTR6aUx3QzhSd0NNd1RyTThtX2FsUQ?oc=5",
+      "source": "Investor's Business Daily",
+      "published_at": "Fri, 04 Sep 2026 14:28:00 GMT",
+      "summary": "Strong Jobs Report May Tilt Fed Toward Rate Hike; Trump Freaks Out Investor's Business Daily",
+      "guid": "CBMifkFVX3lxTE5jZlg5aGdQaWVtWnltOVVNSmZwYWI3aUN6VWFmYXNxMXVLWVQ3S3AwYXl2TS1ZSzV3RkhfUHBaS3BrT3dqYWoxN2FJanBpOUd3cEgtNnhrQklyS0ZNckVGRmZFekdDVzRmMTR6aUx3QzhSd0NNd1RyTThtX2FsUQ"
+    },
+    {
       "title": "Weekly market commentary - blackrock.com",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
       "source": "blackrock.com",
       "published_at": "Mon, 31 Aug 2026 07:00:00 GMT",
       "summary": "Weekly market commentary blackrock.com",
       "guid": "CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw"
-    },
-    {
-      "title": "Trump Issues Stark Threat To Federal Reserve: \"Lower The Rate Or I'll Stop Trading With Countries With Which We Have A Deficit\" - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOWWhQdXpvel9OX2M5enV0ekVVamwweGZvUGVMTVhwczl1Rm54eXRBWWVPd0hkTVk5aHhneXdUZjYtMms5elJHUE5BS0JFUUxWVWg1R1BURGRpXzZKcjl4bEFkNmk2VFNRZzMxOEFuaEZRODlzSExicWM2NEdaSDc1NENHNm9BZ2hIY3EyLXJINFVIcW50Yl9YdDFCQ0tCbXFUcWlSOU9CY1hoenNjN2ZISjBxYUdOdFdfZUxzSjV4SjBXVkNNdkE4SFg4OWxFZ0lETk01OVl1YzVicm15TFNHcmdpeDlRbHVwaldfTnViblo5NlJyVWxVVkRKcw?oc=5",
-      "source": "24/7 Wall St.",
-      "published_at": "Fri, 04 Sep 2026 14:27:00 GMT",
-      "summary": "Trump Issues Stark Threat To Federal Reserve: \"Lower The Rate Or I'll Stop Trading With Countries With Which We Have A Deficit\" 24/7 Wall St.",
-      "guid": "CBMi-wFBVV95cUxOWWhQdXpvel9OX2M5enV0ekVVamwweGZvUGVMTVhwczl1Rm54eXRBWWVPd0hkTVk5aHhneXdUZjYtMms5elJHUE5BS0JFUUxWVWg1R1BURGRpXzZKcjl4bEFkNmk2VFNRZzMxOEFuaEZRODlzSExicWM2NEdaSDc1NENHNm9BZ2hIY3EyLXJINFVIcW50Yl9YdDFCQ0tCbXFUcWlSOU9CY1hoenNjN2ZISjBxYUdOdFdfZUxzSjV4SjBXVkNNdkE4SFg4OWxFZ0lETk01OVl1YzVicm15TFNHcmdpeDlRbHVwaldfTnViblo5NlJyVWxVVkRKcw"
     },
     {
       "title": "No rate-hiking map from the Federal Reserve - invesco.com",
@@ -55,6 +55,14 @@
       "guid": "CBMimgFBVV95cUxONjFRV0ttT3Z0WmRRN1Qza1A5VFpDMW5vMDEtYkprLVhHZ05zMElKaWtXOUtnb29zdDNjc25sd2l4TkUyY09EQU43ZUlETW4zbDZpczgzUG9MUzNtS3ZyUlNicVoyaVpWdUVRcUFYaXlNNGtrWFZyZUNwSHE3VWNjRXl2bXI3WmxSM1JuN0d2RVI1ZzgwWkNuUS13"
     },
     {
+      "title": "Trump Issues Stark Threat To Federal Reserve: \"Lower The Rate Or I'll Stop Trading With Countries With Which We Have A Deficit\" - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOWWhQdXpvel9OX2M5enV0ekVVamwweGZvUGVMTVhwczl1Rm54eXRBWWVPd0hkTVk5aHhneXdUZjYtMms5elJHUE5BS0JFUUxWVWg1R1BURGRpXzZKcjl4bEFkNmk2VFNRZzMxOEFuaEZRODlzSExicWM2NEdaSDc1NENHNm9BZ2hIY3EyLXJINFVIcW50Yl9YdDFCQ0tCbXFUcWlSOU9CY1hoenNjN2ZISjBxYUdOdFdfZUxzSjV4SjBXVkNNdkE4SFg4OWxFZ0lETk01OVl1YzVicm15TFNHcmdpeDlRbHVwaldfTnViblo5NlJyVWxVVkRKcw?oc=5",
+      "source": "24/7 Wall St.",
+      "published_at": "Fri, 04 Sep 2026 14:27:00 GMT",
+      "summary": "Trump Issues Stark Threat To Federal Reserve: \"Lower The Rate Or I'll Stop Trading With Countries With Which We Have A Deficit\" 24/7 Wall St.",
+      "guid": "CBMi-wFBVV95cUxOWWhQdXpvel9OX2M5enV0ekVVamwweGZvUGVMTVhwczl1Rm54eXRBWWVPd0hkTVk5aHhneXdUZjYtMms5elJHUE5BS0JFUUxWVWg1R1BURGRpXzZKcjl4bEFkNmk2VFNRZzMxOEFuaEZRODlzSExicWM2NEdaSDc1NENHNm9BZ2hIY3EyLXJINFVIcW50Yl9YdDFCQ0tCbXFUcWlSOU9CY1hoenNjN2ZISjBxYUdOdFdfZUxzSjV4SjBXVkNNdkE4SFg4OWxFZ0lETk01OVl1YzVicm15TFNHcmdpeDlRbHVwaldfTnViblo5NlJyVWxVVkRKcw"
+    },
+    {
       "title": "Stock market surges as Fed signals inflation easing, rate hikes on hold - eciks.org",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA3emNQMTNlaGVUUmNXbmJmaEt1Y0QwVkxVaW9kcVpBREZEdmNnSy11cWEySzlYQm0yLW9IV0J5cFZBSHNFRVJrVC15eVVrYlVxaTZuVFF6b0FQS3ZJTnhsMWtvX1VhQlFyWk1CVg?oc=5",
       "source": "eciks.org",
@@ -63,28 +71,20 @@
       "guid": "CBMibEFVX3lxTFA3emNQMTNlaGVUUmNXbmJmaEt1Y0QwVkxVaW9kcVpBREZEdmNnSy11cWEySzlYQm0yLW9IV0J5cFZBSHNFRVJrVC15eVVrYlVxaTZuVFF6b0FQS3ZJTnhsMWtvX1VhQlFyWk1CVg"
     },
     {
-      "title": "The Federal Reserve's Initial September Inflation Forecast Has Arrived, and It Contains a Glaring Red Flag for Wall Street - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTXIzYW41YXVfc09sMmh0Y3ljWU1DZVlpdTdCZzVOVks1OVpyN3NlbTRoWVIwNDNrM0xVSWQ4X2JCOWM1TUpBSXltWEFRRG1UUGtCcjk2Y25NZXlPLUpOdFFDODNPTllVUEo5QU9HSGF5Vk5KWVNwV3JMUjQ2bngtSjJsenU1ekpUWVBrZGFncFJ3Y19YQUxj?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Fri, 04 Sep 2026 09:06:00 GMT",
-      "summary": "The Federal Reserve's Initial September Inflation Forecast Has Arrived, and It Contains a Glaring Red Flag for Wall Street The Motley Fool",
-      "guid": "CBMilwFBVV95cUxNTXIzYW41YXVfc09sMmh0Y3ljWU1DZVlpdTdCZzVOVks1OVpyN3NlbTRoWVIwNDNrM0xVSWQ4X2JCOWM1TUpBSXltWEFRRG1UUGtCcjk2Y25NZXlPLUpOdFFDODNPTllVUEo5QU9HSGF5Vk5KWVNwV3JMUjQ2bngtSjJsenU1ekpUWVBrZGFncFJ3Y19YQUxj"
-    },
-    {
-      "title": "Has Broader Stock Market Participation Changed How Interest Rates Affect the Economy? - Liberty Street Economics",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVmRkbElMU1FXQjRfTUQzVldXNVQ1TktDekgtT2Q1cThUQWJzZno2OHc1dDY2Z2JVdDl0N3pRX0JiZFVlUW8wSENySUtRTk9zT2huMlVPMGlVRzltaV9wZmp4QjI5MnFhbDR5bFIwV0NpWUFwQkxLRmZ0OGFXUzZTM0xaMmVYVnd0anQ1bG1zRFVfODZHdGp1RmpFZDVyODdmZF93UVVBT0tKZTA4Wkk2WHpURE8zSU5wUUNkV09wd0ZYV2lFZ2pkLXdFTlZ2N042NTNzc3RR?oc=5",
-      "source": "Liberty Street Economics",
-      "published_at": "Wed, 19 Aug 2026 07:00:00 GMT",
-      "summary": "Has Broader Stock Market Participation Changed How Interest Rates Affect the Economy? Liberty Street Economics",
-      "guid": "CBMi1gFBVV95cUxOVmRkbElMU1FXQjRfTUQzVldXNVQ1TktDekgtT2Q1cThUQWJzZno2OHc1dDY2Z2JVdDl0N3pRX0JiZFVlUW8wSENySUtRTk9zT2huMlVPMGlVRzltaV9wZmp4QjI5MnFhbDR5bFIwV0NpWUFwQkxLRmZ0OGFXUzZTM0xaMmVYVnd0anQ1bG1zRFVfODZHdGp1RmpFZDVyODdmZF93UVVBT0tKZTA4Wkk2WHpURE8zSU5wUUNkV09wd0ZYV2lFZ2pkLXdFTlZ2N042NTNzc3RR"
-    },
-    {
       "title": "Trump Issues Stark Threat To Federal Reserve: “Lower The Rate Or I’ll Stop Trading With Countries With Which We Have A Deficit” - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQzR0UDVhblRSRExuazJkR3IxaW5KUVJKbjRmckZWQnJBYm90RTlsUk5DTThlZ2F6aFBhQzdVWlp4a2pGS3FzNklJZElUcS1FSUNPSGZFTWY1elF4LWJQN05TRy1wZE5zRDczYXRnR3hBRlNWSmFLWHphcE5nbVVhazg4eXc0SktpRC1OVXZIZlE0Vi1LNHNJTkpzamc5ZkE?oc=5",
       "source": "Yahoo Finance",
       "published_at": "Fri, 04 Sep 2026 14:27:55 GMT",
       "summary": "Trump Issues Stark Threat To Federal Reserve: “Lower The Rate Or I’ll Stop Trading With Countries With Which We Have A Deficit” Yahoo Finance",
       "guid": "CBMinwFBVV95cUxQQzR0UDVhblRSRExuazJkR3IxaW5KUVJKbjRmckZWQnJBYm90RTlsUk5DTThlZ2F6aFBhQzdVWlp4a2pGS3FzNklJZElUcS1FSUNPSGZFTWY1elF4LWJQN05TRy1wZE5zRDczYXRnR3hBRlNWSmFLWHphcE5nbVVhazg4eXc0SktpRC1OVXZIZlE0Vi1LNHNJTkpzamc5ZkE"
+    },
+    {
+      "title": "Kevin Warsh Just Sent the Stock Market a Blunt 5-Word Warning. Here's What History Says Comes Next. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdURoeFVmdlQ3eTZkU2JKbUFwYkhxRmNkWFNJSDRPOTZIMDdRX0ZJNnF0ejJjbnEwRmdQaTF4eDRmMU0tSmVOaGktR1RzbUJ5MXdhRjhUR0lySHk4V2xGZXRPa0M2RHlHeGtnT19aRDlxbTh4UjNLdDhJVkM3dkhnRU0zN1dFbEd2Vl8tWlEzeF84QXA5Wi1Sbw?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Wed, 02 Sep 2026 13:30:00 GMT",
+      "summary": "Kevin Warsh Just Sent the Stock Market a Blunt 5-Word Warning. Here's What History Says Comes Next. The Motley Fool",
+      "guid": "CBMimAFBVV95cUxPdURoeFVmdlQ3eTZkU2JKbUFwYkhxRmNkWFNJSDRPOTZIMDdRX0ZJNnF0ejJjbnEwRmdQaTF4eDRmMU0tSmVOaGktR1RzbUJ5MXdhRjhUR0lySHk4V2xGZXRPa0M2RHlHeGtnT19aRDlxbTh4UjNLdDhJVkM3dkhnRU0zN1dFbEd2Vl8tWlEzeF84QXA5Wi1Sbw"
     }
   ]
 }
