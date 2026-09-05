@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T13:01:24Z",
+  "generated_at": "2026-09-05T16:01:07Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -23,28 +23,20 @@
       "guid": "CBMiakFVX3lxTE5uWjkzWUc5ejdIcElGemtOYUt6dEN4R0EtLUxfOFFYN0ZxS0tGWnFpNTlQd3IxNGs2NVFIUm0xQUhDNWxZOVNrWDRHQkR5QmVNNEl3VUJGTlJlR2ZtenRPZktlZzRad1dtb3c"
     },
     {
-      "title": "Stock Market This Week Ends Flat Before Labor Day - stl.news",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1LcHIyeDRyOXotcFFGekg3c0lHMXRDSjFDMzl0R1BXR2pFdVZoOXBQaU5HSWhPTmt6ZjJKajdRcDI1ZzhYZFBqcThQMzJyYVIzUmNZbWJRS2xselNUeXhvWDJ4VTlMeG1USk51clVWcmZjbW5saTJaX0FnUQ?oc=5",
-      "source": "stl.news",
-      "published_at": "Sat, 05 Sep 2026 06:31:51 GMT",
-      "summary": "Stock Market This Week Ends Flat Before Labor Day stl.news",
-      "guid": "CBMie0FVX3lxTE1LcHIyeDRyOXotcFFGekg3c0lHMXRDSjFDMzl0R1BXR2pFdVZoOXBQaU5HSWhPTmt6ZjJKajdRcDI1ZzhYZFBqcThQMzJyYVIzUmNZbWJRS2xselNUeXhvWDJ4VTlMeG1USk51clVWcmZjbW5saTJaX0FnUQ"
-    },
-    {
-      "title": "What to Look Out for in Economic Data This Week (September 7-11) - Kiplinger",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ?oc=5",
-      "source": "Kiplinger",
-      "published_at": "Fri, 04 Sep 2026 14:56:02 GMT",
-      "summary": "What to Look Out for in Economic Data This Week (September 7-11) Kiplinger",
-      "guid": "CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ"
-    },
-    {
       "title": "Detroit Free Press | Uncertainty Builds Around Inflation, Stock Market. What Could Be Next? - Loyola Marymount University",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMzViUkJkdmdOWU5zZTNUVTZYMVRIVjgwYWhqZWJLekc2UWdjeVhWWHNJSmZiRnBLaFpBUThPNWNKOWZBSnBJTVowUGlrRlp1NXNLZ1JTSnhpRW9VTThCUUhzMnRkcjQ5SklyaVlkY3RhQUp0a2g5UFFoTHpMRE51M25xaWhEUlBMRDR3RTF2am0yWmNCY0Vkc3ZKVlhkVEFOSmh3Y0hyNDB0c0pSY3ZYd0IwMHBtN09yMXNWNWNJaWZPSGc3ZzNB?oc=5",
       "source": "Loyola Marymount University",
       "published_at": "Thu, 03 Sep 2026 17:05:37 GMT",
       "summary": "Detroit Free Press | Uncertainty Builds Around Inflation, Stock Market. What Could Be Next? Loyola Marymount University",
       "guid": "CBMixwFBVV95cUxOMzViUkJkdmdOWU5zZTNUVTZYMVRIVjgwYWhqZWJLekc2UWdjeVhWWHNJSmZiRnBLaFpBUThPNWNKOWZBSnBJTVowUGlrRlp1NXNLZ1JTSnhpRW9VTThCUUhzMnRkcjQ5SklyaVlkY3RhQUp0a2g5UFFoTHpMRE51M25xaWhEUlBMRDR3RTF2am0yWmNCY0Vkc3ZKVlhkVEFOSmh3Y0hyNDB0c0pSY3ZYd0IwMHBtN09yMXNWNWNJaWZPSGc3ZzNB"
+    },
+    {
+      "title": "Stock Market This Week Ends Flat Before Labor Day - stl.news",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1LcHIyeDRyOXotcFFGekg3c0lHMXRDSjFDMzl0R1BXR2pFdVZoOXBQaU5HSWhPTmt6ZjJKajdRcDI1ZzhYZFBqcThQMzJyYVIzUmNZbWJRS2xselNUeXhvWDJ4VTlMeG1USk51clVWcmZjbW5saTJaX0FnUQ?oc=5",
+      "source": "stl.news",
+      "published_at": "Sat, 05 Sep 2026 06:31:51 GMT",
+      "summary": "Stock Market This Week Ends Flat Before Labor Day stl.news",
+      "guid": "CBMie0FVX3lxTE1LcHIyeDRyOXotcFFGekg3c0lHMXRDSjFDMzl0R1BXR2pFdVZoOXBQaU5HSWhPTmt6ZjJKajdRcDI1ZzhYZFBqcThQMzJyYVIzUmNZbWJRS2xselNUeXhvWDJ4VTlMeG1USk51clVWcmZjbW5saTJaX0FnUQ"
     },
     {
       "title": "Weekly market commentary - BlackRock",
@@ -55,12 +47,12 @@
       "guid": "CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw"
     },
     {
-      "title": "Stock Market Today: Short-Term Treasury Yields Climb as Dow and S&P 500 Fall, Oil price Hit $95 - Eurasia Business News",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNlNFVEk1N0gwcEQzSjhSX1ZGRHhmWUFCSnhlTEVoeDVZa0N6bEtSdnJHZnVuQ2NJUDBfb194NXdteVZvdVNqQm85VjRsOEFRaGdrWF91N25PZDVLOTNuZVlsUkV5ekJJaFdfV2d6WUhORGVzS3l4NUJhdW8zSy1paDlpc2NSV2J0VzBCZjk3c2hQb3ViNERYRDdDZDc2dXlkOTg0dWR1SGRGMGRQbXpENUtDdGpScEtxREJucGhqRzZFRjg1aS1yYXlXbFdpWmhx?oc=5",
-      "source": "Eurasia Business News",
-      "published_at": "Fri, 04 Sep 2026 21:45:12 GMT",
-      "summary": "Stock Market Today: Short-Term Treasury Yields Climb as Dow and S&P 500 Fall, Oil price Hit $95 Eurasia Business News",
-      "guid": "CBMi0AFBVV95cUxQNlNFVEk1N0gwcEQzSjhSX1ZGRHhmWUFCSnhlTEVoeDVZa0N6bEtSdnJHZnVuQ2NJUDBfb194NXdteVZvdVNqQm85VjRsOEFRaGdrWF91N25PZDVLOTNuZVlsUkV5ekJJaFdfV2d6WUhORGVzS3l4NUJhdW8zSy1paDlpc2NSV2J0VzBCZjk3c2hQb3ViNERYRDdDZDc2dXlkOTg0dWR1SGRGMGRQbXpENUtDdGpScEtxREJucGhqRzZFRjg1aS1yYXlXbFdpWmhx"
+      "title": "What to Look Out for in Economic Data This Week (September 7-11) - kiplinger.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ?oc=5",
+      "source": "kiplinger.com",
+      "published_at": "Fri, 04 Sep 2026 14:56:02 GMT",
+      "summary": "What to Look Out for in Economic Data This Week (September 7-11) kiplinger.com",
+      "guid": "CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ"
     },
     {
       "title": "No rate-hiking map from the Federal Reserve - invesco.com",
@@ -71,12 +63,20 @@
       "guid": "CBMimgFBVV95cUxONjFRV0ttT3Z0WmRRN1Qza1A5VFpDMW5vMDEtYkprLVhHZ05zMElKaWtXOUtnb29zdDNjc25sd2l4TkUyY09EQU43ZUlETW4zbDZpczgzUG9MUzNtS3ZyUlNicVoyaVpWdUVRcUFYaXlNNGtrWFZyZUNwSHE3VWNjRXl2bXI3WmxSM1JuN0d2RVI1ZzgwWkNuUS13"
     },
     {
-      "title": "Strong Jobs Report May Tilt Fed Toward Rate Hike; Trump Freaks Out - Investor's Business Daily",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jZlg5aGdQaWVtWnltOVVNSmZwYWI3aUN6VWFmYXNxMXVLWVQ3S3AwYXl2TS1ZSzV3RkhfUHBaS3BrT3dqYWoxN2FJanBpOUd3cEgtNnhrQklyS0ZNckVGRmZFekdDVzRmMTR6aUx3QzhSd0NNd1RyTThtX2FsUQ?oc=5",
-      "source": "Investor's Business Daily",
-      "published_at": "Fri, 04 Sep 2026 14:28:00 GMT",
-      "summary": "Strong Jobs Report May Tilt Fed Toward Rate Hike; Trump Freaks Out Investor's Business Daily",
-      "guid": "CBMifkFVX3lxTE5jZlg5aGdQaWVtWnltOVVNSmZwYWI3aUN6VWFmYXNxMXVLWVQ3S3AwYXl2TS1ZSzV3RkhfUHBaS3BrT3dqYWoxN2FJanBpOUd3cEgtNnhrQklyS0ZNckVGRmZFekdDVzRmMTR6aUx3QzhSd0NNd1RyTThtX2FsUQ"
+      "title": "Stock Market Today: Short-Term Treasury Yields Climb as Dow and S&P 500 Fall, Oil price Hit $95 - Eurasia Business News",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNlNFVEk1N0gwcEQzSjhSX1ZGRHhmWUFCSnhlTEVoeDVZa0N6bEtSdnJHZnVuQ2NJUDBfb194NXdteVZvdVNqQm85VjRsOEFRaGdrWF91N25PZDVLOTNuZVlsUkV5ekJJaFdfV2d6WUhORGVzS3l4NUJhdW8zSy1paDlpc2NSV2J0VzBCZjk3c2hQb3ViNERYRDdDZDc2dXlkOTg0dWR1SGRGMGRQbXpENUtDdGpScEtxREJucGhqRzZFRjg1aS1yYXlXbFdpWmhx?oc=5",
+      "source": "Eurasia Business News",
+      "published_at": "Fri, 04 Sep 2026 21:45:12 GMT",
+      "summary": "Stock Market Today: Short-Term Treasury Yields Climb as Dow and S&P 500 Fall, Oil price Hit $95 Eurasia Business News",
+      "guid": "CBMi0AFBVV95cUxQNlNFVEk1N0gwcEQzSjhSX1ZGRHhmWUFCSnhlTEVoeDVZa0N6bEtSdnJHZnVuQ2NJUDBfb194NXdteVZvdVNqQm85VjRsOEFRaGdrWF91N25PZDVLOTNuZVlsUkV5ekJJaFdfV2d6WUhORGVzS3l4NUJhdW8zSy1paDlpc2NSV2J0VzBCZjk3c2hQb3ViNERYRDdDZDc2dXlkOTg0dWR1SGRGMGRQbXpENUtDdGpScEtxREJucGhqRzZFRjg1aS1yYXlXbFdpWmhx"
+    },
+    {
+      "title": "Kevin Warsh Just Sent the Stock Market a Blunt 5-Word Warning. Here's What History Says Comes Next. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdURoeFVmdlQ3eTZkU2JKbUFwYkhxRmNkWFNJSDRPOTZIMDdRX0ZJNnF0ejJjbnEwRmdQaTF4eDRmMU0tSmVOaGktR1RzbUJ5MXdhRjhUR0lySHk4V2xGZXRPa0M2RHlHeGtnT19aRDlxbTh4UjNLdDhJVkM3dkhnRU0zN1dFbEd2Vl8tWlEzeF84QXA5Wi1Sbw?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Wed, 02 Sep 2026 13:30:00 GMT",
+      "summary": "Kevin Warsh Just Sent the Stock Market a Blunt 5-Word Warning. Here's What History Says Comes Next. The Motley Fool",
+      "guid": "CBMimAFBVV95cUxPdURoeFVmdlQ3eTZkU2JKbUFwYkhxRmNkWFNJSDRPOTZIMDdRX0ZJNnF0ejJjbnEwRmdQaTF4eDRmMU0tSmVOaGktR1RzbUJ5MXdhRjhUR0lySHk4V2xGZXRPa0M2RHlHeGtnT19aRDlxbTh4UjNLdDhJVkM3dkhnRU0zN1dFbEd2Vl8tWlEzeF84QXA5Wi1Sbw"
     },
     {
       "title": "Has Broader Stock Market Participation Changed How Interest Rates Affect the Economy? - Liberty Street Economics",
