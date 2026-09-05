@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T18:13:48Z",
+  "generated_at": "2026-09-05T20:19:46Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -39,14 +39,6 @@
       "guid": "CBMie0FVX3lxTE1LcHIyeDRyOXotcFFGekg3c0lHMXRDSjFDMzl0R1BXR2pFdVZoOXBQaU5HSWhPTmt6ZjJKajdRcDI1ZzhYZFBqcThQMzJyYVIzUmNZbWJRS2xselNUeXhvWDJ4VTlMeG1USk51clVWcmZjbW5saTJaX0FnUQ"
     },
     {
-      "title": "Weekly market commentary - BlackRock",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
-      "source": "BlackRock",
-      "published_at": "Mon, 31 Aug 2026 07:00:00 GMT",
-      "summary": "Weekly market commentary BlackRock",
-      "guid": "CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw"
-    },
-    {
       "title": "What to Look Out for in Economic Data This Week (September 7-11) - Kiplinger",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ?oc=5",
       "source": "Kiplinger",
@@ -63,6 +55,14 @@
       "guid": "CBMimgFBVV95cUxONjFRV0ttT3Z0WmRRN1Qza1A5VFpDMW5vMDEtYkprLVhHZ05zMElKaWtXOUtnb29zdDNjc25sd2l4TkUyY09EQU43ZUlETW4zbDZpczgzUG9MUzNtS3ZyUlNicVoyaVpWdUVRcUFYaXlNNGtrWFZyZUNwSHE3VWNjRXl2bXI3WmxSM1JuN0d2RVI1ZzgwWkNuUS13"
     },
     {
+      "title": "Has Broader Stock Market Participation Changed How Interest Rates Affect the Economy? - Liberty Street Economics",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVmRkbElMU1FXQjRfTUQzVldXNVQ1TktDekgtT2Q1cThUQWJzZno2OHc1dDY2Z2JVdDl0N3pRX0JiZFVlUW8wSENySUtRTk9zT2huMlVPMGlVRzltaV9wZmp4QjI5MnFhbDR5bFIwV0NpWUFwQkxLRmZ0OGFXUzZTM0xaMmVYVnd0anQ1bG1zRFVfODZHdGp1RmpFZDVyODdmZF93UVVBT0tKZTA4Wkk2WHpURE8zSU5wUUNkV09wd0ZYV2lFZ2pkLXdFTlZ2N042NTNzc3RR?oc=5",
+      "source": "Liberty Street Economics",
+      "published_at": "Wed, 19 Aug 2026 07:00:00 GMT",
+      "summary": "Has Broader Stock Market Participation Changed How Interest Rates Affect the Economy? Liberty Street Economics",
+      "guid": "CBMi1gFBVV95cUxOVmRkbElMU1FXQjRfTUQzVldXNVQ1TktDekgtT2Q1cThUQWJzZno2OHc1dDY2Z2JVdDl0N3pRX0JiZFVlUW8wSENySUtRTk9zT2huMlVPMGlVRzltaV9wZmp4QjI5MnFhbDR5bFIwV0NpWUFwQkxLRmZ0OGFXUzZTM0xaMmVYVnd0anQ1bG1zRFVfODZHdGp1RmpFZDVyODdmZF93UVVBT0tKZTA4Wkk2WHpURE8zSU5wUUNkV09wd0ZYV2lFZ2pkLXdFTlZ2N042NTNzc3RR"
+    },
+    {
       "title": "Kevin Warsh Just Sent the Stock Market a Blunt 5-Word Warning. Here's What History Says Comes Next. - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdURoeFVmdlQ3eTZkU2JKbUFwYkhxRmNkWFNJSDRPOTZIMDdRX0ZJNnF0ejJjbnEwRmdQaTF4eDRmMU0tSmVOaGktR1RzbUJ5MXdhRjhUR0lySHk4V2xGZXRPa0M2RHlHeGtnT19aRDlxbTh4UjNLdDhJVkM3dkhnRU0zN1dFbEd2Vl8tWlEzeF84QXA5Wi1Sbw?oc=5",
       "source": "The Motley Fool",
@@ -71,12 +71,12 @@
       "guid": "CBMimAFBVV95cUxPdURoeFVmdlQ3eTZkU2JKbUFwYkhxRmNkWFNJSDRPOTZIMDdRX0ZJNnF0ejJjbnEwRmdQaTF4eDRmMU0tSmVOaGktR1RzbUJ5MXdhRjhUR0lySHk4V2xGZXRPa0M2RHlHeGtnT19aRDlxbTh4UjNLdDhJVkM3dkhnRU0zN1dFbEd2Vl8tWlEzeF84QXA5Wi1Sbw"
     },
     {
-      "title": "Has Broader Stock Market Participation Changed How Interest Rates Affect the Economy? - Liberty Street Economics",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVmRkbElMU1FXQjRfTUQzVldXNVQ1TktDekgtT2Q1cThUQWJzZno2OHc1dDY2Z2JVdDl0N3pRX0JiZFVlUW8wSENySUtRTk9zT2huMlVPMGlVRzltaV9wZmp4QjI5MnFhbDR5bFIwV0NpWUFwQkxLRmZ0OGFXUzZTM0xaMmVYVnd0anQ1bG1zRFVfODZHdGp1RmpFZDVyODdmZF93UVVBT0tKZTA4Wkk2WHpURE8zSU5wUUNkV09wd0ZYV2lFZ2pkLXdFTlZ2N042NTNzc3RR?oc=5",
-      "source": "Liberty Street Economics",
-      "published_at": "Wed, 19 Aug 2026 07:00:00 GMT",
-      "summary": "Has Broader Stock Market Participation Changed How Interest Rates Affect the Economy? Liberty Street Economics",
-      "guid": "CBMi1gFBVV95cUxOVmRkbElMU1FXQjRfTUQzVldXNVQ1TktDekgtT2Q1cThUQWJzZno2OHc1dDY2Z2JVdDl0N3pRX0JiZFVlUW8wSENySUtRTk9zT2huMlVPMGlVRzltaV9wZmp4QjI5MnFhbDR5bFIwV0NpWUFwQkxLRmZ0OGFXUzZTM0xaMmVYVnd0anQ1bG1zRFVfODZHdGp1RmpFZDVyODdmZF93UVVBT0tKZTA4Wkk2WHpURE8zSU5wUUNkV09wd0ZYV2lFZ2pkLXdFTlZ2N042NTNzc3RR"
+      "title": "Strong Jobs Report May Tilt Fed Toward Rate Hike; Trump Freaks Out - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jZlg5aGdQaWVtWnltOVVNSmZwYWI3aUN6VWFmYXNxMXVLWVQ3S3AwYXl2TS1ZSzV3RkhfUHBaS3BrT3dqYWoxN2FJanBpOUd3cEgtNnhrQklyS0ZNckVGRmZFekdDVzRmMTR6aUx3QzhSd0NNd1RyTThtX2FsUQ?oc=5",
+      "source": "Investor's Business Daily",
+      "published_at": "Fri, 04 Sep 2026 14:28:00 GMT",
+      "summary": "Strong Jobs Report May Tilt Fed Toward Rate Hike; Trump Freaks Out Investor's Business Daily",
+      "guid": "CBMifkFVX3lxTE5jZlg5aGdQaWVtWnltOVVNSmZwYWI3aUN6VWFmYXNxMXVLWVQ3S3AwYXl2TS1ZSzV3RkhfUHBaS3BrT3dqYWoxN2FJanBpOUd3cEgtNnhrQklyS0ZNckVGRmZFekdDVzRmMTR6aUx3QzhSd0NNd1RyTThtX2FsUQ"
     },
     {
       "title": "Stock Market Today: Short-Term Treasury Yields Climb as Dow and S&P 500 Fall, Oil price Hit $95 - Eurasia Business News",
