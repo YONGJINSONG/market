@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T16:01:07Z",
+  "generated_at": "2026-09-05T18:13:48Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -47,11 +47,11 @@
       "guid": "CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw"
     },
     {
-      "title": "What to Look Out for in Economic Data This Week (September 7-11) - kiplinger.com",
+      "title": "What to Look Out for in Economic Data This Week (September 7-11) - Kiplinger",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ?oc=5",
-      "source": "kiplinger.com",
+      "source": "Kiplinger",
       "published_at": "Fri, 04 Sep 2026 14:56:02 GMT",
-      "summary": "What to Look Out for in Economic Data This Week (September 7-11) kiplinger.com",
+      "summary": "What to Look Out for in Economic Data This Week (September 7-11) Kiplinger",
       "guid": "CBMifEFVX3lxTE1MeVNwMVVnVmhvRWo4b0N4WkhCRXQxTVRtb2ZmTWhCSmd4eERsN3Nfdllwejg0eG5ueFFCRUdPTzVUaXh4dEFZaWJqN3FFZnlFWTBlZ2ZvVkFFRzVScTR3TXRhZGl6MHp2RUF1clppVDRvR1lveC1FaXNCeXQ"
     },
     {
@@ -61,14 +61,6 @@
       "published_at": "Mon, 31 Aug 2026 16:19:47 GMT",
       "summary": "No rate-hiking map from the Federal Reserve invesco.com",
       "guid": "CBMimgFBVV95cUxONjFRV0ttT3Z0WmRRN1Qza1A5VFpDMW5vMDEtYkprLVhHZ05zMElKaWtXOUtnb29zdDNjc25sd2l4TkUyY09EQU43ZUlETW4zbDZpczgzUG9MUzNtS3ZyUlNicVoyaVpWdUVRcUFYaXlNNGtrWFZyZUNwSHE3VWNjRXl2bXI3WmxSM1JuN0d2RVI1ZzgwWkNuUS13"
-    },
-    {
-      "title": "Stock Market Today: Short-Term Treasury Yields Climb as Dow and S&P 500 Fall, Oil price Hit $95 - Eurasia Business News",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNlNFVEk1N0gwcEQzSjhSX1ZGRHhmWUFCSnhlTEVoeDVZa0N6bEtSdnJHZnVuQ2NJUDBfb194NXdteVZvdVNqQm85VjRsOEFRaGdrWF91N25PZDVLOTNuZVlsUkV5ekJJaFdfV2d6WUhORGVzS3l4NUJhdW8zSy1paDlpc2NSV2J0VzBCZjk3c2hQb3ViNERYRDdDZDc2dXlkOTg0dWR1SGRGMGRQbXpENUtDdGpScEtxREJucGhqRzZFRjg1aS1yYXlXbFdpWmhx?oc=5",
-      "source": "Eurasia Business News",
-      "published_at": "Fri, 04 Sep 2026 21:45:12 GMT",
-      "summary": "Stock Market Today: Short-Term Treasury Yields Climb as Dow and S&P 500 Fall, Oil price Hit $95 Eurasia Business News",
-      "guid": "CBMi0AFBVV95cUxQNlNFVEk1N0gwcEQzSjhSX1ZGRHhmWUFCSnhlTEVoeDVZa0N6bEtSdnJHZnVuQ2NJUDBfb194NXdteVZvdVNqQm85VjRsOEFRaGdrWF91N25PZDVLOTNuZVlsUkV5ekJJaFdfV2d6WUhORGVzS3l4NUJhdW8zSy1paDlpc2NSV2J0VzBCZjk3c2hQb3ViNERYRDdDZDc2dXlkOTg0dWR1SGRGMGRQbXpENUtDdGpScEtxREJucGhqRzZFRjg1aS1yYXlXbFdpWmhx"
     },
     {
       "title": "Kevin Warsh Just Sent the Stock Market a Blunt 5-Word Warning. Here's What History Says Comes Next. - The Motley Fool",
@@ -85,6 +77,14 @@
       "published_at": "Wed, 19 Aug 2026 07:00:00 GMT",
       "summary": "Has Broader Stock Market Participation Changed How Interest Rates Affect the Economy? Liberty Street Economics",
       "guid": "CBMi1gFBVV95cUxOVmRkbElMU1FXQjRfTUQzVldXNVQ1TktDekgtT2Q1cThUQWJzZno2OHc1dDY2Z2JVdDl0N3pRX0JiZFVlUW8wSENySUtRTk9zT2huMlVPMGlVRzltaV9wZmp4QjI5MnFhbDR5bFIwV0NpWUFwQkxLRmZ0OGFXUzZTM0xaMmVYVnd0anQ1bG1zRFVfODZHdGp1RmpFZDVyODdmZF93UVVBT0tKZTA4Wkk2WHpURE8zSU5wUUNkV09wd0ZYV2lFZ2pkLXdFTlZ2N042NTNzc3RR"
+    },
+    {
+      "title": "Stock Market Today: Short-Term Treasury Yields Climb as Dow and S&P 500 Fall, Oil price Hit $95 - Eurasia Business News",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNlNFVEk1N0gwcEQzSjhSX1ZGRHhmWUFCSnhlTEVoeDVZa0N6bEtSdnJHZnVuQ2NJUDBfb194NXdteVZvdVNqQm85VjRsOEFRaGdrWF91N25PZDVLOTNuZVlsUkV5ekJJaFdfV2d6WUhORGVzS3l4NUJhdW8zSy1paDlpc2NSV2J0VzBCZjk3c2hQb3ViNERYRDdDZDc2dXlkOTg0dWR1SGRGMGRQbXpENUtDdGpScEtxREJucGhqRzZFRjg1aS1yYXlXbFdpWmhx?oc=5",
+      "source": "Eurasia Business News",
+      "published_at": "Fri, 04 Sep 2026 21:45:12 GMT",
+      "summary": "Stock Market Today: Short-Term Treasury Yields Climb as Dow and S&P 500 Fall, Oil price Hit $95 Eurasia Business News",
+      "guid": "CBMi0AFBVV95cUxQNlNFVEk1N0gwcEQzSjhSX1ZGRHhmWUFCSnhlTEVoeDVZa0N6bEtSdnJHZnVuQ2NJUDBfb194NXdteVZvdVNqQm85VjRsOEFRaGdrWF91N25PZDVLOTNuZVlsUkV5ekJJaFdfV2d6WUhORGVzS3l4NUJhdW8zSy1paDlpc2NSV2J0VzBCZjk3c2hQb3ViNERYRDdDZDc2dXlkOTg0dWR1SGRGMGRQbXpENUtDdGpScEtxREJucGhqRzZFRjg1aS1yYXlXbFdpWmhx"
     }
   ]
 }
