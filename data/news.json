@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T04:54:07Z",
+  "generated_at": "2026-09-08T09:13:13Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -13,14 +13,6 @@
       "published_at": "Sun, 06 Sep 2026 09:04:00 GMT",
       "summary": "Stock Market Investors Just Got a Warning From the Federal Reserve. History Says This Will Happen Next. Yahoo Finance",
       "guid": "CBMinAFBVV95cUxNSEtvRVM0WUFYTS1RTzN0MHBLeC1DVmc2TUhaZGVqOFhTZ0NFTUZxUWxLQlRvdEE0WXRZVHp2bDZwTVhQQ29teHFoUGp5cERScWl6UXFFMFRMVmlKOU8xbldPUHhaOGVPME5jV3dqeXZMSktHeTJhX3FYemtoLVlPNWRLQk1TZVNDU3BHcDJvTm41UzQwbzBqcVdsa18"
-    },
-    {
-      "title": "Trump says he will cease trading with top partners unless Fed lowers rates - CNN",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5DR2V2VXJ0VlhJWnhaN1VmZTFPZWYyZGVfY3JuaTNaaDJuX3pWQ3Y3QXRlM0JiY1pjZmtfaGZlNHhCaDhkV3MwWlYxNkNfM3pjMWtja0c3QjJLRWNuV1RpMjd4VVg?oc=5",
-      "source": "CNN",
-      "published_at": "Fri, 04 Sep 2026 14:22:44 GMT",
-      "summary": "Trump says he will cease trading with top partners unless Fed lowers rates CNN",
-      "guid": "CBMiZEFVX3lxTE5DR2V2VXJ0VlhJWnhaN1VmZTFPZWYyZGVfY3JuaTNaaDJuX3pWQ3Y3QXRlM0JiY1pjZmtfaGZlNHhCaDhkV3MwWlYxNkNfM3pjMWtja0c3QjJLRWNuV1RpMjd4VVg"
     },
     {
       "title": "Is a Stock Market Crash Imminent Under President Donald Trump? Here's What History Says Could Come Next. - The Globe and Mail",
@@ -37,14 +29,6 @@
       "published_at": "Thu, 03 Sep 2026 17:05:37 GMT",
       "summary": "Detroit Free Press | Uncertainty Builds Around Inflation, Stock Market. What Could Be Next? Loyola Marymount University",
       "guid": "CBMixwFBVV95cUxOMzViUkJkdmdOWU5zZTNUVTZYMVRIVjgwYWhqZWJLekc2UWdjeVhWWHNJSmZiRnBLaFpBUThPNWNKOWZBSnBJTVowUGlrRlp1NXNLZ1JTSnhpRW9VTThCUUhzMnRkcjQ5SklyaVlkY3RhQUp0a2g5UFFoTHpMRE51M25xaWhEUlBMRDR3RTF2am0yWmNCY0Vkc3ZKVlhkVEFOSmh3Y0hyNDB0c0pSY3ZYd0IwMHBtN09yMXNWNWNJaWZPSGc3ZzNB"
-    },
-    {
-      "title": "Stocks slip on Wall Street under pressure from rising oil prices, bond sell-off - PBS",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVUpDbXlNdGxqU3l1LVBFQ1drbmNpcU40UmxDTldlNlBiOE9aazU2bVg1VE1qOXAtM1Z3VlBIUHNpN1NMWlZlSm9DY3cxLVdjTVNDcFZPUTAxUHhkNFMwUW9WQWVPUnlKZ2Fqc3dBRUV3aTNfU3JVWlVCYk56cC12clA4dGFRN2hoYWg2cUMybmh4ZkEtV0d0VTdZTDQwYUVBV01oRmxPMmxnMENCc3BkY0xpWU5mZ9IBuwFBVV95cUxPbVR0dUcteGhCV0s5UmFidkNta0didWVNOVk1WTRkUTJYbDZnTjhBOTJsNFNZMWUwdm00S0g4WmNLbm9vS3d0UkVoc3FWZXZOcmNBRjNqSGtCd0JFa3RxTVY1Wks1OW1hVDdlMFp6eUFMUFNMWkprcjB5eFlqdldxT3BCaDJLczJkdDhSREN2Y29QX0tUOWROZk4xd2M3bEZiVGRrTDZDeXZXV3RydTZ0bl9aV0JFWVJXc2U4?oc=5",
-      "source": "PBS",
-      "published_at": "Tue, 01 Sep 2026 17:48:23 GMT",
-      "summary": "Stocks slip on Wall Street under pressure from rising oil prices, bond sell-off PBS",
-      "guid": "CBMitgFBVV95cUxNVUpDbXlNdGxqU3l1LVBFQ1drbmNpcU40UmxDTldlNlBiOE9aazU2bVg1VE1qOXAtM1Z3VlBIUHNpN1NMWlZlSm9DY3cxLVdjTVNDcFZPUTAxUHhkNFMwUW9WQWVPUnlKZ2Fqc3dBRUV3aTNfU3JVWlVCYk56cC12clA4dGFRN2hoYWg2cUMybmh4ZkEtV0d0VTdZTDQwYUVBV01oRmxPMmxnMENCc3BkY0xpWU5mZ9IBuwFBVV95cUxPbVR0dUcteGhCV0s5UmFidkNta0didWVNOVk1WTRkUTJYbDZnTjhBOTJsNFNZMWUwdm00S0g4WmNLbm9vS3d0UkVoc3FWZXZOcmNBRjNqSGtCd0JFa3RxTVY1Wks1OW1hVDdlMFp6eUFMUFNMWkprcjB5eFlqdldxT3BCaDJLczJkdDhSREN2Y29QX0tUOWROZk4xd2M3bEZiVGRrTDZDeXZXV3RydTZ0bl9aV0JFWVJXc2U4"
     },
     {
       "title": "Recent Economic and Financial Developments - Federal Reserve (.gov)",
@@ -85,6 +69,22 @@
       "published_at": "Mon, 31 Aug 2026 07:00:00 GMT",
       "summary": "Weekly market commentary BlackRock",
       "guid": "CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw"
+    },
+    {
+      "title": "WATCH: Fed Chair Warsh signals stubborn inflation may require rate hikes in Jackson Hole speech - PBS",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeTZYd1JtU2tpSmRvbTJqT2J5VHpCQzJMVFR5WWJlZ3ppLTNjU3prR01jeUtWSXVEbWZScmw5S2RfdmVES3dEOThSeGwwMGVvOWs5NWpjNjU3M3JFdmpsVlRyaFJ6cEU4SWptdUM2MWotckR3dDYzSkxzUUJyOEtWbDFkMzJWZG1sSWd3d3Q3d3BndjlIb2ZfaGthSDlWdFZESEpkdERKbEJ4VnVGRmJGZFRR?oc=5",
+      "source": "PBS",
+      "published_at": "Fri, 28 Aug 2026 07:00:00 GMT",
+      "summary": "WATCH: Fed Chair Warsh signals stubborn inflation may require rate hikes in Jackson Hole speech PBS",
+      "guid": "CBMisgFBVV95cUxNeTZYd1JtU2tpSmRvbTJqT2J5VHpCQzJMVFR5WWJlZ3ppLTNjU3prR01jeUtWSXVEbWZScmw5S2RfdmVES3dEOThSeGwwMGVvOWs5NWpjNjU3M3JFdmpsVlRyaFJ6cEU4SWptdUM2MWotckR3dDYzSkxzUUJyOEtWbDFkMzJWZG1sSWd3d3Q3d3BndjlIb2ZfaGthSDlWdFZESEpkdERKbEJ4VnVGRmJGZFRR"
+    },
+    {
+      "title": "No rate-hiking map from the Federal Reserve - invesco.com",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONjFRV0ttT3Z0WmRRN1Qza1A5VFpDMW5vMDEtYkprLVhHZ05zMElKaWtXOUtnb29zdDNjc25sd2l4TkUyY09EQU43ZUlETW4zbDZpczgzUG9MUzNtS3ZyUlNicVoyaVpWdUVRcUFYaXlNNGtrWFZyZUNwSHE3VWNjRXl2bXI3WmxSM1JuN0d2RVI1ZzgwWkNuUS13?oc=5",
+      "source": "invesco.com",
+      "published_at": "Mon, 31 Aug 2026 16:19:47 GMT",
+      "summary": "No rate-hiking map from the Federal Reserve invesco.com",
+      "guid": "CBMimgFBVV95cUxONjFRV0ttT3Z0WmRRN1Qza1A5VFpDMW5vMDEtYkprLVhHZ05zMElKaWtXOUtnb29zdDNjc25sd2l4TkUyY09EQU43ZUlETW4zbDZpczgzUG9MUzNtS3ZyUlNicVoyaVpWdUVRcUFYaXlNNGtrWFZyZUNwSHE3VWNjRXl2bXI3WmxSM1JuN0d2RVI1ZzgwWkNuUS13"
     }
   ]
 }
