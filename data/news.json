@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T22:07:30Z",
+  "generated_at": "2026-09-08T00:20:33Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -15,12 +15,20 @@
       "guid": "CBMinAFBVV95cUxNSEtvRVM0WUFYTS1RTzN0MHBLeC1DVmc2TUhaZGVqOFhTZ0NFTUZxUWxLQlRvdEE0WXRZVHp2bDZwTVhQQ29teHFoUGp5cERScWl6UXFFMFRMVmlKOU8xbldPUHhaOGVPME5jV3dqeXZMSktHeTJhX3FYemtoLVlPNWRLQk1TZVNDU3BHcDJvTm41UzQwbzBqcVdsa18"
     },
     {
-      "title": "Trump says he will cease trading with top partners unless Fed lowers rates - CNN",
+      "title": "Trump says he will cease trading with top partners unless Fed lowers rates - cnn.com",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5DR2V2VXJ0VlhJWnhaN1VmZTFPZWYyZGVfY3JuaTNaaDJuX3pWQ3Y3QXRlM0JiY1pjZmtfaGZlNHhCaDhkV3MwWlYxNkNfM3pjMWtja0c3QjJLRWNuV1RpMjd4VVg?oc=5",
-      "source": "CNN",
+      "source": "cnn.com",
       "published_at": "Fri, 04 Sep 2026 14:22:44 GMT",
-      "summary": "Trump says he will cease trading with top partners unless Fed lowers rates CNN",
+      "summary": "Trump says he will cease trading with top partners unless Fed lowers rates cnn.com",
       "guid": "CBMiZEFVX3lxTE5DR2V2VXJ0VlhJWnhaN1VmZTFPZWYyZGVfY3JuaTNaaDJuX3pWQ3Y3QXRlM0JiY1pjZmtfaGZlNHhCaDhkV3MwWlYxNkNfM3pjMWtja0c3QjJLRWNuV1RpMjd4VVg"
+    },
+    {
+      "title": "Stocks slip on Wall Street under pressure from rising oil prices, bond sell-off - PBS",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVUpDbXlNdGxqU3l1LVBFQ1drbmNpcU40UmxDTldlNlBiOE9aazU2bVg1VE1qOXAtM1Z3VlBIUHNpN1NMWlZlSm9DY3cxLVdjTVNDcFZPUTAxUHhkNFMwUW9WQWVPUnlKZ2Fqc3dBRUV3aTNfU3JVWlVCYk56cC12clA4dGFRN2hoYWg2cUMybmh4ZkEtV0d0VTdZTDQwYUVBV01oRmxPMmxnMENCc3BkY0xpWU5mZ9IBuwFBVV95cUxPbVR0dUcteGhCV0s5UmFidkNta0didWVNOVk1WTRkUTJYbDZnTjhBOTJsNFNZMWUwdm00S0g4WmNLbm9vS3d0UkVoc3FWZXZOcmNBRjNqSGtCd0JFa3RxTVY1Wks1OW1hVDdlMFp6eUFMUFNMWkprcjB5eFlqdldxT3BCaDJLczJkdDhSREN2Y29QX0tUOWROZk4xd2M3bEZiVGRrTDZDeXZXV3RydTZ0bl9aV0JFWVJXc2U4?oc=5",
+      "source": "PBS",
+      "published_at": "Tue, 01 Sep 2026 17:48:23 GMT",
+      "summary": "Stocks slip on Wall Street under pressure from rising oil prices, bond sell-off PBS",
+      "guid": "CBMitgFBVV95cUxNVUpDbXlNdGxqU3l1LVBFQ1drbmNpcU40UmxDTldlNlBiOE9aazU2bVg1VE1qOXAtM1Z3VlBIUHNpN1NMWlZlSm9DY3cxLVdjTVNDcFZPUTAxUHhkNFMwUW9WQWVPUnlKZ2Fqc3dBRUV3aTNfU3JVWlVCYk56cC12clA4dGFRN2hoYWg2cUMybmh4ZkEtV0d0VTdZTDQwYUVBV01oRmxPMmxnMENCc3BkY0xpWU5mZ9IBuwFBVV95cUxPbVR0dUcteGhCV0s5UmFidkNta0didWVNOVk1WTRkUTJYbDZnTjhBOTJsNFNZMWUwdm00S0g4WmNLbm9vS3d0UkVoc3FWZXZOcmNBRjNqSGtCd0JFa3RxTVY1Wks1OW1hVDdlMFp6eUFMUFNMWkprcjB5eFlqdldxT3BCaDJLczJkdDhSREN2Y29QX0tUOWROZk4xd2M3bEZiVGRrTDZDeXZXV3RydTZ0bl9aV0JFWVJXc2U4"
     },
     {
       "title": "Detroit Free Press | Uncertainty Builds Around Inflation, Stock Market. What Could Be Next? - Loyola Marymount University",
@@ -31,6 +39,14 @@
       "guid": "CBMixwFBVV95cUxOMzViUkJkdmdOWU5zZTNUVTZYMVRIVjgwYWhqZWJLekc2UWdjeVhWWHNJSmZiRnBLaFpBUThPNWNKOWZBSnBJTVowUGlrRlp1NXNLZ1JTSnhpRW9VTThCUUhzMnRkcjQ5SklyaVlkY3RhQUp0a2g5UFFoTHpMRE51M25xaWhEUlBMRDR3RTF2am0yWmNCY0Vkc3ZKVlhkVEFOSmh3Y0hyNDB0c0pSY3ZYd0IwMHBtN09yMXNWNWNJaWZPSGc3ZzNB"
     },
     {
+      "title": "Recent Economic and Financial Developments - Federal Reserve (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KWEN6M3VsdUJpS3YyUzBfc0JpcHhrY3J4LXhhUE90UkdqS1N1OWxCZGw1cWxveExZZ1RfM0dXM1pNMk9HRVctTGNBM2xrQ2Npbjl5OFJkQV9sajMxWHhQSGpXSzNfcGppZDhEaHFraFhUZ0puWFE?oc=5",
+      "source": "Federal Reserve (.gov)",
+      "published_at": "Fri, 17 Jul 2026 06:37:05 GMT",
+      "summary": "Recent Economic and Financial Developments Federal Reserve (.gov)",
+      "guid": "CBMidkFVX3lxTE9KWEN6M3VsdUJpS3YyUzBfc0JpcHhrY3J4LXhhUE90UkdqS1N1OWxCZGw1cWxveExZZ1RfM0dXM1pNMk9HRVctTGNBM2xrQ2Npbjl5OFJkQV9sajMxWHhQSGpXSzNfcGppZDhEaHFraFhUZ0puWFE"
+    },
+    {
       "title": "What to Expect in Markets This Week: Fresh Inflation Data; Apple’s Fall Launch Event and Oracle Earnings - Investopedia",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPS2E4WnBYREl1TnB1c3R1NVNjeGM0NWVydl9WbzNTMmgweHZmUzNnWVVJTXR6a3dlT2JfTEVTY05vUE1sQlNMNXRXeXRtTjZPclR0aVZmM2Frd2h6MGRRQktpeFl4dXhJNmZpYjFZYUExZ1hZUVpiaVFBUXAtWHVfNHdWUHgtNm5rdWlwMzdTUGltLTE1TEh2U01QeU1uaUlYLUJlMVh0MVFQd1NKMC0xZjFjUzlZOGlTN25zbFpQTjhfVGRGNzFhYlJUZkNWUEhjZVE2Sw?oc=5",
       "source": "Investopedia",
@@ -39,20 +55,20 @@
       "guid": "CBMi1AFBVV95cUxPS2E4WnBYREl1TnB1c3R1NVNjeGM0NWVydl9WbzNTMmgweHZmUzNnWVVJTXR6a3dlT2JfTEVTY05vUE1sQlNMNXRXeXRtTjZPclR0aVZmM2Frd2h6MGRRQktpeFl4dXhJNmZpYjFZYUExZ1hZUVpiaVFBUXAtWHVfNHdWUHgtNm5rdWlwMzdTUGltLTE1TEh2U01QeU1uaUlYLUJlMVh0MVFQd1NKMC0xZjFjUzlZOGlTN25zbFpQTjhfVGRGNzFhYlJUZkNWUEhjZVE2Sw"
     },
     {
-      "title": "Possible Stock Market Crash: When to Buy and Which Stocks Could Benefit - finchannel",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNd0xTNGE0bExJTEJHb0FFU2UzYXlsektTSVBPSWstbE5Cb2xGUTlrWC1rd2lzZGxCMkxlN3VJRl9ZdTc2S0dmNjNwX1dEaExaQnhqbl9uLTNzQy1QMkVzSnpTLWkwMUdELUFqSmdfZ2RtOVlzamotZTZkS0lsVEZtc0RJRUZ0RS05eEFUbk5iaTh0N2oyMTB0WXU1bjloQjdZZE1ic3VmWmlUWXctcU9FNnhpQm1JMHlRN2xpcGQ0a3lEN2dhMm5na3lSaXZpU1U?oc=5",
-      "source": "finchannel",
-      "published_at": "Sun, 06 Sep 2026 18:53:59 GMT",
-      "summary": "Possible Stock Market Crash: When to Buy and Which Stocks Could Benefit finchannel",
-      "guid": "CBMizwFBVV95cUxNd0xTNGE0bExJTEJHb0FFU2UzYXlsektTSVBPSWstbE5Cb2xGUTlrWC1rd2lzZGxCMkxlN3VJRl9ZdTc2S0dmNjNwX1dEaExaQnhqbl9uLTNzQy1QMkVzSnpTLWkwMUdELUFqSmdfZ2RtOVlzamotZTZkS0lsVEZtc0RJRUZ0RS05eEFUbk5iaTh0N2oyMTB0WXU1bjloQjdZZE1ic3VmWmlUWXctcU9FNnhpQm1JMHlRN2xpcGQ0a3lEN2dhMm5na3lSaXZpU1U"
-    },
-    {
       "title": "Has Broader Stock Market Participation Changed How Interest Rates Affect the Economy? - Liberty Street Economics",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVmRkbElMU1FXQjRfTUQzVldXNVQ1TktDekgtT2Q1cThUQWJzZno2OHc1dDY2Z2JVdDl0N3pRX0JiZFVlUW8wSENySUtRTk9zT2huMlVPMGlVRzltaV9wZmp4QjI5MnFhbDR5bFIwV0NpWUFwQkxLRmZ0OGFXUzZTM0xaMmVYVnd0anQ1bG1zRFVfODZHdGp1RmpFZDVyODdmZF93UVVBT0tKZTA4Wkk2WHpURE8zSU5wUUNkV09wd0ZYV2lFZ2pkLXdFTlZ2N042NTNzc3RR?oc=5",
       "source": "Liberty Street Economics",
       "published_at": "Wed, 19 Aug 2026 07:00:00 GMT",
       "summary": "Has Broader Stock Market Participation Changed How Interest Rates Affect the Economy? Liberty Street Economics",
       "guid": "CBMi1gFBVV95cUxOVmRkbElMU1FXQjRfTUQzVldXNVQ1TktDekgtT2Q1cThUQWJzZno2OHc1dDY2Z2JVdDl0N3pRX0JiZFVlUW8wSENySUtRTk9zT2huMlVPMGlVRzltaV9wZmp4QjI5MnFhbDR5bFIwV0NpWUFwQkxLRmZ0OGFXUzZTM0xaMmVYVnd0anQ1bG1zRFVfODZHdGp1RmpFZDVyODdmZF93UVVBT0tKZTA4Wkk2WHpURE8zSU5wUUNkV09wd0ZYV2lFZ2pkLXdFTlZ2N042NTNzc3RR"
+    },
+    {
+      "title": "Possible Stock Market Crash: When to Buy and Which Stocks Could Benefit - finchannel",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNd0xTNGE0bExJTEJHb0FFU2UzYXlsektTSVBPSWstbE5Cb2xGUTlrWC1rd2lzZGxCMkxlN3VJRl9ZdTc2S0dmNjNwX1dEaExaQnhqbl9uLTNzQy1QMkVzSnpTLWkwMUdELUFqSmdfZ2RtOVlzamotZTZkS0lsVEZtc0RJRUZ0RS05eEFUbk5iaTh0N2oyMTB0WXU1bjloQjdZZE1ic3VmWmlUWXctcU9FNnhpQm1JMHlRN2xpcGQ0a3lEN2dhMm5na3lSaXZpU1U?oc=5",
+      "source": "finchannel",
+      "published_at": "Sun, 06 Sep 2026 18:53:59 GMT",
+      "summary": "Possible Stock Market Crash: When to Buy and Which Stocks Could Benefit finchannel",
+      "guid": "CBMizwFBVV95cUxNd0xTNGE0bExJTEJHb0FFU2UzYXlsektTSVBPSWstbE5Cb2xGUTlrWC1rd2lzZGxCMkxlN3VJRl9ZdTc2S0dmNjNwX1dEaExaQnhqbl9uLTNzQy1QMkVzSnpTLWkwMUdELUFqSmdfZ2RtOVlzamotZTZkS0lsVEZtc0RJRUZ0RS05eEFUbk5iaTh0N2oyMTB0WXU1bjloQjdZZE1ic3VmWmlUWXctcU9FNnhpQm1JMHlRN2xpcGQ0a3lEN2dhMm5na3lSaXZpU1U"
     },
     {
       "title": "Weekly market commentary - BlackRock",
@@ -69,22 +85,6 @@
       "published_at": "Fri, 04 Sep 2026 14:28:00 GMT",
       "summary": "Strong Jobs Report May Tilt Fed Toward Rate Hike; Trump Freaks Out Investor's Business Daily",
       "guid": "CBMifkFVX3lxTE5jZlg5aGdQaWVtWnltOVVNSmZwYWI3aUN6VWFmYXNxMXVLWVQ3S3AwYXl2TS1ZSzV3RkhfUHBaS3BrT3dqYWoxN2FJanBpOUd3cEgtNnhrQklyS0ZNckVGRmZFekdDVzRmMTR6aUx3QzhSd0NNd1RyTThtX2FsUQ"
-    },
-    {
-      "title": "No rate-hiking map from the Federal Reserve - invesco.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONjFRV0ttT3Z0WmRRN1Qza1A5VFpDMW5vMDEtYkprLVhHZ05zMElKaWtXOUtnb29zdDNjc25sd2l4TkUyY09EQU43ZUlETW4zbDZpczgzUG9MUzNtS3ZyUlNicVoyaVpWdUVRcUFYaXlNNGtrWFZyZUNwSHE3VWNjRXl2bXI3WmxSM1JuN0d2RVI1ZzgwWkNuUS13?oc=5",
-      "source": "invesco.com",
-      "published_at": "Mon, 31 Aug 2026 16:19:47 GMT",
-      "summary": "No rate-hiking map from the Federal Reserve invesco.com",
-      "guid": "CBMimgFBVV95cUxONjFRV0ttT3Z0WmRRN1Qza1A5VFpDMW5vMDEtYkprLVhHZ05zMElKaWtXOUtnb29zdDNjc25sd2l4TkUyY09EQU43ZUlETW4zbDZpczgzUG9MUzNtS3ZyUlNicVoyaVpWdUVRcUFYaXlNNGtrWFZyZUNwSHE3VWNjRXl2bXI3WmxSM1JuN0d2RVI1ZzgwWkNuUS13"
-    },
-    {
-      "title": "Federal Reserve: Inflation data steer policy path – TD Securities - FXStreet",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSWZqem94blJWYXM1WDlLQTRiWTlfTTZXWXd6aHdWdjRwbGJob3llOXdCakhfV3dYN3pKQi1nMmtnN3hSbmRfbXpkODRvNG9lWGl5NV81LTA4dzE3N3BxVEQtX1Q2SnVuWWt6ZGRMakZ6SDN4bXJGOE5hclpsT2M4N3hKcUprSzZRN1FYbmtWLUpUckctN1VPblIwM1lIWDJ5OTJ5SWM2c00?oc=5",
-      "source": "FXStreet",
-      "published_at": "Mon, 07 Sep 2026 09:18:55 GMT",
-      "summary": "Federal Reserve: Inflation data steer policy path – TD Securities FXStreet",
-      "guid": "CBMiqAFBVV95cUxNSWZqem94blJWYXM1WDlLQTRiWTlfTTZXWXd6aHdWdjRwbGJob3llOXdCakhfV3dYN3pKQi1nMmtnN3hSbmRfbXpkODRvNG9lWGl5NV81LTA4dzE3N3BxVEQtX1Q2SnVuWWt6ZGRMakZ6SDN4bXJGOE5hclpsT2M4N3hKcUprSzZRN1FYbmtWLUpUckctN1VPblIwM1lIWDJ5OTJ5SWM2c00"
     }
   ]
 }
