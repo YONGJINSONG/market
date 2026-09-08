@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T17:28:42Z",
+  "generated_at": "2026-09-08T20:04:10Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,20 +7,36 @@
   },
   "items": [
     {
-      "title": "Stock Market Investors Just Got a Warning From the Federal Reserve. History Says This Will Happen Next. - finance.yahoo.com",
+      "title": "Stock Market Investors Just Got a Warning From the Federal Reserve. History Says This Will Happen Next. - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSEtvRVM0WUFYTS1RTzN0MHBLeC1DVmc2TUhaZGVqOFhTZ0NFTUZxUWxLQlRvdEE0WXRZVHp2bDZwTVhQQ29teHFoUGp5cERScWl6UXFFMFRMVmlKOU8xbldPUHhaOGVPME5jV3dqeXZMSktHeTJhX3FYemtoLVlPNWRLQk1TZVNDU3BHcDJvTm41UzQwbzBqcVdsa18?oc=5",
-      "source": "finance.yahoo.com",
+      "source": "Yahoo Finance",
       "published_at": "Sun, 06 Sep 2026 09:04:00 GMT",
-      "summary": "Stock Market Investors Just Got a Warning From the Federal Reserve. History Says This Will Happen Next. finance.yahoo.com",
+      "summary": "Stock Market Investors Just Got a Warning From the Federal Reserve. History Says This Will Happen Next. Yahoo Finance",
       "guid": "CBMinAFBVV95cUxNSEtvRVM0WUFYTS1RTzN0MHBLeC1DVmc2TUhaZGVqOFhTZ0NFTUZxUWxLQlRvdEE0WXRZVHp2bDZwTVhQQ29teHFoUGp5cERScWl6UXFFMFRMVmlKOU8xbldPUHhaOGVPME5jV3dqeXZMSktHeTJhX3FYemtoLVlPNWRLQk1TZVNDU3BHcDJvTm41UzQwbzBqcVdsa18"
     },
     {
-      "title": "Detroit Free Press | Uncertainty Builds Around Inflation, Stock Market. What Could Be Next? - Loyola Marymount University",
+      "title": "S&P 500, Nasdaq Slip as $98 Brent Reignites Inflation Fears: Stock Market Today - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNc05nQmJCSUMxRkwxSkZSb0NjSV9HVGNJcVM2SjVJZG00SVVSOEhoMV9HalBLS19semhWRk9kUG9uQ3ZtWkZEZmNZUFlkMUFCeFdlcHN0Qk54T3I2WXV5VkNOU1RGYWwyRGh2WGpjZWx5YnNMVEdGX19pS2VKdmszR0dNSnZ4cWNsci1mWG00OHZlakpyaFVFbWdjVDQyY21iX3Y5YTF0RXJxNThOTDBhWjZXRFcycEd5MTYyS2I3S3dVaVFLTUVZbDQ4UkVkZEJN?oc=5",
+      "source": "TradingView",
+      "published_at": "Tue, 08 Sep 2026 17:13:16 GMT",
+      "summary": "S&P 500, Nasdaq Slip as $98 Brent Reignites Inflation Fears: Stock Market Today TradingView",
+      "guid": "CBMi0AFBVV95cUxNc05nQmJCSUMxRkwxSkZSb0NjSV9HVGNJcVM2SjVJZG00SVVSOEhoMV9HalBLS19semhWRk9kUG9uQ3ZtWkZEZmNZUFlkMUFCeFdlcHN0Qk54T3I2WXV5VkNOU1RGYWwyRGh2WGpjZWx5YnNMVEdGX19pS2VKdmszR0dNSnZ4cWNsci1mWG00OHZlakpyaFVFbWdjVDQyY21iX3Y5YTF0RXJxNThOTDBhWjZXRFcycEd5MTYyS2I3S3dVaVFLTUVZbDQ4UkVkZEJN"
+    },
+    {
+      "title": "Detroit Free Press | Uncertainty Builds Around Inflation, Stock Market. What Could Be Next? - newsroom.lmu.edu",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMzViUkJkdmdOWU5zZTNUVTZYMVRIVjgwYWhqZWJLekc2UWdjeVhWWHNJSmZiRnBLaFpBUThPNWNKOWZBSnBJTVowUGlrRlp1NXNLZ1JTSnhpRW9VTThCUUhzMnRkcjQ5SklyaVlkY3RhQUp0a2g5UFFoTHpMRE51M25xaWhEUlBMRDR3RTF2am0yWmNCY0Vkc3ZKVlhkVEFOSmh3Y0hyNDB0c0pSY3ZYd0IwMHBtN09yMXNWNWNJaWZPSGc3ZzNB?oc=5",
-      "source": "Loyola Marymount University",
+      "source": "newsroom.lmu.edu",
       "published_at": "Thu, 03 Sep 2026 17:05:37 GMT",
-      "summary": "Detroit Free Press | Uncertainty Builds Around Inflation, Stock Market. What Could Be Next? Loyola Marymount University",
+      "summary": "Detroit Free Press | Uncertainty Builds Around Inflation, Stock Market. What Could Be Next? newsroom.lmu.edu",
       "guid": "CBMixwFBVV95cUxOMzViUkJkdmdOWU5zZTNUVTZYMVRIVjgwYWhqZWJLekc2UWdjeVhWWHNJSmZiRnBLaFpBUThPNWNKOWZBSnBJTVowUGlrRlp1NXNLZ1JTSnhpRW9VTThCUUhzMnRkcjQ5SklyaVlkY3RhQUp0a2g5UFFoTHpMRE51M25xaWhEUlBMRDR3RTF2am0yWmNCY0Vkc3ZKVlhkVEFOSmh3Y0hyNDB0c0pSY3ZYd0IwMHBtN09yMXNWNWNJaWZPSGc3ZzNB"
+    },
+    {
+      "title": "Booking Holdings Inc Stock (BKNG) Moved Down by 6.07% on Sep 8: A Full Analysis - TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZEZydGhMc2c3T1pHUklnM21pcFFxN2s5aVpTVUo0dzcycGY2dFdtQlNKNHJCN2sySjl0QWdRYUpkRS0zVnpSZFJmdThLeW5KN0VfTEZKc093bC1Fd0JjR3JDUXRZUHNPSy1tVWFDQWVkYmFsTktWMDBlVnk1TllHWWpuUXpGLS1wU19v?oc=5",
+      "source": "TradingKey",
+      "published_at": "Tue, 08 Sep 2026 18:15:28 GMT",
+      "summary": "Booking Holdings Inc Stock (BKNG) Moved Down by 6.07% on Sep 8: A Full Analysis TradingKey",
+      "guid": "CBMiiwFBVV95cUxPZEZydGhMc2c3T1pHUklnM21pcFFxN2s5aVpTVUo0dzcycGY2dFdtQlNKNHJCN2sySjl0QWdRYUpkRS0zVnpSZFJmdThLeW5KN0VfTEZKc093bC1Fd0JjR3JDUXRZUHNPSy1tVWFDQWVkYmFsTktWMDBlVnk1TllHWWpuUXpGLS1wU19v"
     },
     {
       "title": "Recent Economic and Financial Developments - Federal Reserve (.gov)",
@@ -39,11 +55,11 @@
       "guid": "CBMi1gFBVV95cUxOVmRkbElMU1FXQjRfTUQzVldXNVQ1TktDekgtT2Q1cThUQWJzZno2OHc1dDY2Z2JVdDl0N3pRX0JiZFVlUW8wSENySUtRTk9zT2huMlVPMGlVRzltaV9wZmp4QjI5MnFhbDR5bFIwV0NpWUFwQkxLRmZ0OGFXUzZTM0xaMmVYVnd0anQ1bG1zRFVfODZHdGp1RmpFZDVyODdmZF93UVVBT0tKZTA4Wkk2WHpURE8zSU5wUUNkV09wd0ZYV2lFZ2pkLXdFTlZ2N042NTNzc3RR"
     },
     {
-      "title": "Weekly market commentary - blackrock.com",
+      "title": "Weekly market commentary - BlackRock",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
-      "source": "blackrock.com",
+      "source": "BlackRock",
       "published_at": "Mon, 31 Aug 2026 07:00:00 GMT",
-      "summary": "Weekly market commentary blackrock.com",
+      "summary": "Weekly market commentary BlackRock",
       "guid": "CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw"
     },
     {
@@ -63,28 +79,12 @@
       "guid": "CBMimgFBVV95cUxONjFRV0ttT3Z0WmRRN1Qza1A5VFpDMW5vMDEtYkprLVhHZ05zMElKaWtXOUtnb29zdDNjc25sd2l4TkUyY09EQU43ZUlETW4zbDZpczgzUG9MUzNtS3ZyUlNicVoyaVpWdUVRcUFYaXlNNGtrWFZyZUNwSHE3VWNjRXl2bXI3WmxSM1JuN0d2RVI1ZzgwWkNuUS13"
     },
     {
-      "title": "The Federal Reserve's Initial September Inflation Forecast Has Arrived, and It Contains a Glaring Red Flag for Wall Street - finance.yahoo.com",
+      "title": "The Federal Reserve's Initial September Inflation Forecast Has Arrived, and It Contains a Glaring Red Flag for Wall Street - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRTRIYXVYUGJPa2dDdVFpSVhubGxISmlnYko2TXlnN0VydFMyZ0dSa0ZMMkV2dnlBZmVBMUgwaGJkNUJPc3hISlFUTGNiTmJVZGszb1I5T3dRZVFVUzNCYm1xM3VDZTE0eVNqLTlJcnJTbXdjak5PQk1EaHlZaXJmTnlONmdRaTI0dDBMR1drMzBwMm0yeVplUXcwUnBwZ1hibGYxYVdJLXM5dXEtbGc?oc=5",
-      "source": "finance.yahoo.com",
+      "source": "Yahoo Finance",
       "published_at": "Fri, 04 Sep 2026 08:26:00 GMT",
-      "summary": "The Federal Reserve's Initial September Inflation Forecast Has Arrived, and It Contains a Glaring Red Flag for Wall Street finance.yahoo.com",
+      "summary": "The Federal Reserve's Initial September Inflation Forecast Has Arrived, and It Contains a Glaring Red Flag for Wall Street Yahoo Finance",
       "guid": "CBMirgFBVV95cUxQRTRIYXVYUGJPa2dDdVFpSVhubGxISmlnYko2TXlnN0VydFMyZ0dSa0ZMMkV2dnlBZmVBMUgwaGJkNUJPc3hISlFUTGNiTmJVZGszb1I5T3dRZVFVUzNCYm1xM3VDZTE0eVNqLTlJcnJTbXdjak5PQk1EaHlZaXJmTnlONmdRaTI0dDBMR1drMzBwMm0yeVplUXcwUnBwZ1hibGYxYVdJLXM5dXEtbGc"
-    },
-    {
-      "title": "Kevin Warsh Just Sent the Stock Market a Blunt 5-Word Warning. Here's What History Says Comes Next. - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdURoeFVmdlQ3eTZkU2JKbUFwYkhxRmNkWFNJSDRPOTZIMDdRX0ZJNnF0ejJjbnEwRmdQaTF4eDRmMU0tSmVOaGktR1RzbUJ5MXdhRjhUR0lySHk4V2xGZXRPa0M2RHlHeGtnT19aRDlxbTh4UjNLdDhJVkM3dkhnRU0zN1dFbEd2Vl8tWlEzeF84QXA5Wi1Sbw?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Wed, 02 Sep 2026 13:30:00 GMT",
-      "summary": "Kevin Warsh Just Sent the Stock Market a Blunt 5-Word Warning. Here's What History Says Comes Next. The Motley Fool",
-      "guid": "CBMimAFBVV95cUxPdURoeFVmdlQ3eTZkU2JKbUFwYkhxRmNkWFNJSDRPOTZIMDdRX0ZJNnF0ejJjbnEwRmdQaTF4eDRmMU0tSmVOaGktR1RzbUJ5MXdhRjhUR0lySHk4V2xGZXRPa0M2RHlHeGtnT19aRDlxbTh4UjNLdDhJVkM3dkhnRU0zN1dFbEd2Vl8tWlEzeF84QXA5Wi1Sbw"
-    },
-    {
-      "title": "How will stocks perform when the Fed chair speaks at Jackson Hole? Here’s what history tells us. - MarketWatch",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQTBpclBJREdMVGktakVobW1UbXVES2tSclNoaTlDeHpfUjQtdFhRVFhWLVZDQW5YaEtSYTE5U0tBSmFkdnJVUGM2Y1F3ekF0d2JYTVAxWFY5bTl0M0VISk1tNHVYeE5SU0UtWlRZQmdsN3dNMm1kRVNyV1JUanR2M0F3UVMzaTZNai1HS09zVV80RVZYYV91d0FGak41OUs4ZDBVMnpQMFhuaDlzU1V5TlJ0aVFSTzNSU2pob05MNGlDU1RxdE52bGF3N1AxRjB3ZFE?oc=5",
-      "source": "MarketWatch",
-      "published_at": "Thu, 27 Aug 2026 07:00:00 GMT",
-      "summary": "How will stocks perform when the Fed chair speaks at Jackson Hole? Here’s what history tells us. MarketWatch",
-      "guid": "CBMi0gFBVV95cUxNQTBpclBJREdMVGktakVobW1UbXVES2tSclNoaTlDeHpfUjQtdFhRVFhWLVZDQW5YaEtSYTE5U0tBSmFkdnJVUGM2Y1F3ekF0d2JYTVAxWFY5bTl0M0VISk1tNHVYeE5SU0UtWlRZQmdsN3dNMm1kRVNyV1JUanR2M0F3UVMzaTZNai1HS09zVV80RVZYYV91d0FGak41OUs4ZDBVMnpQMFhuaDlzU1V5TlJ0aVFSTzNSU2pob05MNGlDU1RxdE52bGF3N1AxRjB3ZFE"
     }
   ]
 }
