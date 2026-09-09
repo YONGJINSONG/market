@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T09:45:34Z",
+  "generated_at": "2026-09-09T14:00:09Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -15,6 +15,14 @@
       "guid": "CBMinAFBVV95cUxNSEtvRVM0WUFYTS1RTzN0MHBLeC1DVmc2TUhaZGVqOFhTZ0NFTUZxUWxLQlRvdEE0WXRZVHp2bDZwTVhQQ29teHFoUGp5cERScWl6UXFFMFRMVmlKOU8xbldPUHhaOGVPME5jV3dqeXZMSktHeTJhX3FYemtoLVlPNWRLQk1TZVNDU3BHcDJvTm41UzQwbzBqcVdsa18"
     },
     {
+      "title": "Recent Economic and Financial Developments - Federal Reserve (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KWEN6M3VsdUJpS3YyUzBfc0JpcHhrY3J4LXhhUE90UkdqS1N1OWxCZGw1cWxveExZZ1RfM0dXM1pNMk9HRVctTGNBM2xrQ2Npbjl5OFJkQV9sajMxWHhQSGpXSzNfcGppZDhEaHFraFhUZ0puWFE?oc=5",
+      "source": "Federal Reserve (.gov)",
+      "published_at": "Fri, 17 Jul 2026 06:37:05 GMT",
+      "summary": "Recent Economic and Financial Developments Federal Reserve (.gov)",
+      "guid": "CBMidkFVX3lxTE9KWEN6M3VsdUJpS3YyUzBfc0JpcHhrY3J4LXhhUE90UkdqS1N1OWxCZGw1cWxveExZZ1RfM0dXM1pNMk9HRVctTGNBM2xrQ2Npbjl5OFJkQV9sajMxWHhQSGpXSzNfcGppZDhEaHFraFhUZ0puWFE"
+    },
+    {
       "title": "Detroit Free Press | Uncertainty Builds Around Inflation, Stock Market. What Could Be Next? - Loyola Marymount University",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMzViUkJkdmdOWU5zZTNUVTZYMVRIVjgwYWhqZWJLekc2UWdjeVhWWHNJSmZiRnBLaFpBUThPNWNKOWZBSnBJTVowUGlrRlp1NXNLZ1JTSnhpRW9VTThCUUhzMnRkcjQ5SklyaVlkY3RhQUp0a2g5UFFoTHpMRE51M25xaWhEUlBMRDR3RTF2am0yWmNCY0Vkc3ZKVlhkVEFOSmh3Y0hyNDB0c0pSY3ZYd0IwMHBtN09yMXNWNWNJaWZPSGc3ZzNB?oc=5",
       "source": "Loyola Marymount University",
@@ -23,28 +31,20 @@
       "guid": "CBMixwFBVV95cUxOMzViUkJkdmdOWU5zZTNUVTZYMVRIVjgwYWhqZWJLekc2UWdjeVhWWHNJSmZiRnBLaFpBUThPNWNKOWZBSnBJTVowUGlrRlp1NXNLZ1JTSnhpRW9VTThCUUhzMnRkcjQ5SklyaVlkY3RhQUp0a2g5UFFoTHpMRE51M25xaWhEUlBMRDR3RTF2am0yWmNCY0Vkc3ZKVlhkVEFOSmh3Y0hyNDB0c0pSY3ZYd0IwMHBtN09yMXNWNWNJaWZPSGc3ZzNB"
     },
     {
-      "title": "S&P 500, Nasdaq Slip as $98 Brent Reignites Inflation Fears: Stock Market Today - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNc05nQmJCSUMxRkwxSkZSb0NjSV9HVGNJcVM2SjVJZG00SVVSOEhoMV9HalBLS19semhWRk9kUG9uQ3ZtWkZEZmNZUFlkMUFCeFdlcHN0Qk54T3I2WXV5VkNOU1RGYWwyRGh2WGpjZWx5YnNMVEdGX19pS2VKdmszR0dNSnZ4cWNsci1mWG00OHZlakpyaFVFbWdjVDQyY21iX3Y5YTF0RXJxNThOTDBhWjZXRFcycEd5MTYyS2I3S3dVaVFLTUVZbDQ4UkVkZEJN?oc=5",
-      "source": "TradingView",
-      "published_at": "Tue, 08 Sep 2026 17:13:16 GMT",
-      "summary": "S&P 500, Nasdaq Slip as $98 Brent Reignites Inflation Fears: Stock Market Today TradingView",
-      "guid": "CBMi0AFBVV95cUxNc05nQmJCSUMxRkwxSkZSb0NjSV9HVGNJcVM2SjVJZG00SVVSOEhoMV9HalBLS19semhWRk9kUG9uQ3ZtWkZEZmNZUFlkMUFCeFdlcHN0Qk54T3I2WXV5VkNOU1RGYWwyRGh2WGpjZWx5YnNMVEdGX19pS2VKdmszR0dNSnZ4cWNsci1mWG00OHZlakpyaFVFbWdjVDQyY21iX3Y5YTF0RXJxNThOTDBhWjZXRFcycEd5MTYyS2I3S3dVaVFLTUVZbDQ4UkVkZEJN"
+      "title": "Stocks slip on Wall Street under pressure from rising oil prices, bond sell-off - PBS",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVUpDbXlNdGxqU3l1LVBFQ1drbmNpcU40UmxDTldlNlBiOE9aazU2bVg1VE1qOXAtM1Z3VlBIUHNpN1NMWlZlSm9DY3cxLVdjTVNDcFZPUTAxUHhkNFMwUW9WQWVPUnlKZ2Fqc3dBRUV3aTNfU3JVWlVCYk56cC12clA4dGFRN2hoYWg2cUMybmh4ZkEtV0d0VTdZTDQwYUVBV01oRmxPMmxnMENCc3BkY0xpWU5mZ9IBuwFBVV95cUxPbVR0dUcteGhCV0s5UmFidkNta0didWVNOVk1WTRkUTJYbDZnTjhBOTJsNFNZMWUwdm00S0g4WmNLbm9vS3d0UkVoc3FWZXZOcmNBRjNqSGtCd0JFa3RxTVY1Wks1OW1hVDdlMFp6eUFMUFNMWkprcjB5eFlqdldxT3BCaDJLczJkdDhSREN2Y29QX0tUOWROZk4xd2M3bEZiVGRrTDZDeXZXV3RydTZ0bl9aV0JFWVJXc2U4?oc=5",
+      "source": "PBS",
+      "published_at": "Tue, 01 Sep 2026 07:00:00 GMT",
+      "summary": "Stocks slip on Wall Street under pressure from rising oil prices, bond sell-off PBS",
+      "guid": "CBMitgFBVV95cUxNVUpDbXlNdGxqU3l1LVBFQ1drbmNpcU40UmxDTldlNlBiOE9aazU2bVg1VE1qOXAtM1Z3VlBIUHNpN1NMWlZlSm9DY3cxLVdjTVNDcFZPUTAxUHhkNFMwUW9WQWVPUnlKZ2Fqc3dBRUV3aTNfU3JVWlVCYk56cC12clA4dGFRN2hoYWg2cUMybmh4ZkEtV0d0VTdZTDQwYUVBV01oRmxPMmxnMENCc3BkY0xpWU5mZ9IBuwFBVV95cUxPbVR0dUcteGhCV0s5UmFidkNta0didWVNOVk1WTRkUTJYbDZnTjhBOTJsNFNZMWUwdm00S0g4WmNLbm9vS3d0UkVoc3FWZXZOcmNBRjNqSGtCd0JFa3RxTVY1Wks1OW1hVDdlMFp6eUFMUFNMWkprcjB5eFlqdldxT3BCaDJLczJkdDhSREN2Y29QX0tUOWROZk4xd2M3bEZiVGRrTDZDeXZXV3RydTZ0bl9aV0JFWVJXc2U4"
     },
     {
-      "title": "Federal Reserve: Market mispricing risk into blackout – TD Securities - fxstreet.com",
+      "title": "Federal Reserve: Market mispricing risk into blackout – TD Securities - FXStreet",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUUJ0VXRXYzhOMEZtblpyZ1dMdF9aR1oxTm5yZW9uYXpncHRuT1BjUUptNkFER2NrWTZjT1ItYWJ2U1VKdkNJMlUxbkR4dnRpLU0tOTZ4cksxREFiYjEtazF3ZDBUZFZaZE1uSHNXQkFnMlJQWEYtWGloQjhOalViTURJeHFDbGktdkJpWTU1UW1lUE5IUnV6WENyNVlPSE96WGxiQl9aS3VKZC1EVGc?oc=5",
-      "source": "fxstreet.com",
+      "source": "FXStreet",
       "published_at": "Wed, 09 Sep 2026 08:00:19 GMT",
-      "summary": "Federal Reserve: Market mispricing risk into blackout – TD Securities fxstreet.com",
+      "summary": "Federal Reserve: Market mispricing risk into blackout – TD Securities FXStreet",
       "guid": "CBMirgFBVV95cUxOUUJ0VXRXYzhOMEZtblpyZ1dMdF9aR1oxTm5yZW9uYXpncHRuT1BjUUptNkFER2NrWTZjT1ItYWJ2U1VKdkNJMlUxbkR4dnRpLU0tOTZ4cksxREFiYjEtazF3ZDBUZFZaZE1uSHNXQkFnMlJQWEYtWGloQjhOalViTURJeHFDbGktdkJpWTU1UW1lUE5IUnV6WENyNVlPSE96WGxiQl9aS3VKZC1EVGc"
-    },
-    {
-      "title": "Booking Holdings Inc Stock (BKNG) Moved Down by 6.07% on Sep 8: A Full Analysis - TradingKey",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZEZydGhMc2c3T1pHUklnM21pcFFxN2s5aVpTVUo0dzcycGY2dFdtQlNKNHJCN2sySjl0QWdRYUpkRS0zVnpSZFJmdThLeW5KN0VfTEZKc093bC1Fd0JjR3JDUXRZUHNPSy1tVWFDQWVkYmFsTktWMDBlVnk1TllHWWpuUXpGLS1wU19v?oc=5",
-      "source": "TradingKey",
-      "published_at": "Tue, 08 Sep 2026 18:15:28 GMT",
-      "summary": "Booking Holdings Inc Stock (BKNG) Moved Down by 6.07% on Sep 8: A Full Analysis TradingKey",
-      "guid": "CBMiiwFBVV95cUxPZEZydGhMc2c3T1pHUklnM21pcFFxN2s5aVpTVUo0dzcycGY2dFdtQlNKNHJCN2sySjl0QWdRYUpkRS0zVnpSZFJmdThLeW5KN0VfTEZKc093bC1Fd0JjR3JDUXRZUHNPSy1tVWFDQWVkYmFsTktWMDBlVnk1TllHWWpuUXpGLS1wU19v"
     },
     {
       "title": "No rate-hiking map from the Federal Reserve - invesco.com",
@@ -55,20 +55,12 @@
       "guid": "CBMimgFBVV95cUxONjFRV0ttT3Z0WmRRN1Qza1A5VFpDMW5vMDEtYkprLVhHZ05zMElKaWtXOUtnb29zdDNjc25sd2l4TkUyY09EQU43ZUlETW4zbDZpczgzUG9MUzNtS3ZyUlNicVoyaVpWdUVRcUFYaXlNNGtrWFZyZUNwSHE3VWNjRXl2bXI3WmxSM1JuN0d2RVI1ZzgwWkNuUS13"
     },
     {
-      "title": "WATCH: Fed Chair Warsh signals stubborn inflation may require rate hikes in Jackson Hole speech - PBS",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeTZYd1JtU2tpSmRvbTJqT2J5VHpCQzJMVFR5WWJlZ3ppLTNjU3prR01jeUtWSXVEbWZScmw5S2RfdmVES3dEOThSeGwwMGVvOWs5NWpjNjU3M3JFdmpsVlRyaFJ6cEU4SWptdUM2MWotckR3dDYzSkxzUUJyOEtWbDFkMzJWZG1sSWd3d3Q3d3BndjlIb2ZfaGthSDlWdFZESEpkdERKbEJ4VnVGRmJGZFRR?oc=5",
-      "source": "PBS",
-      "published_at": "Fri, 28 Aug 2026 07:00:00 GMT",
-      "summary": "WATCH: Fed Chair Warsh signals stubborn inflation may require rate hikes in Jackson Hole speech PBS",
-      "guid": "CBMisgFBVV95cUxNeTZYd1JtU2tpSmRvbTJqT2J5VHpCQzJMVFR5WWJlZ3ppLTNjU3prR01jeUtWSXVEbWZScmw5S2RfdmVES3dEOThSeGwwMGVvOWs5NWpjNjU3M3JFdmpsVlRyaFJ6cEU4SWptdUM2MWotckR3dDYzSkxzUUJyOEtWbDFkMzJWZG1sSWd3d3Q3d3BndjlIb2ZfaGthSDlWdFZESEpkdERKbEJ4VnVGRmJGZFRR"
-    },
-    {
-      "title": "Recent Economic and Financial Developments - Federal Reserve (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KWEN6M3VsdUJpS3YyUzBfc0JpcHhrY3J4LXhhUE90UkdqS1N1OWxCZGw1cWxveExZZ1RfM0dXM1pNMk9HRVctTGNBM2xrQ2Npbjl5OFJkQV9sajMxWHhQSGpXSzNfcGppZDhEaHFraFhUZ0puWFE?oc=5",
-      "source": "Federal Reserve (.gov)",
-      "published_at": "Fri, 17 Jul 2026 06:37:05 GMT",
-      "summary": "Recent Economic and Financial Developments Federal Reserve (.gov)",
-      "guid": "CBMidkFVX3lxTE9KWEN6M3VsdUJpS3YyUzBfc0JpcHhrY3J4LXhhUE90UkdqS1N1OWxCZGw1cWxveExZZ1RfM0dXM1pNMk9HRVctTGNBM2xrQ2Npbjl5OFJkQV9sajMxWHhQSGpXSzNfcGppZDhEaHFraFhUZ0puWFE"
+      "title": "Booking Holdings Inc Stock (BKNG) Moved Down by 6.07% on Sep 8: A Full Analysis - TradingKey",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZEZydGhMc2c3T1pHUklnM21pcFFxN2s5aVpTVUo0dzcycGY2dFdtQlNKNHJCN2sySjl0QWdRYUpkRS0zVnpSZFJmdThLeW5KN0VfTEZKc093bC1Fd0JjR3JDUXRZUHNPSy1tVWFDQWVkYmFsTktWMDBlVnk1TllHWWpuUXpGLS1wU19v?oc=5",
+      "source": "TradingKey",
+      "published_at": "Tue, 08 Sep 2026 18:15:28 GMT",
+      "summary": "Booking Holdings Inc Stock (BKNG) Moved Down by 6.07% on Sep 8: A Full Analysis TradingKey",
+      "guid": "CBMiiwFBVV95cUxPZEZydGhMc2c3T1pHUklnM21pcFFxN2s5aVpTVUo0dzcycGY2dFdtQlNKNHJCN2sySjl0QWdRYUpkRS0zVnpSZFJmdThLeW5KN0VfTEZKc093bC1Fd0JjR3JDUXRZUHNPSy1tVWFDQWVkYmFsTktWMDBlVnk1TllHWWpuUXpGLS1wU19v"
     },
     {
       "title": "How Net Worth Changes Across Education Levels—And Why College Graduates Hold More Wealth - Investopedia",
@@ -85,6 +77,14 @@
       "published_at": "Fri, 04 Sep 2026 08:26:00 GMT",
       "summary": "The Federal Reserve's Initial September Inflation Forecast Has Arrived, and It Contains a Glaring Red Flag for Wall Street Yahoo Finance",
       "guid": "CBMirgFBVV95cUxQRTRIYXVYUGJPa2dDdVFpSVhubGxISmlnYko2TXlnN0VydFMyZ0dSa0ZMMkV2dnlBZmVBMUgwaGJkNUJPc3hISlFUTGNiTmJVZGszb1I5T3dRZVFVUzNCYm1xM3VDZTE0eVNqLTlJcnJTbXdjak5PQk1EaHlZaXJmTnlONmdRaTI0dDBMR1drMzBwMm0yeVplUXcwUnBwZ1hibGYxYVdJLXM5dXEtbGc"
+    },
+    {
+      "title": "The stock market rally that’s making some people rich and everyone else miserable - CNN",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wTnVnQTZObVBiRWNaVmMwNHFDandIeHBjbDRnc182d2VPcnVOeHp5alN2LVBGSjFZTkE5RmpLXzRMcDVlU0MwbGRBYnd6SWptRGtZYkNPYjNjWnlab1ZwUUFLT0c2dE1UUVBIaA?oc=5",
+      "source": "CNN",
+      "published_at": "Mon, 29 Jun 2026 07:00:00 GMT",
+      "summary": "The stock market rally that’s making some people rich and everyone else miserable CNN",
+      "guid": "CBMibEFVX3lxTE4wTnVnQTZObVBiRWNaVmMwNHFDandIeHBjbDRnc182d2VPcnVOeHp5alN2LVBGSjFZTkE5RmpLXzRMcDVlU0MwbGRBYnd6SWptRGtZYkNPYjNjWnlab1ZwUUFLT0c2dE1UUVBIaA"
     }
   ]
 }
