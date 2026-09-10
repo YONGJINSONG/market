@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T19:40:10Z",
+  "generated_at": "2026-09-10T21:52:30Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -15,20 +15,20 @@
       "guid": "CBMibEFVX3lxTE1xS0xVRGFsRlhGb1BFXy1Vc1c5Zjd1NkxfajlLZ0JUQkZfM1VkVVhhUkh1TnZHZnlMeTI4R3Rkb0dqMG1CWVk4WFhYdkxyMUVhVUM3TUhtdWdqeDlMRTZpVjU5UTBTN3VGOVZzZA"
     },
     {
-      "title": "Stock Market Investors Just Got a Warning From the Federal Reserve. History Says This Will Happen Next. - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSEtvRVM0WUFYTS1RTzN0MHBLeC1DVmc2TUhaZGVqOFhTZ0NFTUZxUWxLQlRvdEE0WXRZVHp2bDZwTVhQQ29teHFoUGp5cERScWl6UXFFMFRMVmlKOU8xbldPUHhaOGVPME5jV3dqeXZMSktHeTJhX3FYemtoLVlPNWRLQk1TZVNDU3BHcDJvTm41UzQwbzBqcVdsa18?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Sun, 06 Sep 2026 09:04:00 GMT",
-      "summary": "Stock Market Investors Just Got a Warning From the Federal Reserve. History Says This Will Happen Next. Yahoo Finance",
-      "guid": "CBMinAFBVV95cUxNSEtvRVM0WUFYTS1RTzN0MHBLeC1DVmc2TUhaZGVqOFhTZ0NFTUZxUWxLQlRvdEE0WXRZVHp2bDZwTVhQQ29teHFoUGp5cERScWl6UXFFMFRMVmlKOU8xbldPUHhaOGVPME5jV3dqeXZMSktHeTJhX3FYemtoLVlPNWRLQk1TZVNDU3BHcDJvTm41UzQwbzBqcVdsa18"
-    },
-    {
       "title": "Washington nonprofit Better Markets sues Federal Reserve over capital rule overhaul - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQb3hQU3Y4VWFmRkpaUll6bmx3MzFKYlFzS0x6VjNsc1ZjdjZCUDhaYVdxdXRFSUd5bGFScjdZWHJLaGx6ZDdROUd1SnpzbE5NaWxpa3d6OGJqX000QThqOGVxUXZrdnE2djFJSHp6Z1YzTVlIUzNHcjliMmVfU0Ixb21jNmRudUwxeWItZTlSUDhpaTRNbmRMbndpZWVEOW1TSWdvR2ZxYXZVQXc0SFllLWI3UlM0Z2k0XzcxRWpFR0E3UUo1bjczRXNR?oc=5",
       "source": "Reuters",
       "published_at": "Thu, 10 Sep 2026 19:20:55 GMT",
       "summary": "Washington nonprofit Better Markets sues Federal Reserve over capital rule overhaul Reuters",
       "guid": "CBMiygFBVV95cUxQb3hQU3Y4VWFmRkpaUll6bmx3MzFKYlFzS0x6VjNsc1ZjdjZCUDhaYVdxdXRFSUd5bGFScjdZWHJLaGx6ZDdROUd1SnpzbE5NaWxpa3d6OGJqX000QThqOGVxUXZrdnE2djFJSHp6Z1YzTVlIUzNHcjliMmVfU0Ixb21jNmRudUwxeWItZTlSUDhpaTRNbmRMbndpZWVEOW1TSWdvR2ZxYXZVQXc0SFllLWI3UlM0Z2k0XzcxRWpFR0E3UUo1bjczRXNR"
+    },
+    {
+      "title": "Stock Market Investors Just Got a Warning From the Federal Reserve. History Says This Will Happen Next. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSEtvRVM0WUFYTS1RTzN0MHBLeC1DVmc2TUhaZGVqOFhTZ0NFTUZxUWxLQlRvdEE0WXRZVHp2bDZwTVhQQ29teHFoUGp5cERScWl6UXFFMFRMVmlKOU8xbldPUHhaOGVPME5jV3dqeXZMSktHeTJhX3FYemtoLVlPNWRLQk1TZVNDU3BHcDJvTm41UzQwbzBqcVdsa18?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Sun, 06 Sep 2026 09:04:00 GMT",
+      "summary": "Stock Market Investors Just Got a Warning From the Federal Reserve. History Says This Will Happen Next. Yahoo Finance",
+      "guid": "CBMinAFBVV95cUxNSEtvRVM0WUFYTS1RTzN0MHBLeC1DVmc2TUhaZGVqOFhTZ0NFTUZxUWxLQlRvdEE0WXRZVHp2bDZwTVhQQ29teHFoUGp5cERScWl6UXFFMFRMVmlKOU8xbldPUHhaOGVPME5jV3dqeXZMSktHeTJhX3FYemtoLVlPNWRLQk1TZVNDU3BHcDJvTm41UzQwbzBqcVdsa18"
     },
     {
       "title": "Wholesale prices rose 0.4% in August, as expected - CNBC",
@@ -47,6 +47,14 @@
       "guid": "CBMinAFBVV95cUxQU2VrRkdPcXF6U3ZvMTdqQ1pLT2Jua0N1MHlyQXM4c2hNN1M0SEY4bHZMakxwZm9jRjRKUHpsdnFuemtxSjFLZUhSVFJSTE41NzJQajl5M09PSlZNbkczMlZHTGN4U2wyalN2SnJiZG1JT3Roem00c0hmRXlRX3gtZzRNM2RBaS05VkRabUVSenVyUUV1ODQwUUNyTlE"
     },
     {
+      "title": "Don’t Panic About a Bond Market Selloff. It Could Be a Sign of Economic Strength - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOblJ5N2t5X3BrMVZFRDZodmI3RUx4WTBTUXM1MnhQZ0xpM1E2WWNmbGxqM1pTU2xlRDJpOVNEbGhhX3YtNUdweDByeE5YQ3c2RUprTkRvdHgxMExBWFVIcnBCaTNtVnp3T2IySHlEblJQaW42b21tSnB3T3JFa3ZYbm1FV1pSRjh3aGk0TkI2My1RY0tlbjhvVmNhQnBnNFo4cjZXQm1UblctTDQ?oc=5",
+      "source": "Morningstar",
+      "published_at": "Wed, 09 Sep 2026 09:04:53 GMT",
+      "summary": "Don’t Panic About a Bond Market Selloff. It Could Be a Sign of Economic Strength Morningstar",
+      "guid": "CBMiqwFBVV95cUxOblJ5N2t5X3BrMVZFRDZodmI3RUx4WTBTUXM1MnhQZ0xpM1E2WWNmbGxqM1pTU2xlRDJpOVNEbGhhX3YtNUdweDByeE5YQ3c2RUprTkRvdHgxMExBWFVIcnBCaTNtVnp3T2IySHlEblJQaW42b21tSnB3T3JFa3ZYbm1FV1pSRjh3aGk0TkI2My1RY0tlbjhvVmNhQnBnNFo4cjZXQm1UblctTDQ"
+    },
+    {
       "title": "Recent Economic and Financial Developments - Federal Reserve (.gov)",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KWEN6M3VsdUJpS3YyUzBfc0JpcHhrY3J4LXhhUE90UkdqS1N1OWxCZGw1cWxveExZZ1RfM0dXM1pNMk9HRVctTGNBM2xrQ2Npbjl5OFJkQV9sajMxWHhQSGpXSzNfcGppZDhEaHFraFhUZ0puWFE?oc=5",
       "source": "Federal Reserve (.gov)",
@@ -63,28 +71,20 @@
       "guid": "CBMitgFBVV95cUxNVUpDbXlNdGxqU3l1LVBFQ1drbmNpcU40UmxDTldlNlBiOE9aazU2bVg1VE1qOXAtM1Z3VlBIUHNpN1NMWlZlSm9DY3cxLVdjTVNDcFZPUTAxUHhkNFMwUW9WQWVPUnlKZ2Fqc3dBRUV3aTNfU3JVWlVCYk56cC12clA4dGFRN2hoYWg2cUMybmh4ZkEtV0d0VTdZTDQwYUVBV01oRmxPMmxnMENCc3BkY0xpWU5mZ9IBuwFBVV95cUxPbVR0dUcteGhCV0s5UmFidkNta0didWVNOVk1WTRkUTJYbDZnTjhBOTJsNFNZMWUwdm00S0g4WmNLbm9vS3d0UkVoc3FWZXZOcmNBRjNqSGtCd0JFa3RxTVY1Wks1OW1hVDdlMFp6eUFMUFNMWkprcjB5eFlqdldxT3BCaDJLczJkdDhSREN2Y29QX0tUOWROZk4xd2M3bEZiVGRrTDZDeXZXV3RydTZ0bl9aV0JFWVJXc2U4"
     },
     {
+      "title": "Has Broader Stock Market Participation Changed How Interest Rates Affect the Economy? - libertystreeteconomics.newyorkfed.org",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVmRkbElMU1FXQjRfTUQzVldXNVQ1TktDekgtT2Q1cThUQWJzZno2OHc1dDY2Z2JVdDl0N3pRX0JiZFVlUW8wSENySUtRTk9zT2huMlVPMGlVRzltaV9wZmp4QjI5MnFhbDR5bFIwV0NpWUFwQkxLRmZ0OGFXUzZTM0xaMmVYVnd0anQ1bG1zRFVfODZHdGp1RmpFZDVyODdmZF93UVVBT0tKZTA4Wkk2WHpURE8zSU5wUUNkV09wd0ZYV2lFZ2pkLXdFTlZ2N042NTNzc3RR?oc=5",
+      "source": "libertystreeteconomics.newyorkfed.org",
+      "published_at": "Wed, 19 Aug 2026 07:00:00 GMT",
+      "summary": "Has Broader Stock Market Participation Changed How Interest Rates Affect the Economy? libertystreeteconomics.newyorkfed.org",
+      "guid": "CBMi1gFBVV95cUxOVmRkbElMU1FXQjRfTUQzVldXNVQ1TktDekgtT2Q1cThUQWJzZno2OHc1dDY2Z2JVdDl0N3pRX0JiZFVlUW8wSENySUtRTk9zT2huMlVPMGlVRzltaV9wZmp4QjI5MnFhbDR5bFIwV0NpWUFwQkxLRmZ0OGFXUzZTM0xaMmVYVnd0anQ1bG1zRFVfODZHdGp1RmpFZDVyODdmZF93UVVBT0tKZTA4Wkk2WHpURE8zSU5wUUNkV09wd0ZYV2lFZ2pkLXdFTlZ2N042NTNzc3RR"
+    },
+    {
       "title": "No rate-hiking map from the Federal Reserve - invesco.com",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONjFRV0ttT3Z0WmRRN1Qza1A5VFpDMW5vMDEtYkprLVhHZ05zMElKaWtXOUtnb29zdDNjc25sd2l4TkUyY09EQU43ZUlETW4zbDZpczgzUG9MUzNtS3ZyUlNicVoyaVpWdUVRcUFYaXlNNGtrWFZyZUNwSHE3VWNjRXl2bXI3WmxSM1JuN0d2RVI1ZzgwWkNuUS13?oc=5",
       "source": "invesco.com",
       "published_at": "Mon, 31 Aug 2026 07:00:00 GMT",
       "summary": "No rate-hiking map from the Federal Reserve invesco.com",
       "guid": "CBMimgFBVV95cUxONjFRV0ttT3Z0WmRRN1Qza1A5VFpDMW5vMDEtYkprLVhHZ05zMElKaWtXOUtnb29zdDNjc25sd2l4TkUyY09EQU43ZUlETW4zbDZpczgzUG9MUzNtS3ZyUlNicVoyaVpWdUVRcUFYaXlNNGtrWFZyZUNwSHE3VWNjRXl2bXI3WmxSM1JuN0d2RVI1ZzgwWkNuUS13"
-    },
-    {
-      "title": "Financial Markets, Oil Prices, and Supply-Side Risks - Federal Reserve Bank of San Francisco",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNmFjYWNhVVJHZ2Y1dVZ5M3A1LTdZT01sSFVQTVJZcXpfcjNNajNyRjZXNXBpWTlST29nWFBhQ19Id05CQ3pGQXMybTBoRU9CeDFvZXNNN1dxeUVxR3dkM0wyYTZhS1ZMVTJsckdySFlzVXBQVHdGMjVWd3k4TG9idUdueERPVHRZUV95NzBKYTdfYnVVNThfTlRkeEZtNGtCY0dhc3FZMjZBQ0ZHYzRhbnBkZFNxb1JQYmczWHR3S21LYU8yeXhyNk1HRk0?oc=5",
-      "source": "Federal Reserve Bank of San Francisco",
-      "published_at": "Mon, 10 Aug 2026 07:00:00 GMT",
-      "summary": "Financial Markets, Oil Prices, and Supply-Side Risks Federal Reserve Bank of San Francisco",
-      "guid": "CBMizAFBVV95cUxPNmFjYWNhVVJHZ2Y1dVZ5M3A1LTdZT01sSFVQTVJZcXpfcjNNajNyRjZXNXBpWTlST29nWFBhQ19Id05CQ3pGQXMybTBoRU9CeDFvZXNNN1dxeUVxR3dkM0wyYTZhS1ZMVTJsckdySFlzVXBQVHdGMjVWd3k4TG9idUdueERPVHRZUV95NzBKYTdfYnVVNThfTlRkeEZtNGtCY0dhc3FZMjZBQ0ZHYzRhbnBkZFNxb1JQYmczWHR3S21LYU8yeXhyNk1HRk0"
-    },
-    {
-      "title": "Investors: Sept. 16 Will Be a Critical Day for the Stock Market. Here's What You Need to Know. - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbXNYMTlJZ29tT3hkMDI5X3lWVjZ3a000eGpVd2taS0JIQ01sMlFYOUs0a0xGWkVBa1BVeXJRd1pBRmJsME5WelBuTDFqb2tscko5RjZQTWZFT0h2ejk2RXNWWXZwQ1Q3bklueHFDU0k5TEhhZ0IwNHFVcUhITTRYRk5uVmZqelZMUFI2N3puOA?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Wed, 09 Sep 2026 18:03:00 GMT",
-      "summary": "Investors: Sept. 16 Will Be a Critical Day for the Stock Market. Here's What You Need to Know. The Motley Fool",
-      "guid": "CBMijwFBVV95cUxQbXNYMTlJZ29tT3hkMDI5X3lWVjZ3a000eGpVd2taS0JIQ01sMlFYOUs0a0xGWkVBa1BVeXJRd1pBRmJsME5WelBuTDFqb2tscko5RjZQTWZFT0h2ejk2RXNWWXZwQ1Q3bklueHFDU0k5TEhhZ0IwNHFVcUhITTRYRk5uVmZqelZMUFI2N3puOA"
     }
   ]
 }
