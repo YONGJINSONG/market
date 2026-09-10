@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T17:12:39Z",
+  "generated_at": "2026-09-10T19:40:10Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -26,9 +26,17 @@
       "title": "Washington nonprofit Better Markets sues Federal Reserve over capital rule overhaul - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQb3hQU3Y4VWFmRkpaUll6bmx3MzFKYlFzS0x6VjNsc1ZjdjZCUDhaYVdxdXRFSUd5bGFScjdZWHJLaGx6ZDdROUd1SnpzbE5NaWxpa3d6OGJqX000QThqOGVxUXZrdnE2djFJSHp6Z1YzTVlIUzNHcjliMmVfU0Ixb21jNmRudUwxeWItZTlSUDhpaTRNbmRMbndpZWVEOW1TSWdvR2ZxYXZVQXc0SFllLWI3UlM0Z2k0XzcxRWpFR0E3UUo1bjczRXNR?oc=5",
       "source": "Reuters",
-      "published_at": "Thu, 10 Sep 2026 16:38:57 GMT",
+      "published_at": "Thu, 10 Sep 2026 19:20:55 GMT",
       "summary": "Washington nonprofit Better Markets sues Federal Reserve over capital rule overhaul Reuters",
       "guid": "CBMiygFBVV95cUxQb3hQU3Y4VWFmRkpaUll6bmx3MzFKYlFzS0x6VjNsc1ZjdjZCUDhaYVdxdXRFSUd5bGFScjdZWHJLaGx6ZDdROUd1SnpzbE5NaWxpa3d6OGJqX000QThqOGVxUXZrdnE2djFJSHp6Z1YzTVlIUzNHcjliMmVfU0Ixb21jNmRudUwxeWItZTlSUDhpaTRNbmRMbndpZWVEOW1TSWdvR2ZxYXZVQXc0SFllLWI3UlM0Z2k0XzcxRWpFR0E3UUo1bjczRXNR"
+    },
+    {
+      "title": "Wholesale prices rose 0.4% in August, as expected - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9qVHZKSklSNFBTMjdLU1hfTVQwV2dQdjdhV1pGZkQ0S2I0VTZuX2NjcGMyb1hNUWV2dXJSb0ZxZkg2ZEh6bWJfbFA3bkNMenpLR3hNeWVEWkZ3LTVrcjByWGt1NzJlZXpmZnF4bWctNm1QRm1NS1FmbNIBfkFVX3lxTE1Demk0RVMzaFd0WW9UQWRPWDRNLTl5ZEdKenM4LWJRV2VtUjQ0OTVGUm5mQ1JMMUZqd0ZsWGJ6cVhMR2s3U1BScS1FRk8xbzFFb05ITjZJLXRiQ2gyWXRzRkJaZDE1ZTZNOV82YjZUbnhCaHlZYl9fal9wOXY4dw?oc=5",
+      "source": "CNBC",
+      "published_at": "Thu, 10 Sep 2026 12:31:29 GMT",
+      "summary": "Wholesale prices rose 0.4% in August, as expected CNBC",
+      "guid": "CBMieEFVX3lxTE9qVHZKSklSNFBTMjdLU1hfTVQwV2dQdjdhV1pGZkQ0S2I0VTZuX2NjcGMyb1hNUWV2dXJSb0ZxZkg2ZEh6bWJfbFA3bkNMenpLR3hNeWVEWkZ3LTVrcjByWGt1NzJlZXpmZnF4bWctNm1QRm1NS1FmbNIBfkFVX3lxTE1Demk0RVMzaFd0WW9UQWRPWDRNLTl5ZEdKenM4LWJRV2VtUjQ0OTVGUm5mQ1JMMUZqd0ZsWGJ6cVhMR2s3U1BScS1FRk8xbzFFb05ITjZJLXRiQ2gyWXRzRkJaZDE1ZTZNOV82YjZUbnhCaHlZYl9fal9wOXY4dw"
     },
     {
       "title": "A Tiny Shift in the Inflation Rate Could Decide the Fed’s Next Move - WSJ",
@@ -39,28 +47,12 @@
       "guid": "CBMinAFBVV95cUxQU2VrRkdPcXF6U3ZvMTdqQ1pLT2Jua0N1MHlyQXM4c2hNN1M0SEY4bHZMakxwZm9jRjRKUHpsdnFuemtxSjFLZUhSVFJSTE41NzJQajl5M09PSlZNbkczMlZHTGN4U2wyalN2SnJiZG1JT3Roem00c0hmRXlRX3gtZzRNM2RBaS05VkRabUVSenVyUUV1ODQwUUNyTlE"
     },
     {
-      "title": "Stock Market: Will S&P 500 Open Up or Down Today? - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaEJSMFJ3dnNjc21mOVBkTzBDT3Jhb21raEgxdGxSakpkbkQ0MVoyZmo0ZjRMWm1MRDBVN0dXSjU2SlRIaXQwOTdfNkZtZURQb1NxR2FqTGdSbXhxaVUyeWhhVklKRGJZRVNfMFIxZW1IR0ladkNRSU45aG1ORTk3MXN4YVpKR2ZBWkRuaE5sSWdMR1VORzg2RkFiR3BpSUFLOFlCYW1lUU5rZw?oc=5",
-      "source": "TradingView",
-      "published_at": "Thu, 10 Sep 2026 06:02:00 GMT",
-      "summary": "Stock Market: Will S&P 500 Open Up or Down Today? TradingView",
-      "guid": "CBMiqgFBVV95cUxQaEJSMFJ3dnNjc21mOVBkTzBDT3Jhb21raEgxdGxSakpkbkQ0MVoyZmo0ZjRMWm1MRDBVN0dXSjU2SlRIaXQwOTdfNkZtZURQb1NxR2FqTGdSbXhxaVUyeWhhVklKRGJZRVNfMFIxZW1IR0ladkNRSU45aG1ORTk3MXN4YVpKR2ZBWkRuaE5sSWdMR1VORzg2RkFiR3BpSUFLOFlCYW1lUU5rZw"
-    },
-    {
-      "title": "Recent Economic and Financial Developments - federalreserve.gov",
+      "title": "Recent Economic and Financial Developments - Federal Reserve (.gov)",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KWEN6M3VsdUJpS3YyUzBfc0JpcHhrY3J4LXhhUE90UkdqS1N1OWxCZGw1cWxveExZZ1RfM0dXM1pNMk9HRVctTGNBM2xrQ2Npbjl5OFJkQV9sajMxWHhQSGpXSzNfcGppZDhEaHFraFhUZ0puWFE?oc=5",
-      "source": "federalreserve.gov",
+      "source": "Federal Reserve (.gov)",
       "published_at": "Fri, 17 Jul 2026 06:37:05 GMT",
-      "summary": "Recent Economic and Financial Developments federalreserve.gov",
+      "summary": "Recent Economic and Financial Developments Federal Reserve (.gov)",
       "guid": "CBMidkFVX3lxTE9KWEN6M3VsdUJpS3YyUzBfc0JpcHhrY3J4LXhhUE90UkdqS1N1OWxCZGw1cWxveExZZ1RfM0dXM1pNMk9HRVctTGNBM2xrQ2Npbjl5OFJkQV9sajMxWHhQSGpXSzNfcGppZDhEaHFraFhUZ0puWFE"
-    },
-    {
-      "title": "Trump pushes Fed for lower rates, but consumers may be better off with a hike, experts say - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU1FFbFpVa3M2WXNaN21VSmp0aEgteF9aaUNJVVFULVVpMndyQ1Nzd3R6c1pJdDBrQS1xWE9XQXFHVmd4dGRSQkRwRndScHVGZ2doR04yM0NTaE9tNmxiUVdEMVBRN0ZDRHhaN1FSTDF0WmtJM2d5Y2lmUTRCUUpla1Q4WXViNlBSeGJWNU9jNU5OT2RXSUHSAZsBQVVfeXFMTktsSGdLX3N3R1F6MVRpQWJpdXFQQi1KMTBwcTJfcGRTQkNGZFZ2aVFJZVhjYlpEWjJoVXczcmhvS25QZFc2NEdqWmFlYkk3RzRUQ0lwS1VjQnJKT0JtbFZwQnV3dlNnQ2piWDlreFVSN1hvZFV0TTYzS3JVM3ZJUWl5ak1EUDFDYk56dzViS3pjU0ZwVXREbS1hcFk?oc=5",
-      "source": "CNBC",
-      "published_at": "Wed, 09 Sep 2026 14:58:55 GMT",
-      "summary": "Trump pushes Fed for lower rates, but consumers may be better off with a hike, experts say CNBC",
-      "guid": "CBMilgFBVV95cUxOU1FFbFpVa3M2WXNaN21VSmp0aEgteF9aaUNJVVFULVVpMndyQ1Nzd3R6c1pJdDBrQS1xWE9XQXFHVmd4dGRSQkRwRndScHVGZ2doR04yM0NTaE9tNmxiUVdEMVBRN0ZDRHhaN1FSTDF0WmtJM2d5Y2lmUTRCUUpla1Q4WXViNlBSeGJWNU9jNU5OT2RXSUHSAZsBQVVfeXFMTktsSGdLX3N3R1F6MVRpQWJpdXFQQi1KMTBwcTJfcGRTQkNGZFZ2aVFJZVhjYlpEWjJoVXczcmhvS25QZFc2NEdqWmFlYkk3RzRUQ0lwS1VjQnJKT0JtbFZwQnV3dlNnQ2piWDlreFVSN1hvZFV0TTYzS3JVM3ZJUWl5ak1EUDFDYk56dzViS3pjU0ZwVXREbS1hcFk"
     },
     {
       "title": "Stocks slip on Wall Street under pressure from rising oil prices, bond sell-off - PBS",
@@ -85,6 +77,14 @@
       "published_at": "Mon, 10 Aug 2026 07:00:00 GMT",
       "summary": "Financial Markets, Oil Prices, and Supply-Side Risks Federal Reserve Bank of San Francisco",
       "guid": "CBMizAFBVV95cUxPNmFjYWNhVVJHZ2Y1dVZ5M3A1LTdZT01sSFVQTVJZcXpfcjNNajNyRjZXNXBpWTlST29nWFBhQ19Id05CQ3pGQXMybTBoRU9CeDFvZXNNN1dxeUVxR3dkM0wyYTZhS1ZMVTJsckdySFlzVXBQVHdGMjVWd3k4TG9idUdueERPVHRZUV95NzBKYTdfYnVVNThfTlRkeEZtNGtCY0dhc3FZMjZBQ0ZHYzRhbnBkZFNxb1JQYmczWHR3S21LYU8yeXhyNk1HRk0"
+    },
+    {
+      "title": "Investors: Sept. 16 Will Be a Critical Day for the Stock Market. Here's What You Need to Know. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbXNYMTlJZ29tT3hkMDI5X3lWVjZ3a000eGpVd2taS0JIQ01sMlFYOUs0a0xGWkVBa1BVeXJRd1pBRmJsME5WelBuTDFqb2tscko5RjZQTWZFT0h2ejk2RXNWWXZwQ1Q3bklueHFDU0k5TEhhZ0IwNHFVcUhITTRYRk5uVmZqelZMUFI2N3puOA?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Wed, 09 Sep 2026 18:03:00 GMT",
+      "summary": "Investors: Sept. 16 Will Be a Critical Day for the Stock Market. Here's What You Need to Know. The Motley Fool",
+      "guid": "CBMijwFBVV95cUxQbXNYMTlJZ29tT3hkMDI5X3lWVjZ3a000eGpVd2taS0JIQ01sMlFYOUs0a0xGWkVBa1BVeXJRd1pBRmJsME5WelBuTDFqb2tscko5RjZQTWZFT0h2ejk2RXNWWXZwQ1Q3bklueHFDU0k5TEhhZ0IwNHFVcUhITTRYRk5uVmZqelZMUFI2N3puOA"
     }
   ]
 }
