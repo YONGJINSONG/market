@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T00:21:19Z",
+  "generated_at": "2026-09-10T04:57:19Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -23,20 +23,12 @@
       "guid": "CBMibEFVX3lxTE1xS0xVRGFsRlhGb1BFXy1Vc1c5Zjd1NkxfajlLZ0JUQkZfM1VkVVhhUkh1TnZHZnlMeTI4R3Rkb0dqMG1CWVk4WFhYdkxyMUVhVUM3TUhtdWdqeDlMRTZpVjU5UTBTN3VGOVZzZA"
     },
     {
-      "title": "Investors: Sept. 16 Will Be a Critical Day for the Stock Market. Here's What You Need to Know. - The Motley Fool",
+      "title": "Investors: Sept. 16 Will Be a Critical Day for the Stock Market. Here's What You Need to Know. - fool.com",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbXNYMTlJZ29tT3hkMDI5X3lWVjZ3a000eGpVd2taS0JIQ01sMlFYOUs0a0xGWkVBa1BVeXJRd1pBRmJsME5WelBuTDFqb2tscko5RjZQTWZFT0h2ejk2RXNWWXZwQ1Q3bklueHFDU0k5TEhhZ0IwNHFVcUhITTRYRk5uVmZqelZMUFI2N3puOA?oc=5",
-      "source": "The Motley Fool",
+      "source": "fool.com",
       "published_at": "Wed, 09 Sep 2026 18:03:00 GMT",
-      "summary": "Investors: Sept. 16 Will Be a Critical Day for the Stock Market. Here's What You Need to Know. The Motley Fool",
+      "summary": "Investors: Sept. 16 Will Be a Critical Day for the Stock Market. Here's What You Need to Know. fool.com",
       "guid": "CBMijwFBVV95cUxQbXNYMTlJZ29tT3hkMDI5X3lWVjZ3a000eGpVd2taS0JIQ01sMlFYOUs0a0xGWkVBa1BVeXJRd1pBRmJsME5WelBuTDFqb2tscko5RjZQTWZFT0h2ejk2RXNWWXZwQ1Q3bklueHFDU0k5TEhhZ0IwNHFVcUhITTRYRk5uVmZqelZMUFI2N3puOA"
-    },
-    {
-      "title": "Fed to hold rates steady in rest of 2026; rising number of analysts see at least one hike: Reuters poll - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ0NreUFoTnFxX3ZzQnd3YU9FNFVkQmhfZlBrSVBUUm12Q0lCckxRTHdWcUVHbmJpcDZKbVhNZG5RektYQlpqaUZGMjl2TnJ0amhPMGJBWnB6OG9FVTB5dVJPTlc1ZjJaa2djUl9HR3VhYzIxODJjVEx1NUswdkVkblYxNVNSY1dYWlpUdzlEQU9UNTNzaUtVWXVtdXljVEUzSnVOQTV2bTJHSXN6Q2E3U0pzcVk5U19qUmc?oc=5",
-      "source": "Reuters",
-      "published_at": "Wed, 09 Sep 2026 13:29:11 GMT",
-      "summary": "Fed to hold rates steady in rest of 2026; rising number of analysts see at least one hike: Reuters poll Reuters",
-      "guid": "CBMiugFBVV95cUxOZ0NreUFoTnFxX3ZzQnd3YU9FNFVkQmhfZlBrSVBUUm12Q0lCckxRTHdWcUVHbmJpcDZKbVhNZG5RektYQlpqaUZGMjl2TnJ0amhPMGJBWnB6OG9FVTB5dVJPTlc1ZjJaa2djUl9HR3VhYzIxODJjVEx1NUswdkVkblYxNVNSY1dYWlpUdzlEQU9UNTNzaUtVWXVtdXljVEUzSnVOQTV2bTJHSXN6Q2E3U0pzcVk5U19qUmc"
     },
     {
       "title": "Trump pushes Fed for lower rates, but consumers may be better off with a hike, experts say - CNBC",
@@ -47,20 +39,28 @@
       "guid": "CBMilgFBVV95cUxOU1FFbFpVa3M2WXNaN21VSmp0aEgteF9aaUNJVVFULVVpMndyQ1Nzd3R6c1pJdDBrQS1xWE9XQXFHVmd4dGRSQkRwRndScHVGZ2doR04yM0NTaE9tNmxiUVdEMVBRN0ZDRHhaN1FSTDF0WmtJM2d5Y2lmUTRCUUpla1Q4WXViNlBSeGJWNU9jNU5OT2RXSUHSAZsBQVVfeXFMTktsSGdLX3N3R1F6MVRpQWJpdXFQQi1KMTBwcTJfcGRTQkNGZFZ2aVFJZVhjYlpEWjJoVXczcmhvS25QZFc2NEdqWmFlYkk3RzRUQ0lwS1VjQnJKT0JtbFZwQnV3dlNnQ2piWDlreFVSN1hvZFV0TTYzS3JVM3ZJUWl5ak1EUDFDYk56dzViS3pjU0ZwVXREbS1hcFk"
     },
     {
-      "title": "Recent Economic and Financial Developments - Federal Reserve (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KWEN6M3VsdUJpS3YyUzBfc0JpcHhrY3J4LXhhUE90UkdqS1N1OWxCZGw1cWxveExZZ1RfM0dXM1pNMk9HRVctTGNBM2xrQ2Npbjl5OFJkQV9sajMxWHhQSGpXSzNfcGppZDhEaHFraFhUZ0puWFE?oc=5",
-      "source": "Federal Reserve (.gov)",
-      "published_at": "Fri, 17 Jul 2026 06:37:05 GMT",
-      "summary": "Recent Economic and Financial Developments Federal Reserve (.gov)",
-      "guid": "CBMidkFVX3lxTE9KWEN6M3VsdUJpS3YyUzBfc0JpcHhrY3J4LXhhUE90UkdqS1N1OWxCZGw1cWxveExZZ1RfM0dXM1pNMk9HRVctTGNBM2xrQ2Npbjl5OFJkQV9sajMxWHhQSGpXSzNfcGppZDhEaHFraFhUZ0puWFE"
+      "title": "Fed to hold rates steady in rest of 2026; rising number of analysts see at least one hike: Reuters poll - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ0NreUFoTnFxX3ZzQnd3YU9FNFVkQmhfZlBrSVBUUm12Q0lCckxRTHdWcUVHbmJpcDZKbVhNZG5RektYQlpqaUZGMjl2TnJ0amhPMGJBWnB6OG9FVTB5dVJPTlc1ZjJaa2djUl9HR3VhYzIxODJjVEx1NUswdkVkblYxNVNSY1dYWlpUdzlEQU9UNTNzaUtVWXVtdXljVEUzSnVOQTV2bTJHSXN6Q2E3U0pzcVk5U19qUmc?oc=5",
+      "source": "Reuters",
+      "published_at": "Wed, 09 Sep 2026 13:29:11 GMT",
+      "summary": "Fed to hold rates steady in rest of 2026; rising number of analysts see at least one hike: Reuters poll Reuters",
+      "guid": "CBMiugFBVV95cUxOZ0NreUFoTnFxX3ZzQnd3YU9FNFVkQmhfZlBrSVBUUm12Q0lCckxRTHdWcUVHbmJpcDZKbVhNZG5RektYQlpqaUZGMjl2TnJ0amhPMGJBWnB6OG9FVTB5dVJPTlc1ZjJaa2djUl9HR3VhYzIxODJjVEx1NUswdkVkblYxNVNSY1dYWlpUdzlEQU9UNTNzaUtVWXVtdXljVEUzSnVOQTV2bTJHSXN6Q2E3U0pzcVk5U19qUmc"
     },
     {
-      "title": "Detroit Free Press | Uncertainty Builds Around Inflation, Stock Market. What Could Be Next? - newsroom.lmu.edu",
+      "title": "Detroit Free Press | Uncertainty Builds Around Inflation, Stock Market. What Could Be Next? - Loyola Marymount University",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMzViUkJkdmdOWU5zZTNUVTZYMVRIVjgwYWhqZWJLekc2UWdjeVhWWHNJSmZiRnBLaFpBUThPNWNKOWZBSnBJTVowUGlrRlp1NXNLZ1JTSnhpRW9VTThCUUhzMnRkcjQ5SklyaVlkY3RhQUp0a2g5UFFoTHpMRE51M25xaWhEUlBMRDR3RTF2am0yWmNCY0Vkc3ZKVlhkVEFOSmh3Y0hyNDB0c0pSY3ZYd0IwMHBtN09yMXNWNWNJaWZPSGc3ZzNB?oc=5",
-      "source": "newsroom.lmu.edu",
+      "source": "Loyola Marymount University",
       "published_at": "Thu, 03 Sep 2026 17:05:37 GMT",
-      "summary": "Detroit Free Press | Uncertainty Builds Around Inflation, Stock Market. What Could Be Next? newsroom.lmu.edu",
+      "summary": "Detroit Free Press | Uncertainty Builds Around Inflation, Stock Market. What Could Be Next? Loyola Marymount University",
       "guid": "CBMixwFBVV95cUxOMzViUkJkdmdOWU5zZTNUVTZYMVRIVjgwYWhqZWJLekc2UWdjeVhWWHNJSmZiRnBLaFpBUThPNWNKOWZBSnBJTVowUGlrRlp1NXNLZ1JTSnhpRW9VTThCUUhzMnRkcjQ5SklyaVlkY3RhQUp0a2g5UFFoTHpMRE51M25xaWhEUlBMRDR3RTF2am0yWmNCY0Vkc3ZKVlhkVEFOSmh3Y0hyNDB0c0pSY3ZYd0IwMHBtN09yMXNWNWNJaWZPSGc3ZzNB"
+    },
+    {
+      "title": "3 Days of Losses: Dow, S&P, Nasdaq Slide as Yields, Oil Rise - CryptoRank",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE41N0Z3akZvRnpsRTdKMERINERiWHV0QUlHQnFHRENudGFlSXBPSUNId0pJZm53OFVfN1J3S2dzXzJ6VlZDanIwSDlYbUVNd0N5R18tclZFNHU1TmpRVGw3RFFuajdsNEh0LUlDOV9KZWNtWmhQNUQ2ZndLRQ?oc=5",
+      "source": "CryptoRank",
+      "published_at": "Thu, 10 Sep 2026 01:35:53 GMT",
+      "summary": "3 Days of Losses: Dow, S&P, Nasdaq Slide as Yields, Oil Rise CryptoRank",
+      "guid": "CBMie0FVX3lxTE41N0Z3akZvRnpsRTdKMERINERiWHV0QUlHQnFHRENudGFlSXBPSUNId0pJZm53OFVfN1J3S2dzXzJ6VlZDanIwSDlYbUVNd0N5R18tclZFNHU1TmpRVGw3RFFuajdsNEh0LUlDOV9KZWNtWmhQNUQ2ZndLRQ"
     },
     {
       "title": "Quantum Stocks Fall as Rate-Hike Odds Climb: IonQ Sinks 4%, Rigetti and D-Wave Pull Back - 24/7 Wall St.",
@@ -71,20 +71,20 @@
       "guid": "CBMiyAFBVV95cUxNYkZzaHJrdUNTZmdkWXBtSE9vb2Q5TGN0dXIwUUR4LUFWQzN6cG1pZW92TS1qTm5Sc0JOYWhMRk1NTE1KZldUUnVESnl0Q21RSzdBR0t4V3NqMTk5RWVYaXFsOGJLUHlpc2FOc2NYU0NfV29HYkRQV0Y0YVFWcjJZOS1QbThoM1hoUUUxVmlMSGRlYW84UXVYek5VZkJYSF9kS3B6Z2pQVUFpYWRJcm5UY2owR1JoSURaVlV3V1dVTHgwYjZUYU9NZQ"
     },
     {
-      "title": "Federal Reserve: Market mispricing risk into blackout – TD Securities - FXStreet",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUUJ0VXRXYzhOMEZtblpyZ1dMdF9aR1oxTm5yZW9uYXpncHRuT1BjUUptNkFER2NrWTZjT1ItYWJ2U1VKdkNJMlUxbkR4dnRpLU0tOTZ4cksxREFiYjEtazF3ZDBUZFZaZE1uSHNXQkFnMlJQWEYtWGloQjhOalViTURJeHFDbGktdkJpWTU1UW1lUE5IUnV6WENyNVlPSE96WGxiQl9aS3VKZC1EVGc?oc=5",
-      "source": "FXStreet",
-      "published_at": "Wed, 09 Sep 2026 08:00:19 GMT",
-      "summary": "Federal Reserve: Market mispricing risk into blackout – TD Securities FXStreet",
-      "guid": "CBMirgFBVV95cUxOUUJ0VXRXYzhOMEZtblpyZ1dMdF9aR1oxTm5yZW9uYXpncHRuT1BjUUptNkFER2NrWTZjT1ItYWJ2U1VKdkNJMlUxbkR4dnRpLU0tOTZ4cksxREFiYjEtazF3ZDBUZFZaZE1uSHNXQkFnMlJQWEYtWGloQjhOalViTURJeHFDbGktdkJpWTU1UW1lUE5IUnV6WENyNVlPSE96WGxiQl9aS3VKZC1EVGc"
-    },
-    {
       "title": "No rate-hiking map from the Federal Reserve - invesco.com",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONjFRV0ttT3Z0WmRRN1Qza1A5VFpDMW5vMDEtYkprLVhHZ05zMElKaWtXOUtnb29zdDNjc25sd2l4TkUyY09EQU43ZUlETW4zbDZpczgzUG9MUzNtS3ZyUlNicVoyaVpWdUVRcUFYaXlNNGtrWFZyZUNwSHE3VWNjRXl2bXI3WmxSM1JuN0d2RVI1ZzgwWkNuUS13?oc=5",
       "source": "invesco.com",
       "published_at": "Mon, 31 Aug 2026 07:00:00 GMT",
       "summary": "No rate-hiking map from the Federal Reserve invesco.com",
       "guid": "CBMimgFBVV95cUxONjFRV0ttT3Z0WmRRN1Qza1A5VFpDMW5vMDEtYkprLVhHZ05zMElKaWtXOUtnb29zdDNjc25sd2l4TkUyY09EQU43ZUlETW4zbDZpczgzUG9MUzNtS3ZyUlNicVoyaVpWdUVRcUFYaXlNNGtrWFZyZUNwSHE3VWNjRXl2bXI3WmxSM1JuN0d2RVI1ZzgwWkNuUS13"
+    },
+    {
+      "title": "Federal Reserve: Market mispricing risk into blackout – TD Securities - FXStreet",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUUJ0VXRXYzhOMEZtblpyZ1dMdF9aR1oxTm5yZW9uYXpncHRuT1BjUUptNkFER2NrWTZjT1ItYWJ2U1VKdkNJMlUxbkR4dnRpLU0tOTZ4cksxREFiYjEtazF3ZDBUZFZaZE1uSHNXQkFnMlJQWEYtWGloQjhOalViTURJeHFDbGktdkJpWTU1UW1lUE5IUnV6WENyNVlPSE96WGxiQl9aS3VKZC1EVGc?oc=5",
+      "source": "FXStreet",
+      "published_at": "Wed, 09 Sep 2026 08:00:19 GMT",
+      "summary": "Federal Reserve: Market mispricing risk into blackout – TD Securities FXStreet",
+      "guid": "CBMirgFBVV95cUxOUUJ0VXRXYzhOMEZtblpyZ1dMdF9aR1oxTm5yZW9uYXpncHRuT1BjUUptNkFER2NrWTZjT1ItYWJ2U1VKdkNJMlUxbkR4dnRpLU0tOTZ4cksxREFiYjEtazF3ZDBUZFZaZE1uSHNXQkFnMlJQWEYtWGloQjhOalViTURJeHFDbGktdkJpWTU1UW1lUE5IUnV6WENyNVlPSE96WGxiQl9aS3VKZC1EVGc"
     }
   ]
 }
