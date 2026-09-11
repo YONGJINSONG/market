@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T18:28:42Z",
+  "generated_at": "2026-09-11T21:07:46Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,12 +7,20 @@
   },
   "items": [
     {
-      "title": "Wall Street thought the Powell hike was over. Now Kevin Warsh has his ‘back against the wall’ - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BQ3dpbUlmQThkUFF1SlZNVWptZHRSaVR6VVNLMkswYVZ6YWdjaThoWGxEQ3JkSi1XS09rVWdBZXhNbjEyX08yMDZlWFVYX2VZOVF0X1pvbnlHandTYkJJS3B2ekFjZUg4RG5mcUtXczRndnc?oc=5",
-      "source": "Fortune",
-      "published_at": "Fri, 11 Sep 2026 17:14:00 GMT",
-      "summary": "Wall Street thought the Powell hike was over. Now Kevin Warsh has his ‘back against the wall’ Fortune",
-      "guid": "CBMic0FVX3lxTE9BQ3dpbUlmQThkUFF1SlZNVWptZHRSaVR6VVNLMkswYVZ6YWdjaThoWGxEQ3JkSi1XS09rVWdBZXhNbjEyX08yMDZlWFVYX2VZOVF0X1pvbnlHandTYkJJS3B2ekFjZUg4RG5mcUtXczRndnc"
+      "title": "U.S. Stocks Gain as Inflation Figure Boosts Odds of Rate Hike - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQTU4U2E5eHdCS1RuSzRBV3p4R0lyUVZqRkYzNWFiZDFKc1lfNmt2dmxockZfc3hiNi0ya1JkenExQXc1anNMTm55RlZ6WWI2bkxmcjl3QkRKdHlTSV96S1B2VXdCdFVuYUhuRUNWZ25wNWdMamRBU2JtTlhVamNqSkJrOTRDOHpTczZSUHBrTEJFT29KVm4wckJSWjF2SG1FcmNPSUtENWQ?oc=5",
+      "source": "WSJ",
+      "published_at": "Fri, 11 Sep 2026 18:54:00 GMT",
+      "summary": "U.S. Stocks Gain as Inflation Figure Boosts Odds of Rate Hike WSJ",
+      "guid": "CBMiqAFBVV95cUxOQTU4U2E5eHdCS1RuSzRBV3p4R0lyUVZqRkYzNWFiZDFKc1lfNmt2dmxockZfc3hiNi0ya1JkenExQXc1anNMTm55RlZ6WWI2bkxmcjl3QkRKdHlTSV96S1B2VXdCdFVuYUhuRUNWZ25wNWdMamRBU2JtTlhVamNqSkJrOTRDOHpTczZSUHBrTEJFT29KVm4wckJSWjF2SG1FcmNPSUtENWQ"
+    },
+    {
+      "title": "What Will Stocks Do If the Fed Raises Rates? - investopedia.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcWtLVV9uS2ZXeHhPZDJaNmdtSjV5OUs1NnA0NlRING9Jc2xaU0hqUEdPLXNaQUNiQTlWN3Z0V3NqQmRRSDlnbFZYYTN4Z1I1bjN3Q3M2b0MzUmEteTUyNFVSVHdkb1pKMmt4VlNleExQRmhKQXdTWFV2bVRIMWdkTUFvTUVRaV9iaGw2aTBCZGx5RVIxSEFLOGNSaw?oc=5",
+      "source": "investopedia.com",
+      "published_at": "Fri, 11 Sep 2026 16:43:52 GMT",
+      "summary": "What Will Stocks Do If the Fed Raises Rates? investopedia.com",
+      "guid": "CBMimwFBVV95cUxPcWtLVV9uS2ZXeHhPZDJaNmdtSjV5OUs1NnA0NlRING9Jc2xaU0hqUEdPLXNaQUNiQTlWN3Z0V3NqQmRRSDlnbFZYYTN4Z1I1bjN3Q3M2b0MzUmEteTUyNFVSVHdkb1pKMmt4VlNleExQRmhKQXdTWFV2bVRIMWdkTUFvTUVRaV9iaGw2aTBCZGx5RVIxSEFLOGNSaw"
     },
     {
       "title": "Stock Market Investors Just Got a Warning From the Federal Reserve. History Says This Will Happen Next. - Yahoo Finance",
@@ -23,27 +31,27 @@
       "guid": "CBMinAFBVV95cUxNSEtvRVM0WUFYTS1RTzN0MHBLeC1DVmc2TUhaZGVqOFhTZ0NFTUZxUWxLQlRvdEE0WXRZVHp2bDZwTVhQQ29teHFoUGp5cERScWl6UXFFMFRMVmlKOU8xbldPUHhaOGVPME5jV3dqeXZMSktHeTJhX3FYemtoLVlPNWRLQk1TZVNDU3BHcDJvTm41UzQwbzBqcVdsa18"
     },
     {
-      "title": "Fed Rate Hike Close To A Lock; Clarity Act Vote Looms: Week Ahead - Investor's Business Daily",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVFBmZkIxWGw5QmJfYUg4OUl3TUx1OGl6YkNvbDJfNnY3V3U4T2J0YThZV1hjV0c1NGZHenpVQVNyR0p6VG45aUdZS0hzVklYbUwwcnBnR2l1TC03ZzZObFlwRHBUN09DOHVNcmFDNHZkSVgwT3NTT2licDNmeHhVOWg0U3pXSjlpWFJTa3RTVWM1U0FmcUFaX2lDY2xtckRKVjh6enQyWHZaY1lIdlBLdU8tTDVXTFlNelJrODR1WXMxZkpPck1nRkFlYw?oc=5",
+      "title": "Dow Jones Futures: $100 Oil, Surging Yields Pressure Stocks With Fed Rate Hike Seen. Apple Leads New Buys. - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNOWM1ZTV4d1ZVcjR3YTVEcEpPNlh3WnUwRG15VllLWlg3Ym93WGtCQ1lqRGFTV1BMSU54TUMtamtxZURaU2dtOXp3Sm5KUEpsaURnVURtek1NSkVYNTRlblUycnZraVpZTi0tQ1JISWtCZDRfRXpfSHVjYmw4ZXdrZGdXbjJPNTBWOFN6N19aQ3VYT0tTeEhQc3pVRG5RbEZ2NGZKUFBPS3pwamE5Njk3YkM4bEZROVJLbzVvSDhOalNyRFp4ZmloTm9RaEwxSDZ0bXZ6cVVsX0ZTTThyUmIwYzRFZE40dXViSERVVHAwNUJxdw?oc=5",
       "source": "Investor's Business Daily",
-      "published_at": "Fri, 11 Sep 2026 15:39:00 GMT",
-      "summary": "Fed Rate Hike Close To A Lock; Clarity Act Vote Looms: Week Ahead Investor's Business Daily",
-      "guid": "CBMiywFBVV95cUxNVFBmZkIxWGw5QmJfYUg4OUl3TUx1OGl6YkNvbDJfNnY3V3U4T2J0YThZV1hjV0c1NGZHenpVQVNyR0p6VG45aUdZS0hzVklYbUwwcnBnR2l1TC03ZzZObFlwRHBUN09DOHVNcmFDNHZkSVgwT3NTT2licDNmeHhVOWg0U3pXSjlpWFJTa3RTVWM1U0FmcUFaX2lDY2xtckRKVjh6enQyWHZaY1lIdlBLdU8tTDVXTFlNelJrODR1WXMxZkpPck1nRkFlYw"
+      "published_at": "Fri, 11 Sep 2026 20:39:00 GMT",
+      "summary": "Dow Jones Futures: $100 Oil, Surging Yields Pressure Stocks With Fed Rate Hike Seen. Apple Leads New Buys. Investor's Business Daily",
+      "guid": "CBMi8gFBVV95cUxNOWM1ZTV4d1ZVcjR3YTVEcEpPNlh3WnUwRG15VllLWlg3Ym93WGtCQ1lqRGFTV1BMSU54TUMtamtxZURaU2dtOXp3Sm5KUEpsaURnVURtek1NSkVYNTRlblUycnZraVpZTi0tQ1JISWtCZDRfRXpfSHVjYmw4ZXdrZGdXbjJPNTBWOFN6N19aQ3VYT0tTeEhQc3pVRG5RbEZ2NGZKUFBPS3pwamE5Njk3YkM4bEZROVJLbzVvSDhOalNyRFp4ZmloTm9RaEwxSDZ0bXZ6cVVsX0ZTTThyUmIwYzRFZE40dXViSERVVHAwNUJxdw"
     },
     {
-      "title": "Why Stocks Could Weather Coming Rate Hikes Just Fine - Business Insider",
+      "title": "Why Stocks Could Weather Coming Rate Hikes Just Fine - businessinsider.com",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQzV2YmNvdmNPSWxQckk2VGJFaUZnVDdjdWduZGE0UkJVTGwzX2swcVFGSDVaWVVTWkJUajJpMUpGTzdNWHJEdEZLQTMtZVNac0kwaXg3blJPRGZTbGFJUUI4TXJ3OEpMTjhlQ0pUczBCYm9veFJGYWozWWJqY3dILUpEN09fRkhQbWJUbU9FZFJiTS1udjVma0hDa1ZfZw?oc=5",
-      "source": "Business Insider",
+      "source": "businessinsider.com",
       "published_at": "Fri, 11 Sep 2026 09:16:11 GMT",
-      "summary": "Why Stocks Could Weather Coming Rate Hikes Just Fine Business Insider",
+      "summary": "Why Stocks Could Weather Coming Rate Hikes Just Fine businessinsider.com",
       "guid": "CBMingFBVV95cUxPQzV2YmNvdmNPSWxQckk2VGJFaUZnVDdjdWduZGE0UkJVTGwzX2swcVFGSDVaWVVTWkJUajJpMUpGTzdNWHJEdEZLQTMtZVNac0kwaXg3blJPRGZTbGFJUUI4TXJ3OEpMTjhlQ0pUczBCYm9veFJGYWozWWJqY3dILUpEN09fRkhQbWJUbU9FZFJiTS1udjVma0hDa1ZfZw"
     },
     {
-      "title": "Washington nonprofit Better Markets sues Federal Reserve over capital rule overhaul - reuters.com",
+      "title": "Washington nonprofit Better Markets sues Federal Reserve over capital rule overhaul - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQb3hQU3Y4VWFmRkpaUll6bmx3MzFKYlFzS0x6VjNsc1ZjdjZCUDhaYVdxdXRFSUd5bGFScjdZWHJLaGx6ZDdROUd1SnpzbE5NaWxpa3d6OGJqX000QThqOGVxUXZrdnE2djFJSHp6Z1YzTVlIUzNHcjliMmVfU0Ixb21jNmRudUwxeWItZTlSUDhpaTRNbmRMbndpZWVEOW1TSWdvR2ZxYXZVQXc0SFllLWI3UlM0Z2k0XzcxRWpFR0E3UUo1bjczRXNR?oc=5",
-      "source": "reuters.com",
+      "source": "Reuters",
       "published_at": "Thu, 10 Sep 2026 19:20:55 GMT",
-      "summary": "Washington nonprofit Better Markets sues Federal Reserve over capital rule overhaul reuters.com",
+      "summary": "Washington nonprofit Better Markets sues Federal Reserve over capital rule overhaul Reuters",
       "guid": "CBMiygFBVV95cUxQb3hQU3Y4VWFmRkpaUll6bmx3MzFKYlFzS0x6VjNsc1ZjdjZCUDhaYVdxdXRFSUd5bGFScjdZWHJLaGx6ZDdROUd1SnpzbE5NaWxpa3d6OGJqX000QThqOGVxUXZrdnE2djFJSHp6Z1YzTVlIUzNHcjliMmVfU0Ixb21jNmRudUwxeWItZTlSUDhpaTRNbmRMbndpZWVEOW1TSWdvR2ZxYXZVQXc0SFllLWI3UlM0Z2k0XzcxRWpFR0E3UUo1bjczRXNR"
     },
     {
@@ -63,14 +71,6 @@
       "guid": "CBMijwFBVV95cUxQbXNYMTlJZ29tT3hkMDI5X3lWVjZ3a000eGpVd2taS0JIQ01sMlFYOUs0a0xGWkVBa1BVeXJRd1pBRmJsME5WelBuTDFqb2tscko5RjZQTWZFT0h2ejk2RXNWWXZwQ1Q3bklueHFDU0k5TEhhZ0IwNHFVcUhITTRYRk5uVmZqelZMUFI2N3puOA"
     },
     {
-      "title": "Stocks slip on Wall Street under pressure from rising oil prices, bond sell-off - PBS",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVUpDbXlNdGxqU3l1LVBFQ1drbmNpcU40UmxDTldlNlBiOE9aazU2bVg1VE1qOXAtM1Z3VlBIUHNpN1NMWlZlSm9DY3cxLVdjTVNDcFZPUTAxUHhkNFMwUW9WQWVPUnlKZ2Fqc3dBRUV3aTNfU3JVWlVCYk56cC12clA4dGFRN2hoYWg2cUMybmh4ZkEtV0d0VTdZTDQwYUVBV01oRmxPMmxnMENCc3BkY0xpWU5mZ9IBuwFBVV95cUxPbVR0dUcteGhCV0s5UmFidkNta0didWVNOVk1WTRkUTJYbDZnTjhBOTJsNFNZMWUwdm00S0g4WmNLbm9vS3d0UkVoc3FWZXZOcmNBRjNqSGtCd0JFa3RxTVY1Wks1OW1hVDdlMFp6eUFMUFNMWkprcjB5eFlqdldxT3BCaDJLczJkdDhSREN2Y29QX0tUOWROZk4xd2M3bEZiVGRrTDZDeXZXV3RydTZ0bl9aV0JFWVJXc2U4?oc=5",
-      "source": "PBS",
-      "published_at": "Tue, 01 Sep 2026 07:00:00 GMT",
-      "summary": "Stocks slip on Wall Street under pressure from rising oil prices, bond sell-off PBS",
-      "guid": "CBMitgFBVV95cUxNVUpDbXlNdGxqU3l1LVBFQ1drbmNpcU40UmxDTldlNlBiOE9aazU2bVg1VE1qOXAtM1Z3VlBIUHNpN1NMWlZlSm9DY3cxLVdjTVNDcFZPUTAxUHhkNFMwUW9WQWVPUnlKZ2Fqc3dBRUV3aTNfU3JVWlVCYk56cC12clA4dGFRN2hoYWg2cUMybmh4ZkEtV0d0VTdZTDQwYUVBV01oRmxPMmxnMENCc3BkY0xpWU5mZ9IBuwFBVV95cUxPbVR0dUcteGhCV0s5UmFidkNta0didWVNOVk1WTRkUTJYbDZnTjhBOTJsNFNZMWUwdm00S0g4WmNLbm9vS3d0UkVoc3FWZXZOcmNBRjNqSGtCd0JFa3RxTVY1Wks1OW1hVDdlMFp6eUFMUFNMWkprcjB5eFlqdldxT3BCaDJLczJkdDhSREN2Y29QX0tUOWROZk4xd2M3bEZiVGRrTDZDeXZXV3RydTZ0bl9aV0JFWVJXc2U4"
-    },
-    {
       "title": "Has Broader Stock Market Participation Changed How Interest Rates Affect the Economy? - Liberty Street Economics",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVmRkbElMU1FXQjRfTUQzVldXNVQ1TktDekgtT2Q1cThUQWJzZno2OHc1dDY2Z2JVdDl0N3pRX0JiZFVlUW8wSENySUtRTk9zT2huMlVPMGlVRzltaV9wZmp4QjI5MnFhbDR5bFIwV0NpWUFwQkxLRmZ0OGFXUzZTM0xaMmVYVnd0anQ1bG1zRFVfODZHdGp1RmpFZDVyODdmZF93UVVBT0tKZTA4Wkk2WHpURE8zSU5wUUNkV09wd0ZYV2lFZ2pkLXdFTlZ2N042NTNzc3RR?oc=5",
       "source": "Liberty Street Economics",
@@ -79,12 +79,12 @@
       "guid": "CBMi1gFBVV95cUxOVmRkbElMU1FXQjRfTUQzVldXNVQ1TktDekgtT2Q1cThUQWJzZno2OHc1dDY2Z2JVdDl0N3pRX0JiZFVlUW8wSENySUtRTk9zT2huMlVPMGlVRzltaV9wZmp4QjI5MnFhbDR5bFIwV0NpWUFwQkxLRmZ0OGFXUzZTM0xaMmVYVnd0anQ1bG1zRFVfODZHdGp1RmpFZDVyODdmZF93UVVBT0tKZTA4Wkk2WHpURE8zSU5wUUNkV09wd0ZYV2lFZ2pkLXdFTlZ2N042NTNzc3RR"
     },
     {
-      "title": "S&P 500 ends down as Treasury yields rise and traders fret about inflation - reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVUNZS2ZwczJmM0x1aEM5ZFJMbUhWckRSOE54a1NyTFZjb1NaNFNCZDFwOFJiMk40b1RJelZsVnhKOVNObGNGenNkZzVhUWtZRlktVzhTWk9Qc1EybkRweDk4RFRRUjh2bk1TU0lJazBncUFnUlcwcTlPVWY3NjBzdWVUd3JGTDlLeF9EMU1aTnEzSDctTVcxZVdzT1RZclZjanRhbkl3?oc=5",
-      "source": "reuters.com",
-      "published_at": "Thu, 10 Sep 2026 22:55:15 GMT",
-      "summary": "S&P 500 ends down as Treasury yields rise and traders fret about inflation reuters.com",
-      "guid": "CBMipgFBVV95cUxPVUNZS2ZwczJmM0x1aEM5ZFJMbUhWckRSOE54a1NyTFZjb1NaNFNCZDFwOFJiMk40b1RJelZsVnhKOVNObGNGenNkZzVhUWtZRlktVzhTWk9Qc1EybkRweDk4RFRRUjh2bk1TU0lJazBncUFnUlcwcTlPVWY3NjBzdWVUd3JGTDlLeF9EMU1aTnEzSDctTVcxZVdzT1RZclZjanRhbkl3"
+      "title": "Fed Rate Hike Close To A Lock; Clarity Act Vote Looms: Week Ahead - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVFBmZkIxWGw5QmJfYUg4OUl3TUx1OGl6YkNvbDJfNnY3V3U4T2J0YThZV1hjV0c1NGZHenpVQVNyR0p6VG45aUdZS0hzVklYbUwwcnBnR2l1TC03ZzZObFlwRHBUN09DOHVNcmFDNHZkSVgwT3NTT2licDNmeHhVOWg0U3pXSjlpWFJTa3RTVWM1U0FmcUFaX2lDY2xtckRKVjh6enQyWHZaY1lIdlBLdU8tTDVXTFlNelJrODR1WXMxZkpPck1nRkFlYw?oc=5",
+      "source": "Investor's Business Daily",
+      "published_at": "Fri, 11 Sep 2026 15:39:00 GMT",
+      "summary": "Fed Rate Hike Close To A Lock; Clarity Act Vote Looms: Week Ahead Investor's Business Daily",
+      "guid": "CBMiywFBVV95cUxNVFBmZkIxWGw5QmJfYUg4OUl3TUx1OGl6YkNvbDJfNnY3V3U4T2J0YThZV1hjV0c1NGZHenpVQVNyR0p6VG45aUdZS0hzVklYbUwwcnBnR2l1TC03ZzZObFlwRHBUN09DOHVNcmFDNHZkSVgwT3NTT2licDNmeHhVOWg0U3pXSjlpWFJTa3RTVWM1U0FmcUFaX2lDY2xtckRKVjh6enQyWHZaY1lIdlBLdU8tTDVXTFlNelJrODR1WXMxZkpPck1nRkFlYw"
     }
   ]
 }
