@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-09-11T15:11:13Z",
+  "generated_at": "2026-09-11T18:28:42Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "Wall Street thought the Powell hike was over. Now Kevin Warsh has his ‘back against the wall’ - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BQ3dpbUlmQThkUFF1SlZNVWptZHRSaVR6VVNLMkswYVZ6YWdjaThoWGxEQ3JkSi1XS09rVWdBZXhNbjEyX08yMDZlWFVYX2VZOVF0X1pvbnlHandTYkJJS3B2ekFjZUg4RG5mcUtXczRndnc?oc=5",
+      "source": "Fortune",
+      "published_at": "Fri, 11 Sep 2026 17:14:00 GMT",
+      "summary": "Wall Street thought the Powell hike was over. Now Kevin Warsh has his ‘back against the wall’ Fortune",
+      "guid": "CBMic0FVX3lxTE9BQ3dpbUlmQThkUFF1SlZNVWptZHRSaVR6VVNLMkswYVZ6YWdjaThoWGxEQ3JkSi1XS09rVWdBZXhNbjEyX08yMDZlWFVYX2VZOVF0X1pvbnlHandTYkJJS3B2ekFjZUg4RG5mcUtXczRndnc"
+    },
     {
       "title": "Stock Market Investors Just Got a Warning From the Federal Reserve. History Says This Will Happen Next. - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSEtvRVM0WUFYTS1RTzN0MHBLeC1DVmc2TUhaZGVqOFhTZ0NFTUZxUWxLQlRvdEE0WXRZVHp2bDZwTVhQQ29teHFoUGp5cERScWl6UXFFMFRMVmlKOU8xbldPUHhaOGVPME5jV3dqeXZMSktHeTJhX3FYemtoLVlPNWRLQk1TZVNDU3BHcDJvTm41UzQwbzBqcVdsa18?oc=5",
@@ -15,20 +23,28 @@
       "guid": "CBMinAFBVV95cUxNSEtvRVM0WUFYTS1RTzN0MHBLeC1DVmc2TUhaZGVqOFhTZ0NFTUZxUWxLQlRvdEE0WXRZVHp2bDZwTVhQQ29teHFoUGp5cERScWl6UXFFMFRMVmlKOU8xbldPUHhaOGVPME5jV3dqeXZMSktHeTJhX3FYemtoLVlPNWRLQk1TZVNDU3BHcDJvTm41UzQwbzBqcVdsa18"
     },
     {
-      "title": "Washington nonprofit Better Markets sues Federal Reserve over capital rule overhaul - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQb3hQU3Y4VWFmRkpaUll6bmx3MzFKYlFzS0x6VjNsc1ZjdjZCUDhaYVdxdXRFSUd5bGFScjdZWHJLaGx6ZDdROUd1SnpzbE5NaWxpa3d6OGJqX000QThqOGVxUXZrdnE2djFJSHp6Z1YzTVlIUzNHcjliMmVfU0Ixb21jNmRudUwxeWItZTlSUDhpaTRNbmRMbndpZWVEOW1TSWdvR2ZxYXZVQXc0SFllLWI3UlM0Z2k0XzcxRWpFR0E3UUo1bjczRXNR?oc=5",
-      "source": "Reuters",
-      "published_at": "Thu, 10 Sep 2026 19:20:55 GMT",
-      "summary": "Washington nonprofit Better Markets sues Federal Reserve over capital rule overhaul Reuters",
-      "guid": "CBMiygFBVV95cUxQb3hQU3Y4VWFmRkpaUll6bmx3MzFKYlFzS0x6VjNsc1ZjdjZCUDhaYVdxdXRFSUd5bGFScjdZWHJLaGx6ZDdROUd1SnpzbE5NaWxpa3d6OGJqX000QThqOGVxUXZrdnE2djFJSHp6Z1YzTVlIUzNHcjliMmVfU0Ixb21jNmRudUwxeWItZTlSUDhpaTRNbmRMbndpZWVEOW1TSWdvR2ZxYXZVQXc0SFllLWI3UlM0Z2k0XzcxRWpFR0E3UUo1bjczRXNR"
+      "title": "Fed Rate Hike Close To A Lock; Clarity Act Vote Looms: Week Ahead - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVFBmZkIxWGw5QmJfYUg4OUl3TUx1OGl6YkNvbDJfNnY3V3U4T2J0YThZV1hjV0c1NGZHenpVQVNyR0p6VG45aUdZS0hzVklYbUwwcnBnR2l1TC03ZzZObFlwRHBUN09DOHVNcmFDNHZkSVgwT3NTT2licDNmeHhVOWg0U3pXSjlpWFJTa3RTVWM1U0FmcUFaX2lDY2xtckRKVjh6enQyWHZaY1lIdlBLdU8tTDVXTFlNelJrODR1WXMxZkpPck1nRkFlYw?oc=5",
+      "source": "Investor's Business Daily",
+      "published_at": "Fri, 11 Sep 2026 15:39:00 GMT",
+      "summary": "Fed Rate Hike Close To A Lock; Clarity Act Vote Looms: Week Ahead Investor's Business Daily",
+      "guid": "CBMiywFBVV95cUxNVFBmZkIxWGw5QmJfYUg4OUl3TUx1OGl6YkNvbDJfNnY3V3U4T2J0YThZV1hjV0c1NGZHenpVQVNyR0p6VG45aUdZS0hzVklYbUwwcnBnR2l1TC03ZzZObFlwRHBUN09DOHVNcmFDNHZkSVgwT3NTT2licDNmeHhVOWg0U3pXSjlpWFJTa3RTVWM1U0FmcUFaX2lDY2xtckRKVjh6enQyWHZaY1lIdlBLdU8tTDVXTFlNelJrODR1WXMxZkpPck1nRkFlYw"
     },
     {
       "title": "Why Stocks Could Weather Coming Rate Hikes Just Fine - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQzV2YmNvdmNPSWxQckk2VGJFaUZnVDdjdWduZGE0UkJVTGwzX2swcVFGSDVaWVVTWkJUajJpMUpGTzdNWHJEdEZLQTMtZVNac0kwaXg3blJPRGZTbGFJUUI4TXJ3OEpMTjhlQ0pUczBCYm9veFJGYWozWWJqY3dILUpEN09fRkhQbWJUbU9FZFJiTS1udjVma0hDa1ZfZw?oc=5",
       "source": "Business Insider",
-      "published_at": "Fri, 11 Sep 2026 09:15:00 GMT",
+      "published_at": "Fri, 11 Sep 2026 09:16:11 GMT",
       "summary": "Why Stocks Could Weather Coming Rate Hikes Just Fine Business Insider",
       "guid": "CBMingFBVV95cUxPQzV2YmNvdmNPSWxQckk2VGJFaUZnVDdjdWduZGE0UkJVTGwzX2swcVFGSDVaWVVTWkJUajJpMUpGTzdNWHJEdEZLQTMtZVNac0kwaXg3blJPRGZTbGFJUUI4TXJ3OEpMTjhlQ0pUczBCYm9veFJGYWozWWJqY3dILUpEN09fRkhQbWJUbU9FZFJiTS1udjVma0hDa1ZfZw"
+    },
+    {
+      "title": "Washington nonprofit Better Markets sues Federal Reserve over capital rule overhaul - reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQb3hQU3Y4VWFmRkpaUll6bmx3MzFKYlFzS0x6VjNsc1ZjdjZCUDhaYVdxdXRFSUd5bGFScjdZWHJLaGx6ZDdROUd1SnpzbE5NaWxpa3d6OGJqX000QThqOGVxUXZrdnE2djFJSHp6Z1YzTVlIUzNHcjliMmVfU0Ixb21jNmRudUwxeWItZTlSUDhpaTRNbmRMbndpZWVEOW1TSWdvR2ZxYXZVQXc0SFllLWI3UlM0Z2k0XzcxRWpFR0E3UUo1bjczRXNR?oc=5",
+      "source": "reuters.com",
+      "published_at": "Thu, 10 Sep 2026 19:20:55 GMT",
+      "summary": "Washington nonprofit Better Markets sues Federal Reserve over capital rule overhaul reuters.com",
+      "guid": "CBMiygFBVV95cUxQb3hQU3Y4VWFmRkpaUll6bmx3MzFKYlFzS0x6VjNsc1ZjdjZCUDhaYVdxdXRFSUd5bGFScjdZWHJLaGx6ZDdROUd1SnpzbE5NaWxpa3d6OGJqX000QThqOGVxUXZrdnE2djFJSHp6Z1YzTVlIUzNHcjliMmVfU0Ixb21jNmRudUwxeWItZTlSUDhpaTRNbmRMbndpZWVEOW1TSWdvR2ZxYXZVQXc0SFllLWI3UlM0Z2k0XzcxRWpFR0E3UUo1bjczRXNR"
     },
     {
       "title": "‘You’ll See a Sell-Off’: Jeremy Siegel Warns Stocks Could Drop If This Happens, Says Kevin Warsh May Have to ‘Bite the Bullet’ Despite Trump Pressure - TradingView",
@@ -55,36 +71,20 @@
       "guid": "CBMitgFBVV95cUxNVUpDbXlNdGxqU3l1LVBFQ1drbmNpcU40UmxDTldlNlBiOE9aazU2bVg1VE1qOXAtM1Z3VlBIUHNpN1NMWlZlSm9DY3cxLVdjTVNDcFZPUTAxUHhkNFMwUW9WQWVPUnlKZ2Fqc3dBRUV3aTNfU3JVWlVCYk56cC12clA4dGFRN2hoYWg2cUMybmh4ZkEtV0d0VTdZTDQwYUVBV01oRmxPMmxnMENCc3BkY0xpWU5mZ9IBuwFBVV95cUxPbVR0dUcteGhCV0s5UmFidkNta0didWVNOVk1WTRkUTJYbDZnTjhBOTJsNFNZMWUwdm00S0g4WmNLbm9vS3d0UkVoc3FWZXZOcmNBRjNqSGtCd0JFa3RxTVY1Wks1OW1hVDdlMFp6eUFMUFNMWkprcjB5eFlqdldxT3BCaDJLczJkdDhSREN2Y29QX0tUOWROZk4xd2M3bEZiVGRrTDZDeXZXV3RydTZ0bl9aV0JFWVJXc2U4"
     },
     {
-      "title": "US Stock Futures Recover as Oracle Gains Before Inflation Data - mezha.net",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9EN0pQTHJNMTI4eFBYTThIOVgyU2QxZ3c4RVRGUGhtNmNhQ0g3dTdkVFBlNXlIdzJGWVlCZnd4WmNQRGNRVU9WdzUxQ3c2UDc0RXY3cWJKZ1JWaFFUUEpzdWk4bw?oc=5",
-      "source": "mezha.net",
-      "published_at": "Fri, 11 Sep 2026 12:30:53 GMT",
-      "summary": "US Stock Futures Recover as Oracle Gains Before Inflation Data mezha.net",
-      "guid": "CBMiY0FVX3lxTE9EN0pQTHJNMTI4eFBYTThIOVgyU2QxZ3c4RVRGUGhtNmNhQ0g3dTdkVFBlNXlIdzJGWVlCZnd4WmNQRGNRVU9WdzUxQ3c2UDc0RXY3cWJKZ1JWaFFUUEpzdWk4bw"
+      "title": "Has Broader Stock Market Participation Changed How Interest Rates Affect the Economy? - Liberty Street Economics",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVmRkbElMU1FXQjRfTUQzVldXNVQ1TktDekgtT2Q1cThUQWJzZno2OHc1dDY2Z2JVdDl0N3pRX0JiZFVlUW8wSENySUtRTk9zT2huMlVPMGlVRzltaV9wZmp4QjI5MnFhbDR5bFIwV0NpWUFwQkxLRmZ0OGFXUzZTM0xaMmVYVnd0anQ1bG1zRFVfODZHdGp1RmpFZDVyODdmZF93UVVBT0tKZTA4Wkk2WHpURE8zSU5wUUNkV09wd0ZYV2lFZ2pkLXdFTlZ2N042NTNzc3RR?oc=5",
+      "source": "Liberty Street Economics",
+      "published_at": "Wed, 19 Aug 2026 07:00:00 GMT",
+      "summary": "Has Broader Stock Market Participation Changed How Interest Rates Affect the Economy? Liberty Street Economics",
+      "guid": "CBMi1gFBVV95cUxOVmRkbElMU1FXQjRfTUQzVldXNVQ1TktDekgtT2Q1cThUQWJzZno2OHc1dDY2Z2JVdDl0N3pRX0JiZFVlUW8wSENySUtRTk9zT2huMlVPMGlVRzltaV9wZmp4QjI5MnFhbDR5bFIwV0NpWUFwQkxLRmZ0OGFXUzZTM0xaMmVYVnd0anQ1bG1zRFVfODZHdGp1RmpFZDVyODdmZF93UVVBT0tKZTA4Wkk2WHpURE8zSU5wUUNkV09wd0ZYV2lFZ2pkLXdFTlZ2N042NTNzc3RR"
     },
     {
-      "title": "A Tiny Shift in the Inflation Rate Could Decide the Fed’s Next Move - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU2VrRkdPcXF6U3ZvMTdqQ1pLT2Jua0N1MHlyQXM4c2hNN1M0SEY4bHZMakxwZm9jRjRKUHpsdnFuemtxSjFLZUhSVFJSTE41NzJQajl5M09PSlZNbkczMlZHTGN4U2wyalN2SnJiZG1JT3Roem00c0hmRXlRX3gtZzRNM2RBaS05VkRabUVSenVyUUV1ODQwUUNyTlE?oc=5",
-      "source": "WSJ",
-      "published_at": "Thu, 10 Sep 2026 01:00:00 GMT",
-      "summary": "A Tiny Shift in the Inflation Rate Could Decide the Fed’s Next Move WSJ",
-      "guid": "CBMinAFBVV95cUxQU2VrRkdPcXF6U3ZvMTdqQ1pLT2Jua0N1MHlyQXM4c2hNN1M0SEY4bHZMakxwZm9jRjRKUHpsdnFuemtxSjFLZUhSVFJSTE41NzJQajl5M09PSlZNbkczMlZHTGN4U2wyalN2SnJiZG1JT3Roem00c0hmRXlRX3gtZzRNM2RBaS05VkRabUVSenVyUUV1ODQwUUNyTlE"
-    },
-    {
-      "title": "S&P 500 ends down as Treasury yields rise and traders fret about inflation - Reuters",
+      "title": "S&P 500 ends down as Treasury yields rise and traders fret about inflation - reuters.com",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVUNZS2ZwczJmM0x1aEM5ZFJMbUhWckRSOE54a1NyTFZjb1NaNFNCZDFwOFJiMk40b1RJelZsVnhKOVNObGNGenNkZzVhUWtZRlktVzhTWk9Qc1EybkRweDk4RFRRUjh2bk1TU0lJazBncUFnUlcwcTlPVWY3NjBzdWVUd3JGTDlLeF9EMU1aTnEzSDctTVcxZVdzT1RZclZjanRhbkl3?oc=5",
-      "source": "Reuters",
+      "source": "reuters.com",
       "published_at": "Thu, 10 Sep 2026 22:55:15 GMT",
-      "summary": "S&P 500 ends down as Treasury yields rise and traders fret about inflation Reuters",
+      "summary": "S&P 500 ends down as Treasury yields rise and traders fret about inflation reuters.com",
       "guid": "CBMipgFBVV95cUxPVUNZS2ZwczJmM0x1aEM5ZFJMbUhWckRSOE54a1NyTFZjb1NaNFNCZDFwOFJiMk40b1RJelZsVnhKOVNObGNGenNkZzVhUWtZRlktVzhTWk9Qc1EybkRweDk4RFRRUjh2bk1TU0lJazBncUFnUlcwcTlPVWY3NjBzdWVUd3JGTDlLeF9EMU1aTnEzSDctTVcxZVdzT1RZclZjanRhbkl3"
-    },
-    {
-      "title": "Trump pushes Fed for lower rates, but consumers may be better off with a hike, experts say - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU1FFbFpVa3M2WXNaN21VSmp0aEgteF9aaUNJVVFULVVpMndyQ1Nzd3R6c1pJdDBrQS1xWE9XQXFHVmd4dGRSQkRwRndScHVGZ2doR04yM0NTaE9tNmxiUVdEMVBRN0ZDRHhaN1FSTDF0WmtJM2d5Y2lmUTRCUUpla1Q4WXViNlBSeGJWNU9jNU5OT2RXSUHSAZsBQVVfeXFMTktsSGdLX3N3R1F6MVRpQWJpdXFQQi1KMTBwcTJfcGRTQkNGZFZ2aVFJZVhjYlpEWjJoVXczcmhvS25QZFc2NEdqWmFlYkk3RzRUQ0lwS1VjQnJKT0JtbFZwQnV3dlNnQ2piWDlreFVSN1hvZFV0TTYzS3JVM3ZJUWl5ak1EUDFDYk56dzViS3pjU0ZwVXREbS1hcFk?oc=5",
-      "source": "CNBC",
-      "published_at": "Wed, 09 Sep 2026 14:58:55 GMT",
-      "summary": "Trump pushes Fed for lower rates, but consumers may be better off with a hike, experts say CNBC",
-      "guid": "CBMilgFBVV95cUxOU1FFbFpVa3M2WXNaN21VSmp0aEgteF9aaUNJVVFULVVpMndyQ1Nzd3R6c1pJdDBrQS1xWE9XQXFHVmd4dGRSQkRwRndScHVGZ2doR04yM0NTaE9tNmxiUVdEMVBRN0ZDRHhaN1FSTDF0WmtJM2d5Y2lmUTRCUUpla1Q4WXViNlBSeGJWNU9jNU5OT2RXSUHSAZsBQVVfeXFMTktsSGdLX3N3R1F6MVRpQWJpdXFQQi1KMTBwcTJfcGRTQkNGZFZ2aVFJZVhjYlpEWjJoVXczcmhvS25QZFc2NEdqWmFlYkk3RzRUQ0lwS1VjQnJKT0JtbFZwQnV3dlNnQ2piWDlreFVSN1hvZFV0TTYzS3JVM3ZJUWl5ak1EUDFDYk56dzViS3pjU0ZwVXREbS1hcFk"
     }
   ]
 }
