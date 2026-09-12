@@ -1,19 +1,11 @@
 {
-  "generated_at": "2026-09-11T23:13:56Z",
+  "generated_at": "2026-09-12T01:06:30Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
-    {
-      "title": "U.S. Stocks Gain as Inflation Figure Boosts Odds of Rate Hike - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQTU4U2E5eHdCS1RuSzRBV3p4R0lyUVZqRkYzNWFiZDFKc1lfNmt2dmxockZfc3hiNi0ya1JkenExQXc1anNMTm55RlZ6WWI2bkxmcjl3QkRKdHlTSV96S1B2VXdCdFVuYUhuRUNWZ25wNWdMamRBU2JtTlhVamNqSkJrOTRDOHpTczZSUHBrTEJFT29KVm4wckJSWjF2SG1FcmNPSUtENWQ?oc=5",
-      "source": "WSJ",
-      "published_at": "Fri, 11 Sep 2026 18:54:00 GMT",
-      "summary": "U.S. Stocks Gain as Inflation Figure Boosts Odds of Rate Hike WSJ",
-      "guid": "CBMiqAFBVV95cUxOQTU4U2E5eHdCS1RuSzRBV3p4R0lyUVZqRkYzNWFiZDFKc1lfNmt2dmxockZfc3hiNi0ya1JkenExQXc1anNMTm55RlZ6WWI2bkxmcjl3QkRKdHlTSV96S1B2VXdCdFVuYUhuRUNWZ25wNWdMamRBU2JtTlhVamNqSkJrOTRDOHpTczZSUHBrTEJFT29KVm4wckJSWjF2SG1FcmNPSUtENWQ"
-    },
     {
       "title": "What Will Stocks Do If the Fed Raises Rates? - investopedia.com",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcWtLVV9uS2ZXeHhPZDJaNmdtSjV5OUs1NnA0NlRING9Jc2xaU0hqUEdPLXNaQUNiQTlWN3Z0V3NqQmRRSDlnbFZYYTN4Z1I1bjN3Q3M2b0MzUmEteTUyNFVSVHdkb1pKMmt4VlNleExQRmhKQXdTWFV2bVRIMWdkTUFvTUVRaV9iaGw2aTBCZGx5RVIxSEFLOGNSaw?oc=5",
@@ -39,10 +31,18 @@
       "guid": "CBMidkFVX3lxTFBNU2RSeThsVUo2Z2x3Q1BpOHV6SmU3SEpVajREV0VrYmt0SXNGVnozMGxvOXp5eXpxTjNCSExINVFjZUhnOWtXY0xfVk1lTVhJRlM5dWZvSThBU3pYUEREQkxOdGozelZIVENIamNuaUZGbTZ0Z2c"
     },
     {
+      "title": "Stock Market Today: Dow and Nasdaq Rally as U.S. Inflation Report Lifts Fed Rate-Hike Odds - Eurasia Business News",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQel9qVXBJNkowYjdCd3YxNFdYX00zX0Y2QXNScjFkNW43NWdrNGdXYWkzQkRXelo0dFNoNUlaQ0EtRDd4ajV4OG1WOWsyWW5NQ2ZQVUlQVldfUnJ2R3JyVm45dXFxS21vVGtvVENIdEV6UFdGVmp2cVJKTFQyd2k4a19zS0tzcFlLV3lhcFM1Ml80dnd3WXJTb3BmVGVxYXRQWFJmbGw4eFVUN0J3dlZsZkk2ZUpRVFh5dExtNTRBYzdzVEtLNkdRNGY3eTQ?oc=5",
+      "source": "Eurasia Business News",
+      "published_at": "Fri, 11 Sep 2026 22:11:23 GMT",
+      "summary": "Stock Market Today: Dow and Nasdaq Rally as U.S. Inflation Report Lifts Fed Rate-Hike Odds Eurasia Business News",
+      "guid": "CBMizAFBVV95cUxQel9qVXBJNkowYjdCd3YxNFdYX00zX0Y2QXNScjFkNW43NWdrNGdXYWkzQkRXelo0dFNoNUlaQ0EtRDd4ajV4OG1WOWsyWW5NQ2ZQVUlQVldfUnJ2R3JyVm45dXFxS21vVGtvVENIdEV6UFdGVmp2cVJKTFQyd2k4a19zS0tzcFlLV3lhcFM1Ml80dnd3WXJTb3BmVGVxYXRQWFJmbGw4eFVUN0J3dlZsZkk2ZUpRVFh5dExtNTRBYzdzVEtLNkdRNGY3eTQ"
+    },
+    {
       "title": "Dow Jones Futures: $100 Oil, Surging Yields Pressure Stocks With Fed Rate Hike Seen. Apple, Moderna Are New Buys. - Investor's Business Daily",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNOWM1ZTV4d1ZVcjR3YTVEcEpPNlh3WnUwRG15VllLWlg3Ym93WGtCQ1lqRGFTV1BMSU54TUMtamtxZURaU2dtOXp3Sm5KUEpsaURnVURtek1NSkVYNTRlblUycnZraVpZTi0tQ1JISWtCZDRfRXpfSHVjYmw4ZXdrZGdXbjJPNTBWOFN6N19aQ3VYT0tTeEhQc3pVRG5RbEZ2NGZKUFBPS3pwamE5Njk3YkM4bEZROVJLbzVvSDhOalNyRFp4ZmloTm9RaEwxSDZ0bXZ6cVVsX0ZTTThyUmIwYzRFZE40dXViSERVVHAwNUJxdw?oc=5",
       "source": "Investor's Business Daily",
-      "published_at": "Fri, 11 Sep 2026 22:09:00 GMT",
+      "published_at": "Fri, 11 Sep 2026 23:45:00 GMT",
       "summary": "Dow Jones Futures: $100 Oil, Surging Yields Pressure Stocks With Fed Rate Hike Seen. Apple, Moderna Are New Buys. Investor's Business Daily",
       "guid": "CBMi8gFBVV95cUxNOWM1ZTV4d1ZVcjR3YTVEcEpPNlh3WnUwRG15VllLWlg3Ym93WGtCQ1lqRGFTV1BMSU54TUMtamtxZURaU2dtOXp3Sm5KUEpsaURnVURtek1NSkVYNTRlblUycnZraVpZTi0tQ1JISWtCZDRfRXpfSHVjYmw4ZXdrZGdXbjJPNTBWOFN6N19aQ3VYT0tTeEhQc3pVRG5RbEZ2NGZKUFBPS3pwamE5Njk3YkM4bEZROVJLbzVvSDhOalNyRFp4ZmloTm9RaEwxSDZ0bXZ6cVVsX0ZTTThyUmIwYzRFZE40dXViSERVVHAwNUJxdw"
     },
@@ -53,6 +53,14 @@
       "published_at": "Sun, 06 Sep 2026 09:04:00 GMT",
       "summary": "Stock Market Investors Just Got a Warning From the Federal Reserve. History Says This Will Happen Next. Yahoo Finance",
       "guid": "CBMinAFBVV95cUxNSEtvRVM0WUFYTS1RTzN0MHBLeC1DVmc2TUhaZGVqOFhTZ0NFTUZxUWxLQlRvdEE0WXRZVHp2bDZwTVhQQ29teHFoUGp5cERScWl6UXFFMFRMVmlKOU8xbldPUHhaOGVPME5jV3dqeXZMSktHeTJhX3FYemtoLVlPNWRLQk1TZVNDU3BHcDJvTm41UzQwbzBqcVdsa18"
+    },
+    {
+      "title": "U.S. Stocks Gain as Inflation Figure Boosts Odds of Rate Hike - wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQTU4U2E5eHdCS1RuSzRBV3p4R0lyUVZqRkYzNWFiZDFKc1lfNmt2dmxockZfc3hiNi0ya1JkenExQXc1anNMTm55RlZ6WWI2bkxmcjl3QkRKdHlTSV96S1B2VXdCdFVuYUhuRUNWZ25wNWdMamRBU2JtTlhVamNqSkJrOTRDOHpTczZSUHBrTEJFT29KVm4wckJSWjF2SG1FcmNPSUtENWQ?oc=5",
+      "source": "wsj.com",
+      "published_at": "Fri, 11 Sep 2026 18:54:00 GMT",
+      "summary": "U.S. Stocks Gain as Inflation Figure Boosts Odds of Rate Hike wsj.com",
+      "guid": "CBMiqAFBVV95cUxOQTU4U2E5eHdCS1RuSzRBV3p4R0lyUVZqRkYzNWFiZDFKc1lfNmt2dmxockZfc3hiNi0ya1JkenExQXc1anNMTm55RlZ6WWI2bkxmcjl3QkRKdHlTSV96S1B2VXdCdFVuYUhuRUNWZ25wNWdMamRBU2JtTlhVamNqSkJrOTRDOHpTczZSUHBrTEJFT29KVm4wckJSWjF2SG1FcmNPSUtENWQ"
     },
     {
       "title": "Why Stocks Could Weather Coming Rate Hikes Just Fine - Business Insider",
@@ -77,14 +85,6 @@
       "published_at": "Fri, 17 Jul 2026 06:37:05 GMT",
       "summary": "Recent Economic and Financial Developments Federal Reserve (.gov)",
       "guid": "CBMidkFVX3lxTE9KWEN6M3VsdUJpS3YyUzBfc0JpcHhrY3J4LXhhUE90UkdqS1N1OWxCZGw1cWxveExZZ1RfM0dXM1pNMk9HRVctTGNBM2xrQ2Npbjl5OFJkQV9sajMxWHhQSGpXSzNfcGppZDhEaHFraFhUZ0puWFE"
-    },
-    {
-      "title": "‘You’ll See a Sell-Off’: Jeremy Siegel Warns Stocks Could Drop If This Happens, Says Kevin Warsh May Have to ‘Bite the Bullet’ Despite Trump Pressure - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPbTU2QTFKRERRcV9tSHFPUk1CSHNPU0lsY2w1SHZCdUgtU2ppZUJwZVUxLVVjX0VuUUdDS29wMlVUNWRGcDNvdXZvY1lLVmtNeWoyb1piSkx0dnFUbXhLVi1CQnRIc0JHd3FVaXJLdEpsTzY1QUQtejU5STlTdTNRSms5UEpaOGNZbGdyb29DTGhIT19Yb3VONHdkbTA2bmZDMDUtNnVoQ2RMbVgxOWFxeEw3Rml6RjZmZlZwNHQ2b1U5c3JRc3pLZjJtVDNHVkgtamVoa0t2Y2dQc0pRSDlzN2xGR3hxVlpqUEF3U1dKc0VPOVRuRTFFV0FoQk5MczJCN1p2LVR5b3NNQVd6ci05anJPRGFLbmo1ZEQ5M19IS0IweUtYMzRUdG9R?oc=5",
-      "source": "TradingView",
-      "published_at": "Fri, 11 Sep 2026 13:31:45 GMT",
-      "summary": "‘You’ll See a Sell-Off’: Jeremy Siegel Warns Stocks Could Drop If This Happens, Says Kevin Warsh May Have to ‘Bite the Bullet’ Despite Trump Pressure TradingView",
-      "guid": "CBMiqgJBVV95cUxPbTU2QTFKRERRcV9tSHFPUk1CSHNPU0lsY2w1SHZCdUgtU2ppZUJwZVUxLVVjX0VuUUdDS29wMlVUNWRGcDNvdXZvY1lLVmtNeWoyb1piSkx0dnFUbXhLVi1CQnRIc0JHd3FVaXJLdEpsTzY1QUQtejU5STlTdTNRSms5UEpaOGNZbGdyb29DTGhIT19Yb3VONHdkbTA2bmZDMDUtNnVoQ2RMbVgxOWFxeEw3Rml6RjZmZlZwNHQ2b1U5c3JRc3pLZjJtVDNHVkgtamVoa0t2Y2dQc0pRSDlzN2xGR3hxVlpqUEF3U1dKc0VPOVRuRTFFV0FoQk5MczJCN1p2LVR5b3NNQVd6ci05anJPRGFLbmo1ZEQ5M19IS0IweUtYMzRUdG9R"
     }
   ]
 }
