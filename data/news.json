@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T14:21:28Z",
+  "generated_at": "2026-09-13T17:28:57Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,12 +7,28 @@
   },
   "items": [
     {
-      "title": "Dow Jones Futures: Fed Rate Hike Seen As Oil, Yields Pressure Stocks; Apple, Moderna Are New Buys - Investor's Business Daily",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNOWM1ZTV4d1ZVcjR3YTVEcEpPNlh3WnUwRG15VllLWlg3Ym93WGtCQ1lqRGFTV1BMSU54TUMtamtxZURaU2dtOXp3Sm5KUEpsaURnVURtek1NSkVYNTRlblUycnZraVpZTi0tQ1JISWtCZDRfRXpfSHVjYmw4ZXdrZGdXbjJPNTBWOFN6N19aQ3VYT0tTeEhQc3pVRG5RbEZ2NGZKUFBPS3pwamE5Njk3YkM4bEZROVJLbzVvSDhOalNyRFp4ZmloTm9RaEwxSDZ0bXZ6cVVsX0ZTTThyUmIwYzRFZE40dXViSERVVHAwNUJxdw?oc=5",
+      "title": "Top WH economic advisor: ‘Yes’ Trump will accept potential Fed interest rate hike - cnn.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeE1uZnVSR1hEaG5najRSVkx1ckVVeDZHd1g0MUNpYXBDWlJTaFB0VjdhblJrVG0tRU1wcGE2aHdQY2xoSHZ2R3R5M0lGNW9icjRabER0d0ZLMDloV0FtWlY4aFVyTnNILWFpaEpJU2Z1TFdKRXpRVkhHMVFaU0RMUTlJeC1sem8?oc=5",
+      "source": "cnn.com",
+      "published_at": "Sun, 13 Sep 2026 14:13:45 GMT",
+      "summary": "Top WH economic advisor: ‘Yes’ Trump will accept potential Fed interest rate hike cnn.com",
+      "guid": "CBMihwFBVV95cUxQeE1uZnVSR1hEaG5najRSVkx1ckVVeDZHd1g0MUNpYXBDWlJTaFB0VjdhblJrVG0tRU1wcGE2aHdQY2xoSHZ2R3R5M0lGNW9icjRabER0d0ZLMDloV0FtWlY4aFVyTnNILWFpaEpJU2Z1TFdKRXpRVkhHMVFaU0RMUTlJeC1sem8"
+    },
+    {
+      "title": "What to Expect in Markets This Week: Fed Interest-Rate Decision; U.S. Retail Sales Data; Salesforce Conference - investopedia.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTzd3emRxb0pBb180Y1k0U2k4amZlaUEwX0p4QndKOXNKVXJRUHhwX25zd0wwLU9aMzZzeG0ycVl5YzhrSTVVN2QzTjhMTldkWGZTamU0TGdZRFJCMUlMOVYyQUZ0d21TZVR5LVZMQnpidzNabWVUWXRLY0RYQzZFTlE1SmowSDdKa010b0JlaGpNcUNEY3JITFlZN1hTQ3RKQ0JuOS1wc3luLW1ESF9aTHMxMXRKMDl6TFhrV3pXWQ?oc=5",
+      "source": "investopedia.com",
+      "published_at": "Sun, 13 Sep 2026 09:00:00 GMT",
+      "summary": "What to Expect in Markets This Week: Fed Interest-Rate Decision; U.S. Retail Sales Data; Salesforce Conference investopedia.com",
+      "guid": "CBMivwFBVV95cUxOTzd3emRxb0pBb180Y1k0U2k4amZlaUEwX0p4QndKOXNKVXJRUHhwX25zd0wwLU9aMzZzeG0ycVl5YzhrSTVVN2QzTjhMTldkWGZTamU0TGdZRFJCMUlMOVYyQUZ0d21TZVR5LVZMQnpidzNabWVUWXRLY0RYQzZFTlE1SmowSDdKa010b0JlaGpNcUNEY3JITFlZN1hTQ3RKQ0JuOS1wc3luLW1ESF9aTHMxMXRKMDl6TFhrV3pXWQ"
+    },
+    {
+      "title": "Trump Urges Federal Reserve To Cut Rates As Market Bets On Warsh Hike - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaEVOMUNfTUZvb2hraDdJWDJDMTVJM21kSjJVV2lOdll4R09DQWZtcVZCZmIySE9QMW11dU1NMlUzazdRYmQzcUhTLURxcDhYeXQwbldmeGMyNGlpREJlMTQ2SXl0bEc1YWFUUzdWdnlkZTNYUjZLSnBwUkp6QXlTd18yVGlZYnJSTnktN0JpSU82amFfRk1uWXhwMA?oc=5",
       "source": "Investor's Business Daily",
-      "published_at": "Sun, 13 Sep 2026 11:57:00 GMT",
-      "summary": "Dow Jones Futures: Fed Rate Hike Seen As Oil, Yields Pressure Stocks; Apple, Moderna Are New Buys Investor's Business Daily",
-      "guid": "CBMi8gFBVV95cUxNOWM1ZTV4d1ZVcjR3YTVEcEpPNlh3WnUwRG15VllLWlg3Ym93WGtCQ1lqRGFTV1BMSU54TUMtamtxZURaU2dtOXp3Sm5KUEpsaURnVURtek1NSkVYNTRlblUycnZraVpZTi0tQ1JISWtCZDRfRXpfSHVjYmw4ZXdrZGdXbjJPNTBWOFN6N19aQ3VYT0tTeEhQc3pVRG5RbEZ2NGZKUFBPS3pwamE5Njk3YkM4bEZROVJLbzVvSDhOalNyRFp4ZmloTm9RaEwxSDZ0bXZ6cVVsX0ZTTThyUmIwYzRFZE40dXViSERVVHAwNUJxdw"
+      "published_at": "Sun, 13 Sep 2026 15:32:00 GMT",
+      "summary": "Trump Urges Federal Reserve To Cut Rates As Market Bets On Warsh Hike Investor's Business Daily",
+      "guid": "CBMimwFBVV95cUxPaEVOMUNfTUZvb2hraDdJWDJDMTVJM21kSjJVV2lOdll4R09DQWZtcVZCZmIySE9QMW11dU1NMlUzazdRYmQzcUhTLURxcDhYeXQwbldmeGMyNGlpREJlMTQ2SXl0bEc1YWFUUzdWdnlkZTNYUjZLSnBwUkp6QXlTd18yVGlZYnJSTnktN0JpSU82amFfRk1uWXhwMA"
     },
     {
       "title": "Why Stocks Could Weather Coming Rate Hikes Just Fine - Business Insider",
@@ -31,20 +47,20 @@
       "guid": "CBMikwJBVV95cUxOWGdJYVhmZHg0LTY4U1lqNlJMeFVFRE9SbjRTWFE1TER6ZWk0R3pWaWNkOVZXWmFUTXd3T1ZVc1JfVzRCLTFGRVdBS0Yyek5uNm1aREE0eWFZdHZyZUdseTB3NmkxQXlwWUc0RlA5VVBPeWt2emRvSHhfb2NzZFdJMkNrd1JQLXNVZThtWWQ5SXlNUzRDOE01cVNVQlhfcjhBck04NzZHNWYyZUZ1QmpWS3dxT2t6TklRelRHd0lHcHdrbHhYcXc1YTlBM1BFUUF6bnVla3RHWmxzWVFwR01HVDJiM1NuSWZMNVRkUThzeERCY3ltZXcwMjdaUzVCQmE3VVFFM280Si1LTkZzcjlmTnBPZw"
     },
     {
-      "title": "U.S. Stocks Gain as Inflation Figure Boosts Odds of Rate Hike - WSJ",
+      "title": "U.S. Stocks Gain as Inflation Figure Boosts Odds of Rate Hike - wsj.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQTU4U2E5eHdCS1RuSzRBV3p4R0lyUVZqRkYzNWFiZDFKc1lfNmt2dmxockZfc3hiNi0ya1JkenExQXc1anNMTm55RlZ6WWI2bkxmcjl3QkRKdHlTSV96S1B2VXdCdFVuYUhuRUNWZ25wNWdMamRBU2JtTlhVamNqSkJrOTRDOHpTczZSUHBrTEJFT29KVm4wckJSWjF2SG1FcmNPSUtENWQ?oc=5",
-      "source": "WSJ",
+      "source": "wsj.com",
       "published_at": "Fri, 11 Sep 2026 18:54:00 GMT",
-      "summary": "U.S. Stocks Gain as Inflation Figure Boosts Odds of Rate Hike WSJ",
+      "summary": "U.S. Stocks Gain as Inflation Figure Boosts Odds of Rate Hike wsj.com",
       "guid": "CBMiqAFBVV95cUxOQTU4U2E5eHdCS1RuSzRBV3p4R0lyUVZqRkYzNWFiZDFKc1lfNmt2dmxockZfc3hiNi0ya1JkenExQXc1anNMTm55RlZ6WWI2bkxmcjl3QkRKdHlTSV96S1B2VXdCdFVuYUhuRUNWZ25wNWdMamRBU2JtTlhVamNqSkJrOTRDOHpTczZSUHBrTEJFT29KVm4wckJSWjF2SG1FcmNPSUtENWQ"
     },
     {
-      "title": "What Will Stocks Do If the Fed Raises Rates? - Investopedia",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcWtLVV9uS2ZXeHhPZDJaNmdtSjV5OUs1NnA0NlRING9Jc2xaU0hqUEdPLXNaQUNiQTlWN3Z0V3NqQmRRSDlnbFZYYTN4Z1I1bjN3Q3M2b0MzUmEteTUyNFVSVHdkb1pKMmt4VlNleExQRmhKQXdTWFV2bVRIMWdkTUFvTUVRaV9iaGw2aTBCZGx5RVIxSEFLOGNSaw?oc=5",
-      "source": "Investopedia",
-      "published_at": "Fri, 11 Sep 2026 16:43:52 GMT",
-      "summary": "What Will Stocks Do If the Fed Raises Rates? Investopedia",
-      "guid": "CBMimwFBVV95cUxPcWtLVV9uS2ZXeHhPZDJaNmdtSjV5OUs1NnA0NlRING9Jc2xaU0hqUEdPLXNaQUNiQTlWN3Z0V3NqQmRRSDlnbFZYYTN4Z1I1bjN3Q3M2b0MzUmEteTUyNFVSVHdkb1pKMmt4VlNleExQRmhKQXdTWFV2bVRIMWdkTUFvTUVRaV9iaGw2aTBCZGx5RVIxSEFLOGNSaw"
+      "title": "Wall St Week Ahead Investors brace for possible rate hike at uncertain Fed meeting - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVGxBNmhfdWpkb1NxVGxZb2dSOEhrM0hRcjYwakJjdHJSNkVQYjNSWVVIbnlwRDB6Wk1yMFFxNTRYdUppekd1QldEbUZSUkVCWlJzWFlrMVQyS2VTV1hXRFB4Vms3RkNqUG5MTjNGNDhZbG5odFZ6dHdubWZfbXg3Z3ZjOExGOEJZcTdiMmU3eEtiQ1lwQV9zWHk0ODZoaFN4YWZEUUlJZ3B5MTFNRGRNRzlsNmduSjZndUJZMA?oc=5",
+      "source": "Reuters",
+      "published_at": "Fri, 11 Sep 2026 10:05:00 GMT",
+      "summary": "Wall St Week Ahead Investors brace for possible rate hike at uncertain Fed meeting Reuters",
+      "guid": "CBMivAFBVV95cUxOVGxBNmhfdWpkb1NxVGxZb2dSOEhrM0hRcjYwakJjdHJSNkVQYjNSWVVIbnlwRDB6Wk1yMFFxNTRYdUppekd1QldEbUZSUkVCWlJzWFlrMVQyS2VTV1hXRFB4Vms3RkNqUG5MTjNGNDhZbG5odFZ6dHdubWZfbXg3Z3ZjOExGOEJZcTdiMmU3eEtiQ1lwQV9zWHk0ODZoaFN4YWZEUUlJZ3B5MTFNRGRNRzlsNmduSjZndUJZMA"
     },
     {
       "title": "Jim Cramer sends strong message to stock market investors - thestreet.com",
@@ -53,14 +69,6 @@
       "published_at": "Sat, 12 Sep 2026 21:44:40 GMT",
       "summary": "Jim Cramer sends strong message to stock market investors thestreet.com",
       "guid": "CBMipAFBVV95cUxONG1xbmVCV0p5TTRUclJETFMyUzJabHQ5UXhtdF8tRXFUSmdIZkNTNnB6LXMwTlRfYXBiRUxzVnRaalBkNnItWmZxbWNUdHFZX0s5ZG9qVl91ajZ0UjVnYjFpZjJraUlIaVh2V1FJSWwtWFRrcmpMRkp0dFlOVWZGdmR6SUNOMGdxMlZyTHdNTlFTbGVWVXVmbFZMRGZSbU1YeWVpOA"
-    },
-    {
-      "title": "Wall St Week Ahead Investors brace for possible rate hike at uncertain Fed meeting - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVGxBNmhfdWpkb1NxVGxZb2dSOEhrM0hRcjYwakJjdHJSNkVQYjNSWVVIbnlwRDB6Wk1yMFFxNTRYdUppekd1QldEbUZSUkVCWlJzWFlrMVQyS2VTV1hXRFB4Vms3RkNqUG5MTjNGNDhZbG5odFZ6dHdubWZfbXg3Z3ZjOExGOEJZcTdiMmU3eEtiQ1lwQV9zWHk0ODZoaFN4YWZEUUlJZ3B5MTFNRGRNRzlsNmduSjZndUJZMA?oc=5",
-      "source": "Reuters",
-      "published_at": "Fri, 11 Sep 2026 21:58:56 GMT",
-      "summary": "Wall St Week Ahead Investors brace for possible rate hike at uncertain Fed meeting Reuters",
-      "guid": "CBMivAFBVV95cUxOVGxBNmhfdWpkb1NxVGxZb2dSOEhrM0hRcjYwakJjdHJSNkVQYjNSWVVIbnlwRDB6Wk1yMFFxNTRYdUppekd1QldEbUZSUkVCWlJzWFlrMVQyS2VTV1hXRFB4Vms3RkNqUG5MTjNGNDhZbG5odFZ6dHdubWZfbXg3Z3ZjOExGOEJZcTdiMmU3eEtiQ1lwQV9zWHk0ODZoaFN4YWZEUUlJZ3B5MTFNRGRNRzlsNmduSjZndUJZMA"
     },
     {
       "title": "Stock Market Investors Just Got a Warning From the Federal Reserve. History Says This Will Happen Next. - Yahoo Finance",
@@ -77,14 +85,6 @@
       "published_at": "Fri, 11 Sep 2026 15:48:43 GMT",
       "summary": "Why the Odds of a Fed Interest Rate Hike Just Shot Higher Morningstar",
       "guid": "CBMimAFBVV95cUxQb20zQkZyVlZ4d1QwZXhTak1VNGNPTTVpWFAzTFdNSnJWZ1dxOC1LaHhKaVNNNWlTNDVRTmJGSTk5NTdQY2o1VXVVVWFVdF8tQ3ZwRU9wMVgyNVplMklDRUhzVnp3RE9Ca1dRNk1QS014SGppSEdTdER2V2pJZUxYWjgta2tSNU9vV1BwVVFfQnpsbkVjalQxbg"
-    },
-    {
-      "title": "Stock Market Today, Friday, September 11th, 2026 - stl.news",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBNU2RSeThsVUo2Z2x3Q1BpOHV6SmU3SEpVajREV0VrYmt0SXNGVnozMGxvOXp5eXpxTjNCSExINVFjZUhnOWtXY0xfVk1lTVhJRlM5dWZvSThBU3pYUEREQkxOdGozelZIVENIamNuaUZGbTZ0Z2c?oc=5",
-      "source": "stl.news",
-      "published_at": "Fri, 11 Sep 2026 21:31:27 GMT",
-      "summary": "Stock Market Today, Friday, September 11th, 2026 stl.news",
-      "guid": "CBMidkFVX3lxTFBNU2RSeThsVUo2Z2x3Q1BpOHV6SmU3SEpVajREV0VrYmt0SXNGVnozMGxvOXp5eXpxTjNCSExINVFjZUhnOWtXY0xfVk1lTVhJRlM5dWZvSThBU3pYUEREQkxOdGozelZIVENIamNuaUZGbTZ0Z2c"
     }
   ]
 }
