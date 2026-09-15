@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-09-15T18:44:03Z",
+  "generated_at": "2026-09-15T21:45:47Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "If the Fed hikes rates, here's how the stock market might respond - marketplace.org",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOalk3SWFmSEdzc2JaS3hMeFBsQk1sUy1BeWNsb0ttcWhPeFJsQnBDa19JUlk0ajFTbktnWFhVdXVRcHE3VE93bTMtTlBSRjlPMVBBdFlBSDNfY04zUy1wS0VVSXU3c3dVc1dyNXZzemxtemZwczhSczZtZWxXLTNWaUw5TXNTZF8zcjFhNXF0R3Exb1EwUmc?oc=5",
+      "source": "marketplace.org",
+      "published_at": "Tue, 15 Sep 2026 21:15:00 GMT",
+      "summary": "If the Fed hikes rates, here's how the stock market might respond marketplace.org",
+      "guid": "CBMilgFBVV95cUxOalk3SWFmSEdzc2JaS3hMeFBsQk1sUy1BeWNsb0ttcWhPeFJsQnBDa19JUlk0ajFTbktnWFhVdXVRcHE3VE93bTMtTlBSRjlPMVBBdFlBSDNfY04zUy1wS0VVSXU3c3dVc1dyNXZzemxtemZwczhSczZtZWxXLTNWaUw5TXNTZF8zcjFhNXF0R3Exb1EwUmc"
+    },
     {
       "title": "'Crazy days' and 'silly season' in the stock market raise the prospect of a 'late-stage' AI bubble finally popping - Fortune",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY01SSzBsZFpPOEl4THB6SkNuNklOSVg0NkRCSkZBYXlOOS0wRFZEcnpKajdDMHUxOFhpb3lsV1JWOWk1SzY5TnplVktib0lCSzlmbno1dWd5WVFuQkdXQThtRTdFVmhuZlRwVDdaYk0xV1FWV1pUb05ZZ1pTd3IwMGl2d3ExUnozNGExMHNhWjJNZw?oc=5",
@@ -15,12 +23,12 @@
       "guid": "CBMikgFBVV95cUxQY01SSzBsZFpPOEl4THB6SkNuNklOSVg0NkRCSkZBYXlOOS0wRFZEcnpKajdDMHUxOFhpb3lsV1JWOWk1SzY5TnplVktib0lCSzlmbno1dWd5WVFuQkdXQThtRTdFVmhuZlRwVDdaYk0xV1FWV1pUb05ZZ1pTd3IwMGl2d3ExUnozNGExMHNhWjJNZw"
     },
     {
-      "title": "US stocks slip after oil prices and the bond market crank up the pressure - Boston Herald",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE52MDU5Y0pyQ3FiSldPYm5scXlCcnYxekJrZER1VHdzM3hwWHhpSmotc3RHV0dUWmR1bGpzYXVtOUZCdEw0Q3NxZ0l3eGxOcFJQdWlmcWRXYmRUV3NFUDRqNDJfYnRSTFlXSUlCV3JhNE8xLVctc1hr?oc=5",
-      "source": "Boston Herald",
-      "published_at": "Tue, 15 Sep 2026 14:03:12 GMT",
-      "summary": "US stocks slip after oil prices and the bond market crank up the pressure Boston Herald",
-      "guid": "CBMid0FVX3lxTE52MDU5Y0pyQ3FiSldPYm5scXlCcnYxekJrZER1VHdzM3hwWHhpSmotc3RHV0dUWmR1bGpzYXVtOUZCdEw0Q3NxZ0l3eGxOcFJQdWlmcWRXYmRUV3NFUDRqNDJfYnRSTFlXSUlCV3JhNE8xLVctc1hr"
+      "title": "U.S. Stocks Down as Oil, Yield Shock Continues - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdldNN0llVjJVYnJfekk5ZGQ2ZHAwZGJjaWdhY2Q4QzhBV3FBc2EwUTZ4YTQzYzZSYnNJVThHS21JRFR1ZmpHV09BZnJNMHFfd3NNeGNxT29oRVNpTnV1WVp3cDExOVFaYnRFdjdEOWRZcnNsWkdPeVc2VjBDVDBmejNKWVgweHZjcHVyc1B5T3hjZw?oc=5",
+      "source": "WSJ",
+      "published_at": "Tue, 15 Sep 2026 20:21:00 GMT",
+      "summary": "U.S. Stocks Down as Oil, Yield Shock Continues WSJ",
+      "guid": "CBMikgFBVV95cUxOdldNN0llVjJVYnJfekk5ZGQ2ZHAwZGJjaWdhY2Q4QzhBV3FBc2EwUTZ4YTQzYzZSYnNJVThHS21JRFR1ZmpHV09BZnJNMHFfd3NNeGNxT29oRVNpTnV1WVp3cDExOVFaYnRFdjdEOWRZcnNsWkdPeVc2VjBDVDBmejNKWVgweHZjcHVyc1B5T3hjZw"
     },
     {
       "title": "Wall Street Expects Bad News From the Federal Reserve This Week. History Says a Stock Market Correction May Follow. - The Motley Fool",
@@ -31,12 +39,12 @@
       "guid": "CBMipgFBVV95cUxNRk9SQXdpS0ZwMjBha3hTN0tuWlA2S0ZmTVprTlVQdEZFMVBWZzdERTZOVkVnekFOOFh0WlRQbzlvUGNwdmMwOThiT2dqNnVFVWhnV01Da2VfMGQwYmRHYzRjLUk5cThocnhfX2JOY0dJd2lVSmdOWXJvOTRQRVFiY0pWa0NBV2loY3hveTFOV2Y1Y0ZrUkVFMGJKXzFheE5YWXVRQklR"
     },
     {
-      "title": "US stocks slip after oil prices and the bond market crank up the pressure - stamfordadvocate.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdENDeDl3REh5cWpwVlAzSHhpWGZVcnVualNJQmZid04zZDhzYVF5NWFDWF84aFFwTEMxU1A2Z0hTek1uRVN6VDdmXzYxREhKa0FsZm9pVkhoSnFJZTVMRVdlalphQTA3QnZ5ZWs4NTZwcE5aekFMUmxWekpPWkYtNkQxZ1FCbHJNQXJ4VGpFSWhWQU5reWxoNkFscDNkMnJkREd3OUtkMDFfX2g1TzB6MnZn?oc=5",
-      "source": "stamfordadvocate.com",
-      "published_at": "Tue, 15 Sep 2026 14:56:09 GMT",
-      "summary": "US stocks slip after oil prices and the bond market crank up the pressure stamfordadvocate.com",
-      "guid": "CBMisgFBVV95cUxOdENDeDl3REh5cWpwVlAzSHhpWGZVcnVualNJQmZid04zZDhzYVF5NWFDWF84aFFwTEMxU1A2Z0hTek1uRVN6VDdmXzYxREhKa0FsZm9pVkhoSnFJZTVMRVdlalphQTA3QnZ5ZWs4NTZwcE5aekFMUmxWekpPWkYtNkQxZ1FCbHJNQXJ4VGpFSWhWQU5reWxoNkFscDNkMnJkREd3OUtkMDFfX2g1TzB6MnZn"
+      "title": "The U.S. economy faces mounting headwinds. Here are the biggest risks. - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9QakUtQzNvVVFQV3NVbFZWQy16QzBQM2RxbnU2RnJvdE9CT1VPUDlXeEQ1Q2ltelp1b0VSSDJ2VVM5X1NuMnRxRVpBMjVtMmJzRmc5clBKRlowWTFfSnpmM3o1LTVTYm1LcDkw?oc=5",
+      "source": "CBS News",
+      "published_at": "Mon, 14 Sep 2026 17:48:50 GMT",
+      "summary": "The U.S. economy faces mounting headwinds. Here are the biggest risks. CBS News",
+      "guid": "CBMia0FVX3lxTE9QakUtQzNvVVFQV3NVbFZWQy16QzBQM2RxbnU2RnJvdE9CT1VPUDlXeEQ1Q2ltelp1b0VSSDJ2VVM5X1NuMnRxRVpBMjVtMmJzRmc5clBKRlowWTFfSnpmM3o1LTVTYm1LcDkw"
     },
     {
       "title": "Global bond yields hit fresh highs, raising stakes for big borrowers - Reuters",
@@ -47,44 +55,36 @@
       "guid": "CBMisAFBVV95cUxNeThNUUotQTJlelBLMUoySDNIZnR5dlBReWhadGo3VWF6YTBDMG9aYW5JREJhMG9OdXFmMC1OQ1F1VGs5bkxxeXAwY0gweVFkZmpkMHYxelhsbVAta1AyUEk0bEluNWc0UnVTQ0JIZVVuTS1oQVZQdjNqazFKREV2b2RRU3dQanl0N2JvY052QTVSczVVck1YZW1uY1RVem1iNDJzQ1FEbXZwc3UzamZmTA"
     },
     {
+      "title": "How Should the Federal Reserve Deal With the AI Bubble? - The American Prospect",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNC1mSzFuSjJvZEdOLUVBRnlxa3h1TUVGSTd5Z0ZCTDFqWjJpc3JlSW1VZU1ZWU5aZ3l5T3JraWV3ZHNNNUZsTTl0Z3ZXWlh3YUh2VEJfUjFkWmhzRzVhV0FXdEQzT2hqUC03aFJBeUZLTjVqS2dhQjlCNGo0YjJYbjR5M3VwMG5Ldmc?oc=5",
+      "source": "The American Prospect",
+      "published_at": "Tue, 15 Sep 2026 09:15:00 GMT",
+      "summary": "How Should the Federal Reserve Deal With the AI Bubble? The American Prospect",
+      "guid": "CBMiigFBVV95cUxNNC1mSzFuSjJvZEdOLUVBRnlxa3h1TUVGSTd5Z0ZCTDFqWjJpc3JlSW1VZU1ZWU5aZ3l5T3JraWV3ZHNNNUZsTTl0Z3ZXWlh3YUh2VEJfUjFkWmhzRzVhV0FXdEQzT2hqUC03aFJBeUZLTjVqS2dhQjlCNGo0YjJYbjR5M3VwMG5Ldmc"
+    },
+    {
       "title": "Markets are bracing for a rate hike this week. Here's what investors need to know. - Business Insider",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdE9PREpldGFGaks3Y1lhVUZEQjVzNjdUc0FFLXRVTEpGYjJSTXdVTXhOdlJIVUgwRTZ5eDh6LWZfOGlCVGN3OUd0OFNXMTdrcWUzWU5YdDgyVHJXeWx4Mm85dTl1aUVGZDMwZjg4NmtURTJGQVhMZHRRMVRMb0ZZRXR3bkZMcHp2aXpiSTBwaGk2WFBHZ1RyN2c3cVQtcTZMQXYtSg?oc=5",
       "source": "Business Insider",
-      "published_at": "Tue, 15 Sep 2026 09:16:25 GMT",
+      "published_at": "Tue, 15 Sep 2026 09:15:00 GMT",
       "summary": "Markets are bracing for a rate hike this week. Here's what investors need to know. Business Insider",
       "guid": "CBMipAFBVV95cUxQdE9PREpldGFGaks3Y1lhVUZEQjVzNjdUc0FFLXRVTEpGYjJSTXdVTXhOdlJIVUgwRTZ5eDh6LWZfOGlCVGN3OUd0OFNXMTdrcWUzWU5YdDgyVHJXeWx4Mm85dTl1aUVGZDMwZjg4NmtURTJGQVhMZHRRMVRMb0ZZRXR3bkZMcHp2aXpiSTBwaGk2WFBHZ1RyN2c3cVQtcTZMQXYtSg"
     },
     {
-      "title": "How Should the Federal Reserve Deal With the AI Bubble? - prospect.org",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNC1mSzFuSjJvZEdOLUVBRnlxa3h1TUVGSTd5Z0ZCTDFqWjJpc3JlSW1VZU1ZWU5aZ3l5T3JraWV3ZHNNNUZsTTl0Z3ZXWlh3YUh2VEJfUjFkWmhzRzVhV0FXdEQzT2hqUC03aFJBeUZLTjVqS2dhQjlCNGo0YjJYbjR5M3VwMG5Ldmc?oc=5",
-      "source": "prospect.org",
-      "published_at": "Tue, 15 Sep 2026 09:15:00 GMT",
-      "summary": "How Should the Federal Reserve Deal With the AI Bubble? prospect.org",
-      "guid": "CBMiigFBVV95cUxNNC1mSzFuSjJvZEdOLUVBRnlxa3h1TUVGSTd5Z0ZCTDFqWjJpc3JlSW1VZU1ZWU5aZ3l5T3JraWV3ZHNNNUZsTTl0Z3ZXWlh3YUh2VEJfUjFkWmhzRzVhV0FXdEQzT2hqUC03aFJBeUZLTjVqS2dhQjlCNGo0YjJYbjR5M3VwMG5Ldmc"
-    },
-    {
-      "title": "The U.S. economy faces mounting headwinds. Here are the biggest risks. - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9QakUtQzNvVVFQV3NVbFZWQy16QzBQM2RxbnU2RnJvdE9CT1VPUDlXeEQ1Q2ltelp1b0VSSDJ2VVM5X1NuMnRxRVpBMjVtMmJzRmc5clBKRlowWTFfSnpmM3o1LTVTYm1LcDkw?oc=5",
-      "source": "CBS News",
-      "published_at": "Mon, 14 Sep 2026 17:48:50 GMT",
-      "summary": "The U.S. economy faces mounting headwinds. Here are the biggest risks. CBS News",
-      "guid": "CBMia0FVX3lxTE9QakUtQzNvVVFQV3NVbFZWQy16QzBQM2RxbnU2RnJvdE9CT1VPUDlXeEQ1Q2ltelp1b0VSSDJ2VVM5X1NuMnRxRVpBMjVtMmJzRmc5clBKRlowWTFfSnpmM3o1LTVTYm1LcDkw"
-    },
-    {
-      "title": "Stock market returns after Fed hikes, holds and cuts: What history shows ahead of the September 2026 meeting - chase.com",
+      "title": "Stock market returns after Fed hikes, holds and cuts: What history shows ahead of the September 2026 meeting - Chase Bank",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZk5DYnRUeXFDbWpLeTI5QjFLdWNjdjV6YWNvRW1KZ2hCNlRKV1djZk1nb1RYMlJPeHFGUGh4MVY0OW1BblFCQlBENkhnZEtfOVVzMExORC12YVVPVHZubnRuUC1xTWNLU1YxcVJkZGY1WWNhb01BRFlSUFZNNjNrRUxCUGZtdk5SdnN6a21KVmozMy1IWk5fMVk5M2tKa3E4LVM3QVpOd2N2WWQzVmpzU1VMNmZCOGo1OHFBWllnZVp6N3ZyaDktUFZoRF9nTy00Z3pWd0dFNUtCNE9uM3IwZFdWUGFyM216Yzlnang1Zw?oc=5",
-      "source": "chase.com",
+      "source": "Chase Bank",
       "published_at": "Mon, 14 Sep 2026 20:12:39 GMT",
-      "summary": "Stock market returns after Fed hikes, holds and cuts: What history shows ahead of the September 2026 meeting chase.com",
+      "summary": "Stock market returns after Fed hikes, holds and cuts: What history shows ahead of the September 2026 meeting Chase Bank",
       "guid": "CBMi7wFBVV95cUxNZk5DYnRUeXFDbWpLeTI5QjFLdWNjdjV6YWNvRW1KZ2hCNlRKV1djZk1nb1RYMlJPeHFGUGh4MVY0OW1BblFCQlBENkhnZEtfOVVzMExORC12YVVPVHZubnRuUC1xTWNLU1YxcVJkZGY1WWNhb01BRFlSUFZNNjNrRUxCUGZtdk5SdnN6a21KVmozMy1IWk5fMVk5M2tKa3E4LVM3QVpOd2N2WWQzVmpzU1VMNmZCOGo1OHFBWllnZVp6N3ZyaDktUFZoRF9nTy00Z3pWd0dFNUtCNE9uM3IwZFdWUGFyM216Yzlnang1Zw"
     },
     {
-      "title": "The Case for Federal Reserve Discretion - National Review",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOREdWQlgxWW9jQV9MbmVkbk9HUDktVGRGdXczNDJhNGowa29ZMGg2RE1MLTlYNVZlb1hYVUhESlprWGtBYWlLVEg4M2FCQ3JVdlNyclZCUlhiSzVyS25HXzFwYzdVb0REbGYtLW1oUmRNSFU1bE9FS3lWSmNoTjVDci16N090QdIBiwFBVV95cUxNbVczV2RjZHBaTnNLbXBWckNlejZPU2VScEd5UkdpSkVTdkZVRThMT0tOcGc2NGlFekw1Ynp5UzRxNTVTRXUwV1F3WG0yZUpTN1NUWHJib1htRVpqSktKbk41UEdpUEstUm50TnVsdE5oNnMtRnRUWFVGazNFSml5Mjl5TzZkeTVWVFRR?oc=5",
-      "source": "National Review",
-      "published_at": "Tue, 15 Sep 2026 15:27:37 GMT",
-      "summary": "The Case for Federal Reserve Discretion National Review",
-      "guid": "CBMihgFBVV95cUxOREdWQlgxWW9jQV9MbmVkbk9HUDktVGRGdXczNDJhNGowa29ZMGg2RE1MLTlYNVZlb1hYVUhESlprWGtBYWlLVEg4M2FCQ3JVdlNyclZCUlhiSzVyS25HXzFwYzdVb0REbGYtLW1oUmRNSFU1bE9FS3lWSmNoTjVDci16N090QdIBiwFBVV95cUxNbVczV2RjZHBaTnNLbXBWckNlejZPU2VScEd5UkdpSkVTdkZVRThMT0tOcGc2NGlFekw1Ynp5UzRxNTVTRXUwV1F3WG0yZUpTN1NUWHJib1htRVpqSktKbk41UEdpUEstUm50TnVsdE5oNnMtRnRUWFVGazNFSml5Mjl5TzZkeTVWVFRR"
+      "title": "AI stocks hold steadier as Wall Street drifts lower ahead of the Federal Reserve's meeting - LancasterOnline",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOMnFIYUlZSmo2cDJ4TElQSnZUQ2Z5b0VPQ3hCNmN2RGlsLUtGRjEwellJVFBJcWxjRUJLV2o4T0VwZklVdF90MU1kVkVCbmpaaE1HVzZjbWl0c2J0OFV2b2VqbDZ2dmh4R1BaWmQyZWhIMldRSDdHSDZkeVdVcXFzY0drLU1sdVY0aV9vVVhraUc1bDY0bkR0d0c2eVZ6UXJHQS1aMlZpTXlwQUlxNmJYU3N3Rmd4dno5aWdocjBkLUs3VWNFWmxhb1l0QWNhTUoyQXdyZ3lqVFQ0UGdObnRiS2diSU9ySlJidGdmN0xGcnUyME1LdXdLVnBwb29Ja2lyVDlGVjlFeUhldw?oc=5",
+      "source": "LancasterOnline",
+      "published_at": "Tue, 15 Sep 2026 06:29:33 GMT",
+      "summary": "AI stocks hold steadier as Wall Street drifts lower ahead of the Federal Reserve's meeting LancasterOnline",
+      "guid": "CBMiigJBVV95cUxOMnFIYUlZSmo2cDJ4TElQSnZUQ2Z5b0VPQ3hCNmN2RGlsLUtGRjEwellJVFBJcWxjRUJLV2o4T0VwZklVdF90MU1kVkVCbmpaaE1HVzZjbWl0c2J0OFV2b2VqbDZ2dmh4R1BaWmQyZWhIMldRSDdHSDZkeVdVcXFzY0drLU1sdVY0aV9vVVhraUc1bDY0bkR0d0c2eVZ6UXJHQS1aMlZpTXlwQUlxNmJYU3N3Rmd4dno5aWdocjBkLUs3VWNFWmxhb1l0QWNhTUoyQXdyZ3lqVFQ0UGdObnRiS2diSU9ySlJidGdmN0xGcnUyME1LdXdLVnBwb29Ja2lyVDlGVjlFeUhldw"
     }
   ]
 }
