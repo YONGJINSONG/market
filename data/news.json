@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T05:19:07Z",
+  "generated_at": "2026-09-15T10:13:03Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -15,28 +15,20 @@
       "guid": "CBMikgFBVV95cUxQY01SSzBsZFpPOEl4THB6SkNuNklOSVg0NkRCSkZBYXlOOS0wRFZEcnpKajdDMHUxOFhpb3lsV1JWOWk1SzY5TnplVktib0lCSzlmbno1dWd5WVFuQkdXQThtRTdFVmhuZlRwVDdaYk0xV1FWV1pUb05ZZ1pTd3IwMGl2d3ExUnozNGExMHNhWjJNZw"
     },
     {
+      "title": "The U.S. economy faces mounting headwinds. Here are the biggest risks. - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9QakUtQzNvVVFQV3NVbFZWQy16QzBQM2RxbnU2RnJvdE9CT1VPUDlXeEQ1Q2ltelp1b0VSSDJ2VVM5X1NuMnRxRVpBMjVtMmJzRmc5clBKRlowWTFfSnpmM3o1LTVTYm1LcDkw?oc=5",
+      "source": "CBS News",
+      "published_at": "Mon, 14 Sep 2026 17:48:50 GMT",
+      "summary": "The U.S. economy faces mounting headwinds. Here are the biggest risks. CBS News",
+      "guid": "CBMia0FVX3lxTE9QakUtQzNvVVFQV3NVbFZWQy16QzBQM2RxbnU2RnJvdE9CT1VPUDlXeEQ1Q2ltelp1b0VSSDJ2VVM5X1NuMnRxRVpBMjVtMmJzRmc5clBKRlowWTFfSnpmM3o1LTVTYm1LcDkw"
+    },
+    {
       "title": "The stock market could do something strange this week after the Fed decision - CNBC",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQUhkdHZiUktsdjZjY3FfajRSb0hGa2NWbDNNY1I3NWtja2JIZThIVUFtbXFibTk3WUVDOElvUnJjQjRXWnFsdkJBaTBvdUctSVU3bEdsOHJRTGFsSldDbkhMaVFoeGVGamdsTTRnX0JlRjljYkJUclZuZ1RXWFktNURCRElHOXVfRkJwNzVUcHBWRm1pSDRLVjgtXzVqcXZGVUNRYW9zUGltWmtPakxHSVlQNNIBuAFBVV95cUxQeHYzcFk4dHBpdjJOWnNLdWYySy1RZGV1T3RXSWlhZC1uaS1WQlZkRDBpdGxJUGJCRnFtaWFUYWdMZkhQSFBNWmtSeTNOemE1VEppNnJ1WktjMjdJdWt3OUhRYkltSGV3anI1RFNSRXlCaXlwZmVTUTc3dHpiYXZBb3paZUZiamRmbVd4UGZEOTBTOVY5bzZOYkppR25uZXpfRUh4MHZXRUl2RFBSTWU2bm00NUp0dUlV?oc=5",
       "source": "CNBC",
       "published_at": "Mon, 14 Sep 2026 17:16:53 GMT",
       "summary": "The stock market could do something strange this week after the Fed decision CNBC",
       "guid": "CBMiswFBVV95cUxPQUhkdHZiUktsdjZjY3FfajRSb0hGa2NWbDNNY1I3NWtja2JIZThIVUFtbXFibTk3WUVDOElvUnJjQjRXWnFsdkJBaTBvdUctSVU3bEdsOHJRTGFsSldDbkhMaVFoeGVGamdsTTRnX0JlRjljYkJUclZuZ1RXWFktNURCRElHOXVfRkJwNzVUcHBWRm1pSDRLVjgtXzVqcXZGVUNRYW9zUGltWmtPakxHSVlQNNIBuAFBVV95cUxQeHYzcFk4dHBpdjJOWnNLdWYySy1RZGV1T3RXSWlhZC1uaS1WQlZkRDBpdGxJUGJCRnFtaWFUYWdMZkhQSFBNWmtSeTNOemE1VEppNnJ1WktjMjdJdWt3OUhRYkltSGV3anI1RFNSRXlCaXlwZmVTUTc3dHpiYXZBb3paZUZiamRmbVd4UGZEOTBTOVY5bzZOYkppR25uZXpfRUh4MHZXRUl2RFBSTWU2bm00NUp0dUlV"
-    },
-    {
-      "title": "Stock market returns after Fed hikes, holds and cuts: What history shows ahead of the September 2026 meeting - Chase Bank",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZk5DYnRUeXFDbWpLeTI5QjFLdWNjdjV6YWNvRW1KZ2hCNlRKV1djZk1nb1RYMlJPeHFGUGh4MVY0OW1BblFCQlBENkhnZEtfOVVzMExORC12YVVPVHZubnRuUC1xTWNLU1YxcVJkZGY1WWNhb01BRFlSUFZNNjNrRUxCUGZtdk5SdnN6a21KVmozMy1IWk5fMVk5M2tKa3E4LVM3QVpOd2N2WWQzVmpzU1VMNmZCOGo1OHFBWllnZVp6N3ZyaDktUFZoRF9nTy00Z3pWd0dFNUtCNE9uM3IwZFdWUGFyM216Yzlnang1Zw?oc=5",
-      "source": "Chase Bank",
-      "published_at": "Mon, 14 Sep 2026 20:12:39 GMT",
-      "summary": "Stock market returns after Fed hikes, holds and cuts: What history shows ahead of the September 2026 meeting Chase Bank",
-      "guid": "CBMi7wFBVV95cUxNZk5DYnRUeXFDbWpLeTI5QjFLdWNjdjV6YWNvRW1KZ2hCNlRKV1djZk1nb1RYMlJPeHFGUGh4MVY0OW1BblFCQlBENkhnZEtfOVVzMExORC12YVVPVHZubnRuUC1xTWNLU1YxcVJkZGY1WWNhb01BRFlSUFZNNjNrRUxCUGZtdk5SdnN6a21KVmozMy1IWk5fMVk5M2tKa3E4LVM3QVpOd2N2WWQzVmpzU1VMNmZCOGo1OHFBWllnZVp6N3ZyaDktUFZoRF9nTy00Z3pWd0dFNUtCNE9uM3IwZFdWUGFyM216Yzlnang1Zw"
-    },
-    {
-      "title": "The U.S. economy faces mounting headwinds. Here are the biggest risks. - cbsnews.com",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9QakUtQzNvVVFQV3NVbFZWQy16QzBQM2RxbnU2RnJvdE9CT1VPUDlXeEQ1Q2ltelp1b0VSSDJ2VVM5X1NuMnRxRVpBMjVtMmJzRmc5clBKRlowWTFfSnpmM3o1LTVTYm1LcDkw?oc=5",
-      "source": "cbsnews.com",
-      "published_at": "Mon, 14 Sep 2026 17:48:50 GMT",
-      "summary": "The U.S. economy faces mounting headwinds. Here are the biggest risks. cbsnews.com",
-      "guid": "CBMia0FVX3lxTE9QakUtQzNvVVFQV3NVbFZWQy16QzBQM2RxbnU2RnJvdE9CT1VPUDlXeEQ1Q2ltelp1b0VSSDJ2VVM5X1NuMnRxRVpBMjVtMmJzRmc5clBKRlowWTFfSnpmM3o1LTVTYm1LcDkw"
     },
     {
       "title": "A highly anticipated Fed meeting, war worries, and an unblinking stock market: What to watch this week - Yahoo Finance",
@@ -47,20 +39,44 @@
       "guid": "CBMi7AFBVV95cUxPTF9DbUNxR215Z2N2eFhmb2N2cXZsemw3UkhRNVViQUY2bEpZbDNZMWRXaDBZRi1jRWFZT05MSkpuU0pYdnJGWk5YYzc0VnE1b3NOTEc1RmhOWjkwZlNpdTY2cjMxd2YtWVpHMGVCV3o1UkkyLXNIMG8xakxoZjZiOURDck1wVVZhV3JwRXhZWHNjX0ZoaWJnSzhaVl9EOEhLc1NoYThOVTJPTllLTVl0ZnJPQlJ3VHJHSkxVTk9BQUdlVjdndHhxNTVyV09Yc0Z2Uk5ack1QZU1GZUJkWnZyWjJzeFZibHExa2hGbw"
     },
     {
-      "title": "The Chances of a Federal Reserve Rate Hike Are Surging. Here's What It Means for the Stock Market. - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUXlMQW1ZTEFnd2JwVnBkYlRoTEQ5dDlyTFctSlJobUxGUWpnRnhYb0g3dTVYMzRzMjBCdUNZTElaSEd3ZlpwUjFSeW01ODBhUm5RSENOSFZNWFNzQ3ZMVTJWQTZrek5aU1ZnQ20xWXN3SVNhWGFmQ3dzTGtOYXZhSGtlV1RqdUtWb2prRE5mcm4yUQ?oc=5",
+      "title": "Wall Street Expects Bad News From the Federal Reserve This Week. History Says a Stock Market Correction May Follow. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRk9SQXdpS0ZwMjBha3hTN0tuWlA2S0ZmTVprTlVQdEZFMVBWZzdERTZOVkVnekFOOFh0WlRQbzlvUGNwdmMwOThiT2dqNnVFVWhnV01Da2VfMGQwYmRHYzRjLUk5cThocnhfX2JOY0dJd2lVSmdOWXJvOTRQRVFiY0pWa0NBV2loY3hveTFOV2Y1Y0ZrUkVFMGJKXzFheE5YWXVRQklR?oc=5",
       "source": "The Motley Fool",
-      "published_at": "Mon, 14 Sep 2026 18:36:00 GMT",
-      "summary": "The Chances of a Federal Reserve Rate Hike Are Surging. Here's What It Means for the Stock Market. The Motley Fool",
-      "guid": "CBMikgFBVV95cUxPUXlMQW1ZTEFnd2JwVnBkYlRoTEQ5dDlyTFctSlJobUxGUWpnRnhYb0g3dTVYMzRzMjBCdUNZTElaSEd3ZlpwUjFSeW01ODBhUm5RSENOSFZNWFNzQ3ZMVTJWQTZrek5aU1ZnQ20xWXN3SVNhWGFmQ3dzTGtOYXZhSGtlV1RqdUtWb2prRE5mcm4yUQ"
+      "published_at": "Tue, 15 Sep 2026 09:50:21 GMT",
+      "summary": "Wall Street Expects Bad News From the Federal Reserve This Week. History Says a Stock Market Correction May Follow. The Motley Fool",
+      "guid": "CBMipgFBVV95cUxNRk9SQXdpS0ZwMjBha3hTN0tuWlA2S0ZmTVprTlVQdEZFMVBWZzdERTZOVkVnekFOOFh0WlRQbzlvUGNwdmMwOThiT2dqNnVFVWhnV01Da2VfMGQwYmRHYzRjLUk5cThocnhfX2JOY0dJd2lVSmdOWXJvOTRQRVFiY0pWa0NBV2loY3hveTFOV2Y1Y0ZrUkVFMGJKXzFheE5YWXVRQklR"
     },
     {
-      "title": "Why the Odds of a US Fed Interest Rate Hike Just Shot Higher - Morningstar",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTzBZZlkwZWhpeGhFSmpPNzc3eGVJdl90Zk1PTXVmV3VpM1lwcFpnZTY5ckV3NmhrekJGendHSEpTYzNkZlMyUXF1M21jTHNUNWhIV3c3U1hHcnF0X3ZNSkNZSnBiV200b3R5WVZVb3A2NkN5N19lUWpjUTVGNF9vVjczNmlQQ1BVVUpiSXNIYUV0R3R3SDVxZXdUbng?oc=5",
-      "source": "Morningstar",
-      "published_at": "Mon, 14 Sep 2026 09:19:25 GMT",
-      "summary": "Why the Odds of a US Fed Interest Rate Hike Just Shot Higher Morningstar",
-      "guid": "CBMinAFBVV95cUxNTzBZZlkwZWhpeGhFSmpPNzc3eGVJdl90Zk1PTXVmV3VpM1lwcFpnZTY5ckV3NmhrekJGendHSEpTYzNkZlMyUXF1M21jTHNUNWhIV3c3U1hHcnF0X3ZNSkNZSnBiV200b3R5WVZVb3A2NkN5N19lUWpjUTVGNF9vVjczNmlQQ1BVVUpiSXNIYUV0R3R3SDVxZXdUbng"
+      "title": "Stock market returns after Fed hikes, holds and cuts: What history shows ahead of the September 2026 meeting - Chase Bank",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZk5DYnRUeXFDbWpLeTI5QjFLdWNjdjV6YWNvRW1KZ2hCNlRKV1djZk1nb1RYMlJPeHFGUGh4MVY0OW1BblFCQlBENkhnZEtfOVVzMExORC12YVVPVHZubnRuUC1xTWNLU1YxcVJkZGY1WWNhb01BRFlSUFZNNjNrRUxCUGZtdk5SdnN6a21KVmozMy1IWk5fMVk5M2tKa3E4LVM3QVpOd2N2WWQzVmpzU1VMNmZCOGo1OHFBWllnZVp6N3ZyaDktUFZoRF9nTy00Z3pWd0dFNUtCNE9uM3IwZFdWUGFyM216Yzlnang1Zw?oc=5",
+      "source": "Chase Bank",
+      "published_at": "Mon, 14 Sep 2026 20:12:39 GMT",
+      "summary": "Stock market returns after Fed hikes, holds and cuts: What history shows ahead of the September 2026 meeting Chase Bank",
+      "guid": "CBMi7wFBVV95cUxNZk5DYnRUeXFDbWpLeTI5QjFLdWNjdjV6YWNvRW1KZ2hCNlRKV1djZk1nb1RYMlJPeHFGUGh4MVY0OW1BblFCQlBENkhnZEtfOVVzMExORC12YVVPVHZubnRuUC1xTWNLU1YxcVJkZGY1WWNhb01BRFlSUFZNNjNrRUxCUGZtdk5SdnN6a21KVmozMy1IWk5fMVk5M2tKa3E4LVM3QVpOd2N2WWQzVmpzU1VMNmZCOGo1OHFBWllnZVp6N3ZyaDktUFZoRF9nTy00Z3pWd0dFNUtCNE9uM3IwZFdWUGFyM216Yzlnang1Zw"
+    },
+    {
+      "title": "How Should the Federal Reserve Deal With the AI Bubble? - prospect.org",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNC1mSzFuSjJvZEdOLUVBRnlxa3h1TUVGSTd5Z0ZCTDFqWjJpc3JlSW1VZU1ZWU5aZ3l5T3JraWV3ZHNNNUZsTTl0Z3ZXWlh3YUh2VEJfUjFkWmhzRzVhV0FXdEQzT2hqUC03aFJBeUZLTjVqS2dhQjlCNGo0YjJYbjR5M3VwMG5Ldmc?oc=5",
+      "source": "prospect.org",
+      "published_at": "Tue, 15 Sep 2026 09:15:00 GMT",
+      "summary": "How Should the Federal Reserve Deal With the AI Bubble? prospect.org",
+      "guid": "CBMiigFBVV95cUxNNC1mSzFuSjJvZEdOLUVBRnlxa3h1TUVGSTd5Z0ZCTDFqWjJpc3JlSW1VZU1ZWU5aZ3l5T3JraWV3ZHNNNUZsTTl0Z3ZXWlh3YUh2VEJfUjFkWmhzRzVhV0FXdEQzT2hqUC03aFJBeUZLTjVqS2dhQjlCNGo0YjJYbjR5M3VwMG5Ldmc"
+    },
+    {
+      "title": "Indian shares ease as elevated oil, bond yields weigh - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPN2s4aTJpYklfMHNQSW1pWWtPcGhCajI1eGE1RU5RRm0yWTJvNmkzZ2VZQURjbVBnZHlOSVJJdG1BanlVc1FXV2tYNUpCMXVVZ2g5dlVxYjdaQlViZXk2c1pMVEx3WEc2bHhOMjl3a0hUcXBjX0FXUGVSV3FpM0E5Y2dkRkRZTGtxOU81djBYYVY4Y1NvUlFmdW9BVWViQQ?oc=5",
+      "source": "Reuters",
+      "published_at": "Tue, 15 Sep 2026 02:35:00 GMT",
+      "summary": "Indian shares ease as elevated oil, bond yields weigh Reuters",
+      "guid": "CBMingFBVV95cUxPN2s4aTJpYklfMHNQSW1pWWtPcGhCajI1eGE1RU5RRm0yWTJvNmkzZ2VZQURjbVBnZHlOSVJJdG1BanlVc1FXV2tYNUpCMXVVZ2g5dlVxYjdaQlViZXk2c1pMVEx3WEc2bHhOMjl3a0hUcXBjX0FXUGVSV3FpM0E5Y2dkRkRZTGtxOU81djBYYVY4Y1NvUlFmdW9BVWViQQ"
+    },
+    {
+      "title": "The Chances of a Federal Reserve Rate Hike Are Surging. Here's What It Means for the Stock Market. - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQT3BqTzVoX25Fdzc5LTVReWxRdmVESHpqM1dUSWlBX0RPSnZSdk8zZTZkSEZuWWxOTmtBbmN2YmFqOWJwWG9qSkItSklSZGNxWW03WEh5MUpxYWdWR09YWVBha0xPUWRkM1lWOXZ5MjdRNXprZ0VPQl92c1B0R1VNMVNTRWVxMFRZel9uNUZHcm1GSFRPVlVpMExDMWJvSFV0X1N4TGlJTmUwbHg2cFVkb2p5bU04VEZuYmQtcURkZG9nSjMxSHdWeFphZm84aHI4VmFUdk1yRUVzQTN0Qjl4Wno0Y1U2Sm5oVDc4ZzhfN19WWS1INW9OLUQyWG9ZeDB6OXU2VnV3?oc=5",
+      "source": "The Globe and Mail",
+      "published_at": "Mon, 14 Sep 2026 18:03:54 GMT",
+      "summary": "The Chances of a Federal Reserve Rate Hike Are Surging. Here's What It Means for the Stock Market. The Globe and Mail",
+      "guid": "CBMihgJBVV95cUxQT3BqTzVoX25Fdzc5LTVReWxRdmVESHpqM1dUSWlBX0RPSnZSdk8zZTZkSEZuWWxOTmtBbmN2YmFqOWJwWG9qSkItSklSZGNxWW03WEh5MUpxYWdWR09YWVBha0xPUWRkM1lWOXZ5MjdRNXprZ0VPQl92c1B0R1VNMVNTRWVxMFRZel9uNUZHcm1GSFRPVlVpMExDMWJvSFV0X1N4TGlJTmUwbHg2cFVkb2p5bU04VEZuYmQtcURkZG9nSjMxSHdWeFphZm84aHI4VmFUdk1yRUVzQTN0Qjl4Wno0Y1U2Sm5oVDc4ZzhfN19WWS1INW9OLUQyWG9ZeDB6OXU2VnV3"
     },
     {
       "title": "Wall Street week ahead: Federal Reserve decision on interest rates, retail sales update - LancasterOnline",
@@ -69,22 +85,6 @@
       "published_at": "Sat, 12 Sep 2026 08:11:09 GMT",
       "summary": "Wall Street week ahead: Federal Reserve decision on interest rates, retail sales update LancasterOnline",
       "guid": "CBMikwJBVV95cUxOWGdJYVhmZHg0LTY4U1lqNlJMeFVFRE9SbjRTWFE1TER6ZWk0R3pWaWNkOVZXWmFUTXd3T1ZVc1JfVzRCLTFGRVdBS0Yyek5uNm1aREE0eWFZdHZyZUdseTB3NmkxQXlwWUc0RlA5VVBPeWt2emRvSHhfb2NzZFdJMkNrd1JQLXNVZThtWWQ5SXlNUzRDOE01cVNVQlhfcjhBck04NzZHNWYyZUZ1QmpWS3dxT2t6TklRelRHd0lHcHdrbHhYcXc1YTlBM1BFUUF6bnVla3RHWmxzWVFwR01HVDJiM1NuSWZMNVRkUThzeERCY3ltZXcwMjdaUzVCQmE3VVFFM280Si1LTkZzcjlmTnBPZw"
-    },
-    {
-      "title": "What to Expect in Markets This Week: Fed Interest-Rate Decision; U.S. Retail Sales Data; Salesforce Conference - Investopedia",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTzd3emRxb0pBb180Y1k0U2k4amZlaUEwX0p4QndKOXNKVXJRUHhwX25zd0wwLU9aMzZzeG0ycVl5YzhrSTVVN2QzTjhMTldkWGZTamU0TGdZRFJCMUlMOVYyQUZ0d21TZVR5LVZMQnpidzNabWVUWXRLY0RYQzZFTlE1SmowSDdKa010b0JlaGpNcUNEY3JITFlZN1hTQ3RKQ0JuOS1wc3luLW1ESF9aTHMxMXRKMDl6TFhrV3pXWQ?oc=5",
-      "source": "Investopedia",
-      "published_at": "Sun, 13 Sep 2026 09:00:00 GMT",
-      "summary": "What to Expect in Markets This Week: Fed Interest-Rate Decision; U.S. Retail Sales Data; Salesforce Conference Investopedia",
-      "guid": "CBMivwFBVV95cUxOTzd3emRxb0pBb180Y1k0U2k4amZlaUEwX0p4QndKOXNKVXJRUHhwX25zd0wwLU9aMzZzeG0ycVl5YzhrSTVVN2QzTjhMTldkWGZTamU0TGdZRFJCMUlMOVYyQUZ0d21TZVR5LVZMQnpidzNabWVUWXRLY0RYQzZFTlE1SmowSDdKa010b0JlaGpNcUNEY3JITFlZN1hTQ3RKQ0JuOS1wc3luLW1ESF9aTHMxMXRKMDl6TFhrV3pXWQ"
-    },
-    {
-      "title": "Doomsday fears are coming at exactly the wrong time for the AI-led bull market - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRi1VRkJXM19TbUcySE9XNG5OM1p2MUFndFJwcXhzeTJjaXE4SXcyTk1yWUlSNW9SUDg3Q1Q4a1VQbkJBdVJBdEk0Y1hQUGxLeklmSU1Pay1GOUdSbDhRZUVrWVlZcldIdE8wbFZ3VklXRkxWZVlVY05ZMF8tb2VWYW1BM2U0bWhFUkhfY1h5VG9Fd0poTWgwWWRsamstRDcy?oc=5",
-      "source": "Business Insider",
-      "published_at": "Mon, 14 Sep 2026 14:15:00 GMT",
-      "summary": "Doomsday fears are coming at exactly the wrong time for the AI-led bull market Business Insider",
-      "guid": "CBMioAFBVV95cUxPRi1VRkJXM19TbUcySE9XNG5OM1p2MUFndFJwcXhzeTJjaXE4SXcyTk1yWUlSNW9SUDg3Q1Q4a1VQbkJBdVJBdEk0Y1hQUGxLeklmSU1Pay1GOUdSbDhRZUVrWVlZcldIdE8wbFZ3VklXRkxWZVlVY05ZMF8tb2VWYW1BM2U0bWhFUkhfY1h5VG9Fd0poTWgwWWRsamstRDcy"
     }
   ]
 }
