@@ -1,11 +1,27 @@
 {
-  "generated_at": "2026-09-16T20:16:41Z",
+  "generated_at": "2026-09-16T23:03:54Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "U.S. stocks slip after the Fed raises interest rates, hints more hikes may be on the way - PBS",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQ0o4SEFnLXVuc0pFakhWQXNrNVdZOFBqTmZsR3dlMlFFZEluX2VWbEJPOGJkRkZ6a2tfaHZySVdpaVhYZk1aeGZFdjM2UExoOGMxc1BDbkcwUVFMaElEXzBUb2ItX1hmRVkxWjhHanJyV3ppMGJFcjhNY3BVYlZMNFVCemRaSW94Z1hBZy0yNmd3R29KMEppZThtNmxWaERxa3hfZzZ4WU5BV3AzN19xSTY0OEZwQmwzdGVSWC1SNNIBxAFBVV95cUxNQ3ZKZVFHbHpRSEo2cGs4RjlfMG1UdURsamh2Y3ExeEVkZzdmaGQ3OElrd0FpclpvUGQ1MFlKSHZ2VGFOc1hVN3ZmSVc4aGhIY3hvVm5UUlY0emc2bFNyU3ZGU0RFckhMekh6WE5FeklHLU9uUGZNOVZCQWJPdnctcTNJTmpTOGp0Q3ZVUjEzSWROc0V6VE1lY2hLLWNJWUlwTkEwQkJ1SVVtRlZrYlg5QUxoZEZFOFFzMXgwbkNPNzgzdlRa?oc=5",
+      "source": "PBS",
+      "published_at": "Wed, 16 Sep 2026 21:32:36 GMT",
+      "summary": "U.S. stocks slip after the Fed raises interest rates, hints more hikes may be on the way PBS",
+      "guid": "CBMivwFBVV95cUxPQ0o4SEFnLXVuc0pFakhWQXNrNVdZOFBqTmZsR3dlMlFFZEluX2VWbEJPOGJkRkZ6a2tfaHZySVdpaVhYZk1aeGZFdjM2UExoOGMxc1BDbkcwUVFMaElEXzBUb2ItX1hmRVkxWjhHanJyV3ppMGJFcjhNY3BVYlZMNFVCemRaSW94Z1hBZy0yNmd3R29KMEppZThtNmxWaERxa3hfZzZ4WU5BV3AzN19xSTY0OEZwQmwzdGVSWC1SNNIBxAFBVV95cUxNQ3ZKZVFHbHpRSEo2cGs4RjlfMG1UdURsamh2Y3ExeEVkZzdmaGQ3OElrd0FpclpvUGQ1MFlKSHZ2VGFOc1hVN3ZmSVc4aGhIY3hvVm5UUlY0emc2bFNyU3ZGU0RFckhMekh6WE5FeklHLU9uUGZNOVZCQWJPdnctcTNJTmpTOGp0Q3ZVUjEzSWROc0V6VE1lY2hLLWNJWUlwTkEwQkJ1SVVtRlZrYlg5QUxoZEZFOFFzMXgwbkNPNzgzdlRa"
+    },
+    {
+      "title": "VIEW Stocks pull back after Fed raises rates, points to another hike this year - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcHE5d2RsZk5YWi1pLWw0M0tWX0pGZl81OEcwZVJtUlJsbTVoUnpQWUxJYjZGSjhvMmlDd0JrcVVFQjJ0aFRJRkh1cTFteld2Y0lSeXhyMFllMU5vSGthbExhbzc5MVNSRTFHOS1JWVcwZ09jSllmTDJoeHBEUEFJanI2aEZqQm1PbXZJZHpwRHpRU2FoMG9EMmVoVmxiZ0h1YV8xTk12QjRMVm1LQ1Zfcm1qUGhUWkFH?oc=5",
+      "source": "Reuters",
+      "published_at": "Wed, 16 Sep 2026 20:10:10 GMT",
+      "summary": "VIEW Stocks pull back after Fed raises rates, points to another hike this year Reuters",
+      "guid": "CBMiuAFBVV95cUxPcHE5d2RsZk5YWi1pLWw0M0tWX0pGZl81OEcwZVJtUlJsbTVoUnpQWUxJYjZGSjhvMmlDd0JrcVVFQjJ0aFRJRkh1cTFteld2Y0lSeXhyMFllMU5vSGthbExhbzc5MVNSRTFHOS1JWVcwZ09jSllmTDJoeHBEUEFJanI2aEZqQm1PbXZJZHpwRHpRU2FoMG9EMmVoVmxiZ0h1YV8xTk12QjRMVm1LQ1Zfcm1qUGhUWkFH"
+    },
     {
       "title": "Federal Reserve interest rate hikes usually pound stocks, but then something surprising happens - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMjhjWnBNa3pQVm1Yb0taMlNmQjR5RFlUZ3RkR1ZiVHhSeHBuQnE0cnR3ZS1JMERRSGpneEJ0bEV0bDhTTUhiYXp2aXB3SDVSZElYOXJmdkpWSDlXcXFRRkZoT01HaDVUMjNqeWRXXzFyX05HM05CMjFlOWg1NGdENmhwWEdrMmktMWo1QzlZajJnNWRoTjlIUnU2SWJXY3ZoSVBRWmxDLXdfZ3ptSFpoY1FCSFpRRGpiQXczcFRnNXRldFZYSzBIZGR0eEpjQ29udFBMZUJiNG5LX3QwRldjeVZGOXhIUQ?oc=5",
@@ -15,44 +31,44 @@
       "guid": "CBMi5gFBVV95cUxPMjhjWnBNa3pQVm1Yb0taMlNmQjR5RFlUZ3RkR1ZiVHhSeHBuQnE0cnR3ZS1JMERRSGpneEJ0bEV0bDhTTUhiYXp2aXB3SDVSZElYOXJmdkpWSDlXcXFRRkZoT01HaDVUMjNqeWRXXzFyX05HM05CMjFlOWg1NGdENmhwWEdrMmktMWo1QzlZajJnNWRoTjlIUnU2SWJXY3ZoSVBRWmxDLXdfZ3ptSFpoY1FCSFpRRGpiQXczcFRnNXRldFZYSzBIZGR0eEpjQ29udFBMZUJiNG5LX3QwRldjeVZGOXhIUQ"
     },
     {
-      "title": "VIEW Stocks pull back after Fed raises rates, points to another hike this year - reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcHE5d2RsZk5YWi1pLWw0M0tWX0pGZl81OEcwZVJtUlJsbTVoUnpQWUxJYjZGSjhvMmlDd0JrcVVFQjJ0aFRJRkh1cTFteld2Y0lSeXhyMFllMU5vSGthbExhbzc5MVNSRTFHOS1JWVcwZ09jSllmTDJoeHBEUEFJanI2aEZqQm1PbXZJZHpwRHpRU2FoMG9EMmVoVmxiZ0h1YV8xTk12QjRMVm1LQ1Zfcm1qUGhUWkFH?oc=5",
-      "source": "reuters.com",
-      "published_at": "Wed, 16 Sep 2026 19:05:51 GMT",
-      "summary": "VIEW Stocks pull back after Fed raises rates, points to another hike this year reuters.com",
-      "guid": "CBMiuAFBVV95cUxPcHE5d2RsZk5YWi1pLWw0M0tWX0pGZl81OEcwZVJtUlJsbTVoUnpQWUxJYjZGSjhvMmlDd0JrcVVFQjJ0aFRJRkh1cTFteld2Y0lSeXhyMFllMU5vSGthbExhbzc5MVNSRTFHOS1JWVcwZ09jSllmTDJoeHBEUEFJanI2aEZqQm1PbXZJZHpwRHpRU2FoMG9EMmVoVmxiZ0h1YV8xTk12QjRMVm1LQ1Zfcm1qUGhUWkFH"
-    },
-    {
-      "title": "Dow Falls 500 Points as the Federal Reserve Raises Key Interest Rate - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPczAxbFRYYU1qN0lvd0FyaWUyX3BKTVc0OThtOXk2MS0wU1Vwb1hjTEE4WFNyVkpnS216RENLTHh3bXFXeWRTSEd0SWpXbEpmUjBFV09YdHNRZDFiZER6a3J5VW5oaVhqMUF5cFpKZENNZFZ2TUtvSU5ZN0F1WS12NXNTNUV1ejJUOGhxMjNUTExnLXlXaEp5VjNPbmVhWWFUenBYSWxOYmpoWmVfNXNMMDVqaXdFdTJm?oc=5",
+      "title": "U.S. Stocks Fall After Fed Rate Increase - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONzlDTWMtUEI0WmthSXloUDV3emx6WThIXzg1M2lCMEI0ektFSmZMR0VZNk9FZmIyVUc4MHJDX1o2NDBDbUo0NXBlRVplRUJ0UUVtcndzOWNRaXpLd3RwY3VmM0RXdTRMUDlJbzFUZ1ozWFE2MVVnc21hOHFqc1RXZE4xTUl5V09SSFlV?oc=5",
       "source": "WSJ",
-      "published_at": "Wed, 16 Sep 2026 19:18:45 GMT",
-      "summary": "Dow Falls 500 Points as the Federal Reserve Raises Key Interest Rate WSJ",
-      "guid": "CBMiuAFBVV95cUxPczAxbFRYYU1qN0lvd0FyaWUyX3BKTVc0OThtOXk2MS0wU1Vwb1hjTEE4WFNyVkpnS216RENLTHh3bXFXeWRTSEd0SWpXbEpmUjBFV09YdHNRZDFiZER6a3J5VW5oaVhqMUF5cFpKZENNZFZ2TUtvSU5ZN0F1WS12NXNTNUV1ejJUOGhxMjNUTExnLXlXaEp5VjNPbmVhWWFUenBYSWxOYmpoWmVfNXNMMDVqaXdFdTJm"
+      "published_at": "Wed, 16 Sep 2026 20:46:00 GMT",
+      "summary": "U.S. Stocks Fall After Fed Rate Increase WSJ",
+      "guid": "CBMiiwFBVV95cUxONzlDTWMtUEI0WmthSXloUDV3emx6WThIXzg1M2lCMEI0ektFSmZMR0VZNk9FZmIyVUc4MHJDX1o2NDBDbUo0NXBlRVplRUJ0UUVtcndzOWNRaXpLd3RwY3VmM0RXdTRMUDlJbzFUZ1ozWFE2MVVnc21hOHFqc1RXZE4xTUl5V09SSFlV"
     },
     {
-      "title": "If the Fed hikes rates, here's how the stock market might respond - marketplace.org",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOalk3SWFmSEdzc2JaS3hMeFBsQk1sUy1BeWNsb0ttcWhPeFJsQnBDa19JUlk0ajFTbktnWFhVdXVRcHE3VE93bTMtTlBSRjlPMVBBdFlBSDNfY04zUy1wS0VVSXU3c3dVc1dyNXZzemxtemZwczhSczZtZWxXLTNWaUw5TXNTZF8zcjFhNXF0R3Exb1EwUmc?oc=5",
-      "source": "marketplace.org",
-      "published_at": "Tue, 15 Sep 2026 21:15:00 GMT",
-      "summary": "If the Fed hikes rates, here's how the stock market might respond marketplace.org",
-      "guid": "CBMilgFBVV95cUxOalk3SWFmSEdzc2JaS3hMeFBsQk1sUy1BeWNsb0ttcWhPeFJsQnBDa19JUlk0ajFTbktnWFhVdXVRcHE3VE93bTMtTlBSRjlPMVBBdFlBSDNfY04zUy1wS0VVSXU3c3dVc1dyNXZzemxtemZwczhSczZtZWxXLTNWaUw5TXNTZF8zcjFhNXF0R3Exb1EwUmc"
+      "title": "Stock market returns after Fed hikes, holds and cuts: What history shows ahead of the September 2026 meeting - Chase Bank",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZk5DYnRUeXFDbWpLeTI5QjFLdWNjdjV6YWNvRW1KZ2hCNlRKV1djZk1nb1RYMlJPeHFGUGh4MVY0OW1BblFCQlBENkhnZEtfOVVzMExORC12YVVPVHZubnRuUC1xTWNLU1YxcVJkZGY1WWNhb01BRFlSUFZNNjNrRUxCUGZtdk5SdnN6a21KVmozMy1IWk5fMVk5M2tKa3E4LVM3QVpOd2N2WWQzVmpzU1VMNmZCOGo1OHFBWllnZVp6N3ZyaDktUFZoRF9nTy00Z3pWd0dFNUtCNE9uM3IwZFdWUGFyM216Yzlnang1Zw?oc=5",
+      "source": "Chase Bank",
+      "published_at": "Mon, 14 Sep 2026 20:12:39 GMT",
+      "summary": "Stock market returns after Fed hikes, holds and cuts: What history shows ahead of the September 2026 meeting Chase Bank",
+      "guid": "CBMi7wFBVV95cUxNZk5DYnRUeXFDbWpLeTI5QjFLdWNjdjV6YWNvRW1KZ2hCNlRKV1djZk1nb1RYMlJPeHFGUGh4MVY0OW1BblFCQlBENkhnZEtfOVVzMExORC12YVVPVHZubnRuUC1xTWNLU1YxcVJkZGY1WWNhb01BRFlSUFZNNjNrRUxCUGZtdk5SdnN6a21KVmozMy1IWk5fMVk5M2tKa3E4LVM3QVpOd2N2WWQzVmpzU1VMNmZCOGo1OHFBWllnZVp6N3ZyaDktUFZoRF9nTy00Z3pWd0dFNUtCNE9uM3IwZFdWUGFyM216Yzlnang1Zw"
     },
     {
-      "title": "Wall Street holds steady ahead of the Fed's decision as oil prices and bond yields ease - WRAL",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOM3hGRm5lY05PaFlPY0JHQmZsR0NXdFdfUU1Va1I4eElWdmlqakxILXNFdDRMOTlXTGU1Z2JoNC1DcDdGSl8zdzRkVmNxN3RIZUVRb2x1WnJXdVlmemVPQXoteV9CY3otZ2ZySTVJUWJ3ME5WSXlpWFN1Y2cxdk1XY0M5cHUxUjFpdFBLZmZFRlhMaC1jeFczODZ4Z0poNk1NV2pDUmwyck1HYWFPQUE?oc=5",
-      "source": "WRAL",
-      "published_at": "Wed, 16 Sep 2026 17:44:38 GMT",
-      "summary": "Wall Street holds steady ahead of the Fed's decision as oil prices and bond yields ease WRAL",
-      "guid": "CBMirgFBVV95cUxOM3hGRm5lY05PaFlPY0JHQmZsR0NXdFdfUU1Va1I4eElWdmlqakxILXNFdDRMOTlXTGU1Z2JoNC1DcDdGSl8zdzRkVmNxN3RIZUVRb2x1WnJXdVlmemVPQXoteV9CY3otZ2ZySTVJUWJ3ME5WSXlpWFN1Y2cxdk1XY0M5cHUxUjFpdFBLZmZFRlhMaC1jeFczODZ4Z0poNk1NV2pDUmwyck1HYWFPQUE"
+      "title": "With Inflation Elevated, Federal Reserve Hikes Interest Rates - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN28zbGswaU1BT3NFT2h6Y2UwcTV3dEYxUE1pazcxckJzakNUc1E5bTdIQnlxMFRnQTVVcm04aER1Zl9WM3dRSVhCX0ZBb1AtTlNLZFh2d1EzSFQ5SUZwX3A2X2l1N3ZxcjBiY2ZJZkx1RkN2SFJnMnE3ZFFZMVIzai1LN2JFdnhSM0JkaF9CVUd5OVR5ZjIwc2ZFNHAtSTRNVzNicXgzVUY?oc=5",
+      "source": "Morningstar",
+      "published_at": "Wed, 16 Sep 2026 20:00:19 GMT",
+      "summary": "With Inflation Elevated, Federal Reserve Hikes Interest Rates Morningstar",
+      "guid": "CBMiqAFBVV95cUxNN28zbGswaU1BT3NFT2h6Y2UwcTV3dEYxUE1pazcxckJzakNUc1E5bTdIQnlxMFRnQTVVcm04aER1Zl9WM3dRSVhCX0ZBb1AtTlNLZFh2d1EzSFQ5SUZwX3A2X2l1N3ZxcjBiY2ZJZkx1RkN2SFJnMnE3ZFFZMVIzai1LN2JFdnhSM0JkaF9CVUd5OVR5ZjIwc2ZFNHAtSTRNVzNicXgzVUY"
     },
     {
-      "title": "Federal Reserve hikes key rate for 1st time in 3 years, defying Trump demands for a cut - LancasterOnline",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxORmVOTmVWRnVPNUpQUm4wekhBY29UWnlVanB0Y0lRNWRRS3Vldlk5U21idzJTWEZQMW9KbDJqeTRrUFdhR3dlVXAyMnpxOEtCbVM3NHJBanZMSjFoU0dSOEl6c3NNbnpJeTl0SUVVdHlWeDFRblduM3ByMnN5N2N2WmVFYjdkNWtJTjdUQ0xkblBHc1ItM19TSHlkMnlpNTdkc2p1ZGVONWlvSlhmSHoxWUE5dzcyOWd5dmExUzBKYUF0cWEyNVB4d19IZXhZRmdaSjI3Wk02WlpqcWNLRE5DRjdNcFIteFpnaVV2MFJCOVZfNG9WdzBGUXVkUVRzX0czMGpkSlBzV3JxY25T?oc=5",
-      "source": "LancasterOnline",
-      "published_at": "Wed, 16 Sep 2026 19:31:03 GMT",
-      "summary": "Federal Reserve hikes key rate for 1st time in 3 years, defying Trump demands for a cut LancasterOnline",
-      "guid": "CBMijAJBVV95cUxORmVOTmVWRnVPNUpQUm4wekhBY29UWnlVanB0Y0lRNWRRS3Vldlk5U21idzJTWEZQMW9KbDJqeTRrUFdhR3dlVXAyMnpxOEtCbVM3NHJBanZMSjFoU0dSOEl6c3NNbnpJeTl0SUVVdHlWeDFRblduM3ByMnN5N2N2WmVFYjdkNWtJTjdUQ0xkblBHc1ItM19TSHlkMnlpNTdkc2p1ZGVONWlvSlhmSHoxWUE5dzcyOWd5dmExUzBKYUF0cWEyNVB4d19IZXhZRmdaSjI3Wk02WlpqcWNLRE5DRjdNcFIteFpnaVV2MFJCOVZfNG9WdzBGUXVkUVRzX0czMGpkSlBzV3JxY25T"
+      "title": "Wall St ends lower after Fed hikes interest rates, sees more tightening ahead - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSUtqeWNnZEJZT0IyaHpTajZTM3hWV0gwZUV1VkhQV21PUzJBQ0kzLWhxTk5iWUtNbTI1eUVWQnN1b2Y4T2RQSnhmc1pDcVVWYldOc19HSzRId2pZMHZFWHZrNHhnMVh3VGd4RkRSdDJGZ2ZJSzd6TWhiWWtUd1lWRkxzcklsRmJhOS1TcEZYMkRTQjhmakMyVDFtQQ?oc=5",
+      "source": "Reuters",
+      "published_at": "Wed, 16 Sep 2026 20:24:51 GMT",
+      "summary": "Wall St ends lower after Fed hikes interest rates, sees more tightening ahead Reuters",
+      "guid": "CBMimwFBVV95cUxOSUtqeWNnZEJZT0IyaHpTajZTM3hWV0gwZUV1VkhQV21PUzJBQ0kzLWhxTk5iWUtNbTI1eUVWQnN1b2Y4T2RQSnhmc1pDcVVWYldOc19HSzRId2pZMHZFWHZrNHhnMVh3VGd4RkRSdDJGZ2ZJSzd6TWhiWWtUd1lWRkxzcklsRmJhOS1TcEZYMkRTQjhmakMyVDFtQQ"
+    },
+    {
+      "title": "What the Fed rate hike likely means for you - PBS",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeGxPU095Y1JPU3hiRjc1UkN3OWtqazMyNVkySkliRHJtZEtubjRqaTZDa09US1VsaGpPVTJ6bGd5Um5la3AxT2luZXRGekMzQ2s1Z1VzcXdLUmQ4TGc5eUJDaUs5NW9PUTBJeHVLcy1jWUNGaXlJWGVlWVJUU0hRYktXWW5NckXSAYwBQVVfeXFMTm5vME9DbHJOTGVXdjh6blVJMEpLc1h3TzdDc0xRTzFVLTJ1cl9WcGw2cU91YlRnZEpRMUF6TE5mTWFuYnhuX2xLNDJpS19Ta1VGeklxMXk5MTE1bE9rR1NSN2JvbXVwRS1xbl9qbHg5TkJTb3hSLXA0UGFnZHZOakFfTUdkQXZ3c01fbTU?oc=5",
+      "source": "PBS",
+      "published_at": "Wed, 16 Sep 2026 19:08:08 GMT",
+      "summary": "What the Fed rate hike likely means for you PBS",
+      "guid": "CBMihwFBVV95cUxPeGxPU095Y1JPU3hiRjc1UkN3OWtqazMyNVkySkliRHJtZEtubjRqaTZDa09US1VsaGpPVTJ6bGd5Um5la3AxT2luZXRGekMzQ2s1Z1VzcXdLUmQ4TGc5eUJDaUs5NW9PUTBJeHVLcy1jWUNGaXlJWGVlWVJUU0hRYktXWW5NckXSAYwBQVVfeXFMTm5vME9DbHJOTGVXdjh6blVJMEpLc1h3TzdDc0xRTzFVLTJ1cl9WcGw2cU91YlRnZEpRMUF6TE5mTWFuYnhuX2xLNDJpS19Ta1VGeklxMXk5MTE1bE9rR1NSN2JvbXVwRS1xbl9qbHg5TkJTb3hSLXA0UGFnZHZOakFfTUdkQXZ3c01fbTU"
     },
     {
       "title": "Fed Meeting Interest Rate Decision Preview: How Will Stocks React? - Yahoo Finance",
@@ -61,22 +77,6 @@
       "published_at": "Wed, 16 Sep 2026 13:32:04 GMT",
       "summary": "Fed Meeting Interest Rate Decision Preview: How Will Stocks React? Yahoo Finance",
       "guid": "CBMioAFBVV95cUxNbmJ4SWhtNkJnNmN5eW4xaWxocnlyTDJBakE0UjNjVTFfa2FHY25RQUtEQUlZYXJiVjlrU0QwVy1FbF9USEFLTkljVTBDNlM2elBYOWtacC1FcU1SdGxhSERKb3ZRWV9ub1ZZNTZhcjdNWTQ2c09IaGxBYlhFLWx0clVoa045OWpCTjhHa000OXRvU2pJOTRPSkc5NXJ3X0xW"
-    },
-    {
-      "title": "Wall Street gyrates after Fed hikes interest rate to battle inflation - reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSUtqeWNnZEJZT0IyaHpTajZTM3hWV0gwZUV1VkhQV21PUzJBQ0kzLWhxTk5iWUtNbTI1eUVWQnN1b2Y4T2RQSnhmc1pDcVVWYldOc19HSzRId2pZMHZFWHZrNHhnMVh3VGd4RkRSdDJGZ2ZJSzd6TWhiWWtUd1lWRkxzcklsRmJhOS1TcEZYMkRTQjhmakMyVDFtQQ?oc=5",
-      "source": "reuters.com",
-      "published_at": "Wed, 16 Sep 2026 18:57:44 GMT",
-      "summary": "Wall Street gyrates after Fed hikes interest rate to battle inflation reuters.com",
-      "guid": "CBMimwFBVV95cUxOSUtqeWNnZEJZT0IyaHpTajZTM3hWV0gwZUV1VkhQV21PUzJBQ0kzLWhxTk5iWUtNbTI1eUVWQnN1b2Y4T2RQSnhmc1pDcVVWYldOc19HSzRId2pZMHZFWHZrNHhnMVh3VGd4RkRSdDJGZ2ZJSzd6TWhiWWtUd1lWRkxzcklsRmJhOS1TcEZYMkRTQjhmakMyVDFtQQ"
-    },
-    {
-      "title": "5 Things to Know Before the Stock Market Opens on Wednesday - investopedia.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYkNEWDBqVm1BUE15b0phTnBLZGFnS3hVMWFvRVNXUGx1Y1ZyclRaWTNFNUp5QWVyRktfT3RKQjR1VnRZOGZydVBhSVRHRUdsWjNwQ3NyOFhNQklmdlBpVzBVVlB6a1lOV0dXRkZncGpjeEJSLUdZS3poUVBReFVidUx1TllSc0dCQ28tRnY5UUppdFVUM3FFdEQ2OTRJeDVSTTUzUU1Bc2lPMEhrbEkxYmx0R2NmQQ?oc=5",
-      "source": "investopedia.com",
-      "published_at": "Wed, 16 Sep 2026 12:05:20 GMT",
-      "summary": "5 Things to Know Before the Stock Market Opens on Wednesday investopedia.com",
-      "guid": "CBMitgFBVV95cUxQYkNEWDBqVm1BUE15b0phTnBLZGFnS3hVMWFvRVNXUGx1Y1ZyclRaWTNFNUp5QWVyRktfT3RKQjR1VnRZOGZydVBhSVRHRUdsWjNwQ3NyOFhNQklmdlBpVzBVVlB6a1lOV0dXRkZncGpjeEJSLUdZS3poUVBReFVidUx1TllSc0dCQ28tRnY5UUppdFVUM3FFdEQ2OTRJeDVSTTUzUU1Bc2lPMEhrbEkxYmx0R2NmQQ"
     },
     {
       "title": "Fed approves interest rate hike, signals one more to come this year - CNBC",
