@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T18:49:14Z",
+  "generated_at": "2026-09-21T22:21:26Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -13,6 +13,14 @@
       "published_at": "Mon, 21 Sep 2026 09:24:01 GMT",
       "summary": "What’s Next for Stocks After the US Fed Rate Hike Morningstar",
       "guid": "CBMijgFBVV95cUxQOHN3VU95ckdUT3ljVmNuQ09xMTFtanNPN2lHb2tCVXJzNUp0WXNESnVUb0pybWJaM1JqNUt3ZkU0T2dRM3BiSmpIWmJFazBTODE0bURMeXdibjFNM1Ita3hac0tPazROV0xzdGJOWkhjNENCcUNiQUkwSHo5eVVCTUxwVjV4dTVtQ1pUektR"
+    },
+    {
+      "title": "Nasdaq notches record-high close, AI optimism reignites and Treasury yields retreat - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbUY0bG1IQkExN3pxSFZoX1VGN0hTNkluZ1hFd1F6VzZwdWtPRExzOXRnS0prRjV1M0I3U2tfUnhZcmJSQkV6STFKbUo2YXB6S1RhNUkycUFJUXg3UXA0WW9CWkRYaVVVUGRqRmRtUERCU1I4M3ZMYXhETmY1Q3FZQU9Ob1MtMzRONFc3NVFrNzVpcTQySVRzd1dENmcxdw?oc=5",
+      "source": "Reuters",
+      "published_at": "Mon, 21 Sep 2026 20:38:52 GMT",
+      "summary": "Nasdaq notches record-high close, AI optimism reignites and Treasury yields retreat Reuters",
+      "guid": "CBMingFBVV95cUxQbUY0bG1IQkExN3pxSFZoX1VGN0hTNkluZ1hFd1F6VzZwdWtPRExzOXRnS0prRjV1M0I3U2tfUnhZcmJSQkV6STFKbUo2YXB6S1RhNUkycUFJUXg3UXA0WW9CWkRYaVVVUGRqRmRtUERCU1I4M3ZMYXhETmY1Q3FZQU9Ob1MtMzRONFc3NVFrNzVpcTQySVRzd1dENmcxdw"
     },
     {
       "title": "U.S. stocks slip after the Fed raises interest rates, hints more hikes may be on the way - PBS",
@@ -39,11 +47,11 @@
       "guid": "CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw"
     },
     {
-      "title": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says This Will Happen Next. - fool.com",
+      "title": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says This Will Happen Next. - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbmNaam0teWVpa28wWWVQUm1sT2o4eWdUUjQ4QTZ4NWstbXRmLWhSMFBRMTY5bVJBMkNMVXZzNi05QXhINXgtT0JpclRfcjdhS2tfcVdZUmpVemNtS095Rm9Ta2xwUWNJLWU2RnVwOXBOYVNjZGlDNC1mZEFxeUFNS0JiejN5R2g2RHVxRDNxdTBLMTVQakc4LU1SZ1dORFFXenZ6TldzTHFQQQ?oc=5",
-      "source": "fool.com",
+      "source": "The Motley Fool",
       "published_at": "Sun, 20 Sep 2026 09:48:00 GMT",
-      "summary": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says This Will Happen Next. fool.com",
+      "summary": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says This Will Happen Next. The Motley Fool",
       "guid": "CBMiqgFBVV95cUxNbmNaam0teWVpa28wWWVQUm1sT2o4eWdUUjQ4QTZ4NWstbXRmLWhSMFBRMTY5bVJBMkNMVXZzNi05QXhINXgtT0JpclRfcjdhS2tfcVdZUmpVemNtS095Rm9Ta2xwUWNJLWU2RnVwOXBOYVNjZGlDNC1mZEFxeUFNS0JiejN5R2g2RHVxRDNxdTBLMTVQakc4LU1SZ1dORFFXenZ6TldzTHFQQQ"
     },
     {
@@ -55,14 +63,6 @@
       "guid": "CBMidkFVX3lxTFBfMXc0STVyaUdxbzktTWtJX2ZCQjlKUEdLU0lqRmhHNGgyc2RGNkRwRm8tQ2ZJMnlIVXcyWW4xclc5dXMwT2NVQjZhNzN1Y2M4eUJ5REtDZWVVTUlYSl9qeWExcDJKcU81U2N3dlNET1VTZkFCVXc"
     },
     {
-      "title": "Wall St rises on AI gains as oil slides, Treasury yields retreat - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbUY0bG1IQkExN3pxSFZoX1VGN0hTNkluZ1hFd1F6VzZwdWtPRExzOXRnS0prRjV1M0I3U2tfUnhZcmJSQkV6STFKbUo2YXB6S1RhNUkycUFJUXg3UXA0WW9CWkRYaVVVUGRqRmRtUERCU1I4M3ZMYXhETmY1Q3FZQU9Ob1MtMzRONFc3NVFrNzVpcTQySVRzd1dENmcxdw?oc=5",
-      "source": "Reuters",
-      "published_at": "Mon, 21 Sep 2026 15:57:01 GMT",
-      "summary": "Wall St rises on AI gains as oil slides, Treasury yields retreat Reuters",
-      "guid": "CBMingFBVV95cUxQbUY0bG1IQkExN3pxSFZoX1VGN0hTNkluZ1hFd1F6VzZwdWtPRExzOXRnS0prRjV1M0I3U2tfUnhZcmJSQkV6STFKbUo2YXB6S1RhNUkycUFJUXg3UXA0WW9CWkRYaVVVUGRqRmRtUERCU1I4M3ZMYXhETmY1Q3FZQU9Ob1MtMzRONFc3NVFrNzVpcTQySVRzd1dENmcxdw"
-    },
-    {
       "title": "Stock Market Today (Sept. 21, 2026): Dow futures climb as oil prices retreat - Miami Herald",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0tandXZ2lFTm80TWxfeDBvNDl3bndfNFFjM2U3aDBlLWRVcEJVQlAyRUN2SVVhNlItQThoMGNMcTJBc1gwMnlZWWRPdWR2WGVHTXdpQU9EUWJIOHJ5R0I4VkcyVGNQR21xbXFFeTh6YlE?oc=5",
       "source": "Miami Herald",
@@ -71,12 +71,12 @@
       "guid": "CBMicEFVX3lxTE0tandXZ2lFTm80TWxfeDBvNDl3bndfNFFjM2U3aDBlLWRVcEJVQlAyRUN2SVVhNlItQThoMGNMcTJBc1gwMnlZWWRPdWR2WGVHTXdpQU9EUWJIOHJ5R0I4VkcyVGNQR21xbXFFeTh6YlE"
     },
     {
-      "title": "Stock Market Today: S&P 500, Nasdaq 100 Futures Gain as Trump Issues Fresh Warning to Iran — MRVL, AAPL, ACN in Focus - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNcG1CMklJN05qNlpRMm5UenZoX2l5MXFCZ052OXJwb1ExTTFzOGllV3oyQnNBanJwYWpFb2FESFVPcTdxcmNtVGJtMnZHTEw1QlFGWm1QV2prT1RqSUhZcVd1dVJFLTlDQmtneVlENGdTcDdBWGRJS2FtSjFRQWEyV3Q0TkFDRmVWb1d4bEZiX3dWMVJkRDdHRGV3OTBpOFJWR0UtN1c5WXdianRpckRfUFZEeF9IdE5HWGJIMXBMYWtGdTgzWE1EU3oxS3RLVnVNWVNOZUt1NHNvMmppdUVSdTdBZGQxS1NWeHM2OThTbTdLTWdlSXF1cmw1VWZQbzQ?oc=5",
-      "source": "TradingView",
-      "published_at": "Mon, 21 Sep 2026 10:02:50 GMT",
-      "summary": "Stock Market Today: S&P 500, Nasdaq 100 Futures Gain as Trump Issues Fresh Warning to Iran — MRVL, AAPL, ACN in Focus TradingView",
-      "guid": "CBMi_wFBVV95cUxNcG1CMklJN05qNlpRMm5UenZoX2l5MXFCZ052OXJwb1ExTTFzOGllV3oyQnNBanJwYWpFb2FESFVPcTdxcmNtVGJtMnZHTEw1QlFGWm1QV2prT1RqSUhZcVd1dVJFLTlDQmtneVlENGdTcDdBWGRJS2FtSjFRQWEyV3Q0TkFDRmVWb1d4bEZiX3dWMVJkRDdHRGV3OTBpOFJWR0UtN1c5WXdianRpckRfUFZEeF9IdE5HWGJIMXBMYWtGdTgzWE1EU3oxS3RLVnVNWVNOZUt1NHNvMmppdUVSdTdBZGQxS1NWeHM2OThTbTdLTWdlSXF1cmw1VWZQbzQ"
+      "title": "'Crazy days' and 'silly season' in the stock market raise the prospect of a 'late-stage' AI bubble finally popping - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY01SSzBsZFpPOEl4THB6SkNuNklOSVg0NkRCSkZBYXlOOS0wRFZEcnpKajdDMHUxOFhpb3lsV1JWOWk1SzY5TnplVktib0lCSzlmbno1dWd5WVFuQkdXQThtRTdFVmhuZlRwVDdaYk0xV1FWV1pUb05ZZ1pTd3IwMGl2d3ExUnozNGExMHNhWjJNZw?oc=5",
+      "source": "Fortune",
+      "published_at": "Mon, 14 Sep 2026 15:54:00 GMT",
+      "summary": "'Crazy days' and 'silly season' in the stock market raise the prospect of a 'late-stage' AI bubble finally popping Fortune",
+      "guid": "CBMikgFBVV95cUxQY01SSzBsZFpPOEl4THB6SkNuNklOSVg0NkRCSkZBYXlOOS0wRFZEcnpKajdDMHUxOFhpb3lsV1JWOWk1SzY5TnplVktib0lCSzlmbno1dWd5WVFuQkdXQThtRTdFVmhuZlRwVDdaYk0xV1FWV1pUb05ZZ1pTd3IwMGl2d3ExUnozNGExMHNhWjJNZw"
     },
     {
       "title": "Federal Reserve interest rate hikes usually pound stocks, but then something surprising happens - Yahoo Finance",
