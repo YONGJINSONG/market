@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T23:16:44Z",
+  "generated_at": "2026-09-24T01:30:41Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,20 +7,20 @@
   },
   "items": [
     {
+      "title": "Wall Street ends down as oil prices, Treasury yields rise - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeEU4dTJoZV9XeFR4cENDYXhRMG1Tb3E4aHFNc1RoUEpHeVJNYmtnS1RHb0lVdzg5S1BKelZiUkR4eER2bkFZc0tjcWxlRFEyODRlVlRoNlNmblFabUhsZnJwTllqbmd2RUQ5NmI0M0JVc3B3aVkwcmt0SE9vTERyLVhFRzIybV9OMU94QlF6UGdORGhJZldzTUJ6X1F2TjhTRVpLNDZWeVN6WU1hR0ZLRw?oc=5",
+      "source": "Reuters",
+      "published_at": "Wed, 23 Sep 2026 20:24:16 GMT",
+      "summary": "Wall Street ends down as oil prices, Treasury yields rise Reuters",
+      "guid": "CBMisAFBVV95cUxQeEU4dTJoZV9XeFR4cENDYXhRMG1Tb3E4aHFNc1RoUEpHeVJNYmtnS1RHb0lVdzg5S1BKelZiUkR4eER2bkFZc0tjcWxlRFEyODRlVlRoNlNmblFabUhsZnJwTllqbmd2RUQ5NmI0M0JVc3B3aVkwcmt0SE9vTERyLVhFRzIybV9OMU94QlF6UGdORGhJZldzTUJ6X1F2TjhTRVpLNDZWeVN6WU1hR0ZLRw"
+    },
+    {
       "title": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says This Will Happen Next. - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNVFmTDEyZGdmOW9nNl9ra0tsc2dOTmNiSkNvZXBjSFR6bUVHTjBRS1ljVjBHZndyNjRMUWJHdXVGeHh1Z3JmVXIxQlNBbEV2T0NLVEFua1ltLTJwT1BwdGFvUElGUjQ2TDZlVU5NX2ZnT1ZTTDJ1WmpBWGt3Ym0xR0hPOHd6RzFyYkRxTnQyMXZobExpamhpakZZZHA?oc=5",
       "source": "Yahoo Finance",
       "published_at": "Sun, 20 Sep 2026 09:08:01 GMT",
       "summary": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says This Will Happen Next. Yahoo Finance",
       "guid": "CBMinAFBVV95cUxNNVFmTDEyZGdmOW9nNl9ra0tsc2dOTmNiSkNvZXBjSFR6bUVHTjBRS1ljVjBHZndyNjRMUWJHdXVGeHh1Z3JmVXIxQlNBbEV2T0NLVEFua1ltLTJwT1BwdGFvUElGUjQ2TDZlVU5NX2ZnT1ZTTDJ1WmpBWGt3Ym0xR0hPOHd6RzFyYkRxTnQyMXZobExpamhpakZZZHA"
-    },
-    {
-      "title": "What’s Next for US Stocks After the Fed Rate Hike - Morningstar",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZko0WU1kUWFDbVBBaXdJT09qeTFSY000SVlCd3diMHFVMjNodUtGWFlBMUtkdmZSRmlmTnRmWXBYaGlpbHVpOTdyZHN2QjNMampxSTM3czM0VE5MMlk4OU1kVUFsUkZhMHBxYXJhbFlpNnQzLVgteXNySXplRkFDVVRHUHNha182TmJNUDRB?oc=5",
-      "source": "Morningstar",
-      "published_at": "Tue, 22 Sep 2026 10:13:58 GMT",
-      "summary": "What’s Next for US Stocks After the Fed Rate Hike Morningstar",
-      "guid": "CBMijgFBVV95cUxOZko0WU1kUWFDbVBBaXdJT09qeTFSY000SVlCd3diMHFVMjNodUtGWFlBMUtkdmZSRmlmTnRmWXBYaGlpbHVpOTdyZHN2QjNMampxSTM3czM0VE5MMlk4OU1kVUFsUkZhMHBxYXJhbFlpNnQzLVgteXNySXplRkFDVVRHUHNha182TmJNUDRB"
     },
     {
       "title": "Will the Federal Reserve Trigger a Bear Market? History Has Good and Bad News for Investors - The Motley Fool",
@@ -31,6 +31,14 @@
       "guid": "CBMimAFBVV95cUxQOEVROVU4Wm5ybEozTDhXWE1iWUpMY3N2ZHlQZ2ZRakQyUzdacl9LdGZiRVN0WU1rcXdYdU9JcThhU21BM18xTmxvdlFLQ3hhOTkzZ0haU25LREstb0dtS2pieEZIbV9FQ2pZWmJiOTNaY0pWZkhKOVdGUUZqNTAyeWd6VjZKMFBESmhtTXdtSjE2YXdnM05JdA"
     },
     {
+      "title": "What’s Next for US Stocks After the Fed Rate Hike - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZko0WU1kUWFDbVBBaXdJT09qeTFSY000SVlCd3diMHFVMjNodUtGWFlBMUtkdmZSRmlmTnRmWXBYaGlpbHVpOTdyZHN2QjNMampxSTM3czM0VE5MMlk4OU1kVUFsUkZhMHBxYXJhbFlpNnQzLVgteXNySXplRkFDVVRHUHNha182TmJNUDRB?oc=5",
+      "source": "Morningstar",
+      "published_at": "Tue, 22 Sep 2026 10:13:58 GMT",
+      "summary": "What’s Next for US Stocks After the Fed Rate Hike Morningstar",
+      "guid": "CBMijgFBVV95cUxOZko0WU1kUWFDbVBBaXdJT09qeTFSY000SVlCd3diMHFVMjNodUtGWFlBMUtkdmZSRmlmTnRmWXBYaGlpbHVpOTdyZHN2QjNMampxSTM3czM0VE5MMlk4OU1kVUFsUkZhMHBxYXJhbFlpNnQzLVgteXNySXplRkFDVVRHUHNha182TmJNUDRB"
+    },
+    {
       "title": "U.S. stocks slip after the Fed raises interest rates, hints more hikes may be on the way - PBS",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQ0o4SEFnLXVuc0pFakhWQXNrNVdZOFBqTmZsR3dlMlFFZEluX2VWbEJPOGJkRkZ6a2tfaHZySVdpaVhYZk1aeGZFdjM2UExoOGMxc1BDbkcwUVFMaElEXzBUb2ItX1hmRVkxWjhHanJyV3ppMGJFcjhNY3BVYlZMNFVCemRaSW94Z1hBZy0yNmd3R29KMEppZThtNmxWaERxa3hfZzZ4WU5BV3AzN19xSTY0OEZwQmwzdGVSWC1SNNIBxAFBVV95cUxNQ3ZKZVFHbHpRSEo2cGs4RjlfMG1UdURsamh2Y3ExeEVkZzdmaGQ3OElrd0FpclpvUGQ1MFlKSHZ2VGFOc1hVN3ZmSVc4aGhIY3hvVm5UUlY0emc2bFNyU3ZGU0RFckhMekh6WE5FeklHLU9uUGZNOVZCQWJPdnctcTNJTmpTOGp0Q3ZVUjEzSWROc0V6VE1lY2hLLWNJWUlwTkEwQkJ1SVVtRlZrYlg5QUxoZEZFOFFzMXgwbkNPNzgzdlRa?oc=5",
       "source": "PBS",
@@ -39,12 +47,12 @@
       "guid": "CBMivwFBVV95cUxPQ0o4SEFnLXVuc0pFakhWQXNrNVdZOFBqTmZsR3dlMlFFZEluX2VWbEJPOGJkRkZ6a2tfaHZySVdpaVhYZk1aeGZFdjM2UExoOGMxc1BDbkcwUVFMaElEXzBUb2ItX1hmRVkxWjhHanJyV3ppMGJFcjhNY3BVYlZMNFVCemRaSW94Z1hBZy0yNmd3R29KMEppZThtNmxWaERxa3hfZzZ4WU5BV3AzN19xSTY0OEZwQmwzdGVSWC1SNNIBxAFBVV95cUxNQ3ZKZVFHbHpRSEo2cGs4RjlfMG1UdURsamh2Y3ExeEVkZzdmaGQ3OElrd0FpclpvUGQ1MFlKSHZ2VGFOc1hVN3ZmSVc4aGhIY3hvVm5UUlY0emc2bFNyU3ZGU0RFckhMekh6WE5FeklHLU9uUGZNOVZCQWJPdnctcTNJTmpTOGp0Q3ZVUjEzSWROc0V6VE1lY2hLLWNJWUlwTkEwQkJ1SVVtRlZrYlg5QUxoZEZFOFFzMXgwbkNPNzgzdlRa"
     },
     {
-      "title": "Columbus Crew reserve team coach fired after incident involving ‘physical abuse and sexism’ - CNN",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9sSElIUVRCaFNkY2dXelBvaldOaEZZMURHbUZoYWsxR0V3ZVBJUnJkQ3dlY1F5NmJZVUlMdEllMHI0M2VIRFJmQUU1dDRKVnBfSGlrdjE4VlFEcjRaaHF4anAzRTlKb3N0ZjZ5NG53LVl6bXhBcmpvbGtwY1MzUQ?oc=5",
-      "source": "CNN",
-      "published_at": "Wed, 23 Sep 2026 12:58:53 GMT",
-      "summary": "Columbus Crew reserve team coach fired after incident involving ‘physical abuse and sexism’ CNN",
-      "guid": "CBMifkFVX3lxTE9sSElIUVRCaFNkY2dXelBvaldOaEZZMURHbUZoYWsxR0V3ZVBJUnJkQ3dlY1F5NmJZVUlMdEllMHI0M2VIRFJmQUU1dDRKVnBfSGlrdjE4VlFEcjRaaHF4anAzRTlKb3N0ZjZ5NG53LVl6bXhBcmpvbGtwY1MzUQ"
+      "title": "Federal Reserve Raises Rates, Signals More Hikes - chosun.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONkxiYzZfNS1jZ3NRVFZrcWduWm9nY3FkbVpLQWlIYUlQdjg2eEVOUFBLQU5jUGxPTmU3NjZacFJWTVg0T1hIOUktd1Uya2lfc0V0N0RjaFFiZ3hjUTBKckZpX1VTVl9ZanBuUDcydjFOX2JyVVBleWRCNzZLUnc3QWNtOUJ2NG1mbW8yVExn?oc=5",
+      "source": "chosun.com",
+      "published_at": "Thu, 24 Sep 2026 01:04:38 GMT",
+      "summary": "Federal Reserve Raises Rates, Signals More Hikes chosun.com",
+      "guid": "CBMijgFBVV95cUxONkxiYzZfNS1jZ3NRVFZrcWduWm9nY3FkbVpLQWlIYUlQdjg2eEVOUFBLQU5jUGxPTmU3NjZacFJWTVg0T1hIOUktd1Uya2lfc0V0N0RjaFFiZ3hjUTBKckZpX1VTVl9ZanBuUDcydjFOX2JyVVBleWRCNzZLUnc3QWNtOUJ2NG1mbW8yVExn"
     },
     {
       "title": "Stock market returns after Fed hikes, holds and cuts: What history shows ahead of the September 2026 meeting - Chase Bank",
@@ -55,6 +63,14 @@
       "guid": "CBMi7wFBVV95cUxNZk5DYnRUeXFDbWpLeTI5QjFLdWNjdjV6YWNvRW1KZ2hCNlRKV1djZk1nb1RYMlJPeHFGUGh4MVY0OW1BblFCQlBENkhnZEtfOVVzMExORC12YVVPVHZubnRuUC1xTWNLU1YxcVJkZGY1WWNhb01BRFlSUFZNNjNrRUxCUGZtdk5SdnN6a21KVmozMy1IWk5fMVk5M2tKa3E4LVM3QVpOd2N2WWQzVmpzU1VMNmZCOGo1OHFBWllnZVp6N3ZyaDktUFZoRF9nTy00Z3pWd0dFNUtCNE9uM3IwZFdWUGFyM216Yzlnang1Zw"
     },
     {
+      "title": "Fed raises rates to 3.75%-4.00%, first hike since 2023 - U.S. Bank",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw?oc=5",
+      "source": "U.S. Bank",
+      "published_at": "Wed, 16 Sep 2026 07:00:00 GMT",
+      "summary": "Fed raises rates to 3.75%-4.00%, first hike since 2023 U.S. Bank",
+      "guid": "CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw"
+    },
+    {
       "title": "Why the Market Welcomed a Rate Hike - Cabot Wealth Network",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTG9FZy1lWGE1b3hWZjF3NnZ5S2NHS0thMWU2WTVEVGxQUzRrSllSWGEyRHUyUURCeTR0OVRrWmpkQ0xhMThjcnYyZ1FLc2hueUFCTWhONGRRX19GQ2NZVVpJQWRPSmY1dGdSS0l6Tnc5MTVVZHdLeUNXdE9yTU85Q1NB?oc=5",
       "source": "Cabot Wealth Network",
@@ -63,28 +79,12 @@
       "guid": "CBMiggFBVV95cUxNTG9FZy1lWGE1b3hWZjF3NnZ5S2NHS0thMWU2WTVEVGxQUzRrSllSWGEyRHUyUURCeTR0OVRrWmpkQ0xhMThjcnYyZ1FLc2hueUFCTWhONGRRX19GQ2NZVVpJQWRPSmY1dGdSS0l6Tnc5MTVVZHdLeUNXdE9yTU85Q1NB"
     },
     {
-      "title": "Fed raises rates to 3.75%-4.00%, first hike since 2023 - usbank.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw?oc=5",
-      "source": "usbank.com",
-      "published_at": "Wed, 16 Sep 2026 07:00:00 GMT",
-      "summary": "Fed raises rates to 3.75%-4.00%, first hike since 2023 usbank.com",
-      "guid": "CBMipAFBVV95cUxNRHE2X3NqMTh3SDJDcXAyMlBMcE96b2xIc3BBSTJvNXA1WFZuSHlpanRkMnlJdjNYZUdONHVqT3g5VXZONm02UGRzTjVLSU11bldvdHktMjVOVHBrdnYya3RCS0c1TFp1Zl9lX1dDQUhaTTVMM2wzeFlvNGFYNktiVEl2dk50aWhUU3diQUFYaVh1OXpQRnZPdDN5LTdycndSRDVOdw"
-    },
-    {
-      "title": "US stocks fall as 10-year Treasury yield hits highest since 2007 - reuters.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSzB2Vlh0Nm9MZUlDRnA2S1pIMUJXWmZtdlZEVUdFRDV2WEJ1U3pLQnJKUFNBU3YyZGxXZ0trVk1tdm9lVFp0aEh5N0VpVUdOZDNWYjRzOTdUVW84bEYwYnZHNEQ1X213dHl5OGlpQWNSUEFkdXRpRC1rUTRDaDRBMFh2Zw?oc=5",
-      "source": "reuters.com",
-      "published_at": "Wed, 23 Sep 2026 01:51:00 GMT",
-      "summary": "US stocks fall as 10-year Treasury yield hits highest since 2007 reuters.com",
-      "guid": "CBMigwFBVV95cUxPSzB2Vlh0Nm9MZUlDRnA2S1pIMUJXWmZtdlZEVUdFRDV2WEJ1U3pLQnJKUFNBU3YyZGxXZ0trVk1tdm9lVFp0aEh5N0VpVUdOZDNWYjRzOTdUVW84bEYwYnZHNEQ1X213dHl5OGlpQWNSUEFkdXRpRC1rUTRDaDRBMFh2Zw"
-    },
-    {
-      "title": "Nasdaq 100 Slips, 10-Year Yields Hit 19-Year Highs: Stock Market Today - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRmxhNUplT2RaTHYzMFhUYnNBWk1Fa3BzUmtwN3FNMkl4TTZtTzZjNnZPX0R0RUJaX3JmZWFlQmtXUVNqLTBNVkwzY1ZHM1V6dUt4b1lRRU9zc3N4T1BobEtSQjFTSGFDZkdPcFdReE40VjQ0d1N4c25kQTRQYkQ1WHZPak5vSFgyMVlwck85TEpudnZPSkpmZmVDanBoNm1TWmlvUlpZdnZNYlBxVEVESmNrNWtVWDlZYTBNSVVQQ2NrM0c0cFE?oc=5",
-      "source": "TradingView",
-      "published_at": "Wed, 23 Sep 2026 17:08:51 GMT",
-      "summary": "Nasdaq 100 Slips, 10-Year Yields Hit 19-Year Highs: Stock Market Today TradingView",
-      "guid": "CBMixgFBVV95cUxQRmxhNUplT2RaTHYzMFhUYnNBWk1Fa3BzUmtwN3FNMkl4TTZtTzZjNnZPX0R0RUJaX3JmZWFlQmtXUVNqLTBNVkwzY1ZHM1V6dUt4b1lRRU9zc3N4T1BobEtSQjFTSGFDZkdPcFdReE40VjQ0d1N4c25kQTRQYkQ1WHZPak5vSFgyMVlwck85TEpudnZPSkpmZmVDanBoNm1TWmlvUlpZdnZNYlBxVEVESmNrNWtVWDlZYTBNSVVQQ2NrM0c0cFE"
+      "title": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says This Will Happen Next. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbmNaam0teWVpa28wWWVQUm1sT2o4eWdUUjQ4QTZ4NWstbXRmLWhSMFBRMTY5bVJBMkNMVXZzNi05QXhINXgtT0JpclRfcjdhS2tfcVdZUmpVemNtS095Rm9Ta2xwUWNJLWU2RnVwOXBOYVNjZGlDNC1mZEFxeUFNS0JiejN5R2g2RHVxRDNxdTBLMTVQakc4LU1SZ1dORFFXenZ6TldzTHFQQQ?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Sun, 20 Sep 2026 09:48:00 GMT",
+      "summary": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says This Will Happen Next. The Motley Fool",
+      "guid": "CBMiqgFBVV95cUxNbmNaam0teWVpa28wWWVQUm1sT2o4eWdUUjQ4QTZ4NWstbXRmLWhSMFBRMTY5bVJBMkNMVXZzNi05QXhINXgtT0JpclRfcjdhS2tfcVdZUmpVemNtS095Rm9Ta2xwUWNJLWU2RnVwOXBOYVNjZGlDNC1mZEFxeUFNS0JiejN5R2g2RHVxRDNxdTBLMTVQakc4LU1SZ1dORFFXenZ6TldzTHFQQQ"
     }
   ]
 }
