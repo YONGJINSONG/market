@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T12:17:47Z",
+  "generated_at": "2026-09-25T17:13:12Z",
   "benchmark": "SPY",
   "sectors": [
     {
@@ -7,24 +7,24 @@
       "symbol": "XLK",
       "trail": [
         {
-          "rsRatio": 101.04,
-          "rsMomentum": 100.82
-        },
-        {
-          "rsRatio": 101.64,
-          "rsMomentum": 100.59
-        },
-        {
           "rsRatio": 102.49,
           "rsMomentum": 100.84
         },
         {
-          "rsRatio": 102.46,
-          "rsMomentum": 99.97
+          "rsRatio": 102.9,
+          "rsMomentum": 100.4
         },
         {
-          "rsRatio": 102.57,
-          "rsMomentum": 100.11
+          "rsRatio": 102.82,
+          "rsMomentum": 99.92
+        },
+        {
+          "rsRatio": 102.19,
+          "rsMomentum": 99.38
+        },
+        {
+          "rsRatio": 102.34,
+          "rsMomentum": 100.15
         }
       ]
     },
@@ -33,24 +33,24 @@
       "symbol": "XLV",
       "trail": [
         {
-          "rsRatio": 100.43,
-          "rsMomentum": 99.7
-        },
-        {
-          "rsRatio": 100.44,
-          "rsMomentum": 100.01
-        },
-        {
           "rsRatio": 99.46,
           "rsMomentum": 99.02
         },
         {
-          "rsRatio": 99.35,
-          "rsMomentum": 99.89
+          "rsRatio": 99.92,
+          "rsMomentum": 100.47
         },
         {
-          "rsRatio": 100.58,
-          "rsMomentum": 101.24
+          "rsRatio": 99.94,
+          "rsMomentum": 100.02
+        },
+        {
+          "rsRatio": 100.53,
+          "rsMomentum": 100.59
+        },
+        {
+          "rsRatio": 99.84,
+          "rsMomentum": 99.32
         }
       ]
     },
@@ -58,10 +58,6 @@
       "name": "Financials",
       "symbol": "XLF",
       "trail": [
-        {
-          "rsRatio": 98.33,
-          "rsMomentum": 100.41
-        },
         {
           "rsRatio": 97.31,
           "rsMomentum": 98.96
@@ -77,6 +73,10 @@
         {
           "rsRatio": 97.24,
           "rsMomentum": 100.61
+        },
+        {
+          "rsRatio": 97.72,
+          "rsMomentum": 100.49
         }
       ]
     },
@@ -84,10 +84,6 @@
       "name": "Energy",
       "symbol": "XLE",
       "trail": [
-        {
-          "rsRatio": 99.32,
-          "rsMomentum": 99.76
-        },
         {
           "rsRatio": 95.26,
           "rsMomentum": 95.91
@@ -103,6 +99,10 @@
         {
           "rsRatio": 97.79,
           "rsMomentum": 100.94
+        },
+        {
+          "rsRatio": 96.55,
+          "rsMomentum": 98.73
         }
       ]
     },
@@ -111,24 +111,24 @@
       "symbol": "XLY",
       "trail": [
         {
-          "rsRatio": 98.79,
-          "rsMomentum": 100.24
-        },
-        {
-          "rsRatio": 98.91,
-          "rsMomentum": 100.12
-        },
-        {
           "rsRatio": 98.73,
           "rsMomentum": 99.82
         },
         {
-          "rsRatio": 97.74,
-          "rsMomentum": 98.99
+          "rsRatio": 99.07,
+          "rsMomentum": 100.35
         },
         {
-          "rsRatio": 98.41,
-          "rsMomentum": 100.69
+          "rsRatio": 98.53,
+          "rsMomentum": 99.45
+        },
+        {
+          "rsRatio": 98.58,
+          "rsMomentum": 100.05
+        },
+        {
+          "rsRatio": 98.75,
+          "rsMomentum": 100.17
         }
       ]
     },
@@ -137,24 +137,24 @@
       "symbol": "XLP",
       "trail": [
         {
-          "rsRatio": 99.62,
-          "rsMomentum": 99.28
-        },
-        {
-          "rsRatio": 99.06,
-          "rsMomentum": 99.43
-        },
-        {
           "rsRatio": 96.86,
           "rsMomentum": 97.77
         },
         {
-          "rsRatio": 97.75,
-          "rsMomentum": 100.93
+          "rsRatio": 98.07,
+          "rsMomentum": 101.26
         },
         {
-          "rsRatio": 97.82,
-          "rsMomentum": 100.07
+          "rsRatio": 98.57,
+          "rsMomentum": 100.51
+        },
+        {
+          "rsRatio": 98.06,
+          "rsMomentum": 99.48
+        },
+        {
+          "rsRatio": 98.12,
+          "rsMomentum": 100.06
         }
       ]
     },
@@ -163,24 +163,24 @@
       "symbol": "XLI",
       "trail": [
         {
-          "rsRatio": 98.56,
-          "rsMomentum": 99.24
-        },
-        {
-          "rsRatio": 99.24,
-          "rsMomentum": 100.69
-        },
-        {
           "rsRatio": 98.2,
           "rsMomentum": 98.95
         },
         {
-          "rsRatio": 98.63,
-          "rsMomentum": 100.43
+          "rsRatio": 98.71,
+          "rsMomentum": 100.53
         },
         {
-          "rsRatio": 98.84,
-          "rsMomentum": 100.22
+          "rsRatio": 99.5,
+          "rsMomentum": 100.8
+        },
+        {
+          "rsRatio": 99.06,
+          "rsMomentum": 99.56
+        },
+        {
+          "rsRatio": 99.65,
+          "rsMomentum": 100.59
         }
       ]
     },
@@ -189,24 +189,24 @@
       "symbol": "XLB",
       "trail": [
         {
-          "rsRatio": 99.01,
-          "rsMomentum": 99.97
-        },
-        {
-          "rsRatio": 98.07,
-          "rsMomentum": 99.06
-        },
-        {
           "rsRatio": 96.59,
           "rsMomentum": 98.48
         },
         {
-          "rsRatio": 98.12,
-          "rsMomentum": 101.59
+          "rsRatio": 98.56,
+          "rsMomentum": 102.04
         },
         {
-          "rsRatio": 98.05,
-          "rsMomentum": 99.93
+          "rsRatio": 99.07,
+          "rsMomentum": 100.52
+        },
+        {
+          "rsRatio": 98.3,
+          "rsMomentum": 99.22
+        },
+        {
+          "rsRatio": 98.37,
+          "rsMomentum": 100.08
         }
       ]
     },
@@ -215,24 +215,24 @@
       "symbol": "XLU",
       "trail": [
         {
-          "rsRatio": 98.47,
-          "rsMomentum": 99.96
-        },
-        {
-          "rsRatio": 97.49,
-          "rsMomentum": 99.0
-        },
-        {
           "rsRatio": 95.55,
           "rsMomentum": 98.02
         },
         {
-          "rsRatio": 94.34,
-          "rsMomentum": 98.73
+          "rsRatio": 96.02,
+          "rsMomentum": 100.48
         },
         {
-          "rsRatio": 94.98,
-          "rsMomentum": 100.67
+          "rsRatio": 95.65,
+          "rsMomentum": 99.62
+        },
+        {
+          "rsRatio": 95.64,
+          "rsMomentum": 99.99
+        },
+        {
+          "rsRatio": 95.83,
+          "rsMomentum": 100.2
         }
       ]
     },
@@ -241,24 +241,24 @@
       "symbol": "XLRE",
       "trail": [
         {
-          "rsRatio": 99.0,
-          "rsMomentum": 99.33
-        },
-        {
-          "rsRatio": 98.41,
-          "rsMomentum": 99.41
-        },
-        {
           "rsRatio": 97.39,
           "rsMomentum": 98.96
         },
         {
-          "rsRatio": 96.23,
-          "rsMomentum": 98.82
+          "rsRatio": 97.6,
+          "rsMomentum": 100.22
         },
         {
-          "rsRatio": 96.96,
-          "rsMomentum": 100.75
+          "rsRatio": 97.21,
+          "rsMomentum": 99.59
+        },
+        {
+          "rsRatio": 97.28,
+          "rsMomentum": 100.08
+        },
+        {
+          "rsRatio": 97.05,
+          "rsMomentum": 99.76
         }
       ]
     },
@@ -267,27 +267,27 @@
       "symbol": "XLC",
       "trail": [
         {
-          "rsRatio": 99.78,
-          "rsMomentum": 98.28
-        },
-        {
-          "rsRatio": 98.61,
-          "rsMomentum": 98.83
-        },
-        {
           "rsRatio": 100.36,
           "rsMomentum": 101.77
         },
         {
-          "rsRatio": 98.46,
-          "rsMomentum": 98.11
+          "rsRatio": 99.23,
+          "rsMomentum": 98.87
         },
         {
-          "rsRatio": 100.23,
-          "rsMomentum": 101.79
+          "rsRatio": 99.01,
+          "rsMomentum": 99.78
+        },
+        {
+          "rsRatio": 100.25,
+          "rsMomentum": 101.25
+        },
+        {
+          "rsRatio": 98.89,
+          "rsMomentum": 98.65
         }
       ]
     }
   ],
-  "lastUpdated": "2026-09-25T12:17:47Z"
+  "lastUpdated": "2026-09-25T17:13:12Z"
 }

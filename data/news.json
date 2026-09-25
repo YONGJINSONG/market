@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T12:11:29Z",
+  "generated_at": "2026-09-25T17:06:56Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,20 +7,12 @@
   },
   "items": [
     {
-      "title": "Fed rate hike cycles have a history of denting US stock prices - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRmR3cTBOOVhRdHBUaGJ0Z0lBY09RNlFCRm9nSkl3bVpTM3lzN3pMTTlZVVJvdnFyT3FzQXZUZ0NLWXUzbGtLQnRFaFlWNmVNUHJnbHcwbjEwbDBvTG1sQkIzdUN4a3d4RW5VcjlKeVhRSUh4TTJXdW92NkE2eDNVTGJOdlBnZHEyQVpVWnIyMk9EQnBEd1l5SjNnREtobGw5bkRGVw?oc=5",
-      "source": "Reuters",
-      "published_at": "Thu, 24 Sep 2026 05:03:00 GMT",
-      "summary": "Fed rate hike cycles have a history of denting US stock prices Reuters",
-      "guid": "CBMipAFBVV95cUxPRmR3cTBOOVhRdHBUaGJ0Z0lBY09RNlFCRm9nSkl3bVpTM3lzN3pMTTlZVVJvdnFyT3FzQXZUZ0NLWXUzbGtLQnRFaFlWNmVNUHJnbHcwbjEwbDBvTG1sQkIzdUN4a3d4RW5VcjlKeVhRSUh4TTJXdW92NkE2eDNVTGJOdlBnZHEyQVpVWnIyMk9EQnBEd1l5SjNnREtobGw5bkRGVw"
-    },
-    {
-      "title": "Opinion | Is The World Staring At A Big Stock Market Crash - And Recession? 5 Uneasy Signs - NDTV",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMzdHUlVzbk10WE51SjNMcDlRTlhUQk9oMkg5dF9CNWx4WUJobURWRWhsU3h1Ynh1LTdKTWtFcFRUYm1LNHVOYlJpZjhfS2FfaHpEc1lmZGtncEN0VUptVVdjYWx6emNUY1EzYnhHU3k4djB1dEFjVy1aU3lSMTFvS1FVdHAxUDdZVlBCZlNIczJSaE5VTHBfeUhib29za1BIMnc?oc=5",
-      "source": "NDTV",
-      "published_at": "Fri, 25 Sep 2026 10:56:41 GMT",
-      "summary": "Opinion | Is The World Staring At A Big Stock Market Crash - And Recession? 5 Uneasy Signs NDTV",
-      "guid": "CBMiogFBVV95cUxQMzdHUlVzbk10WE51SjNMcDlRTlhUQk9oMkg5dF9CNWx4WUJobURWRWhsU3h1Ynh1LTdKTWtFcFRUYm1LNHVOYlJpZjhfS2FfaHpEc1lmZGtncEN0VUptVVdjYWx6emNUY1EzYnhHU3k4djB1dEFjVy1aU3lSMTFvS1FVdHAxUDdZVlBCZlNIczJSaE5VTHBfeUhib29za1BIMnc"
+      "title": "Wall St Week Ahead Jobs report, inflation data to test US rate path, economic strength - reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMVdISllUQW1vOGc5UzVfeWVGbVloWmh0U3A3X0N2LU9TQnBfQ0RhU0JfbEZVQlA3MUJhOVBacWg4QkJrdTVQaE50RkpsaGJqOEhWZDU5WDNQTVp0dWtzc3J6ZVlFR3VnZmNnLTlwbEpWZW9yMXh2NThFQnpyd3lNX3JZUUZfQ05vTndubkpBaVgzY2d4b05DOEJUSGZ6RGNuWVlDcU4ybm9IVUQwbWtMUU5Ic2pEdDQ3?oc=5",
+      "source": "reuters.com",
+      "published_at": "Fri, 25 Sep 2026 13:05:44 GMT",
+      "summary": "Wall St Week Ahead Jobs report, inflation data to test US rate path, economic strength reuters.com",
+      "guid": "CBMiuAFBVV95cUxOMVdISllUQW1vOGc5UzVfeWVGbVloWmh0U3A3X0N2LU9TQnBfQ0RhU0JfbEZVQlA3MUJhOVBacWg4QkJrdTVQaE50RkpsaGJqOEhWZDU5WDNQTVp0dWtzc3J6ZVlFR3VnZmNnLTlwbEpWZW9yMXh2NThFQnpyd3lNX3JZUUZfQ05vTndubkpBaVgzY2d4b05DOEJUSGZ6RGNuWVlDcU4ybm9IVUQwbWtMUU5Ic2pEdDQ3"
     },
     {
       "title": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says This Will Happen Next. - finance.yahoo.com",
@@ -31,12 +23,20 @@
       "guid": "CBMinAFBVV95cUxNNVFmTDEyZGdmOW9nNl9ra0tsc2dOTmNiSkNvZXBjSFR6bUVHTjBRS1ljVjBHZndyNjRMUWJHdXVGeHh1Z3JmVXIxQlNBbEV2T0NLVEFua1ltLTJwT1BwdGFvUElGUjQ2TDZlVU5NX2ZnT1ZTTDJ1WmpBWGt3Ym0xR0hPOHd6RzFyYkRxTnQyMXZobExpamhpakZZZHA"
     },
     {
-      "title": "Why the bond market is freaking out, and what it means for your money - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9TdmlpTmlrZWppS2ZjMHJSMll0aXF5Q2tYc1FRcmdrbldENHRiTW9RVE5QWVZJOEtRTTEzMmFfdjIxMnpGd1FCTmxyUnF6dUZDY2ZDTUpTc3N4cWlZRWo4RmFuVUdKbWRTYkg3blRvbjdrOVJwTXpkUkFaSQ?oc=5",
-      "source": "CBS News",
-      "published_at": "Thu, 24 Sep 2026 19:08:00 GMT",
-      "summary": "Why the bond market is freaking out, and what it means for your money CBS News",
-      "guid": "CBMie0FVX3lxTE9TdmlpTmlrZWppS2ZjMHJSMll0aXF5Q2tYc1FRcmdrbldENHRiTW9RVE5QWVZJOEtRTTEzMmFfdjIxMnpGd1FCTmxyUnF6dUZDY2ZDTUpTc3N4cWlZRWo4RmFuVUdKbWRTYkg3blRvbjdrOVJwTXpkUkFaSQ"
+      "title": "Opinion | Is The World Staring At A Big Stock Market Crash - And Recession? 5 Uneasy Signs - ndtv.com",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMzdHUlVzbk10WE51SjNMcDlRTlhUQk9oMkg5dF9CNWx4WUJobURWRWhsU3h1Ynh1LTdKTWtFcFRUYm1LNHVOYlJpZjhfS2FfaHpEc1lmZGtncEN0VUptVVdjYWx6emNUY1EzYnhHU3k4djB1dEFjVy1aU3lSMTFvS1FVdHAxUDdZVlBCZlNIczJSaE5VTHBfeUhib29za1BIMnc?oc=5",
+      "source": "ndtv.com",
+      "published_at": "Fri, 25 Sep 2026 10:56:41 GMT",
+      "summary": "Opinion | Is The World Staring At A Big Stock Market Crash - And Recession? 5 Uneasy Signs ndtv.com",
+      "guid": "CBMiogFBVV95cUxQMzdHUlVzbk10WE51SjNMcDlRTlhUQk9oMkg5dF9CNWx4WUJobURWRWhsU3h1Ynh1LTdKTWtFcFRUYm1LNHVOYlJpZjhfS2FfaHpEc1lmZGtncEN0VUptVVdjYWx6emNUY1EzYnhHU3k4djB1dEFjVy1aU3lSMTFvS1FVdHAxUDdZVlBCZlNIczJSaE5VTHBfeUhib29za1BIMnc"
+    },
+    {
+      "title": "U.S. stocks slip after the Fed raises interest rates, hints more hikes may be on the way - PBS",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQ0o4SEFnLXVuc0pFakhWQXNrNVdZOFBqTmZsR3dlMlFFZEluX2VWbEJPOGJkRkZ6a2tfaHZySVdpaVhYZk1aeGZFdjM2UExoOGMxc1BDbkcwUVFMaElEXzBUb2ItX1hmRVkxWjhHanJyV3ppMGJFcjhNY3BVYlZMNFVCemRaSW94Z1hBZy0yNmd3R29KMEppZThtNmxWaERxa3hfZzZ4WU5BV3AzN19xSTY0OEZwQmwzdGVSWC1SNNIBxAFBVV95cUxNQ3ZKZVFHbHpRSEo2cGs4RjlfMG1UdURsamh2Y3ExeEVkZzdmaGQ3OElrd0FpclpvUGQ1MFlKSHZ2VGFOc1hVN3ZmSVc4aGhIY3hvVm5UUlY0emc2bFNyU3ZGU0RFckhMekh6WE5FeklHLU9uUGZNOVZCQWJPdnctcTNJTmpTOGp0Q3ZVUjEzSWROc0V6VE1lY2hLLWNJWUlwTkEwQkJ1SVVtRlZrYlg5QUxoZEZFOFFzMXgwbkNPNzgzdlRa?oc=5",
+      "source": "PBS",
+      "published_at": "Wed, 16 Sep 2026 07:00:00 GMT",
+      "summary": "U.S. stocks slip after the Fed raises interest rates, hints more hikes may be on the way PBS",
+      "guid": "CBMivwFBVV95cUxPQ0o4SEFnLXVuc0pFakhWQXNrNVdZOFBqTmZsR3dlMlFFZEluX2VWbEJPOGJkRkZ6a2tfaHZySVdpaVhYZk1aeGZFdjM2UExoOGMxc1BDbkcwUVFMaElEXzBUb2ItX1hmRVkxWjhHanJyV3ppMGJFcjhNY3BVYlZMNFVCemRaSW94Z1hBZy0yNmd3R29KMEppZThtNmxWaERxa3hfZzZ4WU5BV3AzN19xSTY0OEZwQmwzdGVSWC1SNNIBxAFBVV95cUxNQ3ZKZVFHbHpRSEo2cGs4RjlfMG1UdURsamh2Y3ExeEVkZzdmaGQ3OElrd0FpclpvUGQ1MFlKSHZ2VGFOc1hVN3ZmSVc4aGhIY3hvVm5UUlY0emc2bFNyU3ZGU0RFckhMekh6WE5FeklHLU9uUGZNOVZCQWJPdnctcTNJTmpTOGp0Q3ZVUjEzSWROc0V6VE1lY2hLLWNJWUlwTkEwQkJ1SVVtRlZrYlg5QUxoZEZFOFFzMXgwbkNPNzgzdlRa"
     },
     {
       "title": "Stock Market Today Ends Mixed as Oil, Yields Rise - stl.news",
@@ -47,12 +47,12 @@
       "guid": "CBMiekFVX3lxTFB5UUVPTkY5Mm8wU3JZRTdKbkh1RGppYUttZU50cmt0R2gtazhkYUcwZ0pGLXZVSngzeE5zYVRDMERSSXFsS05FVlJOWjNjd2puR1pPS1FfRWRZQmtmdWZSLU4xTXp4bW9OQjlYdTZvdVAydEg0Tll6OTVR"
     },
     {
-      "title": "U.S. stocks slip after the Fed raises interest rates, hints more hikes may be on the way - PBS",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQ0o4SEFnLXVuc0pFakhWQXNrNVdZOFBqTmZsR3dlMlFFZEluX2VWbEJPOGJkRkZ6a2tfaHZySVdpaVhYZk1aeGZFdjM2UExoOGMxc1BDbkcwUVFMaElEXzBUb2ItX1hmRVkxWjhHanJyV3ppMGJFcjhNY3BVYlZMNFVCemRaSW94Z1hBZy0yNmd3R29KMEppZThtNmxWaERxa3hfZzZ4WU5BV3AzN19xSTY0OEZwQmwzdGVSWC1SNNIBxAFBVV95cUxNQ3ZKZVFHbHpRSEo2cGs4RjlfMG1UdURsamh2Y3ExeEVkZzdmaGQ3OElrd0FpclpvUGQ1MFlKSHZ2VGFOc1hVN3ZmSVc4aGhIY3hvVm5UUlY0emc2bFNyU3ZGU0RFckhMekh6WE5FeklHLU9uUGZNOVZCQWJPdnctcTNJTmpTOGp0Q3ZVUjEzSWROc0V6VE1lY2hLLWNJWUlwTkEwQkJ1SVVtRlZrYlg5QUxoZEZFOFFzMXgwbkNPNzgzdlRa?oc=5",
-      "source": "PBS",
-      "published_at": "Wed, 16 Sep 2026 07:00:00 GMT",
-      "summary": "U.S. stocks slip after the Fed raises interest rates, hints more hikes may be on the way PBS",
-      "guid": "CBMivwFBVV95cUxPQ0o4SEFnLXVuc0pFakhWQXNrNVdZOFBqTmZsR3dlMlFFZEluX2VWbEJPOGJkRkZ6a2tfaHZySVdpaVhYZk1aeGZFdjM2UExoOGMxc1BDbkcwUVFMaElEXzBUb2ItX1hmRVkxWjhHanJyV3ppMGJFcjhNY3BVYlZMNFVCemRaSW94Z1hBZy0yNmd3R29KMEppZThtNmxWaERxa3hfZzZ4WU5BV3AzN19xSTY0OEZwQmwzdGVSWC1SNNIBxAFBVV95cUxNQ3ZKZVFHbHpRSEo2cGs4RjlfMG1UdURsamh2Y3ExeEVkZzdmaGQ3OElrd0FpclpvUGQ1MFlKSHZ2VGFOc1hVN3ZmSVc4aGhIY3hvVm5UUlY0emc2bFNyU3ZGU0RFckhMekh6WE5FeklHLU9uUGZNOVZCQWJPdnctcTNJTmpTOGp0Q3ZVUjEzSWROc0V6VE1lY2hLLWNJWUlwTkEwQkJ1SVVtRlZrYlg5QUxoZEZFOFFzMXgwbkNPNzgzdlRa"
+      "title": "Why the bond market is freaking out, and what it means for your money - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9TdmlpTmlrZWppS2ZjMHJSMll0aXF5Q2tYc1FRcmdrbldENHRiTW9RVE5QWVZJOEtRTTEzMmFfdjIxMnpGd1FCTmxyUnF6dUZDY2ZDTUpTc3N4cWlZRWo4RmFuVUdKbWRTYkg3blRvbjdrOVJwTXpkUkFaSQ?oc=5",
+      "source": "CBS News",
+      "published_at": "Thu, 24 Sep 2026 19:08:00 GMT",
+      "summary": "Why the bond market is freaking out, and what it means for your money CBS News",
+      "guid": "CBMie0FVX3lxTE9TdmlpTmlrZWppS2ZjMHJSMll0aXF5Q2tYc1FRcmdrbldENHRiTW9RVE5QWVZJOEtRTTEzMmFfdjIxMnpGd1FCTmxyUnF6dUZDY2ZDTUpTc3N4cWlZRWo4RmFuVUdKbWRTYkg3blRvbjdrOVJwTXpkUkFaSQ"
     },
     {
       "title": "Stock market returns after Fed hikes, holds and cuts: What history shows ahead of the September 2026 meeting - Chase Bank",
@@ -71,20 +71,20 @@
       "guid": "CBMimAFBVV95cUxQOEVROVU4Wm5ybEozTDhXWE1iWUpMY3N2ZHlQZ2ZRakQyUzdacl9LdGZiRVN0WU1rcXdYdU9JcThhU21BM18xTmxvdlFLQ3hhOTkzZ0haU25LREstb0dtS2pieEZIbV9FQ2pZWmJiOTNaY0pWZkhKOVdGUUZqNTAyeWd6VjZKMFBESmhtTXdtSjE2YXdnM05JdA"
     },
     {
-      "title": "How Median Net Worth for Americans Ages 55-64 Stacks Up, According to Federal Reserve Data - Investopedia",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaFM4TFkteDdlaEp2RXlTdHk1Z1VCNEJTR2NodS1CQ3A2dENVWnN0aGpoRDNmT3Z6aHlEWW5TdkF6R3FDemRrLThIQ1BHVnpHbTdfdmVmeFFQVHc2SnRCWkJDUmlHS0tFQVAxbkc3cHJUbC01aDNpVHVQZjZGb09oREFoSkZZUUZhV3N6ZlYxSnd2cEZnRWxGU1BaMzh1SFBMUjRJX2d2T2VJT1JydXpyRmpzeGtQOGxfTkpzWmVpeENFVnVQQ2c?oc=5",
-      "source": "Investopedia",
-      "published_at": "Thu, 24 Sep 2026 22:44:21 GMT",
-      "summary": "How Median Net Worth for Americans Ages 55-64 Stacks Up, According to Federal Reserve Data Investopedia",
-      "guid": "CBMixgFBVV95cUxPaFM4TFkteDdlaEp2RXlTdHk1Z1VCNEJTR2NodS1CQ3A2dENVWnN0aGpoRDNmT3Z6aHlEWW5TdkF6R3FDemRrLThIQ1BHVnpHbTdfdmVmeFFQVHc2SnRCWkJDUmlHS0tFQVAxbkc3cHJUbC01aDNpVHVQZjZGb09oREFoSkZZUUZhV3N6ZlYxSnd2cEZnRWxGU1BaMzh1SFBMUjRJX2d2T2VJT1JydXpyRmpzeGtQOGxfTkpzWmVpeENFVnVQQ2c"
+      "title": "What a Fed Rate Hike Could Mean for US Stocks - goldmansachs.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWTBLZmZzeFJtcjY1dVRma3NsTVBuTU1JSjFNbTdVdDUyWFFLNWcxaVV6QkJ1OVd2NWFfal8waFRBdHpnNl9VQXpybzBjU1h3eG9NSjAzWVo1dUNybDZyVHRnWjEyYVc2a21KdEdHaWFVWF9RTkMtNmJPanlLam8zMHp3SjBVZ29tZG04NGdxZnlHWjB2TzFoQ2Ftaw?oc=5",
+      "source": "goldmansachs.com",
+      "published_at": "Fri, 11 Sep 2026 07:00:00 GMT",
+      "summary": "What a Fed Rate Hike Could Mean for US Stocks goldmansachs.com",
+      "guid": "CBMimwFBVV95cUxOWTBLZmZzeFJtcjY1dVRma3NsTVBuTU1JSjFNbTdVdDUyWFFLNWcxaVV6QkJ1OVd2NWFfal8waFRBdHpnNl9VQXpybzBjU1h3eG9NSjAzWVo1dUNybDZyVHRnWjEyYVc2a21KdEdHaWFVWF9RTkMtNmJPanlLam8zMHp3SjBVZ29tZG04NGdxZnlHWjB2TzFoQ2Ftaw"
     },
     {
-      "title": "S&P 500 ends marginally lower as investors focus on US-Iran war - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdkxPUUdXbDkwcTdtbC1yM0NWMldPb2lpeExQRVh2SVFWQUl4Q3haSlp4U04yU1BoanNVeWF5bTIwbWJRQXVEQkIwMm0taFZ4eDJ3dUVjOTVuSWhEMVRZNV9vdUNab01CS1o4aUpoQVE5TmFqV1BMTFVaZVJzVEFES3Y4S1BLZFQ1TDFtR2dLZklJRkdFN3hTaENjVDhSc05sT1BVZ09idlU1ZGkwdTZLRi1n?oc=5",
-      "source": "Reuters",
-      "published_at": "Thu, 24 Sep 2026 23:30:37 GMT",
-      "summary": "S&P 500 ends marginally lower as investors focus on US-Iran war Reuters",
-      "guid": "CBMisgFBVV95cUxNdkxPUUdXbDkwcTdtbC1yM0NWMldPb2lpeExQRVh2SVFWQUl4Q3haSlp4U04yU1BoanNVeWF5bTIwbWJRQXVEQkIwMm0taFZ4eDJ3dUVjOTVuSWhEMVRZNV9vdUNab01CS1o4aUpoQVE5TmFqV1BMTFVaZVJzVEFES3Y4S1BLZFQ1TDFtR2dLZklJRkdFN3hTaENjVDhSc05sT1BVZ09idlU1ZGkwdTZLRi1n"
+      "title": "Fed rate hike cycles have a history of denting US stock prices - reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRmR3cTBOOVhRdHBUaGJ0Z0lBY09RNlFCRm9nSkl3bVpTM3lzN3pMTTlZVVJvdnFyT3FzQXZUZ0NLWXUzbGtLQnRFaFlWNmVNUHJnbHcwbjEwbDBvTG1sQkIzdUN4a3d4RW5VcjlKeVhRSUh4TTJXdW92NkE2eDNVTGJOdlBnZHEyQVpVWnIyMk9EQnBEd1l5SjNnREtobGw5bkRGVw?oc=5",
+      "source": "reuters.com",
+      "published_at": "Thu, 24 Sep 2026 05:03:00 GMT",
+      "summary": "Fed rate hike cycles have a history of denting US stock prices reuters.com",
+      "guid": "CBMipAFBVV95cUxPRmR3cTBOOVhRdHBUaGJ0Z0lBY09RNlFCRm9nSkl3bVpTM3lzN3pMTTlZVVJvdnFyT3FzQXZUZ0NLWXUzbGtLQnRFaFlWNmVNUHJnbHcwbjEwbDBvTG1sQkIzdUN4a3d4RW5VcjlKeVhRSUh4TTJXdW92NkE2eDNVTGJOdlBnZHEyQVpVWnIyMk9EQnBEd1l5SjNnREtobGw5bkRGVw"
     }
   ]
 }
