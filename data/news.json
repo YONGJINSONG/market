@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-09-27T21:29:00Z",
+  "generated_at": "2026-09-27T23:52:23Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "Why I'd Still Buy This 10%-Yielding Dividend Stock After the Fed's Latest Hike - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSkhnZHFucVYwREdLdHYwUkRuWk5YN01kSGhZOXRHX1ptWm5ZR3RDLTVQWlpETTVNcXlIbDFmQ2Y5NjlIRHI0a0thcVVkWkFCd3FabWlzNzJMSk54eWZaVk9QZ2l6dkZDVldBRDRHUEJsQjd2UHBTU2V4YUN0WnlkQ1pZMGZmSVNyam90YmdpcHdqRlRmZGQ0X0JBSW1KQ2tOdUw3RXZ4aFpabEgycnFTWUtBbkxrdmRjd2RYcQ?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Sun, 27 Sep 2026 20:34:00 GMT",
+      "summary": "Why I'd Still Buy This 10%-Yielding Dividend Stock After the Fed's Latest Hike The Motley Fool",
+      "guid": "CBMivAFBVV95cUxPSkhnZHFucVYwREdLdHYwUkRuWk5YN01kSGhZOXRHX1ptWm5ZR3RDLTVQWlpETTVNcXlIbDFmQ2Y5NjlIRHI0a0thcVVkWkFCd3FabWlzNzJMSk54eWZaVk9QZ2l6dkZDVldBRDRHUEJsQjd2UHBTU2V4YUN0WnlkQ1pZMGZmSVNyam90YmdpcHdqRlRmZGQ0X0JBSW1KQ2tOdUw3RXZ4aFpabEgycnFTWUtBbkxrdmRjd2RYcQ"
+    },
     {
       "title": "Fed rate hike cycles have a history of denting US stock prices - Reuters",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRmR3cTBOOVhRdHBUaGJ0Z0lBY09RNlFCRm9nSkl3bVpTM3lzN3pMTTlZVVJvdnFyT3FzQXZUZ0NLWXUzbGtLQnRFaFlWNmVNUHJnbHcwbjEwbDBvTG1sQkIzdUN4a3d4RW5VcjlKeVhRSUh4TTJXdW92NkE2eDNVTGJOdlBnZHEyQVpVWnIyMk9EQnBEd1l5SjNnREtobGw5bkRGVw?oc=5",
@@ -55,14 +63,6 @@
       "guid": "CBMimwFBVV95cUxOWTBLZmZzeFJtcjY1dVRma3NsTVBuTU1JSjFNbTdVdDUyWFFLNWcxaVV6QkJ1OVd2NWFfal8waFRBdHpnNl9VQXpybzBjU1h3eG9NSjAzWVo1dUNybDZyVHRnWjEyYVc2a21KdEdHaWFVWF9RTkMtNmJPanlLam8zMHp3SjBVZ29tZG04NGdxZnlHWjB2TzFoQ2Ftaw"
     },
     {
-      "title": "Will the Federal Reserve Trigger a Bear Market? History Has Good and Bad News for Investors - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOEVROVU4Wm5ybEozTDhXWE1iWUpMY3N2ZHlQZ2ZRakQyUzdacl9LdGZiRVN0WU1rcXdYdU9JcThhU21BM18xTmxvdlFLQ3hhOTkzZ0haU25LREstb0dtS2pieEZIbV9FQ2pZWmJiOTNaY0pWZkhKOVdGUUZqNTAyeWd6VjZKMFBESmhtTXdtSjE2YXdnM05JdA?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Wed, 23 Sep 2026 13:37:00 GMT",
-      "summary": "Will the Federal Reserve Trigger a Bear Market? History Has Good and Bad News for Investors The Motley Fool",
-      "guid": "CBMimAFBVV95cUxQOEVROVU4Wm5ybEozTDhXWE1iWUpMY3N2ZHlQZ2ZRakQyUzdacl9LdGZiRVN0WU1rcXdYdU9JcThhU21BM18xTmxvdlFLQ3hhOTkzZ0haU25LREstb0dtS2pieEZIbV9FQ2pZWmJiOTNaY0pWZkhKOVdGUUZqNTAyeWd6VjZKMFBESmhtTXdtSjE2YXdnM05JdA"
-    },
-    {
       "title": "Here's how high-income Americans keep spending in a shaky economy - USA Today",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMEN4Y1Y4ZTRZM3pSQ0FvLTh0a0ptdzNzaGZWNGQzZ0g2aUFFdzF6bTByNUNhbkRON3A2Q0xfVW15TUlaUkhMSF94Y2MydGNsakE2akRTWWowSlMzUTJaMUdtaXE1RFJocDFVSnprMWpWazVyT201RWlodWlVSmNMWC1vUUt5R2J4Sm10VDc4WHVpS195R1NfSnA0bFdURzR4eUU4eEN5dTlNY3FBLWVaa2pUQ1IxMXBvMHhTRTAxdFdBLUNMbHc?oc=5",
       "source": "USA Today",
@@ -71,20 +71,20 @@
       "guid": "CBMixgFBVV95cUxNMEN4Y1Y4ZTRZM3pSQ0FvLTh0a0ptdzNzaGZWNGQzZ0g2aUFFdzF6bTByNUNhbkRON3A2Q0xfVW15TUlaUkhMSF94Y2MydGNsakE2akRTWWowSlMzUTJaMUdtaXE1RFJocDFVSnprMWpWazVyT201RWlodWlVSmNMWC1vUUt5R2J4Sm10VDc4WHVpS195R1NfSnA0bFdURzR4eUU4eEN5dTlNY3FBLWVaa2pUQ1IxMXBvMHhTRTAxdFdBLUNMbHc"
     },
     {
-      "title": "The Next Phase of Trumpflation Has Arrived, and It's Terrible News for the Federal Reserve and Wall Street - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPQm1MRlY3Vk9WTFc3X1lReEd3YXRzblFYTkhWdVBCRDFKSk9zZWdLTHJYSzU0OEZEWTRjYjJZbTJKZ1JfTzd3Zk5nQmJBRG8yaFYxY1EwQ1RFMlI2dVdIYjFkU3Q5akZtVzBnWk5WQ3lHbGg3Yk94VGh3Wm8wcWp0dWxMa2dYSXRGTDRod2pYTDd0R0NiZkdodENLbUp5MDFPeVBKNFo0YndDRmVCWm9sVXhRYl9qbl93YmtyNk8tc3ZXVm5VQnM5aXU4amQ0WHNTWXp1MGdVQzFoTW1BcGlpZjBGU0d1VXhOaW1kLTRpUkViNEw0ZW5fVHo5ZF9zMzBMc3hNS25jV0duTDYwNFNyYUpR?oc=5",
-      "source": "The Globe and Mail",
-      "published_at": "Sun, 27 Sep 2026 08:48:17 GMT",
-      "summary": "The Next Phase of Trumpflation Has Arrived, and It's Terrible News for the Federal Reserve and Wall Street The Globe and Mail",
-      "guid": "CBMikgJBVV95cUxPQm1MRlY3Vk9WTFc3X1lReEd3YXRzblFYTkhWdVBCRDFKSk9zZWdLTHJYSzU0OEZEWTRjYjJZbTJKZ1JfTzd3Zk5nQmJBRG8yaFYxY1EwQ1RFMlI2dVdIYjFkU3Q5akZtVzBnWk5WQ3lHbGg3Yk94VGh3Wm8wcWp0dWxMa2dYSXRGTDRod2pYTDd0R0NiZkdodENLbUp5MDFPeVBKNFo0YndDRmVCWm9sVXhRYl9qbl93YmtyNk8tc3ZXVm5VQnM5aXU4amQ0WHNTWXp1MGdVQzFoTW1BcGlpZjBGU0d1VXhOaW1kLTRpUkViNEw0ZW5fVHo5ZF9zMzBMc3hNS25jV0duTDYwNFNyYUpR"
-    },
-    {
       "title": "Wall St Week Ahead Jobs report, inflation data to test US rate path, economic strength - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMVdISllUQW1vOGc5UzVfeWVGbVloWmh0U3A3X0N2LU9TQnBfQ0RhU0JfbEZVQlA3MUJhOVBacWg4QkJrdTVQaE50RkpsaGJqOEhWZDU5WDNQTVp0dWtzc3J6ZVlFR3VnZmNnLTlwbEpWZW9yMXh2NThFQnpyd3lNX3JZUUZfQ05vTndubkpBaVgzY2d4b05DOEJUSGZ6RGNuWVlDcU4ybm9IVUQwbWtMUU5Ic2pEdDQ3?oc=5",
       "source": "Reuters",
       "published_at": "Fri, 25 Sep 2026 10:06:00 GMT",
       "summary": "Wall St Week Ahead Jobs report, inflation data to test US rate path, economic strength Reuters",
       "guid": "CBMiuAFBVV95cUxOMVdISllUQW1vOGc5UzVfeWVGbVloWmh0U3A3X0N2LU9TQnBfQ0RhU0JfbEZVQlA3MUJhOVBacWg4QkJrdTVQaE50RkpsaGJqOEhWZDU5WDNQTVp0dWtzc3J6ZVlFR3VnZmNnLTlwbEpWZW9yMXh2NThFQnpyd3lNX3JZUUZfQ05vTndubkpBaVgzY2d4b05DOEJUSGZ6RGNuWVlDcU4ybm9IVUQwbWtMUU5Ic2pEdDQ3"
+    },
+    {
+      "title": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says This Will Happen Next. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNVFmTDEyZGdmOW9nNl9ra0tsc2dOTmNiSkNvZXBjSFR6bUVHTjBRS1ljVjBHZndyNjRMUWJHdXVGeHh1Z3JmVXIxQlNBbEV2T0NLVEFua1ltLTJwT1BwdGFvUElGUjQ2TDZlVU5NX2ZnT1ZTTDJ1WmpBWGt3Ym0xR0hPOHd6RzFyYkRxTnQyMXZobExpamhpakZZZHA?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Sun, 20 Sep 2026 09:08:01 GMT",
+      "summary": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says This Will Happen Next. Yahoo Finance",
+      "guid": "CBMinAFBVV95cUxNNVFmTDEyZGdmOW9nNl9ra0tsc2dOTmNiSkNvZXBjSFR6bUVHTjBRS1ljVjBHZndyNjRMUWJHdXVGeHh1Z3JmVXIxQlNBbEV2T0NLVEFua1ltLTJwT1BwdGFvUElGUjQ2TDZlVU5NX2ZnT1ZTTDJ1WmpBWGt3Ym0xR0hPOHd6RzFyYkRxTnQyMXZobExpamhpakZZZHA"
     }
   ]
 }
