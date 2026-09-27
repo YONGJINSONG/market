@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T14:08:22Z",
+  "generated_at": "2026-09-27T18:19:32Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,11 +7,11 @@
   },
   "items": [
     {
-      "title": "Fed rate hike cycles have a history of denting US stock prices - reuters.com",
+      "title": "Fed rate hike cycles have a history of denting US stock prices - Reuters",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRmR3cTBOOVhRdHBUaGJ0Z0lBY09RNlFCRm9nSkl3bVpTM3lzN3pMTTlZVVJvdnFyT3FzQXZUZ0NLWXUzbGtLQnRFaFlWNmVNUHJnbHcwbjEwbDBvTG1sQkIzdUN4a3d4RW5VcjlKeVhRSUh4TTJXdW92NkE2eDNVTGJOdlBnZHEyQVpVWnIyMk9EQnBEd1l5SjNnREtobGw5bkRGVw?oc=5",
-      "source": "reuters.com",
-      "published_at": "Thu, 24 Sep 2026 10:01:21 GMT",
-      "summary": "Fed rate hike cycles have a history of denting US stock prices reuters.com",
+      "source": "Reuters",
+      "published_at": "Thu, 24 Sep 2026 10:21:02 GMT",
+      "summary": "Fed rate hike cycles have a history of denting US stock prices Reuters",
       "guid": "CBMipAFBVV95cUxPRmR3cTBOOVhRdHBUaGJ0Z0lBY09RNlFCRm9nSkl3bVpTM3lzN3pMTTlZVVJvdnFyT3FzQXZUZ0NLWXUzbGtLQnRFaFlWNmVNUHJnbHcwbjEwbDBvTG1sQkIzdUN4a3d4RW5VcjlKeVhRSUh4TTJXdW92NkE2eDNVTGJOdlBnZHEyQVpVWnIyMk9EQnBEd1l5SjNnREtobGw5bkRGVw"
     },
     {
@@ -55,6 +55,14 @@
       "guid": "CBMimwFBVV95cUxOWTBLZmZzeFJtcjY1dVRma3NsTVBuTU1JSjFNbTdVdDUyWFFLNWcxaVV6QkJ1OVd2NWFfal8waFRBdHpnNl9VQXpybzBjU1h3eG9NSjAzWVo1dUNybDZyVHRnWjEyYVc2a21KdEdHaWFVWF9RTkMtNmJPanlLam8zMHp3SjBVZ29tZG04NGdxZnlHWjB2TzFoQ2Ftaw"
     },
     {
+      "title": "Will the Federal Reserve Trigger a Bear Market? History Has Good and Bad News for Investors - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOEVROVU4Wm5ybEozTDhXWE1iWUpMY3N2ZHlQZ2ZRakQyUzdacl9LdGZiRVN0WU1rcXdYdU9JcThhU21BM18xTmxvdlFLQ3hhOTkzZ0haU25LREstb0dtS2pieEZIbV9FQ2pZWmJiOTNaY0pWZkhKOVdGUUZqNTAyeWd6VjZKMFBESmhtTXdtSjE2YXdnM05JdA?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Wed, 23 Sep 2026 13:37:00 GMT",
+      "summary": "Will the Federal Reserve Trigger a Bear Market? History Has Good and Bad News for Investors The Motley Fool",
+      "guid": "CBMimAFBVV95cUxQOEVROVU4Wm5ybEozTDhXWE1iWUpMY3N2ZHlQZ2ZRakQyUzdacl9LdGZiRVN0WU1rcXdYdU9JcThhU21BM18xTmxvdlFLQ3hhOTkzZ0haU25LREstb0dtS2pieEZIbV9FQ2pZWmJiOTNaY0pWZkhKOVdGUUZqNTAyeWd6VjZKMFBESmhtTXdtSjE2YXdnM05JdA"
+    },
+    {
       "title": "Here's how high-income Americans keep spending in a shaky economy - USA Today",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMEN4Y1Y4ZTRZM3pSQ0FvLTh0a0ptdzNzaGZWNGQzZ0g2aUFFdzF6bTByNUNhbkRON3A2Q0xfVW15TUlaUkhMSF94Y2MydGNsakE2akRTWWowSlMzUTJaMUdtaXE1RFJocDFVSnprMWpWazVyT201RWlodWlVSmNMWC1vUUt5R2J4Sm10VDc4WHVpS195R1NfSnA0bFdURzR4eUU4eEN5dTlNY3FBLWVaa2pUQ1IxMXBvMHhTRTAxdFdBLUNMbHc?oc=5",
       "source": "USA Today",
@@ -63,11 +71,11 @@
       "guid": "CBMixgFBVV95cUxNMEN4Y1Y4ZTRZM3pSQ0FvLTh0a0ptdzNzaGZWNGQzZ0g2aUFFdzF6bTByNUNhbkRON3A2Q0xfVW15TUlaUkhMSF94Y2MydGNsakE2akRTWWowSlMzUTJaMUdtaXE1RFJocDFVSnprMWpWazVyT201RWlodWlVSmNMWC1vUUt5R2J4Sm10VDc4WHVpS195R1NfSnA0bFdURzR4eUU4eEN5dTlNY3FBLWVaa2pUQ1IxMXBvMHhTRTAxdFdBLUNMbHc"
     },
     {
-      "title": "Wall St Week Ahead Jobs report, inflation data to test US rate path, economic strength - reuters.com",
+      "title": "Wall St Week Ahead Jobs report, inflation data to test US rate path, economic strength - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMVdISllUQW1vOGc5UzVfeWVGbVloWmh0U3A3X0N2LU9TQnBfQ0RhU0JfbEZVQlA3MUJhOVBacWg4QkJrdTVQaE50RkpsaGJqOEhWZDU5WDNQTVp0dWtzc3J6ZVlFR3VnZmNnLTlwbEpWZW9yMXh2NThFQnpyd3lNX3JZUUZfQ05vTndubkpBaVgzY2d4b05DOEJUSGZ6RGNuWVlDcU4ybm9IVUQwbWtMUU5Ic2pEdDQ3?oc=5",
-      "source": "reuters.com",
+      "source": "Reuters",
       "published_at": "Fri, 25 Sep 2026 10:06:00 GMT",
-      "summary": "Wall St Week Ahead Jobs report, inflation data to test US rate path, economic strength reuters.com",
+      "summary": "Wall St Week Ahead Jobs report, inflation data to test US rate path, economic strength Reuters",
       "guid": "CBMiuAFBVV95cUxOMVdISllUQW1vOGc5UzVfeWVGbVloWmh0U3A3X0N2LU9TQnBfQ0RhU0JfbEZVQlA3MUJhOVBacWg4QkJrdTVQaE50RkpsaGJqOEhWZDU5WDNQTVp0dWtzc3J6ZVlFR3VnZmNnLTlwbEpWZW9yMXh2NThFQnpyd3lNX3JZUUZfQ05vTndubkpBaVgzY2d4b05DOEJUSGZ6RGNuWVlDcU4ybm9IVUQwbWtMUU5Ic2pEdDQ3"
     },
     {
@@ -77,14 +85,6 @@
       "published_at": "Wed, 16 Sep 2026 07:00:00 GMT",
       "summary": "Federal Reserve interest rate hikes usually pound stocks, but then something surprising happens Yahoo Finance",
       "guid": "CBMi5gFBVV95cUxPMjhjWnBNa3pQVm1Yb0taMlNmQjR5RFlUZ3RkR1ZiVHhSeHBuQnE0cnR3ZS1JMERRSGpneEJ0bEV0bDhTTUhiYXp2aXB3SDVSZElYOXJmdkpWSDlXcXFRRkZoT01HaDVUMjNqeWRXXzFyX05HM05CMjFlOWg1NGdENmhwWEdrMmktMWo1QzlZajJnNWRoTjlIUnU2SWJXY3ZoSVBRWmxDLXdfZ3ptSFpoY1FCSFpRRGpiQXczcFRnNXRldFZYSzBIZGR0eEpjQ29udFBMZUJiNG5LX3QwRldjeVZGOXhIUQ"
-    },
-    {
-      "title": "Will the Federal Reserve Trigger a Bear Market? History Has Good and Bad News for Investors - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOEVROVU4Wm5ybEozTDhXWE1iWUpMY3N2ZHlQZ2ZRakQyUzdacl9LdGZiRVN0WU1rcXdYdU9JcThhU21BM18xTmxvdlFLQ3hhOTkzZ0haU25LREstb0dtS2pieEZIbV9FQ2pZWmJiOTNaY0pWZkhKOVdGUUZqNTAyeWd6VjZKMFBESmhtTXdtSjE2YXdnM05JdA?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Wed, 23 Sep 2026 13:37:00 GMT",
-      "summary": "Will the Federal Reserve Trigger a Bear Market? History Has Good and Bad News for Investors The Motley Fool",
-      "guid": "CBMimAFBVV95cUxQOEVROVU4Wm5ybEozTDhXWE1iWUpMY3N2ZHlQZ2ZRakQyUzdacl9LdGZiRVN0WU1rcXdYdU9JcThhU21BM18xTmxvdlFLQ3hhOTkzZ0haU25LREstb0dtS2pieEZIbV9FQ2pZWmJiOTNaY0pWZkhKOVdGUUZqNTAyeWd6VjZKMFBESmhtTXdtSjE2YXdnM05JdA"
     }
   ]
 }
