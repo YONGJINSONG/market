@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T02:17:13Z",
+  "generated_at": "2026-09-29T08:45:25Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -15,12 +15,28 @@
       "guid": "CBMipAFBVV95cUxPRmR3cTBOOVhRdHBUaGJ0Z0lBY09RNlFCRm9nSkl3bVpTM3lzN3pMTTlZVVJvdnFyT3FzQXZUZ0NLWXUzbGtLQnRFaFlWNmVNUHJnbHcwbjEwbDBvTG1sQkIzdUN4a3d4RW5VcjlKeVhRSUh4TTJXdW92NkE2eDNVTGJOdlBnZHEyQVpVWnIyMk9EQnBEd1l5SjNnREtobGw5bkRGVw"
     },
     {
+      "title": "The bond market has outgrown the banks - fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcVdWN2Y1XzVOcVByNzB5dFVZd3FfSG9RWGhfNThsUVloZFBGazFQaGhjSFVQX2htSi1pQ0tPamRVZmNnQ2VHM2gtbVlmalpDZlR4VmNJTEREd2tiM1g3VFFNY3FzTDN2TTFKWjJFQVA1dUtWc2FWLW1yd2gwN3pBSDFmNkFUS3JLeFNyQ0J4dm85ZlFmSlE?oc=5",
+      "source": "fortune.com",
+      "published_at": "Tue, 29 Sep 2026 07:00:00 GMT",
+      "summary": "The bond market has outgrown the banks fortune.com",
+      "guid": "CBMilgFBVV95cUxQcVdWN2Y1XzVOcVByNzB5dFVZd3FfSG9RWGhfNThsUVloZFBGazFQaGhjSFVQX2htSi1pQ0tPamRVZmNnQ2VHM2gtbVlmalpDZlR4VmNJTEREd2tiM1g3VFFNY3FzTDN2TTFKWjJFQVA1dUtWc2FWLW1yd2gwN3pBSDFmNkFUS3JLeFNyQ0J4dm85ZlFmSlE"
+    },
+    {
       "title": "What makes the Federal Reserve decide to raise or lower interest rates? - Chase Bank",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYmNGVDdWOHB0Y2E3TVNGSVdZbHBqdllnVE9XMXRKRmE5V0l0b3NvZkh0MTR3a0JtdnZMazVKN2FfR1NIdlB5LXZvRkxTaF9jV1ZQVnU5dERKNGNlM2lXdGU4NDluVE5CZmlTLVZENlJBZ1ZXV2NiYXNPWDNTTEhSMlZROVQ3aVhkTzVxNFlLaHF3cUh0dGxwTnFVa0FBY1BNczg1bnpSZVA1eURnbXZ2ag?oc=5",
       "source": "Chase Bank",
       "published_at": "Mon, 28 Sep 2026 18:50:46 GMT",
       "summary": "What makes the Federal Reserve decide to raise or lower interest rates? Chase Bank",
       "guid": "CBMisAFBVV95cUxNYmNGVDdWOHB0Y2E3TVNGSVdZbHBqdllnVE9XMXRKRmE5V0l0b3NvZkh0MTR3a0JtdnZMazVKN2FfR1NIdlB5LXZvRkxTaF9jV1ZQVnU5dERKNGNlM2lXdGU4NDluVE5CZmlTLVZENlJBZ1ZXV2NiYXNPWDNTTEhSMlZROVQ3aVhkTzVxNFlLaHF3cUh0dGxwTnFVa0FBY1BNczg1bnpSZVA1eURnbXZ2ag"
+    },
+    {
+      "title": "Why the AI boom makes inflation harder to tame - CNN",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1XWFE2XzhDVTNaTC12MlEzOFRxSGxQTG9JekVub3QyandhWjNON0dFdVpudDdvaldScVoxZkVXUkc5b3FXRzR1RTZZcURZQ2Y3eTN0N3lDcTZVeVF5N0xVUDF5U2NpVk01Wlc0?oc=5",
+      "source": "CNN",
+      "published_at": "Mon, 28 Sep 2026 09:30:29 GMT",
+      "summary": "Why the AI boom makes inflation harder to tame CNN",
+      "guid": "CBMia0FVX3lxTE1XWFE2XzhDVTNaTC12MlEzOFRxSGxQTG9JekVub3QyandhWjNON0dFdVpudDdvaldScVoxZkVXUkc5b3FXRzR1RTZZcURZQ2Y3eTN0N3lDcTZVeVF5N0xVUDF5U2NpVk01Wlc0"
     },
     {
       "title": "Why I'd Still Buy This 10%-Yielding Dividend Stock After the Fed's Latest Hike - The Motley Fool",
@@ -47,11 +63,11 @@
       "guid": "CBMi5gFBVV95cUxPMjhjWnBNa3pQVm1Yb0taMlNmQjR5RFlUZ3RkR1ZiVHhSeHBuQnE0cnR3ZS1JMERRSGpneEJ0bEV0bDhTTUhiYXp2aXB3SDVSZElYOXJmdkpWSDlXcXFRRkZoT01HaDVUMjNqeWRXXzFyX05HM05CMjFlOWg1NGdENmhwWEdrMmktMWo1QzlZajJnNWRoTjlIUnU2SWJXY3ZoSVBRWmxDLXdfZ3ptSFpoY1FCSFpRRGpiQXczcFRnNXRldFZYSzBIZGR0eEpjQ29udFBMZUJiNG5LX3QwRldjeVZGOXhIUQ"
     },
     {
-      "title": "S&P 500 Falls as Inflation Worry Lifts Bond Yields: Markets Wrap - Bloomberg",
+      "title": "S&P 500 Falls as Inflation Worry Lifts Bond Yields: Markets Wrap - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVGEzeTM5UEZjTzRrYWs4T0hyTTAtRVpvWkJ3UFhUVUNxNF9fQTZBM0JHcHh2WFk4MlFQemNVM1RWMW9RQUh0ZUlEZlYwZ21obEJnRXVjOE5QM2ZFYVEtbHNVNmZ4bUdCRU9FaDRUa3Y3VGpsVHk2MzU1LVU2TmJSY3dGR05mdUhsQ2lnZGQzVndvR1dr?oc=5",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "published_at": "Sun, 27 Sep 2026 22:15:52 GMT",
-      "summary": "S&P 500 Falls as Inflation Worry Lifts Bond Yields: Markets Wrap Bloomberg",
+      "summary": "S&P 500 Falls as Inflation Worry Lifts Bond Yields: Markets Wrap Bloomberg.com",
       "guid": "CBMilAFBVV95cUxNVGEzeTM5UEZjTzRrYWs4T0hyTTAtRVpvWkJ3UFhUVUNxNF9fQTZBM0JHcHh2WFk4MlFQemNVM1RWMW9RQUh0ZUlEZlYwZ21obEJnRXVjOE5QM2ZFYVEtbHNVNmZ4bUdCRU9FaDRUa3Y3VGpsVHk2MzU1LVU2TmJSY3dGR05mdUhsQ2lnZGQzVndvR1dr"
     },
     {
@@ -63,28 +79,12 @@
       "guid": "CBMimwFBVV95cUxOWTBLZmZzeFJtcjY1dVRma3NsTVBuTU1JSjFNbTdVdDUyWFFLNWcxaVV6QkJ1OVd2NWFfal8waFRBdHpnNl9VQXpybzBjU1h3eG9NSjAzWVo1dUNybDZyVHRnWjEyYVc2a21KdEdHaWFVWF9RTkMtNmJPanlLam8zMHp3SjBVZ29tZG04NGdxZnlHWjB2TzFoQ2Ftaw"
     },
     {
-      "title": "Stock Market Today: S&P 500, Dow Jones Futures Fall as Rising Yields and Trump’s Hormuz Deal Rejection Spook Investors—LLY, PEP, JEF in Focus - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNa095bjFuc2pHSzJsN1dYMDVTdi1oYmdWUTJwTnNMcFN1YUVGTHdtLVBpN2NlWkM5ZXdpMDJJd0JIYko4enh3eUJsNHlKaFpNMW5EVDNaQklPRXNJNm9xenVyc3lvSVNZYmQ2RGpjeTEwYzcyWGJCLXh2NDVqUXMybXYyRjI2QWQtUGQ5M05KdWVIQVNvQzl4TUJ3SlJnVnMzWmVQX0VsYjFrSHpmN0VyZ3Q2elBRaVdYaGtQZE1JT0pyUXoyVTE5Zl9PVGRHU0t6WVpOc21CRERGUTl0dzRTNUctc2VEWVRLc0MxVDRDX29qZ1lYRUI2UzZSa3I4aGdiekRVUzMyM21zZ0dyLU8wdUYtZlZsYXFyVGNROUJtcTVvdw?oc=5",
-      "source": "TradingView",
-      "published_at": "Mon, 28 Sep 2026 10:33:58 GMT",
-      "summary": "Stock Market Today: S&P 500, Dow Jones Futures Fall as Rising Yields and Trump’s Hormuz Deal Rejection Spook Investors—LLY, PEP, JEF in Focus TradingView",
-      "guid": "CBMiogJBVV95cUxNa095bjFuc2pHSzJsN1dYMDVTdi1oYmdWUTJwTnNMcFN1YUVGTHdtLVBpN2NlWkM5ZXdpMDJJd0JIYko4enh3eUJsNHlKaFpNMW5EVDNaQklPRXNJNm9xenVyc3lvSVNZYmQ2RGpjeTEwYzcyWGJCLXh2NDVqUXMybXYyRjI2QWQtUGQ5M05KdWVIQVNvQzl4TUJ3SlJnVnMzWmVQX0VsYjFrSHpmN0VyZ3Q2elBRaVdYaGtQZE1JT0pyUXoyVTE5Zl9PVGRHU0t6WVpOc21CRERGUTl0dzRTNUctc2VEWVRLc0MxVDRDX29qZ1lYRUI2UzZSa3I4aGdiekRVUzMyM21zZ0dyLU8wdUYtZlZsYXFyVGNROUJtcTVvdw"
-    },
-    {
       "title": "Here's how high-income Americans keep spending in a shaky economy - USA Today",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMEN4Y1Y4ZTRZM3pSQ0FvLTh0a0ptdzNzaGZWNGQzZ0g2aUFFdzF6bTByNUNhbkRON3A2Q0xfVW15TUlaUkhMSF94Y2MydGNsakE2akRTWWowSlMzUTJaMUdtaXE1RFJocDFVSnprMWpWazVyT201RWlodWlVSmNMWC1vUUt5R2J4Sm10VDc4WHVpS195R1NfSnA0bFdURzR4eUU4eEN5dTlNY3FBLWVaa2pUQ1IxMXBvMHhTRTAxdFdBLUNMbHc?oc=5",
       "source": "USA Today",
       "published_at": "Sat, 26 Sep 2026 09:30:00 GMT",
       "summary": "Here's how high-income Americans keep spending in a shaky economy USA Today",
       "guid": "CBMixgFBVV95cUxNMEN4Y1Y4ZTRZM3pSQ0FvLTh0a0ptdzNzaGZWNGQzZ0g2aUFFdzF6bTByNUNhbkRON3A2Q0xfVW15TUlaUkhMSF94Y2MydGNsakE2akRTWWowSlMzUTJaMUdtaXE1RFJocDFVSnprMWpWazVyT201RWlodWlVSmNMWC1vUUt5R2J4Sm10VDc4WHVpS195R1NfSnA0bFdURzR4eUU4eEN5dTlNY3FBLWVaa2pUQ1IxMXBvMHhTRTAxdFdBLUNMbHc"
-    },
-    {
-      "title": "Recent Economic and Financial Developments - Federal Reserve Board (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KWEN6M3VsdUJpS3YyUzBfc0JpcHhrY3J4LXhhUE90UkdqS1N1OWxCZGw1cWxveExZZ1RfM0dXM1pNMk9HRVctTGNBM2xrQ2Npbjl5OFJkQV9sajMxWHhQSGpXSzNfcGppZDhEaHFraFhUZ0puWFE?oc=5",
-      "source": "Federal Reserve Board (.gov)",
-      "published_at": "Fri, 17 Jul 2026 06:37:05 GMT",
-      "summary": "Recent Economic and Financial Developments Federal Reserve Board (.gov)",
-      "guid": "CBMidkFVX3lxTE9KWEN6M3VsdUJpS3YyUzBfc0JpcHhrY3J4LXhhUE90UkdqS1N1OWxCZGw1cWxveExZZ1RfM0dXM1pNMk9HRVctTGNBM2xrQ2Npbjl5OFJkQV9sajMxWHhQSGpXSzNfcGppZDhEaHFraFhUZ0puWFE"
     }
   ]
 }
