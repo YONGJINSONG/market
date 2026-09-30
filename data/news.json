@@ -1,11 +1,27 @@
 {
-  "generated_at": "2026-09-30T15:16:23Z",
+  "generated_at": "2026-09-30T20:09:31Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "Powell did not break the law with expensive Fed renovations that incensed Trump, report finds - CNN",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWG83SXJvZy1GV0l2M29kZE54MzRPOHU1cUttOEFlWHNKRm56Q1RpcjFUeWxnMzIzVVpseVdoRzRiNVZLbUJxM2F4YjBRNFlPU3ZPU0VseVBRQ29YVHR4MXBIcmowbXU3ZXBGOHFWTUxoTVd1a25qbXFqZFplZXFvWg?oc=5",
+      "source": "CNN",
+      "published_at": "Wed, 30 Sep 2026 17:00:29 GMT",
+      "summary": "Powell did not break the law with expensive Fed renovations that incensed Trump, report finds CNN",
+      "guid": "CBMigAFBVV95cUxQWG83SXJvZy1GV0l2M29kZE54MzRPOHU1cUttOEFlWHNKRm56Q1RpcjFUeWxnMzIzVVpseVdoRzRiNVZLbUJxM2F4YjBRNFlPU3ZPU0VseVBRQ29YVHR4MXBIcmowbXU3ZXBGOHFWTUxoTVd1a25qbXFqZFplZXFvWg"
+    },
+    {
+      "title": "S&P 500, Nasdaq advance as soft inflation tempers Fed rate-hike bets - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZm9Va3FFUy1COVAxaTZhQTFIaEt3UFdUaFhSY2VZUlRlZTVyT1RwTHA3bW1XM1h5UTF3azl1dEJWclBnb0Z5ZDlKaGcyakFSOGp4X1A3VzdfNW9yR2pWWExkSGd5STZJUDg5VDFVcjFWS2ZEODB3cUk0Vk1LdUo0V3Vzank5YW5UdmdxV0FPRml0VDU3bDMw?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Wed, 30 Sep 2026 16:05:01 GMT",
+      "summary": "S&P 500, Nasdaq advance as soft inflation tempers Fed rate-hike bets Yahoo Finance",
+      "guid": "CBMilwFBVV95cUxPZm9Va3FFUy1COVAxaTZhQTFIaEt3UFdUaFhSY2VZUlRlZTVyT1RwTHA3bW1XM1h5UTF3azl1dEJWclBnb0Z5ZDlKaGcyakFSOGp4X1A3VzdfNW9yR2pWWExkSGd5STZJUDg5VDFVcjFWS2ZEODB3cUk0Vk1LdUo0V3Vzank5YW5UdmdxV0FPRml0VDU3bDMw"
+    },
     {
       "title": "China's inside man at the Fed, OpenAI debuts Dots, an IPO trend and more in Morning Squawk - cnbc.com",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRUI3bC1VM1BKZS04c3RPRlF4WEFjR25sZ3JJcTBkLWFEMUN6YUJSUk9sWlhsR1BjNm5DaXo1dXJDVjMzRG1aNmZDU1lFa1FEdHJYMkZSNFVSU0VyX3dOOUxkTklPeG42R0o0X2s4MkFzYWJBeTFHVV9HMVllVVhuZTBnT0k0RXo2amxSWmkxczPSAZABQVVfeXFMUEVCN2wtVTNQSmUtOHN0T0ZReFhBY0dubGdySXEwZC1hRDFDemFCUlJPbFpYbEdQYzZuQ2l6NXVyQ1YzM0RtWjZmQ1NZRWtRRHRyWDJGUjRVUlNFcl93TjlMZE5JT3huNkdKNF9rODJBc2FiQXkxR1VfRzFZZVVYbmUwZ09JNEV6NmpsUlppMXMz?oc=5",
@@ -23,20 +39,12 @@
       "guid": "CBMipAFBVV95cUxPRmR3cTBOOVhRdHBUaGJ0Z0lBY09RNlFCRm9nSkl3bVpTM3lzN3pMTTlZVVJvdnFyT3FzQXZUZ0NLWXUzbGtLQnRFaFlWNmVNUHJnbHcwbjEwbDBvTG1sQkIzdUN4a3d4RW5VcjlKeVhRSUh4TTJXdW92NkE2eDNVTGJOdlBnZHEyQVpVWnIyMk9EQnBEd1l5SjNnREtobGw5bkRGVw"
     },
     {
-      "title": "Europe's surging inflation spreads gloom in stock markets - Yahoo Finance Singapore",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQmljQWQ4VU9rWU1SeV9oUWg5M1VQVV8tX2kyOWRHZEtnRml5T29fczl4c2pNR3dPMTdycHhEcE5JdWNDTGtwb1JEbXk1QmZqc2otYkI3LUJrcms4djFoYzJpcngzRTNySjRLV3BXM0ZxdnVWdGVUYTdXMjVPaVNTeWp4MDg?oc=5",
-      "source": "Yahoo Finance Singapore",
-      "published_at": "Wed, 30 Sep 2026 14:11:07 GMT",
-      "summary": "Europe's surging inflation spreads gloom in stock markets Yahoo Finance Singapore",
-      "guid": "CBMihAFBVV95cUxQQmljQWQ4VU9rWU1SeV9oUWg5M1VQVV8tX2kyOWRHZEtnRml5T29fczl4c2pNR3dPMTdycHhEcE5JdWNDTGtwb1JEbXk1QmZqc2otYkI3LUJrcms4djFoYzJpcngzRTNySjRLV3BXM0ZxdnVWdGVUYTdXMjVPaVNTeWp4MDg"
-    },
-    {
-      "title": "Stocks and bonds are holding relatively steady after a potentially encouraging update on inflation - bnnbloomberg.ca",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPY2xNNEpadmp2b1BFY3hmcFRNcThsR2cwX0JBSDEtVTI2R3YxSkwwQnoxeGRiLUZxc29DdmhyUy1tNkFiV0FhbURwVm9DNU1tQ3NvdmF5ZkJoZ3lxWFRKQXRqblBFenltU3FfeUhhUURLY3FNVEVQMkFuU1NuaWxIclBndkFWYU1qdWNrSEV5S192emtRVzE1V1BoT0M5RUhLRUtOQktoNUFrRTc5UC13MFEza1BPOEtHY2w5ZWlHdXlNWnoyWF9ZZXNxOFh1V1VqTi11aEhPUzdqaVBDYk93?oc=5",
-      "source": "bnnbloomberg.ca",
-      "published_at": "Wed, 30 Sep 2026 13:54:09 GMT",
-      "summary": "Stocks and bonds are holding relatively steady after a potentially encouraging update on inflation bnnbloomberg.ca",
-      "guid": "CBMi3wFBVV95cUxPY2xNNEpadmp2b1BFY3hmcFRNcThsR2cwX0JBSDEtVTI2R3YxSkwwQnoxeGRiLUZxc29DdmhyUy1tNkFiV0FhbURwVm9DNU1tQ3NvdmF5ZkJoZ3lxWFRKQXRqblBFenltU3FfeUhhUURLY3FNVEVQMkFuU1NuaWxIclBndkFWYU1qdWNrSEV5S192emtRVzE1V1BoT0M5RUhLRUtOQktoNUFrRTc5UC13MFEza1BPOEtHY2w5ZWlHdXlNWnoyWF9ZZXNxOFh1V1VqTi11aEhPUzdqaVBDYk93"
+      "title": "Stocks Fall as Long-Term Yields Hit 24-Year High: Markets Wrap - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQODhVaklOeWxwTzlmNzFhOVNJbklKakh1cnBSQWdqX2lEbWZldjlCOWhmaWEtb0FzaE9hTkV0SWpfVUR1cjlVNzROWUhlNDE2SnJmclFfWGRtT3FESmNrb05ENWxHZnJSYWswcHFPdGVpa3FPOTY5WjFzQmtubFd4OEY5MVBXMmtZUWhNN0Vzd3Npcm5S?oc=5",
+      "source": "Bloomberg.com",
+      "published_at": "Mon, 28 Sep 2026 22:11:04 GMT",
+      "summary": "Stocks Fall as Long-Term Yields Hit 24-Year High: Markets Wrap Bloomberg.com",
+      "guid": "CBMilAFBVV95cUxQODhVaklOeWxwTzlmNzFhOVNJbklKakh1cnBSQWdqX2lEbWZldjlCOWhmaWEtb0FzaE9hTkV0SWpfVUR1cjlVNzROWUhlNDE2SnJmclFfWGRtT3FESmNrb05ENWxHZnJSYWswcHFPdGVpa3FPOTY5WjFzQmtubFd4OEY5MVBXMmtZUWhNN0Vzd3Npcm5S"
     },
     {
       "title": "U.S. stocks slip after the Fed raises interest rates, hints more hikes may be on the way - PBS",
@@ -55,12 +63,20 @@
       "guid": "CBMisAFBVV95cUxNYmNGVDdWOHB0Y2E3TVNGSVdZbHBqdllnVE9XMXRKRmE5V0l0b3NvZkh0MTR3a0JtdnZMazVKN2FfR1NIdlB5LXZvRkxTaF9jV1ZQVnU5dERKNGNlM2lXdGU4NDluVE5CZmlTLVZENlJBZ1ZXV2NiYXNPWDNTTEhSMlZROVQ3aVhkTzVxNFlLaHF3cUh0dGxwTnFVa0FBY1BNczg1bnpSZVA1eURnbXZ2ag"
     },
     {
-      "title": "Washington's oldest bank has federal approval for its bank merger; the wider deal still needs votes. - Stock Titan",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbFhnWXZUTks2V3JsTmU5LXdGWFV4blJyUEZHT19oU3pPTXlwNXYzVnh2QkVIYlRWSTFRRDhTZ1RGSmVEQm1IaFNKUmJhVzhhc3A5M055eTdJTDdMeFFxejV2X2RUOW9LV2tnd1Nuam8zM0M2ZjlYRlMtMW94RmNERFBWUmFnUHBoWVZ4YW5tSmpaaEtsNmQtLTVzSHZNWEJMT3ZYUllTOFdtT0ZrRkFyNFhCYmQteTlrclpKcGRWQ0Q?oc=5",
-      "source": "Stock Titan",
-      "published_at": "Wed, 30 Sep 2026 12:28:00 GMT",
-      "summary": "Washington's oldest bank has federal approval for its bank merger; the wider deal still needs votes. Stock Titan",
-      "guid": "CBMiwAFBVV95cUxNbFhnWXZUTks2V3JsTmU5LXdGWFV4blJyUEZHT19oU3pPTXlwNXYzVnh2QkVIYlRWSTFRRDhTZ1RGSmVEQm1IaFNKUmJhVzhhc3A5M055eTdJTDdMeFFxejV2X2RUOW9LV2tnd1Nuam8zM0M2ZjlYRlMtMW94RmNERFBWUmFnUHBoWVZ4YW5tSmpaaEtsNmQtLTVzSHZNWEJMT3ZYUllTOFdtT0ZrRkFyNFhCYmQteTlrclpKcGRWQ0Q"
+      "title": "Wall Street closes in on a winning September following an encouraging update on inflation - BNN Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdEUwRG9rLVBsWnJxNm1OM19mU1JSVkYyQklVWHlseWZoWWU1N0UxUGU2d3NKT0o4TlBTWUhmS3F1YXZlWWpGdWQwNUZOeU13UmNRT0pRS3N1ak5LSGhtLVZORUdFRndzU1BvWnFhN0lwZ1NCbUJJX0RGeVAwbG10MzNyNVZVbmluNDlhOUNFOHBuaEJPd2N0clJyLVdraGJDaHRfbXZ6b3BTRnpsa20xZzkxYWxKeENfZ2o4SDNfYnJGV2pnUnN5VEpybW9HWGY2RWhF?oc=5",
+      "source": "BNN Bloomberg",
+      "published_at": "Wed, 30 Sep 2026 16:51:57 GMT",
+      "summary": "Wall Street closes in on a winning September following an encouraging update on inflation BNN Bloomberg",
+      "guid": "CBMi0wFBVV95cUxQdEUwRG9rLVBsWnJxNm1OM19mU1JSVkYyQklVWHlseWZoWWU1N0UxUGU2d3NKT0o4TlBTWUhmS3F1YXZlWWpGdWQwNUZOeU13UmNRT0pRS3N1ak5LSGhtLVZORUdFRndzU1BvWnFhN0lwZ1NCbUJJX0RGeVAwbG10MzNyNVZVbmluNDlhOUNFOHBuaEJPd2N0clJyLVdraGJDaHRfbXZ6b3BTRnpsa20xZzkxYWxKeENfZ2o4SDNfYnJGV2pnUnN5VEpybW9HWGY2RWhF"
+    },
+    {
+      "title": "Pre-Market Sentiment Climbs as Key Inflation Gauge Cools - Schaeffer's Investment Research",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcmIyNWxrajlnNnZXa1NJXzFVYTU3SVFYdHlHaGVGUFRqZzlqWldxbWNsUk9LR29INy1OZlBiTGJyLU85TG1PTzFjR0VDa0V6anQ3dVRLRm9ELW1ldXZWbDh5QmpuTzljSFRHV2hwRmgxUVhRZUZValk0UkdTQl83OXhNNDdfWHpiX0RreXZ3dVNxblRVSlVCaXg2S2otZm81MndnTE84b2NtaHI0cDJqazJFSU9EV2o1?oc=5",
+      "source": "Schaeffer's Investment Research",
+      "published_at": "Wed, 30 Sep 2026 13:14:32 GMT",
+      "summary": "Pre-Market Sentiment Climbs as Key Inflation Gauge Cools Schaeffer's Investment Research",
+      "guid": "CBMiuAFBVV95cUxPcmIyNWxrajlnNnZXa1NJXzFVYTU3SVFYdHlHaGVGUFRqZzlqWldxbWNsUk9LR29INy1OZlBiTGJyLU85TG1PTzFjR0VDa0V6anQ3dVRLRm9ELW1ldXZWbDh5QmpuTzljSFRHV2hwRmgxUVhRZUZValk0UkdTQl83OXhNNDdfWHpiX0RreXZ3dVNxblRVSlVCaXg2S2otZm81MndnTE84b2NtaHI0cDJqazJFSU9EV2o1"
     },
     {
       "title": "Wall St Week Ahead Jobs report, inflation data to test US rate path, economic strength - Reuters",
@@ -69,22 +85,6 @@
       "published_at": "Sun, 27 Sep 2026 07:00:00 GMT",
       "summary": "Wall St Week Ahead Jobs report, inflation data to test US rate path, economic strength Reuters",
       "guid": "CBMiuAFBVV95cUxOMVdISllUQW1vOGc5UzVfeWVGbVloWmh0U3A3X0N2LU9TQnBfQ0RhU0JfbEZVQlA3MUJhOVBacWg4QkJrdTVQaE50RkpsaGJqOEhWZDU5WDNQTVp0dWtzc3J6ZVlFR3VnZmNnLTlwbEpWZW9yMXh2NThFQnpyd3lNX3JZUUZfQ05vTndubkpBaVgzY2d4b05DOEJUSGZ6RGNuWVlDcU4ybm9IVUQwbWtMUU5Ic2pEdDQ3"
-    },
-    {
-      "title": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says This Will Happen Next. - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbmNaam0teWVpa28wWWVQUm1sT2o4eWdUUjQ4QTZ4NWstbXRmLWhSMFBRMTY5bVJBMkNMVXZzNi05QXhINXgtT0JpclRfcjdhS2tfcVdZUmpVemNtS095Rm9Ta2xwUWNJLWU2RnVwOXBOYVNjZGlDNC1mZEFxeUFNS0JiejN5R2g2RHVxRDNxdTBLMTVQakc4LU1SZ1dORFFXenZ6TldzTHFQQQ?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Sun, 20 Sep 2026 07:00:00 GMT",
-      "summary": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says This Will Happen Next. The Motley Fool",
-      "guid": "CBMiqgFBVV95cUxNbmNaam0teWVpa28wWWVQUm1sT2o4eWdUUjQ4QTZ4NWstbXRmLWhSMFBRMTY5bVJBMkNMVXZzNi05QXhINXgtT0JpclRfcjdhS2tfcVdZUmpVemNtS095Rm9Ta2xwUWNJLWU2RnVwOXBOYVNjZGlDNC1mZEFxeUFNS0JiejN5R2g2RHVxRDNxdTBLMTVQakc4LU1SZ1dORFFXenZ6TldzTHFQQQ"
-    },
-    {
-      "title": "Federal Reserve interest rate hikes usually pound stocks, but then something surprising happens - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMjhjWnBNa3pQVm1Yb0taMlNmQjR5RFlUZ3RkR1ZiVHhSeHBuQnE0cnR3ZS1JMERRSGpneEJ0bEV0bDhTTUhiYXp2aXB3SDVSZElYOXJmdkpWSDlXcXFRRkZoT01HaDVUMjNqeWRXXzFyX05HM05CMjFlOWg1NGdENmhwWEdrMmktMWo1QzlZajJnNWRoTjlIUnU2SWJXY3ZoSVBRWmxDLXdfZ3ptSFpoY1FCSFpRRGpiQXczcFRnNXRldFZYSzBIZGR0eEpjQ29udFBMZUJiNG5LX3QwRldjeVZGOXhIUQ?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Wed, 16 Sep 2026 07:00:00 GMT",
-      "summary": "Federal Reserve interest rate hikes usually pound stocks, but then something surprising happens Yahoo Finance",
-      "guid": "CBMi5gFBVV95cUxPMjhjWnBNa3pQVm1Yb0taMlNmQjR5RFlUZ3RkR1ZiVHhSeHBuQnE0cnR3ZS1JMERRSGpneEJ0bEV0bDhTTUhiYXp2aXB3SDVSZElYOXJmdkpWSDlXcXFRRkZoT01HaDVUMjNqeWRXXzFyX05HM05CMjFlOWg1NGdENmhwWEdrMmktMWo1QzlZajJnNWRoTjlIUnU2SWJXY3ZoSVBRWmxDLXdfZ3ptSFpoY1FCSFpRRGpiQXczcFRnNXRldFZYSzBIZGR0eEpjQ29udFBMZUJiNG5LX3QwRldjeVZGOXhIUQ"
     }
   ]
 }
