@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T12:34:14Z",
+  "generated_at": "2026-10-02T18:01:19Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,10 +7,26 @@
   },
   "items": [
     {
+      "title": "Rising yields are wreaking havoc on stocks - Boston Herald",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYmoxR2pDT1ladWRJUVA1aEtrbGlTeFp0ODVlSEJKcGJIX2p2OXRaZ3BuVHQ5RHFUeGlqRW82Wm9CVHpnMUtCc1AyS253RGtjS2VYMHU1eXlPc1htVVJhYkd1WUdzWGJaWlNNdTA4ZDNpbDhpU0c1YzdQc1ZXck84UTJqWmdoTDVJRmUw?oc=5",
+      "source": "Boston Herald",
+      "published_at": "Fri, 02 Oct 2026 15:51:07 GMT",
+      "summary": "Rising yields are wreaking havoc on stocks Boston Herald",
+      "guid": "CBMiiwFBVV95cUxQYmoxR2pDT1ladWRJUVA1aEtrbGlTeFp0ODVlSEJKcGJIX2p2OXRaZ3BuVHQ5RHFUeGlqRW82Wm9CVHpnMUtCc1AyS253RGtjS2VYMHU1eXlPc1htVVJhYkd1WUdzWGJaWlNNdTA4ZDNpbDhpU0c1YzdQc1ZXck84UTJqWmdoTDVJRmUw"
+    },
+    {
+      "title": "Europe bows to US pressure to release diesel reserves ahead of midterm elections - CNN",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBubGJEb0ZxVzJFSG0wMERBU0tfR2dyZ0VueHZOWW9MZUxjdXZvZENlcXgtZnBDUDRtbFUwbG9ic0RqejhVYXVaUko0a25aQklERFY1S3J6bGJHSGsyOC1MRTV6emZ5STdhaWxucFowbFJzbHNfWHZR?oc=5",
+      "source": "CNN",
+      "published_at": "Fri, 02 Oct 2026 12:38:23 GMT",
+      "summary": "Europe bows to US pressure to release diesel reserves ahead of midterm elections CNN",
+      "guid": "CBMid0FVX3lxTFBubGJEb0ZxVzJFSG0wMERBU0tfR2dyZ0VueHZOWW9MZUxjdXZvZENlcXgtZnBDUDRtbFUwbG9ic0RqejhVYXVaUko0a25aQklERFY1S3J6bGJHSGsyOC1MRTV6emZ5STdhaWxucFowbFJzbHNfWHZR"
+    },
+    {
       "title": "Fed rate hike cycles have a history of denting US stock prices - Reuters",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRmR3cTBOOVhRdHBUaGJ0Z0lBY09RNlFCRm9nSkl3bVpTM3lzN3pMTTlZVVJvdnFyT3FzQXZUZ0NLWXUzbGtLQnRFaFlWNmVNUHJnbHcwbjEwbDBvTG1sQkIzdUN4a3d4RW5VcjlKeVhRSUh4TTJXdW92NkE2eDNVTGJOdlBnZHEyQVpVWnIyMk9EQnBEd1l5SjNnREtobGw5bkRGVw?oc=5",
       "source": "Reuters",
-      "published_at": "Thu, 24 Sep 2026 10:21:02 GMT",
+      "published_at": "Thu, 24 Sep 2026 07:00:00 GMT",
       "summary": "Fed rate hike cycles have a history of denting US stock prices Reuters",
       "guid": "CBMipAFBVV95cUxPRmR3cTBOOVhRdHBUaGJ0Z0lBY09RNlFCRm9nSkl3bVpTM3lzN3pMTTlZVVJvdnFyT3FzQXZUZ0NLWXUzbGtLQnRFaFlWNmVNUHJnbHcwbjEwbDBvTG1sQkIzdUN4a3d4RW5VcjlKeVhRSUh4TTJXdW92NkE2eDNVTGJOdlBnZHEyQVpVWnIyMk9EQnBEd1l5SjNnREtobGw5bkRGVw"
     },
@@ -21,14 +37,6 @@
       "published_at": "Thu, 01 Oct 2026 11:38:08 GMT",
       "summary": "The AI wealth effect Axios",
       "guid": "CBMiaEFVX3lxTE5kckpHLWhsVTJZQTNyaGxBc1FrTmFNMDQ2RjZLTlJpX1dMS0FyVHI2RzMxd0xCT2UtbUl1eEJSS3BRLVlXWU13YnRXR1ZOdEVCbzdPTGdiQks5RGViRm9nU3pVSkN5cFZz"
-    },
-    {
-      "title": "Stock Market Today: Thursday, October 1 - stl.news",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9IX0MxZDg4bGlHYk1Tenp2ZVJHMW52U3FVZWhaN3pHZm1TWi1RMW91YlZwVk4wUmdGZUZkV1pxREhuRk9YVWRGV1JMMVAyZVhFeW5OdmpMdlhZNkcyVklhYjVBcUdyR3MzZDFB?oc=5",
-      "source": "stl.news",
-      "published_at": "Thu, 01 Oct 2026 20:46:17 GMT",
-      "summary": "Stock Market Today: Thursday, October 1 stl.news",
-      "guid": "CBMia0FVX3lxTE9IX0MxZDg4bGlHYk1Tenp2ZVJHMW52U3FVZWhaN3pHZm1TWi1RMW91YlZwVk4wUmdGZUZkV1pxREhuRk9YVWRGV1JMMVAyZVhFeW5OdmpMdlhZNkcyVklhYjVBcUdyR3MzZDFB"
     },
     {
       "title": "U.S. stocks slip after the Fed raises interest rates, hints more hikes may be on the way - PBS",
@@ -47,12 +55,12 @@
       "guid": "CBMi5gFBVV95cUxPMjhjWnBNa3pQVm1Yb0taMlNmQjR5RFlUZ3RkR1ZiVHhSeHBuQnE0cnR3ZS1JMERRSGpneEJ0bEV0bDhTTUhiYXp2aXB3SDVSZElYOXJmdkpWSDlXcXFRRkZoT01HaDVUMjNqeWRXXzFyX05HM05CMjFlOWg1NGdENmhwWEdrMmktMWo1QzlZajJnNWRoTjlIUnU2SWJXY3ZoSVBRWmxDLXdfZ3ptSFpoY1FCSFpRRGpiQXczcFRnNXRldFZYSzBIZGR0eEpjQ29udFBMZUJiNG5LX3QwRldjeVZGOXhIUQ"
     },
     {
-      "title": "Kevin Warsh's Inflation Stance Makes These Cheap Dividend Stocks Look a Lot More Attractive - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUkFWS1dsVWp1ak1zTndEYTBpWkV3MGI0SEVSbERraTdvTHhXUmdIazJ0ejlmOE1HUzBVZjg4NWN5d01DT0Y5ZHJMT3paQmttRWVZQVBSVGNhN00wTy05X19ZbGtVRmxCRzZjdlBXYkt1UmJEd3JTUkRZQXV5VHlOQ0k5d0FBY3VIc1lySUhQbnVvWTEzbnJodw?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Thu, 01 Oct 2026 23:15:00 GMT",
-      "summary": "Kevin Warsh's Inflation Stance Makes These Cheap Dividend Stocks Look a Lot More Attractive The Motley Fool",
-      "guid": "CBMimAFBVV95cUxPUkFWS1dsVWp1ak1zTndEYTBpWkV3MGI0SEVSbERraTdvTHhXUmdIazJ0ejlmOE1HUzBVZjg4NWN5d01DT0Y5ZHJMT3paQmttRWVZQVBSVGNhN00wTy05X19ZbGtVRmxCRzZjdlBXYkt1UmJEd3JTUkRZQXV5VHlOQ0k5d0FBY3VIc1lySUhQbnVvWTEzbnJodw"
+      "title": "Stocks Climb as Calm Prevails Before Payrolls: Markets Wrap - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSUFiYWRiZGVNU3JRMmxjQlYySldmWGgzdHVtbmxoaGpzRVRzdkVFYVVVT0w1OGg2bHZwWHVGdEc3UTduZW95UTNxYnZzM3g4d1F4Q0Vnc2ZTcFBULUt6SkxBUWhGS0NfTFlrMTMxZVJsLTVXU3F2bWc4cFRmNWVqWFg5SmZGeXA3NDFyTHh0N3NMck9CYmxnRUJwazlVNXdndzZuVy16Z3JLSDIyZXRWNmlR?oc=5",
+      "source": "Bloomberg.com",
+      "published_at": "Thu, 01 Oct 2026 22:15:32 GMT",
+      "summary": "Stocks Climb as Calm Prevails Before Payrolls: Markets Wrap Bloomberg.com",
+      "guid": "CBMisgFBVV95cUxOSUFiYWRiZGVNU3JRMmxjQlYySldmWGgzdHVtbmxoaGpzRVRzdkVFYVVVT0w1OGg2bHZwWHVGdEc3UTduZW95UTNxYnZzM3g4d1F4Q0Vnc2ZTcFBULUt6SkxBUWhGS0NfTFlrMTMxZVJsLTVXU3F2bWc4cFRmNWVqWFg5SmZGeXA3NDFyTHh0N3NMck9CYmxnRUJwazlVNXdndzZuVy16Z3JLSDIyZXRWNmlR"
     },
     {
       "title": "What makes the Federal Reserve decide to raise or lower interest rates? - Chase Bank",
@@ -63,28 +71,20 @@
       "guid": "CBMisAFBVV95cUxNYmNGVDdWOHB0Y2E3TVNGSVdZbHBqdllnVE9XMXRKRmE5V0l0b3NvZkh0MTR3a0JtdnZMazVKN2FfR1NIdlB5LXZvRkxTaF9jV1ZQVnU5dERKNGNlM2lXdGU4NDluVE5CZmlTLVZENlJBZ1ZXV2NiYXNPWDNTTEhSMlZROVQ3aVhkTzVxNFlLaHF3cUh0dGxwTnFVa0FBY1BNczg1bnpSZVA1eURnbXZ2ag"
     },
     {
-      "title": "Your Stocks Could Feel the Fed's Rate Hike Next, Jim Cramer Warns - BeInCrypto",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE10b1hSRHdpQkVLUnM3R2k3ZzVOeVBpVE5teXA0LVM3Nnd2NUVaRjFlcUFvcnlreXRaM185ZlZITGsyektqekJzSkZnbFEyT05aZ1JBOU9XRkN6bTluSVNQT00wbkZndnFXY0lkRHFNRGlrVldvbUE?oc=5",
-      "source": "BeInCrypto",
-      "published_at": "Fri, 02 Oct 2026 05:45:00 GMT",
-      "summary": "Your Stocks Could Feel the Fed's Rate Hike Next, Jim Cramer Warns BeInCrypto",
-      "guid": "CBMidkFVX3lxTE10b1hSRHdpQkVLUnM3R2k3ZzVOeVBpVE5teXA0LVM3Nnd2NUVaRjFlcUFvcnlreXRaM185ZlZITGsyektqekJzSkZnbFEyT05aZ1JBOU9XRkN6bTluSVNQT00wbkZndnFXY0lkRHFNRGlrVldvbUE"
+      "title": "U.S. stocks rise near their record after the latest jobs report eases worries about inflation - BNN Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxON2tKSzdiamwwNUVxbUV1Rlp3UXJ2WXQwMGthenF2SGUtZm5Jck42UTJIOW9OSHdzN3lNT2pRU3ZlcVlCQllUY1lHOXpNRl8xS2MwTkt2Mm8yQnFUMFNXcDNwbm9MeTJfWTFPS0YxM2VFcmNrUTk4R21Lb2RLeFZvSS03QmU3eGZYWkdFYzd4TXJrd2Zncnl6c1AzeUt4RTlyUHdFdW9Wa0RoTWxkOTlvd2xMY1MzV0kzejVpRXVrdFVScS1OWnFwR0lUWnEyQm4zcVhveEE4ckQ?oc=5",
+      "source": "BNN Bloomberg",
+      "published_at": "Fri, 02 Oct 2026 16:13:18 GMT",
+      "summary": "U.S. stocks rise near their record after the latest jobs report eases worries about inflation BNN Bloomberg",
+      "guid": "CBMi2AFBVV95cUxON2tKSzdiamwwNUVxbUV1Rlp3UXJ2WXQwMGthenF2SGUtZm5Jck42UTJIOW9OSHdzN3lNT2pRU3ZlcVlCQllUY1lHOXpNRl8xS2MwTkt2Mm8yQnFUMFNXcDNwbm9MeTJfWTFPS0YxM2VFcmNrUTk4R21Lb2RLeFZvSS03QmU3eGZYWkdFYzd4TXJrd2Zncnl6c1AzeUt4RTlyUHdFdW9Wa0RoTWxkOTlvd2xMY1MzV0kzejVpRXVrdFVScS1OWnFwR0lUWnEyQm4zcVhveEE4ckQ"
     },
     {
-      "title": "Wall St Week Ahead Jobs report, inflation data to test US rate path, economic strength - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMVdISllUQW1vOGc5UzVfeWVGbVloWmh0U3A3X0N2LU9TQnBfQ0RhU0JfbEZVQlA3MUJhOVBacWg4QkJrdTVQaE50RkpsaGJqOEhWZDU5WDNQTVp0dWtzc3J6ZVlFR3VnZmNnLTlwbEpWZW9yMXh2NThFQnpyd3lNX3JZUUZfQ05vTndubkpBaVgzY2d4b05DOEJUSGZ6RGNuWVlDcU4ybm9IVUQwbWtMUU5Ic2pEdDQ3?oc=5",
-      "source": "Reuters",
-      "published_at": "Sun, 27 Sep 2026 07:00:00 GMT",
-      "summary": "Wall St Week Ahead Jobs report, inflation data to test US rate path, economic strength Reuters",
-      "guid": "CBMiuAFBVV95cUxOMVdISllUQW1vOGc5UzVfeWVGbVloWmh0U3A3X0N2LU9TQnBfQ0RhU0JfbEZVQlA3MUJhOVBacWg4QkJrdTVQaE50RkpsaGJqOEhWZDU5WDNQTVp0dWtzc3J6ZVlFR3VnZmNnLTlwbEpWZW9yMXh2NThFQnpyd3lNX3JZUUZfQ05vTndubkpBaVgzY2d4b05DOEJUSGZ6RGNuWVlDcU4ybm9IVUQwbWtMUU5Ic2pEdDQ3"
-    },
-    {
-      "title": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says This Will Happen Next. - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNVFmTDEyZGdmOW9nNl9ra0tsc2dOTmNiSkNvZXBjSFR6bUVHTjBRS1ljVjBHZndyNjRMUWJHdXVGeHh1Z3JmVXIxQlNBbEV2T0NLVEFua1ltLTJwT1BwdGFvUElGUjQ2TDZlVU5NX2ZnT1ZTTDJ1WmpBWGt3Ym0xR0hPOHd6RzFyYkRxTnQyMXZobExpamhpakZZZHA?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Sun, 20 Sep 2026 07:00:00 GMT",
-      "summary": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says This Will Happen Next. Yahoo Finance",
-      "guid": "CBMinAFBVV95cUxNNVFmTDEyZGdmOW9nNl9ra0tsc2dOTmNiSkNvZXBjSFR6bUVHTjBRS1ljVjBHZndyNjRMUWJHdXVGeHh1Z3JmVXIxQlNBbEV2T0NLVEFua1ltLTJwT1BwdGFvUElGUjQ2TDZlVU5NX2ZnT1ZTTDJ1WmpBWGt3Ym0xR0hPOHd6RzFyYkRxTnQyMXZobExpamhpakZZZHA"
+      "title": "Federal Reserve Monetary Policy Impact on Markets - Funds Society",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMnRXZktOdkVBVHlBbTNPLXlXaGtiLTZiOUNoRWRsN1JGTzZRSnFwZ0U5YXRnb01wUHlBQVpUWmd3V3JfY3RNYUdFdmJzbXdHREE3WG1JMkRsWXhNQjBnbEtBd2t4ZGlPYWdtVjJnc2FWX1k1cjNfLTU3NjRQYjdGTmJYQ09yNkNPQlV6XzRRc0piV1ZXNTRtQVFoTXhDem1MY2U0eXh5WVYxejJPTU9mT1FDaUxuZmczcUQ5SW9SbWxZN2s?oc=5",
+      "source": "Funds Society",
+      "published_at": "Wed, 30 Sep 2026 14:42:00 GMT",
+      "summary": "Federal Reserve Monetary Policy Impact on Markets Funds Society",
+      "guid": "CBMiwwFBVV95cUxPMnRXZktOdkVBVHlBbTNPLXlXaGtiLTZiOUNoRWRsN1JGTzZRSnFwZ0U5YXRnb01wUHlBQVpUWmd3V3JfY3RNYUdFdmJzbXdHREE3WG1JMkRsWXhNQjBnbEtBd2t4ZGlPYWdtVjJnc2FWX1k1cjNfLTU3NjRQYjdGTmJYQ09yNkNPQlV6XzRRc0piV1ZXNTRtQVFoTXhDem1MY2U0eXh5WVYxejJPTU9mT1FDaUxuZmczcUQ5SW9SbWxZN2s"
     }
   ]
 }
