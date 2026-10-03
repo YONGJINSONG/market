@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T01:09:29Z",
+  "generated_at": "2026-10-03T06:26:42Z",
   "source": {
     "provider": "Yahoo Finance",
     "endpoint": "https://query1.finance.yahoo.com/v8/finance/chart/{symbol}"
@@ -54,9 +54,9 @@
       "symbol": "BTC",
       "quote_symbol": "BTC-USD",
       "name": "Bitcoin",
-      "price": 84671.17,
-      "change": -181.93156250000175,
-      "change_percent": -0.2144076753234494,
+      "price": 84652.78,
+      "change": -200.32156250000116,
+      "change_percent": -0.23608042465301154,
       "up": false,
       "currency": "USD",
       "market_state": null,
@@ -69,9 +69,9 @@
       "symbol": "GOLD",
       "quote_symbol": "GC=F",
       "name": "Gold Futures",
-      "price": 4172.1,
-      "change": -30.199804687499636,
-      "change_percent": -0.718649456038642,
+      "price": 4162.3,
+      "change": -39.99980468749982,
+      "change_percent": -0.9518550923682697,
       "up": false,
       "currency": "USD",
       "market_state": null,
