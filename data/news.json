@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T00:12:09Z",
+  "generated_at": "2026-10-04T05:48:26Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,28 +7,20 @@
   },
   "items": [
     {
+      "title": "The AI wealth effect - Axios",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kckpHLWhsVTJZQTNyaGxBc1FrTmFNMDQ2RjZLTlJpX1dMS0FyVHI2RzMxd0xCT2UtbUl1eEJSS3BRLVlXWU13YnRXR1ZOdEVCbzdPTGdiQks5RGViRm9nU3pVSkN5cFZz?oc=5",
+      "source": "Axios",
+      "published_at": "Thu, 01 Oct 2026 11:38:08 GMT",
+      "summary": "The AI wealth effect Axios",
+      "guid": "CBMiaEFVX3lxTE5kckpHLWhsVTJZQTNyaGxBc1FrTmFNMDQ2RjZLTlJpX1dMS0FyVHI2RzMxd0xCT2UtbUl1eEJSS3BRLVlXWU13YnRXR1ZOdEVCbzdPTGdiQks5RGViRm9nU3pVSkN5cFZz"
+    },
+    {
       "title": "Navigating Geoeconomic Risk in the U.S. Stock Market - Liberty Street Economics",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaVEwbEZyLWJuQXQ2OVdxaEdXb19HNVdYbUFybFNDeC1OSFVTUUhWaU1iUUFYSWlBSG1hYzloRHBIVTJKNkdTWGNUWmx5ejhIWF90Q0gzOG1LV1E2VEUtR2c0R0JYbzhpSzVweGVjUVN1YzllOU1kWGtIcmU5aFNsc2Jubm5jSi12X2ItVG9rU0V1YWpIRzVidkRValA2WHpDdHNWWlRlU2Ezdw?oc=5",
       "source": "Liberty Street Economics",
       "published_at": "Thu, 01 Oct 2026 11:00:58 GMT",
       "summary": "Navigating Geoeconomic Risk in the U.S. Stock Market Liberty Street Economics",
       "guid": "CBMiqgFBVV95cUxPaVEwbEZyLWJuQXQ2OVdxaEdXb19HNVdYbUFybFNDeC1OSFVTUUhWaU1iUUFYSWlBSG1hYzloRHBIVTJKNkdTWGNUWmx5ejhIWF90Q0gzOG1LV1E2VEUtR2c0R0JYbzhpSzVweGVjUVN1YzllOU1kWGtIcmU5aFNsc2Jubm5jSi12X2ItVG9rU0V1YWpIRzVidkRValA2WHpDdHNWWlRlU2Ezdw"
-    },
-    {
-      "title": "The AI wealth effect - Axios",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kckpHLWhsVTJZQTNyaGxBc1FrTmFNMDQ2RjZLTlJpX1dMS0FyVHI2RzMxd0xCT2UtbUl1eEJSS3BRLVlXWU13YnRXR1ZOdEVCbzdPTGdiQks5RGViRm9nU3pVSkN5cFZz?oc=5",
-      "source": "Axios",
-      "published_at": "Fri, 02 Oct 2026 01:04:35 GMT",
-      "summary": "The AI wealth effect Axios",
-      "guid": "CBMiaEFVX3lxTE5kckpHLWhsVTJZQTNyaGxBc1FrTmFNMDQ2RjZLTlJpX1dMS0FyVHI2RzMxd0xCT2UtbUl1eEJSS3BRLVlXWU13YnRXR1ZOdEVCbzdPTGdiQks5RGViRm9nU3pVSkN5cFZz"
-    },
-    {
-      "title": "Stocks Climb as Calm Prevails Before Payrolls: Markets Wrap - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSUFiYWRiZGVNU3JRMmxjQlYySldmWGgzdHVtbmxoaGpzRVRzdkVFYVVVT0w1OGg2bHZwWHVGdEc3UTduZW95UTNxYnZzM3g4d1F4Q0Vnc2ZTcFBULUt6SkxBUWhGS0NfTFlrMTMxZVJsLTVXU3F2bWc4cFRmNWVqWFg5SmZGeXA3NDFyTHh0N3NMck9CYmxnRUJwazlVNXdndzZuVy16Z3JLSDIyZXRWNmlR?oc=5",
-      "source": "Bloomberg.com",
-      "published_at": "Thu, 01 Oct 2026 22:15:32 GMT",
-      "summary": "Stocks Climb as Calm Prevails Before Payrolls: Markets Wrap Bloomberg.com",
-      "guid": "CBMisgFBVV95cUxOSUFiYWRiZGVNU3JRMmxjQlYySldmWGgzdHVtbmxoaGpzRVRzdkVFYVVVT0w1OGg2bHZwWHVGdEc3UTduZW95UTNxYnZzM3g4d1F4Q0Vnc2ZTcFBULUt6SkxBUWhGS0NfTFlrMTMxZVJsLTVXU3F2bWc4cFRmNWVqWFg5SmZGeXA3NDFyTHh0N3NMck9CYmxnRUJwazlVNXdndzZuVy16Z3JLSDIyZXRWNmlR"
     },
     {
       "title": "Fed rate hike cycles have a history of denting US stock prices - Reuters",
@@ -63,6 +55,22 @@
       "guid": "CBMiiwFBVV95cUxQYmoxR2pDT1ladWRJUVA1aEtrbGlTeFp0ODVlSEJKcGJIX2p2OXRaZ3BuVHQ5RHFUeGlqRW82Wm9CVHpnMUtCc1AyS253RGtjS2VYMHU1eXlPc1htVVJhYkd1WUdzWGJaWlNNdTA4ZDNpbDhpU0c1YzdQc1ZXck84UTJqWmdoTDVJRmUw"
     },
     {
+      "title": "Kevin Warsh Was Confirmed as Fed Chair in the Most Divisive Vote in Federal Reserve History, 54-45. Here's Why That Split Still Matters Now That He's Raised Rates for the First Time Since 2023. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVjhEQ3pmSHJTOE5UWTlVUlNPendEZDIzcmdGWWNEcnY4TkFCODBudVByaThtVF9URjlrbW5oMi1zUVRaV2lFQmZ1U09pVXJFV3NRNnVPR3hUOEU2OWF3RWRjUXBiVXRTTWtRUV9aTUk0S3ZXS2NGQkhFSGM1STJQT1VCZHdoUUZFQk5CdjlHb0RSSHBEaHNSWg?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Sun, 04 Oct 2026 03:25:15 GMT",
+      "summary": "Kevin Warsh Was Confirmed as Fed Chair in the Most Divisive Vote in Federal Reserve History, 54-45. Here's Why That Split Still Matters Now That He's Raised Rates for the First Time Since 2023. The Motley Fool",
+      "guid": "CBMimAFBVV95cUxOVjhEQ3pmSHJTOE5UWTlVUlNPendEZDIzcmdGWWNEcnY4TkFCODBudVByaThtVF9URjlrbW5oMi1zUVRaV2lFQmZ1U09pVXJFV3NRNnVPR3hUOEU2OWF3RWRjUXBiVXRTTWtRUV9aTUk0S3ZXS2NGQkhFSGM1STJQT1VCZHdoUUZFQk5CdjlHb0RSSHBEaHNSWg"
+    },
+    {
+      "title": "Stocks Climb as Calm Prevails Before Payrolls: Markets Wrap - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSUFiYWRiZGVNU3JRMmxjQlYySldmWGgzdHVtbmxoaGpzRVRzdkVFYVVVT0w1OGg2bHZwWHVGdEc3UTduZW95UTNxYnZzM3g4d1F4Q0Vnc2ZTcFBULUt6SkxBUWhGS0NfTFlrMTMxZVJsLTVXU3F2bWc4cFRmNWVqWFg5SmZGeXA3NDFyTHh0N3NMck9CYmxnRUJwazlVNXdndzZuVy16Z3JLSDIyZXRWNmlR?oc=5",
+      "source": "Bloomberg.com",
+      "published_at": "Thu, 01 Oct 2026 22:15:32 GMT",
+      "summary": "Stocks Climb as Calm Prevails Before Payrolls: Markets Wrap Bloomberg.com",
+      "guid": "CBMisgFBVV95cUxOSUFiYWRiZGVNU3JRMmxjQlYySldmWGgzdHVtbmxoaGpzRVRzdkVFYVVVT0w1OGg2bHZwWHVGdEc3UTduZW95UTNxYnZzM3g4d1F4Q0Vnc2ZTcFBULUt6SkxBUWhGS0NfTFlrMTMxZVJsLTVXU3F2bWc4cFRmNWVqWFg5SmZGeXA3NDFyTHh0N3NMck9CYmxnRUJwazlVNXdndzZuVy16Z3JLSDIyZXRWNmlR"
+    },
+    {
       "title": "Stock Market Rallies on Friday, Oct. 2, 2026 - stl.news",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvaExwNDA1OHIzak9kQmRvaWR1bUdqamk3T1RvWGJJQVYzTlk1NGt3akdHRVRjejBmeFd3NW00MTl1TlA1bEl3bDNaSUdrSlp1OHI0Qkg4VjgxMVNtY2oyS3QwNmpmS1dvaGRqVnhkTjY?oc=5",
       "source": "stl.news",
@@ -71,20 +79,12 @@
       "guid": "CBMicEFVX3lxTFBvaExwNDA1OHIzak9kQmRvaWR1bUdqamk3T1RvWGJJQVYzTlk1NGt3akdHRVRjejBmeFd3NW00MTl1TlA1bEl3bDNaSUdrSlp1OHI0Qkg4VjgxMVNtY2oyS3QwNmpmS1dvaGRqVnhkTjY"
     },
     {
-      "title": "What makes the Federal Reserve decide to raise or lower interest rates? - Chase Bank",
+      "title": "What makes the Federal Reserve decide to raise or lower interest rates? - chase.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYmNGVDdWOHB0Y2E3TVNGSVdZbHBqdllnVE9XMXRKRmE5V0l0b3NvZkh0MTR3a0JtdnZMazVKN2FfR1NIdlB5LXZvRkxTaF9jV1ZQVnU5dERKNGNlM2lXdGU4NDluVE5CZmlTLVZENlJBZ1ZXV2NiYXNPWDNTTEhSMlZROVQ3aVhkTzVxNFlLaHF3cUh0dGxwTnFVa0FBY1BNczg1bnpSZVA1eURnbXZ2ag?oc=5",
-      "source": "Chase Bank",
+      "source": "chase.com",
       "published_at": "Mon, 28 Sep 2026 18:50:46 GMT",
-      "summary": "What makes the Federal Reserve decide to raise or lower interest rates? Chase Bank",
+      "summary": "What makes the Federal Reserve decide to raise or lower interest rates? chase.com",
       "guid": "CBMisAFBVV95cUxNYmNGVDdWOHB0Y2E3TVNGSVdZbHBqdllnVE9XMXRKRmE5V0l0b3NvZkh0MTR3a0JtdnZMazVKN2FfR1NIdlB5LXZvRkxTaF9jV1ZQVnU5dERKNGNlM2lXdGU4NDluVE5CZmlTLVZENlJBZ1ZXV2NiYXNPWDNTTEhSMlZROVQ3aVhkTzVxNFlLaHF3cUh0dGxwTnFVa0FBY1BNczg1bnpSZVA1eURnbXZ2ag"
-    },
-    {
-      "title": "Federal Reserve Monetary Policy Impact on Markets - Funds Society",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMnRXZktOdkVBVHlBbTNPLXlXaGtiLTZiOUNoRWRsN1JGTzZRSnFwZ0U5YXRnb01wUHlBQVpUWmd3V3JfY3RNYUdFdmJzbXdHREE3WG1JMkRsWXhNQjBnbEtBd2t4ZGlPYWdtVjJnc2FWX1k1cjNfLTU3NjRQYjdGTmJYQ09yNkNPQlV6XzRRc0piV1ZXNTRtQVFoTXhDem1MY2U0eXh5WVYxejJPTU9mT1FDaUxuZmczcUQ5SW9SbWxZN2s?oc=5",
-      "source": "Funds Society",
-      "published_at": "Wed, 30 Sep 2026 14:42:00 GMT",
-      "summary": "Federal Reserve Monetary Policy Impact on Markets Funds Society",
-      "guid": "CBMiwwFBVV95cUxPMnRXZktOdkVBVHlBbTNPLXlXaGtiLTZiOUNoRWRsN1JGTzZRSnFwZ0U5YXRnb01wUHlBQVpUWmd3V3JfY3RNYUdFdmJzbXdHREE3WG1JMkRsWXhNQjBnbEtBd2t4ZGlPYWdtVjJnc2FWX1k1cjNfLTU3NjRQYjdGTmJYQ09yNkNPQlV6XzRRc0piV1ZXNTRtQVFoTXhDem1MY2U0eXh5WVYxejJPTU9mT1FDaUxuZmczcUQ5SW9SbWxZN2s"
     }
   ]
 }
