@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T15:02:29Z",
+  "generated_at": "2026-10-05T21:59:19Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,20 +7,12 @@
   },
   "items": [
     {
-      "title": "8 Years of History Warns What a September Rate Hike Could Mean for Stocks - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZVU4Z3hrTG9TNmM2RzduUHlUbUdzZFBJYXFlU3ZnYjJBNlRBWFlKc2t2SFZJUy1LNDVJTExpY1BqRTd3c19fX3M4M1N2WTlsRGJBTjVyUjBLY1RRak1faVBkSTVWbmI0cUJPcDh2OFFobUNjZzJMMU9GYmlsbXRPTHljMWxDUjB2dXVZWms0M2lacGstLVJBTQ?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Mon, 05 Oct 2026 07:15:00 GMT",
-      "summary": "8 Years of History Warns What a September Rate Hike Could Mean for Stocks The Motley Fool",
-      "guid": "CBMimAFBVV95cUxPZVU4Z3hrTG9TNmM2RzduUHlUbUdzZFBJYXFlU3ZnYjJBNlRBWFlKc2t2SFZJUy1LNDVJTExpY1BqRTd3c19fX3M4M1N2WTlsRGJBTjVyUjBLY1RRak1faVBkSTVWbmI0cUJPcDh2OFFobUNjZzJMMU9GYmlsbXRPTHljMWxDUjB2dXVZWms0M2lacGstLVJBTQ"
-    },
-    {
-      "title": "U.S. stock futures subdued as traders weigh elevated yields, hopes for Fed pause - Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMzZtS0thRlRiOHc0c28zV0EydE9CZGtJNTBhbEdMYXhxVUpSWjQyN2xFSmNQVE5qWmM1M3hTcDhmU1Z3c3lSVkpvMW92a2txUEwzSkpfM3VlcjhQM09UdXhvZWNjaHZ2eGQ3ZFdmV0ZPRmdES3l1b3RxS3IyLUloYUt6cDVwR01FdmFtUmdETVlqRGZaaExQUHd1ZjlDZGFBZTVxbkdGSHNNQ3F3WHZIMndvc3UzU0EwTWJDQjRJeFo?oc=5",
-      "source": "Investing.com",
-      "published_at": "Mon, 05 Oct 2026 00:21:27 GMT",
-      "summary": "U.S. stock futures subdued as traders weigh elevated yields, hopes for Fed pause Investing.com",
-      "guid": "CBMiwAFBVV95cUxPMzZtS0thRlRiOHc0c28zV0EydE9CZGtJNTBhbEdMYXhxVUpSWjQyN2xFSmNQVE5qWmM1M3hTcDhmU1Z3c3lSVkpvMW92a2txUEwzSkpfM3VlcjhQM09UdXhvZWNjaHZ2eGQ3ZFdmV0ZPRmdES3l1b3RxS3IyLUloYUt6cDVwR01FdmFtUmdETVlqRGZaaExQUHd1ZjlDZGFBZTVxbkdGSHNNQ3F3WHZIMndvc3UzU0EwTWJDQjRJeFo"
+      "title": "5 Things to Know Before the Stock Market Opens on Monday - Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ3FvQUNnMDRrazFzQkhBT2RwYkZwYVNHYTFyR3A4ZnpWRGZfdG1oemhwUS14UzVlUTJSa0lVTjNDSy1zYndRM19TWXpUUDBjbFZ3LWdaQXlUU1FNNkN3SmotY0RtZ2hfVHpOazlVT2JCdEE2ZFk5VXNfMDV3cl9MMVRXeTNHMXFNakQwZDVyZnZLNzlMdHdnd0ZGVDU1a1FyVFhzV0s2N1RlZ1JLQUE?oc=5",
+      "source": "Investopedia",
+      "published_at": "Mon, 05 Oct 2026 12:04:49 GMT",
+      "summary": "5 Things to Know Before the Stock Market Opens on Monday Investopedia",
+      "guid": "CBMirgFBVV95cUxPQ3FvQUNnMDRrazFzQkhBT2RwYkZwYVNHYTFyR3A4ZnpWRGZfdG1oemhwUS14UzVlUTJSa0lVTjNDSy1zYndRM19TWXpUUDBjbFZ3LWdaQXlUU1FNNkN3SmotY0RtZ2hfVHpOazlVT2JCdEE2ZFk5VXNfMDV3cl9MMVRXeTNHMXFNakQwZDVyZnZLNzlMdHdnd0ZGVDU1a1FyVFhzV0s2N1RlZ1JLQUE"
     },
     {
       "title": "Fed rate hike cycles have a history of denting US stock prices - Reuters",
@@ -31,12 +23,44 @@
       "guid": "CBMipAFBVV95cUxPRmR3cTBOOVhRdHBUaGJ0Z0lBY09RNlFCRm9nSkl3bVpTM3lzN3pMTTlZVVJvdnFyT3FzQXZUZ0NLWXUzbGtLQnRFaFlWNmVNUHJnbHcwbjEwbDBvTG1sQkIzdUN4a3d4RW5VcjlKeVhRSUh4TTJXdW92NkE2eDNVTGJOdlBnZHEyQVpVWnIyMk9EQnBEd1l5SjNnREtobGw5bkRGVw"
     },
     {
-      "title": "World shares advance and oil prices fall as worries over inflation ease - Stamford Advocate",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOS1HSXNjZ0dVVmV5WWItSlBsdWVBeXRjcThpSHJiWnF3RWJWTUFjSkhzNlJFaFNKdmlfbkVxSDNHSFVTNUo5WUZtWC0zY3h0a2JlLVR4NGEwOGZPaHUydVdWLXpoWDFmRDAwUExMRUlrZWt4UDZ0Z0FablBjZUJOakQ3OG5VWjZiOXBqYzlsZU9ISFFvVjJFcG1hVFk5MVJ0cmJGRlg5bG9QeUJfUC1OSw?oc=5",
-      "source": "Stamford Advocate",
-      "published_at": "Mon, 05 Oct 2026 10:11:09 GMT",
-      "summary": "World shares advance and oil prices fall as worries over inflation ease Stamford Advocate",
-      "guid": "CBMisAFBVV95cUxOOS1HSXNjZ0dVVmV5WWItSlBsdWVBeXRjcThpSHJiWnF3RWJWTUFjSkhzNlJFaFNKdmlfbkVxSDNHSFVTNUo5WUZtWC0zY3h0a2JlLVR4NGEwOGZPaHUydVdWLXpoWDFmRDAwUExMRUlrZWt4UDZ0Z0FablBjZUJOakQ3OG5VWjZiOXBqYzlsZU9ISFFvVjJFcG1hVFk5MVJ0cmJGRlg5bG9QeUJfUC1OSw"
+      "title": "Sprout Social, Tenable, AppLovin, Toast, and Braze Shares Skyrocket, What You Need To Know - StockStory",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUU1oYmJ6UG9TV0s3TzFoVDFYOHhhZ2NLVWMxc3Q5enZpWjVxeFUwcTlFTXFTc0g2VlM2OWVfWGxKWDNVdVJLbjJwTE5FZmlpT0h1NlJ0c3VRSnIwU01sdXcyMUpWd1hSOHJoMjNRdlBBUUpFd0ExOXRQM0pjZnBMSEx6aUNkbXVjWDB0clpWcUFMVExKcTlONWEzWlg0R3hKQ05mUC1VZ3l5dkVyR05ncE5kYk9pN1VjRy1fVXNscXhiaWR1YTNTY0RxNVFadHhIRTAyZktVYmlUSDBOclhv?oc=5",
+      "source": "StockStory",
+      "published_at": "Mon, 05 Oct 2026 18:22:30 GMT",
+      "summary": "Sprout Social, Tenable, AppLovin, Toast, and Braze Shares Skyrocket, What You Need To Know StockStory",
+      "guid": "CBMi3wFBVV95cUxPUU1oYmJ6UG9TV0s3TzFoVDFYOHhhZ2NLVWMxc3Q5enZpWjVxeFUwcTlFTXFTc0g2VlM2OWVfWGxKWDNVdVJLbjJwTE5FZmlpT0h1NlJ0c3VRSnIwU01sdXcyMUpWd1hSOHJoMjNRdlBBUUpFd0ExOXRQM0pjZnBMSEx6aUNkbXVjWDB0clpWcUFMVExKcTlONWEzWlg0R3hKQ05mUC1VZ3l5dkVyR05ncE5kYk9pN1VjRy1fVXNscXhiaWR1YTNTY0RxNVFadHhIRTAyZktVYmlUSDBOclhv"
+    },
+    {
+      "title": "8 Years of History Warns What a September Rate Hike Could Mean for Stocks - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZVU4Z3hrTG9TNmM2RzduUHlUbUdzZFBJYXFlU3ZnYjJBNlRBWFlKc2t2SFZJUy1LNDVJTExpY1BqRTd3c19fX3M4M1N2WTlsRGJBTjVyUjBLY1RRak1faVBkSTVWbmI0cUJPcDh2OFFobUNjZzJMMU9GYmlsbXRPTHljMWxDUjB2dXVZWms0M2lacGstLVJBTQ?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Mon, 05 Oct 2026 07:15:00 GMT",
+      "summary": "8 Years of History Warns What a September Rate Hike Could Mean for Stocks The Motley Fool",
+      "guid": "CBMimAFBVV95cUxPZVU4Z3hrTG9TNmM2RzduUHlUbUdzZFBJYXFlU3ZnYjJBNlRBWFlKc2t2SFZJUy1LNDVJTExpY1BqRTd3c19fX3M4M1N2WTlsRGJBTjVyUjBLY1RRak1faVBkSTVWbmI0cUJPcDh2OFFobUNjZzJMMU9GYmlsbXRPTHljMWxDUjB2dXVZWms0M2lacGstLVJBTQ"
+    },
+    {
+      "title": "U.S. stocks slip after the Fed raises interest rates, hints more hikes may be on the way - PBS",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQ0o4SEFnLXVuc0pFakhWQXNrNVdZOFBqTmZsR3dlMlFFZEluX2VWbEJPOGJkRkZ6a2tfaHZySVdpaVhYZk1aeGZFdjM2UExoOGMxc1BDbkcwUVFMaElEXzBUb2ItX1hmRVkxWjhHanJyV3ppMGJFcjhNY3BVYlZMNFVCemRaSW94Z1hBZy0yNmd3R29KMEppZThtNmxWaERxa3hfZzZ4WU5BV3AzN19xSTY0OEZwQmwzdGVSWC1SNNIBxAFBVV95cUxNQ3ZKZVFHbHpRSEo2cGs4RjlfMG1UdURsamh2Y3ExeEVkZzdmaGQ3OElrd0FpclpvUGQ1MFlKSHZ2VGFOc1hVN3ZmSVc4aGhIY3hvVm5UUlY0emc2bFNyU3ZGU0RFckhMekh6WE5FeklHLU9uUGZNOVZCQWJPdnctcTNJTmpTOGp0Q3ZVUjEzSWROc0V6VE1lY2hLLWNJWUlwTkEwQkJ1SVVtRlZrYlg5QUxoZEZFOFFzMXgwbkNPNzgzdlRa?oc=5",
+      "source": "PBS",
+      "published_at": "Wed, 16 Sep 2026 07:00:00 GMT",
+      "summary": "U.S. stocks slip after the Fed raises interest rates, hints more hikes may be on the way PBS",
+      "guid": "CBMivwFBVV95cUxPQ0o4SEFnLXVuc0pFakhWQXNrNVdZOFBqTmZsR3dlMlFFZEluX2VWbEJPOGJkRkZ6a2tfaHZySVdpaVhYZk1aeGZFdjM2UExoOGMxc1BDbkcwUVFMaElEXzBUb2ItX1hmRVkxWjhHanJyV3ppMGJFcjhNY3BVYlZMNFVCemRaSW94Z1hBZy0yNmd3R29KMEppZThtNmxWaERxa3hfZzZ4WU5BV3AzN19xSTY0OEZwQmwzdGVSWC1SNNIBxAFBVV95cUxNQ3ZKZVFHbHpRSEo2cGs4RjlfMG1UdURsamh2Y3ExeEVkZzdmaGQ3OElrd0FpclpvUGQ1MFlKSHZ2VGFOc1hVN3ZmSVc4aGhIY3hvVm5UUlY0emc2bFNyU3ZGU0RFckhMekh6WE5FeklHLU9uUGZNOVZCQWJPdnctcTNJTmpTOGp0Q3ZVUjEzSWROc0V6VE1lY2hLLWNJWUlwTkEwQkJ1SVVtRlZrYlg5QUxoZEZFOFFzMXgwbkNPNzgzdlRa"
+    },
+    {
+      "title": "Federal Reserve interest rate hikes usually pound stocks, but then something surprising happens - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMjhjWnBNa3pQVm1Yb0taMlNmQjR5RFlUZ3RkR1ZiVHhSeHBuQnE0cnR3ZS1JMERRSGpneEJ0bEV0bDhTTUhiYXp2aXB3SDVSZElYOXJmdkpWSDlXcXFRRkZoT01HaDVUMjNqeWRXXzFyX05HM05CMjFlOWg1NGdENmhwWEdrMmktMWo1QzlZajJnNWRoTjlIUnU2SWJXY3ZoSVBRWmxDLXdfZ3ptSFpoY1FCSFpRRGpiQXczcFRnNXRldFZYSzBIZGR0eEpjQ29udFBMZUJiNG5LX3QwRldjeVZGOXhIUQ?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Wed, 16 Sep 2026 07:00:00 GMT",
+      "summary": "Federal Reserve interest rate hikes usually pound stocks, but then something surprising happens Yahoo Finance",
+      "guid": "CBMi5gFBVV95cUxPMjhjWnBNa3pQVm1Yb0taMlNmQjR5RFlUZ3RkR1ZiVHhSeHBuQnE0cnR3ZS1JMERRSGpneEJ0bEV0bDhTTUhiYXp2aXB3SDVSZElYOXJmdkpWSDlXcXFRRkZoT01HaDVUMjNqeWRXXzFyX05HM05CMjFlOWg1NGdENmhwWEdrMmktMWo1QzlZajJnNWRoTjlIUnU2SWJXY3ZoSVBRWmxDLXdfZ3ptSFpoY1FCSFpRRGpiQXczcFRnNXRldFZYSzBIZGR0eEpjQ29udFBMZUJiNG5LX3QwRldjeVZGOXhIUQ"
+    },
+    {
+      "title": "Asana, Zscaler, Appian, Atlassian, and Shopify Stocks Trade Up, What You Need To Know - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNalBUS05yRDhrQm9FakhsNWpQYWVSNHpjaEl5SmxGVlFMdExNVDA0NHZVUDJHN2ZGRnlmSDhHeV9RQ29wb0YzcG9BdnllblFHeFc0QzJJZmlnakZwSDJfLXJ6VGxHZFhLWFgzaVBTUmY2MFA3WTkxS3dFUWZid1MzalNLQ2RhdFNIVC11TW5jbXMzTlJ5M1dSVGdrT2p1ejEzUTZSMndfOGtFNEZ6WGgxSVVpTWNaejVQVXZOY180eDdGSmk1ZVIweTNaZUIxbW5IRUJ5aGFzc3o?oc=5",
+      "source": "TradingView",
+      "published_at": "Mon, 05 Oct 2026 17:25:46 GMT",
+      "summary": "Asana, Zscaler, Appian, Atlassian, and Shopify Stocks Trade Up, What You Need To Know TradingView",
+      "guid": "CBMi2AFBVV95cUxNalBUS05yRDhrQm9FakhsNWpQYWVSNHpjaEl5SmxGVlFMdExNVDA0NHZVUDJHN2ZGRnlmSDhHeV9RQ29wb0YzcG9BdnllblFHeFc0QzJJZmlnakZwSDJfLXJ6VGxHZFhLWFgzaVBTUmY2MFA3WTkxS3dFUWZid1MzalNLQ2RhdFNIVC11TW5jbXMzTlJ5M1dSVGdrT2p1ejEzUTZSMndfOGtFNEZ6WGgxSVVpTWNaejVQVXZOY180eDdGSmk1ZVIweTNaZUIxbW5IRUJ5aGFzc3o"
     },
     {
       "title": "Stock Market: Will S&P 500 Open Up or Down Today? - Benzinga",
@@ -47,35 +71,11 @@
       "guid": "CBMitwFBVV95cUxOZFBCTkNjQzNtODMxai1vbG1KVGRidHhOWUI5WDlxUk1pN3Z4b000ck94NEJLV0MyXzFabzE1Q3NhTUV1ODUxbVpGQTBPTzQ2ZXA3THdJU1Bwa05CMVRaVFNVZXozdUNsZUF3SmUyUDdqNGpzd2ZpdW9ZREM1Uk1QRmNYbGhoNktSb2FEMzMwUzVvdXZ0YjNDc0pTZXJZUjRhXzJMQVRVc1VKZmVRb1pZY3l0dVhRaHM"
     },
     {
-      "title": "U.S. stocks slip after the Fed raises interest rates, hints more hikes may be on the way - pbs.org",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQ0o4SEFnLXVuc0pFakhWQXNrNVdZOFBqTmZsR3dlMlFFZEluX2VWbEJPOGJkRkZ6a2tfaHZySVdpaVhYZk1aeGZFdjM2UExoOGMxc1BDbkcwUVFMaElEXzBUb2ItX1hmRVkxWjhHanJyV3ppMGJFcjhNY3BVYlZMNFVCemRaSW94Z1hBZy0yNmd3R29KMEppZThtNmxWaERxa3hfZzZ4WU5BV3AzN19xSTY0OEZwQmwzdGVSWC1SNNIBxAFBVV95cUxNQ3ZKZVFHbHpRSEo2cGs4RjlfMG1UdURsamh2Y3ExeEVkZzdmaGQ3OElrd0FpclpvUGQ1MFlKSHZ2VGFOc1hVN3ZmSVc4aGhIY3hvVm5UUlY0emc2bFNyU3ZGU0RFckhMekh6WE5FeklHLU9uUGZNOVZCQWJPdnctcTNJTmpTOGp0Q3ZVUjEzSWROc0V6VE1lY2hLLWNJWUlwTkEwQkJ1SVVtRlZrYlg5QUxoZEZFOFFzMXgwbkNPNzgzdlRa?oc=5",
-      "source": "pbs.org",
-      "published_at": "Wed, 16 Sep 2026 07:00:00 GMT",
-      "summary": "U.S. stocks slip after the Fed raises interest rates, hints more hikes may be on the way pbs.org",
-      "guid": "CBMivwFBVV95cUxPQ0o4SEFnLXVuc0pFakhWQXNrNVdZOFBqTmZsR3dlMlFFZEluX2VWbEJPOGJkRkZ6a2tfaHZySVdpaVhYZk1aeGZFdjM2UExoOGMxc1BDbkcwUVFMaElEXzBUb2ItX1hmRVkxWjhHanJyV3ppMGJFcjhNY3BVYlZMNFVCemRaSW94Z1hBZy0yNmd3R29KMEppZThtNmxWaERxa3hfZzZ4WU5BV3AzN19xSTY0OEZwQmwzdGVSWC1SNNIBxAFBVV95cUxNQ3ZKZVFHbHpRSEo2cGs4RjlfMG1UdURsamh2Y3ExeEVkZzdmaGQ3OElrd0FpclpvUGQ1MFlKSHZ2VGFOc1hVN3ZmSVc4aGhIY3hvVm5UUlY0emc2bFNyU3ZGU0RFckhMekh6WE5FeklHLU9uUGZNOVZCQWJPdnctcTNJTmpTOGp0Q3ZVUjEzSWROc0V6VE1lY2hLLWNJWUlwTkEwQkJ1SVVtRlZrYlg5QUxoZEZFOFFzMXgwbkNPNzgzdlRa"
-    },
-    {
-      "title": "Federal Reserve interest rate hikes usually pound stocks, but then something surprising happens - finance.yahoo.com",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMjhjWnBNa3pQVm1Yb0taMlNmQjR5RFlUZ3RkR1ZiVHhSeHBuQnE0cnR3ZS1JMERRSGpneEJ0bEV0bDhTTUhiYXp2aXB3SDVSZElYOXJmdkpWSDlXcXFRRkZoT01HaDVUMjNqeWRXXzFyX05HM05CMjFlOWg1NGdENmhwWEdrMmktMWo1QzlZajJnNWRoTjlIUnU2SWJXY3ZoSVBRWmxDLXdfZ3ptSFpoY1FCSFpRRGpiQXczcFRnNXRldFZYSzBIZGR0eEpjQ29udFBMZUJiNG5LX3QwRldjeVZGOXhIUQ?oc=5",
-      "source": "finance.yahoo.com",
-      "published_at": "Wed, 16 Sep 2026 07:00:00 GMT",
-      "summary": "Federal Reserve interest rate hikes usually pound stocks, but then something surprising happens finance.yahoo.com",
-      "guid": "CBMi5gFBVV95cUxPMjhjWnBNa3pQVm1Yb0taMlNmQjR5RFlUZ3RkR1ZiVHhSeHBuQnE0cnR3ZS1JMERRSGpneEJ0bEV0bDhTTUhiYXp2aXB3SDVSZElYOXJmdkpWSDlXcXFRRkZoT01HaDVUMjNqeWRXXzFyX05HM05CMjFlOWg1NGdENmhwWEdrMmktMWo1QzlZajJnNWRoTjlIUnU2SWJXY3ZoSVBRWmxDLXdfZ3ptSFpoY1FCSFpRRGpiQXczcFRnNXRldFZYSzBIZGR0eEpjQ29udFBMZUJiNG5LX3QwRldjeVZGOXhIUQ"
-    },
-    {
-      "title": "Stock Market Today: Dow Jones, S&P 500 Futures Slip as Iran Keeps Conditions To Reopen Hormuz Strait — SPCX, QCOM, VST in Focus - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPUzZzc181cDZ5UTQ5RWlLUWJMRnpQTXllaTU3LWtUdUVkdWVva25WWGMxREJLSXJfaDlmQ0VQQ0FOa0VKOVR1MkJiRjM2ZlF1RDNWcVMtMEJsNlFOOExJaTBreXQtaGFjWlhNYVpqWnZLRWZBLWVSM1pWcVpkd3hWdElfRWxnZUx6MFFabUJnMHFWZEhjczBNdW90dHBoYWpDY3lfRHlWblFTa0daUzY3LXdSSE5NSDByaW5hS2hpejhZeUxrSEZLWW51NERVbXJWOVN2YTh2SWxBWFRsa09tV3ozUmJ0SVUzUW55TG9UNTIyZ1p6dXZmOVJpaVBrZU4tZVRKbWh3ZDdkSC1S?oc=5",
-      "source": "TradingView",
-      "published_at": "Mon, 05 Oct 2026 10:09:55 GMT",
-      "summary": "Stock Market Today: Dow Jones, S&P 500 Futures Slip as Iran Keeps Conditions To Reopen Hormuz Strait — SPCX, QCOM, VST in Focus TradingView",
-      "guid": "CBMijAJBVV95cUxPUzZzc181cDZ5UTQ5RWlLUWJMRnpQTXllaTU3LWtUdUVkdWVva25WWGMxREJLSXJfaDlmQ0VQQ0FOa0VKOVR1MkJiRjM2ZlF1RDNWcVMtMEJsNlFOOExJaTBreXQtaGFjWlhNYVpqWnZLRWZBLWVSM1pWcVpkd3hWdElfRWxnZUx6MFFabUJnMHFWZEhjczBNdW90dHBoYWpDY3lfRHlWblFTa0daUzY3LXdSSE5NSDByaW5hS2hpejhZeUxrSEZLWW51NERVbXJWOVN2YTh2SWxBWFRsa09tV3ozUmJ0SVUzUW55TG9UNTIyZ1p6dXZmOVJpaVBrZU4tZVRKbWh3ZDdkSC1S"
-    },
-    {
-      "title": "A highly anticipated Fed meeting, war worries, and an unblinking stock market: What to watch this week - finance.yahoo.com",
+      "title": "A highly anticipated Fed meeting, war worries, and an unblinking stock market: What to watch this week - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPTF9DbUNxR215Z2N2eFhmb2N2cXZsemw3UkhRNVViQUY2bEpZbDNZMWRXaDBZRi1jRWFZT05MSkpuU0pYdnJGWk5YYzc0VnE1b3NOTEc1RmhOWjkwZlNpdTY2cjMxd2YtWVpHMGVCV3o1UkkyLXNIMG8xakxoZjZiOURDck1wVVZhV3JwRXhZWHNjX0ZoaWJnSzhaVl9EOEhLc1NoYThOVTJPTllLTVl0ZnJPQlJ3VHJHSkxVTk9BQUdlVjdndHhxNTVyV09Yc0Z2Uk5ack1QZU1GZUJkWnZyWjJzeFZibHExa2hGbw?oc=5",
-      "source": "finance.yahoo.com",
+      "source": "Yahoo Finance",
       "published_at": "Sun, 13 Sep 2026 07:00:00 GMT",
-      "summary": "A highly anticipated Fed meeting, war worries, and an unblinking stock market: What to watch this week finance.yahoo.com",
+      "summary": "A highly anticipated Fed meeting, war worries, and an unblinking stock market: What to watch this week Yahoo Finance",
       "guid": "CBMi7AFBVV95cUxPTF9DbUNxR215Z2N2eFhmb2N2cXZsemw3UkhRNVViQUY2bEpZbDNZMWRXaDBZRi1jRWFZT05MSkpuU0pYdnJGWk5YYzc0VnE1b3NOTEc1RmhOWjkwZlNpdTY2cjMxd2YtWVpHMGVCV3o1UkkyLXNIMG8xakxoZjZiOURDck1wVVZhV3JwRXhZWHNjX0ZoaWJnSzhaVl9EOEhLc1NoYThOVTJPTllLTVl0ZnJPQlJ3VHJHSkxVTk9BQUdlVjdndHhxNTVyV09Yc0Z2Uk5ack1QZU1GZUJkWnZyWjJzeFZibHExa2hGbw"
     },
     {
