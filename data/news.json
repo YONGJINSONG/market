@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T21:59:19Z",
+  "generated_at": "2026-10-06T02:04:18Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,44 +7,20 @@
   },
   "items": [
     {
-      "title": "5 Things to Know Before the Stock Market Opens on Monday - Investopedia",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ3FvQUNnMDRrazFzQkhBT2RwYkZwYVNHYTFyR3A4ZnpWRGZfdG1oemhwUS14UzVlUTJSa0lVTjNDSy1zYndRM19TWXpUUDBjbFZ3LWdaQXlUU1FNNkN3SmotY0RtZ2hfVHpOazlVT2JCdEE2ZFk5VXNfMDV3cl9MMVRXeTNHMXFNakQwZDVyZnZLNzlMdHdnd0ZGVDU1a1FyVFhzV0s2N1RlZ1JLQUE?oc=5",
-      "source": "Investopedia",
-      "published_at": "Mon, 05 Oct 2026 12:04:49 GMT",
-      "summary": "5 Things to Know Before the Stock Market Opens on Monday Investopedia",
-      "guid": "CBMirgFBVV95cUxPQ3FvQUNnMDRrazFzQkhBT2RwYkZwYVNHYTFyR3A4ZnpWRGZfdG1oemhwUS14UzVlUTJSa0lVTjNDSy1zYndRM19TWXpUUDBjbFZ3LWdaQXlUU1FNNkN3SmotY0RtZ2hfVHpOazlVT2JCdEE2ZFk5VXNfMDV3cl9MMVRXeTNHMXFNakQwZDVyZnZLNzlMdHdnd0ZGVDU1a1FyVFhzV0s2N1RlZ1JLQUE"
-    },
-    {
-      "title": "Fed rate hike cycles have a history of denting US stock prices - Reuters",
+      "title": "Fed rate hike cycles have a history of denting US stock prices - reuters.com",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRmR3cTBOOVhRdHBUaGJ0Z0lBY09RNlFCRm9nSkl3bVpTM3lzN3pMTTlZVVJvdnFyT3FzQXZUZ0NLWXUzbGtLQnRFaFlWNmVNUHJnbHcwbjEwbDBvTG1sQkIzdUN4a3d4RW5VcjlKeVhRSUh4TTJXdW92NkE2eDNVTGJOdlBnZHEyQVpVWnIyMk9EQnBEd1l5SjNnREtobGw5bkRGVw?oc=5",
-      "source": "Reuters",
+      "source": "reuters.com",
       "published_at": "Thu, 24 Sep 2026 07:00:00 GMT",
-      "summary": "Fed rate hike cycles have a history of denting US stock prices Reuters",
+      "summary": "Fed rate hike cycles have a history of denting US stock prices reuters.com",
       "guid": "CBMipAFBVV95cUxPRmR3cTBOOVhRdHBUaGJ0Z0lBY09RNlFCRm9nSkl3bVpTM3lzN3pMTTlZVVJvdnFyT3FzQXZUZ0NLWXUzbGtLQnRFaFlWNmVNUHJnbHcwbjEwbDBvTG1sQkIzdUN4a3d4RW5VcjlKeVhRSUh4TTJXdW92NkE2eDNVTGJOdlBnZHEyQVpVWnIyMk9EQnBEd1l5SjNnREtobGw5bkRGVw"
     },
     {
-      "title": "Sprout Social, Tenable, AppLovin, Toast, and Braze Shares Skyrocket, What You Need To Know - StockStory",
+      "title": "Sprout Social, Tenable, AppLovin, Toast, and Braze Shares Skyrocket, What You Need To Know - stockstory.org",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUU1oYmJ6UG9TV0s3TzFoVDFYOHhhZ2NLVWMxc3Q5enZpWjVxeFUwcTlFTXFTc0g2VlM2OWVfWGxKWDNVdVJLbjJwTE5FZmlpT0h1NlJ0c3VRSnIwU01sdXcyMUpWd1hSOHJoMjNRdlBBUUpFd0ExOXRQM0pjZnBMSEx6aUNkbXVjWDB0clpWcUFMVExKcTlONWEzWlg0R3hKQ05mUC1VZ3l5dkVyR05ncE5kYk9pN1VjRy1fVXNscXhiaWR1YTNTY0RxNVFadHhIRTAyZktVYmlUSDBOclhv?oc=5",
-      "source": "StockStory",
+      "source": "stockstory.org",
       "published_at": "Mon, 05 Oct 2026 18:22:30 GMT",
-      "summary": "Sprout Social, Tenable, AppLovin, Toast, and Braze Shares Skyrocket, What You Need To Know StockStory",
+      "summary": "Sprout Social, Tenable, AppLovin, Toast, and Braze Shares Skyrocket, What You Need To Know stockstory.org",
       "guid": "CBMi3wFBVV95cUxPUU1oYmJ6UG9TV0s3TzFoVDFYOHhhZ2NLVWMxc3Q5enZpWjVxeFUwcTlFTXFTc0g2VlM2OWVfWGxKWDNVdVJLbjJwTE5FZmlpT0h1NlJ0c3VRSnIwU01sdXcyMUpWd1hSOHJoMjNRdlBBUUpFd0ExOXRQM0pjZnBMSEx6aUNkbXVjWDB0clpWcUFMVExKcTlONWEzWlg0R3hKQ05mUC1VZ3l5dkVyR05ncE5kYk9pN1VjRy1fVXNscXhiaWR1YTNTY0RxNVFadHhIRTAyZktVYmlUSDBOclhv"
-    },
-    {
-      "title": "8 Years of History Warns What a September Rate Hike Could Mean for Stocks - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZVU4Z3hrTG9TNmM2RzduUHlUbUdzZFBJYXFlU3ZnYjJBNlRBWFlKc2t2SFZJUy1LNDVJTExpY1BqRTd3c19fX3M4M1N2WTlsRGJBTjVyUjBLY1RRak1faVBkSTVWbmI0cUJPcDh2OFFobUNjZzJMMU9GYmlsbXRPTHljMWxDUjB2dXVZWms0M2lacGstLVJBTQ?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Mon, 05 Oct 2026 07:15:00 GMT",
-      "summary": "8 Years of History Warns What a September Rate Hike Could Mean for Stocks The Motley Fool",
-      "guid": "CBMimAFBVV95cUxPZVU4Z3hrTG9TNmM2RzduUHlUbUdzZFBJYXFlU3ZnYjJBNlRBWFlKc2t2SFZJUy1LNDVJTExpY1BqRTd3c19fX3M4M1N2WTlsRGJBTjVyUjBLY1RRak1faVBkSTVWbmI0cUJPcDh2OFFobUNjZzJMMU9GYmlsbXRPTHljMWxDUjB2dXVZWms0M2lacGstLVJBTQ"
-    },
-    {
-      "title": "U.S. stocks slip after the Fed raises interest rates, hints more hikes may be on the way - PBS",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQ0o4SEFnLXVuc0pFakhWQXNrNVdZOFBqTmZsR3dlMlFFZEluX2VWbEJPOGJkRkZ6a2tfaHZySVdpaVhYZk1aeGZFdjM2UExoOGMxc1BDbkcwUVFMaElEXzBUb2ItX1hmRVkxWjhHanJyV3ppMGJFcjhNY3BVYlZMNFVCemRaSW94Z1hBZy0yNmd3R29KMEppZThtNmxWaERxa3hfZzZ4WU5BV3AzN19xSTY0OEZwQmwzdGVSWC1SNNIBxAFBVV95cUxNQ3ZKZVFHbHpRSEo2cGs4RjlfMG1UdURsamh2Y3ExeEVkZzdmaGQ3OElrd0FpclpvUGQ1MFlKSHZ2VGFOc1hVN3ZmSVc4aGhIY3hvVm5UUlY0emc2bFNyU3ZGU0RFckhMekh6WE5FeklHLU9uUGZNOVZCQWJPdnctcTNJTmpTOGp0Q3ZVUjEzSWROc0V6VE1lY2hLLWNJWUlwTkEwQkJ1SVVtRlZrYlg5QUxoZEZFOFFzMXgwbkNPNzgzdlRa?oc=5",
-      "source": "PBS",
-      "published_at": "Wed, 16 Sep 2026 07:00:00 GMT",
-      "summary": "U.S. stocks slip after the Fed raises interest rates, hints more hikes may be on the way PBS",
-      "guid": "CBMivwFBVV95cUxPQ0o4SEFnLXVuc0pFakhWQXNrNVdZOFBqTmZsR3dlMlFFZEluX2VWbEJPOGJkRkZ6a2tfaHZySVdpaVhYZk1aeGZFdjM2UExoOGMxc1BDbkcwUVFMaElEXzBUb2ItX1hmRVkxWjhHanJyV3ppMGJFcjhNY3BVYlZMNFVCemRaSW94Z1hBZy0yNmd3R29KMEppZThtNmxWaERxa3hfZzZ4WU5BV3AzN19xSTY0OEZwQmwzdGVSWC1SNNIBxAFBVV95cUxNQ3ZKZVFHbHpRSEo2cGs4RjlfMG1UdURsamh2Y3ExeEVkZzdmaGQ3OElrd0FpclpvUGQ1MFlKSHZ2VGFOc1hVN3ZmSVc4aGhIY3hvVm5UUlY0emc2bFNyU3ZGU0RFckhMekh6WE5FeklHLU9uUGZNOVZCQWJPdnctcTNJTmpTOGp0Q3ZVUjEzSWROc0V6VE1lY2hLLWNJWUlwTkEwQkJ1SVVtRlZrYlg5QUxoZEZFOFFzMXgwbkNPNzgzdlRa"
     },
     {
       "title": "Federal Reserve interest rate hikes usually pound stocks, but then something surprising happens - Yahoo Finance",
@@ -55,12 +31,44 @@
       "guid": "CBMi5gFBVV95cUxPMjhjWnBNa3pQVm1Yb0taMlNmQjR5RFlUZ3RkR1ZiVHhSeHBuQnE0cnR3ZS1JMERRSGpneEJ0bEV0bDhTTUhiYXp2aXB3SDVSZElYOXJmdkpWSDlXcXFRRkZoT01HaDVUMjNqeWRXXzFyX05HM05CMjFlOWg1NGdENmhwWEdrMmktMWo1QzlZajJnNWRoTjlIUnU2SWJXY3ZoSVBRWmxDLXdfZ3ptSFpoY1FCSFpRRGpiQXczcFRnNXRldFZYSzBIZGR0eEpjQ29udFBMZUJiNG5LX3QwRldjeVZGOXhIUQ"
     },
     {
+      "title": "U.S. stocks slip after the Fed raises interest rates, hints more hikes may be on the way - PBS",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQ0o4SEFnLXVuc0pFakhWQXNrNVdZOFBqTmZsR3dlMlFFZEluX2VWbEJPOGJkRkZ6a2tfaHZySVdpaVhYZk1aeGZFdjM2UExoOGMxc1BDbkcwUVFMaElEXzBUb2ItX1hmRVkxWjhHanJyV3ppMGJFcjhNY3BVYlZMNFVCemRaSW94Z1hBZy0yNmd3R29KMEppZThtNmxWaERxa3hfZzZ4WU5BV3AzN19xSTY0OEZwQmwzdGVSWC1SNNIBxAFBVV95cUxNQ3ZKZVFHbHpRSEo2cGs4RjlfMG1UdURsamh2Y3ExeEVkZzdmaGQ3OElrd0FpclpvUGQ1MFlKSHZ2VGFOc1hVN3ZmSVc4aGhIY3hvVm5UUlY0emc2bFNyU3ZGU0RFckhMekh6WE5FeklHLU9uUGZNOVZCQWJPdnctcTNJTmpTOGp0Q3ZVUjEzSWROc0V6VE1lY2hLLWNJWUlwTkEwQkJ1SVVtRlZrYlg5QUxoZEZFOFFzMXgwbkNPNzgzdlRa?oc=5",
+      "source": "PBS",
+      "published_at": "Wed, 16 Sep 2026 07:00:00 GMT",
+      "summary": "U.S. stocks slip after the Fed raises interest rates, hints more hikes may be on the way PBS",
+      "guid": "CBMivwFBVV95cUxPQ0o4SEFnLXVuc0pFakhWQXNrNVdZOFBqTmZsR3dlMlFFZEluX2VWbEJPOGJkRkZ6a2tfaHZySVdpaVhYZk1aeGZFdjM2UExoOGMxc1BDbkcwUVFMaElEXzBUb2ItX1hmRVkxWjhHanJyV3ppMGJFcjhNY3BVYlZMNFVCemRaSW94Z1hBZy0yNmd3R29KMEppZThtNmxWaERxa3hfZzZ4WU5BV3AzN19xSTY0OEZwQmwzdGVSWC1SNNIBxAFBVV95cUxNQ3ZKZVFHbHpRSEo2cGs4RjlfMG1UdURsamh2Y3ExeEVkZzdmaGQ3OElrd0FpclpvUGQ1MFlKSHZ2VGFOc1hVN3ZmSVc4aGhIY3hvVm5UUlY0emc2bFNyU3ZGU0RFckhMekh6WE5FeklHLU9uUGZNOVZCQWJPdnctcTNJTmpTOGp0Q3ZVUjEzSWROc0V6VE1lY2hLLWNJWUlwTkEwQkJ1SVVtRlZrYlg5QUxoZEZFOFFzMXgwbkNPNzgzdlRa"
+    },
+    {
+      "title": "8 Years of History Warns What a September Rate Hike Could Mean for Stocks - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZVU4Z3hrTG9TNmM2RzduUHlUbUdzZFBJYXFlU3ZnYjJBNlRBWFlKc2t2SFZJUy1LNDVJTExpY1BqRTd3c19fX3M4M1N2WTlsRGJBTjVyUjBLY1RRak1faVBkSTVWbmI0cUJPcDh2OFFobUNjZzJMMU9GYmlsbXRPTHljMWxDUjB2dXVZWms0M2lacGstLVJBTQ?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Mon, 05 Oct 2026 07:15:00 GMT",
+      "summary": "8 Years of History Warns What a September Rate Hike Could Mean for Stocks The Motley Fool",
+      "guid": "CBMimAFBVV95cUxPZVU4Z3hrTG9TNmM2RzduUHlUbUdzZFBJYXFlU3ZnYjJBNlRBWFlKc2t2SFZJUy1LNDVJTExpY1BqRTd3c19fX3M4M1N2WTlsRGJBTjVyUjBLY1RRak1faVBkSTVWbmI0cUJPcDh2OFFobUNjZzJMMU9GYmlsbXRPTHljMWxDUjB2dXVZWms0M2lacGstLVJBTQ"
+    },
+    {
+      "title": "Stock market returns after Fed hikes, holds and cuts: What history shows ahead of the September 2026 meeting - chase.com",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZk5DYnRUeXFDbWpLeTI5QjFLdWNjdjV6YWNvRW1KZ2hCNlRKV1djZk1nb1RYMlJPeHFGUGh4MVY0OW1BblFCQlBENkhnZEtfOVVzMExORC12YVVPVHZubnRuUC1xTWNLU1YxcVJkZGY1WWNhb01BRFlSUFZNNjNrRUxCUGZtdk5SdnN6a21KVmozMy1IWk5fMVk5M2tKa3E4LVM3QVpOd2N2WWQzVmpzU1VMNmZCOGo1OHFBWllnZVp6N3ZyaDktUFZoRF9nTy00Z3pWd0dFNUtCNE9uM3IwZFdWUGFyM216Yzlnang1Zw?oc=5",
+      "source": "chase.com",
+      "published_at": "Mon, 14 Sep 2026 07:00:00 GMT",
+      "summary": "Stock market returns after Fed hikes, holds and cuts: What history shows ahead of the September 2026 meeting chase.com",
+      "guid": "CBMi7wFBVV95cUxNZk5DYnRUeXFDbWpLeTI5QjFLdWNjdjV6YWNvRW1KZ2hCNlRKV1djZk1nb1RYMlJPeHFGUGh4MVY0OW1BblFCQlBENkhnZEtfOVVzMExORC12YVVPVHZubnRuUC1xTWNLU1YxcVJkZGY1WWNhb01BRFlSUFZNNjNrRUxCUGZtdk5SdnN6a21KVmozMy1IWk5fMVk5M2tKa3E4LVM3QVpOd2N2WWQzVmpzU1VMNmZCOGo1OHFBWllnZVp6N3ZyaDktUFZoRF9nTy00Z3pWd0dFNUtCNE9uM3IwZFdWUGFyM216Yzlnang1Zw"
+    },
+    {
       "title": "Asana, Zscaler, Appian, Atlassian, and Shopify Stocks Trade Up, What You Need To Know - TradingView",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNalBUS05yRDhrQm9FakhsNWpQYWVSNHpjaEl5SmxGVlFMdExNVDA0NHZVUDJHN2ZGRnlmSDhHeV9RQ29wb0YzcG9BdnllblFHeFc0QzJJZmlnakZwSDJfLXJ6VGxHZFhLWFgzaVBTUmY2MFA3WTkxS3dFUWZid1MzalNLQ2RhdFNIVC11TW5jbXMzTlJ5M1dSVGdrT2p1ejEzUTZSMndfOGtFNEZ6WGgxSVVpTWNaejVQVXZOY180eDdGSmk1ZVIweTNaZUIxbW5IRUJ5aGFzc3o?oc=5",
       "source": "TradingView",
       "published_at": "Mon, 05 Oct 2026 17:25:46 GMT",
       "summary": "Asana, Zscaler, Appian, Atlassian, and Shopify Stocks Trade Up, What You Need To Know TradingView",
       "guid": "CBMi2AFBVV95cUxNalBUS05yRDhrQm9FakhsNWpQYWVSNHpjaEl5SmxGVlFMdExNVDA0NHZVUDJHN2ZGRnlmSDhHeV9RQ29wb0YzcG9BdnllblFHeFc0QzJJZmlnakZwSDJfLXJ6VGxHZFhLWFgzaVBTUmY2MFA3WTkxS3dFUWZid1MzalNLQ2RhdFNIVC11TW5jbXMzTlJ5M1dSVGdrT2p1ejEzUTZSMndfOGtFNEZ6WGgxSVVpTWNaejVQVXZOY180eDdGSmk1ZVIweTNaZUIxbW5IRUJ5aGFzc3o"
+    },
+    {
+      "title": "Jim Cramer warns that buying stocks now means 'fighting the Federal Reserve' - cnbc.com",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9leGVVdVlTTEJra3hyTVBpY1ZuQ0FyQkh6V0NnaE1KRmVZUHhTbGJuYlZGVldXSjl1djFfTEZ4bXYxd1U1VkRvLTVaTGRPMmlKQUhIbHFXdGxUNFBfWjB6NDExRGF0MThiMEtTQ1VNTy1QRHZmU3hFaUQyb29LQQ?oc=5",
+      "source": "cnbc.com",
+      "published_at": "Wed, 16 Sep 2026 07:00:00 GMT",
+      "summary": "Jim Cramer warns that buying stocks now means 'fighting the Federal Reserve' cnbc.com",
+      "guid": "CBMifkFVX3lxTE9leGVVdVlTTEJra3hyTVBpY1ZuQ0FyQkh6V0NnaE1KRmVZUHhTbGJuYlZGVldXSjl1djFfTEZ4bXYxd1U1VkRvLTVaTGRPMmlKQUhIbHFXdGxUNFBfWjB6NDExRGF0MThiMEtTQ1VNTy1QRHZmU3hFaUQyb29LQQ"
     },
     {
       "title": "Stock Market: Will S&P 500 Open Up or Down Today? - Benzinga",
@@ -77,14 +85,6 @@
       "published_at": "Sun, 13 Sep 2026 07:00:00 GMT",
       "summary": "A highly anticipated Fed meeting, war worries, and an unblinking stock market: What to watch this week Yahoo Finance",
       "guid": "CBMi7AFBVV95cUxPTF9DbUNxR215Z2N2eFhmb2N2cXZsemw3UkhRNVViQUY2bEpZbDNZMWRXaDBZRi1jRWFZT05MSkpuU0pYdnJGWk5YYzc0VnE1b3NOTEc1RmhOWjkwZlNpdTY2cjMxd2YtWVpHMGVCV3o1UkkyLXNIMG8xakxoZjZiOURDck1wVVZhV3JwRXhZWHNjX0ZoaWJnSzhaVl9EOEhLc1NoYThOVTJPTllLTVl0ZnJPQlJ3VHJHSkxVTk9BQUdlVjdndHhxNTVyV09Yc0Z2Uk5ack1QZU1GZUJkWnZyWjJzeFZibHExa2hGbw"
-    },
-    {
-      "title": "VIEW Stocks pull back after Fed raises rates, points to another hike this year - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcHE5d2RsZk5YWi1pLWw0M0tWX0pGZl81OEcwZVJtUlJsbTVoUnpQWUxJYjZGSjhvMmlDd0JrcVVFQjJ0aFRJRkh1cTFteld2Y0lSeXhyMFllMU5vSGthbExhbzc5MVNSRTFHOS1JWVcwZ09jSllmTDJoeHBEUEFJanI2aEZqQm1PbXZJZHpwRHpRU2FoMG9EMmVoVmxiZ0h1YV8xTk12QjRMVm1LQ1Zfcm1qUGhUWkFH?oc=5",
-      "source": "Reuters",
-      "published_at": "Wed, 16 Sep 2026 07:00:00 GMT",
-      "summary": "VIEW Stocks pull back after Fed raises rates, points to another hike this year Reuters",
-      "guid": "CBMiuAFBVV95cUxPcHE5d2RsZk5YWi1pLWw0M0tWX0pGZl81OEcwZVJtUlJsbTVoUnpQWUxJYjZGSjhvMmlDd0JrcVVFQjJ0aFRJRkh1cTFteld2Y0lSeXhyMFllMU5vSGthbExhbzc5MVNSRTFHOS1JWVcwZ09jSllmTDJoeHBEUEFJanI2aEZqQm1PbXZJZHpwRHpRU2FoMG9EMmVoVmxiZ0h1YV8xTk12QjRMVm1LQ1Zfcm1qUGhUWkFH"
     }
   ]
 }
