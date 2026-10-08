@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-10-08T02:46:26Z",
+  "generated_at": "2026-10-08T09:39:25Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "Why The Stock Market Could March Higher Even if Earnings Growth Slows - Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZ3ZiaTJxdlVWd3IzTEZMLUNsUEozelVPNVVJRkZTcnhxQ01SbjN4S2Z0Z2xLOGN1dkpCYWItQm9RVEVpaUhrZHNqaFNkRXVRNmZwM2VGRkw1bkdZaEt1SWxSRUFoVFRvaUZUSkhxTXpSNjRtbFdrNGtuZURWQmVfQ3BTLTNWdGR0ZS1Rd1NVa0lQdUZvc2Jjejk3clItZmM4SXo4M29SMjdTUmZyTW1CbUZZMEdSVWdHMmpjdGFR?oc=5",
+      "source": "Investopedia",
+      "published_at": "Wed, 07 Oct 2026 19:17:18 GMT",
+      "summary": "Why The Stock Market Could March Higher Even if Earnings Growth Slows Investopedia",
+      "guid": "CBMivgFBVV95cUxOZ3ZiaTJxdlVWd3IzTEZMLUNsUEozelVPNVVJRkZTcnhxQ01SbjN4S2Z0Z2xLOGN1dkpCYWItQm9RVEVpaUhrZHNqaFNkRXVRNmZwM2VGRkw1bkdZaEt1SWxSRUFoVFRvaUZUSkhxTXpSNjRtbFdrNGtuZURWQmVfQ3BTLTNWdGR0ZS1Rd1NVa0lQdUZvc2Jjejk3clItZmM4SXo4M29SMjdTUmZyTW1CbUZZMEdSVWdHMmpjdGFR"
+    },
     {
       "title": "The Federal Reserve Is Raising Interest Rates. Here's What History Says That Means for Investors. - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRDFuWk9RWWRDd0JQXzh0dVpMOWdXOXE4X2lmYnozQ0d6a0NWM0dVcmxoVVNBODFTT3V0TE5NdmM3XzYzbzZ6ODhqblBNM2VEYkhlQkduVGRFWWcwS0xubXJ5OTJRcWdPYTFyY2UzdDZpaHR3UnQ0dU9wd3hieHpfWWdrWmtsYzFzUmtkUlMzRG1SODRLSGZSbg?oc=5",
@@ -23,12 +31,20 @@
       "guid": "CBMimwFBVV95cUxOZlo2QnJobkpnNkowejZOV3V0VnNEZFhQcWw5WUVzaDJNbGp2aEVmbENKQ3JZMFlFYjJGMXBYR3poM3Zzei1vVzRhNDR4cWFjcTJyNzktUFZXc2dSa1VzZ2NpMmdXNFVFcmdxWXZnc1I0eHREVDdiWUJHdzZUSUt0cmZ5c0J0dTRPUWhXZGlVdDdRZm1SYmZvVzlVaw"
     },
     {
-      "title": "Why is the stock market down today? Surging bond yields, oil prices, and Fed anxiety halt Wall Street's record rally - Clarín",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPTVRRTnZ0bFRmVnVpM0RXYkk2ak1NOTR2MDVsM21xNTVfMTBSVzVmaGU1WFdKYmtSOGxtQlFONHhOLU5OX0RsdlZSWWVOWUxMQ25jM0xTSmFpcEExRk5ScEM1NjhCLUZDVzVZdmMwcW1PUERpeVN2aWE4SThad1JfRHpCLXNOTWNRRU1qM3V4Q215d3BKNks2am1hMUxzLWxuREFZSm5kSllBYldtYXBRNmExcU93UmlYOG84bVRqX3JDcjBZamJLS19Fc1BxTGZOOEl0TzZsRXRTbmpvMkNfN0syZ1pqdndSWlpGX1RicURxNG_SAfgBQVVfeXFMTnp5QU9xQS1xWkE0Wms5V1hzTWlfYy1oQ19yb0FISHJ0NFdTMnJMSDZsaG5aeW9kNGFzS3RRaHpGcU5BYzVxdXRrSW9IWXYzZjlKWjVaMDNaZnJTZkVGRXlRekdtWE1od3FXbDVaM00zSmZGZXY5VjVONWhocTlzcU5jTC12dVp3RGJsbkVnRFBRZUtpYVZPU3lfRUoza2VodjVZRVpRaTlfdVBYTkU3TlZfNHhMLTV6MU1yMXRGaHZCbXNhOFlURmpSdm5Bbkxwdmw0TjhBVWRkYzZZSTFKVnFpRFR0OTBBc1pTX0M3eURiZW1wRm05RGc?oc=5",
-      "source": "Clarín",
-      "published_at": "Wed, 07 Oct 2026 14:34:56 GMT",
-      "summary": "Why is the stock market down today? Surging bond yields, oil prices, and Fed anxiety halt Wall Street's record rally Clarín",
-      "guid": "CBMi8wFBVV95cUxPTVRRTnZ0bFRmVnVpM0RXYkk2ak1NOTR2MDVsM21xNTVfMTBSVzVmaGU1WFdKYmtSOGxtQlFONHhOLU5OX0RsdlZSWWVOWUxMQ25jM0xTSmFpcEExRk5ScEM1NjhCLUZDVzVZdmMwcW1PUERpeVN2aWE4SThad1JfRHpCLXNOTWNRRU1qM3V4Q215d3BKNks2am1hMUxzLWxuREFZSm5kSllBYldtYXBRNmExcU93UmlYOG84bVRqX3JDcjBZamJLS19Fc1BxTGZOOEl0TzZsRXRTbmpvMkNfN0syZ1pqdndSWlpGX1RicURxNG_SAfgBQVVfeXFMTnp5QU9xQS1xWkE0Wms5V1hzTWlfYy1oQ19yb0FISHJ0NFdTMnJMSDZsaG5aeW9kNGFzS3RRaHpGcU5BYzVxdXRrSW9IWXYzZjlKWjVaMDNaZnJTZkVGRXlRekdtWE1od3FXbDVaM00zSmZGZXY5VjVONWhocTlzcU5jTC12dVp3RGJsbkVnRFBRZUtpYVZPU3lfRUoza2VodjVZRVpRaTlfdVBYTkU3TlZfNHhMLTV6MU1yMXRGaHZCbXNhOFlURmpSdm5Bbkxwdmw0TjhBVWRkYzZZSTFKVnFpRFR0OTBBc1pTX0M3eURiZW1wRm05RGc"
+      "title": "Oil Rise Spurs Fresh Selling in Stocks and Bonds: Markets Wrap - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQU1SaHdYWU1rZkFDZjFUZTVMU2dkQ2dCRUF4eXhJRmdMSzFuZHFqSDYtdF9VNWZEV3doQkh6TGVtZklPWWc4NkpYQ0s2by1pMUZNMmFaWERvblBiZXRzZnJ0ajRaaXh0NVo0VlRYWmVENFVJeFhidG5IdXVna0FxdHMxanN1YjIyRmczQXFlS0xGMXph?oc=5",
+      "source": "Bloomberg.com",
+      "published_at": "Wed, 07 Oct 2026 22:03:17 GMT",
+      "summary": "Oil Rise Spurs Fresh Selling in Stocks and Bonds: Markets Wrap Bloomberg.com",
+      "guid": "CBMilAFBVV95cUxNQU1SaHdYWU1rZkFDZjFUZTVMU2dkQ2dCRUF4eXhJRmdMSzFuZHFqSDYtdF9VNWZEV3doQkh6TGVtZklPWWc4NkpYQ0s2by1pMUZNMmFaWERvblBiZXRzZnJ0ajRaaXh0NVo0VlRYWmVENFVJeFhidG5IdXVna0FxdHMxanN1YjIyRmczQXFlS0xGMXph"
+    },
+    {
+      "title": "U.S. Stock Market Today: Wednesday, October 7, 2026 - STL.News",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE53cl83ZVJLVXNuTzdkMkZmZGxkcnZVZXhYYk9ocHJiVmpBMGh1QWtKaXlNeWRmOEFFMldzSXJMdzhQalp6MEpSNFhGbDhwb3hUVEJUXzJGZG9US3QxYl9jX3lpenlZTE9VaEh0OFMzMHFqZ0UxQXNBbQ?oc=5",
+      "source": "STL.News",
+      "published_at": "Wed, 07 Oct 2026 21:05:33 GMT",
+      "summary": "U.S. Stock Market Today: Wednesday, October 7, 2026 STL.News",
+      "guid": "CBMieEFVX3lxTE53cl83ZVJLVXNuTzdkMkZmZGxkcnZVZXhYYk9ocHJiVmpBMGh1QWtKaXlNeWRmOEFFMldzSXJMdzhQalp6MEpSNFhGbDhwb3hUVEJUXzJGZG9US3QxYl9jX3lpenlZTE9VaEh0OFMzMHFqZ0UxQXNBbQ"
     },
     {
       "title": "4 Value Stocks to Buy as Markets Eye Federal Reserve's Next Move - Yahoo Finance",
@@ -39,12 +55,12 @@
       "guid": "CBMilgFBVV95cUxQQVBCRHRLaC1YTmlWeVQxMTJLWS1sMFRXQ1Z3a1d6NG5yTHQzdU9VMXJiZlU1dHZndmtFVk93dUlrbzZqWDBvaVdCM3RaSUF1OVR5ajdDckVYOEJsVFUzLW4tVzlnRWpuRUdPTi1iZy10QU1nQUxRanMzek42dkl0cHR4UDdENnJtS2JQOXNPQzN4MkdrWWc"
     },
     {
-      "title": "The Federal Reserve Is Raising Interest Rates. Here's What History Says That Means for Investors. - The Globe and Mail",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOX2JPcDFXVTltaWZCQzJWNmV6QlByb201dXBWWDJFNnh4ekdscmtwMUlSa0hNVnc2VU1iWTBtdGtRSkxMZS02bWl3cUNqVEJGU1FtSm9XMXVGOG4tRlJhVGYyaWVDeXM3QXVRN3d5Z0JmNFBKVWh6RjhhNXkyX01YN2pGdlFwaTNVXzhMclpQVy1FcVB5bE4ycU5EQ01uTTdnUDhwZzV6ekhaem9zc3NiWkZGX3p0SU4wOWROYkJHTlpfRkMxMmpvb05SVkFxQXhaSmdyNWUyQXJ1R19sdExqYUhxRlRpYTJybWNYa1Z4NG5oOHlPX3NrSFhXV0hjM3RrNkFCSA?oc=5",
-      "source": "The Globe and Mail",
-      "published_at": "Wed, 07 Oct 2026 20:22:07 GMT",
-      "summary": "The Federal Reserve Is Raising Interest Rates. Here's What History Says That Means for Investors. The Globe and Mail",
-      "guid": "CBMihAJBVV95cUxOX2JPcDFXVTltaWZCQzJWNmV6QlByb201dXBWWDJFNnh4ekdscmtwMUlSa0hNVnc2VU1iWTBtdGtRSkxMZS02bWl3cUNqVEJGU1FtSm9XMXVGOG4tRlJhVGYyaWVDeXM3QXVRN3d5Z0JmNFBKVWh6RjhhNXkyX01YN2pGdlFwaTNVXzhMclpQVy1FcVB5bE4ycU5EQ01uTTdnUDhwZzV6ekhaem9zc3NiWkZGX3p0SU4wOWROYkJHTlpfRkMxMmpvb05SVkFxQXhaSmdyNWUyQXJ1R19sdExqYUhxRlRpYTJybWNYa1Z4NG5oOHlPX3NrSFhXV0hjM3RrNkFCSA"
+      "title": "Why is the stock market down today? Surging bond yields, oil prices, and Fed anxiety halt Wall Street's record rally - Clarin.com",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPTVRRTnZ0bFRmVnVpM0RXYkk2ak1NOTR2MDVsM21xNTVfMTBSVzVmaGU1WFdKYmtSOGxtQlFONHhOLU5OX0RsdlZSWWVOWUxMQ25jM0xTSmFpcEExRk5ScEM1NjhCLUZDVzVZdmMwcW1PUERpeVN2aWE4SThad1JfRHpCLXNOTWNRRU1qM3V4Q215d3BKNks2am1hMUxzLWxuREFZSm5kSllBYldtYXBRNmExcU93UmlYOG84bVRqX3JDcjBZamJLS19Fc1BxTGZOOEl0TzZsRXRTbmpvMkNfN0syZ1pqdndSWlpGX1RicURxNG_SAfgBQVVfeXFMTnp5QU9xQS1xWkE0Wms5V1hzTWlfYy1oQ19yb0FISHJ0NFdTMnJMSDZsaG5aeW9kNGFzS3RRaHpGcU5BYzVxdXRrSW9IWXYzZjlKWjVaMDNaZnJTZkVGRXlRekdtWE1od3FXbDVaM00zSmZGZXY5VjVONWhocTlzcU5jTC12dVp3RGJsbkVnRFBRZUtpYVZPU3lfRUoza2VodjVZRVpRaTlfdVBYTkU3TlZfNHhMLTV6MU1yMXRGaHZCbXNhOFlURmpSdm5Bbkxwdmw0TjhBVWRkYzZZSTFKVnFpRFR0OTBBc1pTX0M3eURiZW1wRm05RGc?oc=5",
+      "source": "Clarin.com",
+      "published_at": "Wed, 07 Oct 2026 14:34:56 GMT",
+      "summary": "Why is the stock market down today? Surging bond yields, oil prices, and Fed anxiety halt Wall Street's record rally Clarin.com",
+      "guid": "CBMi8wFBVV95cUxPTVRRTnZ0bFRmVnVpM0RXYkk2ak1NOTR2MDVsM21xNTVfMTBSVzVmaGU1WFdKYmtSOGxtQlFONHhOLU5OX0RsdlZSWWVOWUxMQ25jM0xTSmFpcEExRk5ScEM1NjhCLUZDVzVZdmMwcW1PUERpeVN2aWE4SThad1JfRHpCLXNOTWNRRU1qM3V4Q215d3BKNks2am1hMUxzLWxuREFZSm5kSllBYldtYXBRNmExcU93UmlYOG84bVRqX3JDcjBZamJLS19Fc1BxTGZOOEl0TzZsRXRTbmpvMkNfN0syZ1pqdndSWlpGX1RicURxNG_SAfgBQVVfeXFMTnp5QU9xQS1xWkE0Wms5V1hzTWlfYy1oQ19yb0FISHJ0NFdTMnJMSDZsaG5aeW9kNGFzS3RRaHpGcU5BYzVxdXRrSW9IWXYzZjlKWjVaMDNaZnJTZkVGRXlRekdtWE1od3FXbDVaM00zSmZGZXY5VjVONWhocTlzcU5jTC12dVp3RGJsbkVnRFBRZUtpYVZPU3lfRUoza2VodjVZRVpRaTlfdVBYTkU3TlZfNHhMLTV6MU1yMXRGaHZCbXNhOFlURmpSdm5Bbkxwdmw0TjhBVWRkYzZZSTFKVnFpRFR0OTBBc1pTX0M3eURiZW1wRm05RGc"
     },
     {
       "title": "Fed rate hike cycles have a history of denting US stock prices - Reuters",
@@ -55,12 +71,12 @@
       "guid": "CBMipAFBVV95cUxPRmR3cTBOOVhRdHBUaGJ0Z0lBY09RNlFCRm9nSkl3bVpTM3lzN3pMTTlZVVJvdnFyT3FzQXZUZ0NLWXUzbGtLQnRFaFlWNmVNUHJnbHcwbjEwbDBvTG1sQkIzdUN4a3d4RW5VcjlKeVhRSUh4TTJXdW92NkE2eDNVTGJOdlBnZHEyQVpVWnIyMk9EQnBEd1l5SjNnREtobGw5bkRGVw"
     },
     {
-      "title": "Stock Market Today: S&P 500, Dow, Nasdaq Futures Fall as 30-Year Treasury Yield Hits 2002 High; Iran Mocks US Economy — STZ, PENG, LEVI in Focus (UPDATED) - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNLUZLd0x4Mmh3OUJQWUZQelIzbWFoMW95U1loMnRaQWNrMHJodGJMV3BtQWs5Rjl0RVdzNmVYVk0ya3J0cEpWajd2dU8yQmJuSHpMZ3B6Qm03dEpOUmtWY0IzaUhJM19CNFU0UTE4NDFucS04Ulc4TDdnTlRNLUdlb1J3ZXRKTUN0cV8tT2tub21tZ29QWVpUWHpoMTZzUlZaUFo2dHhUVDl4WXdxVUhkZklLZTJlZmk1bVM2MnowYWlMRFlkQzVHLTUtbjNQeWQtckREVkpCZVc2SmZrNU1fc055Uy1ieWV6NzdmZjBXZWRZVXVvSWtyRHMyc3JLM09nZm5hc2RfOHNYZUNrWloxX0QxdHA4ODVOTVBwREJlQjVtb0VKbndrQTlzWQ?oc=5",
-      "source": "TradingView",
-      "published_at": "Wed, 07 Oct 2026 12:36:45 GMT",
-      "summary": "Stock Market Today: S&P 500, Dow, Nasdaq Futures Fall as 30-Year Treasury Yield Hits 2002 High; Iran Mocks US Economy — STZ, PENG, LEVI in Focus (UPDATED) TradingView",
-      "guid": "CBMiqwJBVV95cUxNLUZLd0x4Mmh3OUJQWUZQelIzbWFoMW95U1loMnRaQWNrMHJodGJMV3BtQWs5Rjl0RVdzNmVYVk0ya3J0cEpWajd2dU8yQmJuSHpMZ3B6Qm03dEpOUmtWY0IzaUhJM19CNFU0UTE4NDFucS04Ulc4TDdnTlRNLUdlb1J3ZXRKTUN0cV8tT2tub21tZ29QWVpUWHpoMTZzUlZaUFo2dHhUVDl4WXdxVUhkZklLZTJlZmk1bVM2MnowYWlMRFlkQzVHLTUtbjNQeWQtckREVkpCZVc2SmZrNU1fc055Uy1ieWV6NzdmZjBXZWRZVXVvSWtyRHMyc3JLM09nZm5hc2RfOHNYZUNrWloxX0QxdHA4ODVOTVBwREJlQjVtb0VKbndrQTlzWQ"
+      "title": "The Federal Reserve Is Raising Interest Rates. Here's What History Says That Means for Investors. - The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOX2JPcDFXVTltaWZCQzJWNmV6QlByb201dXBWWDJFNnh4ekdscmtwMUlSa0hNVnc2VU1iWTBtdGtRSkxMZS02bWl3cUNqVEJGU1FtSm9XMXVGOG4tRlJhVGYyaWVDeXM3QXVRN3d5Z0JmNFBKVWh6RjhhNXkyX01YN2pGdlFwaTNVXzhMclpQVy1FcVB5bE4ycU5EQ01uTTdnUDhwZzV6ekhaem9zc3NiWkZGX3p0SU4wOWROYkJHTlpfRkMxMmpvb05SVkFxQXhaSmdyNWUyQXJ1R19sdExqYUhxRlRpYTJybWNYa1Z4NG5oOHlPX3NrSFhXV0hjM3RrNkFCSA?oc=5",
+      "source": "The Globe and Mail",
+      "published_at": "Wed, 07 Oct 2026 20:22:07 GMT",
+      "summary": "The Federal Reserve Is Raising Interest Rates. Here's What History Says That Means for Investors. The Globe and Mail",
+      "guid": "CBMihAJBVV95cUxOX2JPcDFXVTltaWZCQzJWNmV6QlByb201dXBWWDJFNnh4ekdscmtwMUlSa0hNVnc2VU1iWTBtdGtRSkxMZS02bWl3cUNqVEJGU1FtSm9XMXVGOG4tRlJhVGYyaWVDeXM3QXVRN3d5Z0JmNFBKVWh6RjhhNXkyX01YN2pGdlFwaTNVXzhMclpQVy1FcVB5bE4ycU5EQ01uTTdnUDhwZzV6ekhaem9zc3NiWkZGX3p0SU4wOWROYkJHTlpfRkMxMmpvb05SVkFxQXhaSmdyNWUyQXJ1R19sdExqYUhxRlRpYTJybWNYa1Z4NG5oOHlPX3NrSFhXV0hjM3RrNkFCSA"
     },
     {
       "title": "U.S. stocks slip after the Fed raises interest rates, hints more hikes may be on the way - PBS",
@@ -69,22 +85,6 @@
       "published_at": "Wed, 16 Sep 2026 07:00:00 GMT",
       "summary": "U.S. stocks slip after the Fed raises interest rates, hints more hikes may be on the way PBS",
       "guid": "CBMivwFBVV95cUxPQ0o4SEFnLXVuc0pFakhWQXNrNVdZOFBqTmZsR3dlMlFFZEluX2VWbEJPOGJkRkZ6a2tfaHZySVdpaVhYZk1aeGZFdjM2UExoOGMxc1BDbkcwUVFMaElEXzBUb2ItX1hmRVkxWjhHanJyV3ppMGJFcjhNY3BVYlZMNFVCemRaSW94Z1hBZy0yNmd3R29KMEppZThtNmxWaERxa3hfZzZ4WU5BV3AzN19xSTY0OEZwQmwzdGVSWC1SNNIBxAFBVV95cUxNQ3ZKZVFHbHpRSEo2cGs4RjlfMG1UdURsamh2Y3ExeEVkZzdmaGQ3OElrd0FpclpvUGQ1MFlKSHZ2VGFOc1hVN3ZmSVc4aGhIY3hvVm5UUlY0emc2bFNyU3ZGU0RFckhMekh6WE5FeklHLU9uUGZNOVZCQWJPdnctcTNJTmpTOGp0Q3ZVUjEzSWROc0V6VE1lY2hLLWNJWUlwTkEwQkJ1SVVtRlZrYlg5QUxoZEZFOFFzMXgwbkNPNzgzdlRa"
-    },
-    {
-      "title": "U.S. Stock Market Preview | The Federal Reserve's meeting minutes are set to be released at 2:00 a.m.; all three major stock index futures are down, while U.S. Treasury yields rise; Iran plans to seal off the \"illegal shipping lane\" in the Strait of Hormuz, pushing - 富途牛牛",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPY2lvUENjSmxUSHp3eDVGNV9JVk40WWZORGltR1p3MjJsREpPZFFwemlJNFl1YmpTUXAzZmFjbnpDVXJNMnlkRHRDNHVKWGhlU0F0WU5yVWtUUFkyRGVTOWQ0bE9BWThCSUdPMlRpck9MSU5YdldfOGVPMm5KbW9RUVgwZ2ktUGVOMnVjdGM0M1BLRjFZQ3RkekFHMnNwQ1lYSEZJdHNDbw?oc=5",
-      "source": "富途牛牛",
-      "published_at": "Wed, 07 Oct 2026 12:32:00 GMT",
-      "summary": "U.S. Stock Market Preview | The Federal Reserve's meeting minutes are set to be released at 2:00 a.m.; all three major stock index futures are down, while U.S. Treasury yields rise; Iran plans to seal off the \"illegal shipping lane\" in the Strait of Hormuz, pushing 富途牛牛",
-      "guid": "CBMipwFBVV95cUxPY2lvUENjSmxUSHp3eDVGNV9JVk40WWZORGltR1p3MjJsREpPZFFwemlJNFl1YmpTUXAzZmFjbnpDVXJNMnlkRHRDNHVKWGhlU0F0WU5yVWtUUFkyRGVTOWQ0bE9BWThCSUdPMlRpck9MSU5YdldfOGVPMm5KbW9RUVgwZ2ktUGVOMnVjdGM0M1BLRjFZQ3RkekFHMnNwQ1lYSEZJdHNDbw"
-    },
-    {
-      "title": "Navigating Geoeconomic Risk in the U.S. Stock Market - Liberty Street Economics",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaVEwbEZyLWJuQXQ2OVdxaEdXb19HNVdYbUFybFNDeC1OSFVTUUhWaU1iUUFYSWlBSG1hYzloRHBIVTJKNkdTWGNUWmx5ejhIWF90Q0gzOG1LV1E2VEUtR2c0R0JYbzhpSzVweGVjUVN1YzllOU1kWGtIcmU5aFNsc2Jubm5jSi12X2ItVG9rU0V1YWpIRzVidkRValA2WHpDdHNWWlRlU2Ezdw?oc=5",
-      "source": "Liberty Street Economics",
-      "published_at": "Thu, 01 Oct 2026 11:00:58 GMT",
-      "summary": "Navigating Geoeconomic Risk in the U.S. Stock Market Liberty Street Economics",
-      "guid": "CBMiqgFBVV95cUxPaVEwbEZyLWJuQXQ2OVdxaEdXb19HNVdYbUFybFNDeC1OSFVTUUhWaU1iUUFYSWlBSG1hYzloRHBIVTJKNkdTWGNUWmx5ejhIWF90Q0gzOG1LV1E2VEUtR2c0R0JYbzhpSzVweGVjUVN1YzllOU1kWGtIcmU5aFNsc2Jubm5jSi12X2ItVG9rU0V1YWpIRzVidkRValA2WHpDdHNWWlRlU2Ezdw"
     }
   ]
 }
