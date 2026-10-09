@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-10-08T21:38:14Z",
+  "generated_at": "2026-10-09T01:25:43Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "Tech Stocks to Fall as OpenAI Sinks US Chipmakers: Markets Wrap - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLVdSbk1NMk9oczQxR1FzUXBRcVJuVlRWZExIbS1LQmh1am1NQ1J4ZzZEbXpaVHhVWU5FcHAtODFZYUQ1UkpZSTM0XzI2amdDa0dyTXlQVXNZbXdjcTRZd1pVSzhyRV9FbjM3cXpVeGwzY1I4WGFoZUN4VjQ2Rml2NzZfOGc2QmlPUUY0bGYtd3ZoUk53?oc=5",
+      "source": "Bloomberg.com",
+      "published_at": "Thu, 08 Oct 2026 22:05:53 GMT",
+      "summary": "Tech Stocks to Fall as OpenAI Sinks US Chipmakers: Markets Wrap Bloomberg.com",
+      "guid": "CBMilAFBVV95cUxNLVdSbk1NMk9oczQxR1FzUXBRcVJuVlRWZExIbS1LQmh1am1NQ1J4ZzZEbXpaVHhVWU5FcHAtODFZYUQ1UkpZSTM0XzI2amdDa0dyTXlQVXNZbXdjcTRZd1pVSzhyRV9FbjM3cXpVeGwzY1I4WGFoZUN4VjQ2Rml2NzZfOGc2QmlPUUY0bGYtd3ZoUk53"
+    },
     {
       "title": "Why The Stock Market Could March Higher Even if Earnings Growth Slows - Investopedia",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZ3ZiaTJxdlVWd3IzTEZMLUNsUEozelVPNVVJRkZTcnhxQ01SbjN4S2Z0Z2xLOGN1dkpCYWItQm9RVEVpaUhrZHNqaFNkRXVRNmZwM2VGRkw1bkdZaEt1SWxSRUFoVFRvaUZUSkhxTXpSNjRtbFdrNGtuZURWQmVfQ3BTLTNWdGR0ZS1Rd1NVa0lQdUZvc2Jjejk3clItZmM4SXo4M29SMjdTUmZyTW1CbUZZMEdSVWdHMmpjdGFR?oc=5",
@@ -31,14 +39,6 @@
       "guid": "CBMipAFBVV95cUxPRmR3cTBOOVhRdHBUaGJ0Z0lBY09RNlFCRm9nSkl3bVpTM3lzN3pMTTlZVVJvdnFyT3FzQXZUZ0NLWXUzbGtLQnRFaFlWNmVNUHJnbHcwbjEwbDBvTG1sQkIzdUN4a3d4RW5VcjlKeVhRSUh4TTJXdW92NkE2eDNVTGJOdlBnZHEyQVpVWnIyMk9EQnBEd1l5SjNnREtobGw5bkRGVw"
     },
     {
-      "title": "Stock Market Today: S&P 500 Slips as Oil Spikes 5%, 10-Year Yields Near 5.35% - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOazNxUkozME41YlJvcjB5TXRQVXEyMW0tNi0tZFJpOEFJcWNLS0xFNUFXdVBJZVZ3clJwT2VNaWY1WDhiT0tjSUpaa2ZwS0phaWRjejk4Z1czRUpYdzFrQWwtaG14bkFRYXVOVlVMMDd2d3RVclRRdmcwRW93TW5XZWJSTDc2QVBIcEpsVmhpck9nY0t1LWJQcjZwbXZ5N2VLTzdMV0NnZWQ3WXVnYk5uQ2ZpbW9uQkR0QzkyTDgyWi1FcXNucW1FbTctbno?oc=5",
-      "source": "TradingView",
-      "published_at": "Thu, 08 Oct 2026 17:19:59 GMT",
-      "summary": "Stock Market Today: S&P 500 Slips as Oil Spikes 5%, 10-Year Yields Near 5.35% TradingView",
-      "guid": "CBMizAFBVV95cUxOazNxUkozME41YlJvcjB5TXRQVXEyMW0tNi0tZFJpOEFJcWNLS0xFNUFXdVBJZVZ3clJwT2VNaWY1WDhiT0tjSUpaa2ZwS0phaWRjejk4Z1czRUpYdzFrQWwtaG14bkFRYXVOVlVMMDd2d3RVclRRdmcwRW93TW5XZWJSTDc2QVBIcEpsVmhpck9nY0t1LWJQcjZwbXZ5N2VLTzdMV0NnZWQ3WXVnYk5uQ2ZpbW9uQkR0QzkyTDgyWi1FcXNucW1FbTctbno"
-    },
-    {
       "title": "The Federal Reserve Is Raising Interest Rates. Here's What History Says That Means for Investors. - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRDFuWk9RWWRDd0JQXzh0dVpMOWdXOXE4X2lmYnozQ0d6a0NWM0dVcmxoVVNBODFTT3V0TE5NdmM3XzYzbzZ6ODhqblBNM2VEYkhlQkduVGRFWWcwS0xubXJ5OTJRcWdPYTFyY2UzdDZpaHR3UnQ0dU9wd3hieHpfWWdrWmtsYzFzUmtkUlMzRG1SODRLSGZSbg?oc=5",
       "source": "The Motley Fool",
@@ -47,12 +47,12 @@
       "guid": "CBMimAFBVV95cUxNRDFuWk9RWWRDd0JQXzh0dVpMOWdXOXE4X2lmYnozQ0d6a0NWM0dVcmxoVVNBODFTT3V0TE5NdmM3XzYzbzZ6ODhqblBNM2VEYkhlQkduVGRFWWcwS0xubXJ5OTJRcWdPYTFyY2UzdDZpaHR3UnQ0dU9wd3hieHpfWWdrWmtsYzFzUmtkUlMzRG1SODRLSGZSbg"
     },
     {
-      "title": "Why Universal Display (OLED) Shares Are Trading Lower Today - StockStory",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOc01xdzc0U1BsYzJvaU5zN2o4ajVoZXhpU0dYMzhYU19NNENUa1lXejVyVlFVZTBhT0s0V3ZwNW13UnNyOGhxbDdzYWdoSmd3YXZMR3JSTGpsYVN4M3haZWFERmpnNUJOVjhlV1I3Vmg0SHlnX0MyN3lhcHZNX0x5clFoQllYTEY0aUdlVWUwUUMxRWlKamRGWnc0VU9wX0JnRGxFWjJfbzliWVEwZVEyQ01ZcDZ2WVRLRmR3?oc=5",
-      "source": "StockStory",
-      "published_at": "Thu, 08 Oct 2026 14:46:09 GMT",
-      "summary": "Why Universal Display (OLED) Shares Are Trading Lower Today StockStory",
-      "guid": "CBMiuwFBVV95cUxOc01xdzc0U1BsYzJvaU5zN2o4ajVoZXhpU0dYMzhYU19NNENUa1lXejVyVlFVZTBhT0s0V3ZwNW13UnNyOGhxbDdzYWdoSmd3YXZMR3JSTGpsYVN4M3haZWFERmpnNUJOVjhlV1I3Vmg0SHlnX0MyN3lhcHZNX0x5clFoQllYTEY0aUdlVWUwUUMxRWlKamRGWnc0VU9wX0JnRGxFWjJfbzliWVEwZVEyQ01ZcDZ2WVRLRmR3"
+      "title": "Stock Market Today: S&P 500 Slips as Oil Spikes 5%, 10-Year Yields Near 5.35% - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOazNxUkozME41YlJvcjB5TXRQVXEyMW0tNi0tZFJpOEFJcWNLS0xFNUFXdVBJZVZ3clJwT2VNaWY1WDhiT0tjSUpaa2ZwS0phaWRjejk4Z1czRUpYdzFrQWwtaG14bkFRYXVOVlVMMDd2d3RVclRRdmcwRW93TW5XZWJSTDc2QVBIcEpsVmhpck9nY0t1LWJQcjZwbXZ5N2VLTzdMV0NnZWQ3WXVnYk5uQ2ZpbW9uQkR0QzkyTDgyWi1FcXNucW1FbTctbno?oc=5",
+      "source": "TradingView",
+      "published_at": "Thu, 08 Oct 2026 17:19:59 GMT",
+      "summary": "Stock Market Today: S&P 500 Slips as Oil Spikes 5%, 10-Year Yields Near 5.35% TradingView",
+      "guid": "CBMizAFBVV95cUxOazNxUkozME41YlJvcjB5TXRQVXEyMW0tNi0tZFJpOEFJcWNLS0xFNUFXdVBJZVZ3clJwT2VNaWY1WDhiT0tjSUpaa2ZwS0phaWRjejk4Z1czRUpYdzFrQWwtaG14bkFRYXVOVlVMMDd2d3RVclRRdmcwRW93TW5XZWJSTDc2QVBIcEpsVmhpck9nY0t1LWJQcjZwbXZ5N2VLTzdMV0NnZWQ3WXVnYk5uQ2ZpbW9uQkR0QzkyTDgyWi1FcXNucW1FbTctbno"
     },
     {
       "title": "U.S. stocks slip after the Fed raises interest rates, hints more hikes may be on the way - PBS",
@@ -71,20 +71,20 @@
       "guid": "CBMimwFBVV95cUxOZlo2QnJobkpnNkowejZOV3V0VnNEZFhQcWw5WUVzaDJNbGp2aEVmbENKQ3JZMFlFYjJGMXBYR3poM3Zzei1vVzRhNDR4cWFjcTJyNzktUFZXc2dSa1VzZ2NpMmdXNFVFcmdxWXZnc1I0eHREVDdiWUJHdzZUSUt0cmZ5c0J0dTRPUWhXZGlVdDdRZm1SYmZvVzlVaw"
     },
     {
+      "title": "Why Universal Display (OLED) Shares Are Trading Lower Today - StockStory",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOc01xdzc0U1BsYzJvaU5zN2o4ajVoZXhpU0dYMzhYU19NNENUa1lXejVyVlFVZTBhT0s0V3ZwNW13UnNyOGhxbDdzYWdoSmd3YXZMR3JSTGpsYVN4M3haZWFERmpnNUJOVjhlV1I3Vmg0SHlnX0MyN3lhcHZNX0x5clFoQllYTEY0aUdlVWUwUUMxRWlKamRGWnc0VU9wX0JnRGxFWjJfbzliWVEwZVEyQ01ZcDZ2WVRLRmR3?oc=5",
+      "source": "StockStory",
+      "published_at": "Thu, 08 Oct 2026 14:46:09 GMT",
+      "summary": "Why Universal Display (OLED) Shares Are Trading Lower Today StockStory",
+      "guid": "CBMiuwFBVV95cUxOc01xdzc0U1BsYzJvaU5zN2o4ajVoZXhpU0dYMzhYU19NNENUa1lXejVyVlFVZTBhT0s0V3ZwNW13UnNyOGhxbDdzYWdoSmd3YXZMR3JSTGpsYVN4M3haZWFERmpnNUJOVjhlV1I3Vmg0SHlnX0MyN3lhcHZNX0x5clFoQllYTEY0aUdlVWUwUUMxRWlKamRGWnc0VU9wX0JnRGxFWjJfbzliWVEwZVEyQ01ZcDZ2WVRLRmR3"
+    },
+    {
       "title": "Why is the stock market down today? Surging bond yields, oil prices, and Fed anxiety halt Wall Street's record rally - Clarin.com",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPTVRRTnZ0bFRmVnVpM0RXYkk2ak1NOTR2MDVsM21xNTVfMTBSVzVmaGU1WFdKYmtSOGxtQlFONHhOLU5OX0RsdlZSWWVOWUxMQ25jM0xTSmFpcEExRk5ScEM1NjhCLUZDVzVZdmMwcW1PUERpeVN2aWE4SThad1JfRHpCLXNOTWNRRU1qM3V4Q215d3BKNks2am1hMUxzLWxuREFZSm5kSllBYldtYXBRNmExcU93UmlYOG84bVRqX3JDcjBZamJLS19Fc1BxTGZOOEl0TzZsRXRTbmpvMkNfN0syZ1pqdndSWlpGX1RicURxNG_SAfgBQVVfeXFMTnp5QU9xQS1xWkE0Wms5V1hzTWlfYy1oQ19yb0FISHJ0NFdTMnJMSDZsaG5aeW9kNGFzS3RRaHpGcU5BYzVxdXRrSW9IWXYzZjlKWjVaMDNaZnJTZkVGRXlRekdtWE1od3FXbDVaM00zSmZGZXY5VjVONWhocTlzcU5jTC12dVp3RGJsbkVnRFBRZUtpYVZPU3lfRUoza2VodjVZRVpRaTlfdVBYTkU3TlZfNHhMLTV6MU1yMXRGaHZCbXNhOFlURmpSdm5Bbkxwdmw0TjhBVWRkYzZZSTFKVnFpRFR0OTBBc1pTX0M3eURiZW1wRm05RGc?oc=5",
       "source": "Clarin.com",
       "published_at": "Wed, 07 Oct 2026 14:34:56 GMT",
       "summary": "Why is the stock market down today? Surging bond yields, oil prices, and Fed anxiety halt Wall Street's record rally Clarin.com",
       "guid": "CBMi8wFBVV95cUxPTVRRTnZ0bFRmVnVpM0RXYkk2ak1NOTR2MDVsM21xNTVfMTBSVzVmaGU1WFdKYmtSOGxtQlFONHhOLU5OX0RsdlZSWWVOWUxMQ25jM0xTSmFpcEExRk5ScEM1NjhCLUZDVzVZdmMwcW1PUERpeVN2aWE4SThad1JfRHpCLXNOTWNRRU1qM3V4Q215d3BKNks2am1hMUxzLWxuREFZSm5kSllBYldtYXBRNmExcU93UmlYOG84bVRqX3JDcjBZamJLS19Fc1BxTGZOOEl0TzZsRXRTbmpvMkNfN0syZ1pqdndSWlpGX1RicURxNG_SAfgBQVVfeXFMTnp5QU9xQS1xWkE0Wms5V1hzTWlfYy1oQ19yb0FISHJ0NFdTMnJMSDZsaG5aeW9kNGFzS3RRaHpGcU5BYzVxdXRrSW9IWXYzZjlKWjVaMDNaZnJTZkVGRXlRekdtWE1od3FXbDVaM00zSmZGZXY5VjVONWhocTlzcU5jTC12dVp3RGJsbkVnRFBRZUtpYVZPU3lfRUoza2VodjVZRVpRaTlfdVBYTkU3TlZfNHhMLTV6MU1yMXRGaHZCbXNhOFlURmpSdm5Bbkxwdmw0TjhBVWRkYzZZSTFKVnFpRFR0OTBBc1pTX0M3eURiZW1wRm05RGc"
-    },
-    {
-      "title": "The Federal Reserve Is Raising Interest Rates. Here's What History Says That Means for Investors. - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTWRjWV9fcE5RTDZUd2R1VVVPSmxBVFJfUFdBTmQ5d01QdzByQjVQdmQtaFAxYWxWdGk1ZERoZjRWME1DamxSekoxSWF0WGhUSlpzeU5kN2dJSFc2RFRUR3N2WEFFdzBUUDdkUFVMcXNQRUlYMEdQUENFMnB6QkVnQjdjaG1EN0k?oc=5",
-      "source": "AOL.com",
-      "published_at": "Wed, 07 Oct 2026 19:57:00 GMT",
-      "summary": "The Federal Reserve Is Raising Interest Rates. Here's What History Says That Means for Investors. AOL.com",
-      "guid": "CBMihwFBVV95cUxQTWRjWV9fcE5RTDZUd2R1VVVPSmxBVFJfUFdBTmQ5d01QdzByQjVQdmQtaFAxYWxWdGk1ZERoZjRWME1DamxSekoxSWF0WGhUSlpzeU5kN2dJSFc2RFRUR3N2WEFFdzBUUDdkUFVMcXNQRUlYMEdQUENFMnB6QkVnQjdjaG1EN0k"
     }
   ]
 }
