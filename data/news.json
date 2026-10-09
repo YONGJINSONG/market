@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-10-09T19:43:56Z",
+  "generated_at": "2026-10-09T23:30:50Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "Trump launches new effort to oust Fed Governor Lisa Cook - CNN",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTjFBN0hzaFotYnFvNUpWbkE3TzNkemdXSG9aZVd1Y3VMM2hCQnc1UUZSRkhwSlg3ODVWTFFyUE5tenpkM1dGVXJWQ2U3S0dyN2JFU1UwN2F6RndPaUQ5Q2pRU1FiYjFsSnFQY0ktR29XOWhSY3BzeGprNE5SUk4wWEt0cTk?oc=5",
+      "source": "CNN",
+      "published_at": "Fri, 09 Oct 2026 14:26:00 GMT",
+      "summary": "Trump launches new effort to oust Fed Governor Lisa Cook CNN",
+      "guid": "CBMihAFBVV95cUxNTjFBN0hzaFotYnFvNUpWbkE3TzNkemdXSG9aZVd1Y3VMM2hCQnc1UUZSRkhwSlg3ODVWTFFyUE5tenpkM1dGVXJWQ2U3S0dyN2JFU1UwN2F6RndPaUQ5Q2pRU1FiYjFsSnFQY0ktR29XOWhSY3BzeGprNE5SUk4wWEt0cTk"
+    },
     {
       "title": "Stock bull market nears 4-year anniversary driven by AI spending — but there are looming risks - New York Post",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ2ZjMWp2aVJlLUpudlFNXzBGZzVVSlBCSF9UejVwWFFuMUsyLUJZeS1YSlJYUWM3N0FhMkdndDQ2ODVwUFhobDRNelJrWkk2eENUdnZJWnpRMGppdlI3Tk9xaWNSdS1pY19MbEUxbHo1UU5wbWsyTGhDZWN4eDZLcURrNVNiRGJ0Slp4ZEQ3Zy1uU2Y0cUZYUV9MQmRHaWxyak1VcDd1VQ?oc=5",
@@ -15,12 +23,28 @@
       "guid": "CBMipwFBVV95cUxQZ2ZjMWp2aVJlLUpudlFNXzBGZzVVSlBCSF9UejVwWFFuMUsyLUJZeS1YSlJYUWM3N0FhMkdndDQ2ODVwUFhobDRNelJrWkk2eENUdnZJWnpRMGppdlI3Tk9xaWNSdS1pY19MbEUxbHo1UU5wbWsyTGhDZWN4eDZLcURrNVNiRGJ0Slp4ZEQ3Zy1uU2Y0cUZYUV9MQmRHaWxyak1VcDd1VQ"
     },
     {
+      "title": "Americans 75 and older are wealthiest age group, Fed survey finds - Magnolia Tribune",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQzNsYUdfUFNiWklpZGRxTHNLRlB5TVNjLUV3bWZ6cmhMMG9EU2VyTGwteHJpcjRyS1dMYUUxTnF6ZE1zQlBQU0FsLUJBMG5hNkp4UTFaTTIxQXM1V3JXeTdLbk9qZExsajNIal9VbEVNTERDSkxZT3liNHQxelVRWktQcy1Lbk1mN3FZUGZTSllFQWdpNU91TlgyQkVpMEFxcnlVQXhsRQ?oc=5",
+      "source": "Magnolia Tribune",
+      "published_at": "Fri, 09 Oct 2026 18:45:00 GMT",
+      "summary": "Americans 75 and older are wealthiest age group, Fed survey finds Magnolia Tribune",
+      "guid": "CBMipwFBVV95cUxOQzNsYUdfUFNiWklpZGRxTHNLRlB5TVNjLUV3bWZ6cmhMMG9EU2VyTGwteHJpcjRyS1dMYUUxTnF6ZE1zQlBQU0FsLUJBMG5hNkp4UTFaTTIxQXM1V3JXeTdLbk9qZExsajNIal9VbEVNTERDSkxZT3liNHQxelVRWktQcy1Lbk1mN3FZUGZTSllFQWdpNU91TlgyQkVpMEFxcnlVQXhsRQ"
+    },
+    {
       "title": "Stock Market Today: Tech Leads Stocks Toward a Higher Open as Treasury Yields Ease - 24/7 Wall St.",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOai1yeTgzQlZFZ2c0ajQtVFNoMk9zTmkxNDlBbnBidnluM1NRUG1zaHZnVjcyalM5N0kzNndRb3BhenNvWWp0S1BZTy1XTGhOZDJIX1czVTlPUXNubG1SVHJGMW0xY1NOR2w2YzI3X19ySmhHR1J3bjhxN3hYZzJtemN2TkluYUFtbnpRUHFObEVxM28wUlNndUZveXVCMDdkOVBtTWd3YW5qcUdGWTdxQzgwbw?oc=5",
       "source": "24/7 Wall St.",
       "published_at": "Fri, 09 Oct 2026 13:30:00 GMT",
       "summary": "Stock Market Today: Tech Leads Stocks Toward a Higher Open as Treasury Yields Ease 24/7 Wall St.",
       "guid": "CBMiswFBVV95cUxOai1yeTgzQlZFZ2c0ajQtVFNoMk9zTmkxNDlBbnBidnluM1NRUG1zaHZnVjcyalM5N0kzNndRb3BhenNvWWp0S1BZTy1XTGhOZDJIX1czVTlPUXNubG1SVHJGMW0xY1NOR2w2YzI3X19ySmhHR1J3bjhxN3hYZzJtemN2TkluYUFtbnpRUHFObEVxM28wUlNndUZveXVCMDdkOVBtTWd3YW5qcUdGWTdxQzgwbw"
+    },
+    {
+      "title": "Fed rate hike cycles have a history of denting US stock prices - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRmR3cTBOOVhRdHBUaGJ0Z0lBY09RNlFCRm9nSkl3bVpTM3lzN3pMTTlZVVJvdnFyT3FzQXZUZ0NLWXUzbGtLQnRFaFlWNmVNUHJnbHcwbjEwbDBvTG1sQkIzdUN4a3d4RW5VcjlKeVhRSUh4TTJXdW92NkE2eDNVTGJOdlBnZHEyQVpVWnIyMk9EQnBEd1l5SjNnREtobGw5bkRGVw?oc=5",
+      "source": "Reuters",
+      "published_at": "Thu, 24 Sep 2026 07:00:00 GMT",
+      "summary": "Fed rate hike cycles have a history of denting US stock prices Reuters",
+      "guid": "CBMipAFBVV95cUxPRmR3cTBOOVhRdHBUaGJ0Z0lBY09RNlFCRm9nSkl3bVpTM3lzN3pMTTlZVVJvdnFyT3FzQXZUZ0NLWXUzbGtLQnRFaFlWNmVNUHJnbHcwbjEwbDBvTG1sQkIzdUN4a3d4RW5VcjlKeVhRSUh4TTJXdW92NkE2eDNVTGJOdlBnZHEyQVpVWnIyMk9EQnBEd1l5SjNnREtobGw5bkRGVw"
     },
     {
       "title": "4 Value Stocks to Buy as Markets Eye Federal Reserve's Next Move - Yahoo Finance",
@@ -39,6 +63,14 @@
       "guid": "CBMimAFBVV95cUxNRDFuWk9RWWRDd0JQXzh0dVpMOWdXOXE4X2lmYnozQ0d6a0NWM0dVcmxoVVNBODFTT3V0TE5NdmM3XzYzbzZ6ODhqblBNM2VEYkhlQkduVGRFWWcwS0xubXJ5OTJRcWdPYTFyY2UzdDZpaHR3UnQ0dU9wd3hieHpfWWdrWmtsYzFzUmtkUlMzRG1SODRLSGZSbg"
     },
     {
+      "title": "Americans 75 and older are wealthiest age group, Fed survey finds - Boston Herald",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1GZEI5emkwRVBzMC1sQTZWMXNSY2dzOUpWTW1zOFJXZm1IdW9uQ2VwSGtSb0toSk5JRGRvZTBIV3M5VkxtZUl1M2hONEVFQ3JNaWZYZFBTdXRBSENLTU9RTXZBazFHVlMxQWw4aVNjTVZLX0tBWlI1b3RB?oc=5",
+      "source": "Boston Herald",
+      "published_at": "Fri, 09 Oct 2026 17:09:47 GMT",
+      "summary": "Americans 75 and older are wealthiest age group, Fed survey finds Boston Herald",
+      "guid": "CBMiekFVX3lxTE1GZEI5emkwRVBzMC1sQTZWMXNSY2dzOUpWTW1zOFJXZm1IdW9uQ2VwSGtSb0toSk5JRGRvZTBIV3M5VkxtZUl1M2hONEVFQ3JNaWZYZFBTdXRBSENLTU9RTXZBazFHVlMxQWw4aVNjTVZLX0tBWlI1b3RB"
+    },
+    {
       "title": "U.S. stocks slip after the Fed raises interest rates, hints more hikes may be on the way - PBS",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQ0o4SEFnLXVuc0pFakhWQXNrNVdZOFBqTmZsR3dlMlFFZEluX2VWbEJPOGJkRkZ6a2tfaHZySVdpaVhYZk1aeGZFdjM2UExoOGMxc1BDbkcwUVFMaElEXzBUb2ItX1hmRVkxWjhHanJyV3ppMGJFcjhNY3BVYlZMNFVCemRaSW94Z1hBZy0yNmd3R29KMEppZThtNmxWaERxa3hfZzZ4WU5BV3AzN19xSTY0OEZwQmwzdGVSWC1SNNIBxAFBVV95cUxNQ3ZKZVFHbHpRSEo2cGs4RjlfMG1UdURsamh2Y3ExeEVkZzdmaGQ3OElrd0FpclpvUGQ1MFlKSHZ2VGFOc1hVN3ZmSVc4aGhIY3hvVm5UUlY0emc2bFNyU3ZGU0RFckhMekh6WE5FeklHLU9uUGZNOVZCQWJPdnctcTNJTmpTOGp0Q3ZVUjEzSWROc0V6VE1lY2hLLWNJWUlwTkEwQkJ1SVVtRlZrYlg5QUxoZEZFOFFzMXgwbkNPNzgzdlRa?oc=5",
       "source": "PBS",
@@ -47,44 +79,12 @@
       "guid": "CBMivwFBVV95cUxPQ0o4SEFnLXVuc0pFakhWQXNrNVdZOFBqTmZsR3dlMlFFZEluX2VWbEJPOGJkRkZ6a2tfaHZySVdpaVhYZk1aeGZFdjM2UExoOGMxc1BDbkcwUVFMaElEXzBUb2ItX1hmRVkxWjhHanJyV3ppMGJFcjhNY3BVYlZMNFVCemRaSW94Z1hBZy0yNmd3R29KMEppZThtNmxWaERxa3hfZzZ4WU5BV3AzN19xSTY0OEZwQmwzdGVSWC1SNNIBxAFBVV95cUxNQ3ZKZVFHbHpRSEo2cGs4RjlfMG1UdURsamh2Y3ExeEVkZzdmaGQ3OElrd0FpclpvUGQ1MFlKSHZ2VGFOc1hVN3ZmSVc4aGhIY3hvVm5UUlY0emc2bFNyU3ZGU0RFckhMekh6WE5FeklHLU9uUGZNOVZCQWJPdnctcTNJTmpTOGp0Q3ZVUjEzSWROc0V6VE1lY2hLLWNJWUlwTkEwQkJ1SVVtRlZrYlg5QUxoZEZFOFFzMXgwbkNPNzgzdlRa"
     },
     {
-      "title": "Stock market returns after Fed hikes, holds and cuts: What history shows ahead of the September 2026 meeting - Chase Bank",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZk5DYnRUeXFDbWpLeTI5QjFLdWNjdjV6YWNvRW1KZ2hCNlRKV1djZk1nb1RYMlJPeHFGUGh4MVY0OW1BblFCQlBENkhnZEtfOVVzMExORC12YVVPVHZubnRuUC1xTWNLU1YxcVJkZGY1WWNhb01BRFlSUFZNNjNrRUxCUGZtdk5SdnN6a21KVmozMy1IWk5fMVk5M2tKa3E4LVM3QVpOd2N2WWQzVmpzU1VMNmZCOGo1OHFBWllnZVp6N3ZyaDktUFZoRF9nTy00Z3pWd0dFNUtCNE9uM3IwZFdWUGFyM216Yzlnang1Zw?oc=5",
-      "source": "Chase Bank",
-      "published_at": "Mon, 14 Sep 2026 07:00:00 GMT",
-      "summary": "Stock market returns after Fed hikes, holds and cuts: What history shows ahead of the September 2026 meeting Chase Bank",
-      "guid": "CBMi7wFBVV95cUxNZk5DYnRUeXFDbWpLeTI5QjFLdWNjdjV6YWNvRW1KZ2hCNlRKV1djZk1nb1RYMlJPeHFGUGh4MVY0OW1BblFCQlBENkhnZEtfOVVzMExORC12YVVPVHZubnRuUC1xTWNLU1YxcVJkZGY1WWNhb01BRFlSUFZNNjNrRUxCUGZtdk5SdnN6a21KVmozMy1IWk5fMVk5M2tKa3E4LVM3QVpOd2N2WWQzVmpzU1VMNmZCOGo1OHFBWllnZVp6N3ZyaDktUFZoRF9nTy00Z3pWd0dFNUtCNE9uM3IwZFdWUGFyM216Yzlnang1Zw"
-    },
-    {
-      "title": "Americans 75 and older are wealthiest age group, Fed survey finds - WTOP News",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOFBqdVZBUUhmT1FqTjJvM0pYdlYxTUhhbi0wMmV1Qy1ld0xRWE9tSVhoa202UkFKTEE3aHdKUWZ3VURDVGRzcEVEaUhRem51eHNVT0NqekVoTHRQQ05lN2FoUFhkclNLYjJQemNJZGYwV2tuenJ1LUZUUWU0dkR6NV83b1I4M3hZYjRfWjJtcjlVdjY2LWtab3ZtWEhnZFpG?oc=5",
-      "source": "WTOP News",
-      "published_at": "Fri, 09 Oct 2026 14:04:03 GMT",
-      "summary": "Americans 75 and older are wealthiest age group, Fed survey finds WTOP News",
-      "guid": "CBMioAFBVV95cUxOOFBqdVZBUUhmT1FqTjJvM0pYdlYxTUhhbi0wMmV1Qy1ld0xRWE9tSVhoa202UkFKTEE3aHdKUWZ3VURDVGRzcEVEaUhRem51eHNVT0NqekVoTHRQQ05lN2FoUFhkclNLYjJQemNJZGYwV2tuenJ1LUZUUWU0dkR6NV83b1I4M3hZYjRfWjJtcjlVdjY2LWtab3ZtWEhnZFpG"
-    },
-    {
-      "title": "VIEW Stocks pull back after Fed raises rates, points to another hike this year - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcHE5d2RsZk5YWi1pLWw0M0tWX0pGZl81OEcwZVJtUlJsbTVoUnpQWUxJYjZGSjhvMmlDd0JrcVVFQjJ0aFRJRkh1cTFteld2Y0lSeXhyMFllMU5vSGthbExhbzc5MVNSRTFHOS1JWVcwZ09jSllmTDJoeHBEUEFJanI2aEZqQm1PbXZJZHpwRHpRU2FoMG9EMmVoVmxiZ0h1YV8xTk12QjRMVm1LQ1Zfcm1qUGhUWkFH?oc=5",
-      "source": "Reuters",
-      "published_at": "Wed, 16 Sep 2026 07:00:00 GMT",
-      "summary": "VIEW Stocks pull back after Fed raises rates, points to another hike this year Reuters",
-      "guid": "CBMiuAFBVV95cUxPcHE5d2RsZk5YWi1pLWw0M0tWX0pGZl81OEcwZVJtUlJsbTVoUnpQWUxJYjZGSjhvMmlDd0JrcVVFQjJ0aFRJRkh1cTFteld2Y0lSeXhyMFllMU5vSGthbExhbzc5MVNSRTFHOS1JWVcwZ09jSllmTDJoeHBEUEFJanI2aEZqQm1PbXZJZHpwRHpRU2FoMG9EMmVoVmxiZ0h1YV8xTk12QjRMVm1LQ1Zfcm1qUGhUWkFH"
-    },
-    {
-      "title": "Americans 75 and older are wealthiest age group, Fed survey finds - New York Daily News",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBVRzlNTUVsN3o4RVZTdTVZc21vMzVSQXd2ODVvdHczNmhjWWo5TGxuS2xEMFlCWGozbHdUWWNqeUFNMWNHWUxZQ29FV3pWZTN2eG1QQ2hBc1ZGUHFmWHpZbjVNVFFfUFNGOFJsZ3BmUGRzS3BYamtiQg?oc=5",
-      "source": "New York Daily News",
-      "published_at": "Fri, 09 Oct 2026 14:58:05 GMT",
-      "summary": "Americans 75 and older are wealthiest age group, Fed survey finds New York Daily News",
-      "guid": "CBMieEFVX3lxTFBVRzlNTUVsN3o4RVZTdTVZc21vMzVSQXd2ODVvdHczNmhjWWo5TGxuS2xEMFlCWGozbHdUWWNqeUFNMWNHWUxZQ29FV3pWZTN2eG1QQ2hBc1ZGUHFmWHpZbjVNVFFfUFNGOFJsZ3BmUGRzS3BYamtiQg"
-    },
-    {
-      "title": "Downside Risk to the Stock Market and Consumption - Atlanta Federal Reserve Bank",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYTBzZEUwUk5XQmpmbTV4WWhEdWp2dGNxaGlJWE03aGFUQk13VFZVTjhUZ2dGOUVOSXFfOWR2X3FERkg3bDVXQmJfa3lIY2dXZ2hoUFgtNE9yWmY3SmprbEZUcmdCRVJfb3otWEpSTEJISkNNQTZBaUgxaUZ0cXF4Mmt5WFBieTQ5UlJjOVJUMFhlU3pZeW9Wc1FCTUNoTDBiR0FWczlJTy1sZGljdC1pSUJRSy04cmhfQ1kzOVV2UDhHMHIwSUh6amNiVHBGNTBW?oc=5",
-      "source": "Atlanta Federal Reserve Bank",
-      "published_at": "Wed, 02 Sep 2026 07:00:00 GMT",
-      "summary": "Downside Risk to the Stock Market and Consumption Atlanta Federal Reserve Bank",
-      "guid": "CBMi0AFBVV95cUxOYTBzZEUwUk5XQmpmbTV4WWhEdWp2dGNxaGlJWE03aGFUQk13VFZVTjhUZ2dGOUVOSXFfOWR2X3FERkg3bDVXQmJfa3lIY2dXZ2hoUFgtNE9yWmY3SmprbEZUcmdCRVJfb3otWEpSTEJISkNNQTZBaUgxaUZ0cXF4Mmt5WFBieTQ5UlJjOVJUMFhlU3pZeW9Wc1FCTUNoTDBiR0FWczlJTy1sZGljdC1pSUJRSy04cmhfQ1kzOVV2UDhHMHIwSUh6amNiVHBGNTBW"
+      "title": "Not too big, not too small: The just-right Fed balance sheet - Marketplace.org",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNkZtWHQ0XzU1dUNGMFFKRGZ4RkdSUGpjMTZWUjlIWjA2MnByelpEcHE2ZEhrY3Z3TFFGNE9LcmR0ZlVrSUFwblpTQm5PbHhJM3lVYVlOTHFMUmJrc1pTUmVpU1BXR0dFQlZhNjQxcF82bEVMN1JQbVUzLTFza2plNFlfeHJYaWtRMnR0dWtaUjBOUUtuVUhuYnNKYUc1QlJtamc?oc=5",
+      "source": "Marketplace.org",
+      "published_at": "Thu, 08 Oct 2026 22:45:00 GMT",
+      "summary": "Not too big, not too small: The just-right Fed balance sheet Marketplace.org",
+      "guid": "CBMiogFBVV95cUxQNkZtWHQ0XzU1dUNGMFFKRGZ4RkdSUGpjMTZWUjlIWjA2MnByelpEcHE2ZEhrY3Z3TFFGNE9LcmR0ZlVrSUFwblpTQm5PbHhJM3lVYVlOTHFMUmJrc1pTUmVpU1BXR0dFQlZhNjQxcF82bEVMN1JQbVUzLTFza2plNFlfeHJYaWtRMnR0dWtaUjBOUUtuVUhuYnNKYUc1QlJtamc"
     }
   ]
 }
