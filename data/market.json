@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T22:44:04Z",
+  "generated_at": "2026-10-11T01:15:30Z",
   "source": {
     "provider": "Yahoo Finance",
     "endpoint": "https://query1.finance.yahoo.com/v8/finance/chart/{symbol}"
@@ -54,14 +54,14 @@
       "symbol": "BTC",
       "quote_symbol": "BTC-USD",
       "name": "Bitcoin",
-      "price": 82994.75,
-      "change": 448.4296875,
-      "change_percent": 0.5432461262989747,
+      "price": 82931.8,
+      "change": 385.4796875000029,
+      "change_percent": 0.46698591292824676,
       "up": true,
       "currency": "USD",
       "market_state": null,
       "exchange": "CCC",
-      "as_of": "2026-10-10T00:00:00Z",
+      "as_of": "2026-10-11T00:00:00Z",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com/quote/BTC-USD/"
     },
