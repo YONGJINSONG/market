@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-10-11T22:33:38Z",
+  "generated_at": "2026-10-12T01:45:35Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "Bill Gates says we must decide which jobs to reserve for humans - CNN",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9DS2NOeDFncWJqanNqSjc3RHNRQldPeDFRMlRGRG8tTk03em9PZXgwNHRNcmhiSVRKWTdaX0VKTWNQb3JLb29EMk5aRGk4RVhKQ0oxRkFoQ1VOUUJhX0ZXQWFzbUJvVU50SjJKRXRYdVF6a0xtaWc?oc=5",
+      "source": "CNN",
+      "published_at": "Sun, 11 Oct 2026 18:53:00 GMT",
+      "summary": "Bill Gates says we must decide which jobs to reserve for humans CNN",
+      "guid": "CBMidkFVX3lxTE9DS2NOeDFncWJqanNqSjc3RHNRQldPeDFRMlRGRG8tTk03em9PZXgwNHRNcmhiSVRKWTdaX0VKTWNQb3JLb29EMk5aRGk4RVhKQ0oxRkFoQ1VOUUJhX0ZXQWFzbUJvVU50SjJKRXRYdVF6a0xtaWc"
+    },
     {
       "title": "Fed rate hike cycles have a history of denting US stock prices - Reuters",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRmR3cTBOOVhRdHBUaGJ0Z0lBY09RNlFCRm9nSkl3bVpTM3lzN3pMTTlZVVJvdnFyT3FzQXZUZ0NLWXUzbGtLQnRFaFlWNmVNUHJnbHcwbjEwbDBvTG1sQkIzdUN4a3d4RW5VcjlKeVhRSUh4TTJXdW92NkE2eDNVTGJOdlBnZHEyQVpVWnIyMk9EQnBEd1l5SjNnREtobGw5bkRGVw?oc=5",
@@ -15,20 +23,20 @@
       "guid": "CBMipAFBVV95cUxPRmR3cTBOOVhRdHBUaGJ0Z0lBY09RNlFCRm9nSkl3bVpTM3lzN3pMTTlZVVJvdnFyT3FzQXZUZ0NLWXUzbGtLQnRFaFlWNmVNUHJnbHcwbjEwbDBvTG1sQkIzdUN4a3d4RW5VcjlKeVhRSUh4TTJXdW92NkE2eDNVTGJOdlBnZHEyQVpVWnIyMk9EQnBEd1l5SjNnREtobGw5bkRGVw"
     },
     {
-      "title": "Trump launches new effort to oust Fed Governor Lisa Cook - CNN",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTjFBN0hzaFotYnFvNUpWbkE3TzNkemdXSG9aZVd1Y3VMM2hCQnc1UUZSRkhwSlg3ODVWTFFyUE5tenpkM1dGVXJWQ2U3S0dyN2JFU1UwN2F6RndPaUQ5Q2pRU1FiYjFsSnFQY0ktR29XOWhSY3BzeGprNE5SUk4wWEt0cTk?oc=5",
-      "source": "CNN",
-      "published_at": "Fri, 09 Oct 2026 14:26:00 GMT",
-      "summary": "Trump launches new effort to oust Fed Governor Lisa Cook CNN",
-      "guid": "CBMihAFBVV95cUxNTjFBN0hzaFotYnFvNUpWbkE3TzNkemdXSG9aZVd1Y3VMM2hCQnc1UUZSRkhwSlg3ODVWTFFyUE5tenpkM1dGVXJWQ2U3S0dyN2JFU1UwN2F6RndPaUQ5Q2pRU1FiYjFsSnFQY0ktR29XOWhSY3BzeGprNE5SUk4wWEt0cTk"
+      "title": "The Federal Reserve Is Raising Interest Rates. Here's What History Says That Means for Investors. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRDFuWk9RWWRDd0JQXzh0dVpMOWdXOXE4X2lmYnozQ0d6a0NWM0dVcmxoVVNBODFTT3V0TE5NdmM3XzYzbzZ6ODhqblBNM2VEYkhlQkduVGRFWWcwS0xubXJ5OTJRcWdPYTFyY2UzdDZpaHR3UnQ0dU9wd3hieHpfWWdrWmtsYzFzUmtkUlMzRG1SODRLSGZSbg?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Wed, 07 Oct 2026 20:37:00 GMT",
+      "summary": "The Federal Reserve Is Raising Interest Rates. Here's What History Says That Means for Investors. The Motley Fool",
+      "guid": "CBMimAFBVV95cUxNRDFuWk9RWWRDd0JQXzh0dVpMOWdXOXE4X2lmYnozQ0d6a0NWM0dVcmxoVVNBODFTT3V0TE5NdmM3XzYzbzZ6ODhqblBNM2VEYkhlQkduVGRFWWcwS0xubXJ5OTJRcWdPYTFyY2UzdDZpaHR3UnQ0dU9wd3hieHpfWWdrWmtsYzFzUmtkUlMzRG1SODRLSGZSbg"
     },
     {
-      "title": "4 Value Stocks to Buy as Markets Eye Federal Reserve's Next Move - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQVBCRHRLaC1YTmlWeVQxMTJLWS1sMFRXQ1Z3a1d6NG5yTHQzdU9VMXJiZlU1dHZndmtFVk93dUlrbzZqWDBvaVdCM3RaSUF1OVR5ajdDckVYOEJsVFUzLW4tVzlnRWpuRUdPTi1iZy10QU1nQUxRanMzek42dkl0cHR4UDdENnJtS2JQOXNPQzN4MkdrWWc?oc=5",
+      "title": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says This Will Happen Next. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNVFmTDEyZGdmOW9nNl9ra0tsc2dOTmNiSkNvZXBjSFR6bUVHTjBRS1ljVjBHZndyNjRMUWJHdXVGeHh1Z3JmVXIxQlNBbEV2T0NLVEFua1ltLTJwT1BwdGFvUElGUjQ2TDZlVU5NX2ZnT1ZTTDJ1WmpBWGt3Ym0xR0hPOHd6RzFyYkRxTnQyMXZobExpamhpakZZZHA?oc=5",
       "source": "Yahoo Finance",
-      "published_at": "Tue, 06 Oct 2026 12:28:00 GMT",
-      "summary": "4 Value Stocks to Buy as Markets Eye Federal Reserve's Next Move Yahoo Finance",
-      "guid": "CBMilgFBVV95cUxQQVBCRHRLaC1YTmlWeVQxMTJLWS1sMFRXQ1Z3a1d6NG5yTHQzdU9VMXJiZlU1dHZndmtFVk93dUlrbzZqWDBvaVdCM3RaSUF1OVR5ajdDckVYOEJsVFUzLW4tVzlnRWpuRUdPTi1iZy10QU1nQUxRanMzek42dkl0cHR4UDdENnJtS2JQOXNPQzN4MkdrWWc"
+      "published_at": "Sun, 20 Sep 2026 07:00:00 GMT",
+      "summary": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says This Will Happen Next. Yahoo Finance",
+      "guid": "CBMinAFBVV95cUxNNVFmTDEyZGdmOW9nNl9ra0tsc2dOTmNiSkNvZXBjSFR6bUVHTjBRS1ljVjBHZndyNjRMUWJHdXVGeHh1Z3JmVXIxQlNBbEV2T0NLVEFua1ltLTJwT1BwdGFvUElGUjQ2TDZlVU5NX2ZnT1ZTTDJ1WmpBWGt3Ym0xR0hPOHd6RzFyYkRxTnQyMXZobExpamhpakZZZHA"
     },
     {
       "title": "What’s Next for US Stocks After the Fed Rate Hike - Morningstar",
@@ -47,12 +55,12 @@
       "guid": "CBMivwFBVV95cUxPQ0o4SEFnLXVuc0pFakhWQXNrNVdZOFBqTmZsR3dlMlFFZEluX2VWbEJPOGJkRkZ6a2tfaHZySVdpaVhYZk1aeGZFdjM2UExoOGMxc1BDbkcwUVFMaElEXzBUb2ItX1hmRVkxWjhHanJyV3ppMGJFcjhNY3BVYlZMNFVCemRaSW94Z1hBZy0yNmd3R29KMEppZThtNmxWaERxa3hfZzZ4WU5BV3AzN19xSTY0OEZwQmwzdGVSWC1SNNIBxAFBVV95cUxNQ3ZKZVFHbHpRSEo2cGs4RjlfMG1UdURsamh2Y3ExeEVkZzdmaGQ3OElrd0FpclpvUGQ1MFlKSHZ2VGFOc1hVN3ZmSVc4aGhIY3hvVm5UUlY0emc2bFNyU3ZGU0RFckhMekh6WE5FeklHLU9uUGZNOVZCQWJPdnctcTNJTmpTOGp0Q3ZVUjEzSWROc0V6VE1lY2hLLWNJWUlwTkEwQkJ1SVVtRlZrYlg5QUxoZEZFOFFzMXgwbkNPNzgzdlRa"
     },
     {
-      "title": "The Federal Reserve Is Raising Interest Rates. Here's What History Says That Means for Investors. - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRDFuWk9RWWRDd0JQXzh0dVpMOWdXOXE4X2lmYnozQ0d6a0NWM0dVcmxoVVNBODFTT3V0TE5NdmM3XzYzbzZ6ODhqblBNM2VEYkhlQkduVGRFWWcwS0xubXJ5OTJRcWdPYTFyY2UzdDZpaHR3UnQ0dU9wd3hieHpfWWdrWmtsYzFzUmtkUlMzRG1SODRLSGZSbg?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Wed, 07 Oct 2026 20:37:00 GMT",
-      "summary": "The Federal Reserve Is Raising Interest Rates. Here's What History Says That Means for Investors. The Motley Fool",
-      "guid": "CBMimAFBVV95cUxNRDFuWk9RWWRDd0JQXzh0dVpMOWdXOXE4X2lmYnozQ0d6a0NWM0dVcmxoVVNBODFTT3V0TE5NdmM3XzYzbzZ6ODhqblBNM2VEYkhlQkduVGRFWWcwS0xubXJ5OTJRcWdPYTFyY2UzdDZpaHR3UnQ0dU9wd3hieHpfWWdrWmtsYzFzUmtkUlMzRG1SODRLSGZSbg"
+      "title": "Stock market returns after Fed hikes, holds and cuts: What history shows ahead of the September 2026 meeting - Chase Bank",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZk5DYnRUeXFDbWpLeTI5QjFLdWNjdjV6YWNvRW1KZ2hCNlRKV1djZk1nb1RYMlJPeHFGUGh4MVY0OW1BblFCQlBENkhnZEtfOVVzMExORC12YVVPVHZubnRuUC1xTWNLU1YxcVJkZGY1WWNhb01BRFlSUFZNNjNrRUxCUGZtdk5SdnN6a21KVmozMy1IWk5fMVk5M2tKa3E4LVM3QVpOd2N2WWQzVmpzU1VMNmZCOGo1OHFBWllnZVp6N3ZyaDktUFZoRF9nTy00Z3pWd0dFNUtCNE9uM3IwZFdWUGFyM216Yzlnang1Zw?oc=5",
+      "source": "Chase Bank",
+      "published_at": "Mon, 14 Sep 2026 07:00:00 GMT",
+      "summary": "Stock market returns after Fed hikes, holds and cuts: What history shows ahead of the September 2026 meeting Chase Bank",
+      "guid": "CBMi7wFBVV95cUxNZk5DYnRUeXFDbWpLeTI5QjFLdWNjdjV6YWNvRW1KZ2hCNlRKV1djZk1nb1RYMlJPeHFGUGh4MVY0OW1BblFCQlBENkhnZEtfOVVzMExORC12YVVPVHZubnRuUC1xTWNLU1YxcVJkZGY1WWNhb01BRFlSUFZNNjNrRUxCUGZtdk5SdnN6a21KVmozMy1IWk5fMVk5M2tKa3E4LVM3QVpOd2N2WWQzVmpzU1VMNmZCOGo1OHFBWllnZVp6N3ZyaDktUFZoRF9nTy00Z3pWd0dFNUtCNE9uM3IwZFdWUGFyM216Yzlnang1Zw"
     },
     {
       "title": "These 18 million households now rank as the richest in the U.S., new Fed data shows - CBS News",
@@ -63,12 +71,12 @@
       "guid": "CBMickFVX3lxTE9uRHRFaGtub1UwTTlpVlJrNHVsR2VHd3h6cnFMRTRIV3RJSnBzeTZoN2lSZjFrT3oyMl92ZnFjYWREZEZ5dTdoY0dvQlF1TkNlWTNsWmcwZktTdEJab29YN2hoaGc5R3lhWGNGYUMwMlloZw"
     },
     {
-      "title": "Stock market returns after Fed hikes, holds and cuts: What history shows ahead of the September 2026 meeting - Chase Bank",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZk5DYnRUeXFDbWpLeTI5QjFLdWNjdjV6YWNvRW1KZ2hCNlRKV1djZk1nb1RYMlJPeHFGUGh4MVY0OW1BblFCQlBENkhnZEtfOVVzMExORC12YVVPVHZubnRuUC1xTWNLU1YxcVJkZGY1WWNhb01BRFlSUFZNNjNrRUxCUGZtdk5SdnN6a21KVmozMy1IWk5fMVk5M2tKa3E4LVM3QVpOd2N2WWQzVmpzU1VMNmZCOGo1OHFBWllnZVp6N3ZyaDktUFZoRF9nTy00Z3pWd0dFNUtCNE9uM3IwZFdWUGFyM216Yzlnang1Zw?oc=5",
-      "source": "Chase Bank",
-      "published_at": "Mon, 14 Sep 2026 07:00:00 GMT",
-      "summary": "Stock market returns after Fed hikes, holds and cuts: What history shows ahead of the September 2026 meeting Chase Bank",
-      "guid": "CBMi7wFBVV95cUxNZk5DYnRUeXFDbWpLeTI5QjFLdWNjdjV6YWNvRW1KZ2hCNlRKV1djZk1nb1RYMlJPeHFGUGh4MVY0OW1BblFCQlBENkhnZEtfOVVzMExORC12YVVPVHZubnRuUC1xTWNLU1YxcVJkZGY1WWNhb01BRFlSUFZNNjNrRUxCUGZtdk5SdnN6a21KVmozMy1IWk5fMVk5M2tKa3E4LVM3QVpOd2N2WWQzVmpzU1VMNmZCOGo1OHFBWllnZVp6N3ZyaDktUFZoRF9nTy00Z3pWd0dFNUtCNE9uM3IwZFdWUGFyM216Yzlnang1Zw"
+      "title": "The AI wealth effect - Axios",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kckpHLWhsVTJZQTNyaGxBc1FrTmFNMDQ2RjZLTlJpX1dMS0FyVHI2RzMxd0xCT2UtbUl1eEJSS3BRLVlXWU13YnRXR1ZOdEVCbzdPTGdiQks5RGViRm9nU3pVSkN5cFZz?oc=5",
+      "source": "Axios",
+      "published_at": "Thu, 01 Oct 2026 07:00:00 GMT",
+      "summary": "The AI wealth effect Axios",
+      "guid": "CBMiaEFVX3lxTE5kckpHLWhsVTJZQTNyaGxBc1FrTmFNMDQ2RjZLTlJpX1dMS0FyVHI2RzMxd0xCT2UtbUl1eEJSS3BRLVlXWU13YnRXR1ZOdEVCbzdPTGdiQks5RGViRm9nU3pVSkN5cFZz"
     },
     {
       "title": "Recent Economic and Financial Developments - Federal Reserve (.gov)",
@@ -77,14 +85,6 @@
       "published_at": "Fri, 17 Jul 2026 06:37:05 GMT",
       "summary": "Recent Economic and Financial Developments Federal Reserve (.gov)",
       "guid": "CBMidkFVX3lxTE9KWEN6M3VsdUJpS3YyUzBfc0JpcHhrY3J4LXhhUE90UkdqS1N1OWxCZGw1cWxveExZZ1RfM0dXM1pNMk9HRVctTGNBM2xrQ2Npbjl5OFJkQV9sajMxWHhQSGpXSzNfcGppZDhEaHFraFhUZ0puWFE"
-    },
-    {
-      "title": "Stock Market Today: Tech Leads Stocks Toward a Higher Open as Treasury Yields Ease - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOai1yeTgzQlZFZ2c0ajQtVFNoMk9zTmkxNDlBbnBidnluM1NRUG1zaHZnVjcyalM5N0kzNndRb3BhenNvWWp0S1BZTy1XTGhOZDJIX1czVTlPUXNubG1SVHJGMW0xY1NOR2w2YzI3X19ySmhHR1J3bjhxN3hYZzJtemN2TkluYUFtbnpRUHFObEVxM28wUlNndUZveXVCMDdkOVBtTWd3YW5qcUdGWTdxQzgwbw?oc=5",
-      "source": "24/7 Wall St.",
-      "published_at": "Fri, 09 Oct 2026 13:30:00 GMT",
-      "summary": "Stock Market Today: Tech Leads Stocks Toward a Higher Open as Treasury Yields Ease 24/7 Wall St.",
-      "guid": "CBMiswFBVV95cUxOai1yeTgzQlZFZ2c0ajQtVFNoMk9zTmkxNDlBbnBidnluM1NRUG1zaHZnVjcyalM5N0kzNndRb3BhenNvWWp0S1BZTy1XTGhOZDJIX1czVTlPUXNubG1SVHJGMW0xY1NOR2w2YzI3X19ySmhHR1J3bjhxN3hYZzJtemN2TkluYUFtbnpRUHFObEVxM28wUlNndUZveXVCMDdkOVBtTWd3YW5qcUdGWTdxQzgwbw"
     }
   ]
 }
