@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T08:12:54Z",
+  "generated_at": "2026-10-12T23:54:27Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,28 +7,28 @@
   },
   "items": [
     {
-      "title": "Bill Gates says we must decide which jobs to reserve for humans - CNN",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9DS2NOeDFncWJqanNqSjc3RHNRQldPeDFRMlRGRG8tTk03em9PZXgwNHRNcmhiSVRKWTdaX0VKTWNQb3JLb29EMk5aRGk4RVhKQ0oxRkFoQ1VOUUJhX0ZXQWFzbUJvVU50SjJKRXRYdVF6a0xtaWc?oc=5",
+      "title": "Fed officials are warning of more pain. Many Americans are already feeling it - CNN",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5KOEVDdVNYS0FUZGlpbEJTYVRMT1U0MzE1ZVUzM1pfcjdIeUhJN1ExRm1oYWZzR0lLcU8zYVJRZkI5dm9wckNpWkplUnRVQmhqUkFwb1hSN3dEbTl5ZFJOTkthcWYwYWh0ZjNBbEtkV1NDTUNnOURuVw?oc=5",
       "source": "CNN",
-      "published_at": "Sun, 11 Oct 2026 18:53:00 GMT",
-      "summary": "Bill Gates says we must decide which jobs to reserve for humans CNN",
-      "guid": "CBMidkFVX3lxTE9DS2NOeDFncWJqanNqSjc3RHNRQldPeDFRMlRGRG8tTk03em9PZXgwNHRNcmhiSVRKWTdaX0VKTWNQb3JLb29EMk5aRGk4RVhKQ0oxRkFoQ1VOUUJhX0ZXQWFzbUJvVU50SjJKRXRYdVF6a0xtaWc"
+      "published_at": "Mon, 12 Oct 2026 09:30:45 GMT",
+      "summary": "Fed officials are warning of more pain. Many Americans are already feeling it CNN",
+      "guid": "CBMieEFVX3lxTE5KOEVDdVNYS0FUZGlpbEJTYVRMT1U0MzE1ZVUzM1pfcjdIeUhJN1ExRm1oYWZzR0lLcU8zYVJRZkI5dm9wckNpWkplUnRVQmhqUkFwb1hSN3dEbTl5ZFJOTkthcWYwYWh0ZjNBbEtkV1NDTUNnOURuVw"
     },
     {
-      "title": "Stock Market: Will S&P 500 Open Up or Down Today? - Benzinga",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNFpveUw1bGROUURtSnMtSE1lQWxrVTJwR205OVo0N0NYSjgtOHk2TlJGLTU4OVowU3BUZHBfZjRsd1IyUlJSWHFyUkxyOEJLSGhqMzV2WDVuRS1Qc1lqUFdiWG8weU93X1lXVG53OFZsNTZoMklqRDd6bVNrQnVKc2JGOU55eGZuZW1MQnY3YktfeTVVYVFqcGpBbmt2MTdRRkhQRzREbEN6c21wU0w0VnQxU0t0a0k?oc=5",
-      "source": "Benzinga",
-      "published_at": "Mon, 12 Oct 2026 06:19:33 GMT",
-      "summary": "Stock Market: Will S&P 500 Open Up or Down Today? Benzinga",
-      "guid": "CBMitwFBVV95cUxPNFpveUw1bGROUURtSnMtSE1lQWxrVTJwR205OVo0N0NYSjgtOHk2TlJGLTU4OVowU3BUZHBfZjRsd1IyUlJSWHFyUkxyOEJLSGhqMzV2WDVuRS1Qc1lqUFdiWG8weU93X1lXVG53OFZsNTZoMklqRDd6bVNrQnVKc2JGOU55eGZuZW1MQnY3YktfeTVVYVFqcGpBbmt2MTdRRkhQRzREbEN6c21wU0w0VnQxU0t0a0k"
+      "title": "What the Fed Warning Means for Stock Market Investors Based on Historical Trends - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOWJjdm5YYXNoSGN6anRERXJ5cWdlcnVPZnpqdmpNa3E0N2V3QjNUSzNXQnB4U0FTZ3BhdlNDMDFUVDhBY05iNVF5dGM0ejlmMmhYeGotb3ZFNHZzenlXNWxpMmpIbUtMZEMtYWg5eWRpa1ZmbDNWcDZ4dXN3R0VCcjFlZURuTmlGbkpsb2NDcDBkTWtjMm1IeXFfSQ?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Mon, 12 Oct 2026 10:05:00 GMT",
+      "summary": "What the Fed Warning Means for Stock Market Investors Based on Historical Trends Yahoo Finance",
+      "guid": "CBMimwFBVV95cUxPOWJjdm5YYXNoSGN6anRERXJ5cWdlcnVPZnpqdmpNa3E0N2V3QjNUSzNXQnB4U0FTZ3BhdlNDMDFUVDhBY05iNVF5dGM0ejlmMmhYeGotb3ZFNHZzenlXNWxpMmpIbUtMZEMtYWg5eWRpa1ZmbDNWcDZ4dXN3R0VCcjFlZURuTmlGbkpsb2NDcDBkTWtjMm1IeXFfSQ"
     },
     {
-      "title": "Is the US Stock Market Open Today? 2026 Columbus Day Trading Hours and What Investors Need to Know - TradingKey",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOenFIV0haVUFoNHZScm51al81cGUxZUlxeHNNdGdabldET3dGdW52bDQyQl9pa1hrWkRwalRLeU12RzhQTlBqZzFBNURGOGxUYVZKOUdnRC13TXFmZVlSMllfSnlRQXNGUFkzdHoybUtzZFZKZGF3NmJnMzBFRExVWmx4RXRCYk05QUh0QjFtQ1BEdzJ6SVBuTjdvUFBWTl9SbHoyS0NQdklzcV9qbTlZQnNvWFFRU3VqbGQ4Yw?oc=5",
-      "source": "TradingKey",
-      "published_at": "Mon, 12 Oct 2026 07:42:12 GMT",
-      "summary": "Is the US Stock Market Open Today? 2026 Columbus Day Trading Hours and What Investors Need to Know TradingKey",
-      "guid": "CBMivAFBVV95cUxOenFIV0haVUFoNHZScm51al81cGUxZUlxeHNNdGdabldET3dGdW52bDQyQl9pa1hrWkRwalRLeU12RzhQTlBqZzFBNURGOGxUYVZKOUdnRC13TXFmZVlSMllfSnlRQXNGUFkzdHoybUtzZFZKZGF3NmJnMzBFRExVWmx4RXRCYk05QUh0QjFtQ1BEdzJ6SVBuTjdvUFBWTl9SbHoyS0NQdklzcV9qbTlZQnNvWFFRU3VqbGQ4Yw"
+      "title": "Asian Stocks to Fall After US Chipmaker Selloff: Markets Wrap - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTFBheWMzUVJ3M2R4VFh3WEJWcG9sRHg5TlJtdUZKV1NScHpsZy1BcDA0TXZUSGU1OUItbnJFY3RIMlB3Sjd6ZjJXMEF6b1dleng3WGJka1pxbzdSSXFCMG9fSzE4b0M2THRmZlBHY01RdkJaRGpjQlkzWWwwNXVCSnI4N3BDYWttWjJtaWttb2laU19w?oc=5",
+      "source": "Bloomberg.com",
+      "published_at": "Mon, 12 Oct 2026 22:04:35 GMT",
+      "summary": "Asian Stocks to Fall After US Chipmaker Selloff: Markets Wrap Bloomberg.com",
+      "guid": "CBMilAFBVV95cUxPTFBheWMzUVJ3M2R4VFh3WEJWcG9sRHg5TlJtdUZKV1NScHpsZy1BcDA0TXZUSGU1OUItbnJFY3RIMlB3Sjd6ZjJXMEF6b1dleng3WGJka1pxbzdSSXFCMG9fSzE4b0M2THRmZlBHY01RdkJaRGpjQlkzWWwwNXVCSnI4N3BDYWttWjJtaWttb2laU19w"
     },
     {
       "title": "Fed rate hike cycles have a history of denting US stock prices - Reuters",
@@ -39,12 +39,20 @@
       "guid": "CBMipAFBVV95cUxPRmR3cTBOOVhRdHBUaGJ0Z0lBY09RNlFCRm9nSkl3bVpTM3lzN3pMTTlZVVJvdnFyT3FzQXZUZ0NLWXUzbGtLQnRFaFlWNmVNUHJnbHcwbjEwbDBvTG1sQkIzdUN4a3d4RW5VcjlKeVhRSUh4TTJXdW92NkE2eDNVTGJOdlBnZHEyQVpVWnIyMk9EQnBEd1l5SjNnREtobGw5bkRGVw"
     },
     {
-      "title": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says This Will Happen Next. - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNVFmTDEyZGdmOW9nNl9ra0tsc2dOTmNiSkNvZXBjSFR6bUVHTjBRS1ljVjBHZndyNjRMUWJHdXVGeHh1Z3JmVXIxQlNBbEV2T0NLVEFua1ltLTJwT1BwdGFvUElGUjQ2TDZlVU5NX2ZnT1ZTTDJ1WmpBWGt3Ym0xR0hPOHd6RzFyYkRxTnQyMXZobExpamhpakZZZHA?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Sun, 20 Sep 2026 07:00:00 GMT",
-      "summary": "Stock Market Investors Just Got Bad News From the Federal Reserve. History Says This Will Happen Next. Yahoo Finance",
-      "guid": "CBMinAFBVV95cUxNNVFmTDEyZGdmOW9nNl9ra0tsc2dOTmNiSkNvZXBjSFR6bUVHTjBRS1ljVjBHZndyNjRMUWJHdXVGeHh1Z3JmVXIxQlNBbEV2T0NLVEFua1ltLTJwT1BwdGFvUElGUjQ2TDZlVU5NX2ZnT1ZTTDJ1WmpBWGt3Ym0xR0hPOHd6RzFyYkRxTnQyMXZobExpamhpakZZZHA"
+      "title": "MBA expects two more Federal Reserve hikes, in December and Q1 2027 - Mortgage Professional America",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSWxBZTRkVUpzMVhoYUJ5aWRvZjVYQUx5cTVOd2xMbGNyNkZzNE1OYk83R2diQ1FEOWZZR2k1RmxWSjVzaV9zZmI0MFh6VmF4MkZ1M2tFczdpR2Z2Z1cwU1JjY0FveWM4ZTdmRmlER1VmS2l4SzVwUThoSEZDa1pYT1JGYkUtbE1EdHJhVEowNUdZUkVzWUFwLVlaN0czMXZnd0lJN1pQdTBCMWIwU0p1OTUxSXFtbjJkcFc2YnlzNkJ6ZjI5TXpYVjV2c2c?oc=5",
+      "source": "Mortgage Professional America",
+      "published_at": "Mon, 12 Oct 2026 12:06:17 GMT",
+      "summary": "MBA expects two more Federal Reserve hikes, in December and Q1 2027 Mortgage Professional America",
+      "guid": "CBMizAFBVV95cUxQSWxBZTRkVUpzMVhoYUJ5aWRvZjVYQUx5cTVOd2xMbGNyNkZzNE1OYk83R2diQ1FEOWZZR2k1RmxWSjVzaV9zZmI0MFh6VmF4MkZ1M2tFczdpR2Z2Z1cwU1JjY0FveWM4ZTdmRmlER1VmS2l4SzVwUThoSEZDa1pYT1JGYkUtbE1EdHJhVEowNUdZUkVzWUFwLVlaN0czMXZnd0lJN1pQdTBCMWIwU0p1OTUxSXFtbjJkcFc2YnlzNkJ6ZjI5TXpYVjV2c2c"
+    },
+    {
+      "title": "Stock Market: Will S&P 500 Open Up or Down Today? - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNFpveUw1bGROUURtSnMtSE1lQWxrVTJwR205OVo0N0NYSjgtOHk2TlJGLTU4OVowU3BUZHBfZjRsd1IyUlJSWHFyUkxyOEJLSGhqMzV2WDVuRS1Qc1lqUFdiWG8weU93X1lXVG53OFZsNTZoMklqRDd6bVNrQnVKc2JGOU55eGZuZW1MQnY3YktfeTVVYVFqcGpBbmt2MTdRRkhQRzREbEN6c21wU0w0VnQxU0t0a0k?oc=5",
+      "source": "Benzinga",
+      "published_at": "Mon, 12 Oct 2026 06:19:33 GMT",
+      "summary": "Stock Market: Will S&P 500 Open Up or Down Today? Benzinga",
+      "guid": "CBMitwFBVV95cUxPNFpveUw1bGROUURtSnMtSE1lQWxrVTJwR205OVo0N0NYSjgtOHk2TlJGLTU4OVowU3BUZHBfZjRsd1IyUlJSWHFyUkxyOEJLSGhqMzV2WDVuRS1Qc1lqUFdiWG8weU93X1lXVG53OFZsNTZoMklqRDd6bVNrQnVKc2JGOU55eGZuZW1MQnY3YktfeTVVYVFqcGpBbmt2MTdRRkhQRzREbEN6c21wU0w0VnQxU0t0a0k"
     },
     {
       "title": "What’s Next for US Stocks After the Fed Rate Hike - Morningstar",
@@ -55,12 +63,12 @@
       "guid": "CBMijgFBVV95cUxOZko0WU1kUWFDbVBBaXdJT09qeTFSY000SVlCd3diMHFVMjNodUtGWFlBMUtkdmZSRmlmTnRmWXBYaGlpbHVpOTdyZHN2QjNMampxSTM3czM0VE5MMlk4OU1kVUFsUkZhMHBxYXJhbFlpNnQzLVgteXNySXplRkFDVVRHUHNha182TmJNUDRB"
     },
     {
-      "title": "The Federal Reserve Is Raising Interest Rates. Here's What History Says That Means for Investors. - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRDFuWk9RWWRDd0JQXzh0dVpMOWdXOXE4X2lmYnozQ0d6a0NWM0dVcmxoVVNBODFTT3V0TE5NdmM3XzYzbzZ6ODhqblBNM2VEYkhlQkduVGRFWWcwS0xubXJ5OTJRcWdPYTFyY2UzdDZpaHR3UnQ0dU9wd3hieHpfWWdrWmtsYzFzUmtkUlMzRG1SODRLSGZSbg?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Wed, 07 Oct 2026 20:37:00 GMT",
-      "summary": "The Federal Reserve Is Raising Interest Rates. Here's What History Says That Means for Investors. The Motley Fool",
-      "guid": "CBMimAFBVV95cUxNRDFuWk9RWWRDd0JQXzh0dVpMOWdXOXE4X2lmYnozQ0d6a0NWM0dVcmxoVVNBODFTT3V0TE5NdmM3XzYzbzZ6ODhqblBNM2VEYkhlQkduVGRFWWcwS0xubXJ5OTJRcWdPYTFyY2UzdDZpaHR3UnQ0dU9wd3hieHpfWWdrWmtsYzFzUmtkUlMzRG1SODRLSGZSbg"
+      "title": "Stock Market Today: S&P 500, Dow Futures Gain, Nasdaq 100 Falls as Iran Flags ‘Inadequate’ US Response to Peace Terms — SMP, QMCO, SVRN in Focus (UPDATED) - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPVWVJZGktV0hUd05SREJkRFNiWTl0NHc4UUF0UDJSTXhfbGVBU1BMUjBMY1hDejFTRXU3b2ZVc19hQkJmYjR3emxhTXpyU3ZSQ2pIS1BKZkZXd1VQWEt0VkZSbDBiYllweTdvSTFsRmFnYzZlYVc0M0lrY1RjaXIwYTZTbC1yeDBHNG1YQnd6S2J2aEwxM080c1FDVmI1TG5GOE9GSXVlc0pWYl9LMTBxaE5tbDF0S04wZE1kakhoalBlMFdhcGQ0ajc3MTUzbExGVUtXTlA5NnlGckJyTnotSmI0Vko0dU94WlhfWnhpMWx2dnVRRlJVaDFxdncxSWdYc3V1RVRCdGhkWkI4djNJd0YxMnh6REZZT2o5Q2tHbkRuVS1yYTVEbUV3?oc=5",
+      "source": "TradingView",
+      "published_at": "Mon, 12 Oct 2026 12:29:52 GMT",
+      "summary": "Stock Market Today: S&P 500, Dow Futures Gain, Nasdaq 100 Falls as Iran Flags ‘Inadequate’ US Response to Peace Terms — SMP, QMCO, SVRN in Focus (UPDATED) TradingView",
+      "guid": "CBMiqgJBVV95cUxPVWVJZGktV0hUd05SREJkRFNiWTl0NHc4UUF0UDJSTXhfbGVBU1BMUjBMY1hDejFTRXU3b2ZVc19hQkJmYjR3emxhTXpyU3ZSQ2pIS1BKZkZXd1VQWEt0VkZSbDBiYllweTdvSTFsRmFnYzZlYVc0M0lrY1RjaXIwYTZTbC1yeDBHNG1YQnd6S2J2aEwxM080c1FDVmI1TG5GOE9GSXVlc0pWYl9LMTBxaE5tbDF0S04wZE1kakhoalBlMFdhcGQ0ajc3MTUzbExGVUtXTlA5NnlGckJyTnotSmI0Vko0dU94WlhfWnhpMWx2dnVRRlJVaDFxdncxSWdYc3V1RVRCdGhkWkI4djNJd0YxMnh6REZZT2o5Q2tHbkRuVS1yYTVEbUV3"
     },
     {
       "title": "U.S. stocks slip after the Fed raises interest rates, hints more hikes may be on the way - PBS",
@@ -71,20 +79,12 @@
       "guid": "CBMivwFBVV95cUxPQ0o4SEFnLXVuc0pFakhWQXNrNVdZOFBqTmZsR3dlMlFFZEluX2VWbEJPOGJkRkZ6a2tfaHZySVdpaVhYZk1aeGZFdjM2UExoOGMxc1BDbkcwUVFMaElEXzBUb2ItX1hmRVkxWjhHanJyV3ppMGJFcjhNY3BVYlZMNFVCemRaSW94Z1hBZy0yNmd3R29KMEppZThtNmxWaERxa3hfZzZ4WU5BV3AzN19xSTY0OEZwQmwzdGVSWC1SNNIBxAFBVV95cUxNQ3ZKZVFHbHpRSEo2cGs4RjlfMG1UdURsamh2Y3ExeEVkZzdmaGQ3OElrd0FpclpvUGQ1MFlKSHZ2VGFOc1hVN3ZmSVc4aGhIY3hvVm5UUlY0emc2bFNyU3ZGU0RFckhMekh6WE5FeklHLU9uUGZNOVZCQWJPdnctcTNJTmpTOGp0Q3ZVUjEzSWROc0V6VE1lY2hLLWNJWUlwTkEwQkJ1SVVtRlZrYlg5QUxoZEZFOFFzMXgwbkNPNzgzdlRa"
     },
     {
-      "title": "Stock market returns after Fed hikes, holds and cuts: What history shows ahead of the September 2026 meeting - Chase Bank",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZk5DYnRUeXFDbWpLeTI5QjFLdWNjdjV6YWNvRW1KZ2hCNlRKV1djZk1nb1RYMlJPeHFGUGh4MVY0OW1BblFCQlBENkhnZEtfOVVzMExORC12YVVPVHZubnRuUC1xTWNLU1YxcVJkZGY1WWNhb01BRFlSUFZNNjNrRUxCUGZtdk5SdnN6a21KVmozMy1IWk5fMVk5M2tKa3E4LVM3QVpOd2N2WWQzVmpzU1VMNmZCOGo1OHFBWllnZVp6N3ZyaDktUFZoRF9nTy00Z3pWd0dFNUtCNE9uM3IwZFdWUGFyM216Yzlnang1Zw?oc=5",
-      "source": "Chase Bank",
+      "title": "'Crazy days' and 'silly season' in the stock market raise the prospect of a 'late-stage' AI bubble finally popping - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY01SSzBsZFpPOEl4THB6SkNuNklOSVg0NkRCSkZBYXlOOS0wRFZEcnpKajdDMHUxOFhpb3lsV1JWOWk1SzY5TnplVktib0lCSzlmbno1dWd5WVFuQkdXQThtRTdFVmhuZlRwVDdaYk0xV1FWV1pUb05ZZ1pTd3IwMGl2d3ExUnozNGExMHNhWjJNZw?oc=5",
+      "source": "Fortune",
       "published_at": "Mon, 14 Sep 2026 07:00:00 GMT",
-      "summary": "Stock market returns after Fed hikes, holds and cuts: What history shows ahead of the September 2026 meeting Chase Bank",
-      "guid": "CBMi7wFBVV95cUxNZk5DYnRUeXFDbWpLeTI5QjFLdWNjdjV6YWNvRW1KZ2hCNlRKV1djZk1nb1RYMlJPeHFGUGh4MVY0OW1BblFCQlBENkhnZEtfOVVzMExORC12YVVPVHZubnRuUC1xTWNLU1YxcVJkZGY1WWNhb01BRFlSUFZNNjNrRUxCUGZtdk5SdnN6a21KVmozMy1IWk5fMVk5M2tKa3E4LVM3QVpOd2N2WWQzVmpzU1VMNmZCOGo1OHFBWllnZVp6N3ZyaDktUFZoRF9nTy00Z3pWd0dFNUtCNE9uM3IwZFdWUGFyM216Yzlnang1Zw"
-    },
-    {
-      "title": "These 18 million households now rank as the richest in the U.S., new Fed data shows - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9uRHRFaGtub1UwTTlpVlJrNHVsR2VHd3h6cnFMRTRIV3RJSnBzeTZoN2lSZjFrT3oyMl92ZnFjYWREZEZ5dTdoY0dvQlF1TkNlWTNsWmcwZktTdEJab29YN2hoaGc5R3lhWGNGYUMwMlloZw?oc=5",
-      "source": "CBS News",
-      "published_at": "Fri, 09 Oct 2026 21:13:41 GMT",
-      "summary": "These 18 million households now rank as the richest in the U.S., new Fed data shows CBS News",
-      "guid": "CBMickFVX3lxTE9uRHRFaGtub1UwTTlpVlJrNHVsR2VHd3h6cnFMRTRIV3RJSnBzeTZoN2lSZjFrT3oyMl92ZnFjYWREZEZ5dTdoY0dvQlF1TkNlWTNsWmcwZktTdEJab29YN2hoaGc5R3lhWGNGYUMwMlloZw"
+      "summary": "'Crazy days' and 'silly season' in the stock market raise the prospect of a 'late-stage' AI bubble finally popping Fortune",
+      "guid": "CBMikgFBVV95cUxQY01SSzBsZFpPOEl4THB6SkNuNklOSVg0NkRCSkZBYXlOOS0wRFZEcnpKajdDMHUxOFhpb3lsV1JWOWk1SzY5TnplVktib0lCSzlmbno1dWd5WVFuQkdXQThtRTdFVmhuZlRwVDdaYk0xV1FWV1pUb05ZZ1pTd3IwMGl2d3ExUnozNGExMHNhWjJNZw"
     }
   ]
 }
