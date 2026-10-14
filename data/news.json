@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T20:57:29Z",
+  "generated_at": "2026-10-14T23:35:52Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -10,17 +10,9 @@
       "title": "Nasdaq ends sharply lower as hot inflation data stirs rate-hike worries - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMDkzb0Zhb0ExSzhlSnR6c25HbzdpY2g1djVFZ1R4eVktaWtCZ2gya1lEdHpzcHlEM1VITE1Pdlc1MmlDclhQQmxOWC13NXdXZjhPOEYtUnc3bm80eThIZ0lEam8tN0hXV3kxNnhob3g5OHFxNHd5VzJsTks4SzlJR0JRVE5LZ2JMbXhYNFhvOC1yTUJ5bWFEN0JWTFdpaFkxN2c?oc=5",
       "source": "Reuters",
-      "published_at": "Wed, 14 Oct 2026 20:19:18 GMT",
+      "published_at": "Wed, 14 Oct 2026 20:43:04 GMT",
       "summary": "Nasdaq ends sharply lower as hot inflation data stirs rate-hike worries Reuters",
       "guid": "CBMiogFBVV95cUxPMDkzb0Zhb0ExSzhlSnR6c25HbzdpY2g1djVFZ1R4eVktaWtCZ2gya1lEdHpzcHlEM1VITE1Pdlc1MmlDclhQQmxOWC13NXdXZjhPOEYtUnc3bm80eThIZ0lEam8tN0hXV3kxNnhob3g5OHFxNHd5VzJsTks4SzlJR0JRVE5LZ2JMbXhYNFhvOC1yTUJ5bWFEN0JWTFdpaFkxN2c"
-    },
-    {
-      "title": "Hot Inflation Puts the Stock Market’s Autumn Rally to the Test - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUXAxQVIzbUt1VUEweUtTc29naFRpeFg0YkJtRWpvbTVQUW1yMEp0UU10NmV1R2ZSbE5qSndaV0VwNEdONlVVVkRraUxmT1NlclNBcnJ4SUJYUEZ2emJIQkp1dVFOQlIyNU5JRVJwMFJrSnJKemlzOURjcHpXdmxnUzFJWUNtbENKM1BEa2x6YjN0UQ?oc=5",
-      "source": "Barron's",
-      "published_at": "Wed, 14 Oct 2026 16:28:00 GMT",
-      "summary": "Hot Inflation Puts the Stock Market’s Autumn Rally to the Test Barron's",
-      "guid": "CBMikgFBVV95cUxQUXAxQVIzbUt1VUEweUtTc29naFRpeFg0YkJtRWpvbTVQUW1yMEp0UU10NmV1R2ZSbE5qSndaV0VwNEdONlVVVkRraUxmT1NlclNBcnJ4SUJYUEZ2emJIQkp1dVFOQlIyNU5JRVJwMFJrSnJKemlzOURjcHpXdmxnUzFJWUNtbENKM1BEa2x6YjN0UQ"
     },
     {
       "title": "Fed officials are warning of more pain. Many Americans are already feeling it - CNN",
@@ -31,6 +23,30 @@
       "guid": "CBMieEFVX3lxTE5KOEVDdVNYS0FUZGlpbEJTYVRMT1U0MzE1ZVUzM1pfcjdIeUhJN1ExRm1oYWZzR0lLcU8zYVJRZkI5dm9wckNpWkplUnRVQmhqUkFwb1hSN3dEbTl5ZFJOTkthcWYwYWh0ZjNBbEtkV1NDTUNnOURuVw"
     },
     {
+      "title": "Asian Stocks to Fall as Hot CPI Sparks US Selloff: Markets Wrap - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYVhucmhFR3lJaktOV202ZDNObUVrTmJpZzcxVi1zYjVFckhBNUtkeHdzb2p5cHZGRi10cDVCYUpJT1l3QmpkTmRGeWlLV3ExSzBnRllBQThjN1cxenVQWVg5MnN1WHdNbHBpZG1rQmg3bjhwUWI4c3lPV21hUzRWZkRWcXR2QnpkTWZKTFZEemFmVTh5?oc=5",
+      "source": "Bloomberg.com",
+      "published_at": "Wed, 14 Oct 2026 22:04:59 GMT",
+      "summary": "Asian Stocks to Fall as Hot CPI Sparks US Selloff: Markets Wrap Bloomberg.com",
+      "guid": "CBMilAFBVV95cUxQYVhucmhFR3lJaktOV202ZDNObUVrTmJpZzcxVi1zYjVFckhBNUtkeHdzb2p5cHZGRi10cDVCYUpJT1l3QmpkTmRGeWlLV3ExSzBnRllBQThjN1cxenVQWVg5MnN1WHdNbHBpZG1rQmg3bjhwUWI4c3lPV21hUzRWZkRWcXR2QnpkTWZKTFZEemFmVTh5"
+    },
+    {
+      "title": "Nasdaq suffers biggest daily drop since July as inflation heats up - Honolulu Star-Advertiser",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYWJ4WTdjMjVGb3VkU0FvYUVIb1lqNzNMWUZjSEE2YjB0TVRUUWs0TkFNSVFuTE0zTWkwN1hrME82UVdEU0JtQzlBcE9kT0t3czVRSGV2OEtyVlZZM09sdFFiTWtGclRNUW5Zd2xuVU5VYmx2Ty1raFZBQ0Q1V2o4RXAwcVdFWTF5YTRrWGdZWUwwSTdscnEyREFmVU9UMW1mdW5xTVNKNHZ2Q2tHZHVlbHJjOXh6cG02djZqWHo1MFg?oc=5",
+      "source": "Honolulu Star-Advertiser",
+      "published_at": "Wed, 14 Oct 2026 22:23:30 GMT",
+      "summary": "Nasdaq suffers biggest daily drop since July as inflation heats up Honolulu Star-Advertiser",
+      "guid": "CBMiwAFBVV95cUxPYWJ4WTdjMjVGb3VkU0FvYUVIb1lqNzNMWUZjSEE2YjB0TVRUUWs0TkFNSVFuTE0zTWkwN1hrME82UVdEU0JtQzlBcE9kT0t3czVRSGV2OEtyVlZZM09sdFFiTWtGclRNUW5Zd2xuVU5VYmx2Ty1raFZBQ0Q1V2o4RXAwcVdFWTF5YTRrWGdZWUwwSTdscnEyREFmVU9UMW1mdW5xTVNKNHZ2Q2tHZHVlbHJjOXh6cG02djZqWHo1MFg"
+    },
+    {
+      "title": "US Fed Beige Book: Economy Sees Moderate Growth Amid Rising Price Pressures - Stocktwits",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZlJjT1lfRUNicGw1dXdpWDZDR2VwNmh2T1c4Q1NNMWYtYm9KR1JpcHpna1E2ckFyWVVQTnlQZEw2OTZ0TXcyUEJNR0VZQUFtU0tsV2x1MjBOVzRfMUNuWWhjQkhzZEdXemtoYWxWYS1aM0d2VTd3TDZmTGxObVhGeGJTZmVuWW5US00tV1ZfUE90elJHbmhRSkRJT1JDcmlrbUhsUExfbXBnUW50U1dhQzJxZWpjWmViSjlwLUl5OFdlQVFjRi1WQlJnQW05TEZHLWdZeQ?oc=5",
+      "source": "Stocktwits",
+      "published_at": "Wed, 14 Oct 2026 21:57:00 GMT",
+      "summary": "US Fed Beige Book: Economy Sees Moderate Growth Amid Rising Price Pressures Stocktwits",
+      "guid": "CBMi1AFBVV95cUxPZlJjT1lfRUNicGw1dXdpWDZDR2VwNmh2T1c4Q1NNMWYtYm9KR1JpcHpna1E2ckFyWVVQTnlQZEw2OTZ0TXcyUEJNR0VZQUFtU0tsV2x1MjBOVzRfMUNuWWhjQkhzZEdXemtoYWxWYS1aM0d2VTd3TDZmTGxObVhGeGJTZmVuWW5US00tV1ZfUE90elJHbmhRSkRJT1JDcmlrbUhsUExfbXBnUW50U1dhQzJxZWpjWmViSjlwLUl5OFdlQVFjRi1WQlJnQW05TEZHLWdZeQ"
+    },
+    {
       "title": "Federal Reserve Chair Jerome Powell interest rate announcement at the New York Stock Exchange (NYSE) in New York City - The Daily News | Texas' Oldest Newspaper",
       "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNRV9pQk41VzdRc0FHdV9BVVMwSVR2eDQzdUhnang2eWxXX3JGYXJ5T0lrTTNJREpndUU4RElBZ25sZzdhdk11TUdlWkhoN0FkQ3NDRW9COW9hUUJuQWpUdzYtYXFNa29rSjZQZGVoYmYtcW16cHV2c25nWElLU3NoblIzQ3NqUDVkRC1fNHdUcjZWcGZvczY2R1psdENRaWxkdmRkdWxLd0tJcFNSTm9nQkNhLVlXWWVDMFg0ZW1aZ241UnFtQWFTaGhRQjFVODBQWXFFSUM1Wl93bkNMN3RkTGRaSVkxSWFTdzd2NzJMbmhPb3laQzVEQXBCRy1ZdjRhdXAtaTBkU3FpRU56MjZ1VGZIeXZTUU1CczJkS1p3?oc=5",
       "source": "The Daily News | Texas' Oldest Newspaper",
@@ -39,12 +55,20 @@
       "guid": "CBMingJBVV95cUxNRV9pQk41VzdRc0FHdV9BVVMwSVR2eDQzdUhnang2eWxXX3JGYXJ5T0lrTTNJREpndUU4RElBZ25sZzdhdk11TUdlWkhoN0FkQ3NDRW9COW9hUUJuQWpUdzYtYXFNa29rSjZQZGVoYmYtcW16cHV2c25nWElLU3NoblIzQ3NqUDVkRC1fNHdUcjZWcGZvczY2R1psdENRaWxkdmRkdWxLd0tJcFNSTm9nQkNhLVlXWWVDMFg0ZW1aZ241UnFtQWFTaGhRQjFVODBQWXFFSUM1Wl93bkNMN3RkTGRaSVkxSWFTdzd2NzJMbmhPb3laQzVEQXBCRy1ZdjRhdXAtaTBkU3FpRU56MjZ1VGZIeXZTUU1CczJkS1p3"
     },
     {
-      "title": "Today's Federal Reserve speaker slate suddenly got much more interesting - investingLive",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTTB1T21WbFBNUmk4QzVQUXR1eFktUV9rdEpVWS1rVFZJVjFBWHZpaWJiVkt5TjN3VUhIQV9ZWG1tOExQQ1FpcU1pbXk2bFBiYzRDZlFEbldXMGFGTzB0WFJiOU9CWWZZN2Z5aXpOUG80VHZtbk9TcUZqdU05am5wTnE4Qll5cms1NGd1NDJycDFsOXA2LXJyVjdIdjdTMVhudnJBdWNRRFBnb1ZXVVpUcndjOA?oc=5",
-      "source": "investingLive",
-      "published_at": "Wed, 14 Oct 2026 13:11:55 GMT",
-      "summary": "Today's Federal Reserve speaker slate suddenly got much more interesting investingLive",
-      "guid": "CBMiswFBVV95cUxQTTB1T21WbFBNUmk4QzVQUXR1eFktUV9rdEpVWS1rVFZJVjFBWHZpaWJiVkt5TjN3VUhIQV9ZWG1tOExQQ1FpcU1pbXk2bFBiYzRDZlFEbldXMGFGTzB0WFJiOU9CWWZZN2Z5aXpOUG80VHZtbk9TcUZqdU05am5wTnE4Qll5cms1NGd1NDJycDFsOXA2LXJyVjdIdjdTMVhudnJBdWNRRFBnb1ZXVVpUcndjOA"
+      "title": "Prediction: A Stock Market Crash Is Coming. Here's What Investors Should Do Based on Almost 7 Decades' Worth of History. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNENJSTRYaGRsLTBnVmhsZ3g1TVlWUjllLU5ENnFmZndoQkNEZ3o4U21PZVJvblpKNGRSNFpmRm8wcHdzcEU1MjNDNUQ3cUdXb3UwUTdHSHdOX25ybWFvMnRwOTRad2FnV0xQQ0ZCNHppeDRkU20tTWw4WVhuVTZHSlk2YUQxZnAwemFGZ0NhMEhQQm83YVR2czFCTEE3ZFhCTXhN?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Tue, 13 Oct 2026 09:39:00 GMT",
+      "summary": "Prediction: A Stock Market Crash Is Coming. Here's What Investors Should Do Based on Almost 7 Decades' Worth of History. Yahoo Finance",
+      "guid": "CBMiowFBVV95cUxQNENJSTRYaGRsLTBnVmhsZ3g1TVlWUjllLU5ENnFmZndoQkNEZ3o4U21PZVJvblpKNGRSNFpmRm8wcHdzcEU1MjNDNUQ3cUdXb3UwUTdHSHdOX25ybWFvMnRwOTRad2FnV0xQQ0ZCNHppeDRkU20tTWw4WVhuVTZHSlk2YUQxZnAwemFGZ0NhMEhQQm83YVR2czFCTEE3ZFhCTXhN"
+    },
+    {
+      "title": "Nasdaq closes 1.8% lower as as hotter CPI fuels Fed rate hike fears - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUGZZeldBVVZBcnJNOWU1M3JhdmNabDY2SFE2YlEzczlhOUhfLVAzMmlzeWRJTzMyajlUajRKWWhsQTk3cXdkeXpBNWRyVjZIT3c5VUFfSENYejMwS2JIWW84a0NRUGdkd1lZX2xuZUlQZHdjTXVHbDZDZUZiWGJWUVJEOFNFVGEzWWZHczRTNmRjQmE2NVUzbEpwVl9uRlJYLUtLUjg5eFd2MWVRcXc2STNHT2lVbklSV3hxM2R4UjE?oc=5",
+      "source": "TradingView",
+      "published_at": "Wed, 14 Oct 2026 20:17:10 GMT",
+      "summary": "Nasdaq closes 1.8% lower as as hotter CPI fuels Fed rate hike fears TradingView",
+      "guid": "CBMiwAFBVV95cUxPUGZZeldBVVZBcnJNOWU1M3JhdmNabDY2SFE2YlEzczlhOUhfLVAzMmlzeWRJTzMyajlUajRKWWhsQTk3cXdkeXpBNWRyVjZIT3c5VUFfSENYejMwS2JIWW84a0NRUGdkd1lZX2xuZUlQZHdjTXVHbDZDZUZiWGJWUVJEOFNFVGEzWWZHczRTNmRjQmE2NVUzbEpwVl9uRlJYLUtLUjg5eFd2MWVRcXc2STNHT2lVbklSV3hxM2R4UjE"
     },
     {
       "title": "What the Fed Warning Means for Stock Market Investors Based on Historical Trends - The Motley Fool",
@@ -61,30 +85,6 @@
       "published_at": "Tue, 22 Sep 2026 07:00:00 GMT",
       "summary": "What’s Next for US Stocks After the Fed Rate Hike Morningstar",
       "guid": "CBMijgFBVV95cUxOZko0WU1kUWFDbVBBaXdJT09qeTFSY000SVlCd3diMHFVMjNodUtGWFlBMUtkdmZSRmlmTnRmWXBYaGlpbHVpOTdyZHN2QjNMampxSTM3czM0VE5MMlk4OU1kVUFsUkZhMHBxYXJhbFlpNnQzLVgteXNySXplRkFDVVRHUHNha182TmJNUDRB"
-    },
-    {
-      "title": "Oracle Shares Drop Over 7%: September CPI Beats Expectations to Raise Rate Hike Odds, AI Infrastructure Financing Amplifies Rate Shock - TradingKey",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOT2lhclliRUE5a3pZSFpDWndOdG1UR0pnN0tvQUtnbmhZLWFyZG1FWU1BNGRQVmVZdk56bTZsUkNyZFdTSWZPbHlkN3BuTmhHaE9yZ1pEZ25UZWJ6OXhzN3RBcXUybmRXTGxtcXRTaHA2TWZJN2VFNXk1MFFNT2hyc2J1dnBSTjhhNUtEZ25Pd3FGeWYwLXBmMlFha3EyQWlvVG9QQmI4YUxocThwUzRTSGFlT19oLUt2RGtWclk5MUxZMWQxSktUbWt3Z3VzUm43elRMM1QtNkdNTjQ?oc=5",
-      "source": "TradingKey",
-      "published_at": "Wed, 14 Oct 2026 15:21:30 GMT",
-      "summary": "Oracle Shares Drop Over 7%: September CPI Beats Expectations to Raise Rate Hike Odds, AI Infrastructure Financing Amplifies Rate Shock TradingKey",
-      "guid": "CBMi2wFBVV95cUxOT2lhclliRUE5a3pZSFpDWndOdG1UR0pnN0tvQUtnbmhZLWFyZG1FWU1BNGRQVmVZdk56bTZsUkNyZFdTSWZPbHlkN3BuTmhHaE9yZ1pEZ25UZWJ6OXhzN3RBcXUybmRXTGxtcXRTaHA2TWZJN2VFNXk1MFFNT2hyc2J1dnBSTjhhNUtEZ25Pd3FGeWYwLXBmMlFha3EyQWlvVG9QQmI4YUxocThwUzRTSGFlT19oLUt2RGtWclk5MUxZMWQxSktUbWt3Z3VzUm43elRMM1QtNkdNTjQ"
-    },
-    {
-      "title": "The AI wealth effect - Axios",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kckpHLWhsVTJZQTNyaGxBc1FrTmFNMDQ2RjZLTlJpX1dMS0FyVHI2RzMxd0xCT2UtbUl1eEJSS3BRLVlXWU13YnRXR1ZOdEVCbzdPTGdiQks5RGViRm9nU3pVSkN5cFZz?oc=5",
-      "source": "Axios",
-      "published_at": "Thu, 01 Oct 2026 07:00:00 GMT",
-      "summary": "The AI wealth effect Axios",
-      "guid": "CBMiaEFVX3lxTE5kckpHLWhsVTJZQTNyaGxBc1FrTmFNMDQ2RjZLTlJpX1dMS0FyVHI2RzMxd0xCT2UtbUl1eEJSS3BRLVlXWU13YnRXR1ZOdEVCbzdPTGdiQks5RGViRm9nU3pVSkN5cFZz"
-    },
-    {
-      "title": "The Federal Reserve Is Raising Interest Rates. Here's What History Says That Means for Investors. - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMWYwdW1KV0VaZ3V0WlkzRXZ3cTNlNXVEdkt5dWlEcmllb2F2ZFNUWjZ0OFdRMmdSX0wya09fZUVxeVZ6X3NBVU4waXJiMTJYQ2taVjBFbnA3TzZIa2lDUDZGWVRhb0RmNmp3SDVwbG9ta01RYXB2cl9oYTllb0EzRldFMk1RdG4zeF9FOHRPMngxVWlCSXBWRXFib09XWjl5TzlV?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Wed, 07 Oct 2026 19:57:00 GMT",
-      "summary": "The Federal Reserve Is Raising Interest Rates. Here's What History Says That Means for Investors. Yahoo Finance",
-      "guid": "CBMiowFBVV95cUxQMWYwdW1KV0VaZ3V0WlkzRXZ3cTNlNXVEdkt5dWlEcmllb2F2ZFNUWjZ0OFdRMmdSX0wya09fZUVxeVZ6X3NBVU4waXJiMTJYQ2taVjBFbnA3TzZIa2lDUDZGWVRhb0RmNmp3SDVwbG9ta01RYXB2cl9oYTllb0EzRldFMk1RdG4zeF9FOHRPMngxVWlCSXBWRXFib09XWjl5TzlV"
     }
   ]
 }
