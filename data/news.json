@@ -1,11 +1,27 @@
 {
-  "generated_at": "2026-10-14T17:34:59Z",
+  "generated_at": "2026-10-14T20:57:29Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "Nasdaq ends sharply lower as hot inflation data stirs rate-hike worries - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMDkzb0Zhb0ExSzhlSnR6c25HbzdpY2g1djVFZ1R4eVktaWtCZ2gya1lEdHpzcHlEM1VITE1Pdlc1MmlDclhQQmxOWC13NXdXZjhPOEYtUnc3bm80eThIZ0lEam8tN0hXV3kxNnhob3g5OHFxNHd5VzJsTks4SzlJR0JRVE5LZ2JMbXhYNFhvOC1yTUJ5bWFEN0JWTFdpaFkxN2c?oc=5",
+      "source": "Reuters",
+      "published_at": "Wed, 14 Oct 2026 20:19:18 GMT",
+      "summary": "Nasdaq ends sharply lower as hot inflation data stirs rate-hike worries Reuters",
+      "guid": "CBMiogFBVV95cUxPMDkzb0Zhb0ExSzhlSnR6c25HbzdpY2g1djVFZ1R4eVktaWtCZ2gya1lEdHpzcHlEM1VITE1Pdlc1MmlDclhQQmxOWC13NXdXZjhPOEYtUnc3bm80eThIZ0lEam8tN0hXV3kxNnhob3g5OHFxNHd5VzJsTks4SzlJR0JRVE5LZ2JMbXhYNFhvOC1yTUJ5bWFEN0JWTFdpaFkxN2c"
+    },
+    {
+      "title": "Hot Inflation Puts the Stock Market’s Autumn Rally to the Test - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUXAxQVIzbUt1VUEweUtTc29naFRpeFg0YkJtRWpvbTVQUW1yMEp0UU10NmV1R2ZSbE5qSndaV0VwNEdONlVVVkRraUxmT1NlclNBcnJ4SUJYUEZ2emJIQkp1dVFOQlIyNU5JRVJwMFJrSnJKemlzOURjcHpXdmxnUzFJWUNtbENKM1BEa2x6YjN0UQ?oc=5",
+      "source": "Barron's",
+      "published_at": "Wed, 14 Oct 2026 16:28:00 GMT",
+      "summary": "Hot Inflation Puts the Stock Market’s Autumn Rally to the Test Barron's",
+      "guid": "CBMikgFBVV95cUxQUXAxQVIzbUt1VUEweUtTc29naFRpeFg0YkJtRWpvbTVQUW1yMEp0UU10NmV1R2ZSbE5qSndaV0VwNEdONlVVVkRraUxmT1NlclNBcnJ4SUJYUEZ2emJIQkp1dVFOQlIyNU5JRVJwMFJrSnJKemlzOURjcHpXdmxnUzFJWUNtbENKM1BEa2x6YjN0UQ"
+    },
     {
       "title": "Fed officials are warning of more pain. Many Americans are already feeling it - CNN",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5KOEVDdVNYS0FUZGlpbEJTYVRMT1U0MzE1ZVUzM1pfcjdIeUhJN1ExRm1oYWZzR0lLcU8zYVJRZkI5dm9wckNpWkplUnRVQmhqUkFwb1hSN3dEbTl5ZFJOTkthcWYwYWh0ZjNBbEtkV1NDTUNnOURuVw?oc=5",
@@ -15,20 +31,12 @@
       "guid": "CBMieEFVX3lxTE5KOEVDdVNYS0FUZGlpbEJTYVRMT1U0MzE1ZVUzM1pfcjdIeUhJN1ExRm1oYWZzR0lLcU8zYVJRZkI5dm9wckNpWkplUnRVQmhqUkFwb1hSN3dEbTl5ZFJOTkthcWYwYWh0ZjNBbEtkV1NDTUNnOURuVw"
     },
     {
-      "title": "World stocks dip on AI spending concerns; Brent settles lower - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZDZBM1pYcUNfelRkWE5NNC1Ja0laMUZPTm5Yei0wWGVpV3BVR3RVNDh0cHQ5ZXRDTFJpdm1wNU8wRTlkN3A2aE1LeEt2dEctUmREeXBRajEzUG1tNXc1YUxqV2ttOUFRS1pPRWhiZnJNd184SDJRV1QyVWJlMGJ4NndIZnU?oc=5",
-      "source": "Reuters",
-      "published_at": "Tue, 13 Oct 2026 01:41:00 GMT",
-      "summary": "World stocks dip on AI spending concerns; Brent settles lower Reuters",
-      "guid": "CBMihAFBVV95cUxOZDZBM1pYcUNfelRkWE5NNC1Ja0laMUZPTm5Yei0wWGVpV3BVR3RVNDh0cHQ5ZXRDTFJpdm1wNU8wRTlkN3A2aE1LeEt2dEctUmREeXBRajEzUG1tNXc1YUxqV2ttOUFRS1pPRWhiZnJNd184SDJRV1QyVWJlMGJ4NndIZnU"
-    },
-    {
-      "title": "Two Major Events That Could Impact the Stock Market Today - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb3JXZ0xpNWFDOV9XWFpNdGlzT2JsdGpGZDBLMGdVU1FIdHlkd1lSSUdzcGU4TDdRekMzUUhpTWUtRGhEVE41NFBQek1ZV0FNYlpoWjdiZktZRzl3M2EwZE9KRG10ZXpCVl84MFduZU1KT1RFQU5XUGVWVVJIMVZyT1o5OUl4cFJzR0oyRV9Ydjh6V1dSMGg3NExQTkJOT0c4VDhUeXJlMmR2djA0T28tR0tDaGYtZnVf?oc=5",
-      "source": "TradingView",
-      "published_at": "Wed, 14 Oct 2026 06:59:00 GMT",
-      "summary": "Two Major Events That Could Impact the Stock Market Today TradingView",
-      "guid": "CBMiuAFBVV95cUxPb3JXZ0xpNWFDOV9XWFpNdGlzT2JsdGpGZDBLMGdVU1FIdHlkd1lSSUdzcGU4TDdRekMzUUhpTWUtRGhEVE41NFBQek1ZV0FNYlpoWjdiZktZRzl3M2EwZE9KRG10ZXpCVl84MFduZU1KT1RFQU5XUGVWVVJIMVZyT1o5OUl4cFJzR0oyRV9Ydjh6V1dSMGg3NExQTkJOT0c4VDhUeXJlMmR2djA0T28tR0tDaGYtZnVf"
+      "title": "Federal Reserve Chair Jerome Powell interest rate announcement at the New York Stock Exchange (NYSE) in New York City - The Daily News | Texas' Oldest Newspaper",
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNRV9pQk41VzdRc0FHdV9BVVMwSVR2eDQzdUhnang2eWxXX3JGYXJ5T0lrTTNJREpndUU4RElBZ25sZzdhdk11TUdlWkhoN0FkQ3NDRW9COW9hUUJuQWpUdzYtYXFNa29rSjZQZGVoYmYtcW16cHV2c25nWElLU3NoblIzQ3NqUDVkRC1fNHdUcjZWcGZvczY2R1psdENRaWxkdmRkdWxLd0tJcFNSTm9nQkNhLVlXWWVDMFg0ZW1aZ241UnFtQWFTaGhRQjFVODBQWXFFSUM1Wl93bkNMN3RkTGRaSVkxSWFTdzd2NzJMbmhPb3laQzVEQXBCRy1ZdjRhdXAtaTBkU3FpRU56MjZ1VGZIeXZTUU1CczJkS1p3?oc=5",
+      "source": "The Daily News | Texas' Oldest Newspaper",
+      "published_at": "Wed, 14 Oct 2026 18:00:41 GMT",
+      "summary": "Federal Reserve Chair Jerome Powell interest rate announcement at the New York Stock Exchange (NYSE) in New York City The Daily News | Texas' Oldest Newspaper",
+      "guid": "CBMingJBVV95cUxNRV9pQk41VzdRc0FHdV9BVVMwSVR2eDQzdUhnang2eWxXX3JGYXJ5T0lrTTNJREpndUU4RElBZ25sZzdhdk11TUdlWkhoN0FkQ3NDRW9COW9hUUJuQWpUdzYtYXFNa29rSjZQZGVoYmYtcW16cHV2c25nWElLU3NoblIzQ3NqUDVkRC1fNHdUcjZWcGZvczY2R1psdENRaWxkdmRkdWxLd0tJcFNSTm9nQkNhLVlXWWVDMFg0ZW1aZ241UnFtQWFTaGhRQjFVODBQWXFFSUM1Wl93bkNMN3RkTGRaSVkxSWFTdzd2NzJMbmhPb3laQzVEQXBCRy1ZdjRhdXAtaTBkU3FpRU56MjZ1VGZIeXZTUU1CczJkS1p3"
     },
     {
       "title": "Today's Federal Reserve speaker slate suddenly got much more interesting - investingLive",
@@ -39,12 +47,12 @@
       "guid": "CBMiswFBVV95cUxQTTB1T21WbFBNUmk4QzVQUXR1eFktUV9rdEpVWS1rVFZJVjFBWHZpaWJiVkt5TjN3VUhIQV9ZWG1tOExQQ1FpcU1pbXk2bFBiYzRDZlFEbldXMGFGTzB0WFJiOU9CWWZZN2Z5aXpOUG80VHZtbk9TcUZqdU05am5wTnE4Qll5cms1NGd1NDJycDFsOXA2LXJyVjdIdjdTMVhudnJBdWNRRFBnb1ZXVVpUcndjOA"
     },
     {
-      "title": "Hot US inflation data dents Wall Street stocks - Bangkok Post",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQazJKQUtReUstYkNjZ0pJTnFKMHRCSXpuN0d3TkZFSWcxNXVpMTlaNnA1VXJXb3U1cjdONkJxV1lUSWpoamlJdl9DbThFaHBYaWVhUzIwdUFyRkJWYjQxU3VZOG83TS1ENzNRR2Z6S1JHa1ZpUG1Gcmk0bGh2ZF8zbUZjWGprbUlkeC00VFBsRXA2MFZvUUNybE5XMjFVcjJU?oc=5",
-      "source": "Bangkok Post",
-      "published_at": "Wed, 14 Oct 2026 14:45:00 GMT",
-      "summary": "Hot US inflation data dents Wall Street stocks Bangkok Post",
-      "guid": "CBMioAFBVV95cUxQazJKQUtReUstYkNjZ0pJTnFKMHRCSXpuN0d3TkZFSWcxNXVpMTlaNnA1VXJXb3U1cjdONkJxV1lUSWpoamlJdl9DbThFaHBYaWVhUzIwdUFyRkJWYjQxU3VZOG83TS1ENzNRR2Z6S1JHa1ZpUG1Gcmk0bGh2ZF8zbUZjWGprbUlkeC00VFBsRXA2MFZvUUNybE5XMjFVcjJU"
+      "title": "What the Fed Warning Means for Stock Market Investors Based on Historical Trends - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcXRWTnJwSURQaVVUamV2NmVHdzY2ZDFHaEhrMVBFR3RhTURkN3R5WFdmSkY5djB2N3ZpcDU3YVVuc2F0Zmc2dVY3V2tnTDh1RmYxNWJ1bjBaS3ZGcHFOVEZRQnBPWE1jVjNfS1dBRWlZMWZYVGlNUW4zVGVnVFMxbzEyQ1hPRERiQnh1NW9waVhrUDRYOUVWWQ?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Mon, 12 Oct 2026 10:45:00 GMT",
+      "summary": "What the Fed Warning Means for Stock Market Investors Based on Historical Trends The Motley Fool",
+      "guid": "CBMimAFBVV95cUxOcXRWTnJwSURQaVVUamV2NmVHdzY2ZDFHaEhrMVBFR3RhTURkN3R5WFdmSkY5djB2N3ZpcDU3YVVuc2F0Zmc2dVY3V2tnTDh1RmYxNWJ1bjBaS3ZGcHFOVEZRQnBPWE1jVjNfS1dBRWlZMWZYVGlNUW4zVGVnVFMxbzEyQ1hPRERiQnh1NW9waVhrUDRYOUVWWQ"
     },
     {
       "title": "What’s Next for US Stocks After the Fed Rate Hike - Morningstar",
@@ -63,12 +71,12 @@
       "guid": "CBMi2wFBVV95cUxOT2lhclliRUE5a3pZSFpDWndOdG1UR0pnN0tvQUtnbmhZLWFyZG1FWU1BNGRQVmVZdk56bTZsUkNyZFdTSWZPbHlkN3BuTmhHaE9yZ1pEZ25UZWJ6OXhzN3RBcXUybmRXTGxtcXRTaHA2TWZJN2VFNXk1MFFNT2hyc2J1dnBSTjhhNUtEZ25Pd3FGeWYwLXBmMlFha3EyQWlvVG9QQmI4YUxocThwUzRTSGFlT19oLUt2RGtWclk5MUxZMWQxSktUbWt3Z3VzUm43elRMM1QtNkdNTjQ"
     },
     {
-      "title": "Fed Chair Kevin Warsh and the FOMC Just Fired a Warning Shot at the Second-Priciest Stock Market in History - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTUZ1bHNfOXgzTFdmWkU1SnZmaURVTS14cjB0UWpvaXBLdVpEYkpEUnlUZ2YyUTNGSHpYbmNCY1h5WjBYdVAxT2VhbE01cGJpb3lfeHVNNlBRbDJaMURxY21kTzV1WF9MSVlnZ1h5RVBpOGpwOW5SWHYtWkhlajNJX0F1bVd1U3ZJVkk4SEkzdG56S3NHSmd0MDhTNy1JdEQ3a2IxNU94TmhaY296UVZTNG9TZ05rOGNVSjFXMHVzY3BuVzlxTXFjRm55VQ?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Mon, 12 Oct 2026 09:06:00 GMT",
-      "summary": "Fed Chair Kevin Warsh and the FOMC Just Fired a Warning Shot at the Second-Priciest Stock Market in History The Motley Fool",
-      "guid": "CBMiywFBVV95cUxQTUZ1bHNfOXgzTFdmWkU1SnZmaURVTS14cjB0UWpvaXBLdVpEYkpEUnlUZ2YyUTNGSHpYbmNCY1h5WjBYdVAxT2VhbE01cGJpb3lfeHVNNlBRbDJaMURxY21kTzV1WF9MSVlnZ1h5RVBpOGpwOW5SWHYtWkhlajNJX0F1bVd1U3ZJVkk4SEkzdG56S3NHSmd0MDhTNy1JdEQ3a2IxNU94TmhaY296UVZTNG9TZ05rOGNVSjFXMHVzY3BuVzlxTXFjRm55VQ"
+      "title": "The AI wealth effect - Axios",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kckpHLWhsVTJZQTNyaGxBc1FrTmFNMDQ2RjZLTlJpX1dMS0FyVHI2RzMxd0xCT2UtbUl1eEJSS3BRLVlXWU13YnRXR1ZOdEVCbzdPTGdiQks5RGViRm9nU3pVSkN5cFZz?oc=5",
+      "source": "Axios",
+      "published_at": "Thu, 01 Oct 2026 07:00:00 GMT",
+      "summary": "The AI wealth effect Axios",
+      "guid": "CBMiaEFVX3lxTE5kckpHLWhsVTJZQTNyaGxBc1FrTmFNMDQ2RjZLTlJpX1dMS0FyVHI2RzMxd0xCT2UtbUl1eEJSS3BRLVlXWU13YnRXR1ZOdEVCbzdPTGdiQks5RGViRm9nU3pVSkN5cFZz"
     },
     {
       "title": "The Federal Reserve Is Raising Interest Rates. Here's What History Says That Means for Investors. - Yahoo Finance",
@@ -77,14 +85,6 @@
       "published_at": "Wed, 07 Oct 2026 19:57:00 GMT",
       "summary": "The Federal Reserve Is Raising Interest Rates. Here's What History Says That Means for Investors. Yahoo Finance",
       "guid": "CBMiowFBVV95cUxQMWYwdW1KV0VaZ3V0WlkzRXZ3cTNlNXVEdkt5dWlEcmllb2F2ZFNUWjZ0OFdRMmdSX0wya09fZUVxeVZ6X3NBVU4waXJiMTJYQ2taVjBFbnA3TzZIa2lDUDZGWVRhb0RmNmp3SDVwbG9ta01RYXB2cl9oYTllb0EzRldFMk1RdG4zeF9FOHRPMngxVWlCSXBWRXFib09XWjl5TzlV"
-    },
-    {
-      "title": "The AI wealth effect - Axios",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kckpHLWhsVTJZQTNyaGxBc1FrTmFNMDQ2RjZLTlJpX1dMS0FyVHI2RzMxd0xCT2UtbUl1eEJSS3BRLVlXWU13YnRXR1ZOdEVCbzdPTGdiQks5RGViRm9nU3pVSkN5cFZz?oc=5",
-      "source": "Axios",
-      "published_at": "Thu, 01 Oct 2026 07:00:00 GMT",
-      "summary": "The AI wealth effect Axios",
-      "guid": "CBMiaEFVX3lxTE5kckpHLWhsVTJZQTNyaGxBc1FrTmFNMDQ2RjZLTlJpX1dMS0FyVHI2RzMxd0xCT2UtbUl1eEJSS3BRLVlXWU13YnRXR1ZOdEVCbzdPTGdiQks5RGViRm9nU3pVSkN5cFZz"
     }
   ]
 }
