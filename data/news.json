@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-10-15T16:54:37Z",
+  "generated_at": "2026-10-15T20:06:09Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "Chicago Fed’s Goolsbee says the stock market isn’t propping up consumer spending. It’s strong on its own. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNRFpIUS14eW1NQTMxaWpZd01QLU95dGkyT0hhOE55eEprdEE4MmJlT2lldmVLR0wycURrbFZaZEpmUmV6eF9XdGxQRGdZNExsaEFJbzBFMTlWX19INUxHU00zQS10Y09BSGg3Q0QxMGlSQWMyb3dPYzJza29IQzZka19Wb1d0RFhsVmo0MF8ycnRoY1gtQVVHOWRGdDlXSzRxVUFlbUpMaWxYVmhWV2kwTzlmMHZ3a3gtaVhaNm1zRmFOYzVXZkpWOEFrLXA3MmNSQzZDT2x2Y3FzNWhnc05KUmUxT0YyTmVQQzRhQjhB?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Thu, 15 Oct 2026 17:13:52 GMT",
+      "summary": "Chicago Fed’s Goolsbee says the stock market isn’t propping up consumer spending. It’s strong on its own. Yahoo Finance",
+      "guid": "CBMi7gFBVV95cUxNRFpIUS14eW1NQTMxaWpZd01QLU95dGkyT0hhOE55eEprdEE4MmJlT2lldmVLR0wycURrbFZaZEpmUmV6eF9XdGxQRGdZNExsaEFJbzBFMTlWX19INUxHU00zQS10Y09BSGg3Q0QxMGlSQWMyb3dPYzJza29IQzZka19Wb1d0RFhsVmo0MF8ycnRoY1gtQVVHOWRGdDlXSzRxVUFlbUpMaWxYVmhWV2kwTzlmMHZ3a3gtaVhaNm1zRmFOYzVXZkpWOEFrLXA3MmNSQzZDT2x2Y3FzNWhnc05KUmUxT0YyTmVQQzRhQjhB"
+    },
     {
       "title": "Investors Just Parked Nearly $8 Trillion in Cash. Is a Stock Market Crash Next? - 24/7 Wall St.",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcjlqRlY4SGNLZEhoblRLU3c5dEw5a1dTVEpPMTFNTmR6S3pGOXJBanFldVp3ekpqTUoyWVo2NnBwcElMNV81Zl9vcVRsX1o3V0oxTFpQY09wZGF0bjE1TFl3QUM4VjZLb09KSlQ2QnM1eGJiV3M1YkdKZmVwS1ZLUV9BamlvcUdWbzVMWmhMd2RFM3VuMm8xTnB2TmktNnZiaGlsTnlHOFNzMkt5OEZpdUlZQ1VNOWhxUF9XYg?oc=5",
@@ -31,20 +39,20 @@
       "guid": "CBMiswFBVV95cUxOX0pEeWNnUnpzbi1KdkZVckVmdWdCLWpCR0RYSG9SbWFPeXQ5QlcxVzdXd1RqYzI4RWVZaEtBVzY1RC1YUkxUMkZjbnRhZ2s0RzdBSngwc0NNcllwR0NfbElZOG56UTlWQ2lIc21XMzR4OElKcDl5aDdWeUc4UXRqb2JiLTNNZTdPTk1aOXEyVklNaGlFdXExZkJkZ1ZRbDIyOTRMS0MwWFRUUVVCRlU3Mmo4UQ"
     },
     {
+      "title": "Investors Just Parked Nearly $8 Trillion in Cash. Is a Stock Market Crash Next? - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfVF9McUJDajVQS3dyUTEtQkxHUUJNTXNBOG5EYWlBaVpiU3Z1TnZMdVU5NGhjTmZ2bnpaMWVWTG9FN1NHZU51UXVmaEQ4Z25BWW12UFhvNjhUTGQzV25ZVkk1bDNRQmxZMFQ3RmsyM1dvN1IycFFPelZnWWJqMkU?oc=5",
+      "source": "AOL.com",
+      "published_at": "Thu, 15 Oct 2026 16:00:29 GMT",
+      "summary": "Investors Just Parked Nearly $8 Trillion in Cash. Is a Stock Market Crash Next? AOL.com",
+      "guid": "CBMif0FVX3lxTFBfVF9McUJDajVQS3dyUTEtQkxHUUJNTXNBOG5EYWlBaVpiU3Z1TnZMdVU5NGhjTmZ2bnpaMWVWTG9FN1NHZU51UXVmaEQ4Z25BWW12UFhvNjhUTGQzV25ZVkk1bDNRQmxZMFQ3RmsyM1dvN1IycFFPelZnWWJqMkU"
+    },
+    {
       "title": "US chip stocks face $2 trillion loss - The American Bazaar",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRzEwejVpblgwdk5zRWRFRU1KQzk2TEdMUmpxZGUzMnFTbVZsdDRrMmd1eDVWQW1Vc3JwX1VGZ3NZQ0tsUExadTRmaDN1aWlXcGw0czRZYkVyS3BGdWdsQUxmREpCd2pCYm9YeXFGWUdGREpPQUlzM0I1V0hTZlJjTE9HY01ySVhuYjJjeTl0dlBCZWNRclhGdWZHOA?oc=5",
       "source": "The American Bazaar",
       "published_at": "Thu, 15 Oct 2026 15:52:13 GMT",
       "summary": "US chip stocks face $2 trillion loss The American Bazaar",
       "guid": "CBMimwFBVV95cUxNRzEwejVpblgwdk5zRWRFRU1KQzk2TEdMUmpxZGUzMnFTbVZsdDRrMmd1eDVWQW1Vc3JwX1VGZ3NZQ0tsUExadTRmaDN1aWlXcGw0czRZYkVyS3BGdWdsQUxmREpCd2pCYm9YeXFGWUdGREpPQUlzM0I1V0hTZlJjTE9HY01ySVhuYjJjeTl0dlBCZWNRclhGdWZHOA"
-    },
-    {
-      "title": "Tech sell-off rolls on as hot inflation data stokes rate worries - The Korea Times",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUkdtT2RiTk54T2VxbFF1NUtOYVBBbGFsX1FqRXJoZjdIdWN4R0VqNnJjcFdqUmpNYnlRZ0JVSFUwU21KZG1xVVl1ZDBIQW5ZLVpFTW5YNkNEdFVVQmVodHN2RHlFNmtxMEtkcFhYbDZfLUhIRkI3aVBKZHdfMTFtVTlCYUVFTjc3ZDBEdDg5Z25EOTJfLThRQUhpbXBkYkotU1VYZGZOQTFsUWVP0gGyAUFVX3lxTE5GU3pZeWNYSzgxbVFULWhMbG94THd5Y3dnQlZEMG5HV1dLTE1WdmREbXNQMElsTnZPckUtTFBxbnp5azhHWDFhckx1Y1B5a3pGdDh5UEhKcm4zdGNsR0UydTJPLTE5QXpJcndYU1VTckRIWERWX2FiaGMxcGluOUxYRlN3aXU3aHZFMHZRVkNOLWljMVlGWHpNS1lBazNiS2RNQjFWQzNUZWhxXzVzZTc0MWc?oc=5",
-      "source": "The Korea Times",
-      "published_at": "Thu, 15 Oct 2026 16:03:00 GMT",
-      "summary": "Tech sell-off rolls on as hot inflation data stokes rate worries The Korea Times",
-      "guid": "CBMirAFBVV95cUxNUkdtT2RiTk54T2VxbFF1NUtOYVBBbGFsX1FqRXJoZjdIdWN4R0VqNnJjcFdqUmpNYnlRZ0JVSFUwU21KZG1xVVl1ZDBIQW5ZLVpFTW5YNkNEdFVVQmVodHN2RHlFNmtxMEtkcFhYbDZfLUhIRkI3aVBKZHdfMTFtVTlCYUVFTjc3ZDBEdDg5Z25EOTJfLThRQUhpbXBkYkotU1VYZGZOQTFsUWVP0gGyAUFVX3lxTE5GU3pZeWNYSzgxbVFULWhMbG94THd5Y3dnQlZEMG5HV1dLTE1WdmREbXNQMElsTnZPckUtTFBxbnp5azhHWDFhckx1Y1B5a3pGdDh5UEhKcm4zdGNsR0UydTJPLTE5QXpJcndYU1VTckRIWERWX2FiaGMxcGluOUxYRlN3aXU3aHZFMHZRVkNOLWljMVlGWHpNS1lBazNiS2RNQjFWQzNUZWhxXzVzZTc0MWc"
     },
     {
       "title": "Hot Inflation Puts the Stock Market’s Autumn Rally to the Test - Barron's",
@@ -55,6 +63,14 @@
       "guid": "CBMikgFBVV95cUxQUXAxQVIzbUt1VUEweUtTc29naFRpeFg0YkJtRWpvbTVQUW1yMEp0UU10NmV1R2ZSbE5qSndaV0VwNEdONlVVVkRraUxmT1NlclNBcnJ4SUJYUEZ2emJIQkp1dVFOQlIyNU5JRVJwMFJrSnJKemlzOURjcHpXdmxnUzFJWUNtbENKM1BEa2x6YjN0UQ"
     },
     {
+      "title": "Tech sell-off rolls on as hot inflation data stokes rate worries - The Korea Times",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUkdtT2RiTk54T2VxbFF1NUtOYVBBbGFsX1FqRXJoZjdIdWN4R0VqNnJjcFdqUmpNYnlRZ0JVSFUwU21KZG1xVVl1ZDBIQW5ZLVpFTW5YNkNEdFVVQmVodHN2RHlFNmtxMEtkcFhYbDZfLUhIRkI3aVBKZHdfMTFtVTlCYUVFTjc3ZDBEdDg5Z25EOTJfLThRQUhpbXBkYkotU1VYZGZOQTFsUWVP0gGyAUFVX3lxTE5GU3pZeWNYSzgxbVFULWhMbG94THd5Y3dnQlZEMG5HV1dLTE1WdmREbXNQMElsTnZPckUtTFBxbnp5azhHWDFhckx1Y1B5a3pGdDh5UEhKcm4zdGNsR0UydTJPLTE5QXpJcndYU1VTckRIWERWX2FiaGMxcGluOUxYRlN3aXU3aHZFMHZRVkNOLWljMVlGWHpNS1lBazNiS2RNQjFWQzNUZWhxXzVzZTc0MWc?oc=5",
+      "source": "The Korea Times",
+      "published_at": "Thu, 15 Oct 2026 16:03:00 GMT",
+      "summary": "Tech sell-off rolls on as hot inflation data stokes rate worries The Korea Times",
+      "guid": "CBMirAFBVV95cUxNUkdtT2RiTk54T2VxbFF1NUtOYVBBbGFsX1FqRXJoZjdIdWN4R0VqNnJjcFdqUmpNYnlRZ0JVSFUwU21KZG1xVVl1ZDBIQW5ZLVpFTW5YNkNEdFVVQmVodHN2RHlFNmtxMEtkcFhYbDZfLUhIRkI3aVBKZHdfMTFtVTlCYUVFTjc3ZDBEdDg5Z25EOTJfLThRQUhpbXBkYkotU1VYZGZOQTFsUWVP0gGyAUFVX3lxTE5GU3pZeWNYSzgxbVFULWhMbG94THd5Y3dnQlZEMG5HV1dLTE1WdmREbXNQMElsTnZPckUtTFBxbnp5azhHWDFhckx1Y1B5a3pGdDh5UEhKcm4zdGNsR0UydTJPLTE5QXpJcndYU1VTckRIWERWX2FiaGMxcGluOUxYRlN3aXU3aHZFMHZRVkNOLWljMVlGWHpNS1lBazNiS2RNQjFWQzNUZWhxXzVzZTc0MWc"
+    },
+    {
       "title": "What’s Next for US Stocks After the Fed Rate Hike - Morningstar",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZko0WU1kUWFDbVBBaXdJT09qeTFSY000SVlCd3diMHFVMjNodUtGWFlBMUtkdmZSRmlmTnRmWXBYaGlpbHVpOTdyZHN2QjNMampxSTM3czM0VE5MMlk4OU1kVUFsUkZhMHBxYXJhbFlpNnQzLVgteXNySXplRkFDVVRHUHNha182TmJNUDRB?oc=5",
       "source": "Morningstar",
@@ -63,28 +79,12 @@
       "guid": "CBMijgFBVV95cUxOZko0WU1kUWFDbVBBaXdJT09qeTFSY000SVlCd3diMHFVMjNodUtGWFlBMUtkdmZSRmlmTnRmWXBYaGlpbHVpOTdyZHN2QjNMampxSTM3czM0VE5MMlk4OU1kVUFsUkZhMHBxYXJhbFlpNnQzLVgteXNySXplRkFDVVRHUHNha182TmJNUDRB"
     },
     {
-      "title": "Stock Market Investors Just Got a Warning From the Federal Reserve. History Says This Will Happen Next. - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSEtvRVM0WUFYTS1RTzN0MHBLeC1DVmc2TUhaZGVqOFhTZ0NFTUZxUWxLQlRvdEE0WXRZVHp2bDZwTVhQQ29teHFoUGp5cERScWl6UXFFMFRMVmlKOU8xbldPUHhaOGVPME5jV3dqeXZMSktHeTJhX3FYemtoLVlPNWRLQk1TZVNDU3BHcDJvTm41UzQwbzBqcVdsa18?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Sun, 06 Sep 2026 07:00:00 GMT",
-      "summary": "Stock Market Investors Just Got a Warning From the Federal Reserve. History Says This Will Happen Next. Yahoo Finance",
-      "guid": "CBMinAFBVV95cUxNSEtvRVM0WUFYTS1RTzN0MHBLeC1DVmc2TUhaZGVqOFhTZ0NFTUZxUWxLQlRvdEE0WXRZVHp2bDZwTVhQQ29teHFoUGp5cERScWl6UXFFMFRMVmlKOU8xbldPUHhaOGVPME5jV3dqeXZMSktHeTJhX3FYemtoLVlPNWRLQk1TZVNDU3BHcDJvTm41UzQwbzBqcVdsa18"
-    },
-    {
       "title": "U.S. stocks slip after the Fed raises interest rates, hints more hikes may be on the way - PBS",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQ0o4SEFnLXVuc0pFakhWQXNrNVdZOFBqTmZsR3dlMlFFZEluX2VWbEJPOGJkRkZ6a2tfaHZySVdpaVhYZk1aeGZFdjM2UExoOGMxc1BDbkcwUVFMaElEXzBUb2ItX1hmRVkxWjhHanJyV3ppMGJFcjhNY3BVYlZMNFVCemRaSW94Z1hBZy0yNmd3R29KMEppZThtNmxWaERxa3hfZzZ4WU5BV3AzN19xSTY0OEZwQmwzdGVSWC1SNNIBxAFBVV95cUxNQ3ZKZVFHbHpRSEo2cGs4RjlfMG1UdURsamh2Y3ExeEVkZzdmaGQ3OElrd0FpclpvUGQ1MFlKSHZ2VGFOc1hVN3ZmSVc4aGhIY3hvVm5UUlY0emc2bFNyU3ZGU0RFckhMekh6WE5FeklHLU9uUGZNOVZCQWJPdnctcTNJTmpTOGp0Q3ZVUjEzSWROc0V6VE1lY2hLLWNJWUlwTkEwQkJ1SVVtRlZrYlg5QUxoZEZFOFFzMXgwbkNPNzgzdlRa?oc=5",
       "source": "PBS",
       "published_at": "Wed, 16 Sep 2026 07:00:00 GMT",
       "summary": "U.S. stocks slip after the Fed raises interest rates, hints more hikes may be on the way PBS",
       "guid": "CBMivwFBVV95cUxPQ0o4SEFnLXVuc0pFakhWQXNrNVdZOFBqTmZsR3dlMlFFZEluX2VWbEJPOGJkRkZ6a2tfaHZySVdpaVhYZk1aeGZFdjM2UExoOGMxc1BDbkcwUVFMaElEXzBUb2ItX1hmRVkxWjhHanJyV3ppMGJFcjhNY3BVYlZMNFVCemRaSW94Z1hBZy0yNmd3R29KMEppZThtNmxWaERxa3hfZzZ4WU5BV3AzN19xSTY0OEZwQmwzdGVSWC1SNNIBxAFBVV95cUxNQ3ZKZVFHbHpRSEo2cGs4RjlfMG1UdURsamh2Y3ExeEVkZzdmaGQ3OElrd0FpclpvUGQ1MFlKSHZ2VGFOc1hVN3ZmSVc4aGhIY3hvVm5UUlY0emc2bFNyU3ZGU0RFckhMekh6WE5FeklHLU9uUGZNOVZCQWJPdnctcTNJTmpTOGp0Q3ZVUjEzSWROc0V6VE1lY2hLLWNJWUlwTkEwQkJ1SVVtRlZrYlg5QUxoZEZFOFFzMXgwbkNPNzgzdlRa"
-    },
-    {
-      "title": "Stock Market Hot Inflation Hits Tech: Explained - JournalArta",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZk1BN2s1UlhuZFNYMVhLU0J0a3YxQnZIeHZZbk8xc3NKaWRMX2J2REtIRFNUZmhUZXBnc04wRlliTVFKWm5HWXlCSHZrRVgwbXAzTFFRRFJ5dGxGN3J1dnhWZllxVW1qZEZPNFhVZHFyZWNzM0JNckFHcWJZNVlqUWVPdXBORDZaRkI0?oc=5",
-      "source": "JournalArta",
-      "published_at": "Thu, 15 Oct 2026 15:40:53 GMT",
-      "summary": "Stock Market Hot Inflation Hits Tech: Explained JournalArta",
-      "guid": "CBMiiwFBVV95cUxNZk1BN2s1UlhuZFNYMVhLU0J0a3YxQnZIeHZZbk8xc3NKaWRMX2J2REtIRFNUZmhUZXBnc04wRlliTVFKWm5HWXlCSHZrRVgwbXAzTFFRRFJ5dGxGN3J1dnhWZllxVW1qZEZPNFhVZHFyZWNzM0JNckFHcWJZNVlqUWVPdXBORDZaRkI0"
     }
   ]
 }
