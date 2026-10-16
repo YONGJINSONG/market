@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-10-16T05:59:04Z",
+  "generated_at": "2026-10-16T10:46:03Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "There's a 35% Chance That the Fed Hikes Rates at Least 4 Times by September 2027, Which Can Decimate the AI-Driven Bull Market - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZndPbWl4d21vYkhOQnpPRzJvc0RqNGczbHBLYkY4RmZGRzlOdWlTQ0tFYTJuZ3A2X0NxbnhlazVzTlh1VWNDSzlrcjdQZkU2dEhpVTBJWnVhZ2Y0bWV6a09xV2ExUXc4ZG5ZTnhiSVMzYS1lZzlvTExESVRGSTBJa1VDem9sclJYLXhYYW4xY0Nyd1NqMjZSZllwQ2E1SGU3T2EySXEzVm9URnlwVkI2MG5mLVVjc3VpeEFwMHcxajdSNmhNZUxMQUpraDdZb00?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Fri, 16 Oct 2026 08:23:38 GMT",
+      "summary": "There's a 35% Chance That the Fed Hikes Rates at Least 4 Times by September 2027, Which Can Decimate the AI-Driven Bull Market The Motley Fool",
+      "guid": "CBMizwFBVV95cUxPZndPbWl4d21vYkhOQnpPRzJvc0RqNGczbHBLYkY4RmZGRzlOdWlTQ0tFYTJuZ3A2X0NxbnhlazVzTlh1VWNDSzlrcjdQZkU2dEhpVTBJWnVhZ2Y0bWV6a09xV2ExUXc4ZG5ZTnhiSVMzYS1lZzlvTExESVRGSTBJa1VDem9sclJYLXhYYW4xY0Nyd1NqMjZSZllwQ2E1SGU3T2EySXEzVm9URnlwVkI2MG5mLVVjc3VpeEFwMHcxajdSNmhNZUxMQUpraDdZb00"
+    },
     {
       "title": "Investors Just Parked Nearly $8 Trillion in Cash. Is a Stock Market Crash Next? - 24/7 Wall St.",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcjlqRlY4SGNLZEhoblRLU3c5dEw5a1dTVEpPMTFNTmR6S3pGOXJBanFldVp3ekpqTUoyWVo2NnBwcElMNV81Zl9vcVRsX1o3V0oxTFpQY09wZGF0bjE1TFl3QUM4VjZLb09KSlQ2QnM1eGJiV3M1YkdKZmVwS1ZLUV9BamlvcUdWbzVMWmhMd2RFM3VuMm8xTnB2TmktNnZiaGlsTnlHOFNzMkt5OEZpdUlZQ1VNOWhxUF9XYg?oc=5",
@@ -47,22 +55,6 @@
       "guid": "CBMinAFBVV95cUxNSEtvRVM0WUFYTS1RTzN0MHBLeC1DVmc2TUhaZGVqOFhTZ0NFTUZxUWxLQlRvdEE0WXRZVHp2bDZwTVhQQ29teHFoUGp5cERScWl6UXFFMFRMVmlKOU8xbldPUHhaOGVPME5jV3dqeXZMSktHeTJhX3FYemtoLVlPNWRLQk1TZVNDU3BHcDJvTm41UzQwbzBqcVdsa18"
     },
     {
-      "title": "US stocks drop as inflation worsens, raising chances of Fed interest hike - South China Morning Post",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPN3JUalVQMC1qeUdqZm0tVDh4ZjNEdzhjdDNkZ1ltQW41SGxxQkdhVkFCZFFXWklBUXFJbGI2Y2l3dEFwY1VkZEs1VlJXN3JrQXA4QzBYVWU2MTlpRUdFenJRQ01XcjZTcm1iVHdTSS1aSG1BZVU4NW93NHNDTjRCMnk5V3lwY1B6VmVUMFRYX0lNbU45SkwtUzR1akIwMjhCS1U2RGpCRDFSZTZNOGhwblRGdG9EbFl0MnNfc2FVb9IBvwFBVV95cUxNc2NUSlcwVy1jVE9LSTB1TF92Nmd2NEpESjNydkpzUlJCUlRpd3dVTkxDN0MyWTVwM0JPWUlpSm5FWGRQRllTZ1BrMGZTa3RkZ19QWkxrV0xCR3pHSDU5OTZSZGJIaFgyWFo0Sjd6S2tpdVVKbEp4d1BnRDJ4M3dib2RsWXNXWWxTX0FLUWYtR3ZBbEwzUXM5SFo0Y0J2NUxjUFV3cUR2V3FZUXJWZlFVdDFLZk00LWlGZFJIUHhmcw?oc=5",
-      "source": "South China Morning Post",
-      "published_at": "Wed, 14 Oct 2026 21:03:28 GMT",
-      "summary": "US stocks drop as inflation worsens, raising chances of Fed interest hike South China Morning Post",
-      "guid": "CBMivwFBVV95cUxPN3JUalVQMC1qeUdqZm0tVDh4ZjNEdzhjdDNkZ1ltQW41SGxxQkdhVkFCZFFXWklBUXFJbGI2Y2l3dEFwY1VkZEs1VlJXN3JrQXA4QzBYVWU2MTlpRUdFenJRQ01XcjZTcm1iVHdTSS1aSG1BZVU4NW93NHNDTjRCMnk5V3lwY1B6VmVUMFRYX0lNbU45SkwtUzR1akIwMjhCS1U2RGpCRDFSZTZNOGhwblRGdG9EbFl0MnNfc2FVb9IBvwFBVV95cUxNc2NUSlcwVy1jVE9LSTB1TF92Nmd2NEpESjNydkpzUlJCUlRpd3dVTkxDN0MyWTVwM0JPWUlpSm5FWGRQRllTZ1BrMGZTa3RkZ19QWkxrV0xCR3pHSDU5OTZSZGJIaFgyWFo0Sjd6S2tpdVVKbEp4d1BnRDJ4M3dib2RsWXNXWWxTX0FLUWYtR3ZBbEwzUXM5SFo0Y0J2NUxjUFV3cUR2V3FZUXJWZlFVdDFLZk00LWlGZFJIUHhmcw"
-    },
-    {
-      "title": "Tech sell-off rolls on as hot inflation data stokes rate worries - The Korea Times",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUkdtT2RiTk54T2VxbFF1NUtOYVBBbGFsX1FqRXJoZjdIdWN4R0VqNnJjcFdqUmpNYnlRZ0JVSFUwU21KZG1xVVl1ZDBIQW5ZLVpFTW5YNkNEdFVVQmVodHN2RHlFNmtxMEtkcFhYbDZfLUhIRkI3aVBKZHdfMTFtVTlCYUVFTjc3ZDBEdDg5Z25EOTJfLThRQUhpbXBkYkotU1VYZGZOQTFsUWVP0gGyAUFVX3lxTE5GU3pZeWNYSzgxbVFULWhMbG94THd5Y3dnQlZEMG5HV1dLTE1WdmREbXNQMElsTnZPckUtTFBxbnp5azhHWDFhckx1Y1B5a3pGdDh5UEhKcm4zdGNsR0UydTJPLTE5QXpJcndYU1VTckRIWERWX2FiaGMxcGluOUxYRlN3aXU3aHZFMHZRVkNOLWljMVlGWHpNS1lBazNiS2RNQjFWQzNUZWhxXzVzZTc0MWc?oc=5",
-      "source": "The Korea Times",
-      "published_at": "Thu, 15 Oct 2026 16:03:00 GMT",
-      "summary": "Tech sell-off rolls on as hot inflation data stokes rate worries The Korea Times",
-      "guid": "CBMirAFBVV95cUxNUkdtT2RiTk54T2VxbFF1NUtOYVBBbGFsX1FqRXJoZjdIdWN4R0VqNnJjcFdqUmpNYnlRZ0JVSFUwU21KZG1xVVl1ZDBIQW5ZLVpFTW5YNkNEdFVVQmVodHN2RHlFNmtxMEtkcFhYbDZfLUhIRkI3aVBKZHdfMTFtVTlCYUVFTjc3ZDBEdDg5Z25EOTJfLThRQUhpbXBkYkotU1VYZGZOQTFsUWVP0gGyAUFVX3lxTE5GU3pZeWNYSzgxbVFULWhMbG94THd5Y3dnQlZEMG5HV1dLTE1WdmREbXNQMElsTnZPckUtTFBxbnp5azhHWDFhckx1Y1B5a3pGdDh5UEhKcm4zdGNsR0UydTJPLTE5QXpJcndYU1VTckRIWERWX2FiaGMxcGluOUxYRlN3aXU3aHZFMHZRVkNOLWljMVlGWHpNS1lBazNiS2RNQjFWQzNUZWhxXzVzZTc0MWc"
-    },
-    {
       "title": "U.S. stocks slip after the Fed raises interest rates, hints more hikes may be on the way - PBS",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQ0o4SEFnLXVuc0pFakhWQXNrNVdZOFBqTmZsR3dlMlFFZEluX2VWbEJPOGJkRkZ6a2tfaHZySVdpaVhYZk1aeGZFdjM2UExoOGMxc1BDbkcwUVFMaElEXzBUb2ItX1hmRVkxWjhHanJyV3ppMGJFcjhNY3BVYlZMNFVCemRaSW94Z1hBZy0yNmd3R29KMEppZThtNmxWaERxa3hfZzZ4WU5BV3AzN19xSTY0OEZwQmwzdGVSWC1SNNIBxAFBVV95cUxNQ3ZKZVFHbHpRSEo2cGs4RjlfMG1UdURsamh2Y3ExeEVkZzdmaGQ3OElrd0FpclpvUGQ1MFlKSHZ2VGFOc1hVN3ZmSVc4aGhIY3hvVm5UUlY0emc2bFNyU3ZGU0RFckhMekh6WE5FeklHLU9uUGZNOVZCQWJPdnctcTNJTmpTOGp0Q3ZVUjEzSWROc0V6VE1lY2hLLWNJWUlwTkEwQkJ1SVVtRlZrYlg5QUxoZEZFOFFzMXgwbkNPNzgzdlRa?oc=5",
       "source": "PBS",
@@ -85,6 +77,14 @@
       "published_at": "Fri, 17 Jul 2026 06:37:05 GMT",
       "summary": "Recent Economic and Financial Developments Federal Reserve (.gov)",
       "guid": "CBMidkFVX3lxTE9KWEN6M3VsdUJpS3YyUzBfc0JpcHhrY3J4LXhhUE90UkdqS1N1OWxCZGw1cWxveExZZ1RfM0dXM1pNMk9HRVctTGNBM2xrQ2Npbjl5OFJkQV9sajMxWHhQSGpXSzNfcGppZDhEaHFraFhUZ0puWFE"
+    },
+    {
+      "title": "Stock market returns after Fed hikes, holds and cuts: What history shows ahead of the September 2026 meeting - Chase Bank",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZk5DYnRUeXFDbWpLeTI5QjFLdWNjdjV6YWNvRW1KZ2hCNlRKV1djZk1nb1RYMlJPeHFGUGh4MVY0OW1BblFCQlBENkhnZEtfOVVzMExORC12YVVPVHZubnRuUC1xTWNLU1YxcVJkZGY1WWNhb01BRFlSUFZNNjNrRUxCUGZtdk5SdnN6a21KVmozMy1IWk5fMVk5M2tKa3E4LVM3QVpOd2N2WWQzVmpzU1VMNmZCOGo1OHFBWllnZVp6N3ZyaDktUFZoRF9nTy00Z3pWd0dFNUtCNE9uM3IwZFdWUGFyM216Yzlnang1Zw?oc=5",
+      "source": "Chase Bank",
+      "published_at": "Mon, 14 Sep 2026 07:00:00 GMT",
+      "summary": "Stock market returns after Fed hikes, holds and cuts: What history shows ahead of the September 2026 meeting Chase Bank",
+      "guid": "CBMi7wFBVV95cUxNZk5DYnRUeXFDbWpLeTI5QjFLdWNjdjV6YWNvRW1KZ2hCNlRKV1djZk1nb1RYMlJPeHFGUGh4MVY0OW1BblFCQlBENkhnZEtfOVVzMExORC12YVVPVHZubnRuUC1xTWNLU1YxcVJkZGY1WWNhb01BRFlSUFZNNjNrRUxCUGZtdk5SdnN6a21KVmozMy1IWk5fMVk5M2tKa3E4LVM3QVpOd2N2WWQzVmpzU1VMNmZCOGo1OHFBWllnZVp6N3ZyaDktUFZoRF9nTy00Z3pWd0dFNUtCNE9uM3IwZFdWUGFyM216Yzlnang1Zw"
     }
   ]
 }
