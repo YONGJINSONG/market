@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-10-17T00:00:56Z",
+  "generated_at": "2026-10-17T04:18:04Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "A hidden risk appears to be building up in the markets. No one knows exactly what it means - CNN",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vU2VmSTB3cGpxdUU2Z29lRnFBQkFFTU5EOFJ2bGRydVp0T2NlVjNWeS1ieUlOamt1ZXJKQ1g3RTl1aFBzQVlPcVpFM1FhN2tkUllZeHhDeGk5UF90eW5jbVd0c1FjUUdNejAzWGZCeFZXY2JNVUFvZEVLVkwxUWs?oc=5",
+      "source": "CNN",
+      "published_at": "Fri, 16 Oct 2026 09:00:45 GMT",
+      "summary": "A hidden risk appears to be building up in the markets. No one knows exactly what it means CNN",
+      "guid": "CBMif0FVX3lxTE5vU2VmSTB3cGpxdUU2Z29lRnFBQkFFTU5EOFJ2bGRydVp0T2NlVjNWeS1ieUlOamt1ZXJKQ1g3RTl1aFBzQVlPcVpFM1FhN2tkUllZeHhDeGk5UF90eW5jbVd0c1FjUUdNejAzWGZCeFZXY2JNVUFvZEVLVkwxUWs"
+    },
     {
       "title": "Bank of America Flags Major Warning for Stock Market - TradingView",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMWxMeXVneHdRUHhOd2pfYWVzUl9MT05KV1JxekhxSjVRWXdJejBPZnhlWEtPZV9VdUtTSjg5TTR0ZWFkSFNvMHRBaVMzTWdFZm5EWVQ4VkNRakhLWENsbFpzSk91TmNsYmVmSTd1d2pqQm5aMXQydVgtYnJST3JTZXlFaXJ3RVRhZ1ppV2UxU0FyTEh3eUsybG80Y01QSFlxNVZaQ1JRWkFUakloZ0hWaUFR?oc=5",
@@ -39,12 +47,12 @@
       "guid": "CBMipAFBVV95cUxPRmR3cTBOOVhRdHBUaGJ0Z0lBY09RNlFCRm9nSkl3bVpTM3lzN3pMTTlZVVJvdnFyT3FzQXZUZ0NLWXUzbGtLQnRFaFlWNmVNUHJnbHcwbjEwbDBvTG1sQkIzdUN4a3d4RW5VcjlKeVhRSUh4TTJXdW92NkE2eDNVTGJOdlBnZHEyQVpVWnIyMk9EQnBEd1l5SjNnREtobGw5bkRGVw"
     },
     {
-      "title": "There's a 35% Chance That the Fed Hikes Rates at Least 4 Times by September 2027, Which Can Decimate the AI-Driven Bull Market - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZndPbWl4d21vYkhOQnpPRzJvc0RqNGczbHBLYkY4RmZGRzlOdWlTQ0tFYTJuZ3A2X0NxbnhlazVzTlh1VWNDSzlrcjdQZkU2dEhpVTBJWnVhZ2Y0bWV6a09xV2ExUXc4ZG5ZTnhiSVMzYS1lZzlvTExESVRGSTBJa1VDem9sclJYLXhYYW4xY0Nyd1NqMjZSZllwQ2E1SGU3T2EySXEzVm9URnlwVkI2MG5mLVVjc3VpeEFwMHcxajdSNmhNZUxMQUpraDdZb00?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Fri, 16 Oct 2026 09:06:00 GMT",
-      "summary": "There's a 35% Chance That the Fed Hikes Rates at Least 4 Times by September 2027, Which Can Decimate the AI-Driven Bull Market The Motley Fool",
-      "guid": "CBMizwFBVV95cUxPZndPbWl4d21vYkhOQnpPRzJvc0RqNGczbHBLYkY4RmZGRzlOdWlTQ0tFYTJuZ3A2X0NxbnhlazVzTlh1VWNDSzlrcjdQZkU2dEhpVTBJWnVhZ2Y0bWV6a09xV2ExUXc4ZG5ZTnhiSVMzYS1lZzlvTExESVRGSTBJa1VDem9sclJYLXhYYW4xY0Nyd1NqMjZSZllwQ2E1SGU3T2EySXEzVm9URnlwVkI2MG5mLVVjc3VpeEFwMHcxajdSNmhNZUxMQUpraDdZb00"
+      "title": "Where Is the Stock Market Heading in the Final Months of 2026? - Barchart.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRlk2WW05Z2JVWHYtUUpRbWRlaUpmeW4ydDlDVXBNdGdNSnVzQm5xanViUXJCeFNTYUdETi1qbnFHSEE5S2lKT1kxb2lJU3dLcUtGX2pLUmV5bDN0YmRjaUJES2pSV3dyNmtCNVduODFBcW9OZkU1My1UVnhqTXQxWXBFZ25WZGlVSWlOQk8zSDV3UEo5cWdtOGpSLUN4TW1IOWc3MHdhRlM?oc=5",
+      "source": "Barchart.com",
+      "published_at": "Fri, 16 Oct 2026 15:55:12 GMT",
+      "summary": "Where Is the Stock Market Heading in the Final Months of 2026? Barchart.com",
+      "guid": "CBMiqAFBVV95cUxQRlk2WW05Z2JVWHYtUUpRbWRlaUpmeW4ydDlDVXBNdGdNSnVzQm5xanViUXJCeFNTYUdETi1qbnFHSEE5S2lKT1kxb2lJU3dLcUtGX2pLUmV5bDN0YmRjaUJES2pSV3dyNmtCNVduODFBcW9OZkU1My1UVnhqTXQxWXBFZ25WZGlVSWlOQk8zSDV3UEo5cWdtOGpSLUN4TW1IOWc3MHdhRlM"
     },
     {
       "title": "Nasdaq ends sharply lower as hot inflation data stirs rate-hike worries - Yahoo Finance",
@@ -53,6 +61,14 @@
       "published_at": "Wed, 14 Oct 2026 20:41:25 GMT",
       "summary": "Nasdaq ends sharply lower as hot inflation data stirs rate-hike worries Yahoo Finance",
       "guid": "CBMikAFBVV95cUxOaDBmaW4tZmgyRnVGRWhpV0tQYlpic3Y2a1gyRm53Z1hFTXhRRWN5ZGNyb0laZjZHZ0hGd2piUkxiOUg1aWJoODB2X3N6d0Rwb3NkSjV6cGR0eDZ5dkJLOW9qanEtY0JINksxdnVBdDliZTlvU2R2WWwza0NQclNTWTFUSGtjQUE3a1NKTUFpYWs"
+    },
+    {
+      "title": "There's a 35% Chance That the Fed Hikes Rates at Least 4 Times by September 2027, Which Can Decimate the AI-Driven Bull Market - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZndPbWl4d21vYkhOQnpPRzJvc0RqNGczbHBLYkY4RmZGRzlOdWlTQ0tFYTJuZ3A2X0NxbnhlazVzTlh1VWNDSzlrcjdQZkU2dEhpVTBJWnVhZ2Y0bWV6a09xV2ExUXc4ZG5ZTnhiSVMzYS1lZzlvTExESVRGSTBJa1VDem9sclJYLXhYYW4xY0Nyd1NqMjZSZllwQ2E1SGU3T2EySXEzVm9URnlwVkI2MG5mLVVjc3VpeEFwMHcxajdSNmhNZUxMQUpraDdZb00?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Fri, 16 Oct 2026 09:06:00 GMT",
+      "summary": "There's a 35% Chance That the Fed Hikes Rates at Least 4 Times by September 2027, Which Can Decimate the AI-Driven Bull Market The Motley Fool",
+      "guid": "CBMizwFBVV95cUxPZndPbWl4d21vYkhOQnpPRzJvc0RqNGczbHBLYkY4RmZGRzlOdWlTQ0tFYTJuZ3A2X0NxbnhlazVzTlh1VWNDSzlrcjdQZkU2dEhpVTBJWnVhZ2Y0bWV6a09xV2ExUXc4ZG5ZTnhiSVMzYS1lZzlvTExESVRGSTBJa1VDem9sclJYLXhYYW4xY0Nyd1NqMjZSZllwQ2E1SGU3T2EySXEzVm9URnlwVkI2MG5mLVVjc3VpeEFwMHcxajdSNmhNZUxMQUpraDdZb00"
     },
     {
       "title": "What’s Next for US Stocks After the Fed Rate Hike - Morningstar",
@@ -69,22 +85,6 @@
       "published_at": "Wed, 14 Oct 2026 12:31:19 GMT",
       "summary": "Consumer prices rose 3.7% annually in September as gas prices skyrocket CNBC",
       "guid": "CBMifEFVX3lxTE1IZEUyWDE5aTVyU1VTMEhhNW9LV3pZdUkwcFI4WVlIOEhHUzBmUTZGbUlWTDVfN05zdzhFTlR4RERqUHROMDJ2T3dCN2I0UDI2dmZhOTBVTVRIYVlIYjRKQ2RZcjdNQWdWTTkyV0owQU1Xekt4U2ZHUFc4NnPSAYIBQVVfeXFMT3U1UnZTdHN4U2tIM1lZcHlGRGZLUXNaYjhDTHl4bllqdzY3ek9XYl9ZdzNBaUdJQjNndF9HSm1yci15X3ZnMEdaazNzMjVTZ204TzJ1cFJEOE81bUF0RFBJWTR6RWF2YU9BWm1PMnhTVGNWVnc5bkxNWlRpT0RuU2t2Zw"
-    },
-    {
-      "title": "Investors Just Parked Nearly $8 Trillion in Cash. Is a Stock Market Crash Next? - 24/7 Wall St.",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcjlqRlY4SGNLZEhoblRLU3c5dEw5a1dTVEpPMTFNTmR6S3pGOXJBanFldVp3ekpqTUoyWVo2NnBwcElMNV81Zl9vcVRsX1o3V0oxTFpQY09wZGF0bjE1TFl3QUM4VjZLb09KSlQ2QnM1eGJiV3M1YkdKZmVwS1ZLUV9BamlvcUdWbzVMWmhMd2RFM3VuMm8xTnB2TmktNnZiaGlsTnlHOFNzMkt5OEZpdUlZQ1VNOWhxUF9XYg?oc=5",
-      "source": "24/7 Wall St.",
-      "published_at": "Thu, 15 Oct 2026 16:00:00 GMT",
-      "summary": "Investors Just Parked Nearly $8 Trillion in Cash. Is a Stock Market Crash Next? 24/7 Wall St.",
-      "guid": "CBMivAFBVV95cUxNcjlqRlY4SGNLZEhoblRLU3c5dEw5a1dTVEpPMTFNTmR6S3pGOXJBanFldVp3ekpqTUoyWVo2NnBwcElMNV81Zl9vcVRsX1o3V0oxTFpQY09wZGF0bjE1TFl3QUM4VjZLb09KSlQ2QnM1eGJiV3M1YkdKZmVwS1ZLUV9BamlvcUdWbzVMWmhMd2RFM3VuMm8xTnB2TmktNnZiaGlsTnlHOFNzMkt5OEZpdUlZQ1VNOWhxUF9XYg"
-    },
-    {
-      "title": "U.S. stocks slip after the Fed raises interest rates, hints more hikes may be on the way - PBS",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQ0o4SEFnLXVuc0pFakhWQXNrNVdZOFBqTmZsR3dlMlFFZEluX2VWbEJPOGJkRkZ6a2tfaHZySVdpaVhYZk1aeGZFdjM2UExoOGMxc1BDbkcwUVFMaElEXzBUb2ItX1hmRVkxWjhHanJyV3ppMGJFcjhNY3BVYlZMNFVCemRaSW94Z1hBZy0yNmd3R29KMEppZThtNmxWaERxa3hfZzZ4WU5BV3AzN19xSTY0OEZwQmwzdGVSWC1SNNIBxAFBVV95cUxNQ3ZKZVFHbHpRSEo2cGs4RjlfMG1UdURsamh2Y3ExeEVkZzdmaGQ3OElrd0FpclpvUGQ1MFlKSHZ2VGFOc1hVN3ZmSVc4aGhIY3hvVm5UUlY0emc2bFNyU3ZGU0RFckhMekh6WE5FeklHLU9uUGZNOVZCQWJPdnctcTNJTmpTOGp0Q3ZVUjEzSWROc0V6VE1lY2hLLWNJWUlwTkEwQkJ1SVVtRlZrYlg5QUxoZEZFOFFzMXgwbkNPNzgzdlRa?oc=5",
-      "source": "PBS",
-      "published_at": "Wed, 16 Sep 2026 07:00:00 GMT",
-      "summary": "U.S. stocks slip after the Fed raises interest rates, hints more hikes may be on the way PBS",
-      "guid": "CBMivwFBVV95cUxPQ0o4SEFnLXVuc0pFakhWQXNrNVdZOFBqTmZsR3dlMlFFZEluX2VWbEJPOGJkRkZ6a2tfaHZySVdpaVhYZk1aeGZFdjM2UExoOGMxc1BDbkcwUVFMaElEXzBUb2ItX1hmRVkxWjhHanJyV3ppMGJFcjhNY3BVYlZMNFVCemRaSW94Z1hBZy0yNmd3R29KMEppZThtNmxWaERxa3hfZzZ4WU5BV3AzN19xSTY0OEZwQmwzdGVSWC1SNNIBxAFBVV95cUxNQ3ZKZVFHbHpRSEo2cGs4RjlfMG1UdURsamh2Y3ExeEVkZzdmaGQ3OElrd0FpclpvUGQ1MFlKSHZ2VGFOc1hVN3ZmSVc4aGhIY3hvVm5UUlY0emc2bFNyU3ZGU0RFckhMekh6WE5FeklHLU9uUGZNOVZCQWJPdnctcTNJTmpTOGp0Q3ZVUjEzSWROc0V6VE1lY2hLLWNJWUlwTkEwQkJ1SVVtRlZrYlg5QUxoZEZFOFFzMXgwbkNPNzgzdlRa"
     }
   ]
 }
