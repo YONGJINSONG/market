@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T15:45:38Z",
+  "generated_at": "2026-10-17T18:00:58Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -18,17 +18,9 @@
       "title": "Former Fed Chair Jerome Powell's 6-Word Warning Echoes Louder Than Ever -- and It Should Rightly Terrify Wall Street - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUkhETVdBSXNuQlJ0YUEzN2RjQ2M3YjlGVzhCdG1wMXpuRmVrMDJvenhvX2xhQkZ6cmdDbk11SEpmekdlZmYtRndWaUFUOW0wZEUwTjlVQmhvVlpKU3NLRXdWamJ3NzV4TjhPQkxkbXhpcDhUWVBwQ0dQN1lzVlpuaG1fNmRvaC10MWRZa1FaWVZsYWN2MktOakxPQjh5b29ydUhKTENiczFONWd0Uk9LaG9haGd0dFpWQm5LdWtYQ2VPVWhORVRF?oc=5",
       "source": "The Motley Fool",
-      "published_at": "Sat, 17 Oct 2026 13:18:38 GMT",
+      "published_at": "Sat, 17 Oct 2026 14:06:00 GMT",
       "summary": "Former Fed Chair Jerome Powell's 6-Word Warning Echoes Louder Than Ever -- and It Should Rightly Terrify Wall Street The Motley Fool",
       "guid": "CBMixwFBVV95cUxPUkhETVdBSXNuQlJ0YUEzN2RjQ2M3YjlGVzhCdG1wMXpuRmVrMDJvenhvX2xhQkZ6cmdDbk11SEpmekdlZmYtRndWaUFUOW0wZEUwTjlVQmhvVlpKU3NLRXdWamJ3NzV4TjhPQkxkbXhpcDhUWVBwQ0dQN1lzVlpuaG1fNmRvaC10MWRZa1FaWVZsYWN2MktOakxPQjh5b29ydUhKTENiczFONWd0Uk9LaG9haGd0dFpWQm5LdWtYQ2VPVWhORVRF"
-    },
-    {
-      "title": "Bank of America Flags Major Warning for Stock Market - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMWxMeXVneHdRUHhOd2pfYWVzUl9MT05KV1JxekhxSjVRWXdJejBPZnhlWEtPZV9VdUtTSjg5TTR0ZWFkSFNvMHRBaVMzTWdFZm5EWVQ4VkNRakhLWENsbFpzSk91TmNsYmVmSTd1d2pqQm5aMXQydVgtYnJST3JTZXlFaXJ3RVRhZ1ppV2UxU0FyTEh3eUsybG80Y01QSFlxNVZaQ1JRWkFUakloZ0hWaUFR?oc=5",
-      "source": "TradingView",
-      "published_at": "Fri, 16 Oct 2026 20:27:50 GMT",
-      "summary": "Bank of America Flags Major Warning for Stock Market TradingView",
-      "guid": "CBMisgFBVV95cUxPMWxMeXVneHdRUHhOd2pfYWVzUl9MT05KV1JxekhxSjVRWXdJejBPZnhlWEtPZV9VdUtTSjg5TTR0ZWFkSFNvMHRBaVMzTWdFZm5EWVQ4VkNRakhLWENsbFpzSk91TmNsYmVmSTd1d2pqQm5aMXQydVgtYnJST3JTZXlFaXJ3RVRhZ1ppV2UxU0FyTEh3eUsybG80Y01QSFlxNVZaQ1JRWkFUakloZ0hWaUFR"
     },
     {
       "title": "Fed rate hike cycles have a history of denting US stock prices - Reuters",
@@ -39,20 +31,28 @@
       "guid": "CBMipAFBVV95cUxPRmR3cTBOOVhRdHBUaGJ0Z0lBY09RNlFCRm9nSkl3bVpTM3lzN3pMTTlZVVJvdnFyT3FzQXZUZ0NLWXUzbGtLQnRFaFlWNmVNUHJnbHcwbjEwbDBvTG1sQkIzdUN4a3d4RW5VcjlKeVhRSUh4TTJXdW92NkE2eDNVTGJOdlBnZHEyQVpVWnIyMk9EQnBEd1l5SjNnREtobGw5bkRGVw"
     },
     {
+      "title": "Bank of America Flags Major Warning for Stock Market - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMWxMeXVneHdRUHhOd2pfYWVzUl9MT05KV1JxekhxSjVRWXdJejBPZnhlWEtPZV9VdUtTSjg5TTR0ZWFkSFNvMHRBaVMzTWdFZm5EWVQ4VkNRakhLWENsbFpzSk91TmNsYmVmSTd1d2pqQm5aMXQydVgtYnJST3JTZXlFaXJ3RVRhZ1ppV2UxU0FyTEh3eUsybG80Y01QSFlxNVZaQ1JRWkFUakloZ0hWaUFR?oc=5",
+      "source": "TradingView",
+      "published_at": "Fri, 16 Oct 2026 20:27:50 GMT",
+      "summary": "Bank of America Flags Major Warning for Stock Market TradingView",
+      "guid": "CBMisgFBVV95cUxPMWxMeXVneHdRUHhOd2pfYWVzUl9MT05KV1JxekhxSjVRWXdJejBPZnhlWEtPZV9VdUtTSjg5TTR0ZWFkSFNvMHRBaVMzTWdFZm5EWVQ4VkNRakhLWENsbFpzSk91TmNsYmVmSTd1d2pqQm5aMXQydVgtYnJST3JTZXlFaXJ3RVRhZ1ppV2UxU0FyTEh3eUsybG80Y01QSFlxNVZaQ1JRWkFUakloZ0hWaUFR"
+    },
+    {
+      "title": "What the Fed Warning Means for Stock Market Investors Based on Historical Trends - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOWJjdm5YYXNoSGN6anRERXJ5cWdlcnVPZnpqdmpNa3E0N2V3QjNUSzNXQnB4U0FTZ3BhdlNDMDFUVDhBY05iNVF5dGM0ejlmMmhYeGotb3ZFNHZzenlXNWxpMmpIbUtMZEMtYWg5eWRpa1ZmbDNWcDZ4dXN3R0VCcjFlZURuTmlGbkpsb2NDcDBkTWtjMm1IeXFfSQ?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Mon, 12 Oct 2026 10:05:00 GMT",
+      "summary": "What the Fed Warning Means for Stock Market Investors Based on Historical Trends Yahoo Finance",
+      "guid": "CBMimwFBVV95cUxPOWJjdm5YYXNoSGN6anRERXJ5cWdlcnVPZnpqdmpNa3E0N2V3QjNUSzNXQnB4U0FTZ3BhdlNDMDFUVDhBY05iNVF5dGM0ejlmMmhYeGotb3ZFNHZzenlXNWxpMmpIbUtMZEMtYWg5eWRpa1ZmbDNWcDZ4dXN3R0VCcjFlZURuTmlGbkpsb2NDcDBkTWtjMm1IeXFfSQ"
+    },
+    {
       "title": "U.S. Stock Market Preview | The Federal Reserve's special task force will hold a hearing on AI in November, while Warsh has bolstered market expectations that the Fed will hold steady in October; the three major index futures are mixed. The Roadster is slated - 富途牛牛",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNGVoeVZBaWhBQTFyWWZ5Ry13ZHIxYk10MGVMWW9SQzd3c056LVNIRXUxWEpkZDh5OWZmRnRXdV9PWERRNWhwSzA3VjNJZmptWkJMX3hxZFB1N0V5bFl3VGxadWg5YzhwRzNjcDVBRXVUWHhqNndHZ01jWTNYZkN0X0J3MWtMcnRXcEowQS12WDl6NnVGVG14LUtjMXdTY0ljWklZ?oc=5",
       "source": "富途牛牛",
       "published_at": "Fri, 16 Oct 2026 12:22:03 GMT",
       "summary": "U.S. Stock Market Preview | The Federal Reserve's special task force will hold a hearing on AI in November, while Warsh has bolstered market expectations that the Fed will hold steady in October; the three major index futures are mixed. The Roadster is slated 富途牛牛",
       "guid": "CBMiowFBVV95cUxPNGVoeVZBaWhBQTFyWWZ5Ry13ZHIxYk10MGVMWW9SQzd3c056LVNIRXUxWEpkZDh5OWZmRnRXdV9PWERRNWhwSzA3VjNJZmptWkJMX3hxZFB1N0V5bFl3VGxadWg5YzhwRzNjcDVBRXVUWHhqNndHZ01jWTNYZkN0X0J3MWtMcnRXcEowQS12WDl6NnVGVG14LUtjMXdTY0ljWklZ"
-    },
-    {
-      "title": "Nasdaq ends sharply lower as hot inflation data stirs rate-hike worries - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaDBmaW4tZmgyRnVGRWhpV0tQYlpic3Y2a1gyRm53Z1hFTXhRRWN5ZGNyb0laZjZHZ0hGd2piUkxiOUg1aWJoODB2X3N6d0Rwb3NkSjV6cGR0eDZ5dkJLOW9qanEtY0JINksxdnVBdDliZTlvU2R2WWwza0NQclNTWTFUSGtjQUE3a1NKTUFpYWs?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Wed, 14 Oct 2026 20:41:25 GMT",
-      "summary": "Nasdaq ends sharply lower as hot inflation data stirs rate-hike worries Yahoo Finance",
-      "guid": "CBMikAFBVV95cUxOaDBmaW4tZmgyRnVGRWhpV0tQYlpic3Y2a1gyRm53Z1hFTXhRRWN5ZGNyb0laZjZHZ0hGd2piUkxiOUg1aWJoODB2X3N6d0Rwb3NkSjV6cGR0eDZ5dkJLOW9qanEtY0JINksxdnVBdDliZTlvU2R2WWwza0NQclNTWTFUSGtjQUE3a1NKTUFpYWs"
     },
     {
       "title": "What’s Next for US Stocks After the Fed Rate Hike - Morningstar",
