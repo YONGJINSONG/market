@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T15:21:17Z",
+  "generated_at": "2026-10-23T19:21:58Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -31,20 +31,12 @@
       "guid": "CBMiXkFVX3lxTE9PTFlSb0pFZlhLVGJyWmdTdHFESkVJYzVOWmVjYk5rc1ZoeUI4SThPbnE5NGc1VF80clhua192WGtxcW9iMTJITmtad2llWU8tZHdFTGxla3BnVWlHZ0E"
     },
     {
-      "title": "Fed sees AI boom adding to inflation headache, but others may pay for the medicine - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbWZLVGpmVmN6M1o1UUJnRXhSMmVWdjY2Mm4tR0IyeXk0OHZzOVRPamx6eEdEVjhEUHVXMlkzeFhoWkg4Qnl0a3lYQ0xJdWNzVHcydDA0NFdVb0ctbEVoMExGek50RHoxWF9TRThVMXRENDhWV2RUbVRGOVhvOEtoTmlTS1NlZGk0UldmSEY4N0tRVVRBeWc5SmJqRGlaVWwzeHRPa1hHZDNHZ3UxUjhwZHBGQXo0YlIw?oc=5",
-      "source": "Reuters",
-      "published_at": "Mon, 19 Oct 2026 18:39:36 GMT",
-      "summary": "Fed sees AI boom adding to inflation headache, but others may pay for the medicine Reuters",
-      "guid": "CBMiuAFBVV95cUxQbWZLVGpmVmN6M1o1UUJnRXhSMmVWdjY2Mm4tR0IyeXk0OHZzOVRPamx6eEdEVjhEUHVXMlkzeFhoWkg4Qnl0a3lYQ0xJdWNzVHcydDA0NFdVb0ctbEVoMExGek50RHoxWF9TRThVMXRENDhWV2RUbVRGOVhvOEtoTmlTS1NlZGk0UldmSEY4N0tRVVRBeWc5SmJqRGlaVWwzeHRPa1hHZDNHZ3UxUjhwZHBGQXo0YlIw"
-    },
-    {
-      "title": "Going low-risk in your portfolio is riskier than you think - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNnZWTzNHN1kzdk5qV2xCa3FoeUdyNnhEam9lUjh1dXl1THpCQmlnOWIxTTBNR1FDQlc2UHNZbmNIREx6aEFJcUpHb0pPZzVmMGttb3ZQUVdSbTFCRzdJRGZpWHN0Nzk1THJmWHBRTzI0djdob3c2WGpxMW40U3VqZmxWcnVvOWc?oc=5",
-      "source": "The Washington Post",
-      "published_at": "Wed, 21 Oct 2026 16:00:00 GMT",
-      "summary": "Going low-risk in your portfolio is riskier than you think The Washington Post",
-      "guid": "CBMihwFBVV95cUxQNnZWTzNHN1kzdk5qV2xCa3FoeUdyNnhEam9lUjh1dXl1THpCQmlnOWIxTTBNR1FDQlc2UHNZbmNIREx6aEFJcUpHb0pPZzVmMGttb3ZQUVdSbTFCRzdJRGZpWHN0Nzk1THJmWHBRTzI0djdob3c2WGpxMW40U3VqZmxWcnVvOWc"
+      "title": "Why Bonds Stumbled and Stocks (Mostly) Stood Strong in Q3, and What Lies Ahead for Investors - Morningstar",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeVR1TUhVU1ljYTZjSVFvR0EzVjdYQWNfZEgwUGtQSi1IVkgzWWp2SFo1NWxsRTRGdTJuXzdFV1U2R1FLb0JiY0RNY05YTE40dzBqUDRRTnJFYUJiNmlzcUlpODBVaUNDNElCVUNOWEY5VDVFUFNfLTAyUTdRUUFOdHowSlBBMHJTanU2LUpLU3JXZDlJZEE4S2xGTjF1RldxUTBGR2xkN1hvMFUtR0JJ?oc=5",
+      "source": "Morningstar",
+      "published_at": "Fri, 23 Oct 2026 12:02:36 GMT",
+      "summary": "Why Bonds Stumbled and Stocks (Mostly) Stood Strong in Q3, and What Lies Ahead for Investors Morningstar",
+      "guid": "CBMirwFBVV95cUxNeVR1TUhVU1ljYTZjSVFvR0EzVjdYQWNfZEgwUGtQSi1IVkgzWWp2SFo1NWxsRTRGdTJuXzdFV1U2R1FLb0JiY0RNY05YTE40dzBqUDRRTnJFYUJiNmlzcUlpODBVaUNDNElCVUNOWEY5VDVFUFNfLTAyUTdRUUFOdHowSlBBMHJTanU2LUpLU3JXZDlJZEE4S2xGTjF1RldxUTBGR2xkN1hvMFUtR0JJ"
     },
     {
       "title": "Downside Risk to the Stock Market and Consumption - Federal Reserve Bank of Atlanta",
@@ -63,12 +55,28 @@
       "guid": "CBMiqgFBVV95cUxOa2s3NEZYYmJtU2hVQ3RiQVZNaGRsSDVyS2NDSmN3anhMQk1CaWRaZmUydGlFZllIamQzVWRWdkRPbkFVM3RZWEl2d01xUGJEQVRUMmVIUHFNOGRLYWdHcWx4cHFMQ052ZVh4cmFZUG1HalcxcDU5Z1Ffa0haVUNabXZpbjcydm03VlExb04wNDVBdWRmWU5iRzVPOHFSSldNcUJhX3hCRk5NZw"
     },
     {
-      "title": "U.S. Stock Market Today: Nasdaq Plunges 2.60% on AI Fears - STL.News",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9vcjRTRWxPZTZCYUFiS19ocVhqZ2JKNHRqejA4bGJ1NzhOalNyYkM1d2VJR0RHSGFQUDJ3OVpVWW9ob2dac19aS2tNcmRGemZiblhuMlhTWENkVGkzSnFWdTdZTzQzYm1YZjliNFYyY0x4cGVzLWtFdmlvTEM3dw?oc=5",
-      "source": "STL.News",
-      "published_at": "Thu, 22 Oct 2026 21:37:37 GMT",
-      "summary": "U.S. Stock Market Today: Nasdaq Plunges 2.60% on AI Fears STL.News",
-      "guid": "CBMifkFVX3lxTE9vcjRTRWxPZTZCYUFiS19ocVhqZ2JKNHRqejA4bGJ1NzhOalNyYkM1d2VJR0RHSGFQUDJ3OVpVWW9ob2dac19aS2tNcmRGemZiblhuMlhTWENkVGkzSnFWdTdZTzQzYm1YZjliNFYyY0x4cGVzLWtFdmlvTEM3dw"
+      "title": "Navigating Geoeconomic Risk in the U.S. Stock Market - Liberty Street Economics",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaVEwbEZyLWJuQXQ2OVdxaEdXb19HNVdYbUFybFNDeC1OSFVTUUhWaU1iUUFYSWlBSG1hYzloRHBIVTJKNkdTWGNUWmx5ejhIWF90Q0gzOG1LV1E2VEUtR2c0R0JYbzhpSzVweGVjUVN1YzllOU1kWGtIcmU5aFNsc2Jubm5jSi12X2ItVG9rU0V1YWpIRzVidkRValA2WHpDdHNWWlRlU2Ezdw?oc=5",
+      "source": "Liberty Street Economics",
+      "published_at": "Thu, 01 Oct 2026 07:00:00 GMT",
+      "summary": "Navigating Geoeconomic Risk in the U.S. Stock Market Liberty Street Economics",
+      "guid": "CBMiqgFBVV95cUxPaVEwbEZyLWJuQXQ2OVdxaEdXb19HNVdYbUFybFNDeC1OSFVTUUhWaU1iUUFYSWlBSG1hYzloRHBIVTJKNkdTWGNUWmx5ejhIWF90Q0gzOG1LV1E2VEUtR2c0R0JYbzhpSzVweGVjUVN1YzllOU1kWGtIcmU5aFNsc2Jubm5jSi12X2ItVG9rU0V1YWpIRzVidkRValA2WHpDdHNWWlRlU2Ezdw"
+    },
+    {
+      "title": "Recent Economic and Financial Developments - Federal Reserve (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KWEN6M3VsdUJpS3YyUzBfc0JpcHhrY3J4LXhhUE90UkdqS1N1OWxCZGw1cWxveExZZ1RfM0dXM1pNMk9HRVctTGNBM2xrQ2Npbjl5OFJkQV9sajMxWHhQSGpXSzNfcGppZDhEaHFraFhUZ0puWFE?oc=5",
+      "source": "Federal Reserve (.gov)",
+      "published_at": "Fri, 17 Jul 2026 06:37:05 GMT",
+      "summary": "Recent Economic and Financial Developments Federal Reserve (.gov)",
+      "guid": "CBMidkFVX3lxTE9KWEN6M3VsdUJpS3YyUzBfc0JpcHhrY3J4LXhhUE90UkdqS1N1OWxCZGw1cWxveExZZ1RfM0dXM1pNMk9HRVctTGNBM2xrQ2Npbjl5OFJkQV9sajMxWHhQSGpXSzNfcGppZDhEaHFraFhUZ0puWFE"
+    },
+    {
+      "title": "U.S. stocks slip after the Fed raises interest rates, hints more hikes may be on the way - PBS",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQ0o4SEFnLXVuc0pFakhWQXNrNVdZOFBqTmZsR3dlMlFFZEluX2VWbEJPOGJkRkZ6a2tfaHZySVdpaVhYZk1aeGZFdjM2UExoOGMxc1BDbkcwUVFMaElEXzBUb2ItX1hmRVkxWjhHanJyV3ppMGJFcjhNY3BVYlZMNFVCemRaSW94Z1hBZy0yNmd3R29KMEppZThtNmxWaERxa3hfZzZ4WU5BV3AzN19xSTY0OEZwQmwzdGVSWC1SNNIBxAFBVV95cUxNQ3ZKZVFHbHpRSEo2cGs4RjlfMG1UdURsamh2Y3ExeEVkZzdmaGQ3OElrd0FpclpvUGQ1MFlKSHZ2VGFOc1hVN3ZmSVc4aGhIY3hvVm5UUlY0emc2bFNyU3ZGU0RFckhMekh6WE5FeklHLU9uUGZNOVZCQWJPdnctcTNJTmpTOGp0Q3ZVUjEzSWROc0V6VE1lY2hLLWNJWUlwTkEwQkJ1SVVtRlZrYlg5QUxoZEZFOFFzMXgwbkNPNzgzdlRa?oc=5",
+      "source": "PBS",
+      "published_at": "Wed, 16 Sep 2026 07:00:00 GMT",
+      "summary": "U.S. stocks slip after the Fed raises interest rates, hints more hikes may be on the way PBS",
+      "guid": "CBMivwFBVV95cUxPQ0o4SEFnLXVuc0pFakhWQXNrNVdZOFBqTmZsR3dlMlFFZEluX2VWbEJPOGJkRkZ6a2tfaHZySVdpaVhYZk1aeGZFdjM2UExoOGMxc1BDbkcwUVFMaElEXzBUb2ItX1hmRVkxWjhHanJyV3ppMGJFcjhNY3BVYlZMNFVCemRaSW94Z1hBZy0yNmd3R29KMEppZThtNmxWaERxa3hfZzZ4WU5BV3AzN19xSTY0OEZwQmwzdGVSWC1SNNIBxAFBVV95cUxNQ3ZKZVFHbHpRSEo2cGs4RjlfMG1UdURsamh2Y3ExeEVkZzdmaGQ3OElrd0FpclpvUGQ1MFlKSHZ2VGFOc1hVN3ZmSVc4aGhIY3hvVm5UUlY0emc2bFNyU3ZGU0RFckhMekh6WE5FeklHLU9uUGZNOVZCQWJPdnctcTNJTmpTOGp0Q3ZVUjEzSWROc0V6VE1lY2hLLWNJWUlwTkEwQkJ1SVVtRlZrYlg5QUxoZEZFOFFzMXgwbkNPNzgzdlRa"
     },
     {
       "title": "Investors Just Got Bad News From the Federal Reserve. Here's What History Says Comes Next. - شبكة تواصل الإخبارية",
@@ -77,14 +85,6 @@
       "published_at": "Fri, 23 Oct 2026 10:42:52 GMT",
       "summary": "Investors Just Got Bad News From the Federal Reserve. Here's What History Says Comes Next. شبكة تواصل الإخبارية",
       "guid": "CBMiU0FVX3lxTE5uMEh3dlhfX0JfTzJON2p5clo3WXltVXJ1N2FwVEdRRHBqV1hDQjMyRzFKQmZLSnhZMWw0bXNGOW5ETHBlaWoyOVZGRGdwZXgzam9B"
-    },
-    {
-      "title": "Navigating Geoeconomic Risk in the U.S. Stock Market - Liberty Street Economics",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaVEwbEZyLWJuQXQ2OVdxaEdXb19HNVdYbUFybFNDeC1OSFVTUUhWaU1iUUFYSWlBSG1hYzloRHBIVTJKNkdTWGNUWmx5ejhIWF90Q0gzOG1LV1E2VEUtR2c0R0JYbzhpSzVweGVjUVN1YzllOU1kWGtIcmU5aFNsc2Jubm5jSi12X2ItVG9rU0V1YWpIRzVidkRValA2WHpDdHNWWlRlU2Ezdw?oc=5",
-      "source": "Liberty Street Economics",
-      "published_at": "Thu, 01 Oct 2026 07:00:00 GMT",
-      "summary": "Navigating Geoeconomic Risk in the U.S. Stock Market Liberty Street Economics",
-      "guid": "CBMiqgFBVV95cUxPaVEwbEZyLWJuQXQ2OVdxaEdXb19HNVdYbUFybFNDeC1OSFVTUUhWaU1iUUFYSWlBSG1hYzloRHBIVTJKNkdTWGNUWmx5ejhIWF90Q0gzOG1LV1E2VEUtR2c0R0JYbzhpSzVweGVjUVN1YzllOU1kWGtIcmU5aFNsc2Jubm5jSi12X2ItVG9rU0V1YWpIRzVidkRValA2WHpDdHNWWlRlU2Ezdw"
     }
   ]
 }
