@@ -1,11 +1,27 @@
 {
-  "generated_at": "2026-10-24T13:28:22Z",
+  "generated_at": "2026-10-24T16:46:53Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "Stock Market Investors Just Got Bad News About President Trump's Economy. History Says This Could Happen Next. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUmNVY1ZrMFg3cnZEN1kxTHRkRzdkMWtvdUhjTTZ5aE9aaTgwNFVNNVc2R2ZKaFFaUjZfYWRzZjJoREFoR2ZNckp5cFh4eTFlUl9zU2lXeDhEMlAtcjdad1N0YW9RRVhyQUl5MjljdmZ1WHhrV3U5LXl3SEFRSTVqMzJxYTNtaElJMjV1RWcyR25FSEtPR1UxenlEUzA?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Sat, 24 Oct 2026 09:08:01 GMT",
+      "summary": "Stock Market Investors Just Got Bad News About President Trump's Economy. History Says This Could Happen Next. Yahoo Finance",
+      "guid": "CBMinAFBVV95cUxPUmNVY1ZrMFg3cnZEN1kxTHRkRzdkMWtvdUhjTTZ5aE9aaTgwNFVNNVc2R2ZKaFFaUjZfYWRzZjJoREFoR2ZNckp5cFh4eTFlUl9zU2lXeDhEMlAtcjdad1N0YW9RRVhyQUl5MjljdmZ1WHhrV3U5LXl3SEFRSTVqMzJxYTNtaElJMjV1RWcyR25FSEtPR1UxenlEUzA"
+    },
+    {
+      "title": "Inflation, earnings reports and the mood of consumers and the Federal Reserve fill out a busy week - WTOP News",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTjZBZGI5ajZXbGtSSWlXM2dYX3gyalBrYkxkM3A3ZG5VV0FLTFRNMU0zVU1ZWFREU0R5N29aSU1BNEMwQ3hDeW5yMThnZHlkRVlxN0R3cnRDNUo1YnBPS0RWV2NzRVgzVjM4bzRLSlItQU5ic2VOX215a2x3ck5VaEJxYmdDcXg1ZUNMOHlBTXlzakZMM09TNkE1VlZqLVFoVm9pbEJkMVpOdHhQbHFvWExHYUJsWU1id1ZGc0hqejBrUTJUWGVneWp5Rkg?oc=5",
+      "source": "WTOP News",
+      "published_at": "Sat, 24 Oct 2026 13:47:38 GMT",
+      "summary": "Inflation, earnings reports and the mood of consumers and the Federal Reserve fill out a busy week WTOP News",
+      "guid": "CBMizAFBVV95cUxNTjZBZGI5ajZXbGtSSWlXM2dYX3gyalBrYkxkM3A3ZG5VV0FLTFRNMU0zVU1ZWFREU0R5N29aSU1BNEMwQ3hDeW5yMThnZHlkRVlxN0R3cnRDNUo1YnBPS0RWV2NzRVgzVjM4bzRLSlItQU5ic2VOX215a2x3ck5VaEJxYmdDcXg1ZUNMOHlBTXlzakZMM09TNkE1VlZqLVFoVm9pbEJkMVpOdHhQbHFvWExHYUJsWU1id1ZGc0hqejBrUTJUWGVneWp5Rkg"
+    },
     {
       "title": "Wall St Week Ahead: Earnings flood, Fed meeting will test rickety AI market rally - Reuters",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPR3FjeUJFd2Z6ZFBxOEFlLUx4anZlN1BqeFkxQ1pFcTdXTENYc0tMdW9RbjJ1Vk91Y2tmSXVoRDFCTmZoQ2cxN3BaSlFfTXplZUNZTFIzVmR3OTVmUVYzWnBXVkxRNXAtOEpBSUpIVjlBMnJ6cVViYnFSSHZoaC1CbkR5TnBzZndWNEo5aFlkWTVKY0hSYzRuOTlzUjYwcGlrcFJKQXhlbmFOMHNWLTRiRHZaM21fWEF1SDl1Mg?oc=5",
@@ -15,12 +31,12 @@
       "guid": "CBMivAFBVV95cUxPR3FjeUJFd2Z6ZFBxOEFlLUx4anZlN1BqeFkxQ1pFcTdXTENYc0tMdW9RbjJ1Vk91Y2tmSXVoRDFCTmZoQ2cxN3BaSlFfTXplZUNZTFIzVmR3OTVmUVYzWnBXVkxRNXAtOEpBSUpIVjlBMnJ6cVViYnFSSHZoaC1CbkR5TnBzZndWNEo5aFlkWTVKY0hSYzRuOTlzUjYwcGlrcFJKQXhlbmFOMHNWLTRiRHZaM21fWEF1SDl1Mg"
     },
     {
-      "title": "Inflation, earnings reports and the mood of consumers and the Federal Reserve fill out a busy week - The Seattle Times",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeU9NMGdoM3VPcDhRRkcxMEhlNnByN2dRdGdKRG9hNFN6Tm9Fenh2bWFjTFFCUFpDRzItY0RtSVhwZnVsWjVwa2wtdjJEZnFEeHNZVHludVVEMkZUVnZoWnl0NC1iTHcyUUlqQ2h1RXRkNTdKWEhLWW15QkpoYnl5OXFCelJjQ0JuRkRyb2tseFI1eGs4Z3RSY29EanRzbE91UDJZLWVRVjJobldDZjRoZkJmX2MxTndHOXo5YWNjMGdRMnZjTlhnR3lRR2hraHZDQUE?oc=5",
-      "source": "The Seattle Times",
-      "published_at": "Sat, 24 Oct 2026 08:01:04 GMT",
-      "summary": "Inflation, earnings reports and the mood of consumers and the Federal Reserve fill out a busy week The Seattle Times",
-      "guid": "CBMi0gFBVV95cUxPeU9NMGdoM3VPcDhRRkcxMEhlNnByN2dRdGdKRG9hNFN6Tm9Fenh2bWFjTFFCUFpDRzItY0RtSVhwZnVsWjVwa2wtdjJEZnFEeHNZVHludVVEMkZUVnZoWnl0NC1iTHcyUUlqQ2h1RXRkNTdKWEhLWW15QkpoYnl5OXFCelJjQ0JuRkRyb2tseFI1eGs4Z3RSY29EanRzbE91UDJZLWVRVjJobldDZjRoZkJmX2MxTndHOXo5YWNjMGdRMnZjTlhnR3lRR2hraHZDQUE"
+      "title": "The Federal Reserve's Latest October Inflation Forecast Has Arrived, and It's Terrible News for Wall Street - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZlFWWHJZVmpuZkFFV2QwZW4zN1I3MXFzdDNfZjMxdUdSdkpPejZSQldLM2NHN2pINFhsYTFkNWJrNnB0emZLNzZUd1l1b1Q1REdtRHBTR2N1VlVpVzR1ZnlhVlRxRl8xQjdtWURlcG5RdjB2c2xuTVVURDJVV1NGZXg2bXNuVGwtMEpDR3BkalNZMmRpZjZVY3RlX1RXOTlhZEJUemRyeml2d0Zldm1HUTlVdG5tU0xDbUxUQkhzQUhYNFdlZ3lWOWF3?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Fri, 23 Oct 2026 09:06:00 GMT",
+      "summary": "The Federal Reserve's Latest October Inflation Forecast Has Arrived, and It's Terrible News for Wall Street The Motley Fool",
+      "guid": "CBMiygFBVV95cUxOZlFWWHJZVmpuZkFFV2QwZW4zN1I3MXFzdDNfZjMxdUdSdkpPejZSQldLM2NHN2pINFhsYTFkNWJrNnB0emZLNzZUd1l1b1Q1REdtRHBTR2N1VlVpVzR1ZnlhVlRxRl8xQjdtWURlcG5RdjB2c2xuTVVURDJVV1NGZXg2bXNuVGwtMEpDR3BkalNZMmRpZjZVY3RlX1RXOTlhZEJUemRyeml2d0Zldm1HUTlVdG5tU0xDbUxUQkhzQUhYNFdlZ3lWOWF3"
     },
     {
       "title": "What To Expect From Wednesday’s Federal Reserve Meeting - Investopedia",
@@ -29,22 +45,6 @@
       "published_at": "Fri, 23 Oct 2026 19:18:41 GMT",
       "summary": "What To Expect From Wednesday’s Federal Reserve Meeting Investopedia",
       "guid": "CBMilwFBVV95cUxQR1g1MjJqM1A4WVk0SHlYMjhTTjRnZk1rdWZSeVh6QnBmbkhqeEFLMS1uQXN3OVB0VEhCMElnak05UFRLRkV2VVlmVno1YzAyOXFXbS1BanllLVRVUkI2eXI1LWRvcDd1M05nWGtLcmtwTHpjQWw0SkNDdkxhWkxiODNWek9CWmV4Mm81dTRHOTFfczJVYzRZ"
-    },
-    {
-      "title": "The Federal Reserve Just Warned More Rate Hikes Are Likely Coming. History Has Good and Bad News for Investors - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVThfM2hDTk54bHNadkhBR0I5TWtCQ2xmSmdrVlRDcXZFVTNnMXcwZXFkMkZkV0NFTHZSN1k2WkZqb3dEYXdReDc0a1pOSTdkNjZ5MWFMQlZUY3c1OHd6dWo3YnZVOVdmV1Q3Z2hNbEJkWlRtdXU1eWw5VC11ZkY0OWdkcUw0SHJJQS03TFhnUC1qU3VHeUp1ZFZR?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Tue, 20 Oct 2026 10:22:00 GMT",
-      "summary": "The Federal Reserve Just Warned More Rate Hikes Are Likely Coming. History Has Good and Bad News for Investors Yahoo Finance",
-      "guid": "CBMimgFBVV95cUxQVThfM2hDTk54bHNadkhBR0I5TWtCQ2xmSmdrVlRDcXZFVTNnMXcwZXFkMkZkV0NFTHZSN1k2WkZqb3dEYXdReDc0a1pOSTdkNjZ5MWFMQlZUY3c1OHd6dWo3YnZVOVdmV1Q3Z2hNbEJkWlRtdXU1eWw5VC11ZkY0OWdkcUw0SHJJQS03TFhnUC1qU3VHeUp1ZFZR"
-    },
-    {
-      "title": "The Federal Reserve's Latest October Inflation Forecast Has Arrived, and It's Terrible News for Wall Street - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZlFWWHJZVmpuZkFFV2QwZW4zN1I3MXFzdDNfZjMxdUdSdkpPejZSQldLM2NHN2pINFhsYTFkNWJrNnB0emZLNzZUd1l1b1Q1REdtRHBTR2N1VlVpVzR1ZnlhVlRxRl8xQjdtWURlcG5RdjB2c2xuTVVURDJVV1NGZXg2bXNuVGwtMEpDR3BkalNZMmRpZjZVY3RlX1RXOTlhZEJUemRyeml2d0Zldm1HUTlVdG5tU0xDbUxUQkhzQUhYNFdlZ3lWOWF3?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Fri, 23 Oct 2026 09:06:00 GMT",
-      "summary": "The Federal Reserve's Latest October Inflation Forecast Has Arrived, and It's Terrible News for Wall Street The Motley Fool",
-      "guid": "CBMiygFBVV95cUxOZlFWWHJZVmpuZkFFV2QwZW4zN1I3MXFzdDNfZjMxdUdSdkpPejZSQldLM2NHN2pINFhsYTFkNWJrNnB0emZLNzZUd1l1b1Q1REdtRHBTR2N1VlVpVzR1ZnlhVlRxRl8xQjdtWURlcG5RdjB2c2xuTVVURDJVV1NGZXg2bXNuVGwtMEpDR3BkalNZMmRpZjZVY3RlX1RXOTlhZEJUemRyeml2d0Zldm1HUTlVdG5tU0xDbUxUQkhzQUhYNFdlZ3lWOWF3"
     },
     {
       "title": "10 worst days in stock market history, ranked by S&P 500 - Quartz",
