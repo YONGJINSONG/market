@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T01:24:22Z",
+  "generated_at": "2026-10-26T06:31:38Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,12 +7,20 @@
   },
   "items": [
     {
-      "title": "The Federal Reserve Just Warned More Rate Hikes Are Likely Coming. History Has Good and Bad News for Investors - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVThfM2hDTk54bHNadkhBR0I5TWtCQ2xmSmdrVlRDcXZFVTNnMXcwZXFkMkZkV0NFTHZSN1k2WkZqb3dEYXdReDc0a1pOSTdkNjZ5MWFMQlZUY3c1OHd6dWo3YnZVOVdmV1Q3Z2hNbEJkWlRtdXU1eWw5VC11ZkY0OWdkcUw0SHJJQS03TFhnUC1qU3VHeUp1ZFZR?oc=5",
+      "title": "President Donald Trump Just Proclaimed, \"Tariffs Don't Cause Inflation, They Cause Wealth,\" but Data From Federal Reserve Economists Show Otherwise - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTkxLNVhEY2o3MVhmdGxiNHhzQ0VLbmJoOTJ2NzdPOGt4UHhNMGF2c3pnbXlMRUFydTRjZzVaVDRobEV1c1JxTHJKaEd6QVoyLUVKdE51bmdUeXRQY0Q1WHJMNmh0bDVjY28xekNvUmZ5Wkw3WmswRi1Odm9IMDJSQU1NOWhhVzMxMHhKVF83LU84M1Z3Yzl3M2p4NEN1eGZ1a1FOYXZ3?oc=5",
       "source": "Yahoo Finance",
-      "published_at": "Tue, 20 Oct 2026 10:22:00 GMT",
-      "summary": "The Federal Reserve Just Warned More Rate Hikes Are Likely Coming. History Has Good and Bad News for Investors Yahoo Finance",
-      "guid": "CBMimgFBVV95cUxQVThfM2hDTk54bHNadkhBR0I5TWtCQ2xmSmdrVlRDcXZFVTNnMXcwZXFkMkZkV0NFTHZSN1k2WkZqb3dEYXdReDc0a1pOSTdkNjZ5MWFMQlZUY3c1OHd6dWo3YnZVOVdmV1Q3Z2hNbEJkWlRtdXU1eWw5VC11ZkY0OWdkcUw0SHJJQS03TFhnUC1qU3VHeUp1ZFZR"
+      "published_at": "Sun, 25 Oct 2026 08:26:01 GMT",
+      "summary": "President Donald Trump Just Proclaimed, \"Tariffs Don't Cause Inflation, They Cause Wealth,\" but Data From Federal Reserve Economists Show Otherwise Yahoo Finance",
+      "guid": "CBMipgFBVV95cUxPTkxLNVhEY2o3MVhmdGxiNHhzQ0VLbmJoOTJ2NzdPOGt4UHhNMGF2c3pnbXlMRUFydTRjZzVaVDRobEV1c1JxTHJKaEd6QVoyLUVKdE51bmdUeXRQY0Q1WHJMNmh0bDVjY28xekNvUmZ5Wkw3WmswRi1Odm9IMDJSQU1NOWhhVzMxMHhKVF83LU84M1Z3Yzl3M2p4NEN1eGZ1a1FOYXZ3"
+    },
+    {
+      "title": "Stock Futures Are Rising Ahead of Fed Decision - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5FajVzRGplUkV0VVpGamdWM1EyOGNHTlhva0xXeW1kZWlzcUJuNUJkWFN4dVAxczZkaFFpUlA5SkFfQ296S3hia1Q0b3FvdTYyYW9tVDNUM1pqY2hwc1Nsay1aUllCX0l1eVF0Wm90TmtJeUlULUhR?oc=5",
+      "source": "Barron's",
+      "published_at": "Sun, 25 Oct 2026 22:12:00 GMT",
+      "summary": "Stock Futures Are Rising Ahead of Fed Decision Barron's",
+      "guid": "CBMid0FVX3lxTE5FajVzRGplUkV0VVpGamdWM1EyOGNHTlhva0xXeW1kZWlzcUJuNUJkWFN4dVAxczZkaFFpUlA5SkFfQ296S3hia1Q0b3FvdTYyYW9tVDNUM1pqY2hwc1Nsay1aUllCX0l1eVF0Wm90TmtJeUlULUhR"
     },
     {
       "title": "Wall St Week Ahead Earnings flood, Fed meeting will test rickety AI market rally - Reuters",
@@ -31,20 +39,12 @@
       "guid": "CBMilwFBVV95cUxPSUF3c3Y4MHpXMEVBNlVQODM1d3o5WDdGR2luRzFxNTJ1MWFCNGxkU0tkaVpaN05pYjhPRC1PamlHWEFSd29LbVFFV2YxamluMnpnX3kybjhhM0Y5UHM4LUxJNHE4THdBVEF5cEpjZjhyVy1KUGFoREZ2N3BXMWExS3lxZ1Vsb1EyVnlyb2lDUmpNcUV3OGVF"
     },
     {
-      "title": "10 worst days in stock market history, ranked by S&P 500 - Quartz",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9PTFlSb0pFZlhLVGJyWmdTdHFESkVJYzVOWmVjYk5rc1ZoeUI4SThPbnE5NGc1VF80clhua192WGtxcW9iMTJITmtad2llWU8tZHdFTGxla3BnVWlHZ0E?oc=5",
-      "source": "Quartz",
-      "published_at": "Fri, 23 Oct 2026 09:30:42 GMT",
-      "summary": "10 worst days in stock market history, ranked by S&P 500 Quartz",
-      "guid": "CBMiXkFVX3lxTE9PTFlSb0pFZlhLVGJyWmdTdHFESkVJYzVOWmVjYk5rc1ZoeUI4SThPbnE5NGc1VF80clhua192WGtxcW9iMTJITmtad2llWU8tZHdFTGxla3BnVWlHZ0E"
-    },
-    {
-      "title": "Why Bonds Stumbled and Stocks (Mostly) Stood Strong in Q3, and What Lies Ahead for Investors - Morningstar",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeVR1TUhVU1ljYTZjSVFvR0EzVjdYQWNfZEgwUGtQSi1IVkgzWWp2SFo1NWxsRTRGdTJuXzdFV1U2R1FLb0JiY0RNY05YTE40dzBqUDRRTnJFYUJiNmlzcUlpODBVaUNDNElCVUNOWEY5VDVFUFNfLTAyUTdRUUFOdHowSlBBMHJTanU2LUpLU3JXZDlJZEE4S2xGTjF1RldxUTBGR2xkN1hvMFUtR0JJ?oc=5",
-      "source": "Morningstar",
-      "published_at": "Fri, 23 Oct 2026 12:02:36 GMT",
-      "summary": "Why Bonds Stumbled and Stocks (Mostly) Stood Strong in Q3, and What Lies Ahead for Investors Morningstar",
-      "guid": "CBMirwFBVV95cUxNeVR1TUhVU1ljYTZjSVFvR0EzVjdYQWNfZEgwUGtQSi1IVkgzWWp2SFo1NWxsRTRGdTJuXzdFV1U2R1FLb0JiY0RNY05YTE40dzBqUDRRTnJFYUJiNmlzcUlpODBVaUNDNElCVUNOWEY5VDVFUFNfLTAyUTdRUUFOdHowSlBBMHJTanU2LUpLU3JXZDlJZEE4S2xGTjF1RldxUTBGR2xkN1hvMFUtR0JJ"
+      "title": "Dow Jones and Nasdaq 100 outlook: top stock market news for this week - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdjQxaWxiamtYWDBCUHE5NWt5YzFETGtmbzk1aFJYYmFmV3VEcjMwYmlYMWtjdHFuNnV1OUdqOV9tYVktdE11OEdyT1I2Mzl4XzhzVkI0ODRpc1otVWVuN09wMU1lMkEtMmRwUXJLVG9zdHlLZlBPaXBZQnlnWHpKVlFHc3ZCLXBHWXV1QXVtUS11X0FGNjMtR1M5cE9OUE80MHJWSTc3RlZMaHFfaWVSQjdpTmx6dW4tNkcxRlZ6NXF6M2c?oc=5",
+      "source": "TradingView",
+      "published_at": "Sun, 25 Oct 2026 18:31:00 GMT",
+      "summary": "Dow Jones and Nasdaq 100 outlook: top stock market news for this week TradingView",
+      "guid": "CBMiwwFBVV95cUxNdjQxaWxiamtYWDBCUHE5NWt5YzFETGtmbzk1aFJYYmFmV3VEcjMwYmlYMWtjdHFuNnV1OUdqOV9tYVktdE11OEdyT1I2Mzl4XzhzVkI0ODRpc1otVWVuN09wMU1lMkEtMmRwUXJLVG9zdHlLZlBPaXBZQnlnWHpKVlFHc3ZCLXBHWXV1QXVtUS11X0FGNjMtR1M5cE9OUE80MHJWSTc3RlZMaHFfaWVSQjdpTmx6dW4tNkcxRlZ6NXF6M2c"
     },
     {
       "title": "Downside Risk to the Stock Market and Consumption - Federal Reserve Bank of Atlanta",
@@ -71,20 +71,20 @@
       "guid": "CBMilwFBVV95cUxQR1g1MjJqM1A4WVk0SHlYMjhTTjRnZk1rdWZSeVh6QnBmbkhqeEFLMS1uQXN3OVB0VEhCMElnak05UFRLRkV2VVlmVno1YzAyOXFXbS1BanllLVRVUkI2eXI1LWRvcDd1M05nWGtLcmtwTHpjQWw0SkNDdkxhWkxiODNWek9CWmV4Mm81dTRHOTFfczJVYzRZ"
     },
     {
-      "title": "Weekly Outlook | The Federal Reserve's decision, along with U.S. GDP and core PCE, are set to make a big splash! Google, Microsoft, and Amazon will release their earnings reports in quick succession, as U.S. stocks enter the peak of earnings season; Dong - 富途牛牛",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNV2hBV1h1elBmMG4yTmJFV3lNejlGV19LV3ZSWlY5eHp5Sk9JdUY2SF9ERkFuZVd0eVFpcWtvM2UyQzNya3ZWZkVUcVVEYWNwUnl5ZTlWWnVnS3BSS0RwaG1rcG04STlOX3FZNkRieEFNRWQ4UjZQNFpVaXhIQXhlNURSY1Yya2J5NDZHYlNzWF9SdFN2TE1JRkVmQWFUVWdGQ0xkVA?oc=5",
-      "source": "富途牛牛",
-      "published_at": "Sun, 25 Oct 2026 08:49:00 GMT",
-      "summary": "Weekly Outlook | The Federal Reserve's decision, along with U.S. GDP and core PCE, are set to make a big splash! Google, Microsoft, and Amazon will release their earnings reports in quick succession, as U.S. stocks enter the peak of earnings season; Dong 富途牛牛",
-      "guid": "CBMipAFBVV95cUxNV2hBV1h1elBmMG4yTmJFV3lNejlGV19LV3ZSWlY5eHp5Sk9JdUY2SF9ERkFuZVd0eVFpcWtvM2UyQzNya3ZWZkVUcVVEYWNwUnl5ZTlWWnVnS3BSS0RwaG1rcG04STlOX3FZNkRieEFNRWQ4UjZQNFpVaXhIQXhlNURSY1Yya2J5NDZHYlNzWF9SdFN2TE1JRkVmQWFUVWdGQ0xkVA"
+      "title": "Recent Economic and Financial Developments - Federal Reserve (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KWEN6M3VsdUJpS3YyUzBfc0JpcHhrY3J4LXhhUE90UkdqS1N1OWxCZGw1cWxveExZZ1RfM0dXM1pNMk9HRVctTGNBM2xrQ2Npbjl5OFJkQV9sajMxWHhQSGpXSzNfcGppZDhEaHFraFhUZ0puWFE?oc=5",
+      "source": "Federal Reserve (.gov)",
+      "published_at": "Fri, 17 Jul 2026 06:37:05 GMT",
+      "summary": "Recent Economic and Financial Developments Federal Reserve (.gov)",
+      "guid": "CBMidkFVX3lxTE9KWEN6M3VsdUJpS3YyUzBfc0JpcHhrY3J4LXhhUE90UkdqS1N1OWxCZGw1cWxveExZZ1RfM0dXM1pNMk9HRVctTGNBM2xrQ2Npbjl5OFJkQV9sajMxWHhQSGpXSzNfcGppZDhEaHFraFhUZ0puWFE"
     },
     {
-      "title": "The Federal Reserve's Latest October Inflation Forecast Has Arrived, and It's Terrible News for Wall Street - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOa2s3NEZYYmJtU2hVQ3RiQVZNaGRsSDVyS2NDSmN3anhMQk1CaWRaZmUydGlFZllIamQzVWRWdkRPbkFVM3RZWEl2d01xUGJEQVRUMmVIUHFNOGRLYWdHcWx4cHFMQ052ZVh4cmFZUG1HalcxcDU5Z1Ffa0haVUNabXZpbjcydm03VlExb04wNDVBdWRmWU5iRzVPOHFSSldNcUJhX3hCRk5NZw?oc=5",
+      "title": "Americans have never had more of their money in stocks — not even in the dot-com bubble: Chart of the Day - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPZlN3ZVhVZ3MyekFVZ3RKWEVUWUVqOTZwbWpIVmZtLXBGczNIUmlMMWZVTmpfcUdyQWQzN3V4azQtWmNDTWQ1bDdKWXlyS0lNYzRXUFFBOXdpSk1VbnZWaldiVGxUYjBIQzAyamQyQ1lNT3lyaHhXNFh0VGNCaGJwVWhCeWh1UGJQa2xPVDVpR0xreXlPYWhvUzJSbUUtY2dOcUlIaDBWM2tPRUtuVGpXQVBjSng1blBKaWo2YktLMlZucUN0RkVZbm9fRlhGSTlyRGo3QmdhUU9iY0tkS0J4Zm9KdEc4VklhSkVBSnlIcmNQdw?oc=5",
       "source": "Yahoo Finance",
-      "published_at": "Fri, 23 Oct 2026 08:26:02 GMT",
-      "summary": "The Federal Reserve's Latest October Inflation Forecast Has Arrived, and It's Terrible News for Wall Street Yahoo Finance",
-      "guid": "CBMiqgFBVV95cUxOa2s3NEZYYmJtU2hVQ3RiQVZNaGRsSDVyS2NDSmN3anhMQk1CaWRaZmUydGlFZllIamQzVWRWdkRPbkFVM3RZWEl2d01xUGJEQVRUMmVIUHFNOGRLYWdHcWx4cHFMQ052ZVh4cmFZUG1HalcxcDU5Z1Ffa0haVUNabXZpbjcydm03VlExb04wNDVBdWRmWU5iRzVPOHFSSldNcUJhX3hCRk5NZw"
+      "published_at": "Sat, 24 Oct 2026 12:01:27 GMT",
+      "summary": "Americans have never had more of their money in stocks — not even in the dot-com bubble: Chart of the Day Yahoo Finance",
+      "guid": "CBMi8gFBVV95cUxPZlN3ZVhVZ3MyekFVZ3RKWEVUWUVqOTZwbWpIVmZtLXBGczNIUmlMMWZVTmpfcUdyQWQzN3V4azQtWmNDTWQ1bDdKWXlyS0lNYzRXUFFBOXdpSk1VbnZWaldiVGxUYjBIQzAyamQyQ1lNT3lyaHhXNFh0VGNCaGJwVWhCeWh1UGJQa2xPVDVpR0xreXlPYWhvUzJSbUUtY2dOcUlIaDBWM2tPRUtuVGpXQVBjSng1blBKaWo2YktLMlZucUN0RkVZbm9fRlhGSTlyRGo3QmdhUU9iY0tkS0J4Zm9KdEc4VklhSkVBSnlIcmNQdw"
     }
   ]
 }
