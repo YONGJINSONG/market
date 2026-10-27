@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T13:42:24Z",
+  "generated_at": "2026-10-27T18:58:32Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -15,12 +15,12 @@
       "guid": "CBMi7AFBVV95cUxPUF9Ya2djSUVaaWE0LWk3YnlJbm5zazI4R0R5S3RtNnprbEJLcW54andiQ1p3MVFEQkZVWXhYN0twX2h4MjdocUZfMHYxRmlOWlNmWVkySDltejcxZndraEhoZ0sxdmx3UHZ5LWdUbmhzR05td09ocFA0MjlLMzNWWUF3SUJRM2NXWWdGQWNrR0tUdS1KZzZHRlFHYmxuSjdZZC12QUNtcW9LNFBlZ1RpTGxWbERXeTN4S1hlY0ZDUlpCd3VlWFNCZGdqZWhwVzAyMzAzQ1BreGNVemp4eDBjN1VLS3I4MHJ5ZjlRZA"
     },
     {
-      "title": "US Stock Futures Gain, Oil Falls on Iran Comments: Markets Wrap - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYTFLZTJNckNaRFN0TG9fLXJTY3h3VkVRSnZfMDJfLVkxOTNsU01IbWtXbDZQUTFIOXJXWENhY2NIX0ZuLUdLSHJMemcyUkNEZklQdUQxZlpHUWNwaVE3WFp1dk1meVZwejRrSUF1dEhFdDBjNUp3WVdqVnNBamJfQjFrN2g5b3QwZFBUMHZjYVU2aGhK?oc=5",
-      "source": "Bloomberg.com",
-      "published_at": "Mon, 26 Oct 2026 22:03:56 GMT",
-      "summary": "US Stock Futures Gain, Oil Falls on Iran Comments: Markets Wrap Bloomberg.com",
-      "guid": "CBMilAFBVV95cUxPYTFLZTJNckNaRFN0TG9fLXJTY3h3VkVRSnZfMDJfLVkxOTNsU01IbWtXbDZQUTFIOXJXWENhY2NIX0ZuLUdLSHJMemcyUkNEZklQdUQxZlpHUWNwaVE3WFp1dk1meVZwejRrSUF1dEhFdDBjNUp3WVdqVnNBamJfQjFrN2g5b3QwZFBUMHZjYVU2aGhK"
+      "title": "Stock Market Today: Dow Jones, S&P 500, Nasdaq 10 Futures Gain as Fed Begins Its Two-Day Meet— Novartis, HSBC, Welltower in Focus (UPDATED) - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQSGJMZzk4UzQ4NzdmU25zYlZuV1lGcU5UR190MXhTdDZHUXNyN3EyOW5VN3I1WFhuWUdwWTA0OEZ6ZVVOWFdLdUc2bXRTMmJKdmY2UzJzQmpfSkRxVklKazhLOWtzdXZaVlFtdDNSaHU3emtsc3pkaVpfU3dwWVdTZkYzSjQ5VmpBZHI0dUxWSzlGUFRTVXNRMXN5U2lwV3dkVWZBOTQwOWQxR0VDb2N3MWtHV3plNHl4Yi05NWNxRDFOUFp2cnY5WGFERS12Yl9rV1NQQjhhRDUyVFRzUGxraDFKQUVEWmFJaWVvRDhCQksxTWV2ajIteWhNR1RiVTN0cFFDeVRMYnc5cmVkLXZwbkxnNzd6Z0Jxb3c?oc=5",
+      "source": "TradingView",
+      "published_at": "Tue, 27 Oct 2026 12:45:13 GMT",
+      "summary": "Stock Market Today: Dow Jones, S&P 500, Nasdaq 10 Futures Gain as Fed Begins Its Two-Day Meet— Novartis, HSBC, Welltower in Focus (UPDATED) TradingView",
+      "guid": "CBMimgJBVV95cUxQSGJMZzk4UzQ4NzdmU25zYlZuV1lGcU5UR190MXhTdDZHUXNyN3EyOW5VN3I1WFhuWUdwWTA0OEZ6ZVVOWFdLdUc2bXRTMmJKdmY2UzJzQmpfSkRxVklKazhLOWtzdXZaVlFtdDNSaHU3emtsc3pkaVpfU3dwWVdTZkYzSjQ5VmpBZHI0dUxWSzlGUFRTVXNRMXN5U2lwV3dkVWZBOTQwOWQxR0VDb2N3MWtHV3plNHl4Yi05NWNxRDFOUFp2cnY5WGFERS12Yl9rV1NQQjhhRDUyVFRzUGxraDFKQUVEWmFJaWVvRDhCQksxTWV2ajIteWhNR1RiVTN0cFFDeVRMYnc5cmVkLXZwbkxnNzd6Z0Jxb3c"
     },
     {
       "title": "Here's Exactly What Investors Should Look for From the Federal Reserve's October Meeting - Yahoo Finance",
@@ -31,20 +31,44 @@
       "guid": "CBMiowFBVV95cUxQanNUajh6aTdXd2hlZzFoMVY3bE9sN0wybktkbGhDT2duNWRfbjlFWWpBQWhpMWJzTXUySFY5T2pIcVhISm5nTUZFd21zMXFObVBvZ3cwQTBnNGFlWGlJdVVYWHJzQUl0VEhqTFl0U0NyOFpaYkhxTmQ4TkhEV0VOSlZTMG9vNkFFcE95em9Ra2FSY1EzcWdpdHlNUDdFZTlobUtF"
     },
     {
-      "title": "Here's Exactly What Investors Should Look for From the Federal Reserve's October Meeting - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOUYwWGRycnV2V2RWZVFOeDNrdFJWR0Jzbk1sQkYwbFFFakRSQmZjWEdWOU5yV2VyZGhoQXRBNW5BS1RuQXlMYW9uZ1NjX1o3Q0hKalZRSGMxR1I2ZUcyZ2FyQkg2S25idGw2RkI5M29JN1NFYS1tWjlqSDBnTHE3LTQtSzVZc2xSaVFRZDFYOUFSUjh5bS1N?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Tue, 27 Oct 2026 00:00:00 GMT",
-      "summary": "Here's Exactly What Investors Should Look for From the Federal Reserve's October Meeting The Motley Fool",
-      "guid": "CBMilwFBVV95cUxQOUYwWGRycnV2V2RWZVFOeDNrdFJWR0Jzbk1sQkYwbFFFakRSQmZjWEdWOU5yV2VyZGhoQXRBNW5BS1RuQXlMYW9uZ1NjX1o3Q0hKalZRSGMxR1I2ZUcyZ2FyQkg2S25idGw2RkI5M29JN1NFYS1tWjlqSDBnTHE3LTQtSzVZc2xSaVFRZDFYOUFSUjh5bS1N"
+      "title": "Federal Reserve kicks off meeting as JetBlue Airways stock rebounds - Fox Business",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94VjR3eVZURWdpbVhtbGVwOW1YdW1pcG9OUGtzU2NlVmJLNV9OSDVXRHZXMUpzSmFWWTNfd0NNVlM4cGk1b01kWU1nUVJ2emI0d255NFdGdml6RDg?oc=5",
+      "source": "Fox Business",
+      "published_at": "Tue, 27 Oct 2026 13:46:06 GMT",
+      "summary": "Federal Reserve kicks off meeting as JetBlue Airways stock rebounds Fox Business",
+      "guid": "CBMiW0FVX3lxTE94VjR3eVZURWdpbVhtbGVwOW1YdW1pcG9OUGtzU2NlVmJLNV9OSDVXRHZXMUpzSmFWWTNfd0NNVlM4cGk1b01kWU1nUVJ2emI0d255NFdGdml6RDg"
     },
     {
-      "title": "Stock Market Today: Dow Jones, S&P 500 Futures Trade Mixed as Fed Begins Its Two-Day Meet — NVS, HSBC, WELL in Focus - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQVTB6SFpKZ0Y5YzZuTkUtTlc0cmEzaGp5V3NwUW1XdWRTVmFUNm9UV0IyTkxFT2FZZU0zeVgwUFYyeEpQVXBGVnBuMi1OUXcxNHNVOExIYllrVTlqVzBvaEJ1QmJEYW5XUW50ZjZjTGFNMldZSVlxV2ZYS0ZKWGowazM3bzVaVXVmZVhLQV8zeWZDTGVHWWFtdUJ3T0loak1ZZjJpVUZ0OWJUd1hmVzY2TEo4OWU0SzBfc0JmSnEyMUl3TlhUYXYzb1FnZGh4Yllxd2d3aUxVNzhNcEkyeFlRXzdOcTVOTzJuaDItczEwOXJ4dWZmcUJtd3d2M2xSZw?oc=5",
-      "source": "TradingView",
-      "published_at": "Tue, 27 Oct 2026 09:33:44 GMT",
-      "summary": "Stock Market Today: Dow Jones, S&P 500 Futures Trade Mixed as Fed Begins Its Two-Day Meet — NVS, HSBC, WELL in Focus TradingView",
-      "guid": "CBMi_gFBVV95cUxQVTB6SFpKZ0Y5YzZuTkUtTlc0cmEzaGp5V3NwUW1XdWRTVmFUNm9UV0IyTkxFT2FZZU0zeVgwUFYyeEpQVXBGVnBuMi1OUXcxNHNVOExIYllrVTlqVzBvaEJ1QmJEYW5XUW50ZjZjTGFNMldZSVlxV2ZYS0ZKWGowazM3bzVaVXVmZVhLQV8zeWZDTGVHWWFtdUJ3T0loak1ZZjJpVUZ0OWJUd1hmVzY2TEo4OWU0SzBfc0JmSnEyMUl3TlhUYXYzb1FnZGh4Yllxd2d3aUxVNzhNcEkyeFlRXzdOcTVOTzJuaDItczEwOXJ4dWZmcUJtd3d2M2xSZw"
+      "title": "Stock Market Midday, Oct. 27: Tech Stocks Drive Momentum and SoFi Surges 15% - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNa0NmZURqNjI0bFBQTlZqZHptb3hoMXgtUFRzb292RWhieFN4QndIbWxOVVhXd2RoVk1ENzE4My0ycFFleXAwVkoyaU1EY09Da18wZEYwTlZYcExRUkw2ZFBpUFFvWGFCbWt6dnliQmJ4dG1ldjVzS2tfZ1pCbld4dU1pOTZ0QTFfclRNNC12TnFad05xempmUjljSkVGYno3UkpxTno5M19XaHJrUkZJUzRLejJnUGtkWVgtVm1seWVMV3lOblBuaVJWbERqdlZNbFNBMmtQRQ?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Tue, 27 Oct 2026 17:01:59 GMT",
+      "summary": "Stock Market Midday, Oct. 27: Tech Stocks Drive Momentum and SoFi Surges 15% The Motley Fool",
+      "guid": "CBMi1wFBVV95cUxNa0NmZURqNjI0bFBQTlZqZHptb3hoMXgtUFRzb292RWhieFN4QndIbWxOVVhXd2RoVk1ENzE4My0ycFFleXAwVkoyaU1EY09Da18wZEYwTlZYcExRUkw2ZFBpUFFvWGFCbWt6dnliQmJ4dG1ldjVzS2tfZ1pCbld4dU1pOTZ0QTFfclRNNC12TnFad05xempmUjljSkVGYno3UkpxTno5M19XaHJrUkZJUzRLejJnUGtkWVgtVm1seWVMV3lOblBuaVJWbERqdlZNbFNBMmtQRQ"
+    },
+    {
+      "title": "US Stock Futures Gain, Oil Falls on Iran Comments: Markets Wrap - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYTFLZTJNckNaRFN0TG9fLXJTY3h3VkVRSnZfMDJfLVkxOTNsU01IbWtXbDZQUTFIOXJXWENhY2NIX0ZuLUdLSHJMemcyUkNEZklQdUQxZlpHUWNwaVE3WFp1dk1meVZwejRrSUF1dEhFdDBjNUp3WVdqVnNBamJfQjFrN2g5b3QwZFBUMHZjYVU2aGhK?oc=5",
+      "source": "Bloomberg.com",
+      "published_at": "Mon, 26 Oct 2026 22:03:56 GMT",
+      "summary": "US Stock Futures Gain, Oil Falls on Iran Comments: Markets Wrap Bloomberg.com",
+      "guid": "CBMilAFBVV95cUxPYTFLZTJNckNaRFN0TG9fLXJTY3h3VkVRSnZfMDJfLVkxOTNsU01IbWtXbDZQUTFIOXJXWENhY2NIX0ZuLUdLSHJMemcyUkNEZklQdUQxZlpHUWNwaVE3WFp1dk1meVZwejRrSUF1dEhFdDBjNUp3WVdqVnNBamJfQjFrN2g5b3QwZFBUMHZjYVU2aGhK"
+    },
+    {
+      "title": "Fed expected to hold rates steady, but Warsh may point way to more hikes - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9DeEN1Q0lOYXdvZ1RhMGVYWm5Fcm1jU3ZEWTR4M3lCdXBQdkJ3WkJRS0VKbGFOVkpfUG8tbHFNb05yenRtRnJfMUZLV3hQdFVxZGxmdUI1OWt2d2xfSWRXYWd2OGEzUFIxelJDRnliOVJ6MHNXTk50VDh30gF_QVVfeXFMUFhDd2V2SDNUb0F3OWpneFhXVk90eDlFY2dyNVVLVEVhU2c4Z3d5d211RFBiMWZrUk5ZXzdRc0w3MGEzVTFCV0tKYjFuTWN1aklNRkZJTmJFc0l2VHFMaklvTUFRQWlqUGp2RFhLVklrRGl5NjJGLVVuM0lfTDlaNA?oc=5",
+      "source": "CNBC",
+      "published_at": "Tue, 27 Oct 2026 11:06:22 GMT",
+      "summary": "Fed expected to hold rates steady, but Warsh may point way to more hikes CNBC",
+      "guid": "CBMiekFVX3lxTE9DeEN1Q0lOYXdvZ1RhMGVYWm5Fcm1jU3ZEWTR4M3lCdXBQdkJ3WkJRS0VKbGFOVkpfUG8tbHFNb05yenRtRnJfMUZLV3hQdFVxZGxmdUI1OWt2d2xfSWRXYWd2OGEzUFIxelJDRnliOVJ6MHNXTk50VDh30gF_QVVfeXFMUFhDd2V2SDNUb0F3OWpneFhXVk90eDlFY2dyNVVLVEVhU2c4Z3d5d211RFBiMWZrUk5ZXzdRc0w3MGEzVTFCV0tKYjFuTWN1aklNRkZJTmJFc0l2VHFMaklvTUFRQWlqUGp2RFhLVklrRGl5NjJGLVVuM0lfTDlaNA"
+    },
+    {
+      "title": "5 Things to Know Before the Stock Market Opens on Monday - Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPT2lrV3J1YkhVWjdwZnZBbUNxSGtuRVpFajBuOVN4d0hmUTNRM3dzRi10U2sydDlCSTVlTHQxN1BZbEt1endrYlB3WHN6Y2FUQkFmTTlYZ1NtZ3BXTy1ySDByMXBBbkVFbWNraTZfTmtTUjhrM3B0a1BuUE41LWtMaFVJamtNVERNdXJJb3hiV0JyejhZa0xVWnBpZDkwRkQ4b1VyVDhDZ2s4VlNDaE1z?oc=5",
+      "source": "Investopedia",
+      "published_at": "Mon, 26 Oct 2026 12:14:23 GMT",
+      "summary": "5 Things to Know Before the Stock Market Opens on Monday Investopedia",
+      "guid": "CBMirwFBVV95cUxPT2lrV3J1YkhVWjdwZnZBbUNxSGtuRVpFajBuOVN4d0hmUTNRM3dzRi10U2sydDlCSTVlTHQxN1BZbEt1endrYlB3WHN6Y2FUQkFmTTlYZ1NtZ3BXTy1ySDByMXBBbkVFbWNraTZfTmtTUjhrM3B0a1BuUE41LWtMaFVJamtNVERNdXJJb3hiV0JyejhZa0xVWnBpZDkwRkQ4b1VyVDhDZ2s4VlNDaE1z"
     },
     {
       "title": "Investors: Oct. 28 Will Be an Important Day for the Stock Market. Here's Why. - AOL.com",
@@ -55,36 +79,12 @@
       "guid": "CBMif0FVX3lxTFBESjdaNVNlVnJiTEo0MHRYVXMtVUhBMm5NVzVib2NPR0dNa21GRXl4VFdpclhDTDh3cVlfbXNSOGdzRGdnRjZLMm5EbmwyODdSM2M0eTJRODlfTW56eHQtTXRBdmlPeUo0QW5iRzI1d01YYnFhdjVGekJJcW5lN0E"
     },
     {
-      "title": "Fed officials are warning of more pain. Many Americans are already feeling it - CNN",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5KOEVDdVNYS0FUZGlpbEJTYVRMT1U0MzE1ZVUzM1pfcjdIeUhJN1ExRm1oYWZzR0lLcU8zYVJRZkI5dm9wckNpWkplUnRVQmhqUkFwb1hSN3dEbTl5ZFJOTkthcWYwYWh0ZjNBbEtkV1NDTUNnOURuVw?oc=5",
-      "source": "CNN",
-      "published_at": "Mon, 12 Oct 2026 07:00:00 GMT",
-      "summary": "Fed officials are warning of more pain. Many Americans are already feeling it CNN",
-      "guid": "CBMieEFVX3lxTE5KOEVDdVNYS0FUZGlpbEJTYVRMT1U0MzE1ZVUzM1pfcjdIeUhJN1ExRm1oYWZzR0lLcU8zYVJRZkI5dm9wckNpWkplUnRVQmhqUkFwb1hSN3dEbTl5ZFJOTkthcWYwYWh0ZjNBbEtkV1NDTUNnOURuVw"
-    },
-    {
-      "title": "Downside Risk to the Stock Market and Consumption - Federal Reserve Bank of Atlanta",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYTBzZEUwUk5XQmpmbTV4WWhEdWp2dGNxaGlJWE03aGFUQk13VFZVTjhUZ2dGOUVOSXFfOWR2X3FERkg3bDVXQmJfa3lIY2dXZ2hoUFgtNE9yWmY3SmprbEZUcmdCRVJfb3otWEpSTEJISkNNQTZBaUgxaUZ0cXF4Mmt5WFBieTQ5UlJjOVJUMFhlU3pZeW9Wc1FCTUNoTDBiR0FWczlJTy1sZGljdC1pSUJRSy04cmhfQ1kzOVV2UDhHMHIwSUh6amNiVHBGNTBW?oc=5",
-      "source": "Federal Reserve Bank of Atlanta",
-      "published_at": "Wed, 02 Sep 2026 07:00:00 GMT",
-      "summary": "Downside Risk to the Stock Market and Consumption Federal Reserve Bank of Atlanta",
-      "guid": "CBMi0AFBVV95cUxOYTBzZEUwUk5XQmpmbTV4WWhEdWp2dGNxaGlJWE03aGFUQk13VFZVTjhUZ2dGOUVOSXFfOWR2X3FERkg3bDVXQmJfa3lIY2dXZ2hoUFgtNE9yWmY3SmprbEZUcmdCRVJfb3otWEpSTEJISkNNQTZBaUgxaUZ0cXF4Mmt5WFBieTQ5UlJjOVJUMFhlU3pZeW9Wc1FCTUNoTDBiR0FWczlJTy1sZGljdC1pSUJRSy04cmhfQ1kzOVV2UDhHMHIwSUh6amNiVHBGNTBW"
-    },
-    {
-      "title": "US Stock Futures Rise Ahead of Federal Reserve Decision and Major Technology Earnings - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWjRNaTdzZnZMZ0ZNV3VkNnpRZTVKV0lpVDJmXzh5bUt2UTZLalNHVzFJdy1fdkF6TVo4ak0wZEUzV3JZTFI5SE9rOUpTcWhBaHFWa0JqOWpmdDZBZnBSLXlXVDluY0dQOTltV2lVUUVReEFtdllsNUtzNXkyQTV4azJmYWlwUmJmWnY2YmV3RlZJbUxqMVBJ?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Mon, 26 Oct 2026 11:42:10 GMT",
-      "summary": "US Stock Futures Rise Ahead of Federal Reserve Decision and Major Technology Earnings Yahoo Finance",
-      "guid": "CBMilwFBVV95cUxOWjRNaTdzZnZMZ0ZNV3VkNnpRZTVKV0lpVDJmXzh5bUt2UTZLalNHVzFJdy1fdkF6TVo4ak0wZEUzV3JZTFI5SE9rOUpTcWhBaHFWa0JqOWpmdDZBZnBSLXlXVDluY0dQOTltV2lVUUVReEFtdllsNUtzNXkyQTV4azJmYWlwUmJmWnY2YmV3RlZJbUxqMVBJ"
-    },
-    {
-      "title": "Fed rate hikes are coming, but not this week: CNBC survey - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPemFCemhRSnI2LTdtSk9nOGRqR3IyQVotVHh4YzEwZzJld3dqNTM4TmRpbHJZSlVRZWZlX0JJYzAtODd1a0lyVlVETlRkbmtWOHpZbzc0eXo2VUFBTzdZZ1ZrWFhKaklMN1JQcmNhaEpEVEpNa0JPRllsdUN0cU9kc1NLM3J0eHpLWHfSAY8BQVVfeXFMTml6aGtHdzhmakJjT00ya2VsRkpBbFpXNDU0YUFmQU96TFRvSFhMWDJhS1RkWG1yNjdWOW1zQTFEV1M3eEg3VEx6ZTM4Z1lSWEZxcnJ6ckQ5Skt2V1hLYUNkX1lZM2R0dklVaHd6dGdSR2lhZEhXVlA4MEphQ0lSTjBSeHp3M0IwMnc5eFhTelk?oc=5",
-      "source": "CNBC",
-      "published_at": "Tue, 27 Oct 2026 11:10:01 GMT",
-      "summary": "Fed rate hikes are coming, but not this week: CNBC survey CNBC",
-      "guid": "CBMiigFBVV95cUxPemFCemhRSnI2LTdtSk9nOGRqR3IyQVotVHh4YzEwZzJld3dqNTM4TmRpbHJZSlVRZWZlX0JJYzAtODd1a0lyVlVETlRkbmtWOHpZbzc0eXo2VUFBTzdZZ1ZrWFhKaklMN1JQcmNhaEpEVEpNa0JPRllsdUN0cU9kc1NLM3J0eHpLWHfSAY8BQVVfeXFMTml6aGtHdzhmakJjT00ya2VsRkpBbFpXNDU0YUFmQU96TFRvSFhMWDJhS1RkWG1yNjdWOW1zQTFEV1M3eEg3VEx6ZTM4Z1lSWEZxcnJ6ckQ5Skt2V1hLYUNkX1lZM2R0dklVaHd6dGdSR2lhZEhXVlA4MEphQ0lSTjBSeHp3M0IwMnc5eFhTelk"
+      "title": "Here's Exactly What Investors Should Look for From the Federal Reserve's October Meeting - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOUYwWGRycnV2V2RWZVFOeDNrdFJWR0Jzbk1sQkYwbFFFakRSQmZjWEdWOU5yV2VyZGhoQXRBNW5BS1RuQXlMYW9uZ1NjX1o3Q0hKalZRSGMxR1I2ZUcyZ2FyQkg2S25idGw2RkI5M29JN1NFYS1tWjlqSDBnTHE3LTQtSzVZc2xSaVFRZDFYOUFSUjh5bS1N?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Tue, 27 Oct 2026 00:00:00 GMT",
+      "summary": "Here's Exactly What Investors Should Look for From the Federal Reserve's October Meeting The Motley Fool",
+      "guid": "CBMilwFBVV95cUxQOUYwWGRycnV2V2RWZVFOeDNrdFJWR0Jzbk1sQkYwbFFFakRSQmZjWEdWOU5yV2VyZGhoQXRBNW5BS1RuQXlMYW9uZ1NjX1o3Q0hKalZRSGMxR1I2ZUcyZ2FyQkg2S25idGw2RkI5M29JN1NFYS1tWjlqSDBnTHE3LTQtSzVZc2xSaVFRZDFYOUFSUjh5bS1N"
     }
   ]
 }
