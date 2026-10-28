@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T07:39:46Z",
+  "generated_at": "2026-10-28T14:29:08Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,12 +7,44 @@
   },
   "items": [
     {
-      "title": "The Fed says it ignores politics. Its rate moves tell a more complicated story - CNN",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRTl0WDUxSE9reUpXTXcxZ2lUTzltNUZMRjM1eWQ4eEdwT1pKcmd2d2lDY3JDLWhONmd1VF9wMGQ3a0hDd1dKSVVHNnZBTnZnWjBBVTh5SjVCazlUNnR3dmhvSUdVM1BhVUhSY3RVck9tM3o2T3lsc0s1WWYzajNPNTVjS2s5UQ?oc=5",
-      "source": "CNN",
-      "published_at": "Tue, 27 Oct 2026 21:26:12 GMT",
-      "summary": "The Fed says it ignores politics. Its rate moves tell a more complicated story CNN",
-      "guid": "CBMihgFBVV95cUxQRTl0WDUxSE9reUpXTXcxZ2lUTzltNUZMRjM1eWQ4eEdwT1pKcmd2d2lDY3JDLWhONmd1VF9wMGQ3a0hDd1dKSVVHNnZBTnZnWjBBVTh5SjVCazlUNnR3dmhvSUdVM1BhVUhSY3RVck9tM3o2T3lsc0s1WWYzajNPNTVjS2s5UQ"
+      "title": "US stocks hold steady as the countdown ticks to a Federal Reserve decision on interest rates - KTVN",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPTG9mbDBKQVpwV3J6bXlGMFRXV2tCVk43ckxFQ3pTWGhiVXVjaUVlNFZuY0NrUEdKZFRWdUtFU2VmY21ZblNVLVR4ZGltaFMxWnBZcktta05wREFjMkRLY3ZEY3BaTTRXUTE4clY2eUMtQmxUcTc4UEFmR0dWQ1NsQUVzdmFZbWxWbC1qN25fVWRJYW1LWkozM3c1U2RkX0htZEVoRlVUV0plWjdUNGRKeDR3VXBnUlhEWFRYSDhPQVVnQksyOXhqUlB3UkxCT1Q1c3NOMTNROG1wbUFjWGFfQXJxcXlhaU5jbl8zaDRYWFpBTE1RWlVaMjNYQk5QQkk?oc=5",
+      "source": "KTVN",
+      "published_at": "Wed, 28 Oct 2026 13:45:48 GMT",
+      "summary": "US stocks hold steady as the countdown ticks to a Federal Reserve decision on interest rates KTVN",
+      "guid": "CBMi_wFBVV95cUxPTG9mbDBKQVpwV3J6bXlGMFRXV2tCVk43ckxFQ3pTWGhiVXVjaUVlNFZuY0NrUEdKZFRWdUtFU2VmY21ZblNVLVR4ZGltaFMxWnBZcktta05wREFjMkRLY3ZEY3BaTTRXUTE4clY2eUMtQmxUcTc4UEFmR0dWQ1NsQUVzdmFZbWxWbC1qN25fVWRJYW1LWkozM3c1U2RkX0htZEVoRlVUV0plWjdUNGRKeDR3VXBnUlhEWFRYSDhPQVVnQksyOXhqUlB3UkxCT1Q1c3NOMTNROG1wbUFjWGFfQXJxcXlhaU5jbl8zaDRYWFpBTE1RWlVaMjNYQk5QQkk"
+    },
+    {
+      "title": "The AI boom is starting to break time-tested stock-market signals - MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSUxtUGJ0d2kxX040ekxsWC1tR0NGbzJ3Qm5RREwxaVA1MTBpaG5WUUtiSkw4X3NuMElaYy1fY3JzdkdZcDNYSlNuRGM3QnhoWGYzekJNN25mR1BHcUQxT0FPMkhKYWcya3U0bFdOVHkxbEYwM0tZU3p6NVE2aWlOOHdvcEQ0d3Q1clcxaFBuejFLOWZSdkU3RHVIcTI1RXFUVUotUUFPaXJmS0NB?oc=5",
+      "source": "MarketWatch",
+      "published_at": "Wed, 28 Oct 2026 11:25:00 GMT",
+      "summary": "The AI boom is starting to break time-tested stock-market signals MarketWatch",
+      "guid": "CBMirAFBVV95cUxPSUxtUGJ0d2kxX040ekxsWC1tR0NGbzJ3Qm5RREwxaVA1MTBpaG5WUUtiSkw4X3NuMElaYy1fY3JzdkdZcDNYSlNuRGM3QnhoWGYzekJNN25mR1BHcUQxT0FPMkhKYWcya3U0bFdOVHkxbEYwM0tZU3p6NVE2aWlOOHdvcEQ0d3Q1clcxaFBuejFLOWZSdkU3RHVIcTI1RXFUVUotUUFPaXJmS0NB"
+    },
+    {
+      "title": "US stocks edge higher ahead of Federal Reserve decision on interest rates - Jacksonville Journal-Courier",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSlJyRlhGOUVzRkVPOUpUbVp0M2JWdm80Zk5kalVzQ3J0OEtaanhwaElKemZqTE1GR09ad3M1WVRMMVp6b3ZYR0R1bFJiOVFRb2FzUHhuamVFR2NmR2xuLVExT2dSRDlmMFpfRGE5RWhoWHZBNm9HMGNpelV1TUxwVTR3R2JLMjRZcU42VUpXWldxYV85cExla0RrbU9TNVZSR2pDRXZuTVdabWJiMEp6Zg?oc=5",
+      "source": "Jacksonville Journal-Courier",
+      "published_at": "Wed, 28 Oct 2026 12:30:12 GMT",
+      "summary": "US stocks edge higher ahead of Federal Reserve decision on interest rates Jacksonville Journal-Courier",
+      "guid": "CBMisAFBVV95cUxOSlJyRlhGOUVzRkVPOUpUbVp0M2JWdm80Zk5kalVzQ3J0OEtaanhwaElKemZqTE1GR09ad3M1WVRMMVp6b3ZYR0R1bFJiOVFRb2FzUHhuamVFR2NmR2xuLVExT2dSRDlmMFpfRGE5RWhoWHZBNm9HMGNpelV1TUxwVTR3R2JLMjRZcU42VUpXWldxYV85cExla0RrbU9TNVZSR2pDRXZuTVdabWJiMEp6Zg"
+    },
+    {
+      "title": "US stocks hold steady as the countdown ticks to a Federal Reserve decision on interest rates - Oskaloosa Herald",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNQ0xYLUhnaHF5Nk9ueFM5akFfLUd2cllzdEdQQ2dwbml1emRjaTBEVU1tZG13clplMkNrXzJjeGhIR2RPY00teW1JdjBMa2ZVYjJpOWhObUNYUk9iVm0yYzViQVhqUU1FOVg0WWE4R01LQ3I4U3Vuc3NRajFka2picGJ3eUpFOGwtTmtsYmNSR0cycUhJZnZHTlo1eVJ0MldkVlpCdldzb1FJd3VSd3k5aWNLNEVMOUpFWGVUQVRpWGJhSHlPTFlkNDBvTE8xd1BJMUdwT1VmdUpYaWJhMkN4anJoV0pmU3pWSmxCd2M1cEJwY3BmUkQ4NF91RVE?oc=5",
+      "source": "Oskaloosa Herald",
+      "published_at": "Wed, 28 Oct 2026 13:45:48 GMT",
+      "summary": "US stocks hold steady as the countdown ticks to a Federal Reserve decision on interest rates Oskaloosa Herald",
+      "guid": "CBMi_AFBVV95cUxNQ0xYLUhnaHF5Nk9ueFM5akFfLUd2cllzdEdQQ2dwbml1emRjaTBEVU1tZG13clplMkNrXzJjeGhIR2RPY00teW1JdjBMa2ZVYjJpOWhObUNYUk9iVm0yYzViQVhqUU1FOVg0WWE4R01LQ3I4U3Vuc3NRajFka2picGJ3eUpFOGwtTmtsYmNSR0cycUhJZnZHTlo1eVJ0MldkVlpCdldzb1FJd3VSd3k5aWNLNEVMOUpFWGVUQVRpWGJhSHlPTFlkNDBvTE8xd1BJMUdwT1VmdUpYaWJhMkN4anJoV0pmU3pWSmxCd2M1cEJwY3BmUkQ4NF91RVE"
+    },
+    {
+      "title": "US stocks hold steady as the countdown ticks to a Federal Reserve decision on interest rates - The Killeen Daily Herald",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNa2tyc0cwaktLZGZkaGl0RTRnTDFkNWZvMVhabTFET1E2SG1qVmVjb0ZjUG5DT1hDVXJaWG1tQXhvZ1BweFFZVjRvcTRELUs5aHh1UXpGWHRtUG4teHd5Uk92UDlVai0wN0tiMERvaElTLXE0NjhRTjV5WWhoV1QxOFlkd1M5cHU2emlicHh1Wk1Iekxub010bEZiMWhhTzcwOU5nVlY4cUVSZ1pTYXM4d3dkWFZlV2xOSFlRTWlqOV9JT0VRRVpBdEd2OUxzMXM3cWh1Z01GdXNuejQ4ZnhaQkJXalNucnJqRFBEWTRPbUd6MVNiZ0ZHSg?oc=5",
+      "source": "The Killeen Daily Herald",
+      "published_at": "Wed, 28 Oct 2026 13:45:48 GMT",
+      "summary": "US stocks hold steady as the countdown ticks to a Federal Reserve decision on interest rates The Killeen Daily Herald",
+      "guid": "CBMi-AFBVV95cUxNa2tyc0cwaktLZGZkaGl0RTRnTDFkNWZvMVhabTFET1E2SG1qVmVjb0ZjUG5DT1hDVXJaWG1tQXhvZ1BweFFZVjRvcTRELUs5aHh1UXpGWHRtUG4teHd5Uk92UDlVai0wN0tiMERvaElTLXE0NjhRTjV5WWhoV1QxOFlkd1M5cHU2emlicHh1Wk1Iekxub010bEZiMWhhTzcwOU5nVlY4cUVSZ1pTYXM4d3dkWFZlV2xOSFlRTWlqOV9JT0VRRVpBdEd2OUxzMXM3cWh1Z01GdXNuejQ4ZnhaQkJXalNucnJqRFBEWTRPbUd6MVNiZ0ZHSg"
     },
     {
       "title": "Oct 28 Could Be A Huge Day For The Stock Market - The Motley Fool",
@@ -23,68 +55,36 @@
       "guid": "CBMilAFBVV95cUxPR1FKZXpHMjhKSXB4SFhSRGNqSmZlQUdVSzVrS2p0V2JpaTJQOThtdGpjMXlzbGRMQ1FiV2ZHSVdRaEJkLUVUSkNhcGNPQUhKMWpOcnZhVU5iTUZEbWZJQTZ3UkdlQW9UU05GSXRxTGxSS1JjN0tpNWV0TmMxNVdxQzBGQ1lUVk1Rank2ajRXY0JpaTdN"
     },
     {
-      "title": "5 things to watch from the Federal Reserve's next meeting - LancasterOnline",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUF9Ya2djSUVaaWE0LWk3YnlJbm5zazI4R0R5S3RtNnprbEJLcW54andiQ1p3MVFEQkZVWXhYN0twX2h4MjdocUZfMHYxRmlOWlNmWVkySDltejcxZndraEhoZ0sxdmx3UHZ5LWdUbmhzR05td09ocFA0MjlLMzNWWUF3SUJRM2NXWWdGQWNrR0tUdS1KZzZHRlFHYmxuSjdZZC12QUNtcW9LNFBlZ1RpTGxWbERXeTN4S1hlY0ZDUlpCd3VlWFNCZGdqZWhwVzAyMzAzQ1BreGNVemp4eDBjN1VLS3I4MHJ5ZjlRZA?oc=5",
-      "source": "LancasterOnline",
-      "published_at": "Tue, 27 Oct 2026 03:57:54 GMT",
-      "summary": "5 things to watch from the Federal Reserve's next meeting LancasterOnline",
-      "guid": "CBMi7AFBVV95cUxPUF9Ya2djSUVaaWE0LWk3YnlJbm5zazI4R0R5S3RtNnprbEJLcW54andiQ1p3MVFEQkZVWXhYN0twX2h4MjdocUZfMHYxRmlOWlNmWVkySDltejcxZndraEhoZ0sxdmx3UHZ5LWdUbmhzR05td09ocFA0MjlLMzNWWUF3SUJRM2NXWWdGQWNrR0tUdS1KZzZHRlFHYmxuSjdZZC12QUNtcW9LNFBlZ1RpTGxWbERXeTN4S1hlY0ZDUlpCd3VlWFNCZGdqZWhwVzAyMzAzQ1BreGNVemp4eDBjN1VLS3I4MHJ5ZjlRZA"
+      "title": "Stock Market Today: S&P 500, Dow Jones Futures Trade Mixed Ahead of Federal Reserve Interest Rate Decision — SKHY, STX, V, GOOGL in Focus - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNOHIyTThiOE03WlhxUFYxRTBxMy1RVm53Wkh1NDg5Z1lmVEp3c1JRSlJtRzJQV09faVNvWEZHOFRJOUtSWDdKbjVGaHpYZmZiQUJfU1dEUUV0c0lDWEw2TjJmc0xKY1RyZkJwcm4wUmd3ay1DTy1jWDNYcVpxWlFMcFBReUl4N3hoaGtfZVU0NVJMRS1zazlEdjZxbGpVbnBjTFBIcjlnNGVET1RXTk50STZHTXExb1MybUt2UEF4XzJuQnNOcHJhdU1na1REMzlNWmZCc0c3QnBUWG84VFQ4eGt3bmgtakZWUmNsbXFueGFINF9RbE1Jbm1ndFFEQVVnQkg1b2p6VnJoSElMeTItV2YwYkowS1Bw?oc=5",
+      "source": "TradingView",
+      "published_at": "Wed, 28 Oct 2026 09:47:15 GMT",
+      "summary": "Stock Market Today: S&P 500, Dow Jones Futures Trade Mixed Ahead of Federal Reserve Interest Rate Decision — SKHY, STX, V, GOOGL in Focus TradingView",
+      "guid": "CBMimAJBVV95cUxNOHIyTThiOE03WlhxUFYxRTBxMy1RVm53Wkh1NDg5Z1lmVEp3c1JRSlJtRzJQV09faVNvWEZHOFRJOUtSWDdKbjVGaHpYZmZiQUJfU1dEUUV0c0lDWEw2TjJmc0xKY1RyZkJwcm4wUmd3ay1DTy1jWDNYcVpxWlFMcFBReUl4N3hoaGtfZVU0NVJMRS1zazlEdjZxbGpVbnBjTFBIcjlnNGVET1RXTk50STZHTXExb1MybUt2UEF4XzJuQnNOcHJhdU1na1REMzlNWmZCc0c3QnBUWG84VFQ4eGt3bmgtakZWUmNsbXFueGFINF9RbE1Jbm1ndFFEQVVnQkg1b2p6VnJoSElMeTItV2YwYkowS1Bw"
     },
     {
-      "title": "What Investors Should Expect from the Fed Today - Cabot Wealth Network",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSXo5bnZzdkhOZG9HWUtFOHlNb04tdkktMm9mYU9SWW84ZWcwSlJHandCWjAzYWZhcmktUmd2RE95ZWJPTHVHcDNoVmlXU3hVQkZrdXpQOG5kcHo4aklodVdlRnlwNjltQ2RhYVVONVpjN3hkZnZNR3ZEU3h5c193N2MxR0ZUNHBvWG5fc1JPNWtxbzRW?oc=5",
-      "source": "Cabot Wealth Network",
-      "published_at": "Wed, 28 Oct 2026 06:00:00 GMT",
-      "summary": "What Investors Should Expect from the Fed Today Cabot Wealth Network",
-      "guid": "CBMilAFBVV95cUxOSXo5bnZzdkhOZG9HWUtFOHlNb04tdkktMm9mYU9SWW84ZWcwSlJHandCWjAzYWZhcmktUmd2RE95ZWJPTHVHcDNoVmlXU3hVQkZrdXpQOG5kcHo4aklodVdlRnlwNjltQ2RhYVVONVpjN3hkZnZNR3ZEU3h5c193N2MxR0ZUNHBvWG5fc1JPNWtxbzRW"
+      "title": "Oct 28 Could Be A Huge Day For The Stock Market - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcExpdVpScXFUckRfYkJMdWhRcU9YZGlDNmRLcVk3LUhLendMUDhFSXNFOGNydVYtc3l3ZE9mMzFCbnVjMmFXY3BZTDZ5V2ZwYTNzRDBtTnNFYTZEd1pwc3ZkY1lJS2w1bi1xb1M3OXQ1YVBwNjVpRVg1T25ZVktHWWoxUjB4NGsxVU1GT1dRcw?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Tue, 27 Oct 2026 19:05:02 GMT",
+      "summary": "Oct 28 Could Be A Huge Day For The Stock Market Yahoo Finance",
+      "guid": "CBMijwFBVV95cUxOcExpdVpScXFUckRfYkJMdWhRcU9YZGlDNmRLcVk3LUhLendMUDhFSXNFOGNydVYtc3l3ZE9mMzFCbnVjMmFXY3BZTDZ5V2ZwYTNzRDBtTnNFYTZEd1pwc3ZkY1lJS2w1bi1xb1M3OXQ1YVBwNjVpRVg1T25ZVktHWWoxUjB4NGsxVU1GT1dRcw"
     },
     {
-      "title": "Fed Meeting: Watch Out For These 3 Hawkish Signals - Investor's Business Daily",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWks0cXJfUFlpTHNIQXlOaG5uTlNsb09BWl94ajF0YVVrWjVvRUhlaEpnQUVqeGhHcnZZQXdoSHYzQTRGcEtMWWc0TGtWc3FrXzM3Rzdzckx0WHNBcmM2bU1LcDJYQ01SSERtMjNSaXV5UWlIWXR3bTJjbFJ5dWJYR1BZTThLOU5tc1ZDOUFQZVpkUThmM0E4OQ?oc=5",
-      "source": "Investor's Business Daily",
-      "published_at": "Tue, 27 Oct 2026 17:46:00 GMT",
-      "summary": "Fed Meeting: Watch Out For These 3 Hawkish Signals Investor's Business Daily",
-      "guid": "CBMimAFBVV95cUxOWks0cXJfUFlpTHNIQXlOaG5uTlNsb09BWl94ajF0YVVrWjVvRUhlaEpnQUVqeGhHcnZZQXdoSHYzQTRGcEtMWWc0TGtWc3FrXzM3Rzdzckx0WHNBcmM2bU1LcDJYQ01SSERtMjNSaXV5UWlIWXR3bTJjbFJ5dWJYR1BZTThLOU5tc1ZDOUFQZVpkUThmM0E4OQ"
+      "title": "Interest Rates Should Remain Unchanged Today, but at Least 3 Federal Reserve Rate Hikes Are Expected by September 2027 - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdlRyNUl6MDFVMGc4UGV5M3I0WkNjRVpBQ2ZCRVhyTkthTm9HbGdZblRhNU1HemFFRVJiX0lZNW5yeG5adElmb0x6QkxjVmRjZFdpcWk1NElROGZYcVJpV0ZURFAwMEFIaW1CcXdNaDRtUHFHbFVJM3pGWFdTN3FkQURSbEtCM2NGWk5WTERUTDgyU1BxcXRKWkpuVHpZU05LVVh4a2t5WXhhT014NWhKN21FR3hYOE9jY3JPb1U0Rm0xMzF4WUhzUVhiV2JIUQ?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Wed, 28 Oct 2026 09:06:00 GMT",
+      "summary": "Interest Rates Should Remain Unchanged Today, but at Least 3 Federal Reserve Rate Hikes Are Expected by September 2027 The Motley Fool",
+      "guid": "CBMizgFBVV95cUxNdlRyNUl6MDFVMGc4UGV5M3I0WkNjRVpBQ2ZCRVhyTkthTm9HbGdZblRhNU1HemFFRVJiX0lZNW5yeG5adElmb0x6QkxjVmRjZFdpcWk1NElROGZYcVJpV0ZURFAwMEFIaW1CcXdNaDRtUHFHbFVJM3pGWFdTN3FkQURSbEtCM2NGWk5WTERUTDgyU1BxcXRKWkpuVHpZU05LVVh4a2t5WXhhT014NWhKN21FR3hYOE9jY3JPb1U0Rm0xMzF4WUhzUVhiV2JIUQ"
     },
     {
-      "title": "5 Things to Know Before the Stock Market Opens on Tuesday - Investopedia",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOb0RPV0xzZUNCNFo4YTJBZkNLSmc4b3ZBS2tkUjc2RzFmT05jV2Q2U2pIdG9yNzJHZlpQb0dvc3o3Y0FfSmpLYUdPODZGN25RcHdvODRSMWtKOG5obDhMNkotYURSRkxuMUNKaXJoTEsxLVg4WDZPNzh0cmF3Nm9Bc3RLbXpENDZHZHFHVzVSNVFRZ2RmWWYwRW1xcGMzcDNnc3R3UlhMbjRfNi15bTM4bg?oc=5",
-      "source": "Investopedia",
-      "published_at": "Tue, 27 Oct 2026 12:04:42 GMT",
-      "summary": "5 Things to Know Before the Stock Market Opens on Tuesday Investopedia",
-      "guid": "CBMisAFBVV95cUxOb0RPV0xzZUNCNFo4YTJBZkNLSmc4b3ZBS2tkUjc2RzFmT05jV2Q2U2pIdG9yNzJHZlpQb0dvc3o3Y0FfSmpLYUdPODZGN25RcHdvODRSMWtKOG5obDhMNkotYURSRkxuMUNKaXJoTEsxLVg4WDZPNzh0cmF3Nm9Bc3RLbXpENDZHZHFHVzVSNVFRZ2RmWWYwRW1xcGMzcDNnc3R3UlhMbjRfNi15bTM4bg"
-    },
-    {
-      "title": "Stock Market: Will S&P 500 Open Up or Down Today? - Benzinga",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMF9TQTdubV9ORWY2WkQ3VjZqWjB2bktoZFVmbVZuUFYzY2FuMHo0WDVwN3hUbGliRF82V3YwWEFTNGNfQ1BCc2VuU1BzWWFVSU5vQlk1elZsODlJV29SaS1ZQWoyWE1kbmdIY3VfTmRMZVRVQTdDaFJfYzNDQ2V5RzRadEI2QVBhamd4a2VUQnRyM1ZPOU1fVVQ3UlNFOS1aVGFwYUhVUHpTcjJlT2h1OVVTdE85d1k?oc=5",
-      "source": "Benzinga",
-      "published_at": "Wed, 28 Oct 2026 05:36:20 GMT",
-      "summary": "Stock Market: Will S&P 500 Open Up or Down Today? Benzinga",
-      "guid": "CBMitwFBVV95cUxPMF9TQTdubV9ORWY2WkQ3VjZqWjB2bktoZFVmbVZuUFYzY2FuMHo0WDVwN3hUbGliRF82V3YwWEFTNGNfQ1BCc2VuU1BzWWFVSU5vQlk1elZsODlJV29SaS1ZQWoyWE1kbmdIY3VfTmRMZVRVQTdDaFJfYzNDQ2V5RzRadEI2QVBhamd4a2VUQnRyM1ZPOU1fVVQ3UlNFOS1aVGFwYUhVUHpTcjJlT2h1OVVTdE85d1k"
-    },
-    {
-      "title": "US Stock Futures Gain, Oil Falls on Iran Comments: Markets Wrap - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYTFLZTJNckNaRFN0TG9fLXJTY3h3VkVRSnZfMDJfLVkxOTNsU01IbWtXbDZQUTFIOXJXWENhY2NIX0ZuLUdLSHJMemcyUkNEZklQdUQxZlpHUWNwaVE3WFp1dk1meVZwejRrSUF1dEhFdDBjNUp3WVdqVnNBamJfQjFrN2g5b3QwZFBUMHZjYVU2aGhK?oc=5",
-      "source": "Bloomberg.com",
-      "published_at": "Mon, 26 Oct 2026 22:03:56 GMT",
-      "summary": "US Stock Futures Gain, Oil Falls on Iran Comments: Markets Wrap Bloomberg.com",
-      "guid": "CBMilAFBVV95cUxPYTFLZTJNckNaRFN0TG9fLXJTY3h3VkVRSnZfMDJfLVkxOTNsU01IbWtXbDZQUTFIOXJXWENhY2NIX0ZuLUdLSHJMemcyUkNEZklQdUQxZlpHUWNwaVE3WFp1dk1meVZwejRrSUF1dEhFdDBjNUp3WVdqVnNBamJfQjFrN2g5b3QwZFBUMHZjYVU2aGhK"
-    },
-    {
-      "title": "AI Stocks Rally as Dollar Steadies Ahead of Federal Reserve Decision - Global Banking & Finance Review",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdi13RjdBc2ctbUJVeUxjeEtVVmpXZm1YZzhOR1g0c1FQNFdNVW9rRFNWN25xbjFUQjdTNm9oQ2hKeUJhcTJXbGNYOWVKeS1fSHdmZzJsSDg5YVp0SGZZeE1JSFJ4VGFJNlRXMFljd2hkUkR2eXJ5ak1PaUtQeHpySDlHZ1RoT3IxZXNsVXdHUDY0cmJDU2hBVDY3MjhGYU0?oc=5",
-      "source": "Global Banking & Finance Review",
-      "published_at": "Wed, 28 Oct 2026 01:49:00 GMT",
-      "summary": "AI Stocks Rally as Dollar Steadies Ahead of Federal Reserve Decision Global Banking & Finance Review",
-      "guid": "CBMinwFBVV95cUxQdi13RjdBc2ctbUJVeUxjeEtVVmpXZm1YZzhOR1g0c1FQNFdNVW9rRFNWN25xbjFUQjdTNm9oQ2hKeUJhcTJXbGNYOWVKeS1fSHdmZzJsSDg5YVp0SGZZeE1JSFJ4VGFJNlRXMFljd2hkUkR2eXJ5ak1PaUtQeHpySDlHZ1RoT3IxZXNsVXdHUDY0cmJDU2hBVDY3MjhGYU0"
-    },
-    {
-      "title": "Fed expected to hold rates steady, but Warsh may point way to more hikes - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9DeEN1Q0lOYXdvZ1RhMGVYWm5Fcm1jU3ZEWTR4M3lCdXBQdkJ3WkJRS0VKbGFOVkpfUG8tbHFNb05yenRtRnJfMUZLV3hQdFVxZGxmdUI1OWt2d2xfSWRXYWd2OGEzUFIxelJDRnliOVJ6MHNXTk50VDh30gF_QVVfeXFMUFhDd2V2SDNUb0F3OWpneFhXVk90eDlFY2dyNVVLVEVhU2c4Z3d5d211RFBiMWZrUk5ZXzdRc0w3MGEzVTFCV0tKYjFuTWN1aklNRkZJTmJFc0l2VHFMaklvTUFRQWlqUGp2RFhLVklrRGl5NjJGLVVuM0lfTDlaNA?oc=5",
-      "source": "CNBC",
-      "published_at": "Tue, 27 Oct 2026 11:06:22 GMT",
-      "summary": "Fed expected to hold rates steady, but Warsh may point way to more hikes CNBC",
-      "guid": "CBMiekFVX3lxTE9DeEN1Q0lOYXdvZ1RhMGVYWm5Fcm1jU3ZEWTR4M3lCdXBQdkJ3WkJRS0VKbGFOVkpfUG8tbHFNb05yenRtRnJfMUZLV3hQdFVxZGxmdUI1OWt2d2xfSWRXYWd2OGEzUFIxelJDRnliOVJ6MHNXTk50VDh30gF_QVVfeXFMUFhDd2V2SDNUb0F3OWpneFhXVk90eDlFY2dyNVVLVEVhU2c4Z3d5d211RFBiMWZrUk5ZXzdRc0w3MGEzVTFCV0tKYjFuTWN1aklNRkZJTmJFc0l2VHFMaklvTUFRQWlqUGp2RFhLVklrRGl5NjJGLVVuM0lfTDlaNA"
+      "title": "US Stock Futures Mixed Ahead of Alphabet, Microsoft Earnings and Federal Reserve Rate Decision: Dow Jones, S&P, Nasdaq, Wall Street - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOd2xfcTN0UklocUc0ZHluT0RKdnRnUTVyUGx5TXZTNXRCVTZhV1BwT2l3N1B5eHF0MGJReXduTEFDd1paNUpxcEVrZUt5MUdRc050SnRaUUktTUJnb0RPQWtfWlBfN2gxNVllOFBTcDVwMU5MZ2VnOXFlc200ckE0ZlZiR051RVh5ejM3eWVhNHhFajk2VUdFMg?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Wed, 28 Oct 2026 10:49:43 GMT",
+      "summary": "US Stock Futures Mixed Ahead of Alphabet, Microsoft Earnings and Federal Reserve Rate Decision: Dow Jones, S&P, Nasdaq, Wall Street Yahoo Finance",
+      "guid": "CBMimAFBVV95cUxOd2xfcTN0UklocUc0ZHluT0RKdnRnUTVyUGx5TXZTNXRCVTZhV1BwT2l3N1B5eHF0MGJReXduTEFDd1paNUpxcEVrZUt5MUdRc050SnRaUUktTUJnb0RPQWtfWlBfN2gxNVllOFBTcDVwMU5MZ2VnOXFlc200ckE0ZlZiR051RVh5ejM3eWVhNHhFajk2VUdFMg"
     }
   ]
 }
