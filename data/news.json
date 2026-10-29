@@ -1,19 +1,11 @@
 {
-  "generated_at": "2026-10-29T09:02:46Z",
+  "generated_at": "2026-10-29T16:02:49Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
-    {
-      "title": "Did the Fed just make a huge mistake? - CNN",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRNlIxZUJfajdMT2Zfa1E0NXNIZ1g4QVpZWUZLTUM3cDFBQzFjZVJSQTBvT3RXUzhfN0dQNVBsRVdfUzlTWFNRNndNNTNMZ0FtOFJmRU9PMEVZTEhfR0FMa3hTbzZEQUZSUXRsNzJUUk9RcmZ1?oc=5",
-      "source": "CNN",
-      "published_at": "Wed, 28 Oct 2026 19:54:08 GMT",
-      "summary": "Did the Fed just make a huge mistake? CNN",
-      "guid": "CBMidEFVX3lxTFBRNlIxZUJfajdMT2Zfa1E0NXNIZ1g4QVpZWUZLTUM3cDFBQzFjZVJSQTBvT3RXUzhfN0dQNVBsRVdfUzlTWFNRNndNNTNMZ0FtOFJmRU9PMEVZTEhfR0FMa3hTbzZEQUZSUXRsNzJUUk9RcmZ1"
-    },
     {
       "title": "Wall Street ends higher as Fed holds key rate steady, focus turns to earnings - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQVNrQUVwN1c3SjBCODU1TXUwRy1hQ2lIQUxFZkJ3dGhXa0NZalhVTFFoeTU4MlB3VDRwWE1QRktITG5FZnd1eUVDTjRUankwRGgzRkRKTGdwZDVDbWUyTWVKNlRKVld5RVdaTllzZkVhdXUzNkZUOU5RWWNOQVJTY2xuaDJZZXlybC05LXRmTmpPb2RvVlliLWxBUXZVRldXU3kyY2pWb1ZmZlFNUU1KMmN4aV9wMk9Lai01YXcza0JqdDQ?oc=5",
@@ -23,20 +15,12 @@
       "guid": "CBMiwwFBVV95cUxPQVNrQUVwN1c3SjBCODU1TXUwRy1hQ2lIQUxFZkJ3dGhXa0NZalhVTFFoeTU4MlB3VDRwWE1QRktITG5FZnd1eUVDTjRUankwRGgzRkRKTGdwZDVDbWUyTWVKNlRKVld5RVdaTllzZkVhdXUzNkZUOU5RWWNOQVJTY2xuaDJZZXlybC05LXRmTmpPb2RvVlliLWxBUXZVRldXU3kyY2pWb1ZmZlFNUU1KMmN4aV9wMk9Lai01YXcza0JqdDQ"
     },
     {
-      "title": "The bond market swings, but U.S. stocks remain steady after the Fed says it won't raise interest rates - Pittsburgh Post-Gazette",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMG5sbDJYY2Y0YUo1bXItVXdRTkk5RlJHSVBDS0NVUk9wOVI2c2hZUXlIaWpRM09vOHVPazV2SHJKSGlxMmdnVUQ2SExVZVNJMUs4VWczZ0pWWHZtQ0dycGtlVUxURkF6cUp2NmQzUm5WS3MtT09NbmEyQVR3cDYzamlkaC14VTVHekNLRHNRUzdPdFE5X2lzeWR0d1VhUkVsb3JUTDJ2M2Y2OFUtVndR?oc=5",
-      "source": "Pittsburgh Post-Gazette",
-      "published_at": "Thu, 29 Oct 2026 08:50:14 GMT",
-      "summary": "The bond market swings, but U.S. stocks remain steady after the Fed says it won't raise interest rates Pittsburgh Post-Gazette",
-      "guid": "CBMirwFBVV95cUxOMG5sbDJYY2Y0YUo1bXItVXdRTkk5RlJHSVBDS0NVUk9wOVI2c2hZUXlIaWpRM09vOHVPazV2SHJKSGlxMmdnVUQ2SExVZVNJMUs4VWczZ0pWWHZtQ0dycGtlVUxURkF6cUp2NmQzUm5WS3MtT09NbmEyQVR3cDYzamlkaC14VTVHekNLRHNRUzdPdFE5X2lzeWR0d1VhUkVsb3JUTDJ2M2Y2OFUtVndR"
-    },
-    {
-      "title": "US stocks hold steady as the countdown ticks to a Federal Reserve decision on interest rates - New Haven Register",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOS3JwaEVUWnRPWGZBdUhRaHRVZDdqbEw3UFo1Y3FidUE1bE4tYS04OThEVEp1YUFqWDk3LXZUQUZmZ2VJbERMUEplbzhVVS1fLWJySE4wS1NuNjlwd2ZCVlptOE9ETFVCS1RaNl9sRGdTZjlDSFozV1BiUnZXQ1lPaXNRXzg2VWptbEhzQi12T1pVdHBQLVZoSWJjdWszbWhwTmllclk2a3M?oc=5",
-      "source": "New Haven Register",
-      "published_at": "Wed, 28 Oct 2026 16:07:30 GMT",
-      "summary": "US stocks hold steady as the countdown ticks to a Federal Reserve decision on interest rates New Haven Register",
-      "guid": "CBMiqAFBVV95cUxOS3JwaEVUWnRPWGZBdUhRaHRVZDdqbEw3UFo1Y3FidUE1bE4tYS04OThEVEp1YUFqWDk3LXZUQUZmZ2VJbERMUEplbzhVVS1fLWJySE4wS1NuNjlwd2ZCVlptOE9ETFVCS1RaNl9sRGdTZjlDSFozV1BiUnZXQ1lPaXNRXzg2VWptbEhzQi12T1pVdHBQLVZoSWJjdWszbWhwTmllclk2a3M"
+      "title": "A potentially historic drop for Alphabet's stock drags the US market lower - LancasterOnline",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQeWYzd0xHSERQMlZld0ZSX0dEdU5pOEZsMzF4NW1vbWJmY2FBMEJWcmE3ZXdsOTB6V2hrWE9mNm1oRDZyeGM2aTU5djJoWDFzVF9DX3gwVkFHRjlGT18yZWhfZEJyTzh1cWJRa3VSSUxIbkJsUVlHUlB3OGxmdFNra3h0TVVEMWhSMFV5Z0YtYTlJTlBCOGNTZ3FIRWtVYkxyY3VnaVZFZGZ6TmNJV3Y4Yng5MXRSam9PenZOWkV6bmhYOGQ4YkJuNTE1cTh0QWxLVFZOVWk1NktFT3FyUmFIQVl4aVBlMU5vMUhzNDkyZTE1VGd4NlZaa055SmpVUUlnZWVMWVZsSDZaRklyMzhsZlVDQ18ydTQ?oc=5",
+      "source": "LancasterOnline",
+      "published_at": "Thu, 29 Oct 2026 14:41:51 GMT",
+      "summary": "A potentially historic drop for Alphabet's stock drags the US market lower LancasterOnline",
+      "guid": "CBMilwJBVV95cUxQeWYzd0xHSERQMlZld0ZSX0dEdU5pOEZsMzF4NW1vbWJmY2FBMEJWcmE3ZXdsOTB6V2hrWE9mNm1oRDZyeGM2aTU5djJoWDFzVF9DX3gwVkFHRjlGT18yZWhfZEJyTzh1cWJRa3VSSUxIbkJsUVlHUlB3OGxmdFNra3h0TVVEMWhSMFV5Z0YtYTlJTlBCOGNTZ3FIRWtVYkxyY3VnaVZFZGZ6TmNJV3Y4Yng5MXRSam9PenZOWkV6bmhYOGQ4YkJuNTE1cTh0QWxLVFZOVWk1NktFT3FyUmFIQVl4aVBlMU5vMUhzNDkyZTE1VGd4NlZaa055SmpVUUlnZWVMWVZsSDZaRklyMzhsZlVDQ18ydTQ"
     },
     {
       "title": "Bond market swings, but U.S. stocks remain steady after Fed says it won't raise interest rates - Toledo Blade",
@@ -47,6 +31,14 @@
       "guid": "CBMijAJBVV95cUxQbTlJdFBVeTJaZVBQY1pNOEY2U2w3NHNtNHNfYV9QcG82eVdJMVdzNUZ4dG9sNFBmRXhUWEpNdXlSLWJxc2ViM01ZVndaYWNhb0Z4dnVkZWRpVWN1NHFCeTEtX2VxSy1helZsX2d3VjRJNW5SS2twWVkxZ25fbDBKb1dNSGVUZklfVnZSakZ6QzktRWttTldCa0dVQWliNTdfUWxqRDZGRWxVY3ZJR05VangzZEp1X2EzQkh5d1laYTItTlpzNVd4MVNYUzFFbjNFU2dHbGpVYWFvTHU1QzlMSGFlODFoaGplaWVKNmJERjZVOThDZmJ3bTMtaHFBMXk2ZEtRVXNSd25YTHIy"
     },
     {
+      "title": "The bond market swings, but U.S. stocks remain steady after the Fed says it won't raise interest rates - Pittsburgh Post-Gazette",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMG5sbDJYY2Y0YUo1bXItVXdRTkk5RlJHSVBDS0NVUk9wOVI2c2hZUXlIaWpRM09vOHVPazV2SHJKSGlxMmdnVUQ2SExVZVNJMUs4VWczZ0pWWHZtQ0dycGtlVUxURkF6cUp2NmQzUm5WS3MtT09NbmEyQVR3cDYzamlkaC14VTVHekNLRHNRUzdPdFE5X2lzeWR0d1VhUkVsb3JUTDJ2M2Y2OFUtVndR?oc=5",
+      "source": "Pittsburgh Post-Gazette",
+      "published_at": "Wed, 28 Oct 2026 13:42:53 GMT",
+      "summary": "The bond market swings, but U.S. stocks remain steady after the Fed says it won't raise interest rates Pittsburgh Post-Gazette",
+      "guid": "CBMirwFBVV95cUxOMG5sbDJYY2Y0YUo1bXItVXdRTkk5RlJHSVBDS0NVUk9wOVI2c2hZUXlIaWpRM09vOHVPazV2SHJKSGlxMmdnVUQ2SExVZVNJMUs4VWczZ0pWWHZtQ0dycGtlVUxURkF6cUp2NmQzUm5WS3MtT09NbmEyQVR3cDYzamlkaC14VTVHekNLRHNRUzdPdFE5X2lzeWR0d1VhUkVsb3JUTDJ2M2Y2OFUtVndR"
+    },
+    {
       "title": "Federal Reserve Holds Interest Rates Steady Ahead of Midterms. Here's What That Means for the Market. - The Motley Fool",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNWxoTXNRX2Foa0szMnRIYW5UcHBDX3ZQMmNBNEdEWlhJN2w4Q2NWX0hTSi12cy0xeHZrZk1HN3F0dlFYWEphWkRmU2VrcDhxaXU2cFliQ1Q2YXVvX3ZiTWRHQmdLNDM3TW9ObDlDMDczU0pHZ0Q2Q2Y2LTFDeXl0elkxSjMxYXRjbFNrZXd1SUVDY3BESlJwSmJhak5MRnZnczhXV0RYNTE2SDJ3TjF5STI1MkhiaU5QeVd6RS1BRlRHV3RlMWF5N1RaNkRLenI5M3FiYXJrTW4?oc=5",
       "source": "The Motley Fool",
@@ -55,12 +47,28 @@
       "guid": "CBMi2AFBVV95cUxNNWxoTXNRX2Foa0szMnRIYW5UcHBDX3ZQMmNBNEdEWlhJN2w4Q2NWX0hTSi12cy0xeHZrZk1HN3F0dlFYWEphWkRmU2VrcDhxaXU2cFliQ1Q2YXVvX3ZiTWRHQmdLNDM3TW9ObDlDMDczU0pHZ0Q2Q2Y2LTFDeXl0elkxSjMxYXRjbFNrZXd1SUVDY3BESlJwSmJhak5MRnZnczhXV0RYNTE2SDJ3TjF5STI1MkhiaU5QeVd6RS1BRlRHV3RlMWF5N1RaNkRLenI5M3FiYXJrTW4"
     },
     {
-      "title": "The Fed's new headache: An AI boom that turns to bust - Politico",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVTdHYXBUMEV4enBnVGx4aC1OeHZXZktKYklMcWEwQmZIMi13QzcyU1hQeC15bXpWVE95Zm9IbDRvbzRvS1QtV2JiZTFuMmlpR3FhSHRTeFM3Y2c3QjJ1amM1b0VxWEMyYlhNbUxMajlLeG9ETGRjeU5ubmFuODVNdHZzN0JkRXFMUWNTSlhR?oc=5",
-      "source": "Politico",
-      "published_at": "Wed, 28 Oct 2026 14:26:00 GMT",
-      "summary": "The Fed's new headache: An AI boom that turns to bust Politico",
-      "guid": "CBMijgFBVV95cUxNVTdHYXBUMEV4enBnVGx4aC1OeHZXZktKYklMcWEwQmZIMi13QzcyU1hQeC15bXpWVE95Zm9IbDRvbzRvS1QtV2JiZTFuMmlpR3FhSHRTeFM3Y2c3QjJ1amM1b0VxWEMyYlhNbUxMajlLeG9ETGRjeU5ubmFuODVNdHZzN0JkRXFMUWNTSlhR"
+      "title": "Did the Fed just make a huge mistake? - CNN",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRNlIxZUJfajdMT2Zfa1E0NXNIZ1g4QVpZWUZLTUM3cDFBQzFjZVJSQTBvT3RXUzhfN0dQNVBsRVdfUzlTWFNRNndNNTNMZ0FtOFJmRU9PMEVZTEhfR0FMa3hTbzZEQUZSUXRsNzJUUk9RcmZ1?oc=5",
+      "source": "CNN",
+      "published_at": "Wed, 28 Oct 2026 19:54:08 GMT",
+      "summary": "Did the Fed just make a huge mistake? CNN",
+      "guid": "CBMidEFVX3lxTFBRNlIxZUJfajdMT2Zfa1E0NXNIZ1g4QVpZWUZLTUM3cDFBQzFjZVJSQTBvT3RXUzhfN0dQNVBsRVdfUzlTWFNRNndNNTNMZ0FtOFJmRU9PMEVZTEhfR0FMa3hTbzZEQUZSUXRsNzJUUk9RcmZ1"
+    },
+    {
+      "title": "US stock index futures pare losses after economic data - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPT0NkZ2lRVmxUTy1QUnQ0UjE1aVNXWEZ2ZngwYXpKNld4N1BrTEUxdVhHM0lBQXFCTFVmV0RwYVFlZGlDcERaRTVEYXp5MVN1Z2NhUnJjdXNnVFk5VF82a1pFNnp0ckFpRVpNbms3eEFlOGI3NzVadzFGYnk3ZS1SR25JRTF1cU9oSXl0M2Nn?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Thu, 29 Oct 2026 12:40:27 GMT",
+      "summary": "US stock index futures pare losses after economic data Yahoo Finance",
+      "guid": "CBMijgFBVV95cUxPT0NkZ2lRVmxUTy1QUnQ0UjE1aVNXWEZ2ZngwYXpKNld4N1BrTEUxdVhHM0lBQXFCTFVmV0RwYVFlZGlDcERaRTVEYXp5MVN1Z2NhUnJjdXNnVFk5VF82a1pFNnp0ckFpRVpNbms3eEFlOGI3NzVadzFGYnk3ZS1SR25JRTF1cU9oSXl0M2Nn"
+    },
+    {
+      "title": "World shares and U.S. futures are mixed after Google parent Alphabet's earnings disappoint - LancasterOnline",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxON2FPazlwVGlaekRyeEYyMzVtVHlsSHFQQjh3em9sMUFxMUhDUEZ4OEZPemJQS0d6dU5JTlVxalVDRU1BNnhfTVZfOVZ3czFwX0p0NnhwYlNVOXI5YXV2UXQzU0d3eWNTci1TRUdsQnpzQXdCbTFaVko1TDJLang2dkxHLVF2MlNUaU5UbmtaS3lYNFRBNGhtWW9fZUpJYkRWa2VuMU9nRnBsOFJGWEI1aFJyQkkzLWJYMjg0ckQ3WHo3VTZtdWhtSHp3R193NVJjQ05ZajhuWWlJUXdhYlhkRUg5OWxkdkJlMTZ0dFd3bkRWNTNod2ZER3NDRW9wVDZCRm1vNjFYeW1YQmEzY005YXc5d05BNkU?oc=5",
+      "source": "LancasterOnline",
+      "published_at": "Thu, 29 Oct 2026 10:11:38 GMT",
+      "summary": "World shares and U.S. futures are mixed after Google parent Alphabet's earnings disappoint LancasterOnline",
+      "guid": "CBMilwJBVV95cUxON2FPazlwVGlaekRyeEYyMzVtVHlsSHFQQjh3em9sMUFxMUhDUEZ4OEZPemJQS0d6dU5JTlVxalVDRU1BNnhfTVZfOVZ3czFwX0p0NnhwYlNVOXI5YXV2UXQzU0d3eWNTci1TRUdsQnpzQXdCbTFaVko1TDJLang2dkxHLVF2MlNUaU5UbmtaS3lYNFRBNGhtWW9fZUpJYkRWa2VuMU9nRnBsOFJGWEI1aFJyQkkzLWJYMjg0ckQ3WHo3VTZtdWhtSHp3R193NVJjQ05ZajhuWWlJUXdhYlhkRUg5OWxkdkJlMTZ0dFd3bkRWNTNod2ZER3NDRW9wVDZCRm1vNjFYeW1YQmEzY005YXc5d05BNkU"
     },
     {
       "title": "US Equity Markets End Higher After Federal Reserve Votes to Keep Policy Rate Unchanged - Yahoo Finance",
@@ -71,20 +79,12 @@
       "guid": "CBMimAFBVV95cUxPdjBETFFhRmZySm1fVVczRWJTS09NLW8xX29UbmZpLXJvVF9tVWthSmVxWW9vVFFlbkQxR1Z5bERQZkdkZDlSdnFQTmNBUnFWbGFWRVhjTG03SlQyTmxIS1BDbFlvNHVXWnNmZmxZZXY3OGw2S29vVzRja190WTRFQ1FMSXpQekI2NG03MHFucDJJRGxkempzcw"
     },
     {
-      "title": "What the Fed's interest rate decision means for your bank accounts, loans, credit cards, and investments - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOaDlWS0VRSklaemMzd3V4dllmTlZRbTQtOVV6WlA2SjlkcTI2LTl4RU1PTk93OHpIelZWUWczX1RfS0xCRHVnN0FlWUZBOFUtc2dWdjE1OXFaekxLWjR0b243b1VWRENCeko4OVFnSXBEVFhCeUhGVFQxMFZVby1CY3dNMG1ZR3JEd0dRWGgyblV2UjIxQkwxZXNjakpHV0dBWUtoeXJlUUpJR2pkaVFlRGEtMEZqd1M2UXlwT1RfRWlxbzhYQU1WdUxXWkh0MHZNa1J6QVl2SFliSVIzVmgwSjBoZ1V1RlZjUGloa2xIWmVBeURVSHNLcFNtM21LMXY2RHNTOQ?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Wed, 28 Oct 2026 18:04:00 GMT",
-      "summary": "What the Fed's interest rate decision means for your bank accounts, loans, credit cards, and investments Yahoo Finance",
-      "guid": "CBMihAJBVV95cUxOaDlWS0VRSklaemMzd3V4dllmTlZRbTQtOVV6WlA2SjlkcTI2LTl4RU1PTk93OHpIelZWUWczX1RfS0xCRHVnN0FlWUZBOFUtc2dWdjE1OXFaekxLWjR0b243b1VWRENCeko4OVFnSXBEVFhCeUhGVFQxMFZVby1CY3dNMG1ZR3JEd0dRWGgyblV2UjIxQkwxZXNjakpHV0dBWUtoeXJlUUpJR2pkaVFlRGEtMEZqd1M2UXlwT1RfRWlxbzhYQU1WdUxXWkh0MHZNa1J6QVl2SFliSVIzVmgwSjBoZ1V1RlZjUGloa2xIWmVBeURVSHNLcFNtM21LMXY2RHNTOQ"
-    },
-    {
-      "title": "Fed votes in split decision to hold interest rates steady despite sticky inflation - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTFNHanJ3MTBjVnBzMDd2NTFYRTR1azVJNmdJbXpiYm8wd0phUHZfcVNBWE1ySUwtSnJsVldzdGxoMXZTd09FR1pPV1EwV2N2YkROMVcxUENTRTNVd2NfQUdiM3JReWNhTTdDVjNMZ1diU0NxSEN2M1l1THVaNUo3emVBU0pSRHFZWE1JcHY1VkliTU9SRjB2VDdlTUJVSHZod1ZnZW1SeW53MWIyNDNDSWk5WW5IczBETFdjakhzdVNXNVdzNFFQTEtmQzNBek5wWmZjLWRxSmI2N09DZTJn?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Wed, 28 Oct 2026 18:09:39 GMT",
-      "summary": "Fed votes in split decision to hold interest rates steady despite sticky inflation Yahoo Finance",
-      "guid": "CBMi3wFBVV95cUxNTFNHanJ3MTBjVnBzMDd2NTFYRTR1azVJNmdJbXpiYm8wd0phUHZfcVNBWE1ySUwtSnJsVldzdGxoMXZTd09FR1pPV1EwV2N2YkROMVcxUENTRTNVd2NfQUdiM3JReWNhTTdDVjNMZ1diU0NxSEN2M1l1THVaNUo3emVBU0pSRHFZWE1JcHY1VkliTU9SRjB2VDdlTUJVSHZod1ZnZW1SeW53MWIyNDNDSWk5WW5IczBETFdjakhzdVNXNVdzNFFQTEtmQzNBek5wWmZjLWRxSmI2N09DZTJn"
+      "title": "Stocks Drift After Fed Decision as Oracle Surges: Markets Wrap - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdFZXQ0F0WGVCT3FPRFB5RndJRUYtdHFQNVlfVmxJV1dmd0ZKMklnSl8yYnV6Z0N0bERBbmVhenJGS3dTOF95VERJeC0xektmNXVOSzJzTUVySzRSYWRIWHl6RGNxU1o2eWRmcU5EcEN3OTlzaldJUERqdWloQ1pRa1Q2ZUI4YUZCejlrUzk3NzBRdmdf?oc=5",
+      "source": "Bloomberg.com",
+      "published_at": "Tue, 27 Oct 2026 22:09:07 GMT",
+      "summary": "Stocks Drift After Fed Decision as Oracle Surges: Markets Wrap Bloomberg.com",
+      "guid": "CBMilAFBVV95cUxQdFZXQ0F0WGVCT3FPRFB5RndJRUYtdHFQNVlfVmxJV1dmd0ZKMklnSl8yYnV6Z0N0bERBbmVhenJGS3dTOF95VERJeC0xektmNXVOSzJzTUVySzRSYWRIWHl6RGNxU1o2eWRmcU5EcEN3OTlzaldJUERqdWloQ1pRa1Q2ZUI4YUZCejlrUzk3NzBRdmdf"
     }
   ]
 }
