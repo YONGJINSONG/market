@@ -1,19 +1,11 @@
 {
-  "generated_at": "2026-11-04T00:52:46Z",
+  "generated_at": "2026-11-04T07:03:20Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
-    {
-      "title": "What Happens to Stocks After the Midterm Elections? - Investopedia",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQTU3NE53azdTeUVTOHlSdFRaUmxXNnloZU9yaU9QZlk0eFNWU2lPejFpSlpfOFdsRFdLMVktamMzRFpleEl1MW1fb0NUX1E3WEFzR0V2ZnVxU3dGUUlSdkFpclZyc1ljSURJT2hMWU5VVzFwdUYtSUtVWnUzMnhheU1hMFZweWFTUmRGeDl4Um8wYlR5SElKaDFOd2p6SjVFZU1aS3RuQlU?oc=5",
-      "source": "Investopedia",
-      "published_at": "Tue, 03 Nov 2026 21:07:15 GMT",
-      "summary": "What Happens to Stocks After the Midterm Elections? Investopedia",
-      "guid": "CBMiqAFBVV95cUxOQTU3NE53azdTeUVTOHlSdFRaUmxXNnloZU9yaU9QZlk0eFNWU2lPejFpSlpfOFdsRFdLMVktamMzRFpleEl1MW1fb0NUX1E3WEFzR0V2ZnVxU3dGUUlSdkFpclZyc1ljSURJT2hMWU5VVzFwdUYtSUtVWnUzMnhheU1hMFZweWFTUmRGeDl4Um8wYlR5SElKaDFOd2p6SjVFZU1aS3RuQlU"
-    },
     {
       "title": "Stock market after midterm elections: 10 things to know - qz.com",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nMzZVMEVELS11Szd5a3ZLeS11LXhQbTFsZ01yUWxDbGNEcUpJTHZkQmZwZDZfWXFuQ0txdW5LOFhqWHh4OS16Njlaam45TzV0NHFBS2FqX2w0X1V6QW5UbA?oc=5",
@@ -31,20 +23,12 @@
       "guid": "CBMiswFBVV95cUxQMUJkcHNUNkJsSlU4NzRMTU16WVdQblFXYVMxQkJnS0tOeXk0c1BtYTRtaFRGelNqLXNFMXVpeHN6LTVtTWpyYS1vd1BETmpNZU0tUHROQUlleFd6Z09kdDhYbW5pM1R1NmhLSmRHTkswZzNVZU4tem9fUmMtVldobnJLWFVWZ3B6aTBYRG9CelNLSXB4eVAydzRSeTF1NkdpeExIUnlxalZXV2pBbkdwYlVSYw"
     },
     {
-      "title": "Wall Street ends higher as Fed holds key rate steady, focus turns to earnings - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQVNrQUVwN1c3SjBCODU1TXUwRy1hQ2lIQUxFZkJ3dGhXa0NZalhVTFFoeTU4MlB3VDRwWE1QRktITG5FZnd1eUVDTjRUankwRGgzRkRKTGdwZDVDbWUyTWVKNlRKVld5RVdaTllzZkVhdXUzNkZUOU5RWWNOQVJTY2xuaDJZZXlybC05LXRmTmpPb2RvVlliLWxBUXZVRldXU3kyY2pWb1ZmZlFNUU1KMmN4aV9wMk9Lai01YXcza0JqdDQ?oc=5",
-      "source": "Reuters",
-      "published_at": "Wed, 28 Oct 2026 23:53:34 GMT",
-      "summary": "Wall Street ends higher as Fed holds key rate steady, focus turns to earnings Reuters",
-      "guid": "CBMiwwFBVV95cUxPQVNrQUVwN1c3SjBCODU1TXUwRy1hQ2lIQUxFZkJ3dGhXa0NZalhVTFFoeTU4MlB3VDRwWE1QRktITG5FZnd1eUVDTjRUankwRGgzRkRKTGdwZDVDbWUyTWVKNlRKVld5RVdaTllzZkVhdXUzNkZUOU5RWWNOQVJTY2xuaDJZZXlybC05LXRmTmpPb2RvVlliLWxBUXZVRldXU3kyY2pWb1ZmZlFNUU1KMmN4aV9wMk9Lai01YXcza0JqdDQ"
-    },
-    {
-      "title": "US Equity Markets End Higher After Federal Reserve Votes to Keep Policy Rate Unchanged - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdjBETFFhRmZySm1fVVczRWJTS09NLW8xX29UbmZpLXJvVF9tVWthSmVxWW9vVFFlbkQxR1Z5bERQZkdkZDlSdnFQTmNBUnFWbGFWRVhjTG03SlQyTmxIS1BDbFlvNHVXWnNmZmxZZXY3OGw2S29vVzRja190WTRFQ1FMSXpQekI2NG03MHFucDJJRGxkempzcw?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Wed, 28 Oct 2026 20:07:27 GMT",
-      "summary": "US Equity Markets End Higher After Federal Reserve Votes to Keep Policy Rate Unchanged Yahoo Finance",
-      "guid": "CBMimAFBVV95cUxPdjBETFFhRmZySm1fVVczRWJTS09NLW8xX29UbmZpLXJvVF9tVWthSmVxWW9vVFFlbkQxR1Z5bERQZkdkZDlSdnFQTmNBUnFWbGFWRVhjTG03SlQyTmxIS1BDbFlvNHVXWnNmZmxZZXY3OGw2S29vVzRja190WTRFQ1FMSXpQekI2NG03MHFucDJJRGxkempzcw"
+      "title": "AI mania can’t survive higher interest rates - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQc1VMQlF3OWRsamI3RF84QmNzTmNBa1FLbkQ1ckttMWxpRlFPeGZOdFotSnBDR0tTcnFEbHRkSW0walJKUHlfMEpfUFVrdjFVeXJpWHFuOWprYnlhUjhDVGR3bjZqSjJ0eDI3XzFWSm9UbmNrM0ZHaUZHR1NhM2FPUnplYUY?oc=5",
+      "source": "Financial Times",
+      "published_at": "Mon, 02 Nov 2026 05:01:19 GMT",
+      "summary": "AI mania can’t survive higher interest rates Financial Times",
+      "guid": "CBMihAFBVV95cUxQc1VMQlF3OWRsamI3RF84QmNzTmNBa1FLbkQ1ckttMWxpRlFPeGZOdFotSnBDR0tTcnFEbHRkSW0walJKUHlfMEpfUFVrdjFVeXJpWHFuOWprYnlhUjhDVGR3bjZqSjJ0eDI3XzFWSm9UbmNrM0ZHaUZHR1NhM2FPUnplYUY"
     },
     {
       "title": "Wall Street the Day After: Which Indicators to Watch Closely After the Midterms - El Cronista",
@@ -55,36 +39,52 @@
       "guid": "CBMitgFBVV95cUxQM0tvTmw4V0VpVkJDQk1IVWl1WEMxUDB2eEJpV3BKSlktYTVwNG45aVBTUU5ObnV0eEVSNWhIVzFTdm1kMXZGbm4zLUJUb3V0Qm9nSHNpX0xsNVQ0RUpodDFkcU9NWmhWSHB6VFpJS2V6MzBaQ3ZoZkw5Q2EzUkVFd1dEUEFjcXpubnV0YlFCVllZdEtDbktJVUxCSm9oWjFqdC1IRHdpY3kzSnloN011RnAwNlhuUQ"
     },
     {
-      "title": "Don't let this economy give you a fright - www.marketplace.org",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaF9DUkRwNkltX183R0ZjYk9rSENOekRkdzdOTURqQ3dmN2oxVHFRN0FLYV9RQUc5YUk0Vk5ORF9uZGZJOVZtaEU1c2lBaURjM1FjeTh3ZUJzOUlERjJkVWhHZ3FNQXdlQzhZakFUaHhyeGJsMXBZUl9CSnNLSTRJd0xpbVRKTXpucE9GZUJkUnNoNkVHQzRtTVJvTmVZN2JsWmZQUW1wd1lxUQ?oc=5",
-      "source": "www.marketplace.org",
-      "published_at": "Fri, 30 Oct 2026 22:44:00 GMT",
-      "summary": "Don't let this economy give you a fright www.marketplace.org",
-      "guid": "CBMiqgFBVV95cUxQaF9DUkRwNkltX183R0ZjYk9rSENOekRkdzdOTURqQ3dmN2oxVHFRN0FLYV9RQUc5YUk0Vk5ORF9uZGZJOVZtaEU1c2lBaURjM1FjeTh3ZUJzOUlERjJkVWhHZ3FNQXdlQzhZakFUaHhyeGJsMXBZUl9CSnNLSTRJd0xpbVRKTXpucE9GZUJkUnNoNkVHQzRtTVJvTmVZN2JsWmZQUW1wd1lxUQ"
-    },
-    {
-      "title": "AI mania can’t survive higher interest rates - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQc1VMQlF3OWRsamI3RF84QmNzTmNBa1FLbkQ1ckttMWxpRlFPeGZOdFotSnBDR0tTcnFEbHRkSW0walJKUHlfMEpfUFVrdjFVeXJpWHFuOWprYnlhUjhDVGR3bjZqSjJ0eDI3XzFWSm9UbmNrM0ZHaUZHR1NhM2FPUnplYUY?oc=5",
-      "source": "Financial Times",
-      "published_at": "Mon, 02 Nov 2026 05:01:19 GMT",
-      "summary": "AI mania can’t survive higher interest rates Financial Times",
-      "guid": "CBMihAFBVV95cUxQc1VMQlF3OWRsamI3RF84QmNzTmNBa1FLbkQ1ckttMWxpRlFPeGZOdFotSnBDR0tTcnFEbHRkSW0walJKUHlfMEpfUFVrdjFVeXJpWHFuOWprYnlhUjhDVGR3bjZqSjJ0eDI3XzFWSm9UbmNrM0ZHaUZHR1NhM2FPUnplYUY"
-    },
-    {
-      "title": "US stocks remain steady after the Federal Reserve says it won't raise interest rates - KVOA",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPeERvUmJqY0FnOTdtZmxlbnhjWlhTUlRoRDBsdHFZa2VzQU9qUTdmdUpJVEF1Zm1xaXU5UXB5VzJKaTdHZFJUT1N3aEJzMWVsRzJLTjZVOGRvbldrZVVxWEtxeXBidXNCbDZnbFl4RW5fMG51aDMtbzVhbTFoSUplcGVSQ2R2UEpnNEVUQXk2ZzhGRXF6VktYcEp0VGR2alpwd2swd2JvZ0pwenZfbE9Oc1ZVUlQzNU5WYnBJbDU5UHFGNVl0TmlsNFJET3dXVEw0ZTZlcmR0N2FGS0wyQ3pLQndOdUFIa01YdDdVVGNqNE45VEpaLTd0U3pTTHY?oc=5",
-      "source": "KVOA",
-      "published_at": "Wed, 28 Oct 2026 18:26:00 GMT",
-      "summary": "US stocks remain steady after the Federal Reserve says it won't raise interest rates KVOA",
-      "guid": "CBMi_AFBVV95cUxPeERvUmJqY0FnOTdtZmxlbnhjWlhTUlRoRDBsdHFZa2VzQU9qUTdmdUpJVEF1Zm1xaXU5UXB5VzJKaTdHZFJUT1N3aEJzMWVsRzJLTjZVOGRvbldrZVVxWEtxeXBidXNCbDZnbFl4RW5fMG51aDMtbzVhbTFoSUplcGVSQ2R2UEpnNEVUQXk2ZzhGRXF6VktYcEp0VGR2alpwd2swd2JvZ0pwenZfbE9Oc1ZVUlQzNU5WYnBJbDU5UHFGNVl0TmlsNFJET3dXVEw0ZTZlcmR0N2FGS0wyQ3pLQndOdUFIa01YdDdVVGNqNE45VEpaLTd0U3pTTHY"
-    },
-    {
       "title": "Downside Risk to the Stock Market and Consumption - Federal Reserve Bank of Atlanta",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYTBzZEUwUk5XQmpmbTV4WWhEdWp2dGNxaGlJWE03aGFUQk13VFZVTjhUZ2dGOUVOSXFfOWR2X3FERkg3bDVXQmJfa3lIY2dXZ2hoUFgtNE9yWmY3SmprbEZUcmdCRVJfb3otWEpSTEJISkNNQTZBaUgxaUZ0cXF4Mmt5WFBieTQ5UlJjOVJUMFhlU3pZeW9Wc1FCTUNoTDBiR0FWczlJTy1sZGljdC1pSUJRSy04cmhfQ1kzOVV2UDhHMHIwSUh6amNiVHBGNTBW?oc=5",
       "source": "Federal Reserve Bank of Atlanta",
       "published_at": "Wed, 02 Sep 2026 07:00:00 GMT",
       "summary": "Downside Risk to the Stock Market and Consumption Federal Reserve Bank of Atlanta",
       "guid": "CBMi0AFBVV95cUxOYTBzZEUwUk5XQmpmbTV4WWhEdWp2dGNxaGlJWE03aGFUQk13VFZVTjhUZ2dGOUVOSXFfOWR2X3FERkg3bDVXQmJfa3lIY2dXZ2hoUFgtNE9yWmY3SmprbEZUcmdCRVJfb3otWEpSTEJISkNNQTZBaUgxaUZ0cXF4Mmt5WFBieTQ5UlJjOVJUMFhlU3pZeW9Wc1FCTUNoTDBiR0FWczlJTy1sZGljdC1pSUJRSy04cmhfQ1kzOVV2UDhHMHIwSUh6amNiVHBGNTBW"
+    },
+    {
+      "title": "Recent Economic and Financial Developments - Federal Reserve (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KWEN6M3VsdUJpS3YyUzBfc0JpcHhrY3J4LXhhUE90UkdqS1N1OWxCZGw1cWxveExZZ1RfM0dXM1pNMk9HRVctTGNBM2xrQ2Npbjl5OFJkQV9sajMxWHhQSGpXSzNfcGppZDhEaHFraFhUZ0puWFE?oc=5",
+      "source": "Federal Reserve (.gov)",
+      "published_at": "Fri, 17 Jul 2026 06:37:05 GMT",
+      "summary": "Recent Economic and Financial Developments Federal Reserve (.gov)",
+      "guid": "CBMidkFVX3lxTE9KWEN6M3VsdUJpS3YyUzBfc0JpcHhrY3J4LXhhUE90UkdqS1N1OWxCZGw1cWxveExZZ1RfM0dXM1pNMk9HRVctTGNBM2xrQ2Npbjl5OFJkQV9sajMxWHhQSGpXSzNfcGppZDhEaHFraFhUZ0puWFE"
+    },
+    {
+      "title": "Franklin Templeton's Perkins sees crypto moving beyond rates - TheStreet",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN1l5Z2VDYjludGczOUNyOGVvbnE2TDVMNmNhbThNYUtXNVUzOFNVbl9HNE5vZkVWNWtDRTFMYmhOZFYtWE5mSUJtUGdVblEwWEY5TllZRW5FeHNMVkN6UWxyelpTdHVmeFZYMkRYRTZLT2FFblVkalJpQUxKTUF0WWdFaDh5TWFvSUMxUy1NbGhzenp2QlpiZWtXZGQwYUc0Tnc?oc=5",
+      "source": "TheStreet",
+      "published_at": "Tue, 03 Nov 2026 18:49:56 GMT",
+      "summary": "Franklin Templeton's Perkins sees crypto moving beyond rates TheStreet",
+      "guid": "CBMiogFBVV95cUxQN1l5Z2VDYjludGczOUNyOGVvbnE2TDVMNmNhbThNYUtXNVUzOFNVbl9HNE5vZkVWNWtDRTFMYmhOZFYtWE5mSUJtUGdVblEwWEY5TllZRW5FeHNMVkN6UWxyelpTdHVmeFZYMkRYRTZLT2FFblVkalJpQUxKTUF0WWdFaDh5TWFvSUMxUy1NbGhzenp2QlpiZWtXZGQwYUc0Tnc"
+    },
+    {
+      "title": "Fed Chair Kevin Warsh Just Drove a Dagger Through Wall Street's AI-Driven Rally With 6 Blunt Words - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQ3VEMVBJekR3YkhqVzlaaU96RnJ5bkJBZXY0Ynk1RkREU0xIUGFSaWxZNmNVbXUxY29wdU1Pam5fOUhQbmdsU2ZBaDRKalNxWDVmN21nNlVUT1MzVkpkLXdoQU80NFNTMHNYYXpEMVF0SzhmczNNeTNHX3NGclRtaHZhUTkwMWNSTDhzd1dCUTN4eWlzMFdNSU9IMHZJUUtkbVRDZlJJaUo1eVAzSk9Oc1RzbFRldmJoX00yMnhFME1US0FC?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Tue, 03 Nov 2026 09:06:00 GMT",
+      "summary": "Fed Chair Kevin Warsh Just Drove a Dagger Through Wall Street's AI-Driven Rally With 6 Blunt Words The Motley Fool",
+      "guid": "CBMixAFBVV95cUxOQ3VEMVBJekR3YkhqVzlaaU96RnJ5bkJBZXY0Ynk1RkREU0xIUGFSaWxZNmNVbXUxY29wdU1Pam5fOUhQbmdsU2ZBaDRKalNxWDVmN21nNlVUT1MzVkpkLXdoQU80NFNTMHNYYXpEMVF0SzhmczNNeTNHX3NGclRtaHZhUTkwMWNSTDhzd1dCUTN4eWlzMFdNSU9IMHZJUUtkbVRDZlJJaUo1eVAzSk9Oc1RzbFRldmJoX00yMnhFME1US0FC"
+    },
+    {
+      "title": "Election Day is not a federal holiday: What's open and closed on Nov. 3, 2026 - qz.com",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9iR1lCMXZRZjZvQTRLT3Z2VGVYWkRwaXllbVR2UFh0TUNxa2ZINkNUZ3N4MnlCeW5EZGtYcmpidWpzRmFkMS0wVGpwYjVoN003UkpQcTZEcC0zRHRQdlQxRzVR?oc=5",
+      "source": "qz.com",
+      "published_at": "Tue, 03 Nov 2026 14:33:55 GMT",
+      "summary": "Election Day is not a federal holiday: What's open and closed on Nov. 3, 2026 qz.com",
+      "guid": "CBMiYkFVX3lxTE9iR1lCMXZRZjZvQTRLT3Z2VGVYWkRwaXllbVR2UFh0TUNxa2ZINkNUZ3N4MnlCeW5EZGtYcmpidWpzRmFkMS0wVGpwYjVoN003UkpQcTZEcC0zRHRQdlQxRzVR"
+    },
+    {
+      "title": "Bond investors sit out ‘most consequential’ US midterm elections in years - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNM1RENmdtcU1BOV8yNUtadjZpZmkyeDFzUE12X28tRXdHTGVLZkFkOU55eHRHMW5oMjlocWVpNEJwWllKVnpIN1U5RVBlMDFKUGhCU0JZMng4d01rckZUeGphOVhkQVFocGphNndpaFpoX3ItTXpHb3o2TG1UWExBOXJxSjI?oc=5",
+      "source": "Financial Times",
+      "published_at": "Sun, 01 Nov 2026 05:00:59 GMT",
+      "summary": "Bond investors sit out ‘most consequential’ US midterm elections in years Financial Times",
+      "guid": "CBMihAFBVV95cUxNM1RENmdtcU1BOV8yNUtadjZpZmkyeDFzUE12X28tRXdHTGVLZkFkOU55eHRHMW5oMjlocWVpNEJwWllKVnpIN1U5RVBlMDFKUGhCU0JZMng4d01rckZUeGphOVhkQVFocGphNndpaFpoX3ItTXpHb3o2TG1UWExBOXJxSjI"
     }
   ]
 }
