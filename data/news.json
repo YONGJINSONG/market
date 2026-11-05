@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T01:31:47Z",
+  "generated_at": "2026-11-05T08:29:05Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -15,20 +15,20 @@
       "guid": "CBMifkFVX3lxTFBiMU5kdnJ3NnlRdlB3SHdGMXNPZXRRZTFSSWtpYU5MRXltODlSZTNvSjRTMzVYN2RqVy1seFBKbFhyQU5VS0RzbFl1a0ktUDduZzk0MXN0Ri1FUl91VkFKR1hXX2xoNEE4TU02NFJieXg3anB2TEN0OGw1T21Sdw"
     },
     {
-      "title": "What’s Likely to Change for the U.S. Economy After Democrats’ Resounding Victory in the Midterms? - Investopedia",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQY3pVQkJ3cjVJM3V3R2k3R2dxXzlfeUZ0VktHYXJUTTdKMHJhdmxhWExCR0J2aDlXSnBScjZ1WnJhRVB5V1o0eGF1S0YwZ1N3WnVIOUd5MU9UUVh0bzFpQjdjSndlbWpXc1lFcXVLYXdIc2h6Y2hhdUN2MXJBNUs4OFdKUkFod2JocXBKU010dHlWd1pxb19VQVB2Q1h2VE13SFdtTjNEQktmRy1qWTNaRGdVZEJfY2c1MThfV1NMeXVwZDhyLXVPNEhiM2EyZkRNMXVicktqMVNDV0k5eWxxQU51MA?oc=5",
-      "source": "Investopedia",
-      "published_at": "Wed, 04 Nov 2026 20:33:07 GMT",
-      "summary": "What’s Likely to Change for the U.S. Economy After Democrats’ Resounding Victory in the Midterms? Investopedia",
-      "guid": "CBMi4wFBVV95cUxQY3pVQkJ3cjVJM3V3R2k3R2dxXzlfeUZ0VktHYXJUTTdKMHJhdmxhWExCR0J2aDlXSnBScjZ1WnJhRVB5V1o0eGF1S0YwZ1N3WnVIOUd5MU9UUVh0bzFpQjdjSndlbWpXc1lFcXVLYXdIc2h6Y2hhdUN2MXJBNUs4OFdKUkFod2JocXBKU010dHlWd1pxb19VQVB2Q1h2VE13SFdtTjNEQktmRy1qWTNaRGdVZEJfY2c1MThfV1NMeXVwZDhyLXVPNEhiM2EyZkRNMXVicktqMVNDV0k5eWxxQU51MA"
-    },
-    {
       "title": "Stock market after midterm elections: 10 things to know - qz.com",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1nMzZVMEVELS11Szd5a3ZLeS11LXhQbTFsZ01yUWxDbGNEcUpJTHZkQmZwZDZfWXFuQ0txdW5LOFhqWHh4OS16Njlaam45TzV0NHFBS2FqX2w0X1V6QW5UbA?oc=5",
       "source": "qz.com",
       "published_at": "Tue, 03 Nov 2026 15:34:15 GMT",
       "summary": "Stock market after midterm elections: 10 things to know qz.com",
       "guid": "CBMiYEFVX3lxTE1nMzZVMEVELS11Szd5a3ZLeS11LXhQbTFsZ01yUWxDbGNEcUpJTHZkQmZwZDZfWXFuQ0txdW5LOFhqWHh4OS16Njlaam45TzV0NHFBS2FqX2w0X1V6QW5UbA"
+    },
+    {
+      "title": "AI mania can’t survive higher interest rates - Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQc1VMQlF3OWRsamI3RF84QmNzTmNBa1FLbkQ1ckttMWxpRlFPeGZOdFotSnBDR0tTcnFEbHRkSW0walJKUHlfMEpfUFVrdjFVeXJpWHFuOWprYnlhUjhDVGR3bjZqSjJ0eDI3XzFWSm9UbmNrM0ZHaUZHR1NhM2FPUnplYUY?oc=5",
+      "source": "Financial Times",
+      "published_at": "Mon, 02 Nov 2026 05:01:19 GMT",
+      "summary": "AI mania can’t survive higher interest rates Financial Times",
+      "guid": "CBMihAFBVV95cUxQc1VMQlF3OWRsamI3RF84QmNzTmNBa1FLbkQ1ckttMWxpRlFPeGZOdFotSnBDR0tTcnFEbHRkSW0walJKUHlfMEpfUFVrdjFVeXJpWHFuOWprYnlhUjhDVGR3bjZqSjJ0eDI3XzFWSm9UbmNrM0ZHaUZHR1NhM2FPUnplYUY"
     },
     {
       "title": "Rate Hikes Could Be Coming: History Likes These 4 Insurance Stocks - 24/7 Wall St.",
@@ -39,20 +39,12 @@
       "guid": "CBMirgFBVV95cUxQTVJhWFZtQ0ZmVlhOYkM3OExPUWw3YjhiNnlucXBkWTZVd2t1Q1oydEZqanBBNG1Hb0Z6bWlfSHhUZUhUeVYzd2ZfTWtyX1p0Y1ExdHVpUFRmXzNKOXRDeUpRRjl6YzZPWVk3QUg5dGUzenJudHFCeXViSERNRzRCTXAwNWVBS1FTM3FaSjBwb2QyYUQ1QU5BaGFEOG9NOWgzNkd4ejBFS3ltNVp0V3c"
     },
     {
-      "title": "Fed Chair Kevin Warsh Just Drove a Dagger Through Wall Street's AI-Driven Rally With 6 Blunt Words - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQ3VEMVBJekR3YkhqVzlaaU96RnJ5bkJBZXY0Ynk1RkREU0xIUGFSaWxZNmNVbXUxY29wdU1Pam5fOUhQbmdsU2ZBaDRKalNxWDVmN21nNlVUT1MzVkpkLXdoQU80NFNTMHNYYXpEMVF0SzhmczNNeTNHX3NGclRtaHZhUTkwMWNSTDhzd1dCUTN4eWlzMFdNSU9IMHZJUUtkbVRDZlJJaUo1eVAzSk9Oc1RzbFRldmJoX00yMnhFME1US0FC?oc=5",
+      "title": "3 Stocks That Did Well the Last Time the Fed Raised Rates Aggressively - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMUJkcHNUNkJsSlU4NzRMTU16WVdQblFXYVMxQkJnS0tOeXk0c1BtYTRtaFRGelNqLXNFMXVpeHN6LTVtTWpyYS1vd1BETmpNZU0tUHROQUlleFd6Z09kdDhYbW5pM1R1NmhLSmRHTkswZzNVZU4tem9fUmMtVldobnJLWFVWZ3B6aTBYRG9CelNLSXB4eVAydzRSeTF1NkdpeExIUnlxalZXV2pBbkdwYlVSYw?oc=5",
       "source": "The Motley Fool",
-      "published_at": "Tue, 03 Nov 2026 09:06:00 GMT",
-      "summary": "Fed Chair Kevin Warsh Just Drove a Dagger Through Wall Street's AI-Driven Rally With 6 Blunt Words The Motley Fool",
-      "guid": "CBMixAFBVV95cUxOQ3VEMVBJekR3YkhqVzlaaU96RnJ5bkJBZXY0Ynk1RkREU0xIUGFSaWxZNmNVbXUxY29wdU1Pam5fOUhQbmdsU2ZBaDRKalNxWDVmN21nNlVUT1MzVkpkLXdoQU80NFNTMHNYYXpEMVF0SzhmczNNeTNHX3NGclRtaHZhUTkwMWNSTDhzd1dCUTN4eWlzMFdNSU9IMHZJUUtkbVRDZlJJaUo1eVAzSk9Oc1RzbFRldmJoX00yMnhFME1US0FC"
-    },
-    {
-      "title": "AI mania can’t survive higher interest rates - Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQc1VMQlF3OWRsamI3RF84QmNzTmNBa1FLbkQ1ckttMWxpRlFPeGZOdFotSnBDR0tTcnFEbHRkSW0walJKUHlfMEpfUFVrdjFVeXJpWHFuOWprYnlhUjhDVGR3bjZqSjJ0eDI3XzFWSm9UbmNrM0ZHaUZHR1NhM2FPUnplYUY?oc=5",
-      "source": "Financial Times",
-      "published_at": "Mon, 02 Nov 2026 05:01:19 GMT",
-      "summary": "AI mania can’t survive higher interest rates Financial Times",
-      "guid": "CBMihAFBVV95cUxQc1VMQlF3OWRsamI3RF84QmNzTmNBa1FLbkQ1ckttMWxpRlFPeGZOdFotSnBDR0tTcnFEbHRkSW0walJKUHlfMEpfUFVrdjFVeXJpWHFuOWprYnlhUjhDVGR3bjZqSjJ0eDI3XzFWSm9UbmNrM0ZHaUZHR1NhM2FPUnplYUY"
+      "published_at": "Tue, 03 Nov 2026 19:31:00 GMT",
+      "summary": "3 Stocks That Did Well the Last Time the Fed Raised Rates Aggressively The Motley Fool",
+      "guid": "CBMiswFBVV95cUxQMUJkcHNUNkJsSlU4NzRMTU16WVdQblFXYVMxQkJnS0tOeXk0c1BtYTRtaFRGelNqLXNFMXVpeHN6LTVtTWpyYS1vd1BETmpNZU0tUHROQUlleFd6Z09kdDhYbW5pM1R1NmhLSmRHTkswZzNVZU4tem9fUmMtVldobnJLWFVWZ3B6aTBYRG9CelNLSXB4eVAydzRSeTF1NkdpeExIUnlxalZXV2pBbkdwYlVSYw"
     },
     {
       "title": "Downside Risk to the Stock Market and Consumption - Federal Reserve Bank of Atlanta",
@@ -79,12 +71,20 @@
       "guid": "CBMidkFVX3lxTE9KWEN6M3VsdUJpS3YyUzBfc0JpcHhrY3J4LXhhUE90UkdqS1N1OWxCZGw1cWxveExZZ1RfM0dXM1pNMk9HRVctTGNBM2xrQ2Npbjl5OFJkQV9sajMxWHhQSGpXSzNfcGppZDhEaHFraFhUZ0puWFE"
     },
     {
-      "title": "3 Stocks That Did Well the Last Time the Fed Raised Rates Aggressively - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMUJkcHNUNkJsSlU4NzRMTU16WVdQblFXYVMxQkJnS0tOeXk0c1BtYTRtaFRGelNqLXNFMXVpeHN6LTVtTWpyYS1vd1BETmpNZU0tUHROQUlleFd6Z09kdDhYbW5pM1R1NmhLSmRHTkswZzNVZU4tem9fUmMtVldobnJLWFVWZ3B6aTBYRG9CelNLSXB4eVAydzRSeTF1NkdpeExIUnlxalZXV2pBbkdwYlVSYw?oc=5",
+      "title": "Fed Chair Kevin Warsh Just Drove a Dagger Through Wall Street's AI-Driven Rally With 6 Blunt Words - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQ3VEMVBJekR3YkhqVzlaaU96RnJ5bkJBZXY0Ynk1RkREU0xIUGFSaWxZNmNVbXUxY29wdU1Pam5fOUhQbmdsU2ZBaDRKalNxWDVmN21nNlVUT1MzVkpkLXdoQU80NFNTMHNYYXpEMVF0SzhmczNNeTNHX3NGclRtaHZhUTkwMWNSTDhzd1dCUTN4eWlzMFdNSU9IMHZJUUtkbVRDZlJJaUo1eVAzSk9Oc1RzbFRldmJoX00yMnhFME1US0FC?oc=5",
       "source": "The Motley Fool",
-      "published_at": "Tue, 03 Nov 2026 19:31:00 GMT",
-      "summary": "3 Stocks That Did Well the Last Time the Fed Raised Rates Aggressively The Motley Fool",
-      "guid": "CBMiswFBVV95cUxQMUJkcHNUNkJsSlU4NzRMTU16WVdQblFXYVMxQkJnS0tOeXk0c1BtYTRtaFRGelNqLXNFMXVpeHN6LTVtTWpyYS1vd1BETmpNZU0tUHROQUlleFd6Z09kdDhYbW5pM1R1NmhLSmRHTkswZzNVZU4tem9fUmMtVldobnJLWFVWZ3B6aTBYRG9CelNLSXB4eVAydzRSeTF1NkdpeExIUnlxalZXV2pBbkdwYlVSYw"
+      "published_at": "Tue, 03 Nov 2026 09:06:00 GMT",
+      "summary": "Fed Chair Kevin Warsh Just Drove a Dagger Through Wall Street's AI-Driven Rally With 6 Blunt Words The Motley Fool",
+      "guid": "CBMixAFBVV95cUxOQ3VEMVBJekR3YkhqVzlaaU96RnJ5bkJBZXY0Ynk1RkREU0xIUGFSaWxZNmNVbXUxY29wdU1Pam5fOUhQbmdsU2ZBaDRKalNxWDVmN21nNlVUT1MzVkpkLXdoQU80NFNTMHNYYXpEMVF0SzhmczNNeTNHX3NGclRtaHZhUTkwMWNSTDhzd1dCUTN4eWlzMFdNSU9IMHZJUUtkbVRDZlJJaUo1eVAzSk9Oc1RzbFRldmJoX00yMnhFME1US0FC"
+    },
+    {
+      "title": "How Many Americans Own Stock? More Than You Think - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE92VGZtSU0yQXVwLTd6MlZWRUU3YXowZF9tRHF1MTZWUW5QT21TMld5RC12MmlaQVkwbHUya1RjSnRqMXE0MmJ2eDhoNG43VE4wUHFhZjluTGRkYzlmNTVLVllIUEdQNTAxNURJ?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Mon, 12 Oct 2026 07:00:00 GMT",
+      "summary": "How Many Americans Own Stock? More Than You Think The Motley Fool",
+      "guid": "CBMia0FVX3lxTE92VGZtSU0yQXVwLTd6MlZWRUU3YXowZF9tRHF1MTZWUW5QT21TMld5RC12MmlaQVkwbHUya1RjSnRqMXE0MmJ2eDhoNG43VE4wUHFhZjluTGRkYzlmNTVLVllIUEdQNTAxNURJ"
     }
   ]
 }
