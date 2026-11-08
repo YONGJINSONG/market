@@ -1,19 +1,11 @@
 {
-  "generated_at": "2026-11-07T22:25:39Z",
+  "generated_at": "2026-11-08T01:37:02Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
-    {
-      "title": "President Donald Trump Just Proclaimed That \"Inflation Is Way Down,\" but Federal Reserve Economists Have a Different Take - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWUZrODR3aVR4d1FKVGs5a044TC0wMW9hMThPbHFDOGI4VmExMjJ5MFdzSGNKVW8tVTM4UmU0V1o1UW1MYzJMeXZHSUFUSlhOUFlnekhUTG9CQXhEdnlBY0ZfWC1meW43T2hVbm5vYzkwMXBpbV8zakpnSVR3Mk12NFpfdTQ3MEx1M29fWmhsaGZ5Q21hdEU0VXJUeHZ0bDlkeTdRTHVQVnl5Wm9IS3FxS3lrU0VHYVllVnZrX3IyV2tLNFF5TURaNUpB?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Sat, 07 Nov 2026 09:06:00 GMT",
-      "summary": "President Donald Trump Just Proclaimed That \"Inflation Is Way Down,\" but Federal Reserve Economists Have a Different Take The Motley Fool",
-      "guid": "CBMiygFBVV95cUxOWUZrODR3aVR4d1FKVGs5a044TC0wMW9hMThPbHFDOGI4VmExMjJ5MFdzSGNKVW8tVTM4UmU0V1o1UW1MYzJMeXZHSUFUSlhOUFlnekhUTG9CQXhEdnlBY0ZfWC1meW43T2hVbm5vYzkwMXBpbV8zakpnSVR3Mk12NFpfdTQ3MEx1M29fWmhsaGZ5Q21hdEU0VXJUeHZ0bDlkeTdRTHVQVnl5Wm9IS3FxS3lrU0VHYVllVnZrX3IyV2tLNFF5TURaNUpB"
-    },
     {
       "title": "US Stock Rout Pauses as Dip Buyers Offer Support: Markets Wrap - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOX2RxUlFvNmxoUFFUd2pmeUk3MTJoSkNvTkxwOS1TUlNFd1hDZkNZZ0huMHIxQXhDeWtpWVdVcmJGcDQwdVcwMFJTaHg2Q040OTBCZm5Ja2doTnpQcTh1OFFSdDNucHFXVzFRR2EyTEJfa3BRWDFUY19lcFNNXzRmR2F2UEw4dlVOUW1xSnFqNmI1Wmtr?oc=5",
@@ -23,12 +15,12 @@
       "guid": "CBMilAFBVV95cUxOX2RxUlFvNmxoUFFUd2pmeUk3MTJoSkNvTkxwOS1TUlNFd1hDZkNZZ0huMHIxQXhDeWtpWVdVcmJGcDQwdVcwMFJTaHg2Q040OTBCZm5Ja2doTnpQcTh1OFFSdDNucHFXVzFRR2EyTEJfa3BRWDFUY19lcFNNXzRmR2F2UEw4dlVOUW1xSnFqNmI1Wmtr"
     },
     {
-      "title": "Goldman Sachs Cuts Gold Price Forecasts as Hawkish Federal Reserve Weighs on Demand - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcXdtR1VXSWUweFNhelI3MHEwaElMZjVBNjUtdFFYQkNTZTlOWVp3ZUg1c1BTZjdtMXFNQmVHVnZlR21SU2VxWlVVcWN1cGc5WjhOdEVTdTQ4ZTg5QUxWeGtzZ19mRGRwNExXbzR2Ym1sM04xTkZoS0RGTTBtaXNGeWM3ZnJfZEhJaExpVVE3ZkdoYlQzSUNvLVNqSmlJaHRu?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Sat, 07 Nov 2026 14:51:46 GMT",
-      "summary": "Goldman Sachs Cuts Gold Price Forecasts as Hawkish Federal Reserve Weighs on Demand Yahoo Finance",
-      "guid": "CBMioAFBVV95cUxNcXdtR1VXSWUweFNhelI3MHEwaElMZjVBNjUtdFFYQkNTZTlOWVp3ZUg1c1BTZjdtMXFNQmVHVnZlR21SU2VxWlVVcWN1cGc5WjhOdEVTdTQ4ZTg5QUxWeGtzZ19mRGRwNExXbzR2Ym1sM04xTkZoS0RGTTBtaXNGeWM3ZnJfZEhJaExpVVE3ZkdoYlQzSUNvLVNqSmlJaHRu"
+      "title": "President Donald Trump Just Proclaimed That \"Inflation Is Way Down,\" but Federal Reserve Economists Have a Different Take - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWUZrODR3aVR4d1FKVGs5a044TC0wMW9hMThPbHFDOGI4VmExMjJ5MFdzSGNKVW8tVTM4UmU0V1o1UW1MYzJMeXZHSUFUSlhOUFlnekhUTG9CQXhEdnlBY0ZfWC1meW43T2hVbm5vYzkwMXBpbV8zakpnSVR3Mk12NFpfdTQ3MEx1M29fWmhsaGZ5Q21hdEU0VXJUeHZ0bDlkeTdRTHVQVnl5Wm9IS3FxS3lrU0VHYVllVnZrX3IyV2tLNFF5TURaNUpB?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Sat, 07 Nov 2026 09:06:00 GMT",
+      "summary": "President Donald Trump Just Proclaimed That \"Inflation Is Way Down,\" but Federal Reserve Economists Have a Different Take The Motley Fool",
+      "guid": "CBMiygFBVV95cUxOWUZrODR3aVR4d1FKVGs5a044TC0wMW9hMThPbHFDOGI4VmExMjJ5MFdzSGNKVW8tVTM4UmU0V1o1UW1MYzJMeXZHSUFUSlhOUFlnekhUTG9CQXhEdnlBY0ZfWC1meW43T2hVbm5vYzkwMXBpbV8zakpnSVR3Mk12NFpfdTQ3MEx1M29fWmhsaGZ5Q21hdEU0VXJUeHZ0bDlkeTdRTHVQVnl5Wm9IS3FxS3lrU0VHYVllVnZrX3IyV2tLNFF5TURaNUpB"
     },
     {
       "title": "Fed policymakers consider rate hike after strong jobs report - Reuters",
@@ -37,6 +29,14 @@
       "published_at": "Fri, 06 Nov 2026 20:58:34 GMT",
       "summary": "Fed policymakers consider rate hike after strong jobs report Reuters",
       "guid": "CBMimwFBVV95cUxQMF93ekZ4N2wtdW4zX1llS2FoZWpNVlhMLTRNOGVJTUktZmpLQUNBSzY2bW16Mm9mb3lrZERqNFZ6WkRmYkhBTG00Z2k2NFYyNTVLcmVBSkV5eVJRU1RwZFc5blM4MkRmcUxYU2hadXRWbVh0VXpjektqM1BGS3ZlZlNMeW43VWxmeE5TQm13d0E3bTVwUnp5dzFFNA"
+    },
+    {
+      "title": "Goldman Sachs Cuts Gold Price Forecasts as Hawkish Federal Reserve Weighs on Demand - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcXdtR1VXSWUweFNhelI3MHEwaElMZjVBNjUtdFFYQkNTZTlOWVp3ZUg1c1BTZjdtMXFNQmVHVnZlR21SU2VxWlVVcWN1cGc5WjhOdEVTdTQ4ZTg5QUxWeGtzZ19mRGRwNExXbzR2Ym1sM04xTkZoS0RGTTBtaXNGeWM3ZnJfZEhJaExpVVE3ZkdoYlQzSUNvLVNqSmlJaHRu?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Sat, 07 Nov 2026 14:51:46 GMT",
+      "summary": "Goldman Sachs Cuts Gold Price Forecasts as Hawkish Federal Reserve Weighs on Demand Yahoo Finance",
+      "guid": "CBMioAFBVV95cUxNcXdtR1VXSWUweFNhelI3MHEwaElMZjVBNjUtdFFYQkNTZTlOWVp3ZUg1c1BTZjdtMXFNQmVHVnZlR21SU2VxWlVVcWN1cGc5WjhOdEVTdTQ4ZTg5QUxWeGtzZ19mRGRwNExXbzR2Ym1sM04xTkZoS0RGTTBtaXNGeWM3ZnJfZEhJaExpVVE3ZkdoYlQzSUNvLVNqSmlJaHRu"
     },
     {
       "title": "Stable Labor Market Keeps Fed on Track to Raise Rates Gradually - The New York Times",
