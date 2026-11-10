@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T18:00:21Z",
+  "generated_at": "2026-11-10T23:14:00Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,12 +7,12 @@
   },
   "items": [
     {
-      "title": "Stocks, Bonds Fall as CPI Data Fuel Fed-Hike Bets: Markets Wrap - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNXVKNll2bkFUUU5EVDg4eTF6a3YwZ0pIS0d4bGFTdkItMkl3SkFCbGRiZFdzSmlidHZZN3I1YzF1VkVXYlM0dDJrRlRPeDRGYXp6cVBuRGVjbl9vNWxrdlRYLTl4NTRxMnRFcGtuOUROekFvUUsxdTE1R3IwWmRKRVlUVFpFTlY0WXNlWTZTa1hIdmV1?oc=5",
+      "title": "Fed’s Bowman Warns of Stock Correction If AI Bets Don’t Pan Out - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZnFNTUx0RzRjMFpzM1FBRlh5TVFiT1dBSm0ybWx1cngzVW9UVllIOHl5OFNKckRDdGZybDRMYjh5dWZiQ3JTYlFsaGZsaFdYTURmdUZ5MldUa2ZDMmlBbEZWMk9KV2ZoSU1sOUx1UnV4d0JZMjJpa2ZybHJmSzlYT3hXenhYelM0ZmNrV2NEMjM3T055UF9iSUJsa2xKQ0Q5S2M2SWlSeW5ZMUpfN1BoekJvbGI?oc=5",
       "source": "Bloomberg.com",
-      "published_at": "Tue, 10 Nov 2026 17:41:12 GMT",
-      "summary": "Stocks, Bonds Fall as CPI Data Fuel Fed-Hike Bets: Markets Wrap Bloomberg.com",
-      "guid": "CBMilAFBVV95cUxPNXVKNll2bkFUUU5EVDg4eTF6a3YwZ0pIS0d4bGFTdkItMkl3SkFCbGRiZFdzSmlidHZZN3I1YzF1VkVXYlM0dDJrRlRPeDRGYXp6cVBuRGVjbl9vNWxrdlRYLTl4NTRxMnRFcGtuOUROekFvUUsxdTE1R3IwWmRKRVlUVFpFTlY0WXNlWTZTa1hIdmV1"
+      "published_at": "Tue, 10 Nov 2026 20:30:00 GMT",
+      "summary": "Fed’s Bowman Warns of Stock Correction If AI Bets Don’t Pan Out Bloomberg.com",
+      "guid": "CBMitAFBVV95cUxNZnFNTUx0RzRjMFpzM1FBRlh5TVFiT1dBSm0ybWx1cngzVW9UVllIOHl5OFNKckRDdGZybDRMYjh5dWZiQ3JTYlFsaGZsaFdYTURmdUZ5MldUa2ZDMmlBbEZWMk9KV2ZoSU1sOUx1UnV4d0JZMjJpa2ZybHJmSzlYT3hXenhYelM0ZmNrV2NEMjM3T055UF9iSUJsa2xKQ0Q5S2M2SWlSeW5ZMUpfN1BoekJvbGI"
     },
     {
       "title": "Federal Reserve Research Reveals New Inflation Threat - Yahoo Finance",
@@ -21,6 +21,14 @@
       "published_at": "Tue, 10 Nov 2026 17:24:30 GMT",
       "summary": "Federal Reserve Research Reveals New Inflation Threat Yahoo Finance",
       "guid": "CBMiqgFBVV95cUxNdUE0dmtmT0dCSkt1Q3k5Q3NBb080bmxmZHBmWDNWSDlyR3NIcXB4WVFvU3Z5djZCcXBBenJNRG5nV2ZLQlVWbWgwNm9Kb2hOTGx4VmE2XzhTMjc1Z2g5LThtQzhjMnJhMy1WQjFOOFFsV0tJb1QteTJhY2hrakNXV3hTM2xKdGl1NmMzT3dXN3BTMnhSMTV2S3U0S2huWU9qYWZyU3QtRlZVUQ"
+    },
+    {
+      "title": "Stocks fall as the 10-year Treasury yield nears 5% mark - MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdWxxNHUtVm9iTEJTMXpJSmJyRFc3aC1jZC1qNnNxVURCYVhSUHRXQlVLVDctY003RTFhUzVZTkZ2dUNXaVZRUEZ2UXdtYk5HVGJkZEh0RmNnNkllS2JmY2pPM2l6YkVacEdtdmM0UGNNMUZtTE4tWUNBUzV4X2ZBUlZEbGJtcWlMSEtiTUFDc0xmcEp2aGp4WXVrdXJkZmF3QXZ5OXl6cF85UTRKQ19hMWhMVGZwR1lORFF4TzNxaHpxUXpoU0U5Rzg0QXVRUy1NbHhVMUI2LWY?oc=5",
+      "source": "MarketWatch",
+      "published_at": "Tue, 10 Nov 2026 21:42:00 GMT",
+      "summary": "Stocks fall as the 10-year Treasury yield nears 5% mark MarketWatch",
+      "guid": "CBMi2AFBVV95cUxQdWxxNHUtVm9iTEJTMXpJSmJyRFc3aC1jZC1qNnNxVURCYVhSUHRXQlVLVDctY003RTFhUzVZTkZ2dUNXaVZRUEZ2UXdtYk5HVGJkZEh0RmNnNkllS2JmY2pPM2l6YkVacEdtdmM0UGNNMUZtTE4tWUNBUzV4X2ZBUlZEbGJtcWlMSEtiTUFDc0xmcEp2aGp4WXVrdXJkZmF3QXZ5OXl6cF85UTRKQ19hMWhMVGZwR1lORFF4TzNxaHpxUXpoU0U5Rzg0QXVRUy1NbHhVMUI2LWY"
     },
     {
       "title": "Fed's Waller plans to support at least a quarter-point rate hike in December - Reuters",
@@ -39,12 +47,20 @@
       "guid": "CBMisAFBVV95cUxNa0JhOWFodE9fMUh4WnFHaTNBbmFtaDNIallfMktpLVcwRGg5SkVHX0NQUlF1eUVPSUJ2RlZwM2NSZjBZa1JiLWJCc09RY0w5b2NSSWJvWXM0OWJWWVJ5WHZNa3ZVc3lodjAwR0tMc0UwVXNROGk0ZmpRamRER0M2ZFhWWVF4a0ZYZUMyT1YtalpMSF9FejB3TV9iX194dkV0d19GRnRhUTdsbUJWN3FGYw"
     },
     {
-      "title": "Why stocks are falling and the 10-year Treasury yield is back near 5% after Tuesday’s inflation report - MarketWatch",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdWxxNHUtVm9iTEJTMXpJSmJyRFc3aC1jZC1qNnNxVURCYVhSUHRXQlVLVDctY003RTFhUzVZTkZ2dUNXaVZRUEZ2UXdtYk5HVGJkZEh0RmNnNkllS2JmY2pPM2l6YkVacEdtdmM0UGNNMUZtTE4tWUNBUzV4X2ZBUlZEbGJtcWlMSEtiTUFDc0xmcEp2aGp4WXVrdXJkZmF3QXZ5OXl6cF85UTRKQ19hMWhMVGZwR1lORFF4TzNxaHpxUXpoU0U5Rzg0QXVRUy1NbHhVMUI2LWY?oc=5",
-      "source": "MarketWatch",
-      "published_at": "Tue, 10 Nov 2026 16:28:00 GMT",
-      "summary": "Why stocks are falling and the 10-year Treasury yield is back near 5% after Tuesday’s inflation report MarketWatch",
-      "guid": "CBMi2AFBVV95cUxQdWxxNHUtVm9iTEJTMXpJSmJyRFc3aC1jZC1qNnNxVURCYVhSUHRXQlVLVDctY003RTFhUzVZTkZ2dUNXaVZRUEZ2UXdtYk5HVGJkZEh0RmNnNkllS2JmY2pPM2l6YkVacEdtdmM0UGNNMUZtTE4tWUNBUzV4X2ZBUlZEbGJtcWlMSEtiTUFDc0xmcEp2aGp4WXVrdXJkZmF3QXZ5OXl6cF85UTRKQ19hMWhMVGZwR1lORFF4TzNxaHpxUXpoU0U5Rzg0QXVRUy1NbHhVMUI2LWY"
+      "title": "Spiking yields and falling stocks: Wall Street thinks hot inflation data clinched a rate hike next month - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWG1SZHNSX2x0dWRXSHdfYTFSNldVOF92aUplek1POEt3UnkxME45bExhVl9ma2NTMXRLUVk2Nl92OFVqdmxnVnhiOS1YaDVRQTNIQ2JndWsxeXZqN21EeHhMM3dtZUR4ZTNiNk5FTmZkbEVTZnRabjItUV91Mnlia0NrMzN5U3dKeE1BalM1WlVqWHpJRl9mNzdQTTJlQlh6U1g4?oc=5",
+      "source": "Business Insider",
+      "published_at": "Tue, 10 Nov 2026 15:53:00 GMT",
+      "summary": "Spiking yields and falling stocks: Wall Street thinks hot inflation data clinched a rate hike next month Business Insider",
+      "guid": "CBMiowFBVV95cUxQWG1SZHNSX2x0dWRXSHdfYTFSNldVOF92aUplek1POEt3UnkxME45bExhVl9ma2NTMXRLUVk2Nl92OFVqdmxnVnhiOS1YaDVRQTNIQ2JndWsxeXZqN21EeHhMM3dtZUR4ZTNiNk5FTmZkbEVTZnRabjItUV91Mnlia0NrMzN5U3dKeE1BalM1WlVqWHpJRl9mNzdQTTJlQlh6U1g4"
+    },
+    {
+      "title": "Are markets open on Veterans Day? - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQ1BnNXVNWUFrRDAwaFVJaUQtbkpmLXNMV1BRQkVFa3hCMlg2WVNNMS1aTVFzLVc4UG40dTFzNUZYblVwYlhGNUVzQ29ReU9JUE5Bdkg1dXFjRzM4U2VEU1M0SHJWOGZwQ29YWHVCeU1GVDVnWkw0YzI1alc0OWktai1ndmY2TllHVjhZclUxQ3hsdVN6aE94bk9nMA?oc=5",
+      "source": "TradingView",
+      "published_at": "Tue, 10 Nov 2026 21:46:44 GMT",
+      "summary": "Are markets open on Veterans Day? TradingView",
+      "guid": "CBMimwFBVV95cUxPQ1BnNXVNWUFrRDAwaFVJaUQtbkpmLXNMV1BRQkVFa3hCMlg2WVNNMS1aTVFzLVc4UG40dTFzNUZYblVwYlhGNUVzQ29ReU9JUE5Bdkg1dXFjRzM4U2VEU1M0SHJWOGZwQ29YWHVCeU1GVDVnWkw0YzI1alc0OWktai1ndmY2TllHVjhZclUxQ3hsdVN6aE94bk9nMA"
     },
     {
       "title": "Will a Federal Reserve Interest Rate Hike Trigger a Recession? Here's What History Says. - The Motley Fool",
@@ -53,22 +69,6 @@
       "published_at": "Mon, 09 Nov 2026 18:00:00 GMT",
       "summary": "Will a Federal Reserve Interest Rate Hike Trigger a Recession? Here's What History Says. The Motley Fool",
       "guid": "CBMilgFBVV95cUxOeTRORk0zUF91ZmpmczJXTXZTM1dsN291ZEluSFBBWXZwcjlvM0d2NHQzZGhVQnVYQWtCSFVQMFg3V1FhUGtqOFMwY0c0RzlMNzdpZ1R6TkRfS2JCV0FSb1JyaHA0TUJSdUN3ekJEcTRaYVhEVkV5RmYtOE1INmNxQkRoQWlwZUt5VzhjN1ctbFBNRDBtOEE"
-    },
-    {
-      "title": "Federal Reserve's Rate Hikes: Insights from Dallas Fed President Lori Logan - GuruFocus",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQalkyRG5zX1BraWNoNTE5b3BSTmhOdW9kcEtYNkdXOVhvZ2tsaDhtUEZucE8tVkpnZTFJWkpDLVZ5R0xXYlpLYVppZERhSGpfMlgwUF8wY0RSQVVPSDBUMUZYc1R4c0Qyb1dmRkVFMDVCbi1HVWxPZHRod0lVYnFNVTA3bS0zblpqYTZQVm5CdnEtQnAzajNuLXpqRUx6SjZfazAwNWtHcEM1YkZrOWlEOUtR?oc=5",
-      "source": "GuruFocus",
-      "published_at": "Tue, 10 Nov 2026 17:15:44 GMT",
-      "summary": "Federal Reserve's Rate Hikes: Insights from Dallas Fed President Lori Logan GuruFocus",
-      "guid": "CBMisgFBVV95cUxQalkyRG5zX1BraWNoNTE5b3BSTmhOdW9kcEtYNkdXOVhvZ2tsaDhtUEZucE8tVkpnZTFJWkpDLVZ5R0xXYlpLYVppZERhSGpfMlgwUF8wY0RSQVVPSDBUMUZYc1R4c0Qyb1dmRkVFMDVCbi1HVWxPZHRod0lVYnFNVTA3bS0zblpqYTZQVm5CdnEtQnAzajNuLXpqRUx6SjZfazAwNWtHcEM1YkZrOWlEOUtR"
-    },
-    {
-      "title": "Will a Federal Reserve Interest Rate Hike Trigger a Recession? Here's What History Says. - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLWRsYnpDZXZZUUNKTFFqcS1OQmFFZUg2RnRlLXM4SDhoVDdkX242aWZLQUg5eE56T05rdlVWWlVWVXJ6X2hjejF0bzhzbkE1eVFwMUFBeUpLUVI5Z3Z1TFdwUFRMV1pqZGlKN3dtT2dsZHk4VllrMTlCRjFVbkpsUTl2VUJQVC0taDg5TGJvOFM4ZjVYdmVTUmxkd295cWNS?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Mon, 09 Nov 2026 18:20:00 GMT",
-      "summary": "Will a Federal Reserve Interest Rate Hike Trigger a Recession? Here's What History Says. Yahoo Finance",
-      "guid": "CBMioAFBVV95cUxOLWRsYnpDZXZZUUNKTFFqcS1OQmFFZUg2RnRlLXM4SDhoVDdkX242aWZLQUg5eE56T05rdlVWWlVWVXJ6X2hjejF0bzhzbkE1eVFwMUFBeUpLUVI5Z3Z1TFdwUFRMV1pqZGlKN3dtT2dsZHk4VllrMTlCRjFVbkpsUTl2VUJQVC0taDg5TGJvOFM4ZjVYdmVTUmxkd295cWNS"
     },
     {
       "title": "Downside Risk to the Stock Market and Consumption - Federal Reserve Bank of Atlanta",
