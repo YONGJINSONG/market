@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T02:46:17Z",
+  "generated_at": "2026-11-11T09:57:30Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,20 +7,36 @@
   },
   "items": [
     {
-      "title": "Fed officials open door to a quicker round of rate hikes as inflation worsens - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTXo5UzFWVEh5WllQOHNxS1Q2cERxOEM0X1QyN1dPX0R4XzdfT1BpajYxdi0xOEltNWh6cE15Z2ZvZ2dXV0Vwb3NkbWZ1VGQ2M2tvVVVSaWd6clhPcS1XUEU2QXE3c0tlLUhPX0c2emRnWVpwOGtoajlnSS1VRXRNZXFaNEpyVlVwcFVIOUdkT18yQ2t6a1psZGVlOFpiZl90QnVhcmxqQzNxNnlNSEdXcWpjcUdzYUNJSi1hcnl6ZEpUSUU?oc=5",
-      "source": "Reuters",
-      "published_at": "Tue, 10 Nov 2026 23:07:22 GMT",
-      "summary": "Fed officials open door to a quicker round of rate hikes as inflation worsens Reuters",
-      "guid": "CBMiwwFBVV95cUxOTXo5UzFWVEh5WllQOHNxS1Q2cERxOEM0X1QyN1dPX0R4XzdfT1BpajYxdi0xOEltNWh6cE15Z2ZvZ2dXV0Vwb3NkbWZ1VGQ2M2tvVVVSaWd6clhPcS1XUEU2QXE3c0tlLUhPX0c2emRnWVpwOGtoajlnSS1VRXRNZXFaNEpyVlVwcFVIOUdkT18yQ2t6a1psZGVlOFpiZl90QnVhcmxqQzNxNnlNSEdXcWpjcUdzYUNJSi1hcnl6ZEpUSUU"
-    },
-    {
       "title": "Fed’s Bowman Warns of Stock Correction If AI Bets Don’t Pan Out - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZnFNTUx0RzRjMFpzM1FBRlh5TVFiT1dBSm0ybWx1cngzVW9UVllIOHl5OFNKckRDdGZybDRMYjh5dWZiQ3JTYlFsaGZsaFdYTURmdUZ5MldUa2ZDMmlBbEZWMk9KV2ZoSU1sOUx1UnV4d0JZMjJpa2ZybHJmSzlYT3hXenhYelM0ZmNrV2NEMjM3T055UF9iSUJsa2xKQ0Q5S2M2SWlSeW5ZMUpfN1BoekJvbGI?oc=5",
       "source": "Bloomberg.com",
       "published_at": "Tue, 10 Nov 2026 20:30:00 GMT",
       "summary": "Fed’s Bowman Warns of Stock Correction If AI Bets Don’t Pan Out Bloomberg.com",
       "guid": "CBMitAFBVV95cUxNZnFNTUx0RzRjMFpzM1FBRlh5TVFiT1dBSm0ybWx1cngzVW9UVllIOHl5OFNKckRDdGZybDRMYjh5dWZiQ3JTYlFsaGZsaFdYTURmdUZ5MldUa2ZDMmlBbEZWMk9KV2ZoSU1sOUx1UnV4d0JZMjJpa2ZybHJmSzlYT3hXenhYelM0ZmNrV2NEMjM3T055UF9iSUJsa2xKQ0Q5S2M2SWlSeW5ZMUpfN1BoekJvbGI"
+    },
+    {
+      "title": "Uh-Oh! 2 Critical Inflation Measures Are Heading the Wrong Way in November, and the Stock Market May Pay the Price. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPR2VXTWtkMzdsbXZMYTVYUnFWREdVY0FBbmxxQzk0dnNUal9vck91Z3NveUh0OG90bDF2NW9CSE1JLUdibVA3RmVndGJuaVo4bFNYSFhkRlNyaWJPZkZnWnlFaGtlUGptRGRaNm1LRE13THJCMWNHVmdnRFIwYXNtMUp4VkxfTVRxNXRnOHc4YlJ2S3ctc1l2NUI3eXdzc3p0WDgyUExRZ2Z5WHZHUk9FNGp0cEZXQmtJLVNkd2ZZajJhOHBMVUdCZk9ubnR3NEJq?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Wed, 11 Nov 2026 09:06:00 GMT",
+      "summary": "Uh-Oh! 2 Critical Inflation Measures Are Heading the Wrong Way in November, and the Stock Market May Pay the Price. The Motley Fool",
+      "guid": "CBMi0AFBVV95cUxPR2VXTWtkMzdsbXZMYTVYUnFWREdVY0FBbmxxQzk0dnNUal9vck91Z3NveUh0OG90bDF2NW9CSE1JLUdibVA3RmVndGJuaVo4bFNYSFhkRlNyaWJPZkZnWnlFaGtlUGptRGRaNm1LRE13THJCMWNHVmdnRFIwYXNtMUp4VkxfTVRxNXRnOHc4YlJ2S3ctc1l2NUI3eXdzc3p0WDgyUExRZ2Z5WHZHUk9FNGp0cEZXQmtJLVNkd2ZZajJhOHBMVUdCZk9ubnR3NEJq"
+    },
+    {
+      "title": "Fed officials open door to a quicker round of rate hikes as inflation worsens - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTXo5UzFWVEh5WllQOHNxS1Q2cERxOEM0X1QyN1dPX0R4XzdfT1BpajYxdi0xOEltNWh6cE15Z2ZvZ2dXV0Vwb3NkbWZ1VGQ2M2tvVVVSaWd6clhPcS1XUEU2QXE3c0tlLUhPX0c2emRnWVpwOGtoajlnSS1VRXRNZXFaNEpyVlVwcFVIOUdkT18yQ2t6a1psZGVlOFpiZl90QnVhcmxqQzNxNnlNSEdXcWpjcUdzYUNJSi1hcnl6ZEpUSUU?oc=5",
+      "source": "Reuters",
+      "published_at": "Tue, 10 Nov 2026 14:51:00 GMT",
+      "summary": "Fed officials open door to a quicker round of rate hikes as inflation worsens Reuters",
+      "guid": "CBMiwwFBVV95cUxOTXo5UzFWVEh5WllQOHNxS1Q2cERxOEM0X1QyN1dPX0R4XzdfT1BpajYxdi0xOEltNWh6cE15Z2ZvZ2dXV0Vwb3NkbWZ1VGQ2M2tvVVVSaWd6clhPcS1XUEU2QXE3c0tlLUhPX0c2emRnWVpwOGtoajlnSS1VRXRNZXFaNEpyVlVwcFVIOUdkT18yQ2t6a1psZGVlOFpiZl90QnVhcmxqQzNxNnlNSEdXcWpjcUdzYUNJSi1hcnl6ZEpUSUU"
+    },
+    {
+      "title": "Will a Federal Reserve Interest Rate Hike Trigger a Recession? Here's What History Says. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOLWRsYnpDZXZZUUNKTFFqcS1OQmFFZUg2RnRlLXM4SDhoVDdkX242aWZLQUg5eE56T05rdlVWWlVWVXJ6X2hjejF0bzhzbkE1eVFwMUFBeUpLUVI5Z3Z1TFdwUFRMV1pqZGlKN3dtT2dsZHk4VllrMTlCRjFVbkpsUTl2VUJQVC0taDg5TGJvOFM4ZjVYdmVTUmxkd295cWNS?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Mon, 09 Nov 2026 18:20:00 GMT",
+      "summary": "Will a Federal Reserve Interest Rate Hike Trigger a Recession? Here's What History Says. Yahoo Finance",
+      "guid": "CBMioAFBVV95cUxOLWRsYnpDZXZZUUNKTFFqcS1OQmFFZUg2RnRlLXM4SDhoVDdkX242aWZLQUg5eE56T05rdlVWWlVWVXJ6X2hjejF0bzhzbkE1eVFwMUFBeUpLUVI5Z3Z1TFdwUFRMV1pqZGlKN3dtT2dsZHk4VllrMTlCRjFVbkpsUTl2VUJQVC0taDg5TGJvOFM4ZjVYdmVTUmxkd295cWNS"
     },
     {
       "title": "Stock Market Today: Dow Jones, Nasdaq, S&P 500 Fall on November 10, 2026; Oil and Gold Retreat - Eurasia Business News",
@@ -39,52 +55,36 @@
       "guid": "CBMi2AFBVV95cUxQdWxxNHUtVm9iTEJTMXpJSmJyRFc3aC1jZC1qNnNxVURCYVhSUHRXQlVLVDctY003RTFhUzVZTkZ2dUNXaVZRUEZ2UXdtYk5HVGJkZEh0RmNnNkllS2JmY2pPM2l6YkVacEdtdmM0UGNNMUZtTE4tWUNBUzV4X2ZBUlZEbGJtcWlMSEtiTUFDc0xmcEp2aGp4WXVrdXJkZmF3QXZ5OXl6cF85UTRKQ19hMWhMVGZwR1lORFF4TzNxaHpxUXpoU0U5Rzg0QXVRUy1NbHhVMUI2LWY"
     },
     {
-      "title": "Federal Reserve Research Reveals New Inflation Threat - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdUE0dmtmT0dCSkt1Q3k5Q3NBb080bmxmZHBmWDNWSDlyR3NIcXB4WVFvU3Z5djZCcXBBenJNRG5nV2ZLQlVWbWgwNm9Kb2hOTGx4VmE2XzhTMjc1Z2g5LThtQzhjMnJhMy1WQjFOOFFsV0tJb1QteTJhY2hrakNXV3hTM2xKdGl1NmMzT3dXN3BTMnhSMTV2S3U0S2huWU9qYWZyU3QtRlZVUQ?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Tue, 10 Nov 2026 17:24:30 GMT",
-      "summary": "Federal Reserve Research Reveals New Inflation Threat Yahoo Finance",
-      "guid": "CBMiqgFBVV95cUxNdUE0dmtmT0dCSkt1Q3k5Q3NBb080bmxmZHBmWDNWSDlyR3NIcXB4WVFvU3Z5djZCcXBBenJNRG5nV2ZLQlVWbWgwNm9Kb2hOTGx4VmE2XzhTMjc1Z2g5LThtQzhjMnJhMy1WQjFOOFFsV0tJb1QteTJhY2hrakNXV3hTM2xKdGl1NmMzT3dXN3BTMnhSMTV2S3U0S2huWU9qYWZyU3QtRlZVUQ"
-    },
-    {
-      "title": "Will a Federal Reserve Interest Rate Hike Trigger a Recession? Here's What History Says. - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeTRORk0zUF91ZmpmczJXTXZTM1dsN291ZEluSFBBWXZwcjlvM0d2NHQzZGhVQnVYQWtCSFVQMFg3V1FhUGtqOFMwY0c0RzlMNzdpZ1R6TkRfS2JCV0FSb1JyaHA0TUJSdUN3ekJEcTRaYVhEVkV5RmYtOE1INmNxQkRoQWlwZUt5VzhjN1ctbFBNRDBtOEE?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Mon, 09 Nov 2026 18:00:00 GMT",
-      "summary": "Will a Federal Reserve Interest Rate Hike Trigger a Recession? Here's What History Says. The Motley Fool",
-      "guid": "CBMilgFBVV95cUxOeTRORk0zUF91ZmpmczJXTXZTM1dsN291ZEluSFBBWXZwcjlvM0d2NHQzZGhVQnVYQWtCSFVQMFg3V1FhUGtqOFMwY0c0RzlMNzdpZ1R6TkRfS2JCV0FSb1JyaHA0TUJSdUN3ekJEcTRaYVhEVkV5RmYtOE1INmNxQkRoQWlwZUt5VzhjN1ctbFBNRDBtOEE"
-    },
-    {
-      "title": "Hot US inflation report seals Federal Reserve rate increase - The National",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNazZzN0dQYXRQSWlRcGF4a1lRSUhmRFNZd191WV9fZzIxZk5Rd0JrZkdjd2tnbWV1MzVuSy1WVFI4Vm5SNUJaR24wekdyQm50RTJuNVRyMTl2RjRDZjNFQVpfTXdtNTd1am00YndjbU5IQkh1WnJzSnF4aEpHRXdqTXhkUTkwTmxuNm9kSFdRdHd2alRYR3Z5Yy0wQXhfOGNncHhPT0c3ZThfeWRoa21R?oc=5",
-      "source": "The National",
-      "published_at": "Wed, 11 Nov 2026 02:37:30 GMT",
-      "summary": "Hot US inflation report seals Federal Reserve rate increase The National",
-      "guid": "CBMirwFBVV95cUxNazZzN0dQYXRQSWlRcGF4a1lRSUhmRFNZd191WV9fZzIxZk5Rd0JrZkdjd2tnbWV1MzVuSy1WVFI4Vm5SNUJaR24wekdyQm50RTJuNVRyMTl2RjRDZjNFQVpfTXdtNTd1am00YndjbU5IQkh1WnJzSnF4aEpHRXdqTXhkUTkwTmxuNm9kSFdRdHd2alRYR3Z5Yy0wQXhfOGNncHhPT0c3ZThfeWRoa21R"
-    },
-    {
-      "title": "Spiking yields and falling stocks: Wall Street thinks hot inflation data clinched a rate hike next month - Business Insider",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWG1SZHNSX2x0dWRXSHdfYTFSNldVOF92aUplek1POEt3UnkxME45bExhVl9ma2NTMXRLUVk2Nl92OFVqdmxnVnhiOS1YaDVRQTNIQ2JndWsxeXZqN21EeHhMM3dtZUR4ZTNiNk5FTmZkbEVTZnRabjItUV91Mnlia0NrMzN5U3dKeE1BalM1WlVqWHpJRl9mNzdQTTJlQlh6U1g4?oc=5",
-      "source": "Business Insider",
-      "published_at": "Tue, 10 Nov 2026 15:53:00 GMT",
-      "summary": "Spiking yields and falling stocks: Wall Street thinks hot inflation data clinched a rate hike next month Business Insider",
-      "guid": "CBMiowFBVV95cUxQWG1SZHNSX2x0dWRXSHdfYTFSNldVOF92aUplek1POEt3UnkxME45bExhVl9ma2NTMXRLUVk2Nl92OFVqdmxnVnhiOS1YaDVRQTNIQ2JndWsxeXZqN21EeHhMM3dtZUR4ZTNiNk5FTmZkbEVTZnRabjItUV91Mnlia0NrMzN5U3dKeE1BalM1WlVqWHpJRl9mNzdQTTJlQlh6U1g4"
-    },
-    {
-      "title": "Are markets open on Veterans Day? - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQ1BnNXVNWUFrRDAwaFVJaUQtbkpmLXNMV1BRQkVFa3hCMlg2WVNNMS1aTVFzLVc4UG40dTFzNUZYblVwYlhGNUVzQ29ReU9JUE5Bdkg1dXFjRzM4U2VEU1M0SHJWOGZwQ29YWHVCeU1GVDVnWkw0YzI1alc0OWktai1ndmY2TllHVjhZclUxQ3hsdVN6aE94bk9nMA?oc=5",
-      "source": "TradingView",
-      "published_at": "Tue, 10 Nov 2026 21:46:44 GMT",
-      "summary": "Are markets open on Veterans Day? TradingView",
-      "guid": "CBMimwFBVV95cUxPQ1BnNXVNWUFrRDAwaFVJaUQtbkpmLXNMV1BRQkVFa3hCMlg2WVNNMS1aTVFzLVc4UG40dTFzNUZYblVwYlhGNUVzQ29ReU9JUE5Bdkg1dXFjRzM4U2VEU1M0SHJWOGZwQ29YWHVCeU1GVDVnWkw0YzI1alc0OWktai1ndmY2TllHVjhZclUxQ3hsdVN6aE94bk9nMA"
-    },
-    {
       "title": "Downside Risk to the Stock Market and Consumption - Federal Reserve Bank of Atlanta",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYTBzZEUwUk5XQmpmbTV4WWhEdWp2dGNxaGlJWE03aGFUQk13VFZVTjhUZ2dGOUVOSXFfOWR2X3FERkg3bDVXQmJfa3lIY2dXZ2hoUFgtNE9yWmY3SmprbEZUcmdCRVJfb3otWEpSTEJISkNNQTZBaUgxaUZ0cXF4Mmt5WFBieTQ5UlJjOVJUMFhlU3pZeW9Wc1FCTUNoTDBiR0FWczlJTy1sZGljdC1pSUJRSy04cmhfQ1kzOVV2UDhHMHIwSUh6amNiVHBGNTBW?oc=5",
       "source": "Federal Reserve Bank of Atlanta",
       "published_at": "Wed, 02 Sep 2026 07:00:00 GMT",
       "summary": "Downside Risk to the Stock Market and Consumption Federal Reserve Bank of Atlanta",
       "guid": "CBMi0AFBVV95cUxOYTBzZEUwUk5XQmpmbTV4WWhEdWp2dGNxaGlJWE03aGFUQk13VFZVTjhUZ2dGOUVOSXFfOWR2X3FERkg3bDVXQmJfa3lIY2dXZ2hoUFgtNE9yWmY3SmprbEZUcmdCRVJfb3otWEpSTEJISkNNQTZBaUgxaUZ0cXF4Mmt5WFBieTQ5UlJjOVJUMFhlU3pZeW9Wc1FCTUNoTDBiR0FWczlJTy1sZGljdC1pSUJRSy04cmhfQ1kzOVV2UDhHMHIwSUh6amNiVHBGNTBW"
+    },
+    {
+      "title": "Hot US inflation report seals Federal Reserve rate increase - The National",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNazZzN0dQYXRQSWlRcGF4a1lRSUhmRFNZd191WV9fZzIxZk5Rd0JrZkdjd2tnbWV1MzVuSy1WVFI4Vm5SNUJaR24wekdyQm50RTJuNVRyMTl2RjRDZjNFQVpfTXdtNTd1am00YndjbU5IQkh1WnJzSnF4aEpHRXdqTXhkUTkwTmxuNm9kSFdRdHd2alRYR3Z5Yy0wQXhfOGNncHhPT0c3ZThfeWRoa21R?oc=5",
+      "source": "The National",
+      "published_at": "Wed, 11 Nov 2026 02:41:22 GMT",
+      "summary": "Hot US inflation report seals Federal Reserve rate increase The National",
+      "guid": "CBMirwFBVV95cUxNazZzN0dQYXRQSWlRcGF4a1lRSUhmRFNZd191WV9fZzIxZk5Rd0JrZkdjd2tnbWV1MzVuSy1WVFI4Vm5SNUJaR24wekdyQm50RTJuNVRyMTl2RjRDZjNFQVpfTXdtNTd1am00YndjbU5IQkh1WnJzSnF4aEpHRXdqTXhkUTkwTmxuNm9kSFdRdHd2alRYR3Z5Yy0wQXhfOGNncHhPT0c3ZThfeWRoa21R"
+    },
+    {
+      "title": "Tech Gains Boost Stocks as Bonds Slide on Fed Bets: Markets Wrap - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNFpBLVFiSmhuZGxNdjZ4WUE1eEZZVzlpcElqQ3FpX2hfRVVkaVdncm5Ic3J4TFdMVTVPODFqV1dYWTJORmx5c3lTMHg1ZUtiZml2ZUVOZm1WQnlCa2lKcUt3M0tjQUsyVVNxQlVySk5TbHRqZHczYVFDTnU0OGZjMjBBWUFqZ2JpNFNhb05nX01EU3dX?oc=5",
+      "source": "Bloomberg.com",
+      "published_at": "Wed, 11 Nov 2026 09:00:05 GMT",
+      "summary": "Tech Gains Boost Stocks as Bonds Slide on Fed Bets: Markets Wrap Bloomberg.com",
+      "guid": "CBMilAFBVV95cUxQNFpBLVFiSmhuZGxNdjZ4WUE1eEZZVzlpcElqQ3FpX2hfRVVkaVdncm5Ic3J4TFdMVTVPODFqV1dYWTJORmx5c3lTMHg1ZUtiZml2ZUVOZm1WQnlCa2lKcUt3M0tjQUsyVVNxQlVySk5TbHRqZHczYVFDTnU0OGZjMjBBWUFqZ2JpNFNhb05nX01EU3dX"
+    },
+    {
+      "title": "Fed Falling Behind on Inflation, BofA Eyes Half-Point Hike - iShares 20+ Year Treasury Bond ETF (NASDAQ:T - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUHVsdjBiSjdtd0RYTDFjQUQtSng0aTE4el9DRW5NSmF6eHA3dkV1a0VVcV91NmdLSGJyX2R0TkFWa3FPRmdCUWJnRnZEQ0hEZjlMem95U0N3NzFRdjRIY0UtSTZZVGNWYk13NjQ0ZldxbjhrVjlxM2piVmJISnVGTjF2c1M1bmlVc0RUTGRUb3lBMHc1Tk1XTGlDTnFhbzJjb1lldXJxS0NreXozbF9Fdm42YnR4aU4zbGNZakdoZGVleFZlcmR1LWtvN2kxeDZQWkhBRm1n?oc=5",
+      "source": "Benzinga",
+      "published_at": "Tue, 10 Nov 2026 21:39:59 GMT",
+      "summary": "Fed Falling Behind on Inflation, BofA Eyes Half-Point Hike - iShares 20+ Year Treasury Bond ETF (NASDAQ:T Benzinga",
+      "guid": "CBMi1gFBVV95cUxQUHVsdjBiSjdtd0RYTDFjQUQtSng0aTE4el9DRW5NSmF6eHA3dkV1a0VVcV91NmdLSGJyX2R0TkFWa3FPRmdCUWJnRnZEQ0hEZjlMem95U0N3NzFRdjRIY0UtSTZZVGNWYk13NjQ0ZldxbjhrVjlxM2piVmJISnVGTjF2c1M1bmlVc0RUTGRUb3lBMHc1Tk1XTGlDTnFhbzJjb1lldXJxS0NreXozbF9Fdm42YnR4aU4zbGNZakdoZGVleFZlcmR1LWtvN2kxeDZQWkhBRm1n"
     }
   ]
 }
