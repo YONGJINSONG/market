@@ -1,19 +1,11 @@
 {
-  "generated_at": "2026-11-13T01:16:31Z",
+  "generated_at": "2026-11-13T08:14:28Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
-    {
-      "title": "Bond yields surge most in 19 months as traders brace for Fed rate hikes - CNN",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE90VXBidVIzOGQ1UEpWNEZyYmdEWGs5b1czWmUtOEYxNzhxZEJVODlMVEJsOTZYSHRKWHdjWWFGTzltYWtZaVk3dGhfR0hyaVFuTXk5cEpMWDZZYmsxVG9rVF9ZT3VLYnQ4T2NCQllBVHVmT1lw?oc=5",
-      "source": "CNN",
-      "published_at": "Tue, 10 Nov 2026 22:14:47 GMT",
-      "summary": "Bond yields surge most in 19 months as traders brace for Fed rate hikes CNN",
-      "guid": "CBMidEFVX3lxTE90VXBidVIzOGQ1UEpWNEZyYmdEWGs5b1czWmUtOEYxNzhxZEJVODlMVEJsOTZYSHRKWHdjWWFGTzltYWtZaVk3dGhfR0hyaVFuTXk5cEpMWDZZYmsxVG9rVF9ZT3VLYnQ4T2NCQllBVHVmT1lw"
-    },
     {
       "title": "Yahoo Finance Invest: Federal Reserve Bank of Chicago President - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQX1NhSUpoNmdNRU56ZXpFcWk4Mkljek41bnVnMXNTdzAyNVdKend1UEp3QUNvMkktMGZSM0Y0TzlJWTQ0a3NGQ2ZWOEtFY3JJTHRJaXZONHFqWFZxRzVKX01qSFdlM3locENiSVpqMC1uemQ0UzBCd2ZTNTJCbVJ3eURjLVVQTHJrZXRzZ1g2cVd2Ul9XZVZka1lLTVpKTlNvT2xOWXk0X2pyc1FCaWc?oc=5",
@@ -55,6 +47,14 @@
       "guid": "CBMiwwFBVV95cUxOTXo5UzFWVEh5WllQOHNxS1Q2cERxOEM0X1QyN1dPX0R4XzdfT1BpajYxdi0xOEltNWh6cE15Z2ZvZ2dXV0Vwb3NkbWZ1VGQ2M2tvVVVSaWd6clhPcS1XUEU2QXE3c0tlLUhPX0c2emRnWVpwOGtoajlnSS1VRXRNZXFaNEpyVlVwcFVIOUdkT18yQ2t6a1psZGVlOFpiZl90QnVhcmxqQzNxNnlNSEdXcWpjcUdzYUNJSi1hcnl6ZEpUSUU"
     },
     {
+      "title": "Recent Economic and Financial Developments - Federal Reserve (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KWEN6M3VsdUJpS3YyUzBfc0JpcHhrY3J4LXhhUE90UkdqS1N1OWxCZGw1cWxveExZZ1RfM0dXM1pNMk9HRVctTGNBM2xrQ2Npbjl5OFJkQV9sajMxWHhQSGpXSzNfcGppZDhEaHFraFhUZ0puWFE?oc=5",
+      "source": "Federal Reserve (.gov)",
+      "published_at": "Fri, 17 Jul 2026 06:37:05 GMT",
+      "summary": "Recent Economic and Financial Developments Federal Reserve (.gov)",
+      "guid": "CBMidkFVX3lxTE9KWEN6M3VsdUJpS3YyUzBfc0JpcHhrY3J4LXhhUE90UkdqS1N1OWxCZGw1cWxveExZZ1RfM0dXM1pNMk9HRVctTGNBM2xrQ2Npbjl5OFJkQV9sajMxWHhQSGpXSzNfcGppZDhEaHFraFhUZ0puWFE"
+    },
+    {
       "title": "Could the Federal Reserve raise interest rates three times in a row? Wall Street warns: The stock market is underpricing a tsunami! - 富途牛牛",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPekZTV09oZWFPOWhwVUxxQWJvLXlDYmZIV3RYTk92cjc5S2RyZ3NyZmNFTk52VzJTc0NzU0N5MXFENEIwX05PcXNQZzN6N1JHWFF3VmRfSWhWQ0hDMDQ0bTVsYUlHMF9TRmQ5bU1GV09HamluMFdEc1JUVEFPTklPZjk4bHB5UGtZWTVrYnpmN1c3M21aVkhMTkg4ck1SVWliMHd3cGpLZw?oc=5",
       "source": "富途牛牛",
@@ -63,12 +63,12 @@
       "guid": "CBMipwFBVV95cUxPekZTV09oZWFPOWhwVUxxQWJvLXlDYmZIV3RYTk92cjc5S2RyZ3NyZmNFTk52VzJTc0NzU0N5MXFENEIwX05PcXNQZzN6N1JHWFF3VmRfSWhWQ0hDMDQ0bTVsYUlHMF9TRmQ5bU1GV09HamluMFdEc1JUVEFPTklPZjk4bHB5UGtZWTVrYnpmN1c3M21aVkhMTkg4ck1SVWliMHd3cGpLZw"
     },
     {
-      "title": "Recent Economic and Financial Developments - Federal Reserve (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KWEN6M3VsdUJpS3YyUzBfc0JpcHhrY3J4LXhhUE90UkdqS1N1OWxCZGw1cWxveExZZ1RfM0dXM1pNMk9HRVctTGNBM2xrQ2Npbjl5OFJkQV9sajMxWHhQSGpXSzNfcGppZDhEaHFraFhUZ0puWFE?oc=5",
-      "source": "Federal Reserve (.gov)",
-      "published_at": "Fri, 17 Jul 2026 06:37:05 GMT",
-      "summary": "Recent Economic and Financial Developments Federal Reserve (.gov)",
-      "guid": "CBMidkFVX3lxTE9KWEN6M3VsdUJpS3YyUzBfc0JpcHhrY3J4LXhhUE90UkdqS1N1OWxCZGw1cWxveExZZ1RfM0dXM1pNMk9HRVctTGNBM2xrQ2Npbjl5OFJkQV9sajMxWHhQSGpXSzNfcGppZDhEaHFraFhUZ0puWFE"
+      "title": "Will the Fed Hike Interest Rates Three Times Consecutively? Wall Street Warns Stock Market Is Underestimating a Severe Market Tsunami - eu.36kr.com",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5MTWF6b01vM3ZhQUp3UElMYW9xLUozR0tXTk95RzY2THpSSTg4dEZXaENNai1oMThmMFNQZ2VFdVlaVi1hVGdPWkpFd21UV0lPXzVV?oc=5",
+      "source": "eu.36kr.com",
+      "published_at": "Fri, 13 Nov 2026 03:41:22 GMT",
+      "summary": "Will the Fed Hike Interest Rates Three Times Consecutively? Wall Street Warns Stock Market Is Underestimating a Severe Market Tsunami eu.36kr.com",
+      "guid": "CBMiU0FVX3lxTE5MTWF6b01vM3ZhQUp3UElMYW9xLUozR0tXTk95RzY2THpSSTg4dEZXaENNai1oMThmMFNQZ2VFdVlaVi1hVGdPWkpFd21UV0lPXzVV"
     },
     {
       "title": "Hot US inflation report seals Federal Reserve rate increase - The National",
@@ -79,12 +79,12 @@
       "guid": "CBMirwFBVV95cUxNazZzN0dQYXRQSWlRcGF4a1lRSUhmRFNZd191WV9fZzIxZk5Rd0JrZkdjd2tnbWV1MzVuSy1WVFI4Vm5SNUJaR24wekdyQm50RTJuNVRyMTl2RjRDZjNFQVpfTXdtNTd1am00YndjbU5IQkh1WnJzSnF4aEpHRXdqTXhkUTkwTmxuNm9kSFdRdHd2alRYR3Z5Yy0wQXhfOGNncHhPT0c3ZThfeWRoa21R"
     },
     {
-      "title": "Uh-Oh! 2 Critical Inflation Measures Are Heading the Wrong Way in November, and the Stock Market May Pay the Price. - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPR2VXTWtkMzdsbXZMYTVYUnFWREdVY0FBbmxxQzk0dnNUal9vck91Z3NveUh0OG90bDF2NW9CSE1JLUdibVA3RmVndGJuaVo4bFNYSFhkRlNyaWJPZkZnWnlFaGtlUGptRGRaNm1LRE13THJCMWNHVmdnRFIwYXNtMUp4VkxfTVRxNXRnOHc4YlJ2S3ctc1l2NUI3eXdzc3p0WDgyUExRZ2Z5WHZHUk9FNGp0cEZXQmtJLVNkd2ZZajJhOHBMVUdCZk9ubnR3NEJq?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Wed, 11 Nov 2026 09:06:00 GMT",
-      "summary": "Uh-Oh! 2 Critical Inflation Measures Are Heading the Wrong Way in November, and the Stock Market May Pay the Price. The Motley Fool",
-      "guid": "CBMi0AFBVV95cUxPR2VXTWtkMzdsbXZMYTVYUnFWREdVY0FBbmxxQzk0dnNUal9vck91Z3NveUh0OG90bDF2NW9CSE1JLUdibVA3RmVndGJuaVo4bFNYSFhkRlNyaWJPZkZnWnlFaGtlUGptRGRaNm1LRE13THJCMWNHVmdnRFIwYXNtMUp4VkxfTVRxNXRnOHc4YlJ2S3ctc1l2NUI3eXdzc3p0WDgyUExRZ2Z5WHZHUk9FNGp0cEZXQmtJLVNkd2ZZajJhOHBMVUdCZk9ubnR3NEJq"
+      "title": "Goldman adds another rate hike to Fed outlook after hot inflation data - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaGZrcC11RmpmMVp3a09iZl9aR2N6TDVFV2d1eE50MzBMT0hkZFMtbXFteWFvcDBnSEM0MXdhWFJmM0d4eXZNVFMtNDA2VHozS0UyeEdWcGtQanctN3pxdVVVeWRacnFxS2d3N1I1MktUbUVISWhwZ0VibFgtTWVUX0ZtelYwSmJMQXdUbDJqZmxPMklpS2c?oc=5",
+      "source": "Reuters",
+      "published_at": "Wed, 11 Nov 2026 17:05:50 GMT",
+      "summary": "Goldman adds another rate hike to Fed outlook after hot inflation data Reuters",
+      "guid": "CBMilgFBVV95cUxPaGZrcC11RmpmMVp3a09iZl9aR2N6TDVFV2d1eE50MzBMT0hkZFMtbXFteWFvcDBnSEM0MXdhWFJmM0d4eXZNVFMtNDA2VHozS0UyeEdWcGtQanctN3pxdVVVeWRacnFxS2d3N1I1MktUbUVISWhwZ0VibFgtTWVUX0ZtelYwSmJMQXdUbDJqZmxPMklpS2c"
     }
   ]
 }
