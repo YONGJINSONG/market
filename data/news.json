@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-11-12T20:26:16Z",
+  "generated_at": "2026-11-13T01:16:31Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "Bond yields surge most in 19 months as traders brace for Fed rate hikes - CNN",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE90VXBidVIzOGQ1UEpWNEZyYmdEWGs5b1czWmUtOEYxNzhxZEJVODlMVEJsOTZYSHRKWHdjWWFGTzltYWtZaVk3dGhfR0hyaVFuTXk5cEpMWDZZYmsxVG9rVF9ZT3VLYnQ4T2NCQllBVHVmT1lw?oc=5",
+      "source": "CNN",
+      "published_at": "Tue, 10 Nov 2026 22:14:47 GMT",
+      "summary": "Bond yields surge most in 19 months as traders brace for Fed rate hikes CNN",
+      "guid": "CBMidEFVX3lxTE90VXBidVIzOGQ1UEpWNEZyYmdEWGs5b1czWmUtOEYxNzhxZEJVODlMVEJsOTZYSHRKWHdjWWFGTzltYWtZaVk3dGhfR0hyaVFuTXk5cEpMWDZZYmsxVG9rVF9ZT3VLYnQ4T2NCQllBVHVmT1lw"
+    },
     {
       "title": "Yahoo Finance Invest: Federal Reserve Bank of Chicago President - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQX1NhSUpoNmdNRU56ZXpFcWk4Mkljek41bnVnMXNTdzAyNVdKend1UEp3QUNvMkktMGZSM0Y0TzlJWTQ0a3NGQ2ZWOEtFY3JJTHRJaXZONHFqWFZxRzVKX01qSFdlM3locENiSVpqMC1uemQ0UzBCd2ZTNTJCbVJ3eURjLVVQTHJrZXRzZ1g2cVd2Ul9XZVZka1lLTVpKTlNvT2xOWXk0X2pyc1FCaWc?oc=5",
@@ -15,20 +23,20 @@
       "guid": "CBMirgFBVV95cUxQX1NhSUpoNmdNRU56ZXpFcWk4Mkljek41bnVnMXNTdzAyNVdKend1UEp3QUNvMkktMGZSM0Y0TzlJWTQ0a3NGQ2ZWOEtFY3JJTHRJaXZONHFqWFZxRzVKX01qSFdlM3locENiSVpqMC1uemQ0UzBCd2ZTNTJCbVJ3eURjLVVQTHJrZXRzZ1g2cVd2Ul9XZVZka1lLTVpKTlNvT2xOWXk0X2pyc1FCaWc"
     },
     {
-      "title": "Will a Federal Reserve Interest Rate Hike Trigger a Recession? Here's What History Says. - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeTRORk0zUF91ZmpmczJXTXZTM1dsN291ZEluSFBBWXZwcjlvM0d2NHQzZGhVQnVYQWtCSFVQMFg3V1FhUGtqOFMwY0c0RzlMNzdpZ1R6TkRfS2JCV0FSb1JyaHA0TUJSdUN3ekJEcTRaYVhEVkV5RmYtOE1INmNxQkRoQWlwZUt5VzhjN1ctbFBNRDBtOEE?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Mon, 09 Nov 2026 18:00:00 GMT",
-      "summary": "Will a Federal Reserve Interest Rate Hike Trigger a Recession? Here's What History Says. The Motley Fool",
-      "guid": "CBMilgFBVV95cUxOeTRORk0zUF91ZmpmczJXTXZTM1dsN291ZEluSFBBWXZwcjlvM0d2NHQzZGhVQnVYQWtCSFVQMFg3V1FhUGtqOFMwY0c0RzlMNzdpZ1R6TkRfS2JCV0FSb1JyaHA0TUJSdUN3ekJEcTRaYVhEVkV5RmYtOE1INmNxQkRoQWlwZUt5VzhjN1ctbFBNRDBtOEE"
-    },
-    {
       "title": "Tech Gains Boost Stocks as Bonds Slide on Fed Bets: Markets Wrap - Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNFpBLVFiSmhuZGxNdjZ4WUE1eEZZVzlpcElqQ3FpX2hfRVVkaVdncm5Ic3J4TFdMVTVPODFqV1dYWTJORmx5c3lTMHg1ZUtiZml2ZUVOZm1WQnlCa2lKcUt3M0tjQUsyVVNxQlVySk5TbHRqZHczYVFDTnU0OGZjMjBBWUFqZ2JpNFNhb05nX01EU3dX?oc=5",
       "source": "Bloomberg.com",
       "published_at": "Tue, 10 Nov 2026 22:32:05 GMT",
       "summary": "Tech Gains Boost Stocks as Bonds Slide on Fed Bets: Markets Wrap Bloomberg.com",
       "guid": "CBMilAFBVV95cUxQNFpBLVFiSmhuZGxNdjZ4WUE1eEZZVzlpcElqQ3FpX2hfRVVkaVdncm5Ic3J4TFdMVTVPODFqV1dYWTJORmx5c3lTMHg1ZUtiZml2ZUVOZm1WQnlCa2lKcUt3M0tjQUsyVVNxQlVySk5TbHRqZHczYVFDTnU0OGZjMjBBWUFqZ2JpNFNhb05nX01EU3dX"
+    },
+    {
+      "title": "Will a Federal Reserve Interest Rate Hike Trigger a Recession? Here's What History Says. - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeTRORk0zUF91ZmpmczJXTXZTM1dsN291ZEluSFBBWXZwcjlvM0d2NHQzZGhVQnVYQWtCSFVQMFg3V1FhUGtqOFMwY0c0RzlMNzdpZ1R6TkRfS2JCV0FSb1JyaHA0TUJSdUN3ekJEcTRaYVhEVkV5RmYtOE1INmNxQkRoQWlwZUt5VzhjN1ctbFBNRDBtOEE?oc=5",
+      "source": "The Motley Fool",
+      "published_at": "Mon, 09 Nov 2026 18:00:00 GMT",
+      "summary": "Will a Federal Reserve Interest Rate Hike Trigger a Recession? Here's What History Says. The Motley Fool",
+      "guid": "CBMilgFBVV95cUxOeTRORk0zUF91ZmpmczJXTXZTM1dsN291ZEluSFBBWXZwcjlvM0d2NHQzZGhVQnVYQWtCSFVQMFg3V1FhUGtqOFMwY0c0RzlMNzdpZ1R6TkRfS2JCV0FSb1JyaHA0TUJSdUN3ekJEcTRaYVhEVkV5RmYtOE1INmNxQkRoQWlwZUt5VzhjN1ctbFBNRDBtOEE"
     },
     {
       "title": "Downside Risk to the Stock Market and Consumption - Federal Reserve Bank of Atlanta",
@@ -47,28 +55,20 @@
       "guid": "CBMiwwFBVV95cUxOTXo5UzFWVEh5WllQOHNxS1Q2cERxOEM0X1QyN1dPX0R4XzdfT1BpajYxdi0xOEltNWh6cE15Z2ZvZ2dXV0Vwb3NkbWZ1VGQ2M2tvVVVSaWd6clhPcS1XUEU2QXE3c0tlLUhPX0c2emRnWVpwOGtoajlnSS1VRXRNZXFaNEpyVlVwcFVIOUdkT18yQ2t6a1psZGVlOFpiZl90QnVhcmxqQzNxNnlNSEdXcWpjcUdzYUNJSi1hcnl6ZEpUSUU"
     },
     {
+      "title": "Could the Federal Reserve raise interest rates three times in a row? Wall Street warns: The stock market is underpricing a tsunami! - 富途牛牛",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPekZTV09oZWFPOWhwVUxxQWJvLXlDYmZIV3RYTk92cjc5S2RyZ3NyZmNFTk52VzJTc0NzU0N5MXFENEIwX05PcXNQZzN6N1JHWFF3VmRfSWhWQ0hDMDQ0bTVsYUlHMF9TRmQ5bU1GV09HamluMFdEc1JUVEFPTklPZjk4bHB5UGtZWTVrYnpmN1c3M21aVkhMTkg4ck1SVWliMHd3cGpLZw?oc=5",
+      "source": "富途牛牛",
+      "published_at": "Fri, 13 Nov 2026 00:26:35 GMT",
+      "summary": "Could the Federal Reserve raise interest rates three times in a row? Wall Street warns: The stock market is underpricing a tsunami! 富途牛牛",
+      "guid": "CBMipwFBVV95cUxPekZTV09oZWFPOWhwVUxxQWJvLXlDYmZIV3RYTk92cjc5S2RyZ3NyZmNFTk52VzJTc0NzU0N5MXFENEIwX05PcXNQZzN6N1JHWFF3VmRfSWhWQ0hDMDQ0bTVsYUlHMF9TRmQ5bU1GV09HamluMFdEc1JUVEFPTklPZjk4bHB5UGtZWTVrYnpmN1c3M21aVkhMTkg4ck1SVWliMHd3cGpLZw"
+    },
+    {
       "title": "Recent Economic and Financial Developments - Federal Reserve (.gov)",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KWEN6M3VsdUJpS3YyUzBfc0JpcHhrY3J4LXhhUE90UkdqS1N1OWxCZGw1cWxveExZZ1RfM0dXM1pNMk9HRVctTGNBM2xrQ2Npbjl5OFJkQV9sajMxWHhQSGpXSzNfcGppZDhEaHFraFhUZ0puWFE?oc=5",
       "source": "Federal Reserve (.gov)",
       "published_at": "Fri, 17 Jul 2026 06:37:05 GMT",
       "summary": "Recent Economic and Financial Developments Federal Reserve (.gov)",
       "guid": "CBMidkFVX3lxTE9KWEN6M3VsdUJpS3YyUzBfc0JpcHhrY3J4LXhhUE90UkdqS1N1OWxCZGw1cWxveExZZ1RfM0dXM1pNMk9HRVctTGNBM2xrQ2Npbjl5OFJkQV9sajMxWHhQSGpXSzNfcGppZDhEaHFraFhUZ0puWFE"
-    },
-    {
-      "title": "Federal Reserve Bank of Chicago President - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPamhYTU1EWWdYdlk1TllnZ0xvZ2VMQ2FjanJLNWhKZ1pveXNSdHY2QWJCRjJoX0JXMEJIOWp2c01McGxGd2xBZ1BsaHUyRlB4V0hsbDQ5VjRLS3VpUW1qVW5VMXlvWHpVeklyc2NRNlBHa2tDMk1QMU5YZ0JaUXo1ckw5T0hDNm5EckpVUFIxSEc5dw?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Thu, 12 Nov 2026 16:37:07 GMT",
-      "summary": "Federal Reserve Bank of Chicago President Yahoo Finance",
-      "guid": "CBMikgFBVV95cUxPamhYTU1EWWdYdlk1TllnZ0xvZ2VMQ2FjanJLNWhKZ1pveXNSdHY2QWJCRjJoX0JXMEJIOWp2c01McGxGd2xBZ1BsaHUyRlB4V0hsbDQ5VjRLS3VpUW1qVW5VMXlvWHpVeklyc2NRNlBHa2tDMk1QMU5YZ0JaUXo1ckw5T0hDNm5EckpVUFIxSEc5dw"
-    },
-    {
-      "title": "Federal Reserve to Forgo Rate Decision at October 2027 Meeting - marketscreener.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVnlYU0tHOEVUSXBCbE4wbDBwLWQ1cGlCV3JZbnNSTk1mMVozS29WOGhOWnBhUGg4MU1fa0NBR0VEZTJqbWZNVlpMcGxfUXc4RmpUVEc2cGNLTEE0NHdYMU16cV9ZNm5yRzRqN1BWQTFpWld3YU5HcExKQjdhUHNPVlBBSkJlVGxnZWNOMXVQcUxHc2t0c2xZMnpPcnB3c3JTTGNfX3pOTkF4ZXdvRDgtdXZjXzdDQQ?oc=5",
-      "source": "marketscreener.com",
-      "published_at": "Thu, 12 Nov 2026 18:31:32 GMT",
-      "summary": "Federal Reserve to Forgo Rate Decision at October 2027 Meeting marketscreener.com",
-      "guid": "CBMitgFBVV95cUxPVnlYU0tHOEVUSXBCbE4wbDBwLWQ1cGlCV3JZbnNSTk1mMVozS29WOGhOWnBhUGg4MU1fa0NBR0VEZTJqbWZNVlpMcGxfUXc4RmpUVEc2cGNLTEE0NHdYMU16cV9ZNm5yRzRqN1BWQTFpWld3YU5HcExKQjdhUHNPVlBBSkJlVGxnZWNOMXVQcUxHc2t0c2xZMnpPcnB3c3JTTGNfX3pOTkF4ZXdvRDgtdXZjXzdDQQ"
     },
     {
       "title": "Hot US inflation report seals Federal Reserve rate increase - The National",
