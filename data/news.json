@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T02:40:23Z",
+  "generated_at": "2026-11-17T11:06:21Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -7,20 +7,28 @@
   },
   "items": [
     {
-      "title": "US Stock Futures Decline Ahead of Nvidia Earnings as Investors Await Federal Reserve Signals: Dow Jones, S&P, Nasdaq, Wall Street - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZ3loNDRFRS1qcXRkNU4zd2dEbEt0VEpENld4UU9ES3pEOXNhMzkteGVfYXVaaHc1ZUZqRWtwckFiT1NfX3BJTHZzQmtGMUV0MmwzT1p0a1FsNFUxQTZMSmlWWVVqa25FNlNxMXFBM1BRc2E3S2hxYnc3WEdiWThDRzRfNEZfUkg0ZVAxMllvdzJmTlZiNUo3WlRjRQ?oc=5",
+      "title": "The Stock Market Is Primed for an Explosive Week. Nvidia and the Federal Reserve May Decide What Comes Next. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQkZqOHlrNk03N1dKOXVicFlfT29XdDZ1UGJiT280Y0pHSm9IUkNkR2xHWktBamJvblpMUGd4aVhsbkNHSkhfWmJOa1dqQUdzVkVaaHpiUGNobEFaSFpfeU1UVUtDT2lpREJYbWo2MWJWenVFaUl1RHJ3LXExYlg5MzlSS0ZyT3daLW43TTgtRlMzWjJpTEFiMkxsSUFHMDNj?oc=5",
       "source": "Yahoo Finance",
-      "published_at": "Mon, 16 Nov 2026 09:56:42 GMT",
-      "summary": "US Stock Futures Decline Ahead of Nvidia Earnings as Investors Await Federal Reserve Signals: Dow Jones, S&P, Nasdaq, Wall Street Yahoo Finance",
-      "guid": "CBMimwFBVV95cUxNZ3loNDRFRS1qcXRkNU4zd2dEbEt0VEpENld4UU9ES3pEOXNhMzkteGVfYXVaaHc1ZUZqRWtwckFiT1NfX3BJTHZzQmtGMUV0MmwzT1p0a1FsNFUxQTZMSmlWWVVqa25FNlNxMXFBM1BRc2E3S2hxYnc3WEdiWThDRzRfNEZfUkg0ZVAxMllvdzJmTlZiNUo3WlRjRQ"
+      "published_at": "Tue, 17 Nov 2026 10:32:02 GMT",
+      "summary": "The Stock Market Is Primed for an Explosive Week. Nvidia and the Federal Reserve May Decide What Comes Next. Yahoo Finance",
+      "guid": "CBMioAFBVV95cUxQQkZqOHlrNk03N1dKOXVicFlfT29XdDZ1UGJiT280Y0pHSm9IUkNkR2xHWktBamJvblpMUGd4aVhsbkNHSkhfWmJOa1dqQUdzVkVaaHpiUGNobEFaSFpfeU1UVUtDT2lpREJYbWo2MWJWenVFaUl1RHJ3LXExYlg5MzlSS0ZyT3daLW43TTgtRlMzWjJpTEFiMkxsSUFHMDNj"
     },
     {
       "title": "Fed's Warsh sees risk of stock bust if AI boom disappoints - Axios",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IWXhxT19LOGhnTFRsRDZXVGRrR0dDWEctMkhndGtmMEpLMEdDTWhVVzFxRkRSX0ZqbnNVSXJnNm1tWmxkdjQ5Z1BXQmZtVlVNamdjWW02dWV4Q1hwX3ZZak8tRjE5N0tM?oc=5",
       "source": "Axios",
-      "published_at": "Mon, 16 Nov 2026 17:14:36 GMT",
+      "published_at": "Mon, 16 Nov 2026 17:04:04 GMT",
       "summary": "Fed's Warsh sees risk of stock bust if AI boom disappoints Axios",
       "guid": "CBMiaEFVX3lxTE5IWXhxT19LOGhnTFRsRDZXVGRrR0dDWEctMkhndGtmMEpLMEdDTWhVVzFxRkRSX0ZqbnNVSXJnNm1tWmxkdjQ5Z1BXQmZtVlVNamdjWW02dWV4Q1hwX3ZZak8tRjE5N0tM"
+    },
+    {
+      "title": "Fed Chairman Highlights Economic Uncertainty of A.I. Boom - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBBYTdqekVHWUZKSGtDNktJaDFJZTgxX3VmdW9qVUphVVl2SjdUSUtyd2kzUVhoUnhVVm5kOTgxY2h3MmlqdUplcmQ3WDNjVEYxRGN4aUVFUFBUcWdsZWVWTzJNX2ZoNV85MWxxMEJDZ213ZFlZTEpSWkFUR3ZGdw?oc=5",
+      "source": "The New York Times",
+      "published_at": "Mon, 16 Nov 2026 18:35:05 GMT",
+      "summary": "Fed Chairman Highlights Economic Uncertainty of A.I. Boom The New York Times",
+      "guid": "CBMifkFVX3lxTFBBYTdqekVHWUZKSGtDNktJaDFJZTgxX3VmdW9qVUphVVl2SjdUSUtyd2kzUVhoUnhVVm5kOTgxY2h3MmlqdUplcmQ3WDNjVEYxRGN4aUVFUFBUcWdsZWVWTzJNX2ZoNV85MWxxMEJDZ213ZFlZTEpSWkFUR3ZGdw"
     },
     {
       "title": "Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could ‘disappoint’ - CNBC",
@@ -29,22 +37,6 @@
       "published_at": "Mon, 16 Nov 2026 17:00:04 GMT",
       "summary": "Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could ‘disappoint’ CNBC",
       "guid": "CBMidEFVX3lxTE1seHNLTEVjRmlFTzQyYmpBZVNCaXd3a1dnTEkyNFV3VkZmSGk5WHQyUEhjSHZLTXRJYnVxZkF5ZkRvclZsbXAybGRtUTFIMmpUNDNwN2stUzdoVmNEVEJaY0F2YXVwMUtXbFlKc0xkX21SZ3JO0gF6QVVfeXFMT0MyNFFrVnJmcGxqcUluVV9LTUgyeVo2MDVlNUpNQW03cXd0U1l0a0FxSmhKUFRCNTJIM3B5WklRbDEzZFplRGlDOGYxempYY1h6czlobFdWaXE5ZHY2YVdSdmxadHozNC13VFFCOWJBZ0p2dVFyemlqRHc"
-    },
-    {
-      "title": "Fed Chairman Highlights Economic Uncertainty of A.I. Boom - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBBYTdqekVHWUZKSGtDNktJaDFJZTgxX3VmdW9qVUphVVl2SjdUSUtyd2kzUVhoUnhVVm5kOTgxY2h3MmlqdUplcmQ3WDNjVEYxRGN4aUVFUFBUcWdsZWVWTzJNX2ZoNV85MWxxMEJDZ213ZFlZTEpSWkFUR3ZGdw?oc=5",
-      "source": "The New York Times",
-      "published_at": "Mon, 16 Nov 2026 21:08:30 GMT",
-      "summary": "Fed Chairman Highlights Economic Uncertainty of A.I. Boom The New York Times",
-      "guid": "CBMifkFVX3lxTFBBYTdqekVHWUZKSGtDNktJaDFJZTgxX3VmdW9qVUphVVl2SjdUSUtyd2kzUVhoUnhVVm5kOTgxY2h3MmlqdUplcmQ3WDNjVEYxRGN4aUVFUFBUcWdsZWVWTzJNX2ZoNV85MWxxMEJDZ213ZFlZTEpSWkFUR3ZGdw"
-    },
-    {
-      "title": "Fed Chairman Warsh grapples with AI’s potential economic impact, steers clear of its inflation risk - Boston Herald",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9kYVBURzFqWWlLZ1NTX0RkVHpHdVNHMjl5bEtQVlhsVHJxS3RlN0NWdlZ2Rm9tek5oWDU0dEJnSzlGNnJXUGNuT0xqYU9uOXdvQXZaRFM4NEpaWkVLMkdjdWtXVHd3eldodjdjNnJDZFZpNUk?oc=5",
-      "source": "Boston Herald",
-      "published_at": "Mon, 16 Nov 2026 19:04:55 GMT",
-      "summary": "Fed Chairman Warsh grapples with AI’s potential economic impact, steers clear of its inflation risk Boston Herald",
-      "guid": "CBMic0FVX3lxTE9kYVBURzFqWWlLZ1NTX0RkVHpHdVNHMjl5bEtQVlhsVHJxS3RlN0NWdlZ2Rm9tek5oWDU0dEJnSzlGNnJXUGNuT0xqYU9uOXdvQXZaRFM4NEpaWkVLMkdjdWtXVHd3eldodjdjNnJDZFZpNUk"
     },
     {
       "title": "How Will the Market React to a Potential Fed Rate Hike in December? Here's What History Suggests. - Yahoo Finance",
@@ -63,20 +55,12 @@
       "guid": "CBMiiwFBVV95cUxQMmF2a1AxTXIyN09XQ2FpMmNFYk9UdVdYaFozUTN3UmY2amR1c0g5ZkdMU0NCRG54cy1pWmhadmFNdjNxbmlha1p3SlhnZ1VvZ2dvU3JIT1praWI2eWVIZE1taUNKQ2Nqd1JUakhtQl8tS3B2Y1gwNkJ3ZlFTYkpaSDJuZjZBZjVza2NB"
     },
     {
-      "title": "Stocks’ New Headache? The Fed Could Raise Rates Well Into 2027 - Barron's",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaVRqdWxHZTVJYU9nTnNEUFFBZWVVaG11UTdUYmdzUHFSMjVWYTY0b2o0NG5OTE9mcTZ5M3dQc2swdXE0aGpsTnk0THVka0poUi1uMTdfMkF3TGtWTGgtYU9KZm5DdjBrOWp3RDd6bmpFejdwVWxyb3pEYWxjZzFKTk5MME10LTdf?oc=5",
+      "title": "Fed Chair Kevin Warsh Speaks Live Today on AI and Tech - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUF80Vjl6WXY4cERrTWV1cnpkRFB1dUNNVDNDUEJuZFJVVVFPYzZJcnJDQXYtazZFTndNV0wyVEQ0UHN0ZExjYld1cG9RWDF3T0o5MEpHZ3VvSUYzYzdiRjQ1SEtEZmVyVnM1NnZKdFRVby1mQkxnVk5sdjB1Y0JiUHhyUWpkdzBi?oc=5",
       "source": "Barron's",
-      "published_at": "Mon, 16 Nov 2026 11:00:00 GMT",
-      "summary": "Stocks’ New Headache? The Fed Could Raise Rates Well Into 2027 Barron's",
-      "guid": "CBMiiAFBVV95cUxOaVRqdWxHZTVJYU9nTnNEUFFBZWVVaG11UTdUYmdzUHFSMjVWYTY0b2o0NG5OTE9mcTZ5M3dQc2swdXE0aGpsTnk0THVka0poUi1uMTdfMkF3TGtWTGgtYU9KZm5DdjBrOWp3RDd6bmpFejdwVWxyb3pEYWxjZzFKTk5MME10LTdf"
-    },
-    {
-      "title": "Fed’s Warsh Says Staff Are Gaming Out Contingencies on AI Impact - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTUE0U2w2TzBJcDJHS2dWS3k4MEp1MkFQWHVBTi1nNkJvcG9zQlQ4S0JvTU5aLWNScTJVdmdsYnhLaF9DTXczVU1mQ0V2ZGg0WndacERXamttQy1iT0hYUmc1dndPajU3eDRxX2haeVVmaDhrN0dQdFduNHB6eEZyNEItM0lBYkhQcWFWY3JlUFItUGhnZTBqS0tFeS1iWEJUN214bzVPSHB3SjJhVlVRZHdHRGpsQQ?oc=5",
-      "source": "Bloomberg.com",
-      "published_at": "Mon, 16 Nov 2026 17:00:00 GMT",
-      "summary": "Fed’s Warsh Says Staff Are Gaming Out Contingencies on AI Impact Bloomberg.com",
-      "guid": "CBMitgFBVV95cUxNTUE0U2w2TzBJcDJHS2dWS3k4MEp1MkFQWHVBTi1nNkJvcG9zQlQ4S0JvTU5aLWNScTJVdmdsYnhLaF9DTXczVU1mQ0V2ZGg0WndacERXamttQy1iT0hYUmc1dndPajU3eDRxX2haeVVmaDhrN0dQdFduNHB6eEZyNEItM0lBYkhQcWFWY3JlUFItUGhnZTBqS0tFeS1iWEJUN214bzVPSHB3SjJhVlVRZHdHRGpsQQ"
+      "published_at": "Mon, 16 Nov 2026 17:30:00 GMT",
+      "summary": "Fed Chair Kevin Warsh Speaks Live Today on AI and Tech Barron's",
+      "guid": "CBMiiAFBVV95cUxQUF80Vjl6WXY4cERrTWV1cnpkRFB1dUNNVDNDUEJuZFJVVVFPYzZJcnJDQXYtazZFTndNV0wyVEQ0UHN0ZExjYld1cG9RWDF3T0o5MEpHZ3VvSUYzYzdiRjQ1SEtEZmVyVnM1NnZKdFRVby1mQkxnVk5sdjB1Y0JiUHhyUWpkdzBi"
     },
     {
       "title": "Nov. 25 Will Be a Critical Day for the Stock Market - The Motley Fool",
@@ -85,6 +69,22 @@
       "published_at": "Sun, 15 Nov 2026 03:00:00 GMT",
       "summary": "Nov. 25 Will Be a Critical Day for the Stock Market The Motley Fool",
       "guid": "CBMinwFBVV95cUxPTllkcjRJaG0xa0tiRWtvelg0RFFCalVBNEZqU29iVHdJeDdGZFVIQlZWMjUzX1J3SC12U0xDblkzTzlGMER0WnZCNHRNN3FFRWlYbGo3SkkxODJiNmdDVHhva1h1bVJ3NW5DUldOZ1Rud3daVmhzVmNZT1MycnkxU1Q5cy1jVlk2b0JqREd0N3plQWxjcmRSdFNrYjgwNUk"
+    },
+    {
+      "title": "Treasury prices catch a small bid as stock market weakens and Warsh says AI might 'disappoint' - CNBC",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Hb0xmSm1PekxUM0FmRThxUmxKLUp6RFhoZmg0SXdEd2xaeGdKODRRbkhqN205X0MwZmhqbHlhRnVvQVpaUDhWMWp6QUJoamxaazJNN1lFNUVVWVRISnpLVGxpbllUbklySjAteGtLdWR6WmNCQ0hj0gF8QVVfeXFMUFlyRVFLcV9peGl3NGN0ZWljZTFuaXEyNEt0MHRHeXBYbG1UZHhFT2V6OTVBeVVibG1wWmZCdXE5TlFlQzZTc1ZvVmVFWHJTRUZwOWh6MDM1em8yMjhyaG44MTFOV1JXUHVzcmIxZk9nWVpBR0ZQNTFVVW9ERw?oc=5",
+      "source": "CNBC",
+      "published_at": "Mon, 16 Nov 2026 09:17:30 GMT",
+      "summary": "Treasury prices catch a small bid as stock market weakens and Warsh says AI might 'disappoint' CNBC",
+      "guid": "CBMid0FVX3lxTE9Hb0xmSm1PekxUM0FmRThxUmxKLUp6RFhoZmg0SXdEd2xaeGdKODRRbkhqN205X0MwZmhqbHlhRnVvQVpaUDhWMWp6QUJoamxaazJNN1lFNUVVWVRISnpLVGxpbllUbklySjAteGtLdWR6WmNCQ0hj0gF8QVVfeXFMUFlyRVFLcV9peGl3NGN0ZWljZTFuaXEyNEt0MHRHeXBYbG1UZHhFT2V6OTVBeVVibG1wWmZCdXE5TlFlQzZTc1ZvVmVFWHJTRUZwOWh6MDM1em8yMjhyaG44MTFOV1JXUHVzcmIxZk9nWVpBR0ZQNTFVVW9ERw"
+    },
+    {
+      "title": "US Stock Futures Decline Ahead of Nvidia Earnings as Investors Await Federal Reserve Signals: Dow Jones, S&P, Nasdaq, Wall Street - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZ3loNDRFRS1qcXRkNU4zd2dEbEt0VEpENld4UU9ES3pEOXNhMzkteGVfYXVaaHc1ZUZqRWtwckFiT1NfX3BJTHZzQmtGMUV0MmwzT1p0a1FsNFUxQTZMSmlWWVVqa25FNlNxMXFBM1BRc2E3S2hxYnc3WEdiWThDRzRfNEZfUkg0ZVAxMllvdzJmTlZiNUo3WlRjRQ?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Mon, 16 Nov 2026 09:56:42 GMT",
+      "summary": "US Stock Futures Decline Ahead of Nvidia Earnings as Investors Await Federal Reserve Signals: Dow Jones, S&P, Nasdaq, Wall Street Yahoo Finance",
+      "guid": "CBMimwFBVV95cUxNZ3loNDRFRS1qcXRkNU4zd2dEbEt0VEpENld4UU9ES3pEOXNhMzkteGVfYXVaaHc1ZUZqRWtwckFiT1NfX3BJTHZzQmtGMUV0MmwzT1p0a1FsNFUxQTZMSmlWWVVqa25FNlNxMXFBM1BRc2E3S2hxYnc3WEdiWThDRzRfNEZfUkg0ZVAxMllvdzJmTlZiNUo3WlRjRQ"
     }
   ]
 }
