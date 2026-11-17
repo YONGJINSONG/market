@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T19:50:16Z",
+  "generated_at": "2026-11-17T02:40:23Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
@@ -18,7 +18,7 @@
       "title": "Fed's Warsh sees risk of stock bust if AI boom disappoints - Axios",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IWXhxT19LOGhnTFRsRDZXVGRrR0dDWEctMkhndGtmMEpLMEdDTWhVVzFxRkRSX0ZqbnNVSXJnNm1tWmxkdjQ5Z1BXQmZtVlVNamdjWW02dWV4Q1hwX3ZZak8tRjE5N0tM?oc=5",
       "source": "Axios",
-      "published_at": "Mon, 16 Nov 2026 17:18:31 GMT",
+      "published_at": "Mon, 16 Nov 2026 17:14:36 GMT",
       "summary": "Fed's Warsh sees risk of stock bust if AI boom disappoints Axios",
       "guid": "CBMiaEFVX3lxTE5IWXhxT19LOGhnTFRsRDZXVGRrR0dDWEctMkhndGtmMEpLMEdDTWhVVzFxRkRSX0ZqbnNVSXJnNm1tWmxkdjQ5Z1BXQmZtVlVNamdjWW02dWV4Q1hwX3ZZak8tRjE5N0tM"
     },
@@ -29,6 +29,30 @@
       "published_at": "Mon, 16 Nov 2026 17:00:04 GMT",
       "summary": "Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could ‘disappoint’ CNBC",
       "guid": "CBMidEFVX3lxTE1seHNLTEVjRmlFTzQyYmpBZVNCaXd3a1dnTEkyNFV3VkZmSGk5WHQyUEhjSHZLTXRJYnVxZkF5ZkRvclZsbXAybGRtUTFIMmpUNDNwN2stUzdoVmNEVEJaY0F2YXVwMUtXbFlKc0xkX21SZ3JO0gF6QVVfeXFMT0MyNFFrVnJmcGxqcUluVV9LTUgyeVo2MDVlNUpNQW03cXd0U1l0a0FxSmhKUFRCNTJIM3B5WklRbDEzZFplRGlDOGYxempYY1h6czlobFdWaXE5ZHY2YVdSdmxadHozNC13VFFCOWJBZ0p2dVFyemlqRHc"
+    },
+    {
+      "title": "Fed Chairman Highlights Economic Uncertainty of A.I. Boom - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBBYTdqekVHWUZKSGtDNktJaDFJZTgxX3VmdW9qVUphVVl2SjdUSUtyd2kzUVhoUnhVVm5kOTgxY2h3MmlqdUplcmQ3WDNjVEYxRGN4aUVFUFBUcWdsZWVWTzJNX2ZoNV85MWxxMEJDZ213ZFlZTEpSWkFUR3ZGdw?oc=5",
+      "source": "The New York Times",
+      "published_at": "Mon, 16 Nov 2026 21:08:30 GMT",
+      "summary": "Fed Chairman Highlights Economic Uncertainty of A.I. Boom The New York Times",
+      "guid": "CBMifkFVX3lxTFBBYTdqekVHWUZKSGtDNktJaDFJZTgxX3VmdW9qVUphVVl2SjdUSUtyd2kzUVhoUnhVVm5kOTgxY2h3MmlqdUplcmQ3WDNjVEYxRGN4aUVFUFBUcWdsZWVWTzJNX2ZoNV85MWxxMEJDZ213ZFlZTEpSWkFUR3ZGdw"
+    },
+    {
+      "title": "Fed Chairman Warsh grapples with AI’s potential economic impact, steers clear of its inflation risk - Boston Herald",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9kYVBURzFqWWlLZ1NTX0RkVHpHdVNHMjl5bEtQVlhsVHJxS3RlN0NWdlZ2Rm9tek5oWDU0dEJnSzlGNnJXUGNuT0xqYU9uOXdvQXZaRFM4NEpaWkVLMkdjdWtXVHd3eldodjdjNnJDZFZpNUk?oc=5",
+      "source": "Boston Herald",
+      "published_at": "Mon, 16 Nov 2026 19:04:55 GMT",
+      "summary": "Fed Chairman Warsh grapples with AI’s potential economic impact, steers clear of its inflation risk Boston Herald",
+      "guid": "CBMic0FVX3lxTE9kYVBURzFqWWlLZ1NTX0RkVHpHdVNHMjl5bEtQVlhsVHJxS3RlN0NWdlZ2Rm9tek5oWDU0dEJnSzlGNnJXUGNuT0xqYU9uOXdvQXZaRFM4NEpaWkVLMkdjdWtXVHd3eldodjdjNnJDZFZpNUk"
+    },
+    {
+      "title": "How Will the Market React to a Potential Fed Rate Hike in December? Here's What History Suggests. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ3daeDNPVnBBam5nRFZiZEltR3lUUU1iUGFLakhvVmJoLVBEbWhiUHRRcnlLcnFjMGtqWEdoOWVEd21QNlpfdzdGc0dhczNQcENxbnNpeHNyMTZtR1FkaEx6aG1RYVNuWGhKSHpFa0Z0R2RYbVNxWlhjbzNmN1RNNDE4d2hCS1h2YWtuWFhrRTJiSzhlNWUtMXZLVGg?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Sun, 15 Nov 2026 12:22:00 GMT",
+      "summary": "How Will the Market React to a Potential Fed Rate Hike in December? Here's What History Suggests. Yahoo Finance",
+      "guid": "CBMinAFBVV95cUxQQ3daeDNPVnBBam5nRFZiZEltR3lUUU1iUGFLakhvVmJoLVBEbWhiUHRRcnlLcnFjMGtqWEdoOWVEd21QNlpfdzdGc0dhczNQcENxbnNpeHNyMTZtR1FkaEx6aG1RYVNuWGhKSHpFa0Z0R2RYbVNxWlhjbzNmN1RNNDE4d2hCS1h2YWtuWFhrRTJiSzhlNWUtMXZLVGg"
     },
     {
       "title": "Fed's Barr warns on AI risks to financial system - Reuters",
@@ -47,20 +71,12 @@
       "guid": "CBMiiAFBVV95cUxOaVRqdWxHZTVJYU9nTnNEUFFBZWVVaG11UTdUYmdzUHFSMjVWYTY0b2o0NG5OTE9mcTZ5M3dQc2swdXE0aGpsTnk0THVka0poUi1uMTdfMkF3TGtWTGgtYU9KZm5DdjBrOWp3RDd6bmpFejdwVWxyb3pEYWxjZzFKTk5MME10LTdf"
     },
     {
-      "title": "How Will the Market React to a Potential Fed Rate Hike in December? Here's What History Suggests. - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ3daeDNPVnBBam5nRFZiZEltR3lUUU1iUGFLakhvVmJoLVBEbWhiUHRRcnlLcnFjMGtqWEdoOWVEd21QNlpfdzdGc0dhczNQcENxbnNpeHNyMTZtR1FkaEx6aG1RYVNuWGhKSHpFa0Z0R2RYbVNxWlhjbzNmN1RNNDE4d2hCS1h2YWtuWFhrRTJiSzhlNWUtMXZLVGg?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Sun, 15 Nov 2026 12:22:00 GMT",
-      "summary": "How Will the Market React to a Potential Fed Rate Hike in December? Here's What History Suggests. Yahoo Finance",
-      "guid": "CBMinAFBVV95cUxQQ3daeDNPVnBBam5nRFZiZEltR3lUUU1iUGFLakhvVmJoLVBEbWhiUHRRcnlLcnFjMGtqWEdoOWVEd21QNlpfdzdGc0dhczNQcENxbnNpeHNyMTZtR1FkaEx6aG1RYVNuWGhKSHpFa0Z0R2RYbVNxWlhjbzNmN1RNNDE4d2hCS1h2YWtuWFhrRTJiSzhlNWUtMXZLVGg"
-    },
-    {
-      "title": "Fed Chairman Warsh grapples with AI’s potential economic impact, steers clear of its inflation risk - Boston Herald",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9kYVBURzFqWWlLZ1NTX0RkVHpHdVNHMjl5bEtQVlhsVHJxS3RlN0NWdlZ2Rm9tek5oWDU0dEJnSzlGNnJXUGNuT0xqYU9uOXdvQXZaRFM4NEpaWkVLMkdjdWtXVHd3eldodjdjNnJDZFZpNUk?oc=5",
-      "source": "Boston Herald",
-      "published_at": "Mon, 16 Nov 2026 18:42:23 GMT",
-      "summary": "Fed Chairman Warsh grapples with AI’s potential economic impact, steers clear of its inflation risk Boston Herald",
-      "guid": "CBMic0FVX3lxTE9kYVBURzFqWWlLZ1NTX0RkVHpHdVNHMjl5bEtQVlhsVHJxS3RlN0NWdlZ2Rm9tek5oWDU0dEJnSzlGNnJXUGNuT0xqYU9uOXdvQXZaRFM4NEpaWkVLMkdjdWtXVHd3eldodjdjNnJDZFZpNUk"
+      "title": "Fed’s Warsh Says Staff Are Gaming Out Contingencies on AI Impact - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTUE0U2w2TzBJcDJHS2dWS3k4MEp1MkFQWHVBTi1nNkJvcG9zQlQ4S0JvTU5aLWNScTJVdmdsYnhLaF9DTXczVU1mQ0V2ZGg0WndacERXamttQy1iT0hYUmc1dndPajU3eDRxX2haeVVmaDhrN0dQdFduNHB6eEZyNEItM0lBYkhQcWFWY3JlUFItUGhnZTBqS0tFeS1iWEJUN214bzVPSHB3SjJhVlVRZHdHRGpsQQ?oc=5",
+      "source": "Bloomberg.com",
+      "published_at": "Mon, 16 Nov 2026 17:00:00 GMT",
+      "summary": "Fed’s Warsh Says Staff Are Gaming Out Contingencies on AI Impact Bloomberg.com",
+      "guid": "CBMitgFBVV95cUxNTUE0U2w2TzBJcDJHS2dWS3k4MEp1MkFQWHVBTi1nNkJvcG9zQlQ4S0JvTU5aLWNScTJVdmdsYnhLaF9DTXczVU1mQ0V2ZGg0WndacERXamttQy1iT0hYUmc1dndPajU3eDRxX2haeVVmaDhrN0dQdFduNHB6eEZyNEItM0lBYkhQcWFWY3JlUFItUGhnZTBqS0tFeS1iWEJUN214bzVPSHB3SjJhVlVRZHdHRGpsQQ"
     },
     {
       "title": "Nov. 25 Will Be a Critical Day for the Stock Market - The Motley Fool",
@@ -69,22 +85,6 @@
       "published_at": "Sun, 15 Nov 2026 03:00:00 GMT",
       "summary": "Nov. 25 Will Be a Critical Day for the Stock Market The Motley Fool",
       "guid": "CBMinwFBVV95cUxPTllkcjRJaG0xa0tiRWtvelg0RFFCalVBNEZqU29iVHdJeDdGZFVIQlZWMjUzX1J3SC12U0xDblkzTzlGMER0WnZCNHRNN3FFRWlYbGo3SkkxODJiNmdDVHhva1h1bVJ3NW5DUldOZ1Rud3daVmhzVmNZT1MycnkxU1Q5cy1jVlk2b0JqREd0N3plQWxjcmRSdFNrYjgwNUk"
-    },
-    {
-      "title": "Fed Is Modeling AI 'Super Intelligence' Scenarios, Including Job Losses and a Stock Market Slump - Decrypt",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPR2hqeHpZd3MxRTk4UnVjZ25YOEE2blJ3SHhueG91WHhQdTIyakxya3RRMHJFVzByZVdSelhaaUJRQmNnb1h2OGtiWHhCaVFFZWJGRGhoc2JydnNRU2VnaHdhQWJiRlNwQmtkY0hzQkZRQ0VaZG5Bd1J0MkJyc2ItdVpoZnIxeWFtM0w3eTNRLVJFT0Ixa2JPTUdR?oc=5",
-      "source": "Decrypt",
-      "published_at": "Mon, 16 Nov 2026 18:36:44 GMT",
-      "summary": "Fed Is Modeling AI 'Super Intelligence' Scenarios, Including Job Losses and a Stock Market Slump Decrypt",
-      "guid": "CBMimgFBVV95cUxPR2hqeHpZd3MxRTk4UnVjZ25YOEE2blJ3SHhueG91WHhQdTIyakxya3RRMHJFVzByZVdSelhaaUJRQmNnb1h2OGtiWHhCaVFFZWJGRGhoc2JydnNRU2VnaHdhQWJiRlNwQmtkY0hzQkZRQ0VaZG5Bd1J0MkJyc2ItdVpoZnIxeWFtM0w3eTNRLVJFT0Ixa2JPTUdR"
-    },
-    {
-      "title": "Downside Risk to the Stock Market and Consumption - Federal Reserve Bank of Atlanta",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYTBzZEUwUk5XQmpmbTV4WWhEdWp2dGNxaGlJWE03aGFUQk13VFZVTjhUZ2dGOUVOSXFfOWR2X3FERkg3bDVXQmJfa3lIY2dXZ2hoUFgtNE9yWmY3SmprbEZUcmdCRVJfb3otWEpSTEJISkNNQTZBaUgxaUZ0cXF4Mmt5WFBieTQ5UlJjOVJUMFhlU3pZeW9Wc1FCTUNoTDBiR0FWczlJTy1sZGljdC1pSUJRSy04cmhfQ1kzOVV2UDhHMHIwSUh6amNiVHBGNTBW?oc=5",
-      "source": "Federal Reserve Bank of Atlanta",
-      "published_at": "Wed, 02 Sep 2026 07:00:00 GMT",
-      "summary": "Downside Risk to the Stock Market and Consumption Federal Reserve Bank of Atlanta",
-      "guid": "CBMi0AFBVV95cUxOYTBzZEUwUk5XQmpmbTV4WWhEdWp2dGNxaGlJWE03aGFUQk13VFZVTjhUZ2dGOUVOSXFfOWR2X3FERkg3bDVXQmJfa3lIY2dXZ2hoUFgtNE9yWmY3SmprbEZUcmdCRVJfb3otWEpSTEJISkNNQTZBaUgxaUZ0cXF4Mmt5WFBieTQ5UlJjOVJUMFhlU3pZeW9Wc1FCTUNoTDBiR0FWczlJTy1sZGljdC1pSUJRSy04cmhfQ1kzOVV2UDhHMHIwSUh6amNiVHBGNTBW"
     }
   ]
 }
