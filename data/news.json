@@ -1,11 +1,27 @@
 {
-  "generated_at": "2026-11-18T18:15:41Z",
+  "generated_at": "2026-11-19T00:34:08Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "Fed policymakers focused on inflation risks in October, with some seeing need for bigger rate hike - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTDZVOGxSN0xaVURobVNmT05EYzlXd2lpNUhJcmFUUVprRlRSdzlNWHJUdjEyMFVnTXcyUDkyMjlIQ1hZZkk5SEcwSjcyRWw4dmhYQmxmb3dia3J0Y0ltNTVhaE1FX3dleEY1NGstcS1VdU1KSmFVOFRoVDd0RzVLX05QQlY0bl8tUUVMZE1wa1FXajRrUmNVNmp6Tm9hWUdPSDlmN3ZmdFU?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Wed, 18 Nov 2026 19:01:34 GMT",
+      "summary": "Fed policymakers focused on inflation risks in October, with some seeing need for bigger rate hike Yahoo Finance",
+      "guid": "CBMiqAFBVV95cUxNTDZVOGxSN0xaVURobVNmT05EYzlXd2lpNUhJcmFUUVprRlRSdzlNWHJUdjEyMFVnTXcyUDkyMjlIQ1hZZkk5SEcwSjcyRWw4dmhYQmxmb3dia3J0Y0ltNTVhaE1FX3dleEY1NGstcS1VdU1KSmFVOFRoVDd0RzVLX05QQlY0bl8tUUVMZE1wa1FXajRrUmNVNmp6Tm9hWUdPSDlmN3ZmdFU"
+    },
+    {
+      "title": "Fed's Barr says rate rises likely lie ahead for economy - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVTctdGl1bnJDdXB6b0E5ZWRGWTRPVDBNMW1rb2VCcS00Sk9YWmkwRzRDUXp2U0hCNTVrMzlDVVF4cjgycHdIdjVqZFl0d2VRRWVvS3JETDJ2NmVvN3dvZGlZWXRBY2VEckRwaTVRTzNvY0Y4NWowMUtrcFYyTTVHOVdJSXB3T2FxdHVBVThzU3lZVENM?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Wed, 18 Nov 2026 18:38:00 GMT",
+      "summary": "Fed's Barr says rate rises likely lie ahead for economy Yahoo Finance",
+      "guid": "CBMilAFBVV95cUxOVTctdGl1bnJDdXB6b0E5ZWRGWTRPVDBNMW1rb2VCcS00Sk9YWmkwRzRDUXp2U0hCNTVrMzlDVVF4cjgycHdIdjVqZFl0d2VRRWVvS3JETDJ2NmVvN3dvZGlZWXRBY2VEckRwaTVRTzNvY0Y4NWowMUtrcFYyTTVHOVdJSXB3T2FxdHVBVThzU3lZVENM"
+    },
     {
       "title": "Gold Falls Below $3,800 as Federal Reserve Rate Hike Expectations Pressure Precious Metals - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc3p0dVVGejlpZFd2UVJtUk9Ubm16VlhneEdkRENzektLWklwN2JEUkYteXplTmlnY2F1UEc4OEdxY0VlNTdHZlN0QUFETlhxOVhSa3BHbnRvQ0FOTDNNc3NOSUE0aFpVeW1SNk85Zm1RNWJNT3hEVU9RUlI3SVNIckRVMEN3YWNhSnA3YkxsZHRvMUc3M3pB?oc=5",
@@ -15,28 +31,20 @@
       "guid": "CBMilwFBVV95cUxPc3p0dVVGejlpZFd2UVJtUk9Ubm16VlhneEdkRENzektLWklwN2JEUkYteXplTmlnY2F1UEc4OEdxY0VlNTdHZlN0QUFETlhxOVhSa3BHbnRvQ0FOTDNNc3NOSUE0aFpVeW1SNk85Zm1RNWJNT3hEVU9RUlI3SVNIckRVMEN3YWNhSnA3YkxsZHRvMUc3M3pB"
     },
     {
-      "title": "How Will the Market React to a Potential Fed Rate Hike in December? Here's What History Suggests. - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ3daeDNPVnBBam5nRFZiZEltR3lUUU1iUGFLakhvVmJoLVBEbWhiUHRRcnlLcnFjMGtqWEdoOWVEd21QNlpfdzdGc0dhczNQcENxbnNpeHNyMTZtR1FkaEx6aG1RYVNuWGhKSHpFa0Z0R2RYbVNxWlhjbzNmN1RNNDE4d2hCS1h2YWtuWFhrRTJiSzhlNWUtMXZLVGg?oc=5",
+      "title": "Fed's Waller doubles down on a jumbo rate hike in December, sees more hikes to come - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUXBONFpBZzU3Q3dNWTJzeEdEQ2U4d2Q5ZlZnaGNGVkpuamNqeVlfSnFNU3Nob1VybkNGcElDV3NwTUNVRkFKQjhrcERBMlJHdTlNSFJBc1NSa0pGVFRfdzRpR1RLTWJBdl9HMHB5Z2Z5QkdwRmFROER5NDVtQ1g3cnMtLWtmNDZCOTA0SzNoOG1pY3FVb0xwQjlWMWRYc0tvSVFSNkRBY21mbmpuMk1ETXRNUGxrTVZXX2hxLXQxbzFBMHVJVVF5b0ktektxSEZtR0JYVS1mVW1WWUZXLXc?oc=5",
       "source": "Yahoo Finance",
-      "published_at": "Sun, 15 Nov 2026 12:22:00 GMT",
-      "summary": "How Will the Market React to a Potential Fed Rate Hike in December? Here's What History Suggests. Yahoo Finance",
-      "guid": "CBMinAFBVV95cUxQQ3daeDNPVnBBam5nRFZiZEltR3lUUU1iUGFLakhvVmJoLVBEbWhiUHRRcnlLcnFjMGtqWEdoOWVEd21QNlpfdzdGc0dhczNQcENxbnNpeHNyMTZtR1FkaEx6aG1RYVNuWGhKSHpFa0Z0R2RYbVNxWlhjbzNmN1RNNDE4d2hCS1h2YWtuWFhrRTJiSzhlNWUtMXZLVGg"
+      "published_at": "Wed, 18 Nov 2026 17:46:16 GMT",
+      "summary": "Fed's Waller doubles down on a jumbo rate hike in December, sees more hikes to come Yahoo Finance",
+      "guid": "CBMi3gFBVV95cUxQUXBONFpBZzU3Q3dNWTJzeEdEQ2U4d2Q5ZlZnaGNGVkpuamNqeVlfSnFNU3Nob1VybkNGcElDV3NwTUNVRkFKQjhrcERBMlJHdTlNSFJBc1NSa0pGVFRfdzRpR1RLTWJBdl9HMHB5Z2Z5QkdwRmFROER5NDVtQ1g3cnMtLWtmNDZCOTA0SzNoOG1pY3FVb0xwQjlWMWRYc0tvSVFSNkRBY21mbmpuMk1ETXRNUGxrTVZXX2hxLXQxbzFBMHVJVVF5b0ktektxSEZtR0JYVS1mVW1WWUZXLXc"
     },
     {
-      "title": "Dollar higher as hawkish Waller backs aggressive Fed action - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRS1EYUhITWsxV1EyUmc5V21qQzNLaVoyTmN2Mm9ieGRFVTEzQ05XdzB1TVdxdFF4YS0zdUVnTFN2SE8xVlRlRUplUnVDUGZQRFIxSnJTNFFZbXgtWF92MTRTc1dpS0w4ejVtMUNia3NmREJBTDZNajZxRVp2eTZSbUdEbERxdTZDRklQWGlWM1lHN1dSVmNXVmlDZw?oc=5",
+      "title": "Fed minutes: Higher interest rates needed in December as inflation worries mount - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTG5CYklaaUZzc2Vjb1JFX3RLM1VKZTdHb2o2c1JRQ2lQeWhQV1FCVEpZczBkOWdKYUZ0ZjgxTlRqTXBBOU1GVkpvTGlCekxFRzhVbUI0djBGaEZWNTFzY1UtX3l1ZVQxYkV3YlRzTU1famd3cVlmVkR0dWQ4dk1ZMm5FY1hSbGxBTDFScE10cDY1eEt0dTI3ZGV0aEFyQUk?oc=5",
       "source": "Yahoo Finance",
-      "published_at": "Wed, 18 Nov 2026 16:00:16 GMT",
-      "summary": "Dollar higher as hawkish Waller backs aggressive Fed action Yahoo Finance",
-      "guid": "CBMimwFBVV95cUxNRS1EYUhITWsxV1EyUmc5V21qQzNLaVoyTmN2Mm9ieGRFVTEzQ05XdzB1TVdxdFF4YS0zdUVnTFN2SE8xVlRlRUplUnVDUGZQRFIxSnJTNFFZbXgtWF92MTRTc1dpS0w4ejVtMUNia3NmREJBTDZNajZxRVp2eTZSbUdEbERxdTZDRklQWGlWM1lHN1dSVmNXVmlDZw"
-    },
-    {
-      "title": "Waller says on CNBC the Fed needs to get more aggressive in inflation response - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQR05ZYlczcjM4MUdZeERucDNFUXJiQ3kzaDg2dHg2b2xCZ2dxVW1XWE84dzB0aDdMREZNb3FiV1UxQ2laT28yX2stblgybXZibFMtRVJmeFlIdUN2X000WmtDYm9adEtlQVc0SjExdFF0UHgtbDZLRklvSlZtcUt6X1pMSFV3ckZPTXMzRG1jU2NoblZYLWc?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Wed, 18 Nov 2026 13:51:46 GMT",
-      "summary": "Waller says on CNBC the Fed needs to get more aggressive in inflation response Yahoo Finance",
-      "guid": "CBMilgFBVV95cUxQR05ZYlczcjM4MUdZeERucDNFUXJiQ3kzaDg2dHg2b2xCZ2dxVW1XWE84dzB0aDdMREZNb3FiV1UxQ2laT28yX2stblgybXZibFMtRVJmeFlIdUN2X000WmtDYm9adEtlQVc0SjExdFF0UHgtbDZLRklvSlZtcUt6X1pMSFV3ckZPTXMzRG1jU2NoblZYLWc"
+      "published_at": "Wed, 18 Nov 2026 19:09:32 GMT",
+      "summary": "Fed minutes: Higher interest rates needed in December as inflation worries mount Yahoo Finance",
+      "guid": "CBMinwFBVV95cUxNTG5CYklaaUZzc2Vjb1JFX3RLM1VKZTdHb2o2c1JRQ2lQeWhQV1FCVEpZczBkOWdKYUZ0ZjgxTlRqTXBBOU1GVkpvTGlCekxFRzhVbUI0djBGaEZWNTFzY1UtX3l1ZVQxYkV3YlRzTU1famd3cVlmVkR0dWQ4dk1ZMm5FY1hSbGxBTDFScE10cDY1eEt0dTI3ZGV0aEFyQUk"
     },
     {
       "title": "US Stock Futures Decline Ahead of Nvidia Earnings as Investors Await Federal Reserve Signals: Dow Jones, S&P, Nasdaq, Wall Street - Yahoo Finance",
@@ -55,12 +63,12 @@
       "guid": "CBMimgFBVV95cUxPN1VBUmFDZ3dGMmNXM244dThkRmVueXg1a1pHZEJMeVQ1a1otbWtVVXlSNDgxMDFWdmVqbmFjeGQ1OWIwLVdEZzBnbWtjb0R6WUNDbGxaWHRFQWJ4aFFqSGkwSzkyaDlNQ3VFWmk0Y3BQdXZsUWVtR0lIZEI4WDJpbTJWVlZxMUhuZlhCaHJDN1JMaUVCR09HZVZB"
     },
     {
-      "title": "Exclusive-ECB to discuss raising reserve requirement next week, sources say - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdXdKU1k5Vm1FQkF4UEhuaUlyaFpqR1k2eEVONWZSTndrbXpfMVVfWU5kUVJqUFR1Wk55Rmxyc1owYVNlS01rTHl0NUJPazdyUkdPdC00Wks5V2dXVWtiQ0NXTmRjdlhrdFNVd1V1b1RVLThxdTBKYlJIc2ZvWExRNVFqMzhoQ1pqdzhHV1pyMUNUaFNRN2t5ZktzSkIzLWFGMnpyVTk2QVkwQQ?oc=5",
+      "title": "Dollar higher as hawkish Waller backs aggressive Fed action - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRS1EYUhITWsxV1EyUmc5V21qQzNLaVoyTmN2Mm9ieGRFVTEzQ05XdzB1TVdxdFF4YS0zdUVnTFN2SE8xVlRlRUplUnVDUGZQRFIxSnJTNFFZbXgtWF92MTRTc1dpS0w4ejVtMUNia3NmREJBTDZNajZxRVp2eTZSbUdEbERxdTZDRklQWGlWM1lHN1dSVmNXVmlDZw?oc=5",
       "source": "Yahoo Finance",
-      "published_at": "Wed, 18 Nov 2026 12:41:28 GMT",
-      "summary": "Exclusive-ECB to discuss raising reserve requirement next week, sources say Yahoo Finance",
-      "guid": "CBMiqgFBVV95cUxPdXdKU1k5Vm1FQkF4UEhuaUlyaFpqR1k2eEVONWZSTndrbXpfMVVfWU5kUVJqUFR1Wk55Rmxyc1owYVNlS01rTHl0NUJPazdyUkdPdC00Wks5V2dXVWtiQ0NXTmRjdlhrdFNVd1V1b1RVLThxdTBKYlJIc2ZvWExRNVFqMzhoQ1pqdzhHV1pyMUNUaFNRN2t5ZktzSkIzLWFGMnpyVTk2QVkwQQ"
+      "published_at": "Wed, 18 Nov 2026 16:00:16 GMT",
+      "summary": "Dollar higher as hawkish Waller backs aggressive Fed action Yahoo Finance",
+      "guid": "CBMimwFBVV95cUxNRS1EYUhITWsxV1EyUmc5V21qQzNLaVoyTmN2Mm9ieGRFVTEzQ05XdzB1TVdxdFF4YS0zdUVnTFN2SE8xVlRlRUplUnVDUGZQRFIxSnJTNFFZbXgtWF92MTRTc1dpS0w4ejVtMUNia3NmREJBTDZNajZxRVp2eTZSbUdEbERxdTZDRklQWGlWM1lHN1dSVmNXVmlDZw"
     },
     {
       "title": "Fed's Warsh sees risk of stock bust if AI boom disappoints - Axios",
@@ -69,14 +77,6 @@
       "published_at": "Mon, 16 Nov 2026 17:18:31 GMT",
       "summary": "Fed's Warsh sees risk of stock bust if AI boom disappoints Axios",
       "guid": "CBMiaEFVX3lxTE5IWXhxT19LOGhnTFRsRDZXVGRrR0dDWEctMkhndGtmMEpLMEdDTWhVVzFxRkRSX0ZqbnNVSXJnNm1tWmxkdjQ5Z1BXQmZtVlVNamdjWW02dWV4Q1hwX3ZZak8tRjE5N0tM"
-    },
-    {
-      "title": "Nvidia Earnings, Anthropic IPO and Federal Reserve Outlook Among Five Key Market Events This Week - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZWw1cTVJckJKUEE4LTlkZzBHSkVIRnVWaXRsV3FfTmprX3Z1Qk45RE1hS0g0SFkyLXliV0VOUDRtekVjOUdRbGhkU2Zfamg0LXpzTFFnVEVxbldfOXUtVG9DQmY1WnRodWg2QTdvcXd5eVV6OTlzaEptMEY5eDFRODFZWTNBWV91UjJzR1FkeVNfc0Jvcm0yNHZTbXNyOU1iN2Vvdg?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Mon, 16 Nov 2026 11:27:39 GMT",
-      "summary": "Nvidia Earnings, Anthropic IPO and Federal Reserve Outlook Among Five Key Market Events This Week Yahoo Finance",
-      "guid": "CBMipAFBVV95cUxQZWw1cTVJckJKUEE4LTlkZzBHSkVIRnVWaXRsV3FfTmprX3Z1Qk45RE1hS0g0SFkyLXliV0VOUDRtekVjOUdRbGhkU2Zfamg0LXpzTFFnVEVxbldfOXUtVG9DQmY1WnRodWg2QTdvcXd5eVV6OTlzaEptMEY5eDFRODFZWTNBWV91UjJzR1FkeVNfc0Jvcm0yNHZTbXNyOU1iN2Vvdg"
     },
     {
       "title": "The Stock Market Is Primed for an Explosive Week. Nvidia and the Federal Reserve May Decide What Comes Next. - Yahoo Finance",
