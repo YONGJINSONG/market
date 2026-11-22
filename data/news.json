@@ -1,19 +1,11 @@
 {
-  "generated_at": "2026-11-22T01:44:25Z",
+  "generated_at": "2026-11-22T08:51:13Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
-    {
-      "title": "S&P 500 forecast for 2027: Wall Street expects a rebound after an 11.6% drop fueled by AI fears - Beinsure",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVUd5RzZ5ZVE5cnYtV3BVUEV5MkEtZExtelRVUUU2MFZBbHBSbmFieVlIM1NQRGh1N0dKWnJKSU9sUHI5VmxtbDVrQWhlZUlJY3ZoYTBzQ091TTk2U01yYnNWb05QaFpxaEdsLUV0bkVwa2F1OUNOQzdJN194ZE1CcUcybUFHbTFBNUJfVA?oc=5",
-      "source": "Beinsure",
-      "published_at": "Sat, 21 Nov 2026 09:58:33 GMT",
-      "summary": "S&P 500 forecast for 2027: Wall Street expects a rebound after an 11.6% drop fueled by AI fears Beinsure",
-      "guid": "CBMijAFBVV95cUxPVUd5RzZ5ZVE5cnYtV3BVUEV5MkEtZExtelRVUUU2MFZBbHBSbmFieVlIM1NQRGh1N0dKWnJKSU9sUHI5VmxtbDVrQWhlZUlJY3ZoYTBzQ091TTk2U01yYnNWb05QaFpxaEdsLUV0bkVwa2F1OUNOQzdJN194ZE1CcUcybUFHbTFBNUJfVA"
-    },
     {
       "title": "Worried about an AI bust? So is the Federal Reserve. - The Washington Post",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNR0t0NWstc3N2V0F2RE9fWlJDYVNTY3lINGFtUHhsQUE1cDU2SkdYc3E0M3hvNlpuMXlRQmxjdFdwVzMtbGQ4bXg3QjdzWU9sYmVNangtcmFxV1NvQWQ2TG5xRV9WVl9XTGpubUd2dHh3MUNsRlBDXzduNXVTOENfa0tTdmtrOWpWT2g0ZV9mYVV5ckpzNXJxaFBHRkxvQ2U5YjhiZVBqZHRBeVFQM2JnMQ?oc=5",
@@ -23,12 +15,12 @@
       "guid": "CBMisAFBVV95cUxNR0t0NWstc3N2V0F2RE9fWlJDYVNTY3lINGFtUHhsQUE1cDU2SkdYc3E0M3hvNlpuMXlRQmxjdFdwVzMtbGQ4bXg3QjdzWU9sYmVNangtcmFxV1NvQWQ2TG5xRV9WVl9XTGpubUd2dHh3MUNsRlBDXzduNXVTOENfa0tTdmtrOWpWT2g0ZV9mYVV5ckpzNXJxaFBHRkxvQ2U5YjhiZVBqZHRBeVFQM2JnMQ"
     },
     {
-      "title": "The Fed is too busy fighting inflation to rescue the stock market - MarketWatch",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcXlrMXRSSklDUVdOYXMwYnNBdk1PeXZpcVRwUFY4MDdfR0IzLXdZVGQzX1ZsbzViOXE0ZmdYSjVUWXB2QnY1bVdLMWRmUUx6d3NLUXZBVHl0M0Y4dkJtSnRIR0pjekFtRHJlMXd0X1pvZzZBeVhSNnRaUWJOVHczcU1RbUxQS1NEajhtSV80R0dqNWNZY3lxUGpjbjFmcXc3Z1lhSHhiV2RqNm9r?oc=5",
-      "source": "MarketWatch",
-      "published_at": "Fri, 20 Nov 2026 19:53:00 GMT",
-      "summary": "The Fed is too busy fighting inflation to rescue the stock market MarketWatch",
-      "guid": "CBMirAFBVV95cUxQcXlrMXRSSklDUVdOYXMwYnNBdk1PeXZpcVRwUFY4MDdfR0IzLXdZVGQzX1ZsbzViOXE0ZmdYSjVUWXB2QnY1bVdLMWRmUUx6d3NLUXZBVHl0M0Y4dkJtSnRIR0pjekFtRHJlMXd0X1pvZzZBeVhSNnRaUWJOVHczcU1RbUxQS1NEajhtSV80R0dqNWNZY3lxUGpjbjFmcXc3Z1lhSHhiV2RqNm9r"
+      "title": "Bank of Korea to Hike Rates Amid Inflation - 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcWZyVjc0NEdUQ1l4WlJzaExVS3RSWlpkSlhkQnNyR291VHZ5MGlOV2N4V2l2TTNvVWMxLXBET3RvNlJ3WHExbHRIVnBxc2dmTFBPUWRxX3F0MWdrOXJwTTFKdmIyRjU1VTd0cWFLN2RzX3BDd3l6dngwWHNmZlExSlZqamtDdkc4dTlabWh3?oc=5",
+      "source": "조선일보",
+      "published_at": "Sun, 22 Nov 2026 06:21:26 GMT",
+      "summary": "Bank of Korea to Hike Rates Amid Inflation 조선일보",
+      "guid": "CBMijgFBVV95cUxQcWZyVjc0NEdUQ1l4WlJzaExVS3RSWlpkSlhkQnNyR291VHZ5MGlOV2N4V2l2TTNvVWMxLXBET3RvNlJ3WHExbHRIVnBxc2dmTFBPUWRxX3F0MWdrOXJwTTFKdmIyRjU1VTd0cWFLN2RzX3BDd3l6dngwWHNmZlExSlZqamtDdkc4dTlabWh3"
     },
     {
       "title": "Downside Risk to the Stock Market and Consumption - Federal Reserve Bank of Atlanta",
@@ -37,6 +29,14 @@
       "published_at": "Wed, 02 Sep 2026 07:00:00 GMT",
       "summary": "Downside Risk to the Stock Market and Consumption Federal Reserve Bank of Atlanta",
       "guid": "CBMi0AFBVV95cUxOYTBzZEUwUk5XQmpmbTV4WWhEdWp2dGNxaGlJWE03aGFUQk13VFZVTjhUZ2dGOUVOSXFfOWR2X3FERkg3bDVXQmJfa3lIY2dXZ2hoUFgtNE9yWmY3SmprbEZUcmdCRVJfb3otWEpSTEJISkNNQTZBaUgxaUZ0cXF4Mmt5WFBieTQ5UlJjOVJUMFhlU3pZeW9Wc1FCTUNoTDBiR0FWczlJTy1sZGljdC1pSUJRSy04cmhfQ1kzOVV2UDhHMHIwSUh6amNiVHBGNTBW"
+    },
+    {
+      "title": "The Fed is too busy fighting inflation to rescue the stock market - MarketWatch",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcXlrMXRSSklDUVdOYXMwYnNBdk1PeXZpcVRwUFY4MDdfR0IzLXdZVGQzX1ZsbzViOXE0ZmdYSjVUWXB2QnY1bVdLMWRmUUx6d3NLUXZBVHl0M0Y4dkJtSnRIR0pjekFtRHJlMXd0X1pvZzZBeVhSNnRaUWJOVHczcU1RbUxQS1NEajhtSV80R0dqNWNZY3lxUGpjbjFmcXc3Z1lhSHhiV2RqNm9r?oc=5",
+      "source": "MarketWatch",
+      "published_at": "Fri, 20 Nov 2026 19:53:00 GMT",
+      "summary": "The Fed is too busy fighting inflation to rescue the stock market MarketWatch",
+      "guid": "CBMirAFBVV95cUxQcXlrMXRSSklDUVdOYXMwYnNBdk1PeXZpcVRwUFY4MDdfR0IzLXdZVGQzX1ZsbzViOXE0ZmdYSjVUWXB2QnY1bVdLMWRmUUx6d3NLUXZBVHl0M0Y4dkJtSnRIR0pjekFtRHJlMXd0X1pvZzZBeVhSNnRaUWJOVHczcU1RbUxQS1NEajhtSV80R0dqNWNZY3lxUGpjbjFmcXc3Z1lhSHhiV2RqNm9r"
     },
     {
       "title": "Gold's slide deepens as AI rout, rate hike bets hurt bullion - CNBC",
@@ -55,14 +55,6 @@
       "guid": "CBMiVkFVX3lxTFAtRXFsSU5ZS1BfYktLckJIcFBLOXh0OGhIZVg3NVlEQV9YQ3kwcDBEVm14Y3pxaHY3eEtIZmNsOGlHY1hwMmlDSUdOUWdNQjRBM29LdWlB"
     },
     {
-      "title": "J.P. Morgan sees Fed rate hikes at next three meetings as inflation persists - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWkZwc3MzeGxPMldOWGxwZnk4UFBSWGtfVC1pTnBnQXVRZzBrNTBzdGxCc05WSU5KNjVoTk1XSm82Q2UxSms1WnhkT05tTG5xU3JULWRtUTVOSlpmeXgyNTFWRVVOX1BTS3ZNaDZEendqbkJJNXlMSndLb0JiQjJ0dEhnMWs3bm5RX0hDNTZ4SVlaamJTU2ZDZVJ1VG8ycVpNdXR3NFdKMHhDVjdlUWMyWmhwVQ?oc=5",
-      "source": "Reuters",
-      "published_at": "Thu, 19 Nov 2026 18:53:15 GMT",
-      "summary": "J.P. Morgan sees Fed rate hikes at next three meetings as inflation persists Reuters",
-      "guid": "CBMiswFBVV95cUxNWkZwc3MzeGxPMldOWGxwZnk4UFBSWGtfVC1pTnBnQXVRZzBrNTBzdGxCc05WSU5KNjVoTk1XSm82Q2UxSms1WnhkT05tTG5xU3JULWRtUTVOSlpmeXgyNTFWRVVOX1BTS3ZNaDZEendqbkJJNXlMSndLb0JiQjJ0dEhnMWs3bm5RX0hDNTZ4SVlaamJTU2ZDZVJ1VG8ycVpNdXR3NFdKMHhDVjdlUWMyWmhwVQ"
-    },
-    {
       "title": "Stock market selloff pushes mortgage rates down - RealEstateNews.com",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObkx0Ui1ETVZ4bWFDSFFjckd6Y1l3LWxkWHdGNUZmVFdXMUVVN0pQc0loVlBXTnlMUUtJY2xWalhvenhwckQySldVV2xTRlhQRDJqckRRdGlOOWFXTXVIa0RBNUl0bWxFOEt5MmItRHY1MGZEMTg2dWJ5QVJlQTVJR2YtTm1fcmZEUXk4Z0pTODZQZGs?oc=5",
       "source": "RealEstateNews.com",
@@ -71,20 +63,28 @@
       "guid": "CBMikwFBVV95cUxObkx0Ui1ETVZ4bWFDSFFjckd6Y1l3LWxkWHdGNUZmVFdXMUVVN0pQc0loVlBXTnlMUUtJY2xWalhvenhwckQySldVV2xTRlhQRDJqckRRdGlOOWFXTXVIa0RBNUl0bWxFOEt5MmItRHY1MGZEMTg2dWJ5QVJlQTVJR2YtTm1fcmZEUXk4Z0pTODZQZGs"
     },
     {
-      "title": "AI bubble — December Stock Market Volatility Sparks Concern - The Korea Daily",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9MWU8ySTBmV1pfTUhsT3JILTVGRkhUTm54Tjh0U3RTOVBOeWk3ekhUNEptM2xOV182dGdmeW5MQmF3RU11WHZSSmF5X3VQWnA2NVZXZmlGV3ZSalQ5dDY2VDVQenFBT3hORUx2bXNqUzdVZ3NaSWJ1Mw?oc=5",
-      "source": "The Korea Daily",
-      "published_at": "Sat, 21 Nov 2026 16:13:26 GMT",
-      "summary": "AI bubble — December Stock Market Volatility Sparks Concern The Korea Daily",
-      "guid": "CBMieEFVX3lxTE9MWU8ySTBmV1pfTUhsT3JILTVGRkhUTm54Tjh0U3RTOVBOeWk3ekhUNEptM2xOV182dGdmeW5MQmF3RU11WHZSSmF5X3VQWnA2NVZXZmlGV3ZSalQ5dDY2VDVQenFBT3hORUx2bXNqUzdVZ3NaSWJ1Mw"
+      "title": "S&P 500 forecast for 2027: Wall Street expects a rebound after an 11.6% drop fueled by AI fears - Beinsure",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVUd5RzZ5ZVE5cnYtV3BVUEV5MkEtZExtelRVUUU2MFZBbHBSbmFieVlIM1NQRGh1N0dKWnJKSU9sUHI5VmxtbDVrQWhlZUlJY3ZoYTBzQ091TTk2U01yYnNWb05QaFpxaEdsLUV0bkVwa2F1OUNOQzdJN194ZE1CcUcybUFHbTFBNUJfVA?oc=5",
+      "source": "Beinsure",
+      "published_at": "Sat, 21 Nov 2026 09:58:33 GMT",
+      "summary": "S&P 500 forecast for 2027: Wall Street expects a rebound after an 11.6% drop fueled by AI fears Beinsure",
+      "guid": "CBMijAFBVV95cUxPVUd5RzZ5ZVE5cnYtV3BVUEV5MkEtZExtelRVUUU2MFZBbHBSbmFieVlIM1NQRGh1N0dKWnJKSU9sUHI5VmxtbDVrQWhlZUlJY3ZoYTBzQ091TTk2U01yYnNWb05QaFpxaEdsLUV0bkVwa2F1OUNOQzdJN194ZE1CcUcybUFHbTFBNUJfVA"
     },
     {
-      "title": "If the Fed Hikes Rates This Year, I'm Loading Up on This 1 ETF - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMFVoRnRfUVh3Ry1IOF9uellsamlrVDJNMHZnQWFnQlhVZkhhZ0lKMXJaTXNSM3Q4TW41aEU3Tm93UnNhX3VoNm15d2JSanRhV0JOMk40UlMxVmVRaFYyTTFFUUVPMktHQkVwZFY3R3c3b3d0Ql9LTDdILUtqV3dRQklWLW03VFp1cHI1OEdCVS03T3BSU0pCcXVhV1d3S2FGN0hkVDRn?oc=5",
-      "source": "The Motley Fool",
-      "published_at": "Sat, 21 Nov 2026 18:08:01 GMT",
-      "summary": "If the Fed Hikes Rates This Year, I'm Loading Up on This 1 ETF The Motley Fool",
-      "guid": "CBMipgFBVV95cUxPMFVoRnRfUVh3Ry1IOF9uellsamlrVDJNMHZnQWFnQlhVZkhhZ0lKMXJaTXNSM3Q4TW41aEU3Tm93UnNhX3VoNm15d2JSanRhV0JOMk40UlMxVmVRaFYyTTFFUUVPMktHQkVwZFY3R3c3b3d0Ql9LTDdILUtqV3dRQklWLW03VFp1cHI1OEdCVS03T3BSU0pCcXVhV1d3S2FGN0hkVDRn"
+      "title": "Gold falls toward $3,500, silver slides as stock markets enter correction territory - Kitco PM Report - Kitco",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOWVLN2w5UTZadnN4a2JLYzRka3dZUlB2U3pzdm1SQTJQOHZmZU9KaVhyMjNKQTdnTm1yOUFIT2RHU0dpN19mYkJGYmVqZVhWNXctLTZ5MEhyempMTWFwZm1Yang3TlZMR1dPa2pPNGwwa0dqQlY0S2VpM0RqSEV4Y243VVZxTXJrZFByN1pva0M1T2FjSzlNOFpNdkdLQi1kOWVzSmwzM2xrV0p3VlV1NXBodw?oc=5",
+      "source": "Kitco",
+      "published_at": "Fri, 20 Nov 2026 22:53:30 GMT",
+      "summary": "Gold falls toward $3,500, silver slides as stock markets enter correction territory - Kitco PM Report Kitco",
+      "guid": "CBMiswFBVV95cUxPOWVLN2w5UTZadnN4a2JLYzRka3dZUlB2U3pzdm1SQTJQOHZmZU9KaVhyMjNKQTdnTm1yOUFIT2RHU0dpN19mYkJGYmVqZVhWNXctLTZ5MEhyempMTWFwZm1Yang3TlZMR1dPa2pPNGwwa0dqQlY0S2VpM0RqSEV4Y243VVZxTXJrZFByN1pva0M1T2FjSzlNOFpNdkdLQi1kOWVzSmwzM2xrV0p3VlV1NXBodw"
+    },
+    {
+      "title": "The Federal Reserve Is Expected to Raise Interest Rates Next Month. By How Much Is an Open Question. - Barron's",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdTFoLTh6OXU1N2ZjSmNYN09CTWhISTZuaVhMSXJCbklsdEFyWGpQN3B3c0NieVdVRUV6VnRDYjdIWG1vaFVOQWRRM19ZaklQMUZuUktlT2hCT3V3NnhCZDg2Y215b09aVmFFRkNyeTNmYzZYYWt1LXlnRkM3bG1ad1YxdGVNUnVhcE82RXh4TQ?oc=5",
+      "source": "Barron's",
+      "published_at": "Fri, 20 Nov 2026 22:39:00 GMT",
+      "summary": "The Federal Reserve Is Expected to Raise Interest Rates Next Month. By How Much Is an Open Question. Barron's",
+      "guid": "CBMijwFBVV95cUxNdTFoLTh6OXU1N2ZjSmNYN09CTWhISTZuaVhMSXJCbklsdEFyWGpQN3B3c0NieVdVRUV6VnRDYjdIWG1vaFVOQWRRM19ZaklQMUZuUktlT2hCT3V3NnhCZDg2Y215b09aVmFFRkNyeTNmYzZYYWt1LXlnRkM3bG1ad1YxdGVNUnVhcE82RXh4TQ"
     }
   ]
 }
