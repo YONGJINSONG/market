@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-11-24T18:16:53Z",
+  "generated_at": "2026-11-25T02:38:27Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "Bill Ackman says the U.S. economy could be headed for another recession—and is blaming Kevin Warsh’s Fed - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN3VCOE5ObEdOWFpHOUdKMmRIa2RKNjdkVEFia3VpTzFLSlZyZkhoaVVhSDNZQVdwMElQNG9ya0ZFZXhFcTFnS0ZkdDZ6T1hWYWRVQTV1V0diTzVjSldtQmFmdmZFQzllQjBHNVJCcFhnSXNRZTlqZXVLS0JvQUZaWEtndFY5QU5aV0VRN1VMdw?oc=5",
+      "source": "Fortune",
+      "published_at": "Tue, 24 Nov 2026 14:59:00 GMT",
+      "summary": "Bill Ackman says the U.S. economy could be headed for another recession—and is blaming Kevin Warsh’s Fed Fortune",
+      "guid": "CBMijwFBVV95cUxQN3VCOE5ObEdOWFpHOUdKMmRIa2RKNjdkVEFia3VpTzFLSlZyZkhoaVVhSDNZQVdwMElQNG9ya0ZFZXhFcTFnS0ZkdDZ6T1hWYWRVQTV1V0diTzVjSldtQmFmdmZFQzllQjBHNVJCcFhnSXNRZTlqZXVLS0JvQUZaWEtndFY5QU5aV0VRN1VMdw"
+    },
     {
       "title": "US Stock Futures Mixed After Nvidia-Led Rally as Investors Assess Federal Reserve Rate Outlook: Dow Jones, S&P, Nasdaq, Wall Street - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZmxsdEozZENOM2hTX3RTckJROVlKS29VYXBxXy1FUVdOSWMybklvLWxuMWhBa2pHWHVnVk1KdXd1N2VLQWpJLXRGTzJzZGlSTFZhbFA4cmtxM3A5NmdtR2FQQ3hDQ1NDXy1IWXdBbzdrTXktdEVGQjVvV1hRM09NX3I4MTlYRTZTMi1OT1k5Nll6RlFjN2ZPWWhR?oc=5",
@@ -15,12 +23,12 @@
       "guid": "CBMimgFBVV95cUxPZmxsdEozZENOM2hTX3RTckJROVlKS29VYXBxXy1FUVdOSWMybklvLWxuMWhBa2pHWHVnVk1KdXd1N2VLQWpJLXRGTzJzZGlSTFZhbFA4cmtxM3A5NmdtR2FQQ3hDQ1NDXy1IWXdBbzdrTXktdEVGQjVvV1hRM09NX3I4MTlYRTZTMi1OT1k5Nll6RlFjN2ZPWWhR"
     },
     {
-      "title": "Bill Ackman says the U.S. economy could be headed for another recession—and is blaming Kevin Warsh’s Fed - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN3VCOE5ObEdOWFpHOUdKMmRIa2RKNjdkVEFia3VpTzFLSlZyZkhoaVVhSDNZQVdwMElQNG9ya0ZFZXhFcTFnS0ZkdDZ6T1hWYWRVQTV1V0diTzVjSldtQmFmdmZFQzllQjBHNVJCcFhnSXNRZTlqZXVLS0JvQUZaWEtndFY5QU5aV0VRN1VMdw?oc=5",
-      "source": "Fortune",
-      "published_at": "Tue, 24 Nov 2026 14:59:00 GMT",
-      "summary": "Bill Ackman says the U.S. economy could be headed for another recession—and is blaming Kevin Warsh’s Fed Fortune",
-      "guid": "CBMijwFBVV95cUxQN3VCOE5ObEdOWFpHOUdKMmRIa2RKNjdkVEFia3VpTzFLSlZyZkhoaVVhSDNZQVdwMElQNG9ya0ZFZXhFcTFnS0ZkdDZ6T1hWYWRVQTV1V0diTzVjSldtQmFmdmZFQzllQjBHNVJCcFhnSXNRZTlqZXVLS0JvQUZaWEtndFY5QU5aV0VRN1VMdw"
+      "title": "Bond Traders Rush to Hedge Risk of Fed Hikes Stalling Economy - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTks3ZzVpZ2RhN2hxV1hPSlJ2T3c2ZGZrVWtKRktucmtOR3QtaWNHQ2drajdHQS1wT3BQbTJzQnBDZmhWaTgwZU1kWUxvd0w4YUVPdGVwTlZjWnNLT2tib053VjJCTno3dVZvM1Q5SGktcUp6QVV4cVotOGd5bVRSQ1AxOHBGUjViMVVCQ05KNHRLSlpxNENRM25KYTZUYnJlUHc5bnhYUzVwdnRfNmxxdmxR?oc=5",
+      "source": "Bloomberg.com",
+      "published_at": "Tue, 24 Nov 2026 21:30:00 GMT",
+      "summary": "Bond Traders Rush to Hedge Risk of Fed Hikes Stalling Economy Bloomberg.com",
+      "guid": "CBMisgFBVV95cUxOTks3ZzVpZ2RhN2hxV1hPSlJ2T3c2ZGZrVWtKRktucmtOR3QtaWNHQ2drajdHQS1wT3BQbTJzQnBDZmhWaTgwZU1kWUxvd0w4YUVPdGVwTlZjWnNLT2tib053VjJCTno3dVZvM1Q5SGktcUp6QVV4cVotOGd5bVRSQ1AxOHBGUjViMVVCQ05KNHRLSlpxNENRM25KYTZUYnJlUHc5bnhYUzVwdnRfNmxxdmxR"
     },
     {
       "title": "Fed's Williams says inflation still too high, signals more rate hikes possible - Reuters",
@@ -39,6 +47,14 @@
       "guid": "CBMimwFBVV95cUxPUE9HVW1nMUdjOGFRNk5ndXFqUmZRZTRQYnlaUnRZdDRCcFI3RXlUNWNKQkRfeHREMDUtb0pyUWRBTWVra1hjVUlSZzhMVGxiSTExVmIzUWtFTk9wb3VuOHNOVkdyNXRURjFUSTJpLTRaUTA1UUd6S1JfMkpLVUQ2Q3VJMkQxN1FQa0ZFMXNyUU1takl1WlEwRDBNTdIBoAFBVV95cUxNRHNsdWxrWGhsRlFiSDFZclhXNWFfMHY5Nks0MXdWMzh2eWdjNHFMaGFzNjNjODJkTmJWN3FnU2NzQVA4d2x6NFM3VjRCUGd0bF92b2xlNVNiS3FaOC15clZxM1daOXhCai1IZXRRUGVuRzV3Ml9pamMwZFRiSTN4Ull5bk4tQnpISmxWYjBHZjJ6WGwwd0xQalA2dVJzN25W"
     },
     {
+      "title": "Downside Risk to the Stock Market and Consumption - Federal Reserve Bank of Atlanta",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYTBzZEUwUk5XQmpmbTV4WWhEdWp2dGNxaGlJWE03aGFUQk13VFZVTjhUZ2dGOUVOSXFfOWR2X3FERkg3bDVXQmJfa3lIY2dXZ2hoUFgtNE9yWmY3SmprbEZUcmdCRVJfb3otWEpSTEJISkNNQTZBaUgxaUZ0cXF4Mmt5WFBieTQ5UlJjOVJUMFhlU3pZeW9Wc1FCTUNoTDBiR0FWczlJTy1sZGljdC1pSUJRSy04cmhfQ1kzOVV2UDhHMHIwSUh6amNiVHBGNTBW?oc=5",
+      "source": "Federal Reserve Bank of Atlanta",
+      "published_at": "Wed, 02 Sep 2026 07:00:00 GMT",
+      "summary": "Downside Risk to the Stock Market and Consumption Federal Reserve Bank of Atlanta",
+      "guid": "CBMi0AFBVV95cUxOYTBzZEUwUk5XQmpmbTV4WWhEdWp2dGNxaGlJWE03aGFUQk13VFZVTjhUZ2dGOUVOSXFfOWR2X3FERkg3bDVXQmJfa3lIY2dXZ2hoUFgtNE9yWmY3SmprbEZUcmdCRVJfb3otWEpSTEJISkNNQTZBaUgxaUZ0cXF4Mmt5WFBieTQ5UlJjOVJUMFhlU3pZeW9Wc1FCTUNoTDBiR0FWczlJTy1sZGljdC1pSUJRSy04cmhfQ1kzOVV2UDhHMHIwSUh6amNiVHBGNTBW"
+    },
+    {
       "title": "The Fed Just Said AI May Be a Major Threat to the U.S. Economy - 24/7 Wall St.",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNmVYUnNOZlhpNlA4OF9NWlNSbkFURmU5bm5kSjU4UDlHc1F2UXR5NXZKQTQ0Z1N5MGVISm52NnRNSWNvSUhvd1NmOUFrb0VoanJaOTdGcEpXZkxyYk9RLVc2U3ZpLTZWWHNPTFF6SXd6WUVQanNoZFZ3TzFUUWdYNXAwR0lxTXA2dUJQUFZ0VHZKTk5WRjBVSDJ6SGptT1I5dEVNSnJqeXE?oc=5",
       "source": "24/7 Wall St.",
@@ -55,20 +71,12 @@
       "guid": "CBMizgFBVV95cUxOcnVfUXp6QjgyRzhOZEkzLTFOdGtKWmlnbVY5NExxYmdZc3o4YWwxR2tUaUxkOXU5b2pEMFNEek9QVTNLLUhBNlZydHlQMjROSnl5eHpsT3g1NGJycUF3UndmbVl1VmtRUHlhbWlEMFUybFRlTmdfRU9Da1A3YTBRa2RGUUxhUDBjeGZKeEFzMWhGTXUyR3ZIQThMSGpOV3R2ZEhDYWlLRmx4cjlKUE9xSWpTOThoZ2FMV0ZKUGo5V2lSbUh3bVNmaTkyUGNPZw"
     },
     {
-      "title": "Downside Risk to the Stock Market and Consumption - Federal Reserve Bank of Atlanta",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYTBzZEUwUk5XQmpmbTV4WWhEdWp2dGNxaGlJWE03aGFUQk13VFZVTjhUZ2dGOUVOSXFfOWR2X3FERkg3bDVXQmJfa3lIY2dXZ2hoUFgtNE9yWmY3SmprbEZUcmdCRVJfb3otWEpSTEJISkNNQTZBaUgxaUZ0cXF4Mmt5WFBieTQ5UlJjOVJUMFhlU3pZeW9Wc1FCTUNoTDBiR0FWczlJTy1sZGljdC1pSUJRSy04cmhfQ1kzOVV2UDhHMHIwSUh6amNiVHBGNTBW?oc=5",
-      "source": "Federal Reserve Bank of Atlanta",
-      "published_at": "Wed, 02 Sep 2026 07:00:00 GMT",
-      "summary": "Downside Risk to the Stock Market and Consumption Federal Reserve Bank of Atlanta",
-      "guid": "CBMi0AFBVV95cUxOYTBzZEUwUk5XQmpmbTV4WWhEdWp2dGNxaGlJWE03aGFUQk13VFZVTjhUZ2dGOUVOSXFfOWR2X3FERkg3bDVXQmJfa3lIY2dXZ2hoUFgtNE9yWmY3SmprbEZUcmdCRVJfb3otWEpSTEJISkNNQTZBaUgxaUZ0cXF4Mmt5WFBieTQ5UlJjOVJUMFhlU3pZeW9Wc1FCTUNoTDBiR0FWczlJTy1sZGljdC1pSUJRSy04cmhfQ1kzOVV2UDhHMHIwSUh6amNiVHBGNTBW"
-    },
-    {
-      "title": "US Stock Selloff Revives Question of a Fed ‘Put,’ This Time Under Warsh - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOamhQcGtONXo1SHNRdHRjWHRPZ3gzaHJCUTdNbW1BdUJ3ZUhLTjZ6X1F2dVo3SDdmZHZlWFIwMHVOX3RSZ3lFaE9vRzFDdUE0YlhFbXVTOWxuM2J3dkVwYjE0VE5JV0ZIaHNVLVp3d1dIMGxlX3JvVTNkNnRsRldmeUsyVk9IYldqbTFsU3RZUXpWclpybnhaei1CU2U5WDdQb1ZfcHpZdm5TdldRUlVfMVNnV0dDMG56eWRfNEhCbw?oc=5",
-      "source": "Bloomberg.com",
-      "published_at": "Mon, 23 Nov 2026 12:00:01 GMT",
-      "summary": "US Stock Selloff Revives Question of a Fed ‘Put,’ This Time Under Warsh Bloomberg.com",
-      "guid": "CBMivwFBVV95cUxOamhQcGtONXo1SHNRdHRjWHRPZ3gzaHJCUTdNbW1BdUJ3ZUhLTjZ6X1F2dVo3SDdmZHZlWFIwMHVOX3RSZ3lFaE9vRzFDdUE0YlhFbXVTOWxuM2J3dkVwYjE0VE5JV0ZIaHNVLVp3d1dIMGxlX3JvVTNkNnRsRldmeUsyVk9IYldqbTFsU3RZUXpWclpybnhaei1CU2U5WDdQb1ZfcHpZdm5TdldRUlVfMVNnV0dDMG56eWRfNEhCbw"
+      "title": "Bond Traders Hedge Against Risk Fed Hikes and Stock Slide Will Slow US Economy - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZi1YVjJ0VHYzT2huLUtSTDVZTHYwUWp1MVRWa0FIcjhobGJvRjhNc1c2MTZDYUtRTW4zNWNxRXBzRmVQSUNaSjh2NmJQMk9ST2cxYkM5WldQWmdxQjh4Y2pZQ3UxbUtoN0t3UHlHdEZwS0dSOHotaC04Ym42WVlIQkM2OWU2c3JpeVF1eWRnN19PSTVncGF1UlpmeGFvQzRRRkhEdUJOLUEzN0otNWhYLTBaeWxNVGJkMjl2WGJTaVZCZEVNS2NDZnZzWWVMSXNHa0lxQ3dYWjk?oc=5",
+      "source": "TradingView",
+      "published_at": "Tue, 24 Nov 2026 21:36:46 GMT",
+      "summary": "Bond Traders Hedge Against Risk Fed Hikes and Stock Slide Will Slow US Economy TradingView",
+      "guid": "CBMi2AFBVV95cUxNZi1YVjJ0VHYzT2huLUtSTDVZTHYwUWp1MVRWa0FIcjhobGJvRjhNc1c2MTZDYUtRTW4zNWNxRXBzRmVQSUNaSjh2NmJQMk9ST2cxYkM5WldQWmdxQjh4Y2pZQ3UxbUtoN0t3UHlHdEZwS0dSOHotaC04Ym42WVlIQkM2OWU2c3JpeVF1eWRnN19PSTVncGF1UlpmeGFvQzRRRkhEdUJOLUEzN0otNWhYLTBaeWxNVGJkMjl2WGJTaVZCZEVNS2NDZnZzWWVMSXNHa0lxQ3dYWjk"
     },
     {
       "title": "Get ready for 3 consecutive rate hikes starting next month, bank economist warns - Business Insider",
@@ -77,14 +85,6 @@
       "published_at": "Mon, 23 Nov 2026 10:30:00 GMT",
       "summary": "Get ready for 3 consecutive rate hikes starting next month, bank economist warns Business Insider",
       "guid": "CBMipwFBVV95cUxPa3V1T1pFS0tQMk4zekFHRHpmcUxWMElMNWh0Vjd2MHpodkh2N2dMMV9VRHc0cC1UWEN2aGZ2S0lhRGxiaGhqYWxzNWFIZGFoc0U3X3ZCOVU4QlRwblFMZlFpZ2VHTVQzanNRTE5iMUo0d2tQMTczYVlMRU1FREJ5Yk5xT3NaLXFGcjJiUVFoaG96RDZVanFhRnJ1SDFuR05KWWR3LXcwbw"
-    },
-    {
-      "title": "Everyday Economics: The stock selloff could hit spending - The Center Square",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaDhWVVJjQy1QV1RmRGM3UzQ3Ny13LTZoTm1PM01rQmlDR1d4eW5RaG1KVmJyQUdWNE8yZGFYb0RYWTVYMDExMzByTGd4UDUydWhzdENtQWdEUFNseTI1VmhFcDFLaVZkNm43a1haa0JMazRtbXB5ekl6UDcxZDRiUGpLcjczak9yNDhaWmo3TEJQdGFB0gGaAUFVX3lxTE5kbkZGa1lTUUNHbDJFMFY5cDhGYkFUMzcyTmR1OG1TODlicEtFV1J6VzBIek12OTNKVS1sVzBsa3lyTWtfMGVLbU42X0ZRcTBzTEJRXzdpYi16czZ4SzFhcGJtMXlVMnk3d28zZTY1SUVJTU9vak11SUlEWElobWJ3MXhiUEJRU1VuOThqcWtLX0pLX3NCSnhjSHc?oc=5",
-      "source": "The Center Square",
-      "published_at": "Sun, 22 Nov 2026 17:07:00 GMT",
-      "summary": "Everyday Economics: The stock selloff could hit spending The Center Square",
-      "guid": "CBMilAFBVV95cUxPaDhWVVJjQy1QV1RmRGM3UzQ3Ny13LTZoTm1PM01rQmlDR1d4eW5RaG1KVmJyQUdWNE8yZGFYb0RYWTVYMDExMzByTGd4UDUydWhzdENtQWdEUFNseTI1VmhFcDFLaVZkNm43a1haa0JMazRtbXB5ekl6UDcxZDRiUGpLcjczak9yNDhaWmo3TEJQdGFB0gGaAUFVX3lxTE5kbkZGa1lTUUNHbDJFMFY5cDhGYkFUMzcyTmR1OG1TODlicEtFV1J6VzBIek12OTNKVS1sVzBsa3lyTWtfMGVLbU42X0ZRcTBzTEJRXzdpYi16czZ4SzFhcGJtMXlVMnk3d28zZTY1SUVJTU9vak11SUlEWElobWJ3MXhiUEJRU1VuOThqcWtLX0pLX3NCSnhjSHc"
     }
   ]
 }
