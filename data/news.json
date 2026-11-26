@@ -1,11 +1,19 @@
 {
-  "generated_at": "2026-11-26T03:04:38Z",
+  "generated_at": "2026-11-26T12:18:05Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "President Trump Just Hit Stock Market Investors With Bad News at a Bad Time - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWnRGakQ1eUZ0VExDNTRFOVN5Mm01NHZPTENfQTc2em0yRlg5R1kyOVV4cE94dFVlbHFuelc4VW5mVFVZX2lTdzdlWG50cEVXdUZFVDF3eHlqUmdObDllZFBjMTZsVmlTa2dPRzVjTEpxamtUb2lyMHdsZXAwYkZlVXBoUHFINF9naFdKNmxTV2lXZWhiYURRQ3RBYw?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Thu, 26 Nov 2026 10:32:02 GMT",
+      "summary": "President Trump Just Hit Stock Market Investors With Bad News at a Bad Time Yahoo Finance",
+      "guid": "CBMimwFBVV95cUxPWnRGakQ1eUZ0VExDNTRFOVN5Mm01NHZPTENfQTc2em0yRlg5R1kyOVV4cE94dFVlbHFuelc4VW5mVFVZX2lTdzdlWG50cEVXdUZFVDF3eHlqUmdObDllZFBjMTZsVmlTa2dPRzVjTEpxamtUb2lyMHdsZXAwYkZlVXBoUHFINF9naFdKNmxTV2lXZWhiYURRQ3RBYw"
+    },
     {
       "title": "Fed survey shows continued economic growth, sticky inflation in recent weeks - Reuters",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZm5vWXNOWWIxaUVxUEVsRDBCWmpwYmd6eWJMLW1tcnJMVmxvR08ybXFaYWlFcVZ2YU1fYk9hbWotWlBXTzVValBHSFFzNjM1QlpyVWNCXzFPTFRZMUtWeHp0SThmaWxRMTVYVXp3UlM2R3pKQnVNS2hiZ1VERU9EVnFGNlA5dGZEa1NtZ1o5REVxM3ZzX2ZpOXRaN0lydzlDZk1VQ2FlS212U3dw?oc=5",
@@ -15,36 +23,12 @@
       "guid": "CBMirAFBVV95cUxQZm5vWXNOWWIxaUVxUEVsRDBCWmpwYmd6eWJMLW1tcnJMVmxvR08ybXFaYWlFcVZ2YU1fYk9hbWotWlBXTzVValBHSFFzNjM1QlpyVWNCXzFPTFRZMUtWeHp0SThmaWxRMTVYVXp3UlM2R3pKQnVNS2hiZ1VERU9EVnFGNlA5dGZEa1NtZ1o5REVxM3ZzX2ZpOXRaN0lydzlDZk1VQ2FlS212U3dw"
     },
     {
-      "title": "Jim Bianco Calls Nvidia “the Federal Reserve of AI.” Here’s What That Means for Your Portfolio - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSlAxVnNyOFdRM0FPaEs1aVMxZ2hkN1g5RGpIYUF3RUx2VnNROXVCWFBGeFNDOGJma1Bqc2ZjUzVodjNxa3Q4NVJNSTJYNXgzc2lsZWJFRXY2dEVxamlZblBhWEJnV2dJWm5vckducDFPMXBLSGhHMXBGVktOUG5VR0hkNEdxYmt6eUFrVmtkaU5MYTJUOUhvdHl4VE4?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Wed, 25 Nov 2026 14:47:23 GMT",
-      "summary": "Jim Bianco Calls Nvidia “the Federal Reserve of AI.” Here’s What That Means for Your Portfolio Yahoo Finance",
-      "guid": "CBMinAFBVV95cUxQSlAxVnNyOFdRM0FPaEs1aVMxZ2hkN1g5RGpIYUF3RUx2VnNROXVCWFBGeFNDOGJma1Bqc2ZjUzVodjNxa3Q4NVJNSTJYNXgzc2lsZWJFRXY2dEVxamlZblBhWEJnV2dJWm5vckducDFPMXBLSGhHMXBGVktOUG5VR0hkNEdxYmt6eUFrVmtkaU5MYTJUOUhvdHl4VE4"
-    },
-    {
-      "title": "Another Hot Inflation Reading Keeps Fed on Track to Raise Rates Again - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVmt0OG9famdFX2l1SjBPc1A0aWZYc3Aza2tac0ZTYWk0bWplX2xRWVBUdjh3ZEtOQ1RQbFdhaUc0Wl8zZkpKaGV5c3Q1R3AxZHF0VjBqZ0RicnRRNVZ6X2RfYmNQUnBtTXBfbmNQUWRuZXpVcXFGa2pyRXhJZmhIWUxjXzc5cm1RTG1HSm1n?oc=5",
-      "source": "The New York Times",
-      "published_at": "Wed, 25 Nov 2026 19:13:30 GMT",
-      "summary": "Another Hot Inflation Reading Keeps Fed on Track to Raise Rates Again The New York Times",
-      "guid": "CBMijgFBVV95cUxNVmt0OG9famdFX2l1SjBPc1A0aWZYc3Aza2tac0ZTYWk0bWplX2xRWVBUdjh3ZEtOQ1RQbFdhaUc0Wl8zZkpKaGV5c3Q1R3AxZHF0VjBqZ0RicnRRNVZ6X2RfYmNQUnBtTXBfbmNQUWRuZXpVcXFGa2pyRXhJZmhIWUxjXzc5cm1RTG1HSm1n"
-    },
-    {
-      "title": "Is the 2024 US Stock Market Rally a Trap? Wall Street Giants Warn S&P 500 May Plunge to 5500 Points - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IZmZPRGhwNGVtY0QyVmRnOVVMMm10Z0hTbnRuUHVNbWpjX2xTQWZCZG9rYkVNS3pJYnY1R2dlQTJkejdMWldWM05iQklpeGZBcEUw?oc=5",
-      "source": "36Kr",
-      "published_at": "Thu, 26 Nov 2026 00:44:23 GMT",
-      "summary": "Is the 2024 US Stock Market Rally a Trap? Wall Street Giants Warn S&P 500 May Plunge to 5500 Points 36Kr",
-      "guid": "CBMiU0FVX3lxTE9IZmZPRGhwNGVtY0QyVmRnOVVMMm10Z0hTbnRuUHVNbWpjX2xTQWZCZG9rYkVNS3pJYnY1R2dlQTJkejdMWldWM05iQklpeGZBcEUw"
-    },
-    {
-      "title": "Inflation Data Overshoots As Fed Fears Hit Fragile Markets - Investor's Business Daily",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWHRtTWl2WUpmWFVHTW5ZaWFTSk9vei00dWdsa1ZscWZuTW1BcTl5UFhYcTVuZW9FV2NVcWlhMTFEMmhOUl9PQ0FYMGhOZWJKajZJSGFFdFRLcEpyanVWcVlpdUpjVmZuRXRRTHhwWWFGbmJNTlJZZUZxOERYVDhXQ0FfdVUyLU1sVTRleWJVZ25mR0wzeGlnRk1mMloteTBm?oc=5",
-      "source": "Investor's Business Daily",
-      "published_at": "Wed, 25 Nov 2026 14:24:00 GMT",
-      "summary": "Inflation Data Overshoots As Fed Fears Hit Fragile Markets Investor's Business Daily",
-      "guid": "CBMioAFBVV95cUxPWHRtTWl2WUpmWFVHTW5ZaWFTSk9vei00dWdsa1ZscWZuTW1BcTl5UFhYcTVuZW9FV2NVcWlhMTFEMmhOUl9PQ0FYMGhOZWJKajZJSGFFdFRLcEpyanVWcVlpdUpjVmZuRXRRTHhwWWFGbmJNTlJZZUZxOERYVDhXQ0FfdVUyLU1sVTRleWJVZ25mR0wzeGlnRk1mMloteTBm"
+      "title": "Wild Market Swings Are Colliding With a Fed Bent on Taming Inflation - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNktjNDdMSmJmZDNsOE1CbkdBZVBNS2ZrVEJSUXQtazcwMUs3MHRwbk5xNmN4YmxhTC1OcUdlRVBDVmtiWXZYckVLQ1pOMFMxbXhPaXpsdjdMejlzLW5TMjYxYUVHQUJUamVMaERpbmIwSXd2bUoyMFJLWUcxV0JDZVVvUjE0UmRjaDdJTlJneE9CRnFrZ1dkZGdzeVA5MEtsSG93T0gySzktblJRWGZQUGlsUGVDXzNqRUtvV1pR?oc=5",
+      "source": "WSJ",
+      "published_at": "Thu, 26 Nov 2026 01:00:36 GMT",
+      "summary": "Wild Market Swings Are Colliding With a Fed Bent on Taming Inflation WSJ",
+      "guid": "CBMivgFBVV95cUxNNktjNDdMSmJmZDNsOE1CbkdBZVBNS2ZrVEJSUXQtazcwMUs3MHRwbk5xNmN4YmxhTC1OcUdlRVBDVmtiWXZYckVLQ1pOMFMxbXhPaXpsdjdMejlzLW5TMjYxYUVHQUJUamVMaERpbmIwSXd2bUoyMFJLWUcxV0JDZVVvUjE0UmRjaDdJTlJneE9CRnFrZ1dkZGdzeVA5MEtsSG93T0gySzktblJRWGZQUGlsUGVDXzNqRUtvV1pR"
     },
     {
       "title": "Bill Ackman says Federal Reserve is 'about to make another mistake' - Fox Business",
@@ -55,22 +39,6 @@
       "guid": "CBMimwFBVV95cUxPUE9HVW1nMUdjOGFRNk5ndXFqUmZRZTRQYnlaUnRZdDRCcFI3RXlUNWNKQkRfeHREMDUtb0pyUWRBTWVra1hjVUlSZzhMVGxiSTExVmIzUWtFTk9wb3VuOHNOVkdyNXRURjFUSTJpLTRaUTA1UUd6S1JfMkpLVUQ2Q3VJMkQxN1FQa0ZFMXNyUU1takl1WlEwRDBNTdIBoAFBVV95cUxNRHNsdWxrWGhsRlFiSDFZclhXNWFfMHY5Nks0MXdWMzh2eWdjNHFMaGFzNjNjODJkTmJWN3FnU2NzQVA4d2x6NFM3VjRCUGd0bF92b2xlNVNiS3FaOC15clZxM1daOXhCai1IZXRRUGVuRzV3Ml9pamMwZFRiSTN4Ull5bk4tQnpISmxWYjBHZjJ6WGwwd0xQalA2dVJzN25W"
     },
     {
-      "title": "U.S. stocks experience severe volatility amid a hawkish Federal Reserve! Waller faces a dilemma: continue raising interest rates, or let the market tighten financial conditions on behalf of the central bank? - 富途牛牛",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVTlCcllJRndRaWxieXE3a09zSTJnSGN1TlczRjl0TFhFcXk3YkcyeFhrNDkyLXdyS0RucWUwVjdfdXlXLVVrdlhaT2s1bWM5Tkh4LW56Sm1meE5td0owem9FVDVDUGlzQUxyeXd3c1hxbmVubHJRZTVpVW01R3I3RDkzZ0NYT3B2VmM5YVREaFoyVjkwMmJzLUlYWjJtU3JNYXR6ZDhDS29RVFpZbWZPYzdB?oc=5",
-      "source": "富途牛牛",
-      "published_at": "Thu, 26 Nov 2026 01:59:42 GMT",
-      "summary": "U.S. stocks experience severe volatility amid a hawkish Federal Reserve! Waller faces a dilemma: continue raising interest rates, or let the market tighten financial conditions on behalf of the central bank? 富途牛牛",
-      "guid": "CBMisgFBVV95cUxOVTlCcllJRndRaWxieXE3a09zSTJnSGN1TlczRjl0TFhFcXk3YkcyeFhrNDkyLXdyS0RucWUwVjdfdXlXLVVrdlhaT2s1bWM5Tkh4LW56Sm1meE5td0owem9FVDVDUGlzQUxyeXd3c1hxbmVubHJRZTVpVW01R3I3RDkzZ0NYT3B2VmM5YVREaFoyVjkwMmJzLUlYWjJtU3JNYXR6ZDhDS29RVFpZbWZPYzdB"
-    },
-    {
-      "title": "US Capital Spending Surge Keeps Stock Rebound Hopes Alive as Inflation Tests Fed Patience - BigGo Finance",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ZWTV2YnlUYnVyajFFenNINWt0LW9IRU5GeUNoZmdFVS16UXlfQXk5MnVCLUZ6NUhSSnRXdk9vUXRIZUlxVlgxU05ON0JKcDh1TTlLX1dhWEt6SGFiZ0o4M0JVSjZQQXYtNlUzVUFia3ItMzRVdEE?oc=5",
-      "source": "BigGo Finance",
-      "published_at": "Wed, 25 Nov 2026 23:25:00 GMT",
-      "summary": "US Capital Spending Surge Keeps Stock Rebound Hopes Alive as Inflation Tests Fed Patience BigGo Finance",
-      "guid": "CBMidkFVX3lxTE1ZWTV2YnlUYnVyajFFenNINWt0LW9IRU5GeUNoZmdFVS16UXlfQXk5MnVCLUZ6NUhSSnRXdk9vUXRIZUlxVlgxU05ON0JKcDh1TTlLX1dhWEt6SGFiZ0o4M0JVSjZQQXYtNlUzVUFia3ItMzRVdEE"
-    },
-    {
       "title": "Downside Risk to the Stock Market and Consumption - Federal Reserve Bank of Atlanta",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYTBzZEUwUk5XQmpmbTV4WWhEdWp2dGNxaGlJWE03aGFUQk13VFZVTjhUZ2dGOUVOSXFfOWR2X3FERkg3bDVXQmJfa3lIY2dXZ2hoUFgtNE9yWmY3SmprbEZUcmdCRVJfb3otWEpSTEJISkNNQTZBaUgxaUZ0cXF4Mmt5WFBieTQ5UlJjOVJUMFhlU3pZeW9Wc1FCTUNoTDBiR0FWczlJTy1sZGljdC1pSUJRSy04cmhfQ1kzOVV2UDhHMHIwSUh6amNiVHBGNTBW?oc=5",
       "source": "Federal Reserve Bank of Atlanta",
@@ -79,12 +47,44 @@
       "guid": "CBMi0AFBVV95cUxOYTBzZEUwUk5XQmpmbTV4WWhEdWp2dGNxaGlJWE03aGFUQk13VFZVTjhUZ2dGOUVOSXFfOWR2X3FERkg3bDVXQmJfa3lIY2dXZ2hoUFgtNE9yWmY3SmprbEZUcmdCRVJfb3otWEpSTEJISkNNQTZBaUgxaUZ0cXF4Mmt5WFBieTQ5UlJjOVJUMFhlU3pZeW9Wc1FCTUNoTDBiR0FWczlJTy1sZGljdC1pSUJRSy04cmhfQ1kzOVV2UDhHMHIwSUh6amNiVHBGNTBW"
     },
     {
-      "title": "S&P 500 Pares Losses on Beige Book: 10 Tech Stocks Rebound - State Street SPDR S&P 500 ETF Trust (ARCA:SP - Benzinga",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVHJDVjhhVjFUYXB1U2xsamF2akNBT00yNjBHRmhERDRfRUpHS1Nlc0dHay1YRDhLa19hYWF3cTZKc2VneWl6Y1lRZUFqc0RLTGhnR0duUlVFLXNoWGN6R2NMdlBqUVdNMnhYRC1NRjNwalpTR2JINjB2UW5mRGFDMTRJY0FMZW4wV0RpQ3d3eEZjQ3JkY3FFZlpKQkdkaEdiTTR0U3VmbG1SZi1tSGxsd3gyU1FOV2N0WFhCa3ZGU3lwZw?oc=5",
-      "source": "Benzinga",
-      "published_at": "Wed, 25 Nov 2026 20:15:08 GMT",
-      "summary": "S&P 500 Pares Losses on Beige Book: 10 Tech Stocks Rebound - State Street SPDR S&P 500 ETF Trust (ARCA:SP Benzinga",
-      "guid": "CBMiwgFBVV95cUxOVHJDVjhhVjFUYXB1U2xsamF2akNBT00yNjBHRmhERDRfRUpHS1Nlc0dHay1YRDhLa19hYWF3cTZKc2VneWl6Y1lRZUFqc0RLTGhnR0duUlVFLXNoWGN6R2NMdlBqUVdNMnhYRC1NRjNwalpTR2JINjB2UW5mRGFDMTRJY0FMZW4wV0RpQ3d3eEZjQ3JkY3FFZlpKQkdkaEdiTTR0U3VmbG1SZi1tSGxsd3gyU1FOV2N0WFhCa3ZGU3lwZw"
+      "title": "Is the 2024 US Stock Market Rally a Trap? Wall Street Giants Warn S&P 500 May Plunge to 5500 Points - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IZmZPRGhwNGVtY0QyVmRnOVVMMm10Z0hTbnRuUHVNbWpjX2xTQWZCZG9rYkVNS3pJYnY1R2dlQTJkejdMWldWM05iQklpeGZBcEUw?oc=5",
+      "source": "36Kr",
+      "published_at": "Thu, 26 Nov 2026 00:44:23 GMT",
+      "summary": "Is the 2024 US Stock Market Rally a Trap? Wall Street Giants Warn S&P 500 May Plunge to 5500 Points 36Kr",
+      "guid": "CBMiU0FVX3lxTE9IZmZPRGhwNGVtY0QyVmRnOVVMMm10Z0hTbnRuUHVNbWpjX2xTQWZCZG9rYkVNS3pJYnY1R2dlQTJkejdMWldWM05iQklpeGZBcEUw"
+    },
+    {
+      "title": "Why has the Federal Reserve turned so hawkish? Nomura: It may be seeking to avoid repeating the mistake of falling behind the curve in 2022. - 富途牛牛",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUlIzd0lnVlJLUnJSYWM1Yi1aWU1tSy1fTHVZSkd4UUxPZGN5OTY4NmJBbWRGTFM1Z0VHTXRfbFh0STJldTZfOXM4c2h0N3ZYeW1hX3M2UnhyZFI0Tlp0RzRxNjh1OVNFZTZNZDRYMU5xVmkwWlBxdVZXYll2bU1LQ2tuNDA5TEMyOXhqTEFmUkFxU2RqQUpsOHZ3c05YQVU?oc=5",
+      "source": "富途牛牛",
+      "published_at": "Thu, 26 Nov 2026 11:22:00 GMT",
+      "summary": "Why has the Federal Reserve turned so hawkish? Nomura: It may be seeking to avoid repeating the mistake of falling behind the curve in 2022. 富途牛牛",
+      "guid": "CBMinwFBVV95cUxOUlIzd0lnVlJLUnJSYWM1Yi1aWU1tSy1fTHVZSkd4UUxPZGN5OTY4NmJBbWRGTFM1Z0VHTXRfbFh0STJldTZfOXM4c2h0N3ZYeW1hX3M2UnhyZFI0Tlp0RzRxNjh1OVNFZTZNZDRYMU5xVmkwWlBxdVZXYll2bU1LQ2tuNDA5TEMyOXhqTEFmUkFxU2RqQUpsOHZ3c05YQVU"
+    },
+    {
+      "title": "Bill Ackman says the U.S. economy could be headed for another recession—and is blaming Kevin Warsh’s Fed - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN3VCOE5ObEdOWFpHOUdKMmRIa2RKNjdkVEFia3VpTzFLSlZyZkhoaVVhSDNZQVdwMElQNG9ya0ZFZXhFcTFnS0ZkdDZ6T1hWYWRVQTV1V0diTzVjSldtQmFmdmZFQzllQjBHNVJCcFhnSXNRZTlqZXVLS0JvQUZaWEtndFY5QU5aV0VRN1VMdw?oc=5",
+      "source": "Fortune",
+      "published_at": "Tue, 24 Nov 2026 14:59:00 GMT",
+      "summary": "Bill Ackman says the U.S. economy could be headed for another recession—and is blaming Kevin Warsh’s Fed Fortune",
+      "guid": "CBMijwFBVV95cUxQN3VCOE5ObEdOWFpHOUdKMmRIa2RKNjdkVEFia3VpTzFLSlZyZkhoaVVhSDNZQVdwMElQNG9ya0ZFZXhFcTFnS0ZkdDZ6T1hWYWRVQTV1V0diTzVjSldtQmFmdmZFQzllQjBHNVJCcFhnSXNRZTlqZXVLS0JvQUZaWEtndFY5QU5aV0VRN1VMdw"
+    },
+    {
+      "title": "Inflation Data Overshoots As Fed Fears Hit Fragile Markets - Investor's Business Daily",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWHRtTWl2WUpmWFVHTW5ZaWFTSk9vei00dWdsa1ZscWZuTW1BcTl5UFhYcTVuZW9FV2NVcWlhMTFEMmhOUl9PQ0FYMGhOZWJKajZJSGFFdFRLcEpyanVWcVlpdUpjVmZuRXRRTHhwWWFGbmJNTlJZZUZxOERYVDhXQ0FfdVUyLU1sVTRleWJVZ25mR0wzeGlnRk1mMloteTBm?oc=5",
+      "source": "Investor's Business Daily",
+      "published_at": "Wed, 25 Nov 2026 14:24:00 GMT",
+      "summary": "Inflation Data Overshoots As Fed Fears Hit Fragile Markets Investor's Business Daily",
+      "guid": "CBMioAFBVV95cUxPWHRtTWl2WUpmWFVHTW5ZaWFTSk9vei00dWdsa1ZscWZuTW1BcTl5UFhYcTVuZW9FV2NVcWlhMTFEMmhOUl9PQ0FYMGhOZWJKajZJSGFFdFRLcEpyanVWcVlpdUpjVmZuRXRRTHhwWWFGbmJNTlJZZUZxOERYVDhXQ0FfdVUyLU1sVTRleWJVZ25mR0wzeGlnRk1mMloteTBm"
+    },
+    {
+      "title": "Fed policymakers at odds over causes of high inflation - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ2Vtdjdia2xUaVF5bWxRSVlPUTZjc1JmWG9Uam1QSHpNcXZuREdQVmRyX2hkNEtMbWhFd1VFb3l6QVJGYkJHZlZXUDJLVlM4cDdDR0RSVTRPMmZaUHAtMlhtSDlQeFF4UGJadUhrQmhlaWlJT1cwSG9IRnF1cC1COEtKdTBsUWVsXzhkYWhUWHNKTjJsUVJuNw?oc=5",
+      "source": "Reuters",
+      "published_at": "Wed, 25 Nov 2026 20:50:24 GMT",
+      "summary": "Fed policymakers at odds over causes of high inflation Reuters",
+      "guid": "CBMimAFBVV95cUxNZ2Vtdjdia2xUaVF5bWxRSVlPUTZjc1JmWG9Uam1QSHpNcXZuREdQVmRyX2hkNEtMbWhFd1VFb3l6QVJGYkJHZlZXUDJLVlM4cDdDR0RSVTRPMmZaUHAtMlhtSDlQeFF4UGJadUhrQmhlaWlJT1cwSG9IRnF1cC1COEtKdTBsUWVsXzhkYWhUWHNKTjJsUVJuNw"
     }
   ]
 }
