@@ -1,11 +1,27 @@
 {
-  "generated_at": "2026-11-27T03:51:06Z",
+  "generated_at": "2026-11-27T13:16:29Z",
   "source": {
     "provider": "Google News RSS",
     "endpoint": "https://news.google.com/rss/search?q=stock+market+OR+economy+OR+inflation+OR+federal+reserve&hl=en-US&gl=US&ceid=US%3Aen",
     "query": "stock market OR economy OR inflation OR federal reserve"
   },
   "items": [
+    {
+      "title": "Wall St Week Ahead Sliding stock market confronts jobs data, rate view as next tests - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQWRTQ0tlUW54X0tjS2R6bWdzblVkUnZ5VnBCa2NjWkd5Q2xIWUh0MUFWVW4weVlRTTBpbDhFWTFsbmYwc2NqOERDdGxTZmpHTzdHRVk2b2o5U0RZYm1WMXZhaEJMRXFrQmxKaUViQXNNdE1XZ3RTT05VbmxqX3BYOXNONGFkMVFTU1VLVVRjTzdfUTloYnhJaVpsWS1YMV9FVGlmeUdYRmk0clkzM3FhQjZuUnRfYXdZRnVHdTE2Smo1V2M?oc=5",
+      "source": "Reuters",
+      "published_at": "Fri, 27 Nov 2026 11:03:46 GMT",
+      "summary": "Wall St Week Ahead Sliding stock market confronts jobs data, rate view as next tests Reuters",
+      "guid": "CBMiwwFBVV95cUxPQWRTQ0tlUW54X0tjS2R6bWdzblVkUnZ5VnBCa2NjWkd5Q2xIWUh0MUFWVW4weVlRTTBpbDhFWTFsbmYwc2NqOERDdGxTZmpHTzdHRVk2b2o5U0RZYm1WMXZhaEJMRXFrQmxKaUViQXNNdE1XZ3RTT05VbmxqX3BYOXNONGFkMVFTU1VLVVRjTzdfUTloYnhJaVpsWS1YMV9FVGlmeUdYRmk0clkzM3FhQjZuUnRfYXdZRnVHdTE2Smo1V2M"
+    },
+    {
+      "title": "Wild Market Swings Are Colliding With a Fed Bent on Taming Inflation - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNktjNDdMSmJmZDNsOE1CbkdBZVBNS2ZrVEJSUXQtazcwMUs3MHRwbk5xNmN4YmxhTC1OcUdlRVBDVmtiWXZYckVLQ1pOMFMxbXhPaXpsdjdMejlzLW5TMjYxYUVHQUJUamVMaERpbmIwSXd2bUoyMFJLWUcxV0JDZVVvUjE0UmRjaDdJTlJneE9CRnFrZ1dkZGdzeVA5MEtsSG93T0gySzktblJRWGZQUGlsUGVDXzNqRUtvV1pR?oc=5",
+      "source": "WSJ",
+      "published_at": "Thu, 26 Nov 2026 01:00:00 GMT",
+      "summary": "Wild Market Swings Are Colliding With a Fed Bent on Taming Inflation WSJ",
+      "guid": "CBMivgFBVV95cUxNNktjNDdMSmJmZDNsOE1CbkdBZVBNS2ZrVEJSUXQtazcwMUs3MHRwbk5xNmN4YmxhTC1OcUdlRVBDVmtiWXZYckVLQ1pOMFMxbXhPaXpsdjdMejlzLW5TMjYxYUVHQUJUamVMaERpbmIwSXd2bUoyMFJLWUcxV0JDZVVvUjE0UmRjaDdJTlJneE9CRnFrZ1dkZGdzeVA5MEtsSG93T0gySzktblJRWGZQUGlsUGVDXzNqRUtvV1pR"
+    },
     {
       "title": "Hawkish Fed poised to raise rates despite stock market turmoil - Financial Times",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNREd0RUx1TTJiVHRreUdrdTRYNk5HdVNmMFp4SURfa3c2S1NmalFseWJ5VnZqWkxJZ1gzR1FtZkNjZnJWRzRrU05hNUJCYVhOdGk2RzJRU1NiTVRnYXd4bThxWlhZSmpsMzlGMXZGc0lPaFo3R0FydU5fYkc0Y1c1U0pzSUY?oc=5",
@@ -15,44 +31,20 @@
       "guid": "CBMihAFBVV95cUxNREd0RUx1TTJiVHRreUdrdTRYNk5HdVNmMFp4SURfa3c2S1NmalFseWJ5VnZqWkxJZ1gzR1FtZkNjZnJWRzRrU05hNUJCYVhOdGk2RzJRU1NiTVRnYXd4bThxWlhZSmpsMzlGMXZGc0lPaFo3R0FydU5fYkc0Y1c1U0pzSUY"
     },
     {
-      "title": "Fed survey shows continued economic growth, sticky inflation in recent weeks - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZm5vWXNOWWIxaUVxUEVsRDBCWmpwYmd6eWJMLW1tcnJMVmxvR08ybXFaYWlFcVZ2YU1fYk9hbWotWlBXTzVValBHSFFzNjM1QlpyVWNCXzFPTFRZMUtWeHp0SThmaWxRMTVYVXp3UlM2R3pKQnVNS2hiZ1VERU9EVnFGNlA5dGZEa1NtZ1o5REVxM3ZzX2ZpOXRaN0lydzlDZk1VQ2FlS212U3dw?oc=5",
-      "source": "Reuters",
-      "published_at": "Wed, 25 Nov 2026 20:42:46 GMT",
-      "summary": "Fed survey shows continued economic growth, sticky inflation in recent weeks Reuters",
-      "guid": "CBMirAFBVV95cUxQZm5vWXNOWWIxaUVxUEVsRDBCWmpwYmd6eWJMLW1tcnJMVmxvR08ybXFaYWlFcVZ2YU1fYk9hbWotWlBXTzVValBHSFFzNjM1QlpyVWNCXzFPTFRZMUtWeHp0SThmaWxRMTVYVXp3UlM2R3pKQnVNS2hiZ1VERU9EVnFGNlA5dGZEa1NtZ1o5REVxM3ZzX2ZpOXRaN0lydzlDZk1VQ2FlS212U3dw"
+      "title": "Is the U.S. stock market crash the Federal Reserve’s fault? Former Goldman Sachs strategist urges prompt dovish signals - 富途牛牛",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQUpmUGREQTVQaXREVVg1SE9TaHZ2STg5dTNtNkJwNmxtT3Bac2plLURmanNVMTNoUWV3WWg1bDNRYk1zZnJxVWVzTmYzOWJHd1lub0xMRVNMSjFnTENkQlZTdEF5bFBIQlJmU0ZqZ2pDNEFhc2xuLW1SOUFVZU1uRmlncUFnZ2E0dVhkc0o2ZmN0bzcxRFZhUQ?oc=5",
+      "source": "富途牛牛",
+      "published_at": "Fri, 27 Nov 2026 09:35:17 GMT",
+      "summary": "Is the U.S. stock market crash the Federal Reserve’s fault? Former Goldman Sachs strategist urges prompt dovish signals 富途牛牛",
+      "guid": "CBMimAFBVV95cUxNQUpmUGREQTVQaXREVVg1SE9TaHZ2STg5dTNtNkJwNmxtT3Bac2plLURmanNVMTNoUWV3WWg1bDNRYk1zZnJxVWVzTmYzOWJHd1lub0xMRVNMSjFnTENkQlZTdEF5bFBIQlJmU0ZqZ2pDNEFhc2xuLW1SOUFVZU1uRmlncUFnZ2E0dVhkc0o2ZmN0bzcxRFZhUQ"
     },
     {
-      "title": "President Trump Just Hit Stock Market Investors With Bad News at a Bad Time - The Motley Fool",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQS1NGUWtCYlpYWEJQdkFUR0JRS2ZqWHluekdjVDNrNmJNZWctVE1Ib0VQU05ucHp3MEswMnpwQlpGVWNIdzRPWmNnbWltUE5CNGtHRElmaGdhelk5RHY1N2l6eW4tS1MzV01wR0U1TEhMek9lMVZsRjIxV0tMbldQbHg4QjlqOEJ5bzBtd3A1TWw1VC0zTHRCWFNIT1Y0bVJp?oc=5",
+      "title": "The Latest Interest Rate Forecast Is In, and It Spells Trouble for a Historically Expensive AI-Driven Bull Market - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNUQ2dWl3MjU3dV9qUnRabE1faktrMmlwaXkzZXRGRVJyVnN3dU11d0RTenNteGJrSElPX1YzUURpMW5NN0dBelJrSkxtalItMkh2MnlRbldJa1RGQm1MNzktZjdaeE9NekMzVHJnTFd6akg5VWFYcTFLOHFxcXFMQ2hoTzJyV1JWbmZSckFTQjhtalhGWnAyOWRaVFBsd1hpaEp5UkhMRURSQXBJQk56RlRFMGtDNFJHZTFtcG1YY0lYUks4STNwd1Azbw?oc=5",
       "source": "The Motley Fool",
-      "published_at": "Thu, 26 Nov 2026 10:12:02 GMT",
-      "summary": "President Trump Just Hit Stock Market Investors With Bad News at a Bad Time The Motley Fool",
-      "guid": "CBMioAFBVV95cUxQS1NGUWtCYlpYWEJQdkFUR0JRS2ZqWHluekdjVDNrNmJNZWctVE1Ib0VQU05ucHp3MEswMnpwQlpGVWNIdzRPWmNnbWltUE5CNGtHRElmaGdhelk5RHY1N2l6eW4tS1MzV01wR0U1TEhMek9lMVZsRjIxV0tMbldQbHg4QjlqOEJ5bzBtd3A1TWw1VC0zTHRCWFNIT1Y0bVJp"
-    },
-    {
-      "title": "Newly proposed tariffs raise chances of the Fed keeping interest rates higher for longer - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUVBPbUFTb1h0MEdxOXBWX1N0V0V3MXFNSktwOTJKc25xOWdpczFIbHFSZ0JYalM1QUNGdUtnUVZRSkFOdURVLTROQndxYlZnZUJaaUdpdURidXRtYUF3VnJtS21yQ2ZQd1BzeE9DSjh3X0w4aWZOVFJ1ZVp0VFNyUkVuOHlkWFd5NUlCYmZUc3VXQkd6Rnp3U01kT1Z1cTlSZnhMZ1VFZkFTcm01MDI1TDNuc08zMk1JeDB4NTJiaEU5OEpBQWR2NllWUmxDenB2emFpR2Q5R3k5dno3ODBxVGs0UndyeU0?oc=5",
-      "source": "Yahoo Finance",
-      "published_at": "Thu, 26 Nov 2026 11:16:49 GMT",
-      "summary": "Newly proposed tariffs raise chances of the Fed keeping interest rates higher for longer Yahoo Finance",
-      "guid": "CBMi5wFBVV95cUxNUVBPbUFTb1h0MEdxOXBWX1N0V0V3MXFNSktwOTJKc25xOWdpczFIbHFSZ0JYalM1QUNGdUtnUVZRSkFOdURVLTROQndxYlZnZUJaaUdpdURidXRtYUF3VnJtS21yQ2ZQd1BzeE9DSjh3X0w4aWZOVFJ1ZVp0VFNyUkVuOHlkWFd5NUlCYmZUc3VXQkd6Rnp3U01kT1Z1cTlSZnhMZ1VFZkFTcm01MDI1TDNuc08zMk1JeDB4NTJiaEU5OEpBQWR2NllWUmxDenB2emFpR2Q5R3k5dno3ODBxVGs0UndyeU0"
-    },
-    {
-      "title": "Tracker: The Federal Reserve’s Balance Sheet Assets - The American Action Forum",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0?oc=5",
-      "source": "The American Action Forum",
-      "published_at": "Mon, 23 Nov 2026 08:00:00 GMT",
-      "summary": "Tracker: The Federal Reserve’s Balance Sheet Assets The American Action Forum",
-      "guid": "CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0"
-    },
-    {
-      "title": "Bill Ackman says Federal Reserve is 'about to make another mistake' - Fox Business",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUE9HVW1nMUdjOGFRNk5ndXFqUmZRZTRQYnlaUnRZdDRCcFI3RXlUNWNKQkRfeHREMDUtb0pyUWRBTWVra1hjVUlSZzhMVGxiSTExVmIzUWtFTk9wb3VuOHNOVkdyNXRURjFUSTJpLTRaUTA1UUd6S1JfMkpLVUQ2Q3VJMkQxN1FQa0ZFMXNyUU1takl1WlEwRDBNTdIBoAFBVV95cUxNRHNsdWxrWGhsRlFiSDFZclhXNWFfMHY5Nks0MXdWMzh2eWdjNHFMaGFzNjNjODJkTmJWN3FnU2NzQVA4d2x6NFM3VjRCUGd0bF92b2xlNVNiS3FaOC15clZxM1daOXhCai1IZXRRUGVuRzV3Ml9pamMwZFRiSTN4Ull5bk4tQnpISmxWYjBHZjJ6WGwwd0xQalA2dVJzN25W?oc=5",
-      "source": "Fox Business",
-      "published_at": "Mon, 23 Nov 2026 21:47:00 GMT",
-      "summary": "Bill Ackman says Federal Reserve is 'about to make another mistake' Fox Business",
-      "guid": "CBMimwFBVV95cUxPUE9HVW1nMUdjOGFRNk5ndXFqUmZRZTRQYnlaUnRZdDRCcFI3RXlUNWNKQkRfeHREMDUtb0pyUWRBTWVra1hjVUlSZzhMVGxiSTExVmIzUWtFTk9wb3VuOHNOVkdyNXRURjFUSTJpLTRaUTA1UUd6S1JfMkpLVUQ2Q3VJMkQxN1FQa0ZFMXNyUU1takl1WlEwRDBNTdIBoAFBVV95cUxNRHNsdWxrWGhsRlFiSDFZclhXNWFfMHY5Nks0MXdWMzh2eWdjNHFMaGFzNjNjODJkTmJWN3FnU2NzQVA4d2x6NFM3VjRCUGd0bF92b2xlNVNiS3FaOC15clZxM1daOXhCai1IZXRRUGVuRzV3Ml9pamMwZFRiSTN4Ull5bk4tQnpISmxWYjBHZjJ6WGwwd0xQalA2dVJzN25W"
+      "published_at": "Fri, 27 Nov 2026 09:06:02 GMT",
+      "summary": "The Latest Interest Rate Forecast Is In, and It Spells Trouble for a Historically Expensive AI-Driven Bull Market The Motley Fool",
+      "guid": "CBMiywFBVV95cUxQNUQ2dWl3MjU3dV9qUnRabE1faktrMmlwaXkzZXRGRVJyVnN3dU11d0RTenNteGJrSElPX1YzUURpMW5NN0dBelJrSkxtalItMkh2MnlRbldJa1RGQm1MNzktZjdaeE9NekMzVHJnTFd6akg5VWFYcTFLOHFxcXFMQ2hoTzJyV1JWbmZSckFTQjhtalhGWnAyOWRaVFBsd1hpaEp5UkhMRURSQXBJQk56RlRFMGtDNFJHZTFtcG1YY0lYUks4STNwd1Azbw"
     },
     {
       "title": "Downside Risk to the Stock Market and Consumption - Federal Reserve Bank of Atlanta",
@@ -63,12 +55,20 @@
       "guid": "CBMi0AFBVV95cUxOYTBzZEUwUk5XQmpmbTV4WWhEdWp2dGNxaGlJWE03aGFUQk13VFZVTjhUZ2dGOUVOSXFfOWR2X3FERkg3bDVXQmJfa3lIY2dXZ2hoUFgtNE9yWmY3SmprbEZUcmdCRVJfb3otWEpSTEJISkNNQTZBaUgxaUZ0cXF4Mmt5WFBieTQ5UlJjOVJUMFhlU3pZeW9Wc1FCTUNoTDBiR0FWczlJTy1sZGljdC1pSUJRSy04cmhfQ1kzOVV2UDhHMHIwSUh6amNiVHBGNTBW"
     },
     {
-      "title": "Bill Ackman says the U.S. economy could be headed for another recession—and is blaming Kevin Warsh’s Fed - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN3VCOE5ObEdOWFpHOUdKMmRIa2RKNjdkVEFia3VpTzFLSlZyZkhoaVVhSDNZQVdwMElQNG9ya0ZFZXhFcTFnS0ZkdDZ6T1hWYWRVQTV1V0diTzVjSldtQmFmdmZFQzllQjBHNVJCcFhnSXNRZTlqZXVLS0JvQUZaWEtndFY5QU5aV0VRN1VMdw?oc=5",
-      "source": "Fortune",
-      "published_at": "Tue, 24 Nov 2026 14:59:00 GMT",
-      "summary": "Bill Ackman says the U.S. economy could be headed for another recession—and is blaming Kevin Warsh’s Fed Fortune",
-      "guid": "CBMijwFBVV95cUxQN3VCOE5ObEdOWFpHOUdKMmRIa2RKNjdkVEFia3VpTzFLSlZyZkhoaVVhSDNZQVdwMElQNG9ya0ZFZXhFcTFnS0ZkdDZ6T1hWYWRVQTV1V0diTzVjSldtQmFmdmZFQzllQjBHNVJCcFhnSXNRZTlqZXVLS0JvQUZaWEtndFY5QU5aV0VRN1VMdw"
+      "title": "Tracker: The Federal Reserve’s Balance Sheet Assets - The American Action Forum",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0?oc=5",
+      "source": "The American Action Forum",
+      "published_at": "Mon, 23 Nov 2026 08:00:00 GMT",
+      "summary": "Tracker: The Federal Reserve’s Balance Sheet Assets The American Action Forum",
+      "guid": "CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0"
+    },
+    {
+      "title": "President Trump Just Hit Stock Market Investors With Bad News at a Bad Time - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWnRGakQ1eUZ0VExDNTRFOVN5Mm01NHZPTENfQTc2em0yRlg5R1kyOVV4cE94dFVlbHFuelc4VW5mVFVZX2lTdzdlWG50cEVXdUZFVDF3eHlqUmdObDllZFBjMTZsVmlTa2dPRzVjTEpxamtUb2lyMHdsZXAwYkZlVXBoUHFINF9naFdKNmxTV2lXZWhiYURRQ3RBYw?oc=5",
+      "source": "Yahoo Finance",
+      "published_at": "Thu, 26 Nov 2026 10:32:02 GMT",
+      "summary": "President Trump Just Hit Stock Market Investors With Bad News at a Bad Time Yahoo Finance",
+      "guid": "CBMimwFBVV95cUxPWnRGakQ1eUZ0VExDNTRFOVN5Mm01NHZPTENfQTc2em0yRlg5R1kyOVV4cE94dFVlbHFuelc4VW5mVFVZX2lTdzdlWG50cEVXdUZFVDF3eHlqUmdObDllZFBjMTZsVmlTa2dPRzVjTEpxamtUb2lyMHdsZXAwYkZlVXBoUHFINF9naFdKNmxTV2lXZWhiYURRQ3RBYw"
     },
     {
       "title": "The AI Boom's Two Engines - Peterson Institute for International Economics",
